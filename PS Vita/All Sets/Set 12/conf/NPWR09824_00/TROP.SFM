@@ -1,0 +1,140 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000f60259319a234bcf08a2a2a0b2d8a40fe84090fe1d67ef0c8ead03327b12d761fc7f7f99005e3debbc605a82faa448aec92cbdd1b98508235c9cff626c80173b9b7e255ab41563f3e2f15efedd4f4a33a6e6d24596395739248460e9258bc7e0ad16b44674de8d362f3ca0ca9a78d0097f36c9ecbd2ca01fd0bfb18034089f6150134d13b9d99028aa934c0d7d2534386dbb119c-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR09824_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>ZERO ESCAPE 刻のジレンマ</title-name>
+ <title-detail>ZERO ESCAPE　刻のジレンマのトロフィー</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>ZERO ESCAPE</name>
+  <detail>全てのトロフィーを取得</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>謎解き初心者</name>
+  <detail>Questパートを1ステージクリアした</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="S" pid="000">
+  <name>謎解き中級者</name>
+  <detail>Questパートを6ステージクリアした</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="G" pid="000">
+  <name>謎解き上級者</name>
+  <detail>Questパートを全13ステージクリアした</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>知識の切れ端</name>
+  <detail>Cinema FILEをひとつ入手した</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>知識の事典</name>
+  <detail>Cinema FILEを全て入手した</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>近道への知恵</name>
+  <detail>Quest FILEをひとつ入手した</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>最短への知恵</name>
+  <detail>Quest FILEを全て入手した</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>終わりか始まり</name>
+  <detail>CQD-END：1を見た</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>そして月へ……</name>
+  <detail>C-END：1を見た</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>真実は目に見えない</name>
+  <detail>Q-END：1を見た</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>見逃されていた危険人物</name>
+  <detail>Q-END：2を見た</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>止められなかった未来</name>
+  <detail>D-END：1を見た</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>希望と絶望</name>
+  <detail>D-END：2を見た</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="G" pid="000">
+  <name>最後のDecision</name>
+  <detail>CQD-END：2を見た</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>これもひとつの運命だ</name>
+  <detail>バッドエンドを初めて見た</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>90分の記憶</name>
+  <detail>物語の断片のコンプリート演出を初めて見る</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="S" pid="000">
+  <name>Cの歴史の観測者</name>
+  <detail>Cチームの物語の断片を全てクリアする</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="S" pid="000">
+  <name>Qの歴史の観測者</name>
+  <detail>Qチームの物語の断片を全てクリアする</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="S" pid="000">
+  <name>Dの歴史の観測者</name>
+  <detail>Dチームの物語の断片を全てクリアする</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="G" pid="000">
+  <name>SHIFTER</name>
+  <detail>全ての物語の断片をクリアする</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>決死の２進法</name>
+  <detail>本物の解毒剤を飲む</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="B" pid="000">
+  <name>助かるために命を捨てて</name>
+  <detail>茜を守ってX-Passを入手する</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>いつか来る強運</name>
+  <detail>ダイスを3つ振って全ての目が1になる</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="000">
+  <name>現実が直観と反する時</name>
+  <detail>モンティホール問題に正解する</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="G" pid="000">
+  <name>刻を超えた結末</name>
+  <detail>あの人を撃つ</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>プログラムされた幸福</name>
+  <detail>仮想空間で幸せな人生を送る</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="B" pid="000">
+  <name>押すなよ？絶対に押すなよ？</name>
+  <detail>押しちゃダメボタンを押したくなる誘惑に耐える</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="B" pid="000">
+  <name>50%の運命</name>
+  <detail>空包を撃ち、ファイとシグマが生存する</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="B" pid="000">
+  <name>忘れるはずがない</name>
+  <detail>双子の誕生日を正解する</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="B" pid="000">
+  <name>脱いだらすごいタイプ</name>
+  <detail>頭の球体の解除に成功する</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="B" pid="000">
+  <name>善人志望デス</name>
+  <detail>早い者勝ち抹殺ボタンを押さず、全チーム生存する</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="S" pid="000">
+  <name>強制終了者達</name>
+  <detail>3チームとも強制終了箱の起動に成功する</detail>
+ </trophy>
+</trophyconf>

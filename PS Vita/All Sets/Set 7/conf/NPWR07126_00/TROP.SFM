@@ -1,0 +1,48 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000000d5c92b99a867da4023b93d3147722d75aa87d189b9502730b84351885f4716bb8ecb959b609f06181b3993aa09f49dd64fed9eaf4362a98891eefb056e4512d91b12dfe8f237e93cbc91af81fb81f4a4783a2b0d279b895bbbeacecfaf425717cb5db6d3d9e624d8f6a34bb60b00c2eb0f55e10e99eb9e221a3668772a07c85f0698e2c32eb4cfc1cb7f031546b99491a6af06e-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR07126_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Citizens of Earth</title-name>
+ <title-detail>The Trophy Set of Citizens of Earth</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Junior Statesman</name>
+  <detail>Recruit 5 Citizens</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="-1">
+  <name>Career Politician</name>
+  <detail>Recruit 25 Citizens</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="-1">
+  <name>World Leader</name>
+  <detail>Recruit all 40 Citizens</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Intelligence Network</name>
+  <detail>Find 100 treasures</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Globetrotter</name>
+  <detail>Discover 30 locations</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="G" pid="-1">
+  <name>Crisis Averted</name>
+  <detail>Defeat the Secretary Supreme</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>No Citizen Left Behind</name>
+  <detail>Enroll 9 citizens simultaneously in School</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>New Sheriff in Town</name>
+  <detail>Complete all Wanted Poster quests</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Roll Up Your Sleeves</name>
+  <detail>Complete all Extermination quests</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>Paparazzi</name>
+  <detail>Complete all Photography quests</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,56 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000dea38396e59be6e119466f66c5b711c5ec9546f862963c3dfd856ae72498df285ec6a57acc89b645d5f5c983529aa45cff9581c44e698e1e8dc58ccc64b14a200500208dba70f573f6f6a2bc15b1dbd9b119c670e983f85e237af8b98eb505ca2f58bc70152632bcd143836a7fa6f3c5c0a2f0dbd2f640e73c2aa859613fdc255e5cef7b64de40ab6f2e006ed1481b8c52859232-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR18322_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Hoggy2</title-name>
+ <title-detail>Hoggy2</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Platinum Hoggy</name>
+  <detail>Get all other trophies.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>Playing the safe way!</name>
+  <detail>Get 20 keys in Kid Mode.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>It's time to grow up!</name>
+  <detail>Complete Kid Mode.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>Teach him a lesson!</name>
+  <detail>Defeat the 1st Moon Man in Normal Mode.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>Starry Starry Night</name>
+  <detail>Grab a bonus star out of any level in Normal Mode.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>The key to success!</name>
+  <detail>Get 5 keys in Normal Mode.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>The Housekeeper!</name>
+  <detail>Get 10 keys in Normal Mode.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>Master of Keys!</name>
+  <detail>Get 20 keys in Normal Mode.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>Try again!</name>
+  <detail>Be smushed.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>Burning all!</name>
+  <detail>Eat a jalapeno in Normal Mode.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>Saving Progress!</name>
+  <detail>Reach a checkpoint in Normal Mode.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>Getting Stronger!</name>
+  <detail>Eat an acorn in Normal Mode.</detail>
+ </trophy>
+</trophyconf>

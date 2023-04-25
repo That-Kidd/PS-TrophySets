@@ -1,0 +1,48 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000b911e82b7e5b393172806142da270f858633461818664d1784c5c061b0d7dd0610bf6def585ff6f10fd24a7dbd1100ea395c7c62d500febe035747ab7b8912c6f39836ac2fc987945fdfd3a588cbd4e672108cebd9045ce27e81dd3f068f419592056eb9aa09acfa6e30b782e1d09c9c1d7321aed1c4be8db125b6571389770977e2de0f604da4f783725dfbc44b153c1485b019-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR05521_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Fort Defense Trophies</title-name>
+ <title-detail>Fort Defense Trophies</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>One thousand demons</name>
+  <detail>1000 ships sunk</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="-1">
+  <name>Invulnerable</name>
+  <detail>All episode levels completed with 3 stars</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="-1">
+  <name>Top marks</name>
+  <detail>Level completed without using more than 5 towers</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Favorite tower</name>
+  <detail>All improvements purchased on a single tower</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="-1">
+  <name>Warlock</name>
+  <detail>One spell improved to maximum level&#x0a;</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Strike me down!</name>
+  <detail>Level failed 3 times in a row</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="-1">
+  <name>Last chance</name>
+  <detail>Level completed with last remaining life</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Sea dog</name>
+  <detail>Level completed in fast mode</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Long John Silver</name>
+  <detail>Only one enemy ship attacked the outpost gates during the level</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="-1">
+  <name>Magic storm</name>
+  <detail>200 spells cast</detail>
+ </trophy>
+</trophyconf>

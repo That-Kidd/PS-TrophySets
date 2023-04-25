@@ -1,0 +1,72 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000d497376f3d2009a531db62e0a1ffa773beb2e535c14e20c8f0d96df15ae8820ad19b5768972972bb2d82831730e41c02ae4f3be7a973480d0570c6ded810c1152c9cd6bf1aeb45fd9fd220367a1ffa4fc2f93c0ef412ec9b2472ee227c0a4a5d380fcd2103408d5f698af26be03281aea36877d6cd5a8c12ef8915964e44cabc6385fcfab702737c270d6d4b8998d8f6d55cc426-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR10071_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>マブラヴ</title-name>
+ <title-detail>マブラヴ トロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>マブラヴ</name>
+  <detail>マブラヴ全トロフィーコンプリート</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>EXTRA</name>
+  <detail>マブラヴ開始！</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>I will -a</name>
+  <detail>EX純夏エンド</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>I will -b</name>
+  <detail>EX冥夜エンド</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>傷は化石にならないけれど</name>
+  <detail>EX千鶴エンド</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>Astraea</name>
+  <detail>EX慧エンド</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>リトル・モア</name>
+  <detail>EX壬姫エンド</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>日常その1</name>
+  <detail>EX日常エンド1</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>日常その2</name>
+  <detail>EX日常エンド2</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="G" pid="000">
+  <name>EXTRA-Complete!!</name>
+  <detail>エクストラのエンディングを全て見た</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>UNLIMITED</name>
+  <detail>アンリミテッドを開放した</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="G" pid="000">
+  <name>遙かなる地球の歌</name>
+  <detail>アンリミテッドのエンディングを1つ見た</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="G" pid="000">
+  <name>UNLIMITED-Complete!!</name>
+  <detail>アンリミテッドのエンディングを全て見た</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="000">
+  <name>パンチドランカー</name>
+  <detail>「どりるみるきいぱんち」を5回食らった</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="000">
+  <name>MUSIC</name>
+  <detail>ミュージック解放</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="G" pid="000">
+  <name>ALBUM100%</name>
+  <detail>アルバム100%</detail>
+ </trophy>
+</trophyconf>

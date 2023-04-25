@@ -1,0 +1,216 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000002868a1b98e43b517a5a4ed1aa93128b205f9e4c8a99688b12fa69c2eb94ea16ad7b63dd80eba8253770d43ac10107f0cc414cc0c3528536022c9723cc047ef2b5d499b6da7137453621c20f8a68a6ee5cb7b8162b229adeeb80230518bf55603253d9c05131cd87a2176f77f5b37b2e0883e79b3649f7df5b2f88a4a2ff0443a279afeba02350aee7de3373dbc583cb2d25fe2e4-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR04784_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Ys: Memories of Celceta</title-name>
+ <title-detail>Trophy set for Ys: Memories of Celceta.</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Timeless Adventurer</name>
+  <detail>Acquired all trophies.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>Master Cartographer</name>
+  <detail>Completed the Map of Celceta.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>Memories Unfogged</name>
+  <detail>Restored all lost memories.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>Treasure Hunter</name>
+  <detail>Opened every treasure chest.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>Stupendous Scavenger</name>
+  <detail>Discovered every resource point.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>All the Things</name>
+  <detail>Acquired at least one of every item.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>Monster Meister</name>
+  <detail>Filled out all monster details in journal.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>Material Boy</name>
+  <detail>Filled out all material details in journal.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>Philanthropist</name>
+  <detail>Successfully completed every quest.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>Wordless Affinity</name>
+  <detail>Befriended all animals.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>Mishy Masher</name>
+  <detail>Found all of Mishy's hiding spots.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>Jack of All Trades</name>
+  <detail>Mastered every skill.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>Only the Best Will Do</name>
+  <detail>Enhanced a weapon or armor to its limit.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>Money For Something</name>
+  <detail>Amassed one million gold.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>Sea of Trees Unbroken</name>
+  <detail>Cleared all obstructed paths.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>Tickled Pink</name>
+  <detail>Endured all of Zara's tickle sessions.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Heard It All</name>
+  <detail>Purchased every piece of info from Mouse.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Touche, Salesman</name>
+  <detail>Proved your skill as a merchant.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>Trails in the Mud</name>
+  <detail>Walked an extraordinary total distance.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Valorous Vanquisher</name>
+  <detail>Defeated two thousand enemies.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>Impenetrable</name>
+  <detail>Successfully used Flash Guard fifty times.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>Now You See Me</name>
+  <detail>Successfully used Flash Move fifty times.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>Things Are Looking Up</name>
+  <detail>Achieved one thousand Aerial Combos.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>When You Got It</name>
+  <detail>Achieved five hundred Skill Finishes.</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>Cunning Strategist</name>
+  <detail>Achieved five hundred Excellent Kills.</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>Gold Hunter</name>
+  <detail>Defeated a rare golden foe.</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>Lord of the Jungle</name>
+  <detail>Defeated the ruler of the Great Forest.</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>Swordsman Extraordinaire</name>
+  <detail>Played extensively as Adol.</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>Well-Traveled Informant</name>
+  <detail>Played extensively as Duren.</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>Master Huntress</name>
+  <detail>Played extensively as Karna.</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>Terrific Tribal Chief</name>
+  <detail>Played extensively as Ozma.</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>Apostle for the Ages</name>
+  <detail>Played extensively as Calilica.</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>Enchanting Storyteller</name>
+  <detail>Played extensively as Frieda.</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="B" pid="000">
+  <name>In Search of Lost Memories</name>
+  <detail>Began your adventure in Celceta.</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="B" pid="000">
+  <name>Mine Raider</name>
+  <detail>Successfully rescued the trapped miners.</detail>
+ </trophy>
+ <trophy id="035" hidden="yes" ttype="B" pid="000">
+  <name>Proof of Life</name>
+  <detail>Discovered a settlement in the Great Forest.</detail>
+ </trophy>
+ <trophy id="036" hidden="yes" ttype="B" pid="000">
+  <name>Homecoming For Some</name>
+  <detail>Solved the mystery of the missing villagers.</detail>
+ </trophy>
+ <trophy id="037" hidden="yes" ttype="B" pid="000">
+  <name>Pure Waters</name>
+  <detail>Resolved the polluted river dilemma.</detail>
+ </trophy>
+ <trophy id="038" hidden="yes" ttype="B" pid="000">
+  <name>Closer to the Truth</name>
+  <detail>Successfully arrived in the Primeval Lands.</detail>
+ </trophy>
+ <trophy id="039" hidden="yes" ttype="B" pid="000">
+  <name>White Wings</name>
+  <detail>Reunited with Eldeel at the Tower of Providence.</detail>
+ </trophy>
+ <trophy id="040" hidden="yes" ttype="B" pid="000">
+  <name>A Storied Village</name>
+  <detail>Located the underground village of Danan.</detail>
+ </trophy>
+ <trophy id="041" hidden="yes" ttype="B" pid="000">
+  <name>Lost Kingdom</name>
+  <detail>Arrived in the ruined capital, Elduke.</detail>
+ </trophy>
+ <trophy id="042" hidden="yes" ttype="B" pid="000">
+  <name>Mask In Hand</name>
+  <detail>Acquired both halves of the Mask of the Sun.</detail>
+ </trophy>
+ <trophy id="043" hidden="yes" ttype="B" pid="000">
+  <name>Beyond Lies Your Goal</name>
+  <detail>Opened the door to the Temple of the Sun.</detail>
+ </trophy>
+ <trophy id="044" hidden="yes" ttype="B" pid="000">
+  <name>The Darkling Ordeal</name>
+  <detail>Overcame Gruda's trial.</detail>
+ </trophy>
+ <trophy id="045" hidden="yes" ttype="B" pid="000">
+  <name>Adventurer</name>
+  <detail>Completed the main story.</detail>
+ </trophy>
+ <trophy id="046" hidden="yes" ttype="B" pid="000">
+  <name>Better Man</name>
+  <detail>Defeated Duren in one-on-one combat.</detail>
+ </trophy>
+ <trophy id="047" hidden="yes" ttype="S" pid="000">
+  <name>Waking Dream</name>
+  <detail>Cleared the game on Nightmare difficulty.</detail>
+ </trophy>
+ <trophy id="048" hidden="yes" ttype="B" pid="000">
+  <name>Reckless Abandon</name>
+  <detail>Defeated a boss in Time Attack in thirty seconds or less.</detail>
+ </trophy>
+ <trophy id="049" hidden="yes" ttype="S" pid="000">
+  <name>Like the Wind</name>
+  <detail>Defeated a boss in Time Attack without taking damage.</detail>
+ </trophy>
+ <trophy id="050" hidden="yes" ttype="B" pid="000">
+  <name>The Strongest Pro</name>
+  <detail>Conquered Boss Rush.</detail>
+ </trophy>
+ <trophy id="051" hidden="yes" ttype="S" pid="000">
+  <name>Untouchable</name>
+  <detail>Conquered Boss Rush without a single retry.</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,136 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000000ec9fd7ac66fc2d7fe92492ba71710b30ec7fa0b025878996ea9b95726865ccde86f511020c64bd20bbaea34f1d7fef958c3e00df92e48c481971eb780c88bc701d37b4bd080224c6506e1c1be9600d6ad1040c310cb6bb1cdfc59697980c2088533d39376fcf51d554eea0e15269ece030970fb99e138c8c8e4dae5c31ed310f35c749659040f11d0bfff480218a92eb9c88df3-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR09335_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Code: Realize ~Guardian of Rebirth~</title-name>
+ <title-detail>Code: Realize ~Guardian of Rebirth~</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>C: R Master</name>
+  <detail>Obtain all trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>The Miracle Begins</name>
+  <detail>Clear the Prologue</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Steel London</name>
+  <detail>Clear Chapter 1</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>The Gathering</name>
+  <detail>Clear Chapter 2</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>For an Objective</name>
+  <detail>Clear Chapter 3</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>Reunion</name>
+  <detail>Clear Chapter 4</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>The Vampire King</name>
+  <detail>Clear Chapter 5</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>Life-Threatening Talks</name>
+  <detail>Clear Chapter 6</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>The Great Sky Battle</name>
+  <detail>Clear Chapter 7</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="000">
+  <name>The 666th Girl</name>
+  <detail>Clear Chapter 8</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="000">
+  <name>Avenger</name>
+  <detail>Start Van Helsing's route</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>Sinner</name>
+  <detail>Start Victor's route</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="B" pid="000">
+  <name>Dreamchaser</name>
+  <detail>Start Impey's route</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="000">
+  <name>Temptation</name>
+  <detail>Start Saint-Germain's route</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="B" pid="000">
+  <name>What He Chose</name>
+  <detail>Clear Van Helsing's route</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>The World, With You</name>
+  <detail>Clear Victor's route</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>Honest Love</name>
+  <detail>Clear Impey's route</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>Undying Love</name>
+  <detail>Clear Saint-Germain's route</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>Graceful Thief</name>
+  <detail>Start Lupin's route</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="S" pid="000">
+  <name>Guardian of Rebirth</name>
+  <detail>Clear Lupin's route</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>Memories of Van Helsing</name>
+  <detail>Unlock all Van Helsing images</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>Memories of Victor</name>
+  <detail>Unlock all Victor images</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>Memories of Impey</name>
+  <detail>Unlock all Impey images</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>Memories of Saint-Germain</name>
+  <detail>Unlock all Saint-Germain images</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>Memories of Lupin</name>
+  <detail>Unlock all Lupin images</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="S" pid="000">
+  <name>Memories of the Journey</name>
+  <detail>Unlock all non-character images</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="G" pid="000">
+  <name>A World of Skin</name>
+  <detail>See everyone's extra scenes</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="G" pid="000">
+  <name>Woman of Knowledge</name>
+  <detail>Fill the Glossary</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="G" pid="000">
+  <name>Historical Mind</name>
+  <detail>Complete the Path of Genesis</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="G" pid="000">
+  <name>The Girl's Future</name>
+  <detail>See everyone's True Endings</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="G" pid="000">
+  <name>Doors to Memory</name>
+  <detail>See all ending movies</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="G" pid="000">
+  <name>Congratulations!</name>
+  <detail>Collect all images</detail>
+ </trophy>
+</trophyconf>

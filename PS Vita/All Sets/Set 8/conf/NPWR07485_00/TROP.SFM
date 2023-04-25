@@ -1,0 +1,124 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000f2d594de1ccebf6aa610196400d12efc926a69a089e779fe149e59f9794b760d295f8e6fd1bc6ece131f428f524e384e8c6dc4912d98d3989203db2d824d3be27d447aa52108b8896aa8768d9008914581a5096ab173945396bf802d67e59a3294942b60a4393b84ee0afeb9279d260e3dc964bfaa5bc6a1b105e1acf670aa03c064f102d5a22f93a95abc50231cc2cc5be4b21a-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR07485_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>百華夜光</title-name>
+ <title-detail>百華夜光のトロフィーリストです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>高天原一の花魁</name>
+  <detail>全てのトロフィーを獲得した。</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>動き続ける世界</name>
+  <detail>全てのムービーを取得した。</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>運命が廻りはじめる</name>
+  <detail>共通ルートをクリアした。</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>知恵の言葉</name>
+  <detail>初めて語録に文言が登録された。</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>向かう先は　～ 白蓮 ～</name>
+  <detail>白蓮の物語の分岐点を通過した。</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>向かう先は　～ 龍二 ～</name>
+  <detail>龍二の物語の分岐点を通過した。</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>向かう先は　～ 雪成 ～</name>
+  <detail>雪成の物語の分岐点を通過した。</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>向かう先は　～ 時景 ～</name>
+  <detail>時景の物語の分岐点を通過した。</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>向かう先は　～ 東雲 ～</name>
+  <detail>東雲の物語の分岐点を通過した。</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="000">
+  <name>向かう先は　～ 瑞樹 ～</name>
+  <detail>瑞樹の物語の分岐点を通過した。</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>千里の道も一歩から</name>
+  <detail>花魁度第一段階でクリアし、特典イラストが開放された。</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>恋い焦がれた自由を手に</name>
+  <detail>初めてのハッピーエンド（終章）を迎えた。</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>月に叢雲花に風</name>
+  <detail>初めてのバッドエンドを迎えた。</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>お職の身を約束されて</name>
+  <detail>花魁度第二段階でクリアし、特典イラストが開放された。</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>白蓮との未来</name>
+  <detail>白蓮ルートをクリアした。</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="S" pid="000">
+  <name>龍二との未来</name>
+  <detail>龍二ルートをクリアした。</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="S" pid="000">
+  <name>雪成との未来</name>
+  <detail>雪成ルートをクリアした。</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="S" pid="000">
+  <name>時景との未来</name>
+  <detail>時景ルートをクリアした。</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="S" pid="000">
+  <name>東雲との未来</name>
+  <detail>東雲ルートをクリアした。</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="S" pid="000">
+  <name>瑞樹との未来</name>
+  <detail>瑞樹ルートをクリアした。</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="S" pid="000">
+  <name>忍び寄る影の正体は</name>
+  <detail>東雲ルートが開放された。</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>一人前のお職花魁</name>
+  <detail>花魁度が最大でクリアし、特典イラストが開放された。</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>口に謡うて声にて聴かせ――……</name>
+  <detail>全てのシステムボイスを取得した。</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>小唄都々逸なんでもできて――……</name>
+  <detail>全てのBGMを取得した。</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="G" pid="000">
+  <name>隠されたもう１つの道</name>
+  <detail>隠しルートが解放された。</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="G" pid="000">
+  <name>三千世界の柵を越え――……</name>
+  <detail>全てのルートをクリアした。</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="G" pid="000">
+  <name>主と自由が見てみたい</name>
+  <detail>全てのルートのハッピーエンド（終章）とバッドエンドを見た。</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="G" pid="000">
+  <name>夢の追憶</name>
+  <detail>全てのCGを取得した。</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="G" pid="000">
+  <name>博識花魁</name>
+  <detail>全ての語録を取得した。</detail>
+ </trophy>
+</trophyconf>

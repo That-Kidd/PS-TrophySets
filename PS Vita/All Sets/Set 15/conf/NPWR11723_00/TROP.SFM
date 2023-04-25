@@ -1,0 +1,104 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000ad745cf584a6bdec9b12d5fe2fa900a945f4cfbc85bca201ec286c67f8755b41eed92be2f529c07acd535898a022ef59c7fbe889170ff8c889c8848a74077def82e2dad3c4223cd18ccadd5d66bf096c4ea821fd145195d9d1b70ede0ef8f2525575609f7b1a81bc2105ae439c644b9719f4d57e23330dc8bbadb8a122be5d97c135fe9fcd2d7d8fe0e0a336127171f4f3b99966-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR11723_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Timepiece Ensemble</title-name>
+ <title-detail>『Timepiece Ensemble』トロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Timepiece Ensemble</name>
+  <detail>全てのトロフィーを取得した</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>時間は欲しくない？</name>
+  <detail>12月20日を2回過ごした</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>ただいまより、蓬莱祭、開催です！</name>
+  <detail>蓬莱祭、開催！</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>あたしたち、恋人になったんだね……</name>
+  <detail>蔵前ななみルートに入りました</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>お兄ちゃん……嫌いになったり、しない……？</name>
+  <detail>月夜野ちあらルートに入りました</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>あなたがいないと困るのは、私の方ですから……</name>
+  <detail>柳橋桜織ルートに入りました</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>かっこよすぎて……ぼーっとしちゃった……</name>
+  <detail>湯島十和子ルートに入りました</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>もう告白したし、遠慮もいらない</name>
+  <detail>鳥越抄ルートに入りました</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="G" pid="000">
+  <name>なんでか、わからないけど……あたし、あなたに会えて、すごく嬉しいの……</name>
+  <detail>蔵前ななみルートをクリアした</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="G" pid="000">
+  <name>二人きりの時間は、これからもたくさん作れるから</name>
+  <detail>月夜野ちあらルートをクリアした</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="G" pid="000">
+  <name>これからも、よろしくお願いしますね</name>
+  <detail>柳橋桜織ルートをクリアした</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="G" pid="000">
+  <name>一緒に歩きながら、夢を叶えて見せるからっ</name>
+  <detail>湯島十和子ルートをクリアした</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="G" pid="000">
+  <name>わたしも愛してる、兄</name>
+  <detail>鳥越抄ルートをクリアした</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="G" pid="000">
+  <name>いらっしゃいませ！ ようこそ、喫茶ベルガモットへ！</name>
+  <detail>全てのヒロインルートをクリアした</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>さて、どこで寝ようか……</name>
+  <detail>初めて選択肢を選んだ</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="G" pid="000">
+  <name>すべては了承された</name>
+  <detail>本編中に全てのイベントＣＧを見た</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>ピアニストになります</name>
+  <detail>本編中に全てのＢＧＭを聴いた</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>凄いもの見つけちゃったのよ！</name>
+  <detail>賽の目倶楽部、復活編</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>わたしは……ちあら</name>
+  <detail>ちあら、闖入</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>ここにいた</name>
+  <detail>兄ドコサーチ</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="000">
+  <name>嬉しい……ありがとう、お兄ちゃん</name>
+  <detail>お兄ちゃんと呼べ！</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>また、ここに来てもいいかな</name>
+  <detail>駆け込み、十和子</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="B" pid="000">
+  <name>十和子と同じ場所というのは、なんだか懐かしい気がしますね</name>
+  <detail>柳橋桜織、襲来！</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>人もたくさんいて、楽しいところじゃない</name>
+  <detail>黒翼、東京に来る！</detail>
+ </trophy>
+</trophyconf>

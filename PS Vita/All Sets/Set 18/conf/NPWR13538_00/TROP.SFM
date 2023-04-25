@@ -1,0 +1,128 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000068fefbd40c989ed28a8e51f98562cea357fc983e84813978d25084bfd6d407aadc2d088fd62a87a797c545ce7c310e90f131149a2f09656152bdc06dd96bb278cf3197bfb357dcea8b8aab79d39491441b8d7d19d054ce09bb631348798f3ef73324999eccbfc41f6039c3273a697b7b4b51fefffbe752ebc960e5405dd7cb443ee89322886fbc7e5dfb983db955ed45470c58fb-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR13538_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>ハイリゲンシュタットの歌&#x0a;</title-name>
+ <title-detail>ハイリゲンシュタットの歌のトロフィーです</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>ハイリゲンシュタットの歌</name>
+  <detail>すべてのトロフィーを獲得した</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>いくつものフィナーレ</name>
+  <detail>すべてのエンディングを見た</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>思い出収集家</name>
+  <detail>ギャラリーのCGをすべてオープンした</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>音の喪失事件</name>
+  <detail>序章をクリアした</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>秘められた音</name>
+  <detail>1章をクリアした</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>笑わないピアニスト</name>
+  <detail>2章をクリアした</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>伝説の音楽</name>
+  <detail>3章をクリアした</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>未完成なチェリスト</name>
+  <detail>4章をクリアした</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>ジルベスタ―公演</name>
+  <detail>ジルベスター公演を迎えた</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>ハルトの歌</name>
+  <detail>ハルトルートでグッドエンドを迎えた</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>アルシェの歌</name>
+  <detail>アルシェルートでグッドエンドを迎えた</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>ディーの歌</name>
+  <detail>ディールートでグッドエンドを迎えた</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>クラヴィアの歌</name>
+  <detail>クラヴィアルートでグッドエンドを迎えた</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>ヴィッセの歌</name>
+  <detail>ヴィッセルートでグッドエンドを迎えた</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>ひらかれるテスタメント</name>
+  <detail>「ハイリゲンシュタットの歌」-今に至る物語-を解放した</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="S" pid="000">
+  <name>忘却の使徒の歌</name>
+  <detail>ハイリゲンシュタットルートでグッドエンドを迎えた</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>ハルトとの思い出</name>
+  <detail>ハルトのギャラリーをすべてオープンした</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="S" pid="000">
+  <name>ハルトの虜</name>
+  <detail>ハルトのEXTRAをすべて収集した</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>アルシェとの思い出</name>
+  <detail>アルシェのギャラリーをすべてオープンした</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="S" pid="000">
+  <name>アルシェの虜</name>
+  <detail>アルシェのEXTRAをすべて収集した</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>ディーとの思い出</name>
+  <detail>ディーのギャラリーをすべてオープンした</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="S" pid="000">
+  <name>ディーの虜</name>
+  <detail>ディーのEXTRAをすべて収集した</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>クラヴィアとの思い出</name>
+  <detail>クラヴィアのギャラリーをすべてオープンした</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="S" pid="000">
+  <name>クラヴィアの虜</name>
+  <detail>クラヴィアのEXTRAをすべて収集した</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>ヴィッセとの思い出</name>
+  <detail>ヴィッセのギャラリーをすべてオープンした</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="S" pid="000">
+  <name>ヴィッセの虜</name>
+  <detail>ヴィッセのEXTRAをすべて収集した</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="S" pid="000">
+  <name>ハイリゲンシュタットとの思い出</name>
+  <detail>ハイリゲンシュタットのギャラリーをすべてオープンした</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="S" pid="000">
+  <name>ハイリゲンシュタットの虜</name>
+  <detail>ハイリゲンシュタットのEXTRAをすべて収集した</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="S" pid="000">
+  <name>影の主役達</name>
+  <detail>サブキャラのEXTRAをすべて収集した</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="G" pid="000">
+  <name>取り調べのプロ</name>
+  <detail>EXTRAをすべて収集した</detail>
+ </trophy>
+</trophyconf>

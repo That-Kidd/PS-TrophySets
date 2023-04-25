@@ -1,0 +1,56 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000082298820ff76a9db4fd018dacaab0e566f24c30728d214016dcbf451fdd3908c6a90753dfe732f5b6a85a04d5ab638bad5527b45fe2fbabe3b849789d807e14d6ada6259df0573e313d3c3af50ab35df8bf5c923c90b0155f6533f39583c88c2b02ad142543341b1021aaf2a6ff0d0e7d0fbe72a7d08e6cf09f0ccc911fca938e51aa4796e77dca7ac7e9fcf2a7ce2c59270b580-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR17534_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Super Weekend Mode</title-name>
+ <title-detail>Super Weekend Mode</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Platinum Weekend</name>
+  <detail>Get all other trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>Smells like roses</name>
+  <detail>Beat Stage 1.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>Invader Bunny</name>
+  <detail>Beat stage 2.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>This is a drill</name>
+  <detail>Beat stage 3.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>That was easy</name>
+  <detail>Level up. </detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>Getting some points</name>
+  <detail>Get 30000 points.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>Master of points</name>
+  <detail>Get 50000 points.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>Chained</name>
+  <detail>Get a 100 chain.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>Mortis</name>
+  <detail>Die for the first time.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>Bump 'n Crush</name>
+  <detail>Defeat your first dust bunny.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>Lots of love</name>
+  <detail>Get 300 hearts.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>My hands are tired</name>
+  <detail>Play at maximun level of dificulty.</detail>
+ </trophy>
+</trophyconf>

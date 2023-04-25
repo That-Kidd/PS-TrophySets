@@ -1,0 +1,216 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000184b3afb37e70c081fddf876597b9a7bd20c112941a36746344e87194020e01362e5b115db4ae8ce898d5de4a5849e0fc2f66cbe89d85e26d1951480fa55d72220f341f5ad80e8cfb3777594004204c2fc966a62a705e36ecc8e29ea4b312ebd4a383fe4d42fc4515d7d0ea2489309692463f732a1559e66f97404bab54e30e9e984e8193c9d3ad74d6c2c972b24962f1fc42134-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR08630_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>東亰ザナドゥ</title-name>
+ <title-detail>東亰ザナドゥのトロフィーセットです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>伝説のＸ.Ｒ.Ｃ</name>
+  <detail>全てのトロフィーを獲得した。</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>ＳＳＳランカー</name>
+  <detail>全てのステージでＳランクを取った。</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>智勇仁の極意</name>
+  <detail>コウの「智・勇・仁」が全て最高ランクになった。</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>バトルマスター</name>
+  <detail>ＮｉＡＲ・バトルページの全情報を埋めた。</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>レシピマスター</name>
+  <detail>ＮｉＡＲ・レシピページの全情報を埋めた。</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>フレンドマスター</name>
+  <detail>ＮｉＡＲ・フレンドページの全情報を埋めた。</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>ブックマニア</name>
+  <detail>ＮｉＡＲ・ブックページの全情報を埋めた。</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>トレジャーハンター</name>
+  <detail>全ての宝箱を開けた。</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>Ｍコアコレクター</name>
+  <detail>マスターコアを全て集めた。</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>悪夢を越えし者</name>
+  <detail>難易度ナイトメアでゲームをクリアした。</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>無限の覇者</name>
+  <detail>インフィニティモードでゲームをクリアした。</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>ぶっきらぼうなお人好し</name>
+  <detail>全てのクエストを達成した。</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>稼ぎすぎたお小遣い</name>
+  <detail>所持金が５０万円以上になった。</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>幸運の予感</name>
+  <detail>おみくじを買って、大吉を引いた。</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>百伐の闘士</name>
+  <detail>グリード撃破数１００体達成。</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>千倒の志士</name>
+  <detail>グリード撃破数１０００体達成。</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>至境の勇士</name>
+  <detail>グリード撃破数２０００体達成。</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Ｘドライブマスター</name>
+  <detail>Ｘドライブ発動回数１００回達成。</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>Ｘストライクマスター</name>
+  <detail>Ｘストライク発動回数１００回達成。</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Ｓチェインマスター</name>
+  <detail>ストライクチェイン発動回数５０回達成。</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>エレメントキラー</name>
+  <detail>エレメントキル発生回数５００回達成。</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>フェイタルキラー</name>
+  <detail>フェイタルキル発生回数５００回達成。</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>チェインキラー</name>
+  <detail>チェインキル発生回数１００回達成。</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>エアリアルキラー</name>
+  <detail>エアリアルキル発生回数１００回達成。</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>グランドスラッシャー</name>
+  <detail>最大与ダメージ５０００達成。</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>コンボマスター</name>
+  <detail>最大コンボ数２００回達成。</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>ランニングマスター</name>
+  <detail>移動距離１０００００メートル達成。</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>ノーダメージ</name>
+  <detail>いずれかのステージで、ノーダメージボーナス入手。</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>ファストタイム</name>
+  <detail>いずれかのステージで、ファストタイムボーナス入手。</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>Ｓランカー</name>
+  <detail>いずれかのステージで、Ｓランクを取った。</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>アスカとの縁</name>
+  <detail>アスカとの縁を深めた。</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>ソラとの縁</name>
+  <detail>ソラとの縁を深めた。</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>ユウキとの縁</name>
+  <detail>ユウキとの縁を深めた。</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>シオとの縁</name>
+  <detail>シオとの縁を深めた。</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>ミツキとの縁</name>
+  <detail>ミツキとの縁を深めた。</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>リオンとの縁</name>
+  <detail>リオンとの縁を深めた。</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>シオリとの縁</name>
+  <detail>シオリとの縁を深めた。</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>リョウタとの縁</name>
+  <detail>リョウタとの縁を深めた。</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>ジュンとの縁</name>
+  <detail>ジュンとの縁を深めた。</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="000">
+  <name>トワとの縁</name>
+  <detail>トワとの縁を深めた。</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="B" pid="000">
+  <name>ゴロウとの縁</name>
+  <detail>ゴロウとの縁を深めた。</detail>
+ </trophy>
+ <trophy id="041" hidden="yes" ttype="B" pid="000">
+  <name>引き裂かれた日常</name>
+  <detail>謎の場所に迷い込んだ。</detail>
+ </trophy>
+ <trophy id="042" hidden="yes" ttype="B" pid="000">
+  <name>異界化（イクリプス）</name>
+  <detail>第１話「異界化（イクリプス）」をクリアした。</detail>
+ </trophy>
+ <trophy id="043" hidden="yes" ttype="B" pid="000">
+  <name>怪異（グリード）</name>
+  <detail>第２話「怪異（グリード）」をクリアした。</detail>
+ </trophy>
+ <trophy id="044" hidden="yes" ttype="B" pid="000">
+  <name>神様のいうとおり</name>
+  <detail>第３話「神様のいうとおり」をクリアした。</detail>
+ </trophy>
+ <trophy id="045" hidden="yes" ttype="B" pid="000">
+  <name>ＢＬＡＺＥ－焔の追憶－</name>
+  <detail>第４話「ＢＬＡＺＥ－焔の追憶－」をクリアした。</detail>
+ </trophy>
+ <trophy id="046" hidden="yes" ttype="B" pid="000">
+  <name>迷霧の果てに</name>
+  <detail>第５話「迷霧の果てに」をクリアした。</detail>
+ </trophy>
+ <trophy id="047" hidden="yes" ttype="B" pid="000">
+  <name>夏の前日</name>
+  <detail>幕間「夏の前日」をクリアした。</detail>
+ </trophy>
+ <trophy id="048" hidden="yes" ttype="B" pid="000">
+  <name>翼、翻るとき</name>
+  <detail>第６話「翼、翻るとき」をクリアした。</detail>
+ </trophy>
+ <trophy id="049" hidden="yes" ttype="B" pid="000">
+  <name>虚空震（ホロウ・クエイク）</name>
+  <detail>第７話「虚空震（ホロウ・クエイク）」をクリアした。</detail>
+ </trophy>
+ <trophy id="050" hidden="yes" ttype="B" pid="000">
+  <name>そして、夜は明ける</name>
+  <detail>最終話「そして、夜は明ける」をクリアした。</detail>
+ </trophy>
+ <trophy id="051" hidden="yes" ttype="G" pid="000">
+  <name>想い、紡がれた明日へ</name>
+  <detail>エピローグ「想い、紡がれた明日へ」をクリアした。</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,104 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000009a36edf2b084fd6186d65b85b9be1788424625d8155d689720948b491d6a36bb6c968950c8b52bec2ec30f35140818a27bd595d118e0352820d915f705764ab5c27ce56bd06c6b3c082bd949e8b86b2d3c4d1a8307c32ececaf692a7f4d8b12dafa20f8ff760e7f08c7d5a593333236fcaeed7838d4aaa8fe4512527c42bf1249500c5c8f22dcc2a0127a0635708260f128fc829-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR13423_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>喧嘩番長 乙女 完全無欠のマイハニー</title-name>
+ <title-detail>「喧嘩番長 乙女 完全無欠のマイハニー」のトロフィーセットです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>完全無欠のマイハニー</name>
+  <detail>トロフィーをコンプリートした</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>画像集　コンプリート</name>
+  <detail>全ての画像を見た</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>動画鑑賞　コンプリート</name>
+  <detail>全ての動画を見た</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>音楽鑑賞　コンプリート</name>
+  <detail>全てのBGMを聴いた</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>シーン再生　コンプリート</name>
+  <detail>全てのイベントを読んだ</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>エンディング　コンプリート</name>
+  <detail>全てのエンディングをクリアした</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>UFN コンプリート</name>
+  <detail>アルティメット・ファイティング・夏合宿のすべてのシナリオを読んだ</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>斗々丸のアルバム</name>
+  <detail>箕輪斗々丸の画像を全て解放した</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>金春のアルバム</name>
+  <detail>金春貴之の画像を全て解放した</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>吉良のアルバム</name>
+  <detail>吉良麟太郎の画像を全て解放した</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>未良子のアルバム</name>
+  <detail>未良子裕太の画像を全て解放した</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>鳳凰のアルバム</name>
+  <detail>鬼ヶ島鳳凰の画像を全て解放した</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>獅子吼のアルバム</name>
+  <detail>その他の画像を全て解放した</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>番長の実力</name>
+  <detail>全ての相手とバトルをした</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="B" pid="000">
+  <name>１年トリオの肝試しチャレンジ</name>
+  <detail>「斗々丸・金春組」のアルティメット・ファイティング・夏合宿ストーリーを解放した</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>先輩たちの駆け引きファイト</name>
+  <detail>「吉良・未良子組」のアルティメット・ファイティング・夏合宿ストーリーを解放した</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>鬼ヶ島組の夏休みレジェンド</name>
+  <detail>「鳳凰・坂口組」のアルティメット・ファイティング・夏合宿ストーリーを解放した</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>家族との水遊びメモリー</name>
+  <detail>「ひかる・坂口組」のアルティメット・ファイティング・夏合宿ストーリーを解放した</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="S" pid="000">
+  <name>誰よりも近い恋人</name>
+  <detail>箕輪斗々丸のアフター・ラブストーリーをクリアした</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="S" pid="000">
+  <name>気持ちはすべて拳に込めて</name>
+  <detail>金春貴之のアフター・ラブストーリーをクリアした</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="S" pid="000">
+  <name>未来に繋がる愛のカタチ</name>
+  <detail>吉良麟太郎のアフター・ラブストーリーをクリアした</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="S" pid="000">
+  <name>オレだけのものだから</name>
+  <detail>未良子裕太のアフター・ラブストーリーをクリアした</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="S" pid="000">
+  <name>かけがえのない夫婦</name>
+  <detail>鬼ヶ島鳳凰のアフター・ラブストーリーをクリアした</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="S" pid="000">
+  <name>最高の夏休み</name>
+  <detail>アルティメット・ファイティング・夏合宿をクリアした</detail>
+ </trophy>
+</trophyconf>

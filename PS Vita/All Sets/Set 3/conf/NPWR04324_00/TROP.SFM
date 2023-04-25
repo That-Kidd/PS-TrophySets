@@ -1,0 +1,60 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000e0e0f7742a6a914e48c0ff097eb75fcddeba0257690c652c0d24bedf9e86401884ca8bdac6796f31e92ce85fc5b912e4dc7ac46e689e8d457f2c9cc0363134354972b6f82b6fc7b41268051a5b0b8abdc9de180320ecd768c26af4134201aac99e548319cb7484394eff204e0c8f2130ae71584510b59aa69e3d1a77acb5dd06072e7f4e669e908529eee2e477a490cd95355c21-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR04324_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Fruit Ninja</title-name>
+ <title-detail>Trophies for Fruit Ninja</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Are you Kidding ?!</name>
+  <detail>Fail with the same score as your personal best</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Tee Hee Hee</name>
+  <detail>Get a score of 69</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Year of the Dragon</name>
+  <detail>Slice the secret fruit!</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Over Achiever</name>
+  <detail>Get a score over 400 after all bonuses in arcade mode</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Under Achiever</name>
+  <detail>Get a score less than 20 after all bonuses in arcade mode</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Bomb Magnet</name>
+  <detail>Hit three bombs and score over 250 after all bonuses in arcade mode</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Moment of Zen</name>
+  <detail>Achieve a score of 200 in Zen Mode</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Lucky Ninja</name>
+  <detail>Get 6 criticals in one round of classic mode</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Deja Vu</name>
+  <detail>Kill 4 of the same type of fruit in a row in classic mode</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="-1">
+  <name>Friend or Foe</name>
+  <detail>Invite a Friend and Defeat them in an Online match</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="-1">
+  <name>Combo Mambo</name>
+  <detail>Slice 6 fruit in a combo</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="-1">
+  <name>Fruit Annihilation</name>
+  <detail>Kill 10000 Fruit Total</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="-1">
+  <name>Collector</name>
+  <detail>Unlock all Blades and Backgrounds</detail>
+ </trophy>
+</trophyconf>

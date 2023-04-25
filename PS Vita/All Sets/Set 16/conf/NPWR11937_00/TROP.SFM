@@ -1,0 +1,96 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000000fb9ab63ce2682b343826a18685a8545d58a3719b27eb69108d447471ffc7b53f86af8221fc21ba30652e5aeeb575d4f9f2122ee6f1f1f55a7c7eefaf52e4c0350c3552fea5d6bb2d435c300ad202ff8a739f0c5d7e8ec982e36b144fc7af03df98ad475d4afe9e5b90e32a5c8ecc986533b41d121d72a64d59d45cd372b968acc983a51ee75e07d23e76b24d1c888b1d5c354ec-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR11937_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>東方幻想魔録W</title-name>
+ <title-detail>東方幻想魔録WはRPGです</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>博霊ゲームマスター</name>
+  <detail>これ以外の全てのトロフィーを集めた</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>幻想郷崩壊！</name>
+  <detail>ストーリー進行：幻想郷崩壊</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>１層突破！</name>
+  <detail>ストーリー進行：１層突破！</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>２層突破！</name>
+  <detail>ストーリー進行：２層突破！</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>３層突破！</name>
+  <detail>ストーリー進行：３層突破！</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="S" pid="000">
+  <name>異変解決！</name>
+  <detail>ストーリー進行：異変解決！</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="G" pid="000">
+  <name>真異変解決！</name>
+  <detail>ストーリー進行：真異変解決！</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>香霖堂の主</name>
+  <detail>全アイテム取得</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>完成！文々。新聞</name>
+  <detail>全ザコモンスター討伐</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>式神マスター</name>
+  <detail>全式神取得</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>トレジャーハンター</name>
+  <detail>全宝箱オープン</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>コマンダーマスター</name>
+  <detail>全陣形取得</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>バトルマスター</name>
+  <detail>全武器スキル取得</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="000">
+  <name>くやんではいけません</name>
+  <detail>初めて全滅した</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>楽園の巫女</name>
+  <detail>レベルが70になった</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>永遠の巫女</name>
+  <detail>レベルが99になった</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>きさまこのゲームやり込んでいるなッ！</name>
+  <detail>プレイ時間が100時間を超えた</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>歴戦の猛者</name>
+  <detail>モンスター5000体撃破</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>ダメージを極めし者</name>
+  <detail>10000ダメージ以上を出した</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="G" pid="000">
+  <name>プロトタイプターミネーター</name>
+  <detail>プロトタイプターミネーター撃破</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="G" pid="000">
+  <name>エルダードラゴン</name>
+  <detail>エルダードラゴン撃破</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="G" pid="000">
+  <name>異界からの挑戦者</name>
+  <detail>異界からの挑戦者撃破</detail>
+ </trophy>
+</trophyconf>

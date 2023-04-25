@@ -1,0 +1,148 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000f9b626146f85236de753630d2151016129a1a86e527c4770f99b35deb2c830515568779594fd8927a34287088fa9c63815266b6cb30555ab58afd6bb6b65359e2b431caafa1fb112ad52fd4ca3afa5c0e2a9782f8e71c31961590250f632f2aeb87cbcb1703cabcb9e2f580f02c52c41f5114a2eef66a80f9c422d36c354e99d1babc77e35237a837fda257b011bd0b4e8429e1f-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR04208_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>メモリーズオフ ゆびきりの記憶</title-name>
+ <title-detail>メモリーズオフ ゆびきりの記憶のトロフィーセットです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>メモリーズオフ ゆびきりの記憶 Platinum Trophy</name>
+  <detail>全てのトロフィーを獲得した。</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>記憶の自動送り</name>
+  <detail>オートモードを使用した。</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>記憶の暴走</name>
+  <detail>スキップモードを使用した。</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>記憶の扉</name>
+  <detail>バックログ画面を開いた。</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>記憶のリピート</name>
+  <detail>バックログ画面で音声を再生させた。</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>記憶の反芻</name>
+  <detail>セーブ・ロード画面を開いた。</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>記憶の再生</name>
+  <detail>クイックロードを使用した。</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>記憶のロック解除</name>
+  <detail>ちなつ・霞ルートに到達可能になった。</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>はじまりの記憶</name>
+  <detail>オープニングムービーを鑑賞した。</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>新たなる記憶</name>
+  <detail>セカンドオープニングムービーを鑑賞した。</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="000">
+  <name>はじめてのゆびきり</name>
+  <detail>勇気を出してゆびきりをしてみよう。</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>記念のゆびきり</name>
+  <detail>ゆびきりを5箇所で行った。</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>甘美なるゆびきり</name>
+  <detail>ゆびきりを15箇所で行った。</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="G" pid="000">
+  <name>背徳のゆびきり</name>
+  <detail>ゆびきりを全箇所で行った。</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>約束のゆびきり</name>
+  <detail>ちなつルートのハッピーエンドをクリアした。</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="S" pid="000">
+  <name>永遠のゆびきり</name>
+  <detail>霞ルートのハッピーエンドをクリアした。</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="S" pid="000">
+  <name>禁断のゆびきり</name>
+  <detail>織姫ルートのハッピーエンドをクリアした。</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="S" pid="000">
+  <name>再会のゆびきり</name>
+  <detail>リサルートのハッピーエンドをクリアした。</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="S" pid="000">
+  <name>勇気のゆびきり</name>
+  <detail>詩名ルートのハッピーエンドをクリアした。</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="G" pid="000">
+  <name>ゆびきりの記憶</name>
+  <detail>すべてのエンディングをクリアした。</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="G" pid="000">
+  <name>ゆびきりの約束</name>
+  <detail>CG回収率が100%に達成した。</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="S" pid="000">
+  <name>秘密の記憶</name>
+  <detail>霞の着替えシーンを3種類目撃した。</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="S" pid="000">
+  <name>ちなつと風流庵</name>
+  <detail>ちなつとラブラブファイアー？</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="S" pid="000">
+  <name>霞と風流庵</name>
+  <detail>ギンジロウさんには負けない！</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="S" pid="000">
+  <name>詩名と風流庵</name>
+  <detail>せんぱーい（はーと</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="S" pid="000">
+  <name>姫ちゃんと風流庵</name>
+  <detail>姫ちゃん解禁！？</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="S" pid="000">
+  <name>リサと風流庵</name>
+  <detail>風流庵へようこそー</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="S" pid="000">
+  <name>ゆびきりの末路</name>
+  <detail>大切な人以外とのゆびきりはもっと自重しよう。</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>記憶の設定</name>
+  <detail>オプションモードを使用した。</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>風流庵にようこそ</name>
+  <detail>ふたりの風流庵ぷらすを始めた。</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>はじめての失敗</name>
+  <detail>くじけずに頑張ろう。</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>はじめての成功</name>
+  <detail>ここからが本番だ。</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="S" pid="000">
+  <name>お京さんの秘密！？</name>
+  <detail>お京さんの秘密を知った？</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="G" pid="000">
+  <name>ゆびきりの顛末？</name>
+  <detail>ゆびきりもほどほどに……</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>フォトモード</name>
+  <detail>これでいつも一緒なのです</detail>
+ </trophy>
+</trophyconf>

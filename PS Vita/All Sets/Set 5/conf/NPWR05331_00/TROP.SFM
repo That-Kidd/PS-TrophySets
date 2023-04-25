@@ -1,0 +1,148 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000005bc922f5fc653365c1386321df4db9f983a9721a4d684e03d05aa87cbe15bb255e897e18e8ea1b71f8df0b175fd12cabc73f414489fe37179aa7bef067f53bf9afac67342692612d7540f1c6d27418f2aa30af4c58e51f6dbe37d7e90fc3b2c77d733235a0a24ef91b71c266b25c1280274f38fbf7b16c4e77990477bef1d14e1b8c4cdad7a869e0f9509b438af800c5b17f649-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR05331_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>STEINS;GATE 線形拘束のフェノグラム</title-name>
+ <title-detail>STEINS;GATE 『線形拘束のフェノグラム』のトロフィーセットです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>混沌と収束の完璧主義者</name>
+  <detail>STEINS;GATE 線形拘束のフェノグラムをやりつくした</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>いま再び、運命石の扉の選択</name>
+  <detail>STEINS;GATE 線形拘束のフェノグラムを開始した</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="S" pid="000">
+  <name>走査線上のジキル</name>
+  <detail>「走査線上のジキル」をクリアした</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="S" pid="000">
+  <name>絢爛仮想のファムファタール</name>
+  <detail>「絢爛仮想のファムファタール」をクリアした</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="S" pid="000">
+  <name>黄昏色のソーテール</name>
+  <detail>「黄昏色のソーテール」をクリアした</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="S" pid="000">
+  <name>幽霊障害のランデヴー</name>
+  <detail>「幽霊障害のランデヴー」をクリアした</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="000">
+  <name>雨鈴鈴曲のスクレイパー</name>
+  <detail>「雨鈴鈴曲のスクレイパー」をクリアした</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>桃色幻都のシャ・ノワール</name>
+  <detail>「桃色幻都のシャ・ノワール」をクリアした</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>迷宮錯綜のヘルマフロディトス</name>
+  <detail>「迷宮錯綜のヘルマフロディトス」をクリアした</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>悠遠不変のポラリス</name>
+  <detail>「悠遠不変のポラリス」をクリアした</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>昏睡励起のクアンタム</name>
+  <detail>「昏睡励起のクアンタム」をクリアした</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>三世因果のアブダクション</name>
+  <detail>「三世因果のアブダクション」をクリアした</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="G" pid="000">
+  <name>月暈のビヴロスト</name>
+  <detail>「月暈のビヴロスト」をクリアした</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>レキを求めるモノたち</name>
+  <detail>CLEAR LISTを開いた</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>ヱを求めるモノたち</name>
+  <detail>CG LIBRARYを開いた</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>オトを求めるモノたち</name>
+  <detail>SOUND LIBRARYを開いた</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>ドウを求めるモノたち</name>
+  <detail>MOVIE LIBRARYを開いた</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>格物致知のサットル</name>
+  <detail>TIPS LISTを開いた</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>CGの達成率25%</name>
+  <detail>CGを25％見た</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>CGの達成率50%</name>
+  <detail>CGを50％見た</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>CGの達成率75%</name>
+  <detail>CGを75％見た</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="G" pid="000">
+  <name>CGの達成率100%</name>
+  <detail>全CGを見た</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="G" pid="000">
+  <name>洽覧深識のエッダ</name>
+  <detail>全TIPSを見た</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="S" pid="000">
+  <name>飛翔紙楽のコレクション</name>
+  <detail>全てのメールを見た</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>自我のメモリーズ　コンバージェンス</name>
+  <detail>【フォーントリガー】送信履歴を一度でも見た</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>他我のメモリーズ　コンバージェンス</name>
+  <detail>【フォーントリガー】着信履歴から一度でもメールを参照した</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>共鳴のリアクション　コンバージェンス</name>
+  <detail>【フォーントリガー】誰かからのメールに返信した</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>忘却のメッセージ　コンバージェンス</name>
+  <detail>【フォーントリガー】未読メールを残したままクリアした</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>投影のヴィジョン　コンバージェンス</name>
+  <detail>【フォーントリガー】待ち受け画面の壁紙を変更した</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>ハジメテのオト　コンバージェンス</name>
+  <detail>【フォーントリガー】着信メロディを変更した</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="S" pid="000">
+  <name>第1のフェノグラム</name>
+  <detail>シナリオ1段目を解放した</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="S" pid="000">
+  <name>第2のクラドグラム</name>
+  <detail>シナリオ2段目を開放した</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="S" pid="000">
+  <name>第3のデンドログラム</name>
+  <detail>シナリオ3段目を開放した</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="S" pid="000">
+  <name>第4のダイアグラム</name>
+  <detail>最終シナリオを開放した</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="S" pid="000">
+  <name>第5のエングラム</name>
+  <detail>隠しシナリオを開放した</detail>
+ </trophy>
+</trophyconf>

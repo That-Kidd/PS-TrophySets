@@ -1,0 +1,72 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000ea9a0e4af4a2d9b2aed7a72b0befa08cb0426a228f94454f2dccda1905bc7e7ced21c106073bef20f1e6595a200b5241edc51a1b4742a1a37dd277ff7e82c899a17620490b9e8df62ae084ab8bfd2f809301142723fbc5b2410f1641f87bcf530bf96b8a4710802c8dcdab98812f9d7d781cad55e48bf061cb6e3a931f328f0a03356020fbccc660b0a1f3d039c49cf431355d98-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR15679_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>NightCry</title-name>
+ <title-detail>NightCry Trophies</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>NightCry</name>
+  <detail>You unlocked all trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="000">
+  <name>Welcome to NightCry</name>
+  <detail>You arrived at a Dead End</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>Those who have seen the End</name>
+  <detail>You have seen one ENDING</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>Those who have gained Finality</name>
+  <detail>You have seen 4 ENDINGs</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>Those who have gained Eternity</name>
+  <detail>You have seen all ENDINGs</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>Mystery</name>
+  <detail>You have seen one HORROR</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>Mystery Of The Year</name>
+  <detail>You have seen 50% of HORROR content</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>Mystery Of The Century</name>
+  <detail>You have seen all HORROR content</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>Suicidal Ideation</name>
+  <detail>You experienced GAME OVER</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>To Wish To Die</name>
+  <detail>You unlocked 50% of GAME OVER content</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>Deathwish Diva</name>
+  <detail>You unlocked all GAME OVER content</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>The Scissorwalker Appears</name>
+  <detail>You encountered the Scissorwalker</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>Face Your Fears</name>
+  <detail>You succeeded in resisting the Scissorwalker</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="000">
+  <name>Rock Paper Scissors</name>
+  <detail>You succeeded in chasing off the Scissorwalker</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>The Nightmare Begins</name>
+  <detail>You found an item</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="G" pid="000">
+  <name>Sacrifice</name>
+  <detail>You were saved by Angie</detail>
+ </trophy>
+</trophyconf>

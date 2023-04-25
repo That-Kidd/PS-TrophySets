@@ -1,0 +1,60 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000002dc1799b56f7d531ae8c3f82d2044fbff248aa699df12b9a372692ba7517ac9e5993266cee279552258abdea611351982f83d0640aacff3d370cdd449235d76504c82bb2fbb60489fa337e28b1648a7ffbae511ab23b1e5094f0752e60ce55a14aa9d31c46dc092a9701439921dc5b7ac4746d22c64d128bf67923c9bdabb4d4bb14101cdf9471014e30762274f7c664163ac130-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR17020_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>I and Me</title-name>
+ <title-detail>I and Me</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Awaken From The Dream</name>
+  <detail>Get all other trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="000">
+  <name>The Wind of Spring</name>
+  <detail>Start a new journey</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>The Rain of Summer</name>
+  <detail>Unlock Chapter 2</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>The Leaf of Autumn</name>
+  <detail>Unlock Chapter 3</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>The Snow of Winter</name>
+  <detail>Unlock Chapter 4</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>Pastorale Symphony</name>
+  <detail>Finish Chapter 1</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>The Garden of Words</name>
+  <detail>Finish Chapter 2</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>Strings</name>
+  <detail>Finish Chapter 3</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>Dance of the Sugar Plum Fairy</name>
+  <detail>Finish Chapter 4</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>The Hedgehog Legion</name>
+  <detail>In Level 1-14, survive for 15 seconds among the Hedgehog Legion</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>No lighting</name>
+  <detail>In Level 4-4, get through without using oil lanterns</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>You jump, I jump</name>
+  <detail>Jump a total of 2000 times</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>The Dream Monologue</name>
+  <detail>Read all the scattered letters, unlock the hidden levels</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,76 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000ddec063704763de5abea6d9632d93bcb3a4d95e17c9e7d6fc5b955bd1ab2ff535318acd35c5f39172a9866223b452ac08c74bc7794e88d25bc9dd8ad7c380d97481c1504e972545d9b44fd833266f4e0323c847c6a4b680244332a96b61de17c4e51ac03c92dd7c7baf303af822962114c1b5b5b18c715fae1a7a2126bb1de48689fb75afb1b0bd244b1b34f202302543a361c45-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR07947_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>百花繚乱エリクシル～Record of Torenia Revival～</title-name>
+ <title-detail>百花繚乱エリクシルのトロフィーです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>全制覇</name>
+  <detail>全てのトロフィーを獲得した。</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>全制覇・CG</name>
+  <detail>すべてのイベントCGを見た。</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>全制覇・ED</name>
+  <detail>全てのヒロインルートをクリアした。</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="G" pid="000">
+  <name>マーガレットルートをクリア</name>
+  <detail>マーガレットルートをクリアした。</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="G" pid="000">
+  <name>アンドロメダルートをクリア</name>
+  <detail>アンドロメダルートをクリアした。</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="G" pid="000">
+  <name>カトレアルートをクリア</name>
+  <detail>カトレアルートをクリアした。</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="G" pid="000">
+  <name>バジルルートをクリア</name>
+  <detail>バジルルートをクリアした。</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="G" pid="000">
+  <name>ジャスミンルートをクリア</name>
+  <detail>ジャスミンルートをクリアした。</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="G" pid="000">
+  <name>シュンランルートをクリア</name>
+  <detail>シュンランルートをクリアした。</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="G" pid="000">
+  <name>セロシアルートをクリア</name>
+  <detail>セロシアルートをクリアした。</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>バットエンディング</name>
+  <detail>バットエンディングを見る。</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>全制覇・BGM</name>
+  <detail>全てのＢＧＭを聴いた。</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>飛竜を狩った</name>
+  <detail>飛竜を狩った。</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>初・CG</name>
+  <detail>初めてイベントCGを見た。</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>初・SYSTEM</name>
+  <detail>初めてＳｙｓｔｅｍで設定を変更する。</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>EXTRAを初めて選択した</name>
+  <detail>EXTRAを初めて選択した。</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>プロローグOPを見た</name>
+  <detail>プロローグOPを見た。</detail>
+ </trophy>
+</trophyconf>

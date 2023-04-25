@@ -1,0 +1,104 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000e7d875022f7a6c4484d6966c5d9f6287a558493766d172b99aebffc1415d42cd4d4a5fcab69ec1e9e711ee24cba8915edd53575d4827fc4d661420bd3f292db69cb57d3f623d2587b90373332cb7a813a1b2854289205e7dc2e8b577f4c5530afe4d09a5bda52cfd9fdf124c251b231e3a90ed3e2f11c71d604bca56f752df30bc5a4961c9ee7d4a93082ca0d6fbc0c7629fdb56-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR11613_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>DEADBOLT</title-name>
+ <title-detail>DEADBOLT</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Conquest</name>
+  <detail>Earn every trophy.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>Famine</name>
+  <detail>Beat the entire game within 1 hour without quitting.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>Death</name>
+  <detail>Beat the entire game without dying or quitting.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>War</name>
+  <detail>Get a five star rating on every mission.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>Professional</name>
+  <detail>Clear a stage with only headshot kills.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>Clocked In</name>
+  <detail>Clear the first mission.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>Dethroned</name>
+  <detail>Kill an undead... using the toilet.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>Coinage</name>
+  <detail>Buy a weapon from Charon.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>Cassette Culture</name>
+  <detail>Collect all memory tapes.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>Traditional</name>
+  <detail>Clear a stage with only melee weapons.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>Nah, I'm Good</name>
+  <detail>Kill Puff without using the Tommy Gun.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>Pugilist</name>
+  <detail>Melee a Bouncer to death.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>Baba Yaga</name>
+  <detail>Clear 'The Bogeyman' without being seen.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>Zombie Kingz: Cleared</name>
+  <detail>Clear all Zombie Kingz missions.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>Acrobat</name>
+  <detail>Kill a vampire mid-air.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>Let The Dead Rest</name>
+  <detail>Clear 'The Bloody Mary' without letting any vampires revive.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>Quid Pro Quo</name>
+  <detail>Kill Amber with a melee weapon, and Evelyn with a ranged weapon.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>1000 Year Royals: Cleared</name>
+  <detail>Clear all 1000 Year Royals missions.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>Pirouette</name>
+  <detail>Kill a Sergeant mid-spin.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="000">
+  <name>Grave Robber</name>
+  <detail>Destroy a body as it's being revived.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>Collateral Damage</name>
+  <detail>Clear 'Timur The Tinkerer' with only trap kills.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>The Dredged: Cleared</name>
+  <detail>Clear all Dredged missions.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>Le Sniper Du Cœur</name>
+  <detail>Clear Vall's nest using only headshots.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="G" pid="000">
+  <name>From The Shadows</name>
+  <detail>Clear 'Ibzan' without being seen once.</detail>
+ </trophy>
+</trophyconf>

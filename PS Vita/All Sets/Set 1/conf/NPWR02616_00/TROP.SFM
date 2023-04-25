@@ -1,0 +1,72 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000046a31f42e8d011feb9f82ca7baabfc4b7b60acb98ac12c78fd954b2f936e6c8458178cc2aa8c91ae1ce104cc91daf5d594905b118a2c3263799ac2a4b695eab776004b74d1fa6b4f80625397d4a00974c8b68414d104bdec8323f07fd69815df9d18d121c56daa4ffdd46026a61e82982fff76e3a1b8e61b999aabece3d114407f75f1fbcc6d82ccc33b14c8bc395a2d68126f71-->
+<trophyconf version="1.1" platform="psp2">
+ <npcommid>NPWR02616_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>真かまいたちの夜　11人目の訪問者（サスペクト）</title-name>
+ <title-detail>真かまいたちの夜&#x0a;11人目の訪問者（サスペクト）</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>100% Clear</name>
+  <detail>100% Clear</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>ピンクのしおり</name>
+  <detail>ピンクのしおりを入手した</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>赤のしおり</name>
+  <detail>赤のしおりを入手した</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>ボッコちゃんのしおり</name>
+  <detail>ボッコちゃんのしおりを入手した</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="G" pid="000">
+  <name>黒のしおり</name>
+  <detail>黒のしおりを入手した</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="G" pid="000">
+  <name>金のしおり</name>
+  <detail>金のしおりを入手した</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="G" pid="000">
+  <name>プラチナのしおり</name>
+  <detail>プラチナのしおりを入手した</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>エンディングコンプリート</name>
+  <detail>エンディングをコンプリートした</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>完読</name>
+  <detail>読了率が100%に達成した</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="G" pid="000">
+  <name>異次元少女ポポリン編コンプリート</name>
+  <detail>異次元少女ポポリン編をすべて見つけた</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>ビンゴ編クリア</name>
+  <detail>ビンゴ編をクリアした</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>スパイ編クリア</name>
+  <detail>スパイ編をクリアした</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>死神編クリア</name>
+  <detail>死神編をクリアした</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>妖怪編クリア</name>
+  <detail>妖怪編をクリアした</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>異次元少女ポポリン編見つけた</name>
+  <detail>異次元少女ポポリン編を見つけた</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>エンディングを見た</name>
+  <detail>エンディングを見た</detail>
+ </trophy>
+</trophyconf>

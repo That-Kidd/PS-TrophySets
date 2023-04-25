@@ -1,0 +1,120 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000c16da92c47aec1901c752de29000b4115a16f599c4ccc93d048f48d6328462f1f0156a92ffd0f995eed1008e0f476df94e0155be8f3ec0785a9a7a0f85df317991fcbc5477384e8ad2a704e4857d252bb157b3510486d921282f630f8129cd1cf56a34f45dccfb971132bbbb4a4b7a6d29cd7f9af6a133fe320d6b7f883bb358118c6723d4e271c897a8c6279937b36d51f40369-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR10817_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>メゾン・ド・魔王</title-name>
+ <title-detail>メゾン・ド・魔王</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>メゾン・ド・魔王</name>
+  <detail>脱サラし、世界征服に成功した。</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Hello Work１</name>
+  <detail>脱サラし、マンションの管理人になった。</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>生贄</name>
+  <detail>最初の住人が入居した。</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>クエストオブ魔王</name>
+  <detail>はじめてクエストをクリアした。</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>よくあること</name>
+  <detail>家賃滞納……これをどうするかが管理人の腕の見せ所。</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>涙を拭いて</name>
+  <detail>はじめてモンスターが昇天した。</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>出てけ！</name>
+  <detail>退去したらその先、どこに行くのだろう。</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>ダッシュ！　ダッシュ！</name>
+  <detail>家賃払えないのはわかるけどさあ……。</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>愛の巣</name>
+  <detail>恋人とラブラブになったからって……。</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>Hello Work２</name>
+  <detail>明日から違う仕事なんだよ……。</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>気分はDJ？</name>
+  <detail>お好みのリズムに乗って！</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>どうも、子供</name>
+  <detail>新しい命が！</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>モンスターの系譜</name>
+  <detail>モンスター図鑑がちょっと埋まった。</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>アパート</name>
+  <detail>アパートが2階建てになった。</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>マンション</name>
+  <detail>アパートが3階建てになった。</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>億ション</name>
+  <detail>アパートが4階建てになった。</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>ようやく半分！</name>
+  <detail>モンスター図鑑が半分埋まった！</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="S" pid="000">
+  <name>復讐者</name>
+  <detail>やられたらやり返す、それが私の信念だ！</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>奴が来る。</name>
+  <detail>最高位種モンスターが来た。</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="000">
+  <name>超ラブラブ</name>
+  <detail>いずれかの種族が魔王超ラブになった。</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>Hello Work３</name>
+  <detail>今日から働くぜ！</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="G" pid="000">
+  <name>モンスターマスター</name>
+  <detail>モンスター図鑑が全部埋まった！　これでモンスターマスター！</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="G" pid="000">
+  <name>家具氏</name>
+  <detail>すべての家具を買えるようになった。</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="G" pid="000">
+  <name>恋と魔王と後日ダン。</name>
+  <detail>恋と魔王と　後日談をクリアした。</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="G" pid="000">
+  <name>導かれし魔物たち</name>
+  <detail>勇者ジークを倒し、世界征服へ乗り出した。</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="G" pid="000">
+  <name>真・魔王伝説</name>
+  <detail>勇者ジークを倒し、新たなる伝説がはじまる。</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="G" pid="000">
+  <name>魔王クエスト</name>
+  <detail>魔王がクエストをすべてクリアした。</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="G" pid="000">
+  <name>超リッチ</name>
+  <detail>もう、ひもじくない！</detail>
+ </trophy>
+</trophyconf>

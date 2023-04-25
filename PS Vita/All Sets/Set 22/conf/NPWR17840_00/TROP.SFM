@@ -1,0 +1,76 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000b6092750358383d4f7296b19c0e0ab79af5668fc06331b3837a40f7b01db291254c00fc0b6806518574d37515e8dd765256864d3e011d9b6b496ec9988b905121b5da637786848381f121e840f10f357ac7180db2fc04a331e9672b0def3447ec619980c6633112eda9d38afbd5e0348ca6b3a812a69a68847cadf6d694e0cc4b377a174043b59d81ad2bec8dd3c0484991296d8-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR17840_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Mekorama</title-name>
+ <title-detail>Mekorama</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Platinum Mekorama</name>
+  <detail>Get all other trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Crash landing</name>
+  <detail>Complete level 1</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Meeting the locals</name>
+  <detail>Complete level 7</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>Creative thinker</name>
+  <detail>Complete level 14</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>Blind spot</name>
+  <detail>Complete level 13</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>Staying alive</name>
+  <detail>Complete level 17</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>Interactive entertainment</name>
+  <detail>Complete level 4</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>No turning back</name>
+  <detail>Complete all Easy Levels</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>Physical Workout</name>
+  <detail>Complete level 35</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>Memory man</name>
+  <detail>Complete level 27</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>Illusionist</name>
+  <detail>Complete level 28</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>Head over heals</name>
+  <detail>Complete level 47</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>Prisoner</name>
+  <detail>Complete level 46</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="000">
+  <name>Obstructist</name>
+  <detail>Complete level 48</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="000">
+  <name>Halfway home</name>
+  <detail>Complete all Medium Levels</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="G" pid="000">
+  <name>Creator</name>
+  <detail>Make your first level</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="G" pid="000">
+  <name>Live Wire</name>
+  <detail>Electricuted by an electric NPC</detail>
+ </trophy>
+</trophyconf>

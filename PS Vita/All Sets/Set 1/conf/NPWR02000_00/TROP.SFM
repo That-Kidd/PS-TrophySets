@@ -1,0 +1,56 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000004a3cfb3119f68e61d29ab2459e3d906b5b7e52a69cd52a3349a746cc2a57752f83dbe3ca2f09cd7e6e2a2232d9e25af39753d500ac81eab96728e18030decae95d98514bfd43742b37be4240661ce8608050d938fea2c17059d0822a9466cc9a610b00d8224603a6ea7c82ce68ee15b3421d11bfaf4157d7814e9755ba53b46493e95fd951930ee9d1746e69ef9fbee383b02731-->
+<trophyconf version="1.1" platform="psp2">
+ <npcommid>NPWR02000_00</npcommid>
+ <trophyset-version>01.02</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>A-men</title-name>
+ <title-detail>A-men</title-detail>
+ <trophy id="000" hidden="no" ttype="G" pid="-1">
+  <name>Game Master</name>
+  <detail>Complete all missions in the Forest, at the Seacoast, in the Winterland and in the Factory with S rank.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="-1">
+  <name>The End?</name>
+  <detail>Beat the final level in the Factory.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="-1">
+  <name>The A team</name>
+  <detail>Complete all missions in the Forest, at the Seacoast, in the Winterland and in the Factory with at least A rank.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Bee!</name>
+  <detail>Complete all missions in the Forest, at the Seacoast, in the Winterland and in the Factory with at least B rank.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="-1">
+  <name>Exterminator</name>
+  <detail>Exterminate 1000 enemies.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Tip Hunter</name>
+  <detail>Read all tips in the Forest, at the Seacoast, in the Winterland and in the Factory.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Treasure hunter</name>
+  <detail>Receive 3 shop items using "near".</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Broker</name>
+  <detail>Drop 1 shop item using "near".</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Siberia</name>
+  <detail>Unlock first Winterland level.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>Maghreb</name>
+  <detail>Unlock first Seacoast level.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>Zone Industrielle</name>
+  <detail>Unlock first Factory level.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="-1">
+  <name>C-C-C-C-Combo!</name>
+  <detail>Kill 10 enemies in the combo 10 times.</detail>
+ </trophy>
+</trophyconf>

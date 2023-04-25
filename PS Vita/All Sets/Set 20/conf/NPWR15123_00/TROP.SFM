@@ -1,0 +1,108 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000080931f0f5a7a73c6a9d2a4ff41ca1274c3d2d9ba98aed67487d1fd7740ad9f7f969f91d564965cf0afab48d3df6f8afe339352c92ec2df5bd487328e8211b21e019eeab2a7364d52fdd457aa388fc03b1d645e124a8a1fbbb2242529e4f90ad414b41d0e2dce19594250fecbc7eebf7b3c8ee6166c6b6697fb6a37c05f4b6ffa2472c2a22527c23f1049ea8f7de9e89629c80e9d-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR15123_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>FLOWERS冬篇</title-name>
+ <title-detail>FLOWERS冬篇のトロフィーです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>コンプリート</name>
+  <detail>全てのトロフィーを獲得</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>親密な静寂の時間</name>
+  <detail>立花と二人きりの時間を過ごした</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>役立ちたい事</name>
+  <detail>千鳥からバレエを教わった</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>心地好い重さ</name>
+  <detail>えりかに膝枕をした</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>似すぎているもの真似</name>
+  <detail>えりかになりきった林檎に探偵役を任せた</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>私たちの演目</name>
+  <detail>立花と赤ずきんの演目を踊った</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>素敵な相談事</name>
+  <detail>誕生日ケーキを作るえりかの手伝いをした</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>バレンタインのプレゼント</name>
+  <detail>立花とチョコの食べさせあいっこをした</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>気遣ってくれる友</name>
+  <detail>みんなと朗読劇の練習をした</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="000">
+  <name>怪談大会</name>
+  <detail>みんなで怪談大会をした</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="000">
+  <name>アミティエの好物</name>
+  <detail>千鳥とパンケーキを作った</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>血塗れメアリー事件</name>
+  <detail>chapter2の推理パートをクリア</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>フックマンの噂</name>
+  <detail>chapter4の推理パートをクリア</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="G" pid="000">
+  <name>閉ざされし部屋</name>
+  <detail>chapter6の推理パートをクリア</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="B" pid="000">
+  <name>目の前に佇む亡霊</name>
+  <detail>BAD END01を見た</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>散々な結果</name>
+  <detail>BAD END02を見た</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>戻ることはできない</name>
+  <detail>BAD END03を見た</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="S" pid="000">
+  <name>失った季節</name>
+  <detail>BAD END04を見た</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="G" pid="000">
+  <name>夜の図書室</name>
+  <detail>マユリ ENDを見た</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="G" pid="000">
+  <name>私たちが夢見た理想郷</name>
+  <detail>立花 ENDを見た</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="G" pid="000">
+  <name>春の陽だまり</name>
+  <detail>GOOD ENDを見た</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="G" pid="000">
+  <name>FLOWERS</name>
+  <detail>GRAND FINALEを見た</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="G" pid="000">
+  <name>GRAPHICコンプリート</name>
+  <detail>GRAPHICをコンプリート</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="G" pid="000">
+  <name>MUSICコンプリート</name>
+  <detail>MUSICをコンプリート</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="G" pid="000">
+  <name>ENDLISTコンプリート</name>
+  <detail>ENDLISTをコンプリート</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,80 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000094f5dfc91a96a4bae95f5ae283f475a44cdc7ca4949cdb88ace6420deae3de8d8afce9f505f879b8e97e8bca39f32fae50cded2627739636671f83b8d340e3fac8dbb90da72fd4468a04b0a33bfdf3bc804ac3430d98a0dacafdb03ef71739473c214999b5646d26d204b31bc31fb8530bb68c03a25c51264111b96f15007a26e87dfb74a8e913c8d8e592f0c79ee2002aa521e0-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR06120_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>THE どこでもギャル麻雀</title-name>
+ <title-detail>@SIMPLE V シリーズ Vol.1&#x0a;THE どこでもギャル麻雀&#x0a;のトロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="S" pid="-1">
+  <name>コンプリート</name>
+  <detail>達成率が100%に到達する</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="S" pid="-1">
+  <name>オールクリア</name>
+  <detail>メカ双葉を含む全キャラをクリアする</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="S" pid="-1">
+  <name>メカ双葉</name>
+  <detail>月面ステージでメカ双葉に勝つ</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>双葉に勝利</name>
+  <detail>双葉エンディングを見る</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>遥に勝利</name>
+  <detail>遥エンディングを見る</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>優に勝利</name>
+  <detail>優エンディングを見る</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>レストランステージで双葉に勝つ</name>
+  <detail>レストランステージで双葉に勝つ</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>ジャングルステージで双葉に勝つ</name>
+  <detail>ジャングルステージで双葉に勝つ</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>石器時代ステージで双葉に勝つ</name>
+  <detail>石器時代ステージで双葉に勝つ</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>露天風呂ステージで双葉に勝つ</name>
+  <detail>露天風呂ステージで双葉に勝つ</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>レストランステージで遥に勝つ</name>
+  <detail>レストランステージで遥に勝つ</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="-1">
+  <name>ジャングルステージで遥に勝つ</name>
+  <detail>ジャングルステージで遥に勝つ</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="-1">
+  <name>石器時代ステージで遥に勝つ</name>
+  <detail>石器時代ステージで遥に勝つ</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="-1">
+  <name>露天風呂ステージで遥に勝つ</name>
+  <detail>露天風呂ステージで遥に勝つ</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="-1">
+  <name>レストランステージで優に勝つ</name>
+  <detail>レストランステージで優に勝つ</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="-1">
+  <name>ジャングルステージで優に勝つ</name>
+  <detail>ジャングルステージで優に勝つ</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="-1">
+  <name>石器時代ステージで優に勝つ</name>
+  <detail>石器時代ステージで優に勝つ</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="-1">
+  <name>露天風呂ステージで優に勝つ</name>
+  <detail>露天風呂ステージで優に勝つ</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,48 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000c59705fc1edc544f735a26c667b2610fcb8cffb14b47dbe343f9c8d765fad5628a7819d260a828b489d147bb0678e3e66e6cbbac3c7a18177b64c788416bcc813125d2aded101cee2c57716efe21b8cdcab3465b96e636915aaa9cab4f92dc9635b66222fff4a6e0952682ac9917ebacf0158f48ea02fb5cb09cd88d872c062eebf2c2d9b5355881ff6af23133d2d786fa2d07c2-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR10839_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Delta Strike</title-name>
+ <title-detail>Trophy Set of Delta Strike</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>First Lieutenant</name>
+  <detail>Hit level 5.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Captain</name>
+  <detail>Hit level 10.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Major</name>
+  <detail>Hit level 15.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Lieutenant Colonel</name>
+  <detail>Hit level 20.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Colonel</name>
+  <detail>Hit level 25.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="-1">
+  <name>Brigadier General</name>
+  <detail>Hit level 30.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="-1">
+  <name>Major General</name>
+  <detail>Hit level 40.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="-1">
+  <name>Lieutenant General</name>
+  <detail>Hit level 50.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="-1">
+  <name>General Air Force Chief of Staff</name>
+  <detail>Hit level 60.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="-1">
+  <name>The sky is yours.</name>
+  <detail>Hit level 99.</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,196 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000067cbf798d2a776621ebbc1aca6043a74b5482042ae1b524367f23322903bb3deeb76d90ffbeda04913fe8e12c348cf6602fb765304cc02916a01bb9be0a243a35e0736c6c78ac6480e4144f8f304adaa450b65b522311f12a5f7aa4dfa999baabc7fb6ff9df9e0430e9a5f8fea549704c3a4e93bd1346fc408995e18c64933d1220a169ffbb8ba1d67f6a343c06f8d4921a10760-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR06090_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Danganronpa 2: Goodbye Despair</title-name>
+ <title-detail>Danganronpa 2: Goodbye Despair Trophies</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Hope's Last Reward</name>
+  <detail>Earned every other trophy in the game</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>Murderous Marooning</name>
+  <detail>Finished the prologue</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>Dead Man's Party</name>
+  <detail>Finished Chapter 1</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>Death, Lies, and Video Games</name>
+  <detail>Finished Chapter 2</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>Is It Medicine or Social Skill?</name>
+  <detail>Finished Chapter 3</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>Bred for Destruction</name>
+  <detail>Finished Chapter 4</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>Abandon All Hope</name>
+  <detail>Finished Chapter 5</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="G" pid="000">
+  <name>Goodbye Academy of Despair</name>
+  <detail>Finished every chapter</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>Hope Springs Eternal</name>
+  <detail>Filled in every page of Nagito's Report Card</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>Overlord's Vassal</name>
+  <detail>Filled in every page of Gundham's Report Card</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>Grease Monkeying Around</name>
+  <detail>Filled in every page of Kazuichi's Report Card</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>The Game Hungers for Seconds...and Thirds</name>
+  <detail>Filled in every page of Byakuya's Report Card</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>Cooking With Passion</name>
+  <detail>Filled in every page of Teruteru's Report Card</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>Caught in a Rad Bromance</name>
+  <detail>Filled in every page of Nekomaru's Report Card</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>Honor and Humanity</name>
+  <detail>Filled in every page of Fuyuhiko's Report Card</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>Starving for Affection</name>
+  <detail>Filled in every page of Akane's Report Card</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Co-Op Partner</name>
+  <detail>Filled in every page of Chiaki's Report Card</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>A Royal Affair</name>
+  <detail>Filled in every page of Sonia's Report Card</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>It's Lolita Complicated</name>
+  <detail>Filled in every page of Hiyoko's Report Card</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Picture Perfect</name>
+  <detail>Filled in every page of Mahiru's Report Card</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>Helloooooooooooooooo Nurse!</name>
+  <detail>Filled in every page of Mikan's Report Card</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>Dynamic Duet</name>
+  <detail>Filled in every page of Ibuki's Report Card</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>Feudal Friendship</name>
+  <detail>Filled in every page of Peko's Report Card</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="G" pid="000">
+  <name>Mr. Congeniality</name>
+  <detail>Filled in every page of every character's Report Card</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>The 1 Percent</name>
+  <detail>Collected 999 Monocoins</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>Look at This Stuff, Isn't it Neat?</name>
+  <detail>Collected 50 unique presents</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="S" pid="000">
+  <name>For the Hoard</name>
+  <detail>Collected every possible present</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>Be Beary, Beary Quiet...</name>
+  <detail>Found half of the Hidden Monokumas</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="S" pid="000">
+  <name>I Should Start a Circus</name>
+  <detail>Found every Hidden Monokuma</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>Can We Keep Him?</name>
+  <detail>Fully raised one type of pet</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="S" pid="000">
+  <name>Gotta Raise 'Em All!</name>
+  <detail>Fully raised every type of pets</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="B" pid="000">
+  <name>I Wanna Soak Up Some Sun</name>
+  <detail>Cleared Island Mode once</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="S" pid="000">
+  <name>Life's a Real Beach</name>
+  <detail>Saw every possible Island Mode ending</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>Halfway There!</name>
+  <detail>Hajime Hinata breaks through level 50</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="S" pid="000">
+  <name>Capped Out!</name>
+  <detail>Hajime Hinata breaks through level 99</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>Walking the Walk</name>
+  <detail>Break through 5000 total number of steps</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="S" pid="000">
+  <name>Nice Calves</name>
+  <detail>Break through 10,000 total number of steps</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>Hey, Big Vendor</name>
+  <detail>Challenged vending machine 100 times</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>A Fool and His Money...</name>
+  <detail>Obtained all types of items in vending machine</detail>
+ </trophy>
+ <trophy id="039" hidden="yes" ttype="B" pid="000">
+  <name>A Magical Ending</name>
+  <detail>Cleared all stages of Magical Miracle Girl Monomi</detail>
+ </trophy>
+ <trophy id="040" hidden="yes" ttype="G" pid="000">
+  <name>Monomi Won't Miss These, Right?</name>
+  <detail>Collected every possible item in Magical Miracle Girl Monomi</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="S" pid="000">
+  <name>This Belongs in a Museum!</name>
+  <detail>Unlocked all gallery items</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="S" pid="000">
+  <name>Any Objections?</name>
+  <detail>Cleared a class trial without taking any damage</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="B" pid="000">
+  <name>Case Closed</name>
+  <detail>Cleared a class trial without having to retry once</detail>
+ </trophy>
+ <trophy id="044" hidden="no" ttype="B" pid="000">
+  <name>Blowin' Through My Screen</name>
+  <detail>Destroyed 100 white noise lines across all class trials</detail>
+ </trophy>
+ <trophy id="045" hidden="no" ttype="S" pid="000">
+  <name>The Airborne Static Event</name>
+  <detail>Destroyed 500 white noise lines across all class trials</detail>
+ </trophy>
+ <trophy id="046" hidden="no" ttype="B" pid="000">
+  <name>I'm Sorry, What Were You Saying?</name>
+  <detail>Cleared a class trial without using your Concentration skill once</detail>
+ </trophy>
+</trophyconf>

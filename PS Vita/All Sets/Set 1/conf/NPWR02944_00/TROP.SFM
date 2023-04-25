@@ -1,0 +1,68 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000a7f7951329f1fa7bffdc83091110cafc9f137aa13954298793ef304b1e58f62bdc473a2e3eee513dabc485d9754c9f353c5c8a224ca06c935a9ebacf230294c5d6879dcac6a1c20c89429fdb14928ed683d97e35f1ac51eac14f05d68b5c225c1d9a5d07da10e7388a9803617567e854cb64e4db72a900005de03a986b266a47a27dcc3694b73e54b3054b56858cbb717692c7f9-->
+<trophyconf version="1.1" platform="psp2">
+ <npcommid>NPWR02944_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>PulzAR</title-name>
+ <title-detail>PulzAR Trophy Set</title-detail>
+ <trophy id="000" hidden="no" ttype="G" pid="-1">
+  <name>Omega</name>
+  <detail>Complete all of the levels.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="-1">
+  <name>Galaxy</name>
+  <detail>Collect all 75 of the stars in the game.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Alpha</name>
+  <detail>Complete all of the Alpha levels.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Beta</name>
+  <detail>Complete all of the Beta levels.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Gamma</name>
+  <detail>Complete all of the Gamma levels.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Delta</name>
+  <detail>Complete all of the Delta levels.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Epsilon</name>
+  <detail>Complete all of the Epsilon levels.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Constellation</name>
+  <detail>Collect 25 stars.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Star Cluster</name>
+  <detail>Collect 50 stars.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>High Scorer</name>
+  <detail>Post a score to the leaderboards.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>That's No Moon!</name>
+  <detail>Look up at the asteroid in the sky while playing a level.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="-1">
+  <name>Let's Blow This Thing!</name>
+  <detail>Watch the entire flight of the missile and the impact on the asteroid.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="-1">
+  <name>Hard Rain</name>
+  <detail>Complete a level before the meteors start raining down.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="-1">
+  <name>Resource Efficiency</name>
+  <detail>Complete a level without using all AR Play Card objects.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="-1">
+  <name>Reflections</name>
+  <detail>Have 3 laser beams bouncing off one reflector.</detail>
+ </trophy>
+</trophyconf>

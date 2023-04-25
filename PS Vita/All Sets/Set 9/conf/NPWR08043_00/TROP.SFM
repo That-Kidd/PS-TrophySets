@@ -1,0 +1,184 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000004aade59aec5b1bd7f2b836c83a677a2f6043f5282a582ddc8cf0e57b6fd58b76ba785ed2e007e73131e6e65e28b551f8dea68d5aac36eeefceb4091f35c37bbb29984c594847c2cc5774f7fd0a15d76e83c71ae651fd94a9a9920d6ee5888a9f017b21feae43850783ab97bc8f8794d1baddaeecb7cfc9d9dfcd8b0c91099ef70be3c2707f8eb94da82803faae82c9b5bf00efdb-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR08043_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>真·三国无双７：猛将传 完全版</title-name>
+ <title-detail>真·三国无双７：猛将传 完全版的奖杯组</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>真·三国无双</name>
+  <detail>获得了所有的奖杯</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>终极武道</name>
+  <detail>以「终极」难易度完成猛将传追加的所有剧本</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>一统天下</name>
+  <detail>以将星模式平定所有地区，一统天下</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>终极评价</name>
+  <detail>以「Ｓ」评价完成所有猛将传追加的剧本&#x0a;</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>武艺造极</name>
+  <detail>挑战模式的所有路线个人最高记录都是第１名</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>无双收集家</name>
+  <detail>获得所有的第二秘藏武器</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>区域压制</name>
+  <detail>在将星模式的压制战中，任一地区压制率达到１００％</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>贯彻战功</name>
+  <detail>达成猛将传追加的所有剧本战功目标</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>偏行歧路</name>
+  <detail>达成猛将传追加的所有假想条件</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>欢声震天</name>
+  <detail>完成猛将传追加的所有剧本</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>鬼神烈烈</name>
+  <detail>观赏「吕布」故事的结局（史实、假想）</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>黄金梦</name>
+  <detail>累计获得金额达１０００００以上</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>修罗草芥</name>
+  <detail>累计击破数达１０００００人以上</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>神速</name>
+  <detail>将星模式压制战中，任一战场在累计２次战斗以内压制率达１００％</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>成长巅峰</name>
+  <detail>任一武将的等级升到最高</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>名将</name>
+  <detail>任一武将的统率力升到最高</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>新伙伴</name>
+  <detail>使用猛将传新追加的5位角色各完成至少一个剧本</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>健谈</name>
+  <detail>看过猛将传追加的所有对话剧情</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>穷究暴风</name>
+  <detail>挑战模式「暴风」的个人最高记录为第１名</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>穷究彗星</name>
+  <detail>挑战模式「彗星」的个人最高记录为第１名</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>穷究迅雷</name>
+  <detail>挑战模式「迅雷」的个人最高记录为第１名</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>穷究百花</name>
+  <detail>挑战模式「百花」的个人最高记录为第１名</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>穷究烈火</name>
+  <detail>挑战模式「烈火」的个人最高记录为第１名</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>三尖刀达人</name>
+  <detail>学会特技「三尖刀天赋」</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>火焰弓达人</name>
+  <detail>学会特技「火焰弓天赋」</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>连结布达人</name>
+  <detail>学会特技「连结布天赋」</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>兵法简达人</name>
+  <detail>学会特技「兵法简天赋」</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>十字戟达人</name>
+  <detail>学会特技「十字戟天赋」</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>最高评价</name>
+  <detail>自由模式的任一剧本，完成评价获得「Ｓ」</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>完全压制</name>
+  <detail>在将星模式的压制战中，任一战场压制率达１００％</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>完全胜利</name>
+  <detail>在将星模式的压制战中，以压制率１００％的状态获胜</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>善战</name>
+  <detail>将星模式的压制战中，出击军团以满员参战，且在无人败退的状态下获胜</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>善理</name>
+  <detail>在将星模式中，以剩余限定时间１４分钟以上完成游戏</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>首次锻造</name>
+  <detail>第一次进行特殊锻造</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>首次强化</name>
+  <detail>第一次强化护卫武将</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>首次技能</name>
+  <detail>第一次向护卫武将下达战斗技能指示</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>技能狂人</name>
+  <detail>发动所有种类的战斗技能</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>影像狂人</name>
+  <detail>解锁猛将传追加的所有动画</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>事件狂人</name>
+  <detail>解锁猛将传追加的所有事件</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="000">
+  <name>壁纸狂人</name>
+  <detail>解锁猛将传追加的所有壁纸</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="B" pid="000">
+  <name>两招杀手锏</name>
+  <detail>以任一无双武将在单场战斗中用特殊攻击１和２击破敌方武将</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="B" pid="000">
+  <name>穷究一骑当千</name>
+  <detail>以「终极」难易度在单场战斗中击破１０００人</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="B" pid="000">
+  <name>穷究疾风迅雷</name>
+  <detail>以「终极」难易度在２分钟内完成任一剧本</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="B" pid="000">
+  <name>穷究万夫莫敌</name>
+  <detail>以「终极」难易度以无伤状态完成非作战教学的任一剧本</detail>
+ </trophy>
+</trophyconf>

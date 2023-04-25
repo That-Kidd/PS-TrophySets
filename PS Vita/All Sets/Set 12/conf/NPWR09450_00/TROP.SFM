@@ -1,0 +1,72 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000bf35aeb0539c8aa9f8f3c93f7106a7c41c5cc1da5df662d3bb2c53c73cae59673b7eb15d490a99fb48371603d059d97bc860486097be9f4c85d6416d727d34b3645c2a8fa4ea20279cb30b4b76c152e31955c9514938c3dcbb19304d727f6284511e8173c70bf20112208101933d1ba6b9d45359d87174b997cfd4afa85657e95853de33ae4c0a713c2b53e35f6231e31a5d805d-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="small">
+ <npcommid>NPWR09450_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>JumpJet Rex</title-name>
+ <title-detail>JumpJet Rex</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Basic Training</name>
+  <detail>Complete Boot Camp.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Snowhere to Run</name>
+  <detail>Defeat the first boss.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Brobot</name>
+  <detail>Defeat the second boss.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Planted</name>
+  <detail>Defeat the third boss.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>NegaRekt</name>
+  <detail>Defeat the fourth boss.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Filthy Casual</name>
+  <detail>Complete adventure mode on easy.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="-1">
+  <name>Beat the Game</name>
+  <detail>Complete adventure mode on normal.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Beat the Game (Properly)</name>
+  <detail>Live to Fly another day.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Rex in Peace</name>
+  <detail>Pay the ultimate price.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>Coinosaur</name>
+  <detail>Collect every coin in a level (excluding bonus area coins)</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="-1">
+  <name>OCDinosaur</name>
+  <detail>Collect every coin in every level (excluding bonus area coins)</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="-1">
+  <name>Turbosaur</name>
+  <detail>Complete the SpeedRun mode and post a time to the leaderboard.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="-1">
+  <name>RexBox</name>
+  <detail>Collect all the hidden items.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="-1">
+  <name>Masteradon</name>
+  <detail>Master one level.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="-1">
+  <name>Masteralladon</name>
+  <detail>Master all levels.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="-1">
+  <name>Ragequit Rex</name>
+  <detail>Complete the RageQuit Rex mode.</detail>
+ </trophy>
+</trophyconf>

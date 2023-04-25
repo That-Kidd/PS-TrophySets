@@ -1,0 +1,52 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000dfd57893cdb8cfa556ea3e00da55ddd6196b67ac3ed2bb181dd6e928327b5164a9ff83bc03033afdfe4af75805fd3414f130233dc6823a491d5f1d04a6756ffe47e55350823b554de4e88bc2ab5378310169ddf6089024bf1f3d039724d3b300e58a19de2a5ed12a031c5b4e2d33c6be924ce39b841de70ab3c9846da56842dbf2790dad9a16db0bd64d0a606b25cc37e1e549a7-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR06061_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Metrico&#x0a;</title-name>
+ <title-detail>Trophies for Metrico Vita</title-detail>
+ <trophy id="000" hidden="yes" ttype="B" pid="-1">
+  <name>Observing details</name>
+  <detail>Found a collectible</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="G" pid="-1">
+  <name>Compulsive explorer</name>
+  <detail>Found all the collectibles</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="S" pid="-1">
+  <name>Minimizing jumps</name>
+  <detail>Completed World 1 in one play session without jumping more than 42 times</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="-1">
+  <name>Mortality rate = zero</name>
+  <detail>Completed World 2 in one play session without dying</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="S" pid="-1">
+  <name>Low casualty rate</name>
+  <detail>Completed World 3 in one play session while killing less than 18 enemies</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="S" pid="-1">
+  <name>Efficient mind</name>
+  <detail>Completed World 4 in one play session without using the circle button</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="-1">
+  <name>Single perspective</name>
+  <detail>Completed World 5 in one play session without turning the Vita</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="-1">
+  <name>Optimized mind</name>
+  <detail>Completed World 6 in one play session without using the triangle button</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="-1">
+  <name>Following the masses</name>
+  <detail>Entered a door 4 times where more than 50% of all players had done so</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="-1">
+  <name>Einzelganger</name>
+  <detail>Entered a door 4 times where less than 50% of all players had done so</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="-1">
+  <name>Getting into the mood</name>
+  <detail>Interacted with all forms of input, right at the start of World 1</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,132 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000007785d87e6aa07bddd6dc5d10ded364bca9209f342139c3ef1047670545fea1dbf58b2632bb274afeb346e12714e5d0c539783abeb13eff2d26e9f6e143119978f81908fa0a733ce993fb0fc4498c0d2d705a06f043c8b125545ba8f6c6260e538f3f53a8798f03ca34a63c0ef0831d1fe5dee6e8db513788523fce84e7a836ed3529208eb625ada7d86d9ae9b03643c35c056388-->
+<trophyconf version="1.1" platform="psp2">
+ <npcommid>NPWR02001_00</npcommid>
+ <trophyset-version>01.02</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>F1 2011</title-name>
+ <title-detail>FORMULA 1 2011</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>COMPLETE</name>
+  <detail>CONGRATULATIONS ON COMPLETING F1 2011</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>MADE THE CUT</name>
+  <detail>REACH Q3 IN QUALIFYING</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>FLYING LAP</name>
+  <detail>ACHIEVE YOUR FIRST TIME TRIAL MEDAL</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>SPEED DEMON</name>
+  <detail>DRIVE FASTER THAN 230MPH (370 KM/H)</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>CHALLENGER</name>
+  <detail>COMPLETE A CHALLENGE WITH A C RANK OR ABOVE</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>TOE TO TOE</name>
+  <detail>WIN A HEAD TO HEAD CHALLENGE</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>TUNED TO PERFECTION</name>
+  <detail>TAKE POLE POSITION IN QUALIFYING WITH A TUNED VEHICLE</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>APRIL SHOWER</name>
+  <detail>WIN A RACE IN THE WET</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>MANUAL MASTER</name>
+  <detail>FINISH A RACE USING ONLY MANUAL GEARS</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>GET NOTICED</name>
+  <detail>ACHIEVE THE FASTEST LAP IN A GRAND PRIX</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>UNASSISTED</name>
+  <detail>FINISH A RACE WITH ALL DRIVING AIDS TURNED OFF</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>GRAND PRIX WIN</name>
+  <detail>WIN YOUR FIRST GRAND PRIX</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>POLE POSITION</name>
+  <detail>ACHIEVE YOUR FIRST POLE POSITION</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>STIRLING PERFORMANCE</name>
+  <detail>LAP EVERY CAR IN A RACE IN WET CONDITIONS</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>ENDURANCE</name>
+  <detail>COMPLETE A 100% DISTANCE RACE</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>GRADE A PERFORMANCE</name>
+  <detail>EARN AN A RANK IN CHALLENGE MODE</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>LEARNING TO FLY</name>
+  <detail>POST A FLYING LAP TO WIN A TIME TRIAL MEDAL WITH ALL DRIVING AIDS DISABLED</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>UNPLUGGED</name>
+  <detail>WIN A RACE WITH ALL DRIVING AIDS DISABLED</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>BANGER RACING</name>
+  <detail>REPAIR DAMAGE TO YOUR CAR IN THE PITS AND GO ON TO WIN THE RACE</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="000">
+  <name>HIGH ROLLER</name>
+  <detail>WIN THE MONTE CARLO GRAND PRIX WITH VEHICLE DAMAGE ENABLED</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>PRANCER</name>
+  <detail>COMPLETE A LAP OF MONZA WITH AN AVERAGE SPEED GREATER THAN 150MPH (241 KM/H)</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>THE GREATEST OF ALL TIME</name>
+  <detail>WIN EIGHT WORLD CHAMPIONSHIPS</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>CLEAN SWEEP</name>
+  <detail>WIN EVERY GRAND PRIX</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>LEADER OF THE PACK</name>
+  <detail>ACHIEVE POLE ON EVERY CIRCUIT</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>GO THE DISTANCE</name>
+  <detail>DRIVE 1000 MILES (1610KM)</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="G" pid="000">
+  <name>DRIVING LEGEND</name>
+  <detail>BEAT THE REAL WORLD LAP RECORD ON ANY CIRCUIT</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="G" pid="000">
+  <name>TIMED TO PERFECTION</name>
+  <detail>ACHIEVE ALL GOLD TIME TRIAL TROPHIES</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="G" pid="000">
+  <name>LEGENDARY CHARGE!</name>
+  <detail>WIN A RACE STARTING FROM 24TH ON THE GRID</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="G" pid="000">
+  <name>MUST DASH!</name>
+  <detail>EARN 14 POLE POSITIONS IN A SINGLE SEASON</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="G" pid="000">
+  <name>SHOE MAKER</name>
+  <detail>EARN 149 CHAMPIONSHIP POINTS OR MORE IN A SINGLE SEASON</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="G" pid="000">
+  <name>CHAMPION</name>
+  <detail>BEAT SEBASTIAN VETTEL IN THE CHALLENGE MODE HEAD TO HEAD RACE</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,56 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000033af41aeda397d399240403764962dcf3e1e59526dbba2c796ef48fcad1df21c564ee10af282af13388942f0b3267abdd6110467add7ecce27b4f04df28e071bdb992135c48923196454ddff9a45df8298292ba52700253ea9dadf52b490f11493edb36f263ad5b7b16d9a731fe29a3f6c23b835af0f741256689e59d31e3be7bc33a6b3ec3a8129906965fecfcd29ed7a143a0c-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR03720_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>ネクレボ 宅建試験</title-name>
+ <title-detail>『ネクレボ 宅建試験』のトロフィーセットです。&#x0a;問題に正解したり、ゲーム学習で遊んだり、ショップで購入したりすることでトロフィーが獲得できます。&#x0a;たくさん学習して、すべてのトロフィーの獲得を目指しましょう。&#x0a;</title-detail>
+ <trophy id="000" hidden="no" ttype="G" pid="-1">
+  <name>全トロフィー取得</name>
+  <detail>すべてのトロフィーを獲得する。</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="-1">
+  <name>アイテムコレクター</name>
+  <detail>ポイントショップですべての商品を購入する。</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="-1">
+  <name>全問題制覇！</name>
+  <detail>収録されている問題をすべて正解する。</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="-1">
+  <name>日々の努力の成果</name>
+  <detail>プレイ時間が10時間を超える。</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>チャレンジャー</name>
+  <detail>チャレンジコースの１つを初めてクリアする。</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>学習開始！</name>
+  <detail>練習問題を初めてプレイする。</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>本番試験に臨もう！</name>
+  <detail>設定した学習完了日を経過する。</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>チェンジで</name>
+  <detail>初めてキャラクターを変更する。</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>風船割りマニア</name>
+  <detail>ゲーム学習の『BALLOON SHOOT!』で、スコア1000点以上を取得する。</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>第六感持ち</name>
+  <detail>ゲーム学習の『Ghost Hunt』で、スコア1000点以上を取得する。</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>超反応</name>
+  <detail>ゲーム学習の『Rush Attack』で、スコア1000点以上を取得する。</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="-1">
+  <name>半分できました</name>
+  <detail>模擬試験の自動生成試験で5割以上のスコアを取得する。</detail>
+ </trophy>
+</trophyconf>

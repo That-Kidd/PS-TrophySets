@@ -1,0 +1,100 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000e259048d35d79aabd73be2b540e38af3c6288af59196e60d3541d7456fec70f3973cae36fa9ed4b97fa6490a915d4c583ef19faa185f7d9436ff69635f8133cbc685bfe4f8d964ab3e0b83fbb41994a85f698432a14a1808bd6634cb3625b671cd43f1f96faade6da72075d7a361e9851843910cc2e7605823f9ccc5dcd77a80db011c37bbd46967749cbb1fb307b34d47bc0419-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR10389_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>ダンジョントラベラーズ2-2 トロフィー</title-name>
+ <title-detail>ダンジョントラベラーズ2-2 トロフィー</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>プラチナトラベラーズ</name>
+  <detail>全てのトロフィーを獲得した</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>一万取得</name>
+  <detail>所持金1万を所持した</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>ら～めん屋営業中</name>
+  <detail>ら～めん屋を利用した</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>アイス屋営業中</name>
+  <detail>アイス屋を利用した</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>鍛冶屋営業中</name>
+  <detail>鍛冶屋を利用した</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>依頼屋営業中</name>
+  <detail>依頼を達成した</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>お着替えしましょう</name>
+  <detail>着替え屋を利用した</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>闇変異種討伐</name>
+  <detail>初めて闇変異種を倒した</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>銃入手</name>
+  <detail>珍しい武器である「銃」を入手した</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>マモノ撃滅</name>
+  <detail>マモノを５０００体撃破した</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>十万取得</name>
+  <detail>所持金10万を所持した</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>依頼屋常連</name>
+  <detail>依頼屋レベルが１０になった</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>収穫祭</name>
+  <detail>スイーツ系のマモノを１００体撃破した</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>獣人ハント</name>
+  <detail>獣人系の敵を１００体撃破した</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>ただいま</name>
+  <detail>再びアクティム周辺に足を踏み入れた</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="S" pid="000">
+  <name>借金返済計画始動</name>
+  <detail>モニカの店が開店した</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="G" pid="000">
+  <name>極</name>
+  <detail>鍛冶屋で極まで鍛えた</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="G" pid="000">
+  <name>マモノ殲滅</name>
+  <detail>マモノを１００００体撃破した</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="G" pid="000">
+  <name>変異種封印書マニア</name>
+  <detail>変異種の封印書を１８個手に入れた</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="G" pid="000">
+  <name>講義完了</name>
+  <detail>ウーティスの講義を最後まで聞いた</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="G" pid="000">
+  <name>討伐隊再結成</name>
+  <detail>全ての元討伐隊の仲間が戦線に復帰した</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="G" pid="000">
+  <name>グリューネワース</name>
+  <detail>封印を解き、再び街の時間が動き出した</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="G" pid="000">
+  <name>取り戻した日々</name>
+  <detail>元の生活を取り戻した？</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,172 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000dead239c188b6021a2482327fbdd97e3be6282683d1cc684bce168771b0ce394e8e1f3b4b351ac1ffce41e9063249e87636effac531d0f14a5f409e1d718d2122265da66fa71653d7179e16ca95facbc663f75002af196e6d811dbad1d5b98b7288818bed14e725932fa79efa0e8ece97286ca8a36ca57b31be95f5404ea2b93c9f53781acf15426d66b275a0acd7b96da3fe011-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR08474_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>오오에도 블랙스미스</title-name>
+ <title-detail>오오에도 블랙스미스 트로피 세트.&#x0a;</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>오오에도 마스터</name>
+  <detail>모든 트로피 획득</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>여기가 유곽이란 곳인가</name>
+  <detail>유곽 첫 방문</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>한번은 실수할 수 있지</name>
+  <detail>아가씨와의 약속을 한 번 어김</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>이번까지만이야</name>
+  <detail>아가씨와의 약속을 두 번 어김</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>첫 단추를 잘 끼워야</name>
+  <detail>단조를 처음 행함</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>초짜 대장장이</name>
+  <detail>50회 단조</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>능숙한 대장장이</name>
+  <detail>100회 단조</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>대장장이의 감이랄까</name>
+  <detail>200회 단조</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>우월한 대장장이</name>
+  <detail>300회 단조</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>첫 강화</name>
+  <detail>강화를 처음 행함</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>최강의 대장장이</name>
+  <detail>500회 단조</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>신의 손</name>
+  <detail>최고의 대장장이가 됨</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>딱 한판만 해야지</name>
+  <detail>도박장 첫 방문</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="000">
+  <name>도박꾼</name>
+  <detail>도박장에서 15회 승</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>타짜</name>
+  <detail>도박장에서 30회 승</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>드디어 나에게도..</name>
+  <detail>첫 의뢰를 받음</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>어디 한번 찾아볼까</name>
+  <detail>첫 재료 탐색을 행함</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>많이 찾았군</name>
+  <detail>20회 재료 탐색</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="S" pid="000">
+  <name>찾을 만큼 찾았어</name>
+  <detail>100회 재료 탐색</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="S" pid="000">
+  <name>더 이상 찾을 곳이 없다</name>
+  <detail>채굴장을 모두 제패</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>이리 오너라</name>
+  <detail>마을 첫 방문</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>골목대장</name>
+  <detail>마을 20회 방문</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="S" pid="000">
+  <name>터줏대감</name>
+  <detail>마을 100회 방문</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="S" pid="000">
+  <name>키요하나와의 행복한 결말</name>
+  <detail>키요하나 해피 엔딩</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>키요하나와의 결말</name>
+  <detail>키요하나 노멀 엔딩</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="B" pid="000">
+  <name>키요하나의 불행</name>
+  <detail>키요하나 배드 엔딩</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="S" pid="000">
+  <name>아사카와의 행복한 결말</name>
+  <detail>아사카 해피 엔딩</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="S" pid="000">
+  <name>아사카와의 결말</name>
+  <detail>아사카 노멀 엔딩</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="B" pid="000">
+  <name>아사카의 불행</name>
+  <detail>아사카 배드 엔딩</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="S" pid="000">
+  <name>유우기리와의 행복한 결말</name>
+  <detail>유우기리 해피 엔딩</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="S" pid="000">
+  <name>유우기리와의 결말</name>
+  <detail>유우기리 노멀 엔딩</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="B" pid="000">
+  <name>유우기리의 불행</name>
+  <detail>유우기리 배드 엔딩</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="S" pid="000">
+  <name>란마루와의 결말</name>
+  <detail>란마루 엔딩</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="S" pid="000">
+  <name>카나와의 결말</name>
+  <detail>카나 엔딩</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="S" pid="000">
+  <name>히토에와의 결말</name>
+  <detail>히토에 엔딩</detail>
+ </trophy>
+ <trophy id="035" hidden="yes" ttype="S" pid="000">
+  <name>키리와의 결말</name>
+  <detail>키리 엔딩</detail>
+ </trophy>
+ <trophy id="036" hidden="yes" ttype="S" pid="000">
+  <name>리사와의 결말</name>
+  <detail>리사 엔딩</detail>
+ </trophy>
+ <trophy id="037" hidden="yes" ttype="S" pid="000">
+  <name>마세와의 결말</name>
+  <detail>마세 엔딩</detail>
+ </trophy>
+ <trophy id="038" hidden="yes" ttype="B" pid="000">
+  <name>고독한 결말</name>
+  <detail>고독 엔딩</detail>
+ </trophy>
+ <trophy id="039" hidden="yes" ttype="S" pid="000">
+  <name>백만장자</name>
+  <detail>돈을 1,000,000 푼 모음</detail>
+ </trophy>
+ <trophy id="040" hidden="yes" ttype="G" pid="000">
+  <name>아가씨들과의 추억</name>
+  <detail>이벤트 CG 전체 수집</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,72 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000090027389ee04bce5143e3f606beecbade712a62d8d5b161d083f9c8df7b4fe15df292e37ed5b7ead62d118fb495ed2b4f3b3632f3415dab63868a8358d24f0e98c56086cd80742ec6611f8cd8aa031ecb510b2be7943e3fc60485c0afa3b8932fb4d58001e36cb59c21b00282ade9986262afd605346be2ae45fc3f637d500a12c5e238e53e69d2050bd834900427b5ca22bef3c-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR10561_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Claire</title-name>
+ <title-detail>The trophy set for Claire.</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Completionist</name>
+  <detail>Acquire all trophies.</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="G" pid="000">
+  <name>The Truth</name>
+  <detail>Reach the end of the Apartment level.</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="G" pid="000">
+  <name>Wake Up</name>
+  <detail>Finish the game on Nightmare difficulty.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>The Good One</name>
+  <detail>Get the 'A' ending.</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="S" pid="000">
+  <name>Boogeyman</name>
+  <detail>Defeat the glower.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>But Who Was Phone?</name>
+  <detail>Answer the phone.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>Troublemaker</name>
+  <detail>Become a delinquent.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>Butterfly Collector</name>
+  <detail>Collect some butterfies.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>Butterfly Expert</name>
+  <detail>Collect MORE butterflies.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>Note Collector</name>
+  <detail>Find some notes.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>Note Expert</name>
+  <detail>Find ALL notes.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>Released</name>
+  <detail>Reach the end of the Hospital.</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>Survival</name>
+  <detail>Survive.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="000">
+  <name>Item Hoarder</name>
+  <detail>Find tons of items.</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="G" pid="000">
+  <name>Otherworld</name>
+  <detail>Reach the other side.</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="G" pid="000">
+  <name>School's Out</name>
+  <detail>Reach the end of the School.</detail>
+ </trophy>
+</trophyconf>

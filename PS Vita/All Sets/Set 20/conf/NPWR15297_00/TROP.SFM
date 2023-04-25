@@ -1,0 +1,208 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000047e6129735002888bea06722ab3c1ff51e44bf3c39b6e0816853a9c0d8020c70d300e3a4f712b59b02b6737c8f3684b253e7b6075c175bec34df2957777b31ed2237f8f6ca1ebc2e378c6f678c291545d94eaf2103ddbb6821dac685c8415d1cbe28c1eba12aa54587b3e0d8afe4bc6b7e452f5852a30053fe02bfd96b486f8e1c40f55eae43eb64bf3b1d3089d6a7b582e98ad8-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR15297_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Dragooned</title-name>
+ <title-detail>Dragooned's trophy set</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Dexterous Dragooner</name>
+  <detail>Obtain all trophies for Dragooned</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="000">
+  <name>Endless Entrant</name>
+  <detail>Clear 50 levels in Endless Dungeon</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>Endless Expert</name>
+  <detail>Clear 100 levels in Endless Dungeon</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>Endless Excellence</name>
+  <detail>Clear 200 levels in Endless Dungeon</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>Triple Threat, Triple Trashed</name>
+  <detail>Win a Skirmish against 3 enemies on Hard difficulty</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>Slaughterhouse</name>
+  <detail>Defeat 50 enemies in a single Onslaught</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>Slaughtercastle</name>
+  <detail>Defeat 120 enemies in a single Onslaught</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>Up To The Challenge</name>
+  <detail>Clear 20 Challenges</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>Slayer Of Super Soldiers</name>
+  <detail>Clear "The Most Evil Battle Ever" in Challenges</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>Learned Warriors</name>
+  <detail>Clear all Tutorials</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>Not Quite So Reckless</name>
+  <detail>Land 3 or more attacks while Perfect Blocking with a single Stand Ground from Cherry in Endless Dungeon, Skirmish, Onslaught or Challenges 41 and up</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>DANCE, PUPPET, DANCE</name>
+  <detail>Damage a single enemy 3 or more times while they are in the air followed by a Power Drive before they touch the ground again with Knight in Endless Dungeon, Skirmish, Onslaught or Challenges 41 and up</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>Lightbearer</name>
+  <detail>While Elixir is active, land 10 or more Photon Rays with Alberto in Endless Dungeon, Skirmish, Onslaught or Challenges 41 and up</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>Ceres Cleaver</name>
+  <detail>Employ a second Hatchetwirl less than 8 seconds after the previous Hatchetwirl with Tara in Endless Dungeon, Skirmish, Onslaught or Challenges 41 and up</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>Viper King</name>
+  <detail>Land 20 hits while flying without landing on the ground with Pound in Endless Dungeon, Skirmish, Onslaught or Challenges 41 and up</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>A Legend Forged From Steel</name>
+  <detail>Land 30 hits with a single Frisblade throw from Cook in Endless Dungeon, Skirmish, Onslaught or Challenges 41 and up</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Zero In On The Weak Point</name>
+  <detail>Land 15 hits on Throat Jabbed enemies from a single Throat Jab with Claire in Endless Dungeon, Skirmish, Onslaught or Challenges 41 and up</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Siphonic Stockpiler</name>
+  <detail>Store 30 free Vital Shots with Jimmy in Endless Dungeon, Skirmish, Onslaught or Challenges 41 and up</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>Artillery Acme</name>
+  <detail>Defeat an enemy while Multi-Shot is active and Heavy Focus' trigger conditions are fulfilled with Brooks in Endless Dungeon, Skirmish, Onslaught or Challenges 41 and up</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Can't Stop Grandma Sentinel</name>
+  <detail>Defeat an enemy suffering from both Stun and Blind with Melissa in Endless Dungeon, Skirmish, Onslaught or Challenges 41 and up</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>My Soul Needs The Heat Of Battle</name>
+  <detail>Land 20 hits without suffering damage with Tyler in Endless Dungeon, Skirmish, Onslaught or Challenges 41 and up</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>Entrapment</name>
+  <detail>Defeat 3 enemies with a single Barrel Chain from Erin in Endless Dungeon, Skirmish, Onslaught or Challenges 41 and up</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>Eternal</name>
+  <detail>Land 5 Precision Pistol shots in a row at their optimal range with Simon in Endless Dungeon, Skirmish, Onslaught or Challenges 41 and up</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>Give Your All For Your Redemption</name>
+  <detail>Trigger Thor Animus 5 times each within 2 seconds of each other with Gregory in Endless Dungeon, Skirmish, Onslaught or Challenges 41 and up</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>No Clowning With This Juggling</name>
+  <detail>Land 10 Juggled attacks within 1 second of each other with Bethany in Endless Dungeon, Skirmish, Onslaught or Challenges 41 and up</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>Feh</name>
+  <detail>Land 100 hits with a single Behemoth rapid-fire from Ashley in Endless Dungeon, Skirmish, Onslaught or Challenges 41 and up</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>Nuclear Exorcist</name>
+  <detail>Defeat 2 enemies or more while Competency Nuke is charging and have Competency Nuke defeat 2 enemies or more when it detonates with a single Competency Nuke from John A in Endless Dungeon, Skirmish, Onslaught or Challenges 41 and up</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>Duty To Defend</name>
+  <detail>When Ocean of the Mind is not active, land 10 hits from a Perfect Defend Dual Chainsaw attack with Alex in Endless Dungeon, Skirmish, Onslaught or Challenges 41 and up</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>Pro Gambler</name>
+  <detail>While Maximus is active, defeat 8 enemies during a single Maximus with Sean in Endless Dungeon, Skirmish, Onslaught or Challenges 41 and up</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>Monster In Human Form</name>
+  <detail>While Angel of Death is active, fire 20 rockets during a single Angel of Death with Dominic in Endless Dungeon, Skirmish, Onslaught or Challenges 41 and up</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>Courage in Human Form</name>
+  <detail>Trigger Heal 4 times within 8 seconds of each other with Arthur in Endless Dungeon, Skirmish, Onslaught or Challenges 41 and up</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>In Her Own Little World</name>
+  <detail>While Liberation is active, defeat 3 enemies within the duration of a single Liberation with Hayley in Endless Dungeon, Skirmish, Onslaught or Challenges 41 and up</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>Taking Every Opportunity</name>
+  <detail>While Absolute Zero is active, land 10 hits on Stunned enemies within the duration of a single Absolute Zero with Sabine in Endless Dungeon, Skirmish, Onslaught or Challenges 41 and up</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>Unrelenting</name>
+  <detail>Reach a Combo modifier of 10 or higher with Robyn in Endless Dungeon, Skirmish, Onslaught or Challenges 41 and up</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>Hostile Takeover</name>
+  <detail>Have a single Total Control last 30 seconds or more with Mia in Endless Dungeon, Skirmish, Onslaught or Challenges 41 and up</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>Control Master</name>
+  <detail>Remove 20 projectiles total between 4 consecutive Redirects with Craig in Endless Dungeon, Skirmish, Onslaught or Challenges 41 and up</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>Control Thrown To The Wind</name>
+  <detail>Unleash a second Path to Hell while the first Path to Hell is still active with Rory in Endless Dungeon, Skirmish, Onslaught or Challenges 41 and up</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>Thuggery With Technique</name>
+  <detail>Land 20 hits with a single Brute Force from Kyra in Endless Dungeon, Skirmish, Onslaught or Challenges 41 and up</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>Hyperactive</name>
+  <detail>Trigger Debilitation 4 times within 8 seconds of each other with Zippy in Endless Dungeon, Skirmish, Onslaught or Challenges 41 and up</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="000">
+  <name>Mama Lion</name>
+  <detail>While Fog of War is active, land 100 hits within a Healing Cloud during a single Fog of War with Miranda in Endless Dungeon, Skirmish, Onslaught or Challenges 41 and up</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="B" pid="000">
+  <name>Destruction Through Construction</name>
+  <detail>While Construction Magic is active, land 20 hits with Girders during a single Construction Magic with Noah in Endless Dungeon, Skirmish, Onslaught or Challenges 41 and up</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="B" pid="000">
+  <name>Beckon The Earth</name>
+  <detail>Have a single Golem defeat 5 enemies with Erica in Endless Dungeon, Skirmish, Onslaught or Challenges 41 and up</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="B" pid="000">
+  <name>Grovel Before The Evil Empress</name>
+  <detail>While Burn To The Soul is active, knockback enemies into walls 10 times during a single Burn To The Soul with Lucia in Endless Dungeon, Skirmish, Onslaught or Challenges 41 and up</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="B" pid="000">
+  <name>I Don't Want Any Civilians Getting Hurt</name>
+  <detail>Have a single Force Fighter squadron land 80 hits with Thormia in Endless Dungeon, Skirmish, Onslaught or Challenges 41 and up</detail>
+ </trophy>
+ <trophy id="044" hidden="no" ttype="B" pid="000">
+  <name>Fire Doesn't Work, Acid Doesn't Work</name>
+  <detail>Call Power Growth again while Power Growth is already active with Impossible in Endless Dungeon, Skirmish, Onslaught or Challenges 41 and up</detail>
+ </trophy>
+ <trophy id="045" hidden="no" ttype="B" pid="000">
+  <name>Effectively Immortal</name>
+  <detail>Land 50 hits without suffering damage with Alessus in Endless Dungeon, Skirmish, Onslaught or Challenges 41 and up</detail>
+ </trophy>
+ <trophy id="046" hidden="no" ttype="B" pid="000">
+  <name>Master Of Illusion</name>
+  <detail>Call Czmrlzbj less than 8 seconds after it left from its previous calling with Polydegmon in Endless Dungeon, Skirmish, Onslaught or Challenges 41 and up</detail>
+ </trophy>
+ <trophy id="047" hidden="no" ttype="B" pid="000">
+  <name>It's Really Just That Simple</name>
+  <detail>Trigger 3 consecutive Voidwalk Boosts in a row with Space God Traven in Endless Dungeon, Skirmish, Onslaught or Challenges 41 and up</detail>
+ </trophy>
+ <trophy id="048" hidden="no" ttype="B" pid="000">
+  <name>Adonis Would Weep If He Saw My Magnificence</name>
+  <detail>Trigger Lady's Blessing for 3 Philosophy Drive Modes in a row with John Socrates Deepsoulington in Endless Dungeon, Skirmish, Onslaught or Challenges 41 and up</detail>
+ </trophy>
+ <trophy id="049" hidden="no" ttype="B" pid="000">
+  <name>Always A Detective At My Core</name>
+  <detail>While Dark Rebirth is active, land 30 hits during a single Dark Rebirth with Hans Hansagashi in Endless Dungeon, Skirmish, Onslaught or Challenges 41 and up</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,108 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000f89ae27521fe642f94ef210c0fe65900060f07d4176680b969a0f5e97adafff3c41004cf6b624051a04d60d1c14ac64dc098a7c3c5e9defba6304c392be63a8203e7c661e1a68b7a6657387458077812d50da96de405ff2301e1cecbd86bf18b780ce292717d2a08beb452be7268bf29722b234577f4fee10e3bcbb4ec30f4fdce41d8a9d0c3eccf71c0394cf7e2ed29462fa7c5-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR11682_00</npcommid>
+ <trophyset-version>01.02</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Atari Flashback Classics vol.2</title-name>
+ <title-detail>Atari Flashback Classics vol.2</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Platinum Trophy</name>
+  <detail>Earn all trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Wanderer</name>
+  <detail>Try every game</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Square Dancing</name>
+  <detail>Solve Atari Video Cube</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Music Lessons</name>
+  <detail>Play Happy Birthday in Brain Games' Play-Me (Game 19)</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>Bentley's Best</name>
+  <detail>Reach the top of the local scoreboard in Crystal Castles</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>Ranger</name>
+  <detail>Get a score of at least 10 in solo game of Flag Capture</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>Garbage Day</name>
+  <detail>Hit the ejected garbage in Major Havoc</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>Missile Commander</name>
+  <detail>Reach the top of the local scoreboard in Missile Command</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>Flying High</name>
+  <detail>Earn a bonus life in Red Baron</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>Stealthy</name>
+  <detail>Win Level 2 without slaying a single dragon in Adventure</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>UFO Hunter</name>
+  <detail>Kill 10 UFOs in a single level of arcade Asteroids without dying</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>Escape Velocity</name>
+  <detail>Reach the top of the local scoreboard in Gravitar</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>I Ain't Afraid of No House</name>
+  <detail>Win Ultimate Haunted House (Game 9)</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>The Major Gets a Promotion</name>
+  <detail>Reach the top of the local scoreboard in Major Havoc</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>Red Sunset</name>
+  <detail>Get to level 19 in arcade Missile Command</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>We Can Rebuild</name>
+  <detail>Earn a bonus city in arcade Missile Command after losing all your cities</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>Dot Swatter</name>
+  <detail>Get a score of at least 40 in Race's solo Crash n Score (Game 8)</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>Brick Slayer</name>
+  <detail>Clear a full screen in arcade Super Breakout while playing cavity or double</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>Patience</name>
+  <detail>Win a game of Video Chess against the machine at Skill Level 4</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="G" pid="000">
+  <name>Home for Dinner</name>
+  <detail>Finish Adventure Level 1 in under 40 seconds</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="G" pid="000">
+  <name>Pacifist</name>
+  <detail>Go an entire level of arcade Asteroids with a score of zero</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="G" pid="000">
+  <name>Unrocking your World</name>
+  <detail>Get to a score of 50,000 without losing a life in Asteroids Deluxe</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="G" pid="000">
+  <name>Eyes on the Road</name>
+  <detail>Get extended play in a Sprint 2 race without hitting any walls or oil</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="G" pid="000">
+  <name>Hello, Beta Pegasi!</name>
+  <detail>Get to 60 parsecs in Star Ship's Warp Drive game (Games 10 or 11)</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="G" pid="000">
+  <name>I Own the Quadrant</name>
+  <detail>Attain a rank of Admiral in a game of Stellar Track</detail>
+ </trophy>
+</trophyconf>

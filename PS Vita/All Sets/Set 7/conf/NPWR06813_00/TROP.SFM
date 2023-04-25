@@ -1,0 +1,188 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000007dfa3eeb31051eb92498b9d024b4e769d6d2e2185846cea7901ab4b27da3753f42053602771af97a39c9eb9ba11e471cc8472e61eb0edac7d8174d44c3477ba210917000f3a8c83a8673e0b80af7087bdef7f72039452095b07f302628f8fd7d832997dadc2a2f698c872821cd067a919420922d630452cb78419f90cc74d1114ff5ff864a94a79586d8f06a1fe7ea31910e1844-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR06813_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Hyperdimension Neptunia Re;Birth1</title-name>
+ <title-detail>Hyperdimension Neptunia Re;Birth1</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Hyperdimension Neptunia Re;Birth1 Master</name>
+  <detail>You played the game so much, you made Neptune folks proud!</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>...and the story begins</name>
+  <detail>You started the game</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>Chapter 1 Clear</name>
+  <detail>Chapter 1 Cleared</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>Chapter 2 Clear</name>
+  <detail>Chapter 2 Cleared</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>Chapter 3 Clear</name>
+  <detail>Chapter 3 Cleared</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>Chapter 4 Clear</name>
+  <detail>Chapter 4 Cleared</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>Chapter 5 Clear</name>
+  <detail>Chapter 5 Cleared</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>Chapter 6 Clear</name>
+  <detail>Chapter 6 Cleared</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>Chapter 7 Clear</name>
+  <detail>Chapter 7 Cleared</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="000">
+  <name>Chapter 8 Clear</name>
+  <detail>Chapter 8 Cleared</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>Normal Ending</name>
+  <detail>Watched the Normal Ending</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="G" pid="000">
+  <name>True Ending</name>
+  <detail>Watched the True Ending</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="B" pid="000">
+  <name>Combo Maker</name>
+  <detail>You made your first combo</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>Neptune Level Max</name>
+  <detail>Neptune reached level 99</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>Compa Level Max</name>
+  <detail>Compa reached level 99</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="S" pid="000">
+  <name>IF Level Max</name>
+  <detail>IF reached level 99</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="S" pid="000">
+  <name>Noire Level Max</name>
+  <detail>Noire reached level 99</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="S" pid="000">
+  <name>Vert Level Max</name>
+  <detail>Vert reached level 99</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="S" pid="000">
+  <name>Blanc Level Max</name>
+  <detail>Blanc reached level 99</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="S" pid="000">
+  <name>MAGES. Level Max</name>
+  <detail>MAGES. reached level 99</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="S" pid="000">
+  <name>Marvelous AQL Level Max</name>
+  <detail>Marvelous AQL reached level 99</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="S" pid="000">
+  <name>Falcom Level Max</name>
+  <detail>Falcom reached level 99</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="S" pid="000">
+  <name>Broccoli Level Max</name>
+  <detail>Broccoli reached level 99</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="S" pid="000">
+  <name>CyberConnect2 Level Max</name>
+  <detail>CyberConnect2 reached level 99</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="S" pid="000">
+  <name>Tekken Level Max</name>
+  <detail>Tekken reached level 99</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="S" pid="000">
+  <name>Nepgear Level Max</name>
+  <detail>Nepgear reached level 99</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="S" pid="000">
+  <name>Uni Level Max</name>
+  <detail>Uni reached level 99</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="S" pid="000">
+  <name>Rom Level Max</name>
+  <detail>Rom reached level 99</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="S" pid="000">
+  <name>Ram Level Max</name>
+  <detail>Ram reached level 99</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="B" pid="000">
+  <name>Nepgear Teams Up</name>
+  <detail>Nepgear joined the party</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="B" pid="000">
+  <name>Uni Teams Up</name>
+  <detail>Uni joined the party&#x0a;</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="B" pid="000">
+  <name>Rom and Ram Teams Up</name>
+  <detail>Rom and Ram joined the party</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="B" pid="000">
+  <name>Item Creator</name>
+  <detail>Made your first item</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="S" pid="000">
+  <name>Item Master</name>
+  <detail>Made 100 different items</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="B" pid="000">
+  <name>Millionaire</name>
+  <detail>Obtained 100 Million Credits</detail>
+ </trophy>
+ <trophy id="035" hidden="yes" ttype="B" pid="000">
+  <name>Game Creator</name>
+  <detail>Created your first game disc</detail>
+ </trophy>
+ <trophy id="036" hidden="yes" ttype="B" pid="000">
+  <name>Game Remake</name>
+  <detail>Used the remake system</detail>
+ </trophy>
+ <trophy id="037" hidden="yes" ttype="B" pid="000">
+  <name>First Battle</name>
+  <detail>You fought your first battle</detail>
+ </trophy>
+ <trophy id="038" hidden="yes" ttype="S" pid="000">
+  <name>Battle Master</name>
+  <detail>Won 500 fights</detail>
+ </trophy>
+ <trophy id="039" hidden="yes" ttype="B" pid="000">
+  <name>Shopping</name>
+  <detail>You bought items for the first time</detail>
+ </trophy>
+ <trophy id="040" hidden="yes" ttype="B" pid="000">
+  <name>Godsized</name>
+  <detail>Transformed for the first time</detail>
+ </trophy>
+ <trophy id="041" hidden="yes" ttype="B" pid="000">
+  <name>Overclocked</name>
+  <detail>Equipped a new processor unit</detail>
+ </trophy>
+ <trophy id="042" hidden="yes" ttype="B" pid="000">
+  <name>First Quest</name>
+  <detail>You cleared your first quest</detail>
+ </trophy>
+ <trophy id="043" hidden="yes" ttype="B" pid="000">
+  <name>Maximum Fire Power</name>
+  <detail>Inflicted more than 100,000 damage points to an enemy</detail>
+ </trophy>
+ <trophy id="044" hidden="yes" ttype="B" pid="000">
+  <name>Combo Master</name>
+  <detail>Performed a 100 hit combo</detail>
+ </trophy>
+</trophyconf>

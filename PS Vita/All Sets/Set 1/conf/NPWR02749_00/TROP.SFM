@@ -1,0 +1,408 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000a001d43ad33789414cbc85257d64f38dd4726eb183e2f1bb9a054024526dcf07cf8bc4f9b84f76e1527c81c6f1e8f077a91fa7a8fb374695a29361e6b3f0171440a732c0d983602d7531945a8e097a70b07cbb71c91f42ecc442ce21877eabcb3a8400632fe167566ae1c28b00db76884b620630a667eeac34bc92fade62364f7da5c5c2e39d05533cb028e47ca21661032fc525-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR02749_00</npcommid>
+ <trophyset-version>01.09</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Sound Shapes</title-name>
+ <title-detail>Sound Shapes Trophies</title-detail>
+ <group id="001">
+  <name>Acoustic Sound Pack</name>
+  <detail>Sound Shapes Trophies</detail>
+ </group>
+ <group id="002">
+  <name>Drum Kits Sound Pack</name>
+  <detail>Sound Shapes Trophies</detail>
+ </group>
+ <group id="003">
+  <name>8-Bit Sound Pack</name>
+  <detail>Sound Shapes Trophies</detail>
+ </group>
+ <group id="004">
+  <name>Do You Wheelie Want to Hurt Me</name>
+  <detail>Sound Shapes Trophies</detail>
+ </group>
+ <group id="005">
+  <name>80s Sound Pack</name>
+  <detail>Sound Shapes Trophies</detail>
+ </group>
+ <group id="006">
+  <name>Dubstep Sound Pack</name>
+  <detail>Sound Shapes Trophies</detail>
+ </group>
+ <group id="007">
+  <name>Old School Sound Pack</name>
+  <detail>Sound Shapes Trophies</detail>
+ </group>
+ <group id="008">
+  <name>Vocoder Sound Pack</name>
+  <detail>Sound Shapes Trophies</detail>
+ </group>
+ <group id="009">
+  <name>Brass Sound Pack</name>
+  <detail>Sound Shapes Trophies</detail>
+ </group>
+ <group id="010">
+  <name>Hohokum Art and Sound Pack</name>
+  <detail>Sound Shapes Trophies</detail>
+ </group>
+ <group id="011">
+  <name>Future Funk 3000 Sound Pack</name>
+  <detail>Sound Shapes Trophies</detail>
+ </group>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>You've Gone Platinum</name>
+  <detail>Complete all Death Mode and Beat School levels.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>Campaign Complete</name>
+  <detail>Complete all Campaign levels.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>Death Mode: Hills n' Spills</name>
+  <detail>Complete the Death Mode level.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>Death Mode: Sparkle Darkle</name>
+  <detail>Complete the Death Mode level.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>Death Mode: Sneak n' Deke</name>
+  <detail>Complete the Death Mode level.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>Death Mode: Rowdy Cloudy</name>
+  <detail>Complete the Death Mode level.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>Death Mode: Thermogenica #1</name>
+  <detail>Complete the Death Mode level.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>Death Mode: Thermogenica #2</name>
+  <detail>Complete the Death Mode level.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>Death Mode: Mechanica</name>
+  <detail>Complete the Death Mode level.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>Death Mode: Aquatica</name>
+  <detail>Complete the Death Mode level.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>Death Mode: Extraterrestria</name>
+  <detail>Complete the Death Mode level.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>Death Mode: Disasteroids</name>
+  <detail>Complete the Death Mode level.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>Death Mode: Galaxanoids</name>
+  <detail>Complete the Death Mode level.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>Death Mode: Invaderoids</name>
+  <detail>Complete the Death Mode level.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>Death Mode: Break-a-noids</name>
+  <detail>Complete the Death Mode level.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>Death Mode: Purgatory #1</name>
+  <detail>Complete the Death Mode level.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>Death Mode: Purgatory #2</name>
+  <detail>Complete the Death Mode level.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>Death Mode: Event Horizon #1</name>
+  <detail>Complete the Death Mode level.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>Death Mode: Event Horizon #2</name>
+  <detail>Complete the Death Mode level.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="000">
+  <name>Death Mode: Cities</name>
+  <detail>Complete the Death Mode level.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>Death Mode: Touch The People</name>
+  <detail>Complete the Death Mode level.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>Death Mode: Spiral Staircase</name>
+  <detail>Complete the Death Mode level.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>Beat School: Straight Up</name>
+  <detail>Complete the Beat School level.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>Beat School: Tiny Groove</name>
+  <detail>Complete the Beat School level.</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>Beat School: Hi-Hat Spice (not very spicy)</name>
+  <detail>Complete the Beat School level.</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="S" pid="000">
+  <name>Beat School: Lullaby</name>
+  <detail>Complete the Beat School level.</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="S" pid="000">
+  <name>Beat School: Chord Tweak</name>
+  <detail>Complete the Beat School level.</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="S" pid="000">
+  <name>Beat School: Chordaby</name>
+  <detail>Complete the Beat School level.</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="S" pid="000">
+  <name>Beat School: A Rolling Frolic</name>
+  <detail>Complete the Beat School level.</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="S" pid="000">
+  <name>Beat School: It's Getting Tense In Here</name>
+  <detail>Complete the Beat School level.</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="S" pid="000">
+  <name>Beat School: Uh Oh</name>
+  <detail>Complete the Beat School level.</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="S" pid="000">
+  <name>Beat School: Roll The Bass Dice</name>
+  <detail>Complete the Beat School level.</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="S" pid="000">
+  <name>Beat School: Cuts, Scrapes and Scratches</name>
+  <detail>Complete the Beat School level.</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="S" pid="000">
+  <name>Beat School: Muting Technique</name>
+  <detail>Complete the Beat School level.</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="S" pid="-1" gid="001">
+  <name>Beat School: Guitar Serenity 1</name>
+  <detail>Complete the Beat School level.</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="S" pid="-1" gid="001">
+  <name>Beat School: Guitar Serenity 2</name>
+  <detail>Complete the Beat School level.</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="S" pid="-1" gid="001">
+  <name>Beat School: Kalimba Magic</name>
+  <detail>Complete the Beat School level.</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="S" pid="-1" gid="001">
+  <name>Beat School: Piano? PiaYES!</name>
+  <detail>Complete the Beat School level.</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="S" pid="-1" gid="001">
+  <name>Beat School: Harmony Helper</name>
+  <detail>Complete the Beat School level.</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="S" pid="-1" gid="002">
+  <name>Beat School: Basic Rock Beat</name>
+  <detail>Complete the Beat School level.</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="S" pid="-1" gid="002">
+  <name>Beat School: Groovology 101</name>
+  <detail>Complete the Beat School level.</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="S" pid="-1" gid="002">
+  <name>Beat School: Lazy Day Beat</name>
+  <detail>Complete the Beat School level.</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="S" pid="-1" gid="002">
+  <name>Beat School: Robot Invasion</name>
+  <detail>Complete the Beat School level.</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="S" pid="-1" gid="002">
+  <name>Beat School: In The Club</name>
+  <detail>Complete the Beat School level.</detail>
+ </trophy>
+ <trophy id="044" hidden="no" ttype="S" pid="-1" gid="003">
+  <name>Beat School: 8-Bit Melody</name>
+  <detail>Complete the Beat School level.</detail>
+ </trophy>
+ <trophy id="045" hidden="no" ttype="S" pid="-1" gid="003">
+  <name>Beat School: Danger! Danger!</name>
+  <detail>Complete the Beat School level.</detail>
+ </trophy>
+ <trophy id="046" hidden="no" ttype="S" pid="-1" gid="003">
+  <name>Beat School: Bass Boss</name>
+  <detail>Complete the Beat School level.</detail>
+ </trophy>
+ <trophy id="047" hidden="no" ttype="S" pid="-1" gid="003">
+  <name>Beat School: Underworld</name>
+  <detail>Complete the Beat School level.</detail>
+ </trophy>
+ <trophy id="048" hidden="no" ttype="S" pid="-1" gid="003">
+  <name>Beat School: Insert Coin</name>
+  <detail>Complete the Beat School level.</detail>
+ </trophy>
+ <trophy id="049" hidden="no" ttype="S" pid="-1" gid="004">
+  <name>Beat School: Synth Madness 1</name>
+  <detail>Complete the Beat School level.</detail>
+ </trophy>
+ <trophy id="050" hidden="no" ttype="S" pid="-1" gid="004">
+  <name>Beat School: Synth Madness 2</name>
+  <detail>Complete the Beat School level.</detail>
+ </trophy>
+ <trophy id="051" hidden="no" ttype="S" pid="-1" gid="004">
+  <name>Beat School: Badd Syntax</name>
+  <detail>Complete the Beat School level.</detail>
+ </trophy>
+ <trophy id="052" hidden="no" ttype="S" pid="-1" gid="004">
+  <name>Beat School: Pedal to the Metal</name>
+  <detail>Complete the Beat School level.</detail>
+ </trophy>
+ <trophy id="053" hidden="no" ttype="S" pid="-1" gid="004">
+  <name>Beat School: Axe Grinder</name>
+  <detail>Complete the Beat School level.</detail>
+ </trophy>
+ <trophy id="054" hidden="no" ttype="S" pid="-1" gid="005">
+  <name>Beat School: Big Hair Beat</name>
+  <detail>Complete the Beat School level.</detail>
+ </trophy>
+ <trophy id="055" hidden="no" ttype="S" pid="-1" gid="005">
+  <name>Beat School: Shoulder Pads</name>
+  <detail>Complete the Beat School level.</detail>
+ </trophy>
+ <trophy id="056" hidden="no" ttype="S" pid="-1" gid="005">
+  <name>Beat School: Driving the Autobahn</name>
+  <detail>Complete the Beat School level.</detail>
+ </trophy>
+ <trophy id="057" hidden="no" ttype="S" pid="-1" gid="005">
+  <name>Beat School: Fast Times</name>
+  <detail>Complete the Beat School level.</detail>
+ </trophy>
+ <trophy id="058" hidden="no" ttype="S" pid="-1" gid="005">
+  <name>Beat School: Hollywood Cop</name>
+  <detail>Complete the Beat School level.</detail>
+ </trophy>
+ <trophy id="059" hidden="no" ttype="S" pid="-1" gid="006">
+  <name>Beat School: Dubstep Drum Practice</name>
+  <detail>Complete the Beat School level.</detail>
+ </trophy>
+ <trophy id="060" hidden="no" ttype="S" pid="-1" gid="006">
+  <name>Beat School: Synth Grime</name>
+  <detail>Complete the Beat School level.</detail>
+ </trophy>
+ <trophy id="061" hidden="no" ttype="S" pid="-1" gid="006">
+  <name>Beat School: Filthy Bass Monster</name>
+  <detail>Complete the Beat School level.</detail>
+ </trophy>
+ <trophy id="062" hidden="no" ttype="S" pid="-1" gid="006">
+  <name>Beat School: Half-Time Drum Loops</name>
+  <detail>Complete the Beat School level.</detail>
+ </trophy>
+ <trophy id="063" hidden="no" ttype="S" pid="-1" gid="006">
+  <name>Beat School: All You Need is Wub</name>
+  <detail>Complete the Beat School level.</detail>
+ </trophy>
+ <trophy id="064" hidden="no" ttype="S" pid="-1" gid="007">
+  <name>Beat School: A Funky Introduction</name>
+  <detail>Get started with this simple bass loop!</detail>
+ </trophy>
+ <trophy id="065" hidden="no" ttype="S" pid="-1" gid="007">
+  <name>Beat School: The Five Elements</name>
+  <detail>Who got the jazz? Add some horns to your beat!</detail>
+ </trophy>
+ <trophy id="066" hidden="no" ttype="S" pid="-1" gid="007">
+  <name>Beat School: On the One's and Two's</name>
+  <detail>Checka-checka-check out the scratch routine!</detail>
+ </trophy>
+ <trophy id="067" hidden="no" ttype="S" pid="-1" gid="007">
+  <name>Beat School: The Drummer Gets Wicked</name>
+  <detail>Cut and paste drums to make your own breakbeat!</detail>
+ </trophy>
+ <trophy id="068" hidden="no" ttype="S" pid="-1" gid="007">
+  <name>Beat School: Loop Jugglin'</name>
+  <detail>Ultimate hip hop loop builder - word to your moms!</detail>
+ </trophy>
+ <trophy id="069" hidden="no" ttype="S" pid="-1" gid="008">
+  <name>Beat School: Does Not Compute</name>
+  <detail>Start with the basics, countdown like a robot!</detail>
+ </trophy>
+ <trophy id="070" hidden="no" ttype="S" pid="-1" gid="008">
+  <name>Beat School: Artificial Ah Yeah!</name>
+  <detail>Robot feels good!</detail>
+ </trophy>
+ <trophy id="071" hidden="no" ttype="S" pid="-1" gid="008">
+  <name>Beat School: Word to Your Motherboard</name>
+  <detail>Dance, funk, rock and house. You will master all the robotic styles.</detail>
+ </trophy>
+ <trophy id="072" hidden="no" ttype="S" pid="-1" gid="008">
+  <name>Beat School: Text to Speech</name>
+  <detail>How could we resist? Shout out Sound Shapes with this unique beat.</detail>
+ </trophy>
+ <trophy id="073" hidden="no" ttype="S" pid="-1" gid="008">
+  <name>Beat School: Machine Language</name>
+  <detail>Twist synthetic singing around to make your own vocal line!</detail>
+ </trophy>
+ <trophy id="074" hidden="no" ttype="S" pid="-1" gid="009">
+  <name>Beat School: Blow Your Own Horn</name>
+  <detail>Learn the brass basics by constructing this simple trumpet loop.</detail>
+ </trophy>
+ <trophy id="075" hidden="no" ttype="S" pid="-1" gid="009">
+  <name>Beat School: Battle of the Saxes</name>
+  <detail>Practice your sax skills by creating this cool phrase.</detail>
+ </trophy>
+ <trophy id="076" hidden="no" ttype="S" pid="-1" gid="009">
+  <name>Beat School: Triumph Horns</name>
+  <detail>A few notes with a huge result!</detail>
+ </trophy>
+ <trophy id="077" hidden="no" ttype="S" pid="-1" gid="009">
+  <name>Beat School: Jazz Hands</name>
+  <detail>Swing to the beat of the cool jazzy brass riff!</detail>
+ </trophy>
+ <trophy id="078" hidden="no" ttype="S" pid="-1" gid="009">
+  <name>Beat School: Brass Knuckles</name>
+  <detail>Put up yer dukes, and make a funky horn loop!</detail>
+ </trophy>
+ <trophy id="079" hidden="no" ttype="S" pid="-1" gid="010">
+  <name>Hohokum Remix: Bass</name>
+  <detail>Build your own bassline from this pulse.</detail>
+ </trophy>
+ <trophy id="080" hidden="no" ttype="S" pid="-1" gid="010">
+  <name>Hohokum Remix: Drum Kit</name>
+  <detail>Can you use these dreamy drums to make a beat?</detail>
+ </trophy>
+ <trophy id="081" hidden="no" ttype="S" pid="-1" gid="010">
+  <name>Hohokum Remix: Drum Loops</name>
+  <detail>Rearrange the drum loops to make something fresh!</detail>
+ </trophy>
+ <trophy id="082" hidden="no" ttype="S" pid="-1" gid="010">
+  <name>Hohokum Remix: Guitar Loops</name>
+  <detail>Sculpt these ethereal guitar and bass melodies.</detail>
+ </trophy>
+ <trophy id="083" hidden="no" ttype="S" pid="-1" gid="010">
+  <name>Hohokum Remix: Synth Loops</name>
+  <detail>Complete the mix with a splash of analog electronics.</detail>
+ </trophy>
+ <trophy id="084" hidden="no" ttype="S" pid="-1" gid="011">
+  <name>Beat School: 3001 A Bass Odyssey</name>
+  <detail>Take this bassline for a spin around the galaxy!</detail>
+ </trophy>
+ <trophy id="085" hidden="no" ttype="S" pid="-1" gid="011">
+  <name>Beat School: Interstellar Funkonauts</name>
+  <detail>May the funk be with you.</detail>
+ </trophy>
+ <trophy id="086" hidden="no" ttype="S" pid="-1" gid="011">
+  <name>Beat School: Something Smells Funky in Here!</name>
+  <detail>Time to do the funky laundry!</detail>
+ </trophy>
+ <trophy id="087" hidden="no" ttype="S" pid="-1" gid="011">
+  <name>Beat School: Mission to Planet Drums</name>
+  <detail>3, 2, 1... funk off!</detail>
+ </trophy>
+ <trophy id="088" hidden="no" ttype="S" pid="-1" gid="011">
+  <name>Beat School: Set Phasers to 'Funk'</name>
+  <detail>When the mothership is under attack, fight back with a funky loop.</detail>
+ </trophy>
+</trophyconf>

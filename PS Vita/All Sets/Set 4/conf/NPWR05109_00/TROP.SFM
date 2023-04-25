@@ -1,0 +1,212 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000f583da52b1fb380b262e43b99e43f603e84d55a1ba9a6456a6046b702139ab271ea4876d1b4c8f3a3cc9f8341b38ddab7d38a3795ce21d6d5f8fcf2cceaaa596b5ac91a798ca6015721fc5ce3fc4cf55cf82d54cb792e3efefc216d74b0a4c1d0fb3df9b7e0cd96423439c881b6c8c463a123c0e88d6fa07f901099bdae4ec4aee2b67a9cf5291fa5efb8dc6d66cb51fae130c6e-->
+<trophyconf version="1.1" platform="ps3,psp2" policy="large">
+ <npcommid>NPWR05109_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>戦国無双２ Empires HD Version</title-name>
+ <title-detail>戦国無双２ Empires HD Versionのトロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>天下統一</name>
+  <detail>すべてのトロフィーを獲得した</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>東北の覇者</name>
+  <detail>東北統一戦をクリアした</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>関東の王者</name>
+  <detail>関東統一戦をクリアした</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>中部の平定者</name>
+  <detail>中部統一戦をクリアした</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>近畿の賢者</name>
+  <detail>近畿統一戦をクリアした</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>中国四国の強者</name>
+  <detail>中国四国統一戦をクリアした</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>九州の調停者</name>
+  <detail>九州統一戦をクリアした</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>川中島の勝者</name>
+  <detail>川中島の戦いをクリアした</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>姉川の帰還者</name>
+  <detail>姉川の戦いをクリアした</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>本能寺の生還者</name>
+  <detail>本能寺の変をクリアした</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>関ヶ原の観察者</name>
+  <detail>関ヶ原の戦いをクリアした</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>戦国の超越者</name>
+  <detail>群雄割拠をクリアした</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>泰平への土台作り</name>
+  <detail>争覇演武で100ターンまで進んだ</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>地方平定</name>
+  <detail>地方を統一した</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>頼れる家臣</name>
+  <detail>「提案」を100回使用した</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>信頼の証</name>
+  <detail>「委任」を100回使用した</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>有能な策士</name>
+  <detail>「政策」コマンドを100回使用した</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>一流の戦術家</name>
+  <detail>「戦場策」コマンドを100回使用した</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>熟達の軍師</name>
+  <detail>「陣形」コマンドを100回使用した</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>無慈悲な心</name>
+  <detail>10人の武将を処断した</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="S" pid="000">
+  <name>一切の躊躇なし</name>
+  <detail>100人の武将を処断した</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>疾風迅雷</name>
+  <detail>1合戦のクリア時間が3分以下</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>臣下の集まり</name>
+  <detail>所属武将数が50人に達した</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>臣下の山</name>
+  <detail>所属武将数が100人に達した</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="G" pid="000">
+  <name>臣下の宝庫</name>
+  <detail>所属武将数が150人に達した</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>戦術家への第一歩</name>
+  <detail>合戦中にはじめて戦場策を使用した</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>見習い軍師</name>
+  <detail>合戦中にはじめて陣形を変更した</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>勝利への足掛かり</name>
+  <detail>合戦中にはじめて拠点を落とした</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>一騎当千の働き</name>
+  <detail>１合戦中の最高撃破数が1000人を突破した</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>大金星</name>
+  <detail>１合戦中の敵将撃破数が15人を突破した</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>戦の達人</name>
+  <detail>最高戦績Sを達成した</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>お縄頂戴</name>
+  <detail>はじめて敵将を捕縛した</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="S" pid="000">
+  <name>大捕り物</name>
+  <detail>敵将の捕縛人数が100人に達した</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>激動の乱世</name>
+  <detail>総プレイ時間が10時間以上</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>熾烈なる乱世</name>
+  <detail>総プレイ時間が30時間以上</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>終わりなき乱世</name>
+  <detail>総プレイ時間が50時間以上</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="S" pid="000">
+  <name>盤石なる策士</name>
+  <detail>政策をすべて取得した</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="S" pid="000">
+  <name>当代一の戦術家</name>
+  <detail>戦場策をすべて取得した</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="S" pid="000">
+  <name>稀代の軍師</name>
+  <detail>陣形をすべて取得した</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="000">
+  <name>名立たる英傑</name>
+  <detail>階級が最大に達した</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="B" pid="000">
+  <name>免許皆伝</name>
+  <detail>誰か1人の技能をすべて入手した</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="B" pid="000">
+  <name>至高の武具</name>
+  <detail>はじめて第4の武器を入手した</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="B" pid="000">
+  <name>秘蔵の品々</name>
+  <detail>第4の武器を10個入手した</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="S" pid="000">
+  <name>大盤振る舞い</name>
+  <detail>よろず屋の使用金額の累計が100万両に達した</detail>
+ </trophy>
+ <trophy id="044" hidden="no" ttype="S" pid="000">
+  <name>武と共にあるもの</name>
+  <detail>プレイヤーが所属する勢力の文化度が最大に達した</detail>
+ </trophy>
+ <trophy id="045" hidden="no" ttype="B" pid="000">
+  <name>真打登場</name>
+  <detail>はじめて新武将を作成した</detail>
+ </trophy>
+ <trophy id="046" hidden="no" ttype="B" pid="000">
+  <name>武将列伝</name>
+  <detail>新武将を10人作成した</detail>
+ </trophy>
+ <trophy id="047" hidden="yes" ttype="B" pid="000">
+  <name>千差万別</name>
+  <detail>すべてのモデルを使って新武将を作成した</detail>
+ </trophy>
+ <trophy id="048" hidden="no" ttype="S" pid="000">
+  <name>戦国絵巻集</name>
+  <detail>グラフィック観賞をすべて出現させた</detail>
+ </trophy>
+ <trophy id="049" hidden="no" ttype="S" pid="000">
+  <name>戦国活劇集</name>
+  <detail>ムービー観賞をすべて出現させた</detail>
+ </trophy>
+ <trophy id="050" hidden="no" ttype="G" pid="000">
+  <name>戦国物語集</name>
+  <detail>イベント観賞をすべて出現させた</detail>
+ </trophy>
+</trophyconf>

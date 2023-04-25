@@ -1,0 +1,68 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000009f5ec1aebc3e195a6972aa64f881887bdef67a49c5449abfc2a6da5a2c28c187fa8c408511f50c377df99ede229272622258841f84c4a09ed0acffc938b4b8d35fb83fa4847870128da5d7ec8200092f62c5d401ed687e32e002d9cecd751978627f85d1ba72ec87ef33816d5fbddc06f2b4227ab1d1dab8f1f49f23f61b674dcbb64da1ab91a18400d68f788ffeb9b0d38a5080-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR15465_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>フローラル・フローラブ</title-name>
+ <title-detail>『フローラル・フローラブ』トロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Let there be light</name>
+  <detail>『フローラル・フローラブ』を全てプレイしていただき、ありがとうございました</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>初めての選択</name>
+  <detail>最初の選択肢を選ぶ</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>プロローグ終了</name>
+  <detail>プロローグを読み終える</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="S" pid="000">
+  <name>CGコンプリート</name>
+  <detail>CGを全て集めた</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="S" pid="000">
+  <name>MUSICコンプリート</name>
+  <detail>MUSICを全て集めた</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="G" pid="000">
+  <name>夏乃END</name>
+  <detail>夏乃ルートを読み終えた</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="G" pid="000">
+  <name>七緒END</name>
+  <detail>七緒ルートを読み終えた</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="G" pid="000">
+  <name>アーデルハイトEND</name>
+  <detail>アーデルハイトルートを読み終えた</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="G" pid="000">
+  <name>こはねEND</name>
+  <detail>こはねルートを読み終えた</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="G" pid="000">
+  <name>愁END</name>
+  <detail>愁ルートを読み終えた</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="G" pid="000">
+  <name>莉玖END</name>
+  <detail>莉玖ルートを読み終えた</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="G" pid="000">
+  <name>After「夏乃」</name>
+  <detail>After「夏乃」を読み終えた</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="G" pid="000">
+  <name>After「七緒」</name>
+  <detail>After「七緒」を読み終えた</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="G" pid="000">
+  <name>After「アーデルハイト」</name>
+  <detail>After「アーデルハイト」を読み終えた</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="G" pid="000">
+  <name>After「こはね」</name>
+  <detail>After「こはね」を読み終えた</detail>
+ </trophy>
+</trophyconf>

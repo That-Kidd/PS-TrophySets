@@ -1,0 +1,88 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000cda410267703327b7289107e51488c4f0c8a886a66e8a245bbe775222937355d0906e283779d0e8fc6e76d9f7335c9633aa9ca0ce26cb8740d0dedb5fd47121db6589380da79b9acca3a997decd8f18ea39c6507ee41521f22ade7f24e28ed5abdda79d80441ef1795519ed5a3ed36a3df4b80e9026496ee4f720361e4162318e2e17c70701ae1c2300886c0c5d755d2cf3954fa-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR07445_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>大戦略エクシード２</title-name>
+ <title-detail>大戦略エクシード２のトロフィーです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>ダイセンリャカー</name>
+  <detail>すべてのトロフィーを取得した。</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>初撃破！</name>
+  <detail>敵部隊を初めて撃破した。</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>100部隊撃破！</name>
+  <detail>累計100部隊の兵器を撃破した。</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>500部隊撃破！</name>
+  <detail>累計500部隊の兵器を撃破した。</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>カスタマー</name>
+  <detail>初めて兵器の生産を行った。</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>リピーター</name>
+  <detail>累計100部隊の兵器を生産した。</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>ヘビーユーザー</name>
+  <detail>累計500部隊の兵器を生産した。</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>キャンペーンクリア</name>
+  <detail>キャンペーンモードのマップを初めてクリアした。</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>キャンペーンS</name>
+  <detail>キャンペーンモードのいずれかのマップでSランククリアを達成した。</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>ミッションクリア</name>
+  <detail>ミッションモードのマップを初めてクリアした。</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>ミッションS</name>
+  <detail>ミッションモードのいずれかのマップでSランククリアを達成した。</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>フリープレイクリア</name>
+  <detail>フリープレイモードのマップを初めてクリアした。</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>フリープレイS</name>
+  <detail>フリープレイモードのいずれかのマップでSランククリアを達成した。</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>フリープレイ10</name>
+  <detail>フリープレイモードで累計10枚のマップをクリア。</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>フリープレイ50</name>
+  <detail>フリープレイモードで累計50枚のマップをクリア。</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="G" pid="000">
+  <name>百戦錬磨</name>
+  <detail>フリープレイモードで累計100枚のマップをクリア。</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="G" pid="000">
+  <name>マップビルダー</name>
+  <detail>マップを初めて作成した。</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="G" pid="000">
+  <name>テストプレイヤー</name>
+  <detail>作成したマップをプレイした。</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>ストック部隊購入</name>
+  <detail>メダルストアでストック部隊を初めて購入した。</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="G" pid="000">
+  <name>兵器ライセンス取得</name>
+  <detail>メダルストアで兵器ライセンスを初めて購入した。</detail>
+ </trophy>
+</trophyconf>

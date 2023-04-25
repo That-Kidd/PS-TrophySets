@@ -1,0 +1,208 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000094e35343859c75428cb98cec8f6b160195cef0d9412f982e67cc7eb80930127ef5ddb4769df93e8825284bd59a65656defe619e04b47b6aa42cd710b55c4516ebf0505f56e2cef4d7d403e6db0641a17158068dabc71d46a408f2c91310e6361c53e3beb19ea7d46725e0ca626703117efbd3d5a7775d23926d20dc29786f7d51db0c89865762c6024b41e3896c34bd2e27b97c3-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR05829_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Toukiden: The Age of Demons</title-name>
+ <title-detail>Toukiden trophy set</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Slayer of Legend</name>
+  <detail>Obtain all trophies.</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>Press Slay to Start</name>
+  <detail>Be officially anointed as a Slayer.</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>A True Slayer</name>
+  <detail>Clear Chapter 1.</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>Mighty Slayer</name>
+  <detail>Clear Chapter 2.</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>Unit Leader</name>
+  <detail>Clear Chapter 3.</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>Veteran Slayer</name>
+  <detail>Clear Chapter 4.</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="000">
+  <name>Great Unifier</name>
+  <detail>Clear Chapter 5.</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>Conquering Hero</name>
+  <detail>Clear all chapters.</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>Explorer</name>
+  <detail>Complete Phase 3.</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="000">
+  <name>Adventurer</name>
+  <detail>Complete Phase 5.</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>Thrill Seeker</name>
+  <detail>Complete Phase 10.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>Defender of the Eye of Truth</name>
+  <detail>Clear all missions.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>Do As I Slay</name>
+  <detail>Complete all training sessions.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>#justslayin'</name>
+  <detail>Complete 30 quests.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>Hero of the People</name>
+  <detail>Complete all quests.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>Perfectionist</name>
+  <detail>Fortify a weapon to its maximum level.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Weapon Collector</name>
+  <detail>Acquire 50 weapons.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>Weapon Specialist</name>
+  <detail>Acquire all weapons of any weapon category.</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>Strong in Spirit</name>
+  <detail>Forge a Mitama to your weapon at the Shrine.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Rock Hard</name>
+  <detail>Fortify a piece of armor to its maximum level.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>Armor Collector</name>
+  <detail>Acquire 50 different types of armor.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>Armor Obsessive</name>
+  <detail>Acquire 100 different types of armor.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>Hero's Guide</name>
+  <detail>Develop a Mitama to Level 10.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="G" pid="000">
+  <name>Liberator of Souls</name>
+  <detail>Acquire all Mitama.</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>Booster</name>
+  <detail>Activate 50 Boosts.</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="S" pid="000">
+  <name>Boost Master</name>
+  <detail>Activate 300 Boosts.</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>Slay Your Cards Right</name>
+  <detail>Activate 30 Combination Boosts.</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="S" pid="000">
+  <name>Slaying the Field</name>
+  <detail>Activate 100 Combination Boosts.</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>Jack of All Trades</name>
+  <detail>Clear 10 missions with each weapon type.</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>Master of War</name>
+  <detail>Clear 10 missions with each battle style.</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>Cleanser</name>
+  <detail>Purify 10 materials.</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="S" pid="000">
+  <name>Know Your Enemy</name>
+  <detail>Fill in all entries in the Slayer Record.</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="S" pid="000">
+  <name>Scavenger</name>
+  <detail>Fill in all entries in the Collection Record.</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>Clean Sweep</name>
+  <detail>Destroy all the body parts of a large Oni in a single mission.</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>Dismemberer</name>
+  <detail>Destroy 100 Oni body parts.</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="S" pid="000">
+  <name>God of Destruction</name>
+  <detail>Destroy 500 Oni body parts.</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>Eagle Eye</name>
+  <detail>Collect 100 items from the battlefield.</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>Child's Slay</name>
+  <detail>Slay 1000 small Oni.</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>"Slay You, Slay Me"</name>
+  <detail>Slay 100 large Oni.</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="000">
+  <name>Neat and Tidy</name>
+  <detail>Maximize equipment chest and materials chest capacity.</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="B" pid="000">
+  <name>Arborist</name>
+  <detail>Grow the Guardian Tree to its maximum size.</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="B" pid="000">
+  <name>Pleasing the Gods</name>
+  <detail>Develop the offering box to its maximum size.</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="B" pid="000">
+  <name>"Right this Way, Sir"</name>
+  <detail>Obtain Gold member status at the Shop.</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="B" pid="000">
+  <name>Mime</name>
+  <detail>Learn all gestures.</detail>
+ </trophy>
+ <trophy id="044" hidden="no" ttype="B" pid="000">
+  <name>Off You Go</name>
+  <detail>Send your Tenko on 30 journeys.</detail>
+ </trophy>
+ <trophy id="045" hidden="no" ttype="B" pid="000">
+  <name>True Love</name>
+  <detail>Raise your bonds with one of your allies to their maximum level.</detail>
+ </trophy>
+ <trophy id="046" hidden="no" ttype="S" pid="000">
+  <name>Beloved by All</name>
+  <detail>Raise your bonds with all of your allies to their maximum level.</detail>
+ </trophy>
+ <trophy id="047" hidden="yes" ttype="B" pid="000">
+  <name>Forbidden Pleasures</name>
+  <detail>Bathe with someone of the opposite sex in the Pool of Purity.</detail>
+ </trophy>
+ <trophy id="048" hidden="no" ttype="B" pid="000">
+  <name>Skin Like a Prune</name>
+  <detail>Bathe in the Pool of Purity 50 times.</detail>
+ </trophy>
+ <trophy id="049" hidden="no" ttype="S" pid="000">
+  <name>Tycoon</name>
+  <detail>Acquire a total of 1 million Haku.</detail>
+ </trophy>
+</trophyconf>

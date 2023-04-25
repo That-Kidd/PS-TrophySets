@@ -1,0 +1,88 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000085cf87f653d423cf9ff9112321bfa7afd4fd382273645518756ef4c99bd6ebc17e297d9abc26e722e80a7cef8e8d58df04c16d17b89de8c5475972e0afd509c4448ab3e3cb485f71670c73268998e29b105275e934658869d1b350f36b07fedc1fb2f2f5b8c1363b05de51ee87e173590f330463ae88cf16fed5aa6260434476ea55c76d41080dbc2e0e23552b7fb50f2dce346e-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR05729_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Eufloria HD</title-name>
+ <title-detail>The trophy set of Eufloria HD</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Starboretum</name>
+  <detail>Complete the main game.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="-1">
+  <name>Illuminator</name>
+  <detail>Complete Dark Matter Mode.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Safety</name>
+  <detail>Complete "200" without any of your own trees being destroyed.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Lightyear</name>
+  <detail>Complete "The Centre Cannot Hold" within 60 minutes.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Lightsecond</name>
+  <detail>Complete Story Mode in under ten hours.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Pacifism</name>
+  <detail>Complete "Protection" without destroying anyone else's trees.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Martyrdom</name>
+  <detail>Attack an enemy asteroid and lose 300 seedlings in the process.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Hero</name>
+  <detail>Find over 700 of the lost seedlings in the game.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Aggressor</name>
+  <detail>Attack an enemy asteroid and destroy 200 seedlings in the process.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>Traveller</name>
+  <detail>Discover an asteroid using a flower or a mine.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>Panspermia</name>
+  <detail>Send a flower or a mine over 50000 arbitrary distance units.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="-1">
+  <name>Gardener</name>
+  <detail>Gather ten flowers on an asteroid.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="-1">
+  <name>Minefield</name>
+  <detail>Gather five mines on an asteroid.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="-1">
+  <name>Attrition</name>
+  <detail>Battle for an enemy asteroid for ten minutes.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="-1">
+  <name>Besieged</name>
+  <detail>Defend one of your own asteroids continuously for five minutes.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="-1">
+  <name>Stalemate</name>
+  <detail>A pitched battle that lasts over 15 minutes and incurs 500 losses between all sides.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="-1">
+  <name>Banzai</name>
+  <detail>Destroy ten enemy seedlings using a mine explosion.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="-1">
+  <name>Intruder</name>
+  <detail>Land a beacon seed on an enemy asteroid.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="-1">
+  <name>Historian</name>
+  <detail>Record all of the Ancient Artifacts.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="-1">
+  <name>Uplift</name>
+  <detail>Terraform an asteroid to maximum resources.</detail>
+ </trophy>
+</trophyconf>

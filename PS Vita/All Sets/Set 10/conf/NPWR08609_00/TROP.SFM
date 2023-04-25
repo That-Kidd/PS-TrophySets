@@ -1,0 +1,100 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000014e71187476fae4dbfe8d960755108f210d2f942b6213efa31081071023ab7fda8690771132c0d42603f74d9d338acaea096ed331ab9f48c22da41f2fa22b0a2f154c504e0a5b6f518ebeeb969d0974c8853122d530c6804e680b70202498972405af157401d1421a806bd4d666f64d1b45ae376e89917cdd3119f34716a0140e0444db09fbaa13893657efd2793aca8fc40e67e-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR08609_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Bastion</title-name>
+ <title-detail>There are 23 Trophies that can be earned in Bastion.</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>You Done Good</name>
+  <detail>Earn all other Trophies.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>The Stranger</name>
+  <detail>Complete the Wharf District.</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>The Survivor</name>
+  <detail>Complete the Hanging Gardens and speak with the Survivor in the Bastion.</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>The Singer</name>
+  <detail>Complete Prosper Bluff and speak with the Singer in the Bastion.</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>The Ura</name>
+  <detail>Stop to the siege on the Bastion.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>The End</name>
+  <detail>Complete the story.</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="G" pid="000">
+  <name>The Beginning</name>
+  <detail>Complete the story, embracing the New World.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>Calamity Kid</name>
+  <detail>Complete the story in New Game Plus.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>Mind Voyager</name>
+  <detail>Complete each trip to Who Knows Where.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>Kid-at-Arms</name>
+  <detail>Use the Forge to apply at least one upgrade to every weapon.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>Pet Sitter</name>
+  <detail>Get four different domesticated creatures in the Bastion.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>Vigilante</name>
+  <detail>Complete at least 50 percent of the Vigils in the Memorial.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>Altruist</name>
+  <detail>Complete 100 percent of the Vigils in the Memorial.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>Man-at-Arms</name>
+  <detail>Use the Forge to fully upgrade every weapon.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>Whatever's Out There</name>
+  <detail>Complete the Kid's Dream with five or more Shrine Idols invoked.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="G" pid="000">
+  <name>Just Like That</name>
+  <detail>Complete the Kid's Dream with all ten Shrine Idols invoked.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>Lock Yourself In</name>
+  <detail>Complete the Singer's Dream with five or more Shrine Idols invoked.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="G" pid="000">
+  <name>Calamity All Around</name>
+  <detail>Complete the Singer's Dream with all ten Shrine Idols invoked.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>A Lasting Peace</name>
+  <detail>Complete the Survivor's Dream with five or more Shrine Idols invoked.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="G" pid="000">
+  <name>Ashes in the Sky</name>
+  <detail>Complete the Survivor's Dream with all ten Shrine Idols invoked.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>All in the Mind</name>
+  <detail>Complete the Stranger's Dream with five or more Shrine Idols invoked.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="G" pid="000">
+  <name>About the Author</name>
+  <detail>Complete the Stranger's Dream with all ten Shrine Idols invoked.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="G" pid="000">
+  <name>Hard Bargain</name>
+  <detail>Earn a total of 1,000,000 points In Score Attack Mode.</detail>
+ </trophy>
+</trophyconf>

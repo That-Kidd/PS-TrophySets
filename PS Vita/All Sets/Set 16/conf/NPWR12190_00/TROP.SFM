@@ -1,0 +1,96 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000007826a15911f4b3e67f27980a81123b7b4a363959b40ff2aa2277e056b692aa102f2d14483143af7a38b1309244e62889d6fbd22845233ee5e30434fa045954ee83632d10ec0a3028a43f27d80057c25118fd94e9882e56af67f963083576556fe9799ca481951e952c08a9026a6fd26837243354406b242ad0a6685329042f4c15eaf13e5fe23cea2bf31b78098e401bcbab7bc2-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR12190_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>RadioHammer</title-name>
+ <title-detail>RadioHammer</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>The Legendary DJ</name>
+  <detail>Collect all trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="G" pid="000">
+  <name>Make Excellent</name>
+  <detail>Get all Gold Medals in Track Play</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="G" pid="000">
+  <name>Failure is the mother of success</name>
+  <detail>Fail the stage and retry more than 20 times</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="S" pid="000">
+  <name>Brave Heart</name>
+  <detail>Collect 100 Gifts and 100 Traps</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>You need more practice</name>
+  <detail>Miss attacks 150 times</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>Let's Broadcast</name>
+  <detail>Get 3 Star results for all the stages</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="G" pid="000">
+  <name>Too Easy!</name>
+  <detail>Get 3 Star results for July Ann, MC Wayne and Simply Lita's final stages</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="G" pid="000">
+  <name>The Chaos World</name>
+  <detail>Complete Celia's Story</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="G" pid="000">
+  <name>Be my servant!</name>
+  <detail>Complete Cthylla's Story</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="G" pid="000">
+  <name>Irresistible limited editions</name>
+  <detail>Complete SG Hikaru's Story</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="G" pid="000">
+  <name>Finalize</name>
+  <detail>Complete DJ Numi's Episode3 Story</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>Arcade Center</name>
+  <detail>Complete DJ Numi's Episode2 Story</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>Yo! DJ!</name>
+  <detail>Complete DJ Numi's Episode1 Story</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="000">
+  <name>Rock Spirit</name>
+  <detail>Complete Simply Lita's Episode3 Story</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>Nightmare</name>
+  <detail>Complete Simply Lita's Episode2 Story</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>That's Rock</name>
+  <detail>Complete Simply Lita's Episode1 Story</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Buddha Handsome</name>
+  <detail>Complete MC Wayne's Episode3 Story</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Space Attack</name>
+  <detail>Complete MC Wayne's Episode2 Story</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>The Chief</name>
+  <detail>Complete MC Wayne's Episode1 Story</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Sexy dynamite Ann</name>
+  <detail>Complete July Ann's Episode3 Story</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>Cherry Blossom Love</name>
+  <detail>Complete July Ann's Episode2 Story</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>Radio Hammer Rookie</name>
+  <detail>Complete July Ann's Episode1 Story</detail>
+ </trophy>
+</trophyconf>

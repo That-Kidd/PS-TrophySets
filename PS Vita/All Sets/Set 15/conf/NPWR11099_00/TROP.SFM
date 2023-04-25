@@ -1,0 +1,88 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000f84172c115bc610345d1521804728e408875728209248507f3c68bc06b46728add5925853b4e000443d083cebf3e0dc48bdc090b5ffab60b9e840f15c71a191928f81ba0d41e7105eeb1303eb3f0d4c6fc62c26769f89457a9dfd60b396c75029fcc688659a8dc6d8461321cb4a511734507ccac7ffeed88befa0e4c57783b06b3244c90c9a452e1717c3c418b0c211f2f9f4b26-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR11099_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>絶対階級学園</title-name>
+ <title-detail>絶対階級学園のトロフィーです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>コンプリート</name>
+  <detail>全てのトロフィーを獲得</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>壁の花</name>
+  <detail>共通ルートのバッドエンドを見た</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>赤薔薇姫</name>
+  <detail>陸薔薇ルートのハッピーエンドを見た</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="S" pid="000">
+  <name>ふたりの宣誓</name>
+  <detail>陸石ころルートのハッピーエンドを見た</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="G" pid="000">
+  <name>家族に</name>
+  <detail>陸真相ルートのハッピーエンドを見た</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>愛の苦しみ</name>
+  <detail>レイ薔薇ルートのハッピーエンドを見た</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="000">
+  <name>通じ合った心</name>
+  <detail>レイ石ころルートのハッピーエンドを見た</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="G" pid="000">
+  <name>陽だまり</name>
+  <detail>レイ真相ルートのハッピーエンドを見た</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>リヴァイアサン＝国家</name>
+  <detail>壱波薔薇ルートのハッピーエンドを見た</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>一番大切なもの</name>
+  <detail>壱波石ころルートのハッピーエンドを見た</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="G" pid="000">
+  <name>Sweets to the sweet</name>
+  <detail>壱波真相ルートのハッピーエンドを見た</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>薄氷の上の幸福</name>
+  <detail>十矢薔薇ルートのハッピーエンドを見た</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>守りたい気持ち</name>
+  <detail>十矢石ころルートのハッピーエンドを見た</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="G" pid="000">
+  <name>世界の果てまで</name>
+  <detail>十矢真相ルートのハッピーエンドを見た</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="B" pid="000">
+  <name>恋われた愛</name>
+  <detail>ハル薔薇ルートのハッピーエンドを見た</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="S" pid="000">
+  <name>シャボンの恋</name>
+  <detail>ハル石ころルートのハッピーエンドを見た</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="G" pid="000">
+  <name>春</name>
+  <detail>ハル真相ルートのハッピーエンドを見た</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="G" pid="000">
+  <name>Graphicコンプリート</name>
+  <detail>CG鑑賞をコンプリート</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="G" pid="000">
+  <name>Musicコンプリート</name>
+  <detail>音楽鑑賞をコンプリート</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="G" pid="000">
+  <name>Endingコンプリート</name>
+  <detail>エンディングリストをコンプリート</detail>
+ </trophy>
+</trophyconf>

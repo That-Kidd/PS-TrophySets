@@ -1,0 +1,116 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000a0f3961cda3e1b3a104737f5c73d1becab2b1f09698ea97db1d2de170c07819e691bb36c85c28499d1815ad14a636805e91e5fe599024c7c137cf13825979eadbd12a67cbd50d2adc85054e361b55879745df0453f362b316755ac27600fb5efbc23ca9652ee42c3405fdee4a4c6e30b7a625601d946f9907364f7c171a2d94522273d73bfa7648ebd0adf06c63eb347ff14d515-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR14886_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>ナツイロココロログ</title-name>
+ <title-detail>ナツイロココロログのトロフィーセットです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>全てのトロフィーを取得</name>
+  <detail>全てのトロフィーを取得しました。</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>CG MODEをコンプリート</name>
+  <detail>CG MODEの全てのCGをコンプリートしました。</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>MUSIC MODEをコンプリート</name>
+  <detail>MUSIC MODEの楽曲をコンプリートしました。</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="S" pid="000">
+  <name>DiVE 2 WORLD</name>
+  <detail>オープニングムービーを見ました。</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="G" pid="000">
+  <name>久遠のシナリオをクリア</name>
+  <detail>久遠のシナリオをクリアしました。</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="G" pid="000">
+  <name>鈴のシナリオをクリア</name>
+  <detail>鈴のシナリオをクリアしました。</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="G" pid="000">
+  <name>綺新のシナリオをクリア</name>
+  <detail>綺新のシナリオをクリアしました。</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="G" pid="000">
+  <name>小都音のシナリオをクリア</name>
+  <detail>小都音のシナリオをクリアしました。</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="G" pid="000">
+  <name>香奈恵のシナリオをクリア</name>
+  <detail>香奈恵のシナリオをクリアしました。</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>久遠のCGをコンプリート</name>
+  <detail>CG MODEの久遠のCGをコンプリートしました。</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>鈴のCGをコンプリート</name>
+  <detail>CG MODEの鈴のCGをコンプリートしました。</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>綺新のCGをコンプリート</name>
+  <detail>CG MODEの綺新のCGをコンプリートしました。</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>小都音のCGをコンプリート</name>
+  <detail>CG MODEの小都音のCGをコンプリートしました。</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>香奈恵のCGをコンプリート</name>
+  <detail>CG MODEの香奈恵のCGをコンプリートしました。</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>その他のCGをコンプリート</name>
+  <detail>CG MODEのその他のCGをコンプリートしました。</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>すみません、遅くなりました</name>
+  <detail>常盤久遠が初めて登場しました。</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>わたくし、クオンと申します</name>
+  <detail>クオンが初めて登場しました。</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>あ、お兄ちゃんもう来てたんだ？</name>
+  <detail>臣苗鈴が初めて登場しました。</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>リンでーす！</name>
+  <detail>リンが初めて登場しました。</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>おお、今日は早いじゃないか</name>
+  <detail>名城綺新が初めて登場しました。</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="000">
+  <name>キサラです。以後、お見知りおきを</name>
+  <detail>キサラが初めて登場しました。</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>では、早速始めるか</name>
+  <detail>ナギが初めて登場しました。</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="B" pid="000">
+  <name>い、いえ、迷惑だなんて……！</name>
+  <detail>七国小都音が初めて登場しました。</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>ライだよ。</name>
+  <detail>ライが初めて登場しました。</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="000">
+  <name>ごめんねー、お待たせー！</name>
+  <detail>梅宮香奈恵が初めて登場しました。</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="B" pid="000">
+  <name>あ、もう始めちゃってますか？</name>
+  <detail>梅宮椎菜が初めて登場しました。</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>みんなが来るまでひまなんだー</name>
+  <detail>エウ君が初めて登場しました。</detail>
+ </trophy>
+</trophyconf>

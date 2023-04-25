@@ -1,0 +1,64 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000006c738f337292fd925754b8c6593ba4404b5a3d3628917472ccdd5616fc4308e3f201f624b9f4f64e9505cae1f1b5a92c8911543e4529b53f3471e7363c283702041a72611a027787cf8f4096c2f0a0f965ad8f67ff83a6566f88496e15ea30579db0c337adf1fac5e504e65f950c372a33b845ef397304ccab1bc584dd8a9c4a9ad1ef49d3ca97e25ecbe1521283d9a15af6739-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR17657_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>The Tower of Beatrice</title-name>
+ <title-detail>The Tower of Beatrice</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>The Tower of Beatrice Platinum</name>
+  <detail>Good job! Completed all tasks!</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="000">
+  <name>Bedroom</name>
+  <detail>Get out the first room</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>Clock Room</name>
+  <detail>Get out the second room</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>Art Room</name>
+  <detail>Get out the third room</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>Witchcraft Room</name>
+  <detail>Get out the fourth room</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>Torture Room</name>
+  <detail>Get out the fifth room</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>Entrance room</name>
+  <detail>Get out the sixth room</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>The Book of Beatrice</name>
+  <detail>Steal the book!</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>Skeleton</name>
+  <detail>Bring him to life!</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>Day/Night</name>
+  <detail>Turn the day into night!</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>Drinking tea with demon</name>
+  <detail>With raspberry leaf!</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>Om-nom-nom</name>
+  <detail>Feed the chest!</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>Exit</name>
+  <detail>Open the door! Second time.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="000">
+  <name>Vae victis</name>
+  <detail>Defeat him!</detail>
+ </trophy>
+</trophyconf>

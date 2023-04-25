@@ -1,0 +1,92 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000e0175184076ecc862d68df381ca462e8bce198744d089bf0be7a47d529b3374ce19f16ff55aa408fc1b7ffb8a46ba5329eec99005f16efe34d388656a63bfcb9162519746bc371f8191f7a48cef27cadbe0435a135bbf834f73ebbe9bec42667a96beed5af638a167f7a968be539c08df66a6d5f261468c9b9737703430f5628734afde8fc723d08a90b8462b5f887b4eef7a7b0-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR13397_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Trophies for Vegas Party</title-name>
+ <title-detail>Set of trophies for Vegas Party</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Vegas Champion!</name>
+  <detail>Collect all trophies for Vegas Party!</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>Unstoppable!</name>
+  <detail>Win 3 games in a row in The Strip mode</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>The Strip winner!</name>
+  <detail>Get the 1st place in the Strip mode</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>Quick quick...</name>
+  <detail>Play all the games in Quick Play mode</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>Lots of fun</name>
+  <detail>Play all the games in The Strip mode</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>Bad guy!</name>
+  <detail>Steal ALL the money from someone  </detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>What a reflex!</name>
+  <detail>Hit 3 chips in a row in The Strip mode</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>Gunman!</name>
+  <detail>Hit 5 chips in a row in The Strip mode</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>Competitor Winner!</name>
+  <detail>Get the 1st place in Competition mode</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>The Star of Vegas!</name>
+  <detail>Enter 1st place in the top scorer list in The Strip mode</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>King of competitions!</name>
+  <detail>Enter 1st place in the top scorer list in Competition mode</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>Win Big!</name>
+  <detail>Get 3 jolly symbols on the selected payline</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>Super fast!</name>
+  <detail>Bingo! In less than 1 minute</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>Winning number!</name>
+  <detail>Bet and win on a single number</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>Perfect Double down</name>
+  <detail>Score a black jack on a double down bet</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="S" pid="000">
+  <name>Lucky!!</name>
+  <detail>Perform a perfect round</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="S" pid="000">
+  <name>Bullseyes!</name>
+  <detail>Score 3x 50 points in a row</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="S" pid="000">
+  <name>Lucky at cards</name>
+  <detail>Guess 3 rounds in a row</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="S" pid="000">
+  <name>Thrower!</name>
+  <detail>Perform a 3x 5 points in a row </detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="S" pid="000">
+  <name>The fate</name>
+  <detail>Don't choose any card and leave it to the fate!</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="S" pid="000">
+  <name>Ooops!</name>
+  <detail>Raise with no point in hand</detail>
+ </trophy>
+</trophyconf>

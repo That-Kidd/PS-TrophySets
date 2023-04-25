@@ -1,0 +1,88 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000050f9ce2e67792e5e39fed3d279d4ef30efc26195a77c5d18dd8211dee010bf95a540aa1d912eafb48e026885e60fd5d532d44b33eddb4fe0d194b91b92236b50f5b65f0195671317e0dd56243f87cfc77d0462905dba243be150a9e445dfe96ae8e6fe960c9b05e1ec5a5cd447af7cfc849266132e396fb0afb6cf179e3a5a6c49e8807e3e24917925448e1aced09568aa74cbba-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR18265_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>War Theatre</title-name>
+ <title-detail>The Core Trophies of War Theatre</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>War General</name>
+  <detail>Obtain all trophies.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Multi-Kill</name>
+  <detail>Destroy three units in one turn.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>Ultra-Kill</name>
+  <detail>Destroy four units in one turn.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>Mega-Kill</name>
+  <detail>Destroy five units in one turn.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>Story: Rat Mother</name>
+  <detail>Complete the Rat Mother story.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>Story: Sister Robyn</name>
+  <detail>Complete the Sister Robyn story.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>Story: General Mort</name>
+  <detail>Complete the General Mort story.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>Story: WarHawk</name>
+  <detail>Complete the WarHawk story.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>Story: Riven the Mad</name>
+  <detail>Complete the Riven the Mad story.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>Story: Morena of Uld</name>
+  <detail>Complete the Morena of Uld story.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>Story: AA-Team</name>
+  <detail>Complete the AA-Team story.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>Sparring Partner</name>
+  <detail>Defeat the AI in a Skirmish game.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>Employee</name>
+  <detail>Complete one quest.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>Manager</name>
+  <detail>Complete five quests.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>War Horse</name>
+  <detail>Complete ten quests.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>Shiny Tool</name>
+  <detail>Purchase one perk.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Collector</name>
+  <detail>Purchase five perks.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Hoarder</name>
+  <detail>Purchase ten perks.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>War Bonds</name>
+  <detail>Obtain 10000 gold from career quest rewards.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="G" pid="000">
+  <name>War Treasury</name>
+  <detail>Obtain 25000 gold from career quest rewards.</detail>
+ </trophy>
+</trophyconf>

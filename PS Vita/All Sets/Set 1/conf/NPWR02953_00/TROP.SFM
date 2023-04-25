@@ -1,0 +1,60 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000915f5476c68215ff31fe0e17a0fa3055e453ee31c0fb768ad6f9ee0db098c6646b68f664b5667c322b1f4bd4d466469833174f8160ff2b546451d2529fbdf99aa121a8b6da0f0a5ce7dd3fd35fdcb203b8cb8d98a2d9f366fc5553e701854cad9c599afe2f034514b1371bd5c6ccf559e85e8b1a036048ce8d36412f80aada19b1a576ac16bebb5e2b753b28ca4428361e6f0e9f-->
+<trophyconf version="1.1" platform="psp2">
+ <npcommid>NPWR02953_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>墨鬼</title-name>
+ <title-detail>墨鬼トロフィーセットです</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>ぐうたら鬼</name>
+  <detail>エンディング１に到達</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>明日から本気出す</name>
+  <detail>エンディング２に到達</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>放浪者</name>
+  <detail>エンディング３に到達</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>とりあえず事件解決</name>
+  <detail>エンディング４に到達</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="-1">
+  <name>大願成就</name>
+  <detail>エンディング５に到達</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="-1">
+  <name>線を描き直した鬼</name>
+  <detail>エンディング６に到達</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="-1">
+  <name>物語【極】</name>
+  <detail>全エンディングを見た</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>体力【極】</name>
+  <detail>体力ゲージを最大まで成長させた</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>墨力【極】</name>
+  <detail>墨力ゲージを最大まで成長させた</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>達刃の達人</name>
+  <detail>達刃化　累計１時間達成</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>大地を踏み荒らす唐獅子</name>
+  <detail>唐獅子型墨神を３０回呼びだした</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="-1">
+  <name>天空を舞う鳳凰</name>
+  <detail>鳳凰型墨神を３０回呼びだした</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="-1">
+  <name>策士</name>
+  <detail>敵を１０体以上状態異常にした</detail>
+ </trophy>
+</trophyconf>

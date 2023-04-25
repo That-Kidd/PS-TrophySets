@@ -1,0 +1,60 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000004e5be54e54a4332db59547b50e9e6e16eee60d3a93241f12fdab2ea1a69d9f3446eec0fa14531d1c44c0f3969dd77f48c3a5a0bb35cd1b03996cfbaeeea285f96093ed6639fbaacde84be4b1b3017b7623a881116c06cdddfd1a3c3c384d7a9cf510238ec0b10782d7d8406a054640a4a63e0b3c5e4ca5cf0fc2dc35ec77b30ba353982a15bfa5d73d6afbcf9ebd8a7214feda56-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR13031_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Photon Cube</title-name>
+ <title-detail>フォトンキューブ</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>かけ出しトレイラー</name>
+  <detail>チュートリアルをクリアする</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>物語は始まったばかり！</name>
+  <detail>Dランクの昇格試験が受けられるようになった</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="-1">
+  <name>まだまだこれから！</name>
+  <detail>Cランクの昇格試験が受けられるようになった</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="-1">
+  <name>慣れてきた？</name>
+  <detail>Bランクの昇格試験が受けられるようになった</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="-1">
+  <name>どんどん手強くなるかも！</name>
+  <detail>Aランクの昇格試験が受けられるようになった</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="-1">
+  <name>ここまでやるとは！</name>
+  <detail>Sランクの昇格試験が受けられるようになった</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="-1">
+  <name>もはやプロ級トレイラー！</name>
+  <detail>SSランクの昇格試験が受けられるようになった</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="-1">
+  <name>急展開！？</name>
+  <detail>フォトン・ユニオンのミッションが受けられる様になった</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="-1">
+  <name>楽しいお仕事</name>
+  <detail>通常ミッションを30個クリアする</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="-1">
+  <name>宇宙を救ったトレイラー！</name>
+  <detail>エンディングを見た</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="-1">
+  <name>趣味：星集め</name>
+  <detail>スターを沢山取った</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="-1">
+  <name>最後まで遊んでくれてありがとう！</name>
+  <detail>全てのステージをクリアした</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="G" pid="-1">
+  <name>これであなたもフォトンマスター！</name>
+  <detail>スターを全て取った</detail>
+ </trophy>
+</trophyconf>

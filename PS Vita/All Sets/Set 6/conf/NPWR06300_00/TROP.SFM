@@ -1,0 +1,64 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000c6f4bd56600b3767a890529b3295548f1aeb860f12ff683c8d287ceb3fbc1b99888e0aaaf5e070ae2a1d98579834c8a620a90ae6a7072a8bc728f21cead597503303f0599e772c1da7dd6ad59eae116baea8945e998826c6ef69567132b4b3f087078a37ac018959c6f8bbc35f7895fc3598d22b90f111d0a340bc118da329dbc3117489a4e15a0526f9d5f898068061c98b5c4d-->
+<trophyconf version="1.1" platform="ps3,psp2,ps4" policy="small">
+ <npcommid>NPWR06300_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Minutes</title-name>
+ <title-detail>Minutes</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Let’s go!</name>
+  <detail>Complete the first stage.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Happy Face</name>
+  <detail>Find a Minuteman.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Perfect Steps</name>
+  <detail>Achieve Perfect on any 5 stages.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Power User</name>
+  <detail>Use a Powerup.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Quarter Up</name>
+  <detail>Complete the first 15 stages.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Half Slice</name>
+  <detail>Complete the first 30 stages.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Time Shareholder</name>
+  <detail>Complete the first 45 stages.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Full Survivor</name>
+  <detail>Complete all 60 stages.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Pristine Condition</name>
+  <detail>Take no damage on all 60 stages.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>Face Control</name>
+  <detail>Find the Minuteman on all 60 stages.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>Abstinence</name>
+  <detail>Complete 20 stages without using powerups.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="-1">
+  <name>Fully Energised</name>
+  <detail>100% collected on all 60 stages.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="-1">
+  <name>All Points Bulletin</name>
+  <detail>Beat the top target score on all 60 stages</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="-1">
+  <name>Horological Hero</name>
+  <detail>Achieve Perfect on all 60 stages.</detail>
+ </trophy>
+</trophyconf>

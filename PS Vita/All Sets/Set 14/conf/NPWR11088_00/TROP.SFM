@@ -1,0 +1,84 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000ecf1ec1ded0f1b18f1edd541a176f2923cc36749c346852fb053e6ec42af3478c717065ef977d0fb1a5922982ed90686376e98897e1dfdbf29b0fae87901d634a5a88e180060864ba72f27f9b32504891e9a2fe954ebe378dac26fdcd7b8f83db76cbe0631c0411c18874b323278cfa6deb5c07be950fa8622670d53b853a776d019ee11121cfb58ee0d232079e9db9e4b9de72b-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR11088_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>プライミニスター</title-name>
+ <title-detail>『プライミニスター』トロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>乙女だらけの文化部棟</name>
+  <detail>『プライミニスター』を全てプレイしていただき、ありがとうございました</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>こうすれば、ほら――</name>
+  <detail>最初のイベントＣＧを見る</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>思い出のパッチワーク</name>
+  <detail>プロローグを読み終える</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="S" pid="000">
+  <name>ＣＧコンプリート</name>
+  <detail>全てのイベントＣＧを見た</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="S" pid="000">
+  <name>ＢＧＭコンプリート</name>
+  <detail>全てのＢＧＭを聴いた</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="S" pid="000">
+  <name>俺の部屋コンプリート</name>
+  <detail>俺の部屋を全て読んだ</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="000">
+  <name>ミニファンディスク ストーリー</name>
+  <detail>EXTRAを全て読んだ</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="G" pid="000">
+  <name>お兄さん、大好きです</name>
+  <detail>ノーマルルートを最後まで読んだ</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="G" pid="000">
+  <name>一緒に夢を叶えていこうね！</name>
+  <detail>かのこルートを最後まで読んだ</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="G" pid="000">
+  <name>さぁ、行きましょう！ 一緒に、ね？</name>
+  <detail>三澄ルートを最後まで読んだ</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="G" pid="000">
+  <name>大好きよ、春近</name>
+  <detail>千里ルートを最後まで読んだ</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="G" pid="000">
+  <name>そ、その……似合ってるか？</name>
+  <detail>汐路ルートを最後まで読んだ</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="G" pid="000">
+  <name>はるちかってばニヤけてるーっ！！</name>
+  <detail>つばさルートを最後まで読んだ</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="G" pid="000">
+  <name>私の彼氏なんだからーっっ！！</name>
+  <detail>いろりルートを最後まで読んだ</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>いいじゃん、面白いしー♪</name>
+  <detail>流々子ルートを最後まで読んだ</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="S" pid="000">
+  <name>てへぺろー！！</name>
+  <detail>幽霊ルートを最後まで読んだ</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="S" pid="000">
+  <name>でも……大好きです！</name>
+  <detail>花連ルートを最後まで読んだ</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="G" pid="000">
+  <name>メインヒロインコンプリート</name>
+  <detail>全てのメインヒロインルートを読んだ</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="G" pid="000">
+  <name>サブヒロインコンプリート</name>
+  <detail>全てのサブヒロインルートを読んだ</detail>
+ </trophy>
+</trophyconf>

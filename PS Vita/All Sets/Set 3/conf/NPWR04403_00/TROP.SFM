@@ -1,0 +1,208 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000007f490807ce94fe4018c79d6582ba7a7836eb34f88f0beb0cc7b55df8dad4f727ff0f7449ab7aa2d037d71d6c776156d7ddfb5e4f2b6081db0b56aeabba51f3bab995af41db0d06cb07ce5284f9260b7c7a0dfeccb51d48d2b28e0a36407e2b0445416dde1dd2175d32640ce617fe07c0e981a451628da8e69a392476c8a9229df5b7d0eeb97566e69197c8697f9ee1eef63d6c70-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR04403_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>迷宮クロスブラッド ∞</title-name>
+ <title-detail>迷宮クロスブラッド ∞ TROPHY SET</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>∞マスター</name>
+  <detail>全てのトロフィーを取得しました。ここまで遊んでくれてありがとう！</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>エクス入隊</name>
+  <detail>特務隊エクスに入隊しました。</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>暗躍する黒騎士</name>
+  <detail>任務「女子高生グループ失踪事件」を完了しました。</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>アイオン壊滅</name>
+  <detail>任務「地下婚活パーティ阻止指令」を完了しました。</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>恐るべき精神攻撃</name>
+  <detail>任務「心の処刑人　討伐任務」を完了しました。</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>地下王国の太子様</name>
+  <detail>任務「太子の復活　阻止任務」を完了しました。</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>廃墟の奥の楽園</name>
+  <detail>任務「イルカの楽園　調査任務」を完了しました。</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>災い呼びし赤き狐</name>
+  <detail>任務「国に祟りし者　封印任務」を完了しました。</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>狂気の監獄</name>
+  <detail>任務「刑務所長　討伐任務」を完了しました。</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="000">
+  <name>開かれた真実への扉</name>
+  <detail>Ⅹブラッドを使用し、封印されていた扉を開きました。</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>黒騎士の最期</name>
+  <detail>任務「天羽ヴェルン阻止指令」を完了しました。</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="G" pid="000">
+  <name>残された希望</name>
+  <detail>ゲームをクリアしました。</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="B" pid="000">
+  <name>相・死・相・愛</name>
+  <detail>任務「アイオン幹部逮捕指令」を完了しました。</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>７つの手</name>
+  <detail>任務「セブンハンド排除指令」を完了しました。</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>カレーファン</name>
+  <detail>任務「まぼろしのカレー」を完了しました。</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>カレーマニア</name>
+  <detail>飲むカレーを売っている全ての自販機で、飲むカレーを購入しました。</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>ＸＰＤ外部協力者</name>
+  <detail>任務「ＸＰＤ一般支援要請」を完了しました。</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>謎多き収集家</name>
+  <detail>初めてソウルリバースにソウルトークンを渡しました。</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>自販機デビュー</name>
+  <detail>初めて自販機でドリンクを購入しました。</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>蛇口デビュー</name>
+  <detail>初めて蛇口で水を飲みました。</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>シズラーポイントデビュー</name>
+  <detail>初めてシズラーポイントに接触しました。</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>水中デビュー</name>
+  <detail>初めて水の中に進入しました。</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>キケンな初詣</name>
+  <detail>葵神宮の本殿に参詣し、ムラマサ☆ラビットを討伐しました。</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="G" pid="000">
+  <name>Ｕｌｔｉｍａｔｅ　Ａｂｙｓｓ</name>
+  <detail>任務「オメガフィールド掃討指令」を完了しました。</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="G" pid="000">
+  <name>手配異形駆除完了</name>
+  <detail>指名手配異形を全て退治しました。</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>ロッカーの中は白亜紀</name>
+  <detail>ロッカーに潜む恐竜をすべて倒しました。</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>スタンプラリー完走</name>
+  <detail>無限迷宮Ωのスタンプラリーを完走しました。</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>１００万ＧＰ突破</name>
+  <detail>功績値が１００万ＧＰを突破しました。</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>一般エクス隊員</name>
+  <detail>レベルキャップ（Ｌｖ７）が解放されました。</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>歴戦エクス隊員</name>
+  <detail>レベルキャップ（Ｌｖ１５）が解放されました。</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>熟練エクス隊員</name>
+  <detail>レベルキャップ（Ｌｖ２７）が解放されました。</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>Ｓ級エクス隊員</name>
+  <detail>レベルキャップ（Ｌｖ３９）が解放されました。</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>伝説級エクス隊員</name>
+  <detail>レベルキャップ（Ｌｖ５５）が解放されました。</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>収集任務の開始</name>
+  <detail>初めてアイテム収集任務を完了しました</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>収集任務の完了</name>
+  <detail>全てのアイテム収集任務を完了しました</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>シズラーの至宝</name>
+  <detail>ＢＬＡＤＥ－ＳＩＺ、ＲＡＳ－ＣＨＡＩＮ、Ｉ－ＬＩＬＩ－ＴＨのいずれかを手に入れました。</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="S" pid="000">
+  <name>妖刀村正</name>
+  <detail>村正を手に入れました。</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="S" pid="000">
+  <name>機械じかけの妖刀</name>
+  <detail>クドウムラマサ（もしくは改）を手に入れました。</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="S" pid="000">
+  <name>Ｂｅｗｉｔｃｈｅｄ　Ｓｗｏｒｄ</name>
+  <detail>ＭＵＲＡＭＡＳＡを手に入れました。</detail>
+ </trophy>
+ <trophy id="039" hidden="yes" ttype="S" pid="000">
+  <name>究極のＭＵＲＡＭＡＳＡ</name>
+  <detail>ＭＵＲＡＭＡＳＡ天を手に入れました。</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="B" pid="000">
+  <name>バルキリアスコレクター</name>
+  <detail>３種類のバルキリアスを手に入れました。</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="B" pid="000">
+  <name>Ｉ　ＬＯＶＥ　ＭＵＲＰＨＹ’Ｓ！！</name>
+  <detail>マーフィーズボンとマーフィークロスを手に入れました。</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="B" pid="000">
+  <name>マテリアルマスター</name>
+  <detail>ＭＴスキンⅥ、ＭＴメタルⅥ、ＭＴファイバーⅥ、ＭＴゲノムⅥ、ＭＴスターを手に入れました。</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="B" pid="000">
+  <name>メリークリスマス♪</name>
+  <detail>サンタ装備６種を手に入れました。</detail>
+ </trophy>
+ <trophy id="044" hidden="no" ttype="B" pid="000">
+  <name>やっぱりネコが好き</name>
+  <detail>ネコ装備を５種手に入れました。</detail>
+ </trophy>
+ <trophy id="045" hidden="no" ttype="B" pid="000">
+  <name>下着？　いいえ戦闘服です</name>
+  <detail>下着装備を４種手に入れました。</detail>
+ </trophy>
+ <trophy id="046" hidden="yes" ttype="B" pid="000">
+  <name>円卓の生徒</name>
+  <detail>コラボイベント「円卓の生徒」を完了しました。</detail>
+ </trophy>
+ <trophy id="047" hidden="yes" ttype="B" pid="000">
+  <name>虹色☆４２７解散</name>
+  <detail>任務「水無瀬シズナ捜索指令」を完了しました。</detail>
+ </trophy>
+ <trophy id="048" hidden="no" ttype="B" pid="000">
+  <name>∞に挑んだ者</name>
+  <detail>∞モードでゲームをクリアしました。</detail>
+ </trophy>
+ <trophy id="049" hidden="no" ttype="B" pid="000">
+  <name>∞の秘宝</name>
+  <detail>∞モード限定の装備を4種手に入れました。</detail>
+ </trophy>
+</trophyconf>

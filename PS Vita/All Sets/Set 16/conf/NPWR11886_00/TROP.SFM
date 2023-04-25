@@ -1,0 +1,60 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000b1b84540cc64ec84f187c5789fcfea1fcaf550a471ee10984d8b1593475056e96e6d9300ca373bdfd74ad1ff4cc4068ca613d8e1c42fc60d85301af61a5728111d4ce3786dde20943fde0dd57e2962e28a70e819c842c90b565ac1ef2d2cae6bd87a6af72d1d5bc1191d6f222012d0f0f92d680812c9c96575ce0a3818adda67d0a1c23fc7b89448ac70693d5dab2e718abb914d-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="small">
+ <npcommid>NPWR11886_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>ダマスカスギヤ 西京EXODUS</title-name>
+ <title-detail>ダマスカスギヤ 西京EXODUS　のトロフィーセットです。</title-detail>
+ <trophy id="000" hidden="yes" ttype="G" pid="-1">
+  <name>EXODUS成功</name>
+  <detail>借金を返済し、最後の6日間を生き抜いた</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>最強スタジアムデビュー</name>
+  <detail>最強スタジアム南区にランカー入りを果たした</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>初めてのミッション達成</name>
+  <detail>ミッションを初めてクリアした</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>突然のミッション達成</name>
+  <detail>緊急ミッションを初めてクリアした</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>ナンバグランドバトル制覇</name>
+  <detail>ナンバグランドバトルを制覇した</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>神型Ｇ-1グランプリ優勝</name>
+  <detail>神型Ｇ-1グランプリで初めて優勝した</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>住めば都？</name>
+  <detail>コスモポリスでの生活が1ヶ月経過した</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="-1">
+  <name>撃破！レヴィアタン！！</name>
+  <detail>超巨大ギヤ、レヴィアタンを初めて撃破した</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>南区最強戦士誕生</name>
+  <detail>最強スタジアム、南区ランキングで1位になった</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="-1">
+  <name>更なる高みへの挑戦</name>
+  <detail>エキシビションマッチに初めて参加した</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="-1">
+  <name>電脈レベル最大！</name>
+  <detail>電脈強化レベルが99になった</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="-1">
+  <name>コスモポリス最深到達記念</name>
+  <detail>コスモポリスの最深部に到達した</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="-1">
+  <name>西京最強戦士誕生</name>
+  <detail>最強スタジアム、統一ランキング1位になった</detail>
+ </trophy>
+</trophyconf>

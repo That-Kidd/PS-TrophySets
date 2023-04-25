@@ -1,0 +1,108 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000006ad17913c71a414c04e620a582510eb451f7b6da70e051e73aa1af7968a9c1c366cbd56553ca0d7b03d9d44450072a17e7d94b0fe41d9c65607654fbfc0e8c68a28cbad868df2a76a2e73be4241cb56e3faa416f115ad5e44bf32232fd65423a4fd9473e75de34b2d12d7f1b657357a098c62b37aa1356e2d244535fca9111dbd29c9afe70a0e83fa00598591865a8177b699bd5-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR05963_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>穢翼のユースティア  Angel's blessing</title-name>
+ <title-detail>穢翼のユースティア  Angel's blessingのトロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>オールクリア</name>
+  <detail>全てのトロフィーを獲得した</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="G" pid="000">
+  <name>プロローグ</name>
+  <detail>プロローグを見た</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="G" pid="000">
+  <name>フィオネＥＤ</name>
+  <detail>フィオネＥＤをクリア</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="G" pid="000">
+  <name>エリスＥＤ</name>
+  <detail>エリスＥＤをクリア</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="G" pid="000">
+  <name>コレットＥＤ</name>
+  <detail>コレットＥＤをクリア</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="G" pid="000">
+  <name>ラヴィリアＥＤ</name>
+  <detail>ラヴィリアＥＤをクリア</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="G" pid="000">
+  <name>リシアＥＤ</name>
+  <detail>リシアＥＤをクリア</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="G" pid="000">
+  <name>ユースティアＥＤ</name>
+  <detail>ユースティアＥＤをクリア</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>クローディアおまけシナリオ</name>
+  <detail>クローディアのおまけシナリオを見た</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>リサおまけシナリオ</name>
+  <detail>リサのおまけシナリオを見た</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>アイリスおまけシナリオ</name>
+  <detail>アイリスのおまけシナリオを見た</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>ティアおまけ１</name>
+  <detail>ティアのおまけシナリオ１を見た</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="B" pid="000">
+  <name>ティアおまけ２</name>
+  <detail>ティアのおまけシナリオ２を見た</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="000">
+  <name>ティアおまけ３</name>
+  <detail>ティアのおまけシナリオ３を見た</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="B" pid="000">
+  <name>エリスおまけ１</name>
+  <detail>エリスのおまけシナリオ１を見た</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>エリスおまけ２</name>
+  <detail>エリスのおまけシナリオ２を見た</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>コレット・ラヴィリアおまけ１</name>
+  <detail>コレットとラヴィリアのおまけシナリオ１を見た</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>コレット・ラヴィリアおまけ２</name>
+  <detail>コレットとラヴィリアのおまけシナリオ２を見た</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>リシアおまけ１</name>
+  <detail>リシアのおまけシナリオ１を見た</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>リシアおまけ２</name>
+  <detail>リシアのおまけシナリオ２を見た</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="000">
+  <name>リシアおまけ３</name>
+  <detail>リシアのおまけシナリオ３を見た</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>フィオネおまけ１</name>
+  <detail>フィオネのおまけシナリオ１を見た</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="B" pid="000">
+  <name>フィオネおまけ２</name>
+  <detail>フィオネのおまけシナリオ２を見た</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="S" pid="000">
+  <name>その他おまけ１</name>
+  <detail>その他のおまけシナリオ１を見た</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="S" pid="000">
+  <name>その他おまけ２</name>
+  <detail>その他のおまけシナリオ２を見た</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,60 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000049be5213af97bd22a997ec714c547020b660ca26de065929299876bfc7fd61ec151fb2bdb3c91ed239325fbb84374d5be52c324efa40b0d3bc7a4d4fe5535c40c44473f70ff8ed8c00a419ead39c0454df1f58f3806c02a2aaab016d86024c74b33440481aad32675400b05220d91326714bd14d0abded128687180554ade3739b91faa45fcc5bce9c4101ba7ce8f0f48682425-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR12480_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Papers, Please</title-name>
+ <title-detail>Congratulations. The October labor lottery is complete. Your name was pulled.</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Antegria Token</name>
+  <detail>Collect the hidden Antegria Token</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Republia Token</name>
+  <detail>Collect the hidden Republia Token</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Impor Token</name>
+  <detail>Collect the hidden Impor Token</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Obristan Token</name>
+  <detail>Collect the hidden Obristan Token</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Kolechia Token</name>
+  <detail>Collect the hidden Kolechia Token</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Arstotzka Token</name>
+  <detail>Collect the hidden Arstotzka Token</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>United Federation Token</name>
+  <detail>Collect the hidden United Federation Token</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="-1">
+  <name>Too Honest</name>
+  <detail>Turn over EZIC docs to M.O.I investigator</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="-1">
+  <name>Hired Rifle</name>
+  <detail>Kill the man in red for EZIC</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="-1">
+  <name>Member of the Order</name>
+  <detail>Help EZIC overthrow the government</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="-1">
+  <name>Snowier Pastures</name>
+  <detail>Escape to Obristan</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="-1">
+  <name>Glory to Arstotzka</name>
+  <detail>Ignore all EZIC requests and work dutifully</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="-1">
+  <name>Worker's Best</name>
+  <detail>Acquire a Class-5 Apartment</detail>
+ </trophy>
+</trophyconf>

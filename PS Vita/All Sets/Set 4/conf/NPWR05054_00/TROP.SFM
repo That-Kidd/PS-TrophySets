@@ -1,0 +1,184 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000d0ab32c62055192e66bc08a76e59c02c240d9382141c6795d10660679725a22582c63db77123edd852bb47377ab1c5293949608c55117dc8b81ad8894069d8707957ab42919af9c891f96e3b2fc6e6176fcc2daf8d72f775c5d4fa9997a4396388ccd2f0cb0fd23295ea2e668315e6883097691b024ca49c1c1480b65f4e444dc5a4be51ae68304efd84f8d027e40a84da7e2d79-->
+<trophyconf version="1.1" platform="ps3,psp2" policy="large">
+ <npcommid>NPWR05054_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>真・三國無双７ 猛将伝</title-name>
+ <title-detail>真･三國無双７ 猛将伝のトロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>真・三國無双</name>
+  <detail>すべてのトロフィーを獲得した</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>武の究極</name>
+  <detail>猛将伝で追加されたすべてのシナリオを、難易度「究極」でクリアした</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>天下統一</name>
+  <detail>将星モードですべての地方を平定し、天下統一した</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>究極の評価</name>
+  <detail>猛将伝で追加されたすべてのシナリオで、クリア評価「Ｓ」を獲得した&#x0a;</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>極めし武芸</name>
+  <detail>チャレンジモードのすべてのコースで自己ベスト１位になった</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>無双の蒐集家</name>
+  <detail>すべての第二秘蔵武器を獲得した</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>地方制圧</name>
+  <detail>将星モードの制圧戦で、いずれかの地方制圧率を１００％にした</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>戦功完遂</name>
+  <detail>猛将伝で追加されたすべてのシナリオの戦功目標を達成した</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>岐路より</name>
+  <detail>猛将伝で追加されたすべてのＩＦフラグを達成した</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>勝どき鳴動</name>
+  <detail>猛将伝で追加されたすべてのシナリオをクリアした</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>鬼神烈々</name>
+  <detail>ストーリー「呂布」のエンディング（史実・ＩＦ）を見た</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>黄金色の夢</name>
+  <detail>累計獲得金額が１０００００以上になった</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>修羅の芥</name>
+  <detail>累計撃破数が１０００００人以上になった</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>神速</name>
+  <detail>将星モードでの制圧戦で、いずれかの戦場制圧率を累計２回以下の戦闘で１００％にした</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>成長の頂</name>
+  <detail>いずれかの武将のレベルを最大にした</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>名将</name>
+  <detail>いずれかの武将の統率力を最大にした</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>新しい仲間</name>
+  <detail>猛将伝の新キャラ５人すべてで、いずれかのシナリオをクリアした</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>おしゃべり</name>
+  <detail>猛将伝で追加されたすべての会話イベントを見た</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>暴風の極み</name>
+  <detail>チャレンジモード「暴風」の自己ベストで１位になった</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>彗星の極み</name>
+  <detail>チャレンジモード「彗星」の自己ベストで１位になった</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>迅雷の極み</name>
+  <detail>チャレンジモード「迅雷」の自己ベストで１位になった</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>百花の極み</name>
+  <detail>チャレンジモード「百花」の自己ベストで１位になった</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>烈火の極み</name>
+  <detail>チャレンジモード「烈火」の自己ベストで１位になった</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>三尖刀の達人</name>
+  <detail>スキル「三尖刀天稟」を覚えた</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>火焔弓の達人</name>
+  <detail>スキル「火焔弓天稟」を覚えた</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>連結布の達人</name>
+  <detail>スキル「連結布天稟」を覚えた</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>兵法簡の達人</name>
+  <detail>スキル「兵法簡天稟」を覚えた</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>十字戟の達人</name>
+  <detail>スキル「十字戟天稟」を覚えた</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>最高の評価</name>
+  <detail>フリーモードのいずれかのシナリオで、クリア評価「Ｓ」を獲得した</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>完全制圧</name>
+  <detail>将星モードの制圧戦で、いずれかの戦場制圧率を１００％にした</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>完全勝利</name>
+  <detail>将星モードの制圧戦で、制圧率１００％の状態で勝利した</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>戦上手</name>
+  <detail>将星モードの制圧戦で、出撃軍団の枠をすべて埋めた状態で、１人も敗走させずに勝利した</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>やりくり上手</name>
+  <detail>将星モードで、残り制限時間が１４分以上の状態でクリアした</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>初めての鍛錬</name>
+  <detail>初めて特殊鍛錬を行った</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>初めての強化</name>
+  <detail>初めて護衛武将強化を行った</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>初めての技能</name>
+  <detail>初めて護衛武将に戦闘技能を指示した</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>技能繚乱</name>
+  <detail>すべての種類の戦闘技能を発動した</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>映像繚乱</name>
+  <detail>猛将伝で追加されたすべてのムービーを開放した</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>イベント繚乱</name>
+  <detail>猛将伝で追加されたすべてのイベントを開放した</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="000">
+  <name>壁紙繚乱</name>
+  <detail>猛将伝で追加されたすべての壁紙を開放した</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="B" pid="000">
+  <name>ふたつの決め手</name>
+  <detail>いずれかの無双武将で、１戦闘中にＥＸ攻撃１と２で敵武将を撃破した</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="B" pid="000">
+  <name>一騎当千の極み</name>
+  <detail>難易度「究極」で、１戦闘中、１０００人撃破を達成した</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="B" pid="000">
+  <name>疾風迅雷の極み</name>
+  <detail>難易度「究極」で、いずれかのシナリオを２分以内でクリアした</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="B" pid="000">
+  <name>万夫不当の極み</name>
+  <detail>難易度「究極」で、チュートリアル以外のいずれかのシナリオをダメージを受けずにクリアした</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,56 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000181fa94266e64bdbbb338c40bc34a6f6c9c088ba74987fc63c97e8115bac714f5e2affa650a29a9b302bd4d2a579074a5c280511e5a9b91580f8242dbbdfc15273ce967a9aff593af226e4c2de735105b6b08d4537a98cbc54666742bb7edc41b97f74fae5d218d2929cd401771be83ebc791e5a4292701e520da88ac38aafd7535bea7743a2f587f39fa491bc601f7b538e083b-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR16872_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>GhoulBoy</title-name>
+ <title-detail>Trophy ghoulboy</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Ghoulboy Master</name>
+  <detail>Obtain all trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>Killed first boss</name>
+  <detail>Kill the first boss</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>Kill the Zakkul</name>
+  <detail>Kill the second boss</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>10 levels completed</name>
+  <detail>Complete 10 levels</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>Pass the Samora</name>
+  <detail>Pass the Samora level</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>End of game</name>
+  <detail>Finish all the levels</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>Zombie</name>
+  <detail>Die 30 times</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>Rich man</name>
+  <detail>Obtain 5000 coins</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>Sales man</name>
+  <detail>Buy all upgrades</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>Pitcher</name>
+  <detail>Throwable 100 objects</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>20 levels completed</name>
+  <detail>Complete 20 levels</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>Big Sword</name>
+  <detail>Big Sword</detail>
+ </trophy>
+</trophyconf>

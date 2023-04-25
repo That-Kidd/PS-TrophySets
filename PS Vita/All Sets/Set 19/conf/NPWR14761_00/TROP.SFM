@@ -1,0 +1,92 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000bdd74866faf1d5928f058aef1aab6441231524b8a5406211ef6ac0d637047e1d7488522f0f2fa4c1aa24df0d2ea2c61c603597896f1b491a4b5285cb5bb4138114990e1890b0b04eefac3f0e981cd6c7e900174de855cce7ee177a7422a846f47107c353e7bcfc76182be77536ae7b4c7b3ac4d98468c33965a936d23cb85cab04783fee6e34125b7baa527236669f206c8aa747-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR14761_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Deep Ones</title-name>
+ <title-detail>Deep Ones</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Deep Ones Platinum</name>
+  <detail>Good job! Completed all tasks!</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Rolling in the Deep</name>
+  <detail>The diver falls to the bottom</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Seahorse, run!</name>
+  <detail>Escape from the shark</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>You fight like a cow!</name>
+  <detail>Take the ship aboard</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>One man siege</name>
+  <detail>Welcome to the fort</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>Three-headed monkey!</name>
+  <detail>What about drinked?</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>Jailbreak</name>
+  <detail>Escape from azkaban</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>I Want to Play a Game</name>
+  <detail>We will not be hampered by gears or levers</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>Cthulhu Rise</name>
+  <detail>See the lair of the monster</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>To Infinity and Beyond!</name>
+  <detail>Get out of the nest</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>Alone I Break</name>
+  <detail>Go ashore</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>Tortoise soup</name>
+  <detail>You need to kill 30 turtles</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>You like a Rick Grimes</name>
+  <detail>You need to kill a 100 pirates</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>My dad Black Beard</name>
+  <detail>Kill the captain on the ship 3 times</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="000">
+  <name>We have fins for lunch</name>
+  <detail>You need to kill a 20 sharks</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="G" pid="000">
+  <name>My friend Pink Patrick</name>
+  <detail>Third level. Don't get damage from stars</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="G" pid="000">
+  <name>Safe landing</name>
+  <detail>Don't get damage from crabs after shipwreck, but don't kill them</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="G" pid="000">
+  <name>Jelly fish party</name>
+  <detail>Don't die from jelly fishes on 25 level</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>Don't touch me now</name>
+  <detail>Do not get damage from Stonefish</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="000">
+  <name>Rolling Stones</name>
+  <detail>Survive after the rolling stone</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="G" pid="000">
+  <name>You shall not pass</name>
+  <detail>You need to kill 9 fugu fish</detail>
+ </trophy>
+</trophyconf>

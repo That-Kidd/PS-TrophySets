@@ -1,0 +1,184 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000e2b6c8a7db17cdb5e7168b2a7a362dcfaa0172445a3497e2aa99d4ce245c97f42b86dccb6961a967e2183e4b90940d0449211c2aa7d1794b09208497ade099ca78ae0ab25a11dc641c2916418e0170493516489c48ece8b98b7960bf83fe8ab18a73f08920df3c86bd9a42e355707429a7fe4d295a1831a2251356db7fe36790c77b2222127bb026cbc850c793280458e92e46a3-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR09655_00</npcommid>
+ <trophyset-version>01.02</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>MOBILE SUIT GUNDAM EXTREME VS-FORCE</title-name>
+ <title-detail>MOBILE SUIT GUNDAM EXTREME VS-FORCE Trophies</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>FA Project Complete</name>
+  <detail>Acquired all trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>LINKED: 0079</name>
+  <detail>Cleared Area 1</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>Rise Once More, Gundam!</name>
+  <detail>Cleared all Missions in Area 1</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>LINKED: 0087-0089</name>
+  <detail>Cleared Area 2</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>I Can Use the Gundam Better than Anyone!</name>
+  <detail>Cleared all Missions in Area 2</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="S" pid="000">
+  <name>LINKED: 0093-0096</name>
+  <detail>Cleared Area 3</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>I am a Gundam!</name>
+  <detail>Cleared all Missions in Area 3</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>LINKED: ex-dream</name>
+  <detail>Cleared Area 4</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>Gundam of Gundams</name>
+  <detail>Cleared all Missions in Area 4</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>Tigerbaum Dream</name>
+  <detail>Acquired 20 MS</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>No Wonder Dad's Been Preoccupied</name>
+  <detail>Acquired all MS</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>The Junk Trade</name>
+  <detail>Acquired 4 warships</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>General Revil</name>
+  <detail>Acquired all warships</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>Haro Collector</name>
+  <detail>Acquired 100 Haro medals</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="000">
+  <name>I Love Haro!</name>
+  <detail>Acquired all Haro medals</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>Eradicator of War</name>
+  <detail>Cleared 50 Missions</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>Mission Complete</name>
+  <detail>Cleared all Missions</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>This Thing Moves!</name>
+  <detail>Used all MS to clear Missions</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>Ability of a Captain</name>
+  <detail>Used all warships in Missions</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Ace Pilot</name>
+  <detail>Named as Ace for the first time</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>Top Ace</name>
+  <detail>Named as Ace for the 50th time</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>Awarded a Medal</name>
+  <detail>Named as MVP for the first time</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="G" pid="000">
+  <name>The Zeon Cross</name>
+  <detail>Named as MVP for the 50th time</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>The Beast of Possibility</name>
+  <detail>Links reach MAX for the first time</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="G" pid="000">
+  <name>Over the Rainbow</name>
+  <detail>All pilots' links have reached MAX</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>On the Frontline</name>
+  <detail>Captured a base for the first time</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="S" pid="000">
+  <name>The Second Coming of Char</name>
+  <detail>Captured your 100th base</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>The Chimera Corps</name>
+  <detail>Defeated 100 enemy MS, MA, warships</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="S" pid="000">
+  <name>White Devil</name>
+  <detail>Defeated 500 enemy MS, MA, warships</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>Power Flowing Through the Body</name>
+  <detail>Used all Force Commands</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="S" pid="000">
+  <name>Coordinator</name>
+  <detail>Cleared 10 Missions without taking damage</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="B" pid="000">
+  <name>Last Shooting</name>
+  <detail>Landed the winning blow 30 times</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="B" pid="000">
+  <name>Gundam Fight</name>
+  <detail>Cleared a Mission 10 times without fatality using only melee combat</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="B" pid="000">
+  <name>Prince of the Stars</name>
+  <detail>Hover for a total of 300 seconds or more</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="B" pid="000">
+  <name>Tactical Forecaster</name>
+  <detail>Achieved maximum Cost efficiency in all teams</detail>
+ </trophy>
+ <trophy id="035" hidden="yes" ttype="B" pid="000">
+  <name>Calm Down and Shoot</name>
+  <detail>Attempted to fire an empty weapon 50 times in a row</detail>
+ </trophy>
+ <trophy id="036" hidden="yes" ttype="B" pid="000">
+  <name>A wakening of the Trailblazer</name>
+  <detail>Commenced EXTREME-FORCE Mode</detail>
+ </trophy>
+ <trophy id="037" hidden="yes" ttype="B" pid="000">
+  <name>Observer</name>
+  <detail>Browsed 5 pieces of information on MS, MA, warship</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>EXTREME MISSION 1</name>
+  <detail>Cleared Mission 「The Battle of Jaburo」</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="000">
+  <name>EXTREME MISSION 2</name>
+  <detail>Cleared Mission 「Zeon's Final Defensive Line」</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="B" pid="000">
+  <name>EXTREME MISSION 3</name>
+  <detail>Cleared Mission 「Glittering Stars」</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="B" pid="000">
+  <name>EXTREME MISSION 4</name>
+  <detail>Cleared Mission 「With Dreadful Memories」</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="B" pid="000">
+  <name>EXTREME MISSION 5</name>
+  <detail>Cleared Mission 「Gundam Fight, Ready… Go!!」</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="B" pid="000">
+  <name>EXTREME MISSION 6</name>
+  <detail>Cleared Mission 「The Control Program (DC)」</detail>
+ </trophy>
+</trophyconf>

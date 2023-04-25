@@ -1,0 +1,64 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000cf87d20fa2357b1aa5e5e3f70e6a03f5654e9a7373d3c15ce30fe7d3425aad51cab7daf3419f233a25dc894b20cf5099b63044277b9e0fc01cb30b0e51c10e2cc6be5e75cc971e0409c262d0fe00ce840ebb80ca13a16f7fcdc36894e0ef9dd123305ce686dbd06fc7a96ef5c566181f4823b168158c41ae3143c55a83ef745e37b7a3980c21609dba9308c799a19e57bf1eeb18-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR06006_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>@SIMPLE Vシリーズ Vol.2 THE 逃走ハイウェイ フルブースト ～名古屋-東京 激走4時間～</title-name>
+ <title-detail>THE 逃走ハイウェイ FULLBOOST</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>証拠収集</name>
+  <detail>初めてキーアイテムを取得しました。</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>初勝利！</name>
+  <detail>初めてライバルに勝利しました。</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>それどころじゃない！</name>
+  <detail>初めて車を破壊しました。</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>逃走者</name>
+  <detail>ストーリーをクリアしました。</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="-1">
+  <name>たくさん壊してごめんなさい</name>
+  <detail>修理工場ENDを迎えました。</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="-1">
+  <name>売ります買います</name>
+  <detail>ディーラーENDを迎えました。</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="-1">
+  <name>昨日の敵は今日の友</name>
+  <detail>内部監査ENDを迎えました。</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="-1">
+  <name>いらっしゃいませ！</name>
+  <detail>ガソリンスタンドENDを迎えました。</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="-1">
+  <name>色とりどり</name>
+  <detail>１車種で全てのカラーを解放しました。</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>マラソンハイウェイ</name>
+  <detail>徒歩で１区間逃走しました。</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>走り屋魂</name>
+  <detail>多くのライバルに勝利しました。</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="-1">
+  <name>完全無罪</name>
+  <detail>完全無罪ENDを迎えました。</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="-1">
+  <name>ノンストップ</name>
+  <detail>ノンストップモードをクリアしました。</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="G" pid="-1">
+  <name>カートコンプリート！</name>
+  <detail>全ての車種を解放しました。</detail>
+ </trophy>
+</trophyconf>

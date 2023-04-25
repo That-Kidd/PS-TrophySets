@@ -1,0 +1,192 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000006ab19c65625745c8eb23c9b3f667bac80deffabe933c7b2678cfba701fcb57c1fb6e25e4e0fe251fa0ffe0a7de940967f89c5824311ce1ff61cb6779b67df3a345f25c4fb330bb69fe41710d0bfc7521f2c65b2a2afc06409abd0ddd3456ba437ede275ef8bdf57abf9592d7793a531f2b5f164fdba9e7dba2a519306cd552c579bc121390fa56ac0e03154b5fb17f3d41019dfe-->
+<trophyconf version="1.1" platform="psp2">
+ <npcommid>NPWR03124_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Metal Gear Solid 3</title-name>
+ <title-detail>Metal Gear Solid 3 Trophies</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Snake Eaten</name>
+  <detail>Collect all trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Young Gun</name>
+  <detail>Submit Ocelot</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Pain Relief</name>
+  <detail>Defeat The Pain</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>If It Bleeds, We Can Kill It</name>
+  <detail>Defeat The Fear</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>The End</name>
+  <detail>Defeat The End</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>Houston, We HAD a Problem</name>
+  <detail>Defeat The Fury</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>River of Pain</name>
+  <detail>Defeat The Sorrow</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>Shagadelic</name>
+  <detail>Defeat Shagohod</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>Grounded</name>
+  <detail>Defeat Volgin in a fist fight</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>The Patriot</name>
+  <detail>Defeat The Boss</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>Mama Said</name>
+  <detail>CQC Slam a guard and knock him out</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>Tell Me Where the Bomb Is</name>
+  <detail>CQC Interrogate an enemy</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>Like He Just Doesn't Care</name>
+  <detail>CQC Hold up an enemy</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>Close Shave</name>
+  <detail>CQC Slit an enemy's throat</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>Don't Touch the Sides</name>
+  <detail>Use a knife to remove a bullet</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>The Cat's out of the Bag</name>
+  <detail>Catch a glimpse of Ocelot, who’s seen behind the president when he tries to shake Snake’s hand</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Snake Eyes</name>
+  <detail>See all of the first-person views that are not indicated by the R button icon</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Prince Charming</name>
+  <detail>Shoot a Kerotan for the first time</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>Ralph Called</name>
+  <detail>Make Snake throw up</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Can I Keep It?</name>
+  <detail>Capture any animal alive</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>Just What the Doctor Ordered</name>
+  <detail>Collect every type of medicinal plant</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>Everything Is in Season</name>
+  <detail>Collect every type of fruit</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>Fungus Among Us</name>
+  <detail>Collect every type of mushroom</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>A Bird in the Hand...</name>
+  <detail>Collect every type of bird</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>Charmer</name>
+  <detail>Collect every type of snake</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>Tall Tale</name>
+  <detail>Collect every type of fish</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>Them's Good Eatin'</name>
+  <detail>Collect every type of frog</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>Snake Eater</name>
+  <detail>Eat a snake of any type</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>A Good Man Is Hard to Find</name>
+  <detail>Achieve a camouflage index of 100%</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>I Can Totally See You</name>
+  <detail>Achieve a camouflage index of +90%</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>Problem Solved, Series Over</name>
+  <detail>Create the Ocelot Time Paradox</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>Snake Bit</name>
+  <detail>Poison a guard</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>Serenity Now</name>
+  <detail>Call one Healing Radio frequency</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>Tune-In Tokyo</name>
+  <detail>Call every Healing Radio frequency</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>Beekeeper</name>
+  <detail>Use bees to harass an enemy</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>Just Because</name>
+  <detail>Blow up a munitions shed with TNT</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>Mostly Dead</name>
+  <detail>Use the Fake Death pill</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="S" pid="000">
+  <name>Believe It or Not</name>
+  <detail>Catch a Tsuchinoko (mythical serpent)</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="S" pid="000">
+  <name>Fashionista</name>
+  <detail>Find every type of camouflage</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="S" pid="000">
+  <name>Only Skin Deep</name>
+  <detail>Find every type of face paint</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="S" pid="000">
+  <name>The Early End</name>
+  <detail>Kill The End before the boss battle</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="S" pid="000">
+  <name>You Snooze, You Lose</name>
+  <detail>Sneak up on The End and hold him up</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="G" pid="000">
+  <name>King of the Jungle</name>
+  <detail>Obtain title of MARKHOR</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="G" pid="000">
+  <name>It Ain't Easy Being Green</name>
+  <detail>Find all 64 Kerotans</detail>
+ </trophy>
+ <trophy id="044" hidden="no" ttype="G" pid="000">
+  <name>Like a Boss</name>
+  <detail>Finish the game on any difficulty</detail>
+ </trophy>
+ <trophy id="045" hidden="no" ttype="G" pid="000">
+  <name>PEACE WALKER</name>
+  <detail>Finish game without killing anyone</detail>
+ </trophy>
+</trophyconf>

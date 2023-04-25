@@ -1,0 +1,92 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000004aa8385a4bf1d886480da8181629186fea4370c63cd195a434958113216bd09bf69e42fcb8cf388b32f8cba2b48d282a32e2febb323f5ee8156ca1ad7cede2de7a67924ce1b1e2b2fc9c3c016bf7106a60ee764a76995ef1e3c44d24c8ea9d84d1e0b1533d11959003ec9e62e23b35cd99eedf82c8e0401c6c3a8ff023918381a30f506ac30315e387a5d5579413ec337ec3a913-->
+<trophyconf version="1.1" platform="psp2">
+ <npcommid>NPWR02591_00</npcommid>
+ <trophyset-version>01.02</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>SUPER STARDUST™ DELTA</title-name>
+ <title-detail>SUPER STARDUST™ DELTA Trophy pack</title-detail>
+ <group id="001">
+  <name>ADVANCED STAR FIGHTER PACK</name>
+  <detail>ADVANCED STAR FIGHTER PACK</detail>
+ </group>
+ <trophy id="000" hidden="no" ttype="G" pid="-1">
+  <name>Hero of the Galaxy</name>
+  <detail>Arcade - Complete all planets</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Hero of Alena</name>
+  <detail>Arcade, Planets - Complete planet Alena</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Hero of Sekora</name>
+  <detail>Arcade, Planets - Complete planet Sekora</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Hero of Mahler</name>
+  <detail>Arcade, Planets - Complete planet Mahler</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Hero of Werth</name>
+  <detail>Arcade, Planets - Complete planet Werth</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Hero of Yuriko</name>
+  <detail>Arcade, Planets - Complete planet Yuriko</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Scrooge MacBoom</name>
+  <detail>Arcade - Get 10 special weapons</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>The Tokenizer</name>
+  <detail>Arcade, Planets - Collect 15 tokens with a single boost</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="-1">
+  <name>Multiplier Hero</name>
+  <detail>Arcade, Planets - Get 20x multiplier</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>Shield Blaster</name>
+  <detail>Arcade, Planets - Collect 5 shield tokens while already having a shield</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>Crushing</name>
+  <detail>Crush! – Complete mode</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="-1">
+  <name>Slick</name>
+  <detail>Disc Slide – Get 10x multiplier</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="-1">
+  <name>Bombs Away</name>
+  <detail>Orbit Bomber – Get 1 000 000 points</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="-1">
+  <name>Hot Roller</name>
+  <detail>Rock &amp; Roll – Get 50x multiplier</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="-1">
+  <name>Core Destroyer</name>
+  <detail>Trucker – Destroy 30 green cores</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="G" pid="-1" gid="001">
+  <name>Extra Ships Optional</name>
+  <detail>Endless - Survive 10 minutes without dying</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>Shock and Awe</name>
+  <detail>Endless - Destroy 5 nukes</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="-1" gid="001">
+  <name>Late Boomer</name>
+  <detail>Bomber - Get 15 bombs</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="-1" gid="001">
+  <name>Supersonic</name>
+  <detail>Impact - Get 99x multiplier</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="-1" gid="001">
+  <name>Multitasking</name>
+  <detail>Twin-Gun – Complete one planet</detail>
+ </trophy>
+</trophyconf>

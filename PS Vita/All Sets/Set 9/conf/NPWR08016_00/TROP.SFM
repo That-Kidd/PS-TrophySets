@@ -1,0 +1,64 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000000ef0836f48333d0a71a24ee7c9e6a95fffd9f8482b00736bd18c5f088a0d73131303d59286f3745b608dbc9f39a0b648e9239d751f3fecf216bbb6a18f7c777c90846378fd05971d0c7a845905d52b3639480c4d19313a7f1ec8a5794b32471e297289d2bc9961ad356692fed7382b252d5942f651cdfb700bd2e33aa6b1b126af6cb2b914c6199c361311e5f5392d2ca2d2655c-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR08016_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>SteamWorld Dig</title-name>
+ <title-detail>Colección de trofeos para SteamWorld Dig</title-detail>
+ <trophy id="000" hidden="yes" ttype="B" pid="-1">
+  <name>Arañando la superficie</name>
+  <detail>¡Has encontrado Archaea!</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="-1">
+  <name>Criaturas místicas</name>
+  <detail>¡Has encontrado el Old World!</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="-1">
+  <name>¡¿Va aún más profundo?!</name>
+  <detail>¡Has encontrado Vectron!</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="S" pid="-1">
+  <name>Asimilado</name>
+  <detail>Inmortalización de un robot a vapor destructible.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Dos tipos de personas diferentes</name>
+  <detail>Completa el juego con más de 20.000 unidades de oro en total.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Más rápido que una planta rodadora</name>
+  <detail>Completa el juego en menos de 2 horas y 30 minutos.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Brillante como el sol del desierto</name>
+  <detail>Completa el juego con más de 150 orbes en total.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Como en la vida misma</name>
+  <detail>Completa el juego sin que te maten ni una sola vez.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="-1">
+  <name>Maestro gambusino</name>
+  <detail>Consigue las cuatro estrellas de oro en la misma sesión de juego.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>Es un secreto para todos</name>
+  <detail>Encuentra todas las zonas secretas de las cuevas.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>Cargado a tope</name>
+  <detail>Pon todas las mejoras al máximo.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="-1">
+  <name>Al fondo del abismo</name>
+  <detail>Alcanza el fondo del mundo.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="-1">
+  <name>Rompesecuencias</name>
+  <detail>Destruye dos generadores antes de entrar en Vectron.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="-1">
+  <name>¡Sopa de tortuga, rica, rica!</name>
+  <detail>Acaba con un tortuga sumergida en agua.</detail>
+ </trophy>
+</trophyconf>

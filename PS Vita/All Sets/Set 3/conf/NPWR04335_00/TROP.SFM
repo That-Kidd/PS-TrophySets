@@ -1,0 +1,144 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000da409259fcec8e73c90d63cf662d62c9838a91cb6fe7a1a1bdeb43152ccf2956095ae0a17ebf95f3bd675e6200b49f27e37539e13fd8c9dd05782e7d8b9ee03b21036863f998deb8dd405b4f460ee12a46e9276b6c66d378211b6dfa3a6acb800d5105230f3e4fdf00e8829452068dc0680ee0cf853f53535eb90b79000f7f06237c7e244cd2b25ee93952515f3a1527712789c1-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR04335_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>～聖魔導物語～</title-name>
+ <title-detail>～聖魔導物語～のトロフィーセットです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>全てを極めし伝説の魔導師</name>
+  <detail>全てのトロフィーを入手した！</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="G" pid="000">
+  <name>偉大なる大魔導師</name>
+  <detail>全てのスキル・魔法を最大レベルまで習得した！&#x0a;</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="G" pid="000">
+  <name>最強の魔導師</name>
+  <detail>モンスターを累計10000体倒した！</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="G" pid="000">
+  <name>図鑑コンプリート！</name>
+  <detail>図鑑の情報を全て入手した！</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="G" pid="000">
+  <name>凄腕の冒険者</name>
+  <detail>冒険に出た回数が100回を超えた！</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="G" pid="000">
+  <name>無限の可能性</name>
+  <detail>天空聖殿に足を踏み入れた！</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>アイテムコレクター</name>
+  <detail>アイテムの収集率が75％を超えた！</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>モンスター博士</name>
+  <detail>モンスター情報の収集率が75％を超えた！</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>街で名の知れた魔導師</name>
+  <detail>モンスターを累計1000体倒した！</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>とても有名な魔導師</name>
+  <detail>モンスターを累計2500体倒した！</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>無敵の魔導師</name>
+  <detail>モンスターを累計5000体倒した！</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>今日もやられ役</name>
+  <detail>ダンジョンで累計50回戦闘不能になった！</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>摩訶不思議伽哩塔を制覇した！</name>
+  <detail>摩訶不思議伽哩塔をクリアした！</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>強くなったかも？</name>
+  <detail>スキルを20種類習得した！</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>至高の一品</name>
+  <detail>装備品を+99まで強化した！</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="S" pid="000">
+  <name>最弱の極み</name>
+  <detail>装備品を-99まで弱化させた！</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>魔導の塔・初心の迷路を制覇した！</name>
+  <detail>魔導の塔・初心の迷路をクリアした！</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>カチコチン洞窟を制覇した！</name>
+  <detail>カチコチン洞窟をクリアした！</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>アッチーノ火山を制覇した！</name>
+  <detail>アッチーノ火山をクリアした！</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>古代遺跡マダデルを制覇した！</name>
+  <detail>古代遺跡マダデルをクリアした！</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="000">
+  <name>イナホーヤ荒野を制覇した！</name>
+  <detail>イナホーヤ荒野をクリアした！</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>初めての合成</name>
+  <detail>初めて装備品を合成した！</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="B" pid="000">
+  <name>初めての料理</name>
+  <detail>初めてカレーを作った！</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>初めてのオシャレ</name>
+  <detail>初めて着替えをした！</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="000">
+  <name>初めてのお勉強</name>
+  <detail>初めてスキルを覚えた！</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="B" pid="000">
+  <name>初めての買い物</name>
+  <detail>初めてカレー屋さんでアイテムを買った！</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>何が出るかな？</name>
+  <detail>初めて宝箱を開けた！</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>良い感じになってきた！</name>
+  <detail>装備品を+7まで強化した！</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>そんな装備で大丈夫？</name>
+  <detail>装備品を-7まで弱化させた！</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>村で名の知れた魔導師</name>
+  <detail>モンスターを50体倒した！</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="B" pid="000">
+  <name>町で名の知れた魔導師</name>
+  <detail>モンスターを500体倒した！</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="B" pid="000">
+  <name>助けて下さい</name>
+  <detail>ダンジョンで累計15回戦闘不能になった！</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>まだまだ続くよ！</name>
+  <detail>累計プレイ時間が一時間経過した！</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="B" pid="000">
+  <name>これからよろしくね</name>
+  <detail>オープニングムービーを飛ばさずに最後まで見た！</detail>
+ </trophy>
+</trophyconf>

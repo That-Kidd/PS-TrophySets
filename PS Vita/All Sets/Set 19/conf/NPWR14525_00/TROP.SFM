@@ -1,0 +1,84 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000f197c96a0f4fc4c6e0aa78fadeba6964d62ae00e90f1fec90257c6f7c96b89dab1cf346a139dc14733fe1dc1c2782e5ad7b852ca3b835dc6b4294879114f4058bde76abc90be3cca2555d858470512c1d0250035316d5534921ee816dd7905f029c9b9df04000d30658795491485a3ef2bfdd12a2345f8b5a6a05ffe51f4e32e99c7c6ccdd21593feff14f21d1f295058d30b52f-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR14525_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Xenon Valkyrie +</title-name>
+ <title-detail>Xenon Valkyrie + trophies</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Hardcore Gamer</name>
+  <detail>Unlock all trophies in Xenon Valkyrie +</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>Ancient Block</name>
+  <detail>You fought through Ancient Techforest</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>Cave Block</name>
+  <detail>You fought through Thule Wulz Grotto</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>Reactor Block</name>
+  <detail>You fought through Prime Reactor</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>Ice Block</name>
+  <detail>You fought through Ivory Tundra</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>Fire Block</name>
+  <detail>You fought through Phoenix Wastes</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>Cocoon Block</name>
+  <detail>You fought through Gigacocoon</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>The Hero</name>
+  <detail>You raised the sword</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>Never Escape</name>
+  <detail>You fought to the end</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>Gold Weapon</name>
+  <detail>You got the legendary weapon</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>God Killer</name>
+  <detail>You killed Deftos</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>AI off</name>
+  <detail>You stopped the AI MotherShip</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>Commander Tent</name>
+  <detail>You shopped at the store</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>Dook Mission</name>
+  <detail>You helped Dook</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>Teleporter Engineer</name>
+  <detail>Fixed the Teleporters</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>Level 25 reached</name>
+  <detail>You get an exemplary level</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="G" pid="000">
+  <name>Lab Block</name>
+  <detail>You fought through Blackstorm Lab</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Altar of the Goddess</name>
+  <detail>You got her blessing</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>Secret Weapon</name>
+  <detail>You got the best weapon</detail>
+ </trophy>
+</trophyconf>

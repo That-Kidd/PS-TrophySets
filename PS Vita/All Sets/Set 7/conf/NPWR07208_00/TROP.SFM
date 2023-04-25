@@ -1,0 +1,92 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000021441ec409f7990192e8ef72f2b0127b8437f1c82b0b9738acb04482e6c83ed4a057db6998524344e21712fc0088a51a092c20121cbba4f90dbc192f2cfbabbc5c15349b6930d92c6940abc0ae579d275e5af9846aedf8ed93fe9fea624b4846d2640da252863153fe34710f5791195ef3e6888e71a0274dce050bd41d0cfe29e7b2f25c05419c92ada45a06d5ea02e776904999-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR07208_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>神さまと恋ゴコロ</title-name>
+ <title-detail>神さまと恋ゴコロ　トロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>神さまと恋ゴコロ</name>
+  <detail>全てのトロフィーを獲得！</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="G" pid="000">
+  <name>運命の操り糸</name>
+  <detail>全てのピュア&amp;グレースエンディングを迎えた</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="S" pid="000">
+  <name>あの子とこの子とあの人と</name>
+  <detail>たくさんのピュア&amp;グレースエンディングを迎えた</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>太陽と月のくちづけ</name>
+  <detail>如月征都 グレースエンディングを迎えた</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>最初で最後のプロポーズ</name>
+  <detail>高梨久遠 グレースエンディングを迎えた</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>幸せを誓う合図</name>
+  <detail>辻宮兼我 グレースエンディングを迎えた</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>何度でも、僕は君に答えよう</name>
+  <detail>笠原誠司 グレースエンディングを迎えた</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>大切な人の、幸せな笑顔</name>
+  <detail>東條昴 グレースエンディングを迎えた</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="G" pid="000">
+  <name>そして繋がる心</name>
+  <detail>日渡奏良 グレースエンディングを迎えた</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>誰よりも、一番近くに</name>
+  <detail>如月征都 ピュアエンディングを迎えた</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>プロポーズは、これから</name>
+  <detail>高梨久遠 ピュアエンディングを迎えた</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>Ｙｅｓ？　Ｎｏ？</name>
+  <detail>辻宮兼我 ピュアエンディングを迎えた</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>じゃあ……せーの</name>
+  <detail>笠原誠司 ピュアエンディングを迎えた</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>幸せへのカウントダウン</name>
+  <detail>東條昴 ピュアエンディングを迎えた</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>一条の光</name>
+  <detail>日渡奏良 ピュアエンディングを迎えた</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>ずっと修行！</name>
+  <detail>見習いエンディングを迎えた</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>愛されシスター</name>
+  <detail>シスターエンディングを迎えた</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="G" pid="000">
+  <name>新マザー誕生</name>
+  <detail>マザー後継者エンディングを迎えた</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>鳩がつなぐ</name>
+  <detail>はじめて手紙を受け取った</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>自己研鑽</name>
+  <detail>はじめてスケジュールを組んだ</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>神の前で</name>
+  <detail>日曜日に懺悔を聞いた</detail>
+ </trophy>
+</trophyconf>

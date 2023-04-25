@@ -1,0 +1,212 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000003bcfe233a00f25b090127950af7c849ea88233241ff1e1e514cac3c90325da5175d1bd904c3cc544795661cd3629a2ba124f82fa735c05567d54e5e51c20e20743584bf48de2ca40e0b642867966c9d242e7fa701d9c3fdd2386ae3a570f90012f3a0207f90e4b63a3b85898a4a0a63763348fe9ccd1d6c8434e71411458e7e13f8c42fb24a3864f5a1d5585d26cad812d2ea333-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR05075_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Angry Birds™ Star Wars</title-name>
+ <title-detail>Trophies for Angry Birds™ Star Wars</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Congratulations!</name>
+  <detail>You have unlocked the Platinum Trophy!</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Mighty Launch</name>
+  <detail>Mighty Falcon Launched (in Single Player Mode)</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Falcon Escape</name>
+  <detail>100% destruction with Falcon (in Single Player Mode)</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Hyperspace</name>
+  <detail>100% destruction with Falcon 50 times (in Single Player Mode)</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>That's No Moon</name>
+  <detail>Tatooine completed</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="S" pid="000">
+  <name>Tatooine – All Stars</name>
+  <detail>Tatooine: Three stars in all levels</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>Tatooine - The Force</name>
+  <detail>Tatooine: Get 2,380,000 points</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>Disturbing Misobedience</name>
+  <detail>Death Star completed</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>Death Star – All Stars</name>
+  <detail>Death Star: Three stars in all levels</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>Death Star - The Force</name>
+  <detail>Death Star: Get 3,180,000 points</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="000">
+  <name>Jettisoned Jetpacks</name>
+  <detail>Collect all 5 Jetpacks</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>Courage of Jedi</name>
+  <detail>Path of the Jedi completed</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>Path of the Jedi – All Stars</name>
+  <detail>Path of the Jedi: Three stars in all levels</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="000">
+  <name>Path of the Jedi – The Force</name>
+  <detail>Path of the Jedi: Get 3,250,000 points</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>Probe Explorer</name>
+  <detail>1 droid level found</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>Probe Gatherer</name>
+  <detail>5 droid levels found</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Jedi Initiate</name>
+  <detail>50 blocks smashed with saber</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Jedi Knight</name>
+  <detail>500 blocks smashed with saber</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>Jedi Master</name>
+  <detail>2000 blocks smashed with saber</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Force Learner</name>
+  <detail>2000 blocks thrown with Force</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>Ultimate Laser Shooter</name>
+  <detail>1000 blocks smashed with blaster laser</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>Skilled Pilot</name>
+  <detail>500 blocks smashed with Pilot</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>Magnificent Grumble</name>
+  <detail>300 blocks smashed with Chewbacca</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>Prominent Jedi</name>
+  <detail>Three lasers deflected with saber (in Single Player Mode)</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>Target Shooter</name>
+  <detail>Three pigs shot with a single blaster shot (in Single Player Mode)</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>Star Bird Fan</name>
+  <detail>Angry Birds Star Wars played for 5 hours</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>True Star Bird Fan</name>
+  <detail>Angry Birds Star Wars played for 15 hours</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="G" pid="000">
+  <name>Star Bird Addict</name>
+  <detail>Angry Birds Star Wars played for 30 hours</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>Fly Bird Fly</name>
+  <detail>5000 birds launched</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>There's No-one Here</name>
+  <detail>Stormtrooper shot another trooper (in Single Player mode)</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>Imperial Entanglement</name>
+  <detail>Stormtrooper popped with Tie Fighter's wing (in Single Player mode)</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>Walking Carpet</name>
+  <detail>Same turret shot Chewbacca 6 times with a direct hit (in Single Player Mode)</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>Simple Pigs and Nonsense</name>
+  <detail>300 stormtroopers popped</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>The Birds Will Be With You</name>
+  <detail>10 levels completed with one bird</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>Lack of Faith</name>
+  <detail>Level restarted 100 times</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>Pork side of the Force</name>
+  <detail>Fail level 10 times with one pig left (in Single Player Mode)</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>Fatal Attraction</name>
+  <detail>Lift 500 blocks with gravitational field disruptor</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>Transport Is Away</name>
+  <detail>Hoth completed</detail>
+ </trophy>
+ <trophy id="038" hidden="yes" ttype="S" pid="000">
+  <name>Hoth – All Stars</name>
+  <detail>Hoth: Three stars in all levels</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="000">
+  <name>Hoth - The Force</name>
+  <detail>Hoth: Get 3,450,000 points</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="B" pid="000">
+  <name>Mynock Tangle</name>
+  <detail>Mynock popped with another mynock in 6 levels (in Single Player Mode)</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="B" pid="000">
+  <name>Block Buster</name>
+  <detail>Smash 25 blocks with a single flight of Boba</detail>
+ </trophy>
+ <trophy id="042" hidden="yes" ttype="B" pid="000">
+  <name>There is no try</name>
+  <detail>Play a multiplayer game with a total of four people </detail>
+ </trophy>
+ <trophy id="043" hidden="yes" ttype="S" pid="000">
+  <name>The circle is now complete</name>
+  <detail>Complete the Exclusive Levels</detail>
+ </trophy>
+ <trophy id="044" hidden="yes" ttype="G" pid="000">
+  <name>All too easy</name>
+  <detail>Exclusive Levels: Three stars in all levels</detail>
+ </trophy>
+ <trophy id="045" hidden="yes" ttype="B" pid="000">
+  <name>Thank the maker!</name>
+  <detail>Unlock your first secret from the Extras menu</detail>
+ </trophy>
+ <trophy id="046" hidden="yes" ttype="B" pid="000">
+  <name>Well, look at you!</name>
+  <detail>Earn your first bonus score in a multiplayer match</detail>
+ </trophy>
+ <trophy id="047" hidden="yes" ttype="B" pid="000">
+  <name>No more training do you require</name>
+  <detail>Unlock 5 different bonus scores within the multiplayer mode</detail>
+ </trophy>
+ <trophy id="048" hidden="yes" ttype="B" pid="000">
+  <name>The Force is strong</name>
+  <detail>Unlock all of the bonus scores within the multiplayer mode</detail>
+ </trophy>
+ <trophy id="049" hidden="yes" ttype="B" pid="000">
+  <name>Impressive</name>
+  <detail>Collect your first character sticker</detail>
+ </trophy>
+ <trophy id="050" hidden="yes" ttype="B" pid="000">
+  <name>Most Impressive</name>
+  <detail>Collect 10 character stickers</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,164 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000b4fce24d3a83685c3ca86a45d044f3be7d7e6ccc9cc257149f94cf062c5ab8771337f1e3485ef4516de7d21ae75d21d2ba29536a01e6a6da2f2e534243a7347f1bcd4a90331897818518d8dab1367848e4b20e71af4249601fc3548efc2df62163a11fe8b08ad49f2e23c51de7ba70d2e1bfce5e9d1e5d28cfb15a33568832381791b950b6d7f9103b8c2a004f5c64b3822e14a5-->
+<trophyconf version="1.1" platform="ps3,psp2" policy="large">
+ <npcommid>NPWR07876_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>ひぐらしのなく頃に粋</title-name>
+ <title-detail>「ひぐらしのなく頃に粋」トロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>正解率1%</name>
+  <detail>全てのトロフィーを集める</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>惨劇に挑め</name>
+  <detail>「興宮警察署事件調書」のプロローグを開始する</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>設定変更</name>
+  <detail>環境設定で設定を変更する</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="S" pid="000">
+  <name>ミュージックマイスター</name>
+  <detail>音楽鑑賞の達成率が100%になる</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="S" pid="000">
+  <name>ピクチャーマイスター</name>
+  <detail>画像鑑賞の達成率が100%になる</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="S" pid="000">
+  <name>ムービーマイスター</name>
+  <detail>動画鑑賞の達成率が100%になる</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="000">
+  <name>カケラマイスター</name>
+  <detail>カケラ紡ぎのカケラを全て読む</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>TIPSマイスター</name>
+  <detail>TIPSを全て読む</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>オヤシロショックLV1クリア</name>
+  <detail>クイズオヤシロショックのLV1をクリアする</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="000">
+  <name>オヤシロショックLV2クリア</name>
+  <detail>クイズオヤシロショックのLV2をクリアする</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="000">
+  <name>オヤシロショックLV3クリア</name>
+  <detail>クイズオヤシロショックのLV3をクリアする</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>オヤシロショックLV4クリア</name>
+  <detail>クイズオヤシロショックのLV4をクリアする</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="B" pid="000">
+  <name>嘘だッ！！！</name>
+  <detail>竜宮レナをパートナーに選ぶ</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="000">
+  <name>ボキャ貧は辛いわぁ</name>
+  <detail>園崎魅音をパートナーに選ぶ</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="B" pid="000">
+  <name>カリ、ブロッコリ！</name>
+  <detail>北条沙都子をパートナーに選ぶ</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>私は、ハッピーエンドのお話が好き</name>
+  <detail>公由夏美をパートナーに選ぶ</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="S" pid="000">
+  <name>「鬼隠し」読了</name>
+  <detail>「鬼隠し」をクリアする</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="S" pid="000">
+  <name>「綿流し」読了</name>
+  <detail>「綿流し」をクリアする</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="S" pid="000">
+  <name>「祟殺し」読了</name>
+  <detail>「祟殺し」をクリアする</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="S" pid="000">
+  <name>「染伝し」読了</name>
+  <detail>「染伝し」をクリアする</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="S" pid="000">
+  <name>「盥回し」読了</name>
+  <detail>「盥回し」をクリアする</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="S" pid="000">
+  <name>「憑落し」読了</name>
+  <detail>「憑落し」をクリアする</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="S" pid="000">
+  <name>「暇潰し」読了</name>
+  <detail>「暇潰し」をクリアする</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="S" pid="000">
+  <name>「目明し」読了</name>
+  <detail>「目明し」をクリアする</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="S" pid="000">
+  <name>「昼壊し」読了</name>
+  <detail>「昼壊し」をクリアする</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="S" pid="000">
+  <name>「影紡し」読了</name>
+  <detail>「影紡し」をクリアする</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="S" pid="000">
+  <name>「罪滅し」読了</name>
+  <detail>「罪滅し」をクリアする</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="S" pid="000">
+  <name>「宵越し」読了</name>
+  <detail>「宵越し」をクリアする</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="S" pid="000">
+  <name>「解々し」読了</name>
+  <detail>「解々し」をクリアする</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="S" pid="000">
+  <name>「皆殺し」読了</name>
+  <detail>「皆殺し」をクリアする</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="S" pid="000">
+  <name>「祭囃し」読了</name>
+  <detail>「祭囃し」をクリアする</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="S" pid="000">
+  <name>「澪尽し・表」読了</name>
+  <detail>「澪尽し・表」をクリアする</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="S" pid="000">
+  <name>「澪尽し・裏」読了</name>
+  <detail>「澪尽し・裏」をクリアする</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="S" pid="000">
+  <name>「賽殺し」読了</name>
+  <detail>「賽殺し」をクリアする</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="S" pid="000">
+  <name>「言祝し」読了</name>
+  <detail>「言祝し」をクリアする</detail>
+ </trophy>
+ <trophy id="035" hidden="yes" ttype="S" pid="000">
+  <name>「羞晒し」読了</name>
+  <detail>「羞晒し」をクリアする</detail>
+ </trophy>
+ <trophy id="036" hidden="yes" ttype="S" pid="000">
+  <name>とある奇跡の積み重ね</name>
+  <detail>プレイ時間が100時間を超える しかし876,000時間には到底及ばない</detail>
+ </trophy>
+ <trophy id="037" hidden="yes" ttype="S" pid="000">
+  <name>やはりこのゲームのクリック回数はまちがっている</name>
+  <detail>メッセージ送りが100,000クリックを超える</detail>
+ </trophy>
+ <trophy id="038" hidden="yes" ttype="G" pid="000">
+  <name>あの日、あの場所、全てに｢ありがとう｣</name>
+  <detail>全てのシナリオを読破する</detail>
+ </trophy>
+</trophyconf>

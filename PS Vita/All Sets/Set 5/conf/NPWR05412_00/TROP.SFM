@@ -1,0 +1,208 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000002574d4643624e60bff4fae3f5184540c50d601d85fe1899fad6c75a1d69060bf93ef0f806410051978079816189744e1633ca6509f7bbb347d9c0a576004b5d407b2e4bc1c0b2313dce98c8d50735fe960dcfcc57ec583e01ad97663f9085a2ef71c753ed94604c5e6e5eb1fe7fa30e7b309c88f62051e40c3e2893a6e3bec5cefb8101dfa59fc6032947f558ff21a6032ee55ee-->
+<trophyconf version="1.1" platform="ps3,psp2,ps4" policy="large">
+ <npcommid>NPWR05412_00</npcommid>
+ <trophyset-version>01.09</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Velocity®2X</title-name>
+ <title-detail>Velocity®2X Trophies</title-detail>
+ <group id="001">
+  <name>Critical Urgency Pack</name>
+  <detail>Critical Urgency Pack</detail>
+ </group>
+ <group id="002">
+  <name>Dual Core Pack</name>
+  <detail>Dual Core Pack trophies</detail>
+ </group>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Yippee Kai Yay</name>
+  <detail>************</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Easy Tiger</name>
+  <detail>Fly over your first speed pad</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Background Reading</name>
+  <detail>Look in every folder in Flight Computer</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Double Whammy 2X</name>
+  <detail>Disable two switches within 0.5 seconds of each other</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>Triple Whammy 2X</name>
+  <detail>Disable three switches within 1 second</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>Hoarder Next Door</name>
+  <detail>Collect 5,000 crystals</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>Mind The Gap</name>
+  <detail>Dock your ship for the first time</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>Ketchup!</name>
+  <detail>Get squished at the bottom of the screen</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>Double Dash</name>
+  <detail>Teledash through two Vokh at the same time</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>Gotta Kill 'Em All!</name>
+  <detail>Kill every type of enemy (doesn't include boss battles)</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>Heavy Boots</name>
+  <detail>Complete a level without letting go of boost</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>Lucky Find</name>
+  <detail>Unlock a bonus level</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>Snooze You Lose</name>
+  <detail>Get stuck in a door</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>Power Extreme</name>
+  <detail>Unlock all abilities</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>Tough Stuff</name>
+  <detail>Survive the first encounter with General Glaive</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>Data Miner</name>
+  <detail>Collect all data packs</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Credit Crunch</name>
+  <detail>Get 100,000 points in the credits minigame</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>High Flier</name>
+  <detail>Gain your first PERFECT medal</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>Tele-Damage</name>
+  <detail>Defeat a Vokh</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Saviour</name>
+  <detail>Rescue 6,000 Jintinda</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>China Shop</name>
+  <detail>Shoot 5,000 pieces of glass</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>Wheat From Chaff</name>
+  <detail>Gain 25 PERFECT medals</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>Miss Average</name>
+  <detail>Gain above average XP in half the levels</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>Qirex R.I.P.</name>
+  <detail>Hit every speed pad in Level 25</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>Intermediate</name>
+  <detail>Earn Gold medals on all Critical Urgency levels</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="S" pid="000">
+  <name>Basic Training</name>
+  <detail>Boost all the way through level 3</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="S" pid="000">
+  <name>Killa Thrilla</name>
+  <detail>Destroy 2500 airborne enemies</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="S" pid="000">
+  <name>Exterminator</name>
+  <detail>Destroy 50 Vokh Guards</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="S" pid="000">
+  <name>Romancing The Throne</name>
+  <detail>Collect 10,000 crystals</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="S" pid="000">
+  <name>Bonus Onus</name>
+  <detail>Unlock all bonus levels (25)</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="S" pid="000">
+  <name>Rampager</name>
+  <detail>Shoot 10,000 pieces of glass</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="G" pid="000">
+  <name>FuturLab Certified</name>
+  <detail>Gain 50 PERFECT medals</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="G" pid="000">
+  <name>Double or Nothing</name>
+  <detail>Use double the firepower!</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="G" pid="000">
+  <name>Now You Know</name>
+  <detail>Get a PERFECT medal on all Critical Urgency levels</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="G" pid="000">
+  <name>Ralan's Mission</name>
+  <detail>Complete all bonus levels</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="G" pid="000">
+  <name>Mind Over Matter</name>
+  <detail>Complete level 50</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="G" pid="-1" gid="001">
+  <name>Thumb Kinda Hero</name>
+  <detail>Perfect all speed levels</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="S" pid="-1" gid="001">
+  <name>Not bad, keep going…</name>
+  <detail>Complete all speed levels</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="S" pid="-1" gid="001">
+  <name>Sonic Spin</name>
+  <detail>Trigger a speed pad 4 times in under a second in level CU05</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>Cautious Kai</name>
+  <detail>Avoid every speed pad in level CU02</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>Hot Heels</name>
+  <detail>Boost and sprint all the way through level CU02</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>Turret Takedown</name>
+  <detail>Destroy 6 turrets in level CU04 in under one second</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="G" pid="-1" gid="002">
+  <name>Thumb Together</name>
+  <detail>Perfect all Dual Core Levels</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="S" pid="-1" gid="002">
+  <name>Quarp Zen</name>
+  <detail>Complete all Dual Core Levels</detail>
+ </trophy>
+ <trophy id="044" hidden="no" ttype="S" pid="-1" gid="002">
+  <name>The Immaculate Perfection</name>
+  <detail>Perfect all Speed Runs</detail>
+ </trophy>
+ <trophy id="045" hidden="no" ttype="B" pid="-1" gid="002">
+  <name>Cruise Controlled</name>
+  <detail>Race through Level DC02 without letting go of boost!</detail>
+ </trophy>
+ <trophy id="046" hidden="no" ttype="B" pid="-1" gid="002">
+  <name>Left Behind</name>
+  <detail>Die by leaving one ship behind</detail>
+ </trophy>
+ <trophy id="047" hidden="no" ttype="B" pid="-1" gid="002">
+  <name>Quadruple Whammy 2X</name>
+  <detail>Destroy 16 turrets in 2 seconds in Level DC08</detail>
+ </trophy>
+</trophyconf>

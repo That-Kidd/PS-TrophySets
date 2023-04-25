@@ -1,0 +1,96 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000d6989cdfec638cc1a91723fdfe260b46333849f7b4ae18499677719948865e513c324539f10a10b75363344a3fe4a521331702eae88a0a998e4de93de7d9155adc9fd11d427a21f22431ccefa2b405698bb4fcb731be079cd077597ca1b296d512cae8faccf5fcf6ed1eed93a6f190ecdbe3d7516e3b931eb125cf52776709a833f70d2fec4a3284b894171a16ce50db752bacf9-->
+<trophyconf version="1.1" platform="psp2">
+ <npcommid>NPWR03251_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>萌え萌え大戦争☆げんだいばーん++</title-name>
+ <title-detail>萌え萌え大戦争☆げんだいばーん++のトロフィーセットです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>ここまで遊んでくれてありがとう！！</name>
+  <detail>おめでとうございます。全てのトロフィーを獲得しました。おつかれさました。</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>鋼鉄乙女（はがねのおとめ）いきまぁ～す！！</name>
+  <detail>萌え萌え大戦争の世界へようこそ。</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>中東戦線クリア</name>
+  <detail>中東戦線の結末のシナリオまでプレイする。</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>欧州戦線クリア</name>
+  <detail>欧州戦線の結末のシナリオまでプレイする。</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>極東戦線クリア</name>
+  <detail>極東戦線の結末のシナリオまでプレイする。</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>ベトナム戦線クリア</name>
+  <detail>ベトナム戦線の結末のシナリオまでプレイする。</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>第三次大戦クリア</name>
+  <detail>第三次大戦の結末のシナリオまでプレイする。</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>戦場のアルバム</name>
+  <detail>CG収集率が５０％以上になる。</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>完成したアルバム</name>
+  <detail>CGの収集率が１００％になる。</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>でらっくす☆さばいばー</name>
+  <detail>サバイバルマップを１０枚クリアする。</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>ぱーふぇくと☆さばいばー</name>
+  <detail>全サバイバルマップをクリアする。</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>鋼の乙女研究家</name>
+  <detail>全ての兵器図鑑を収集する。乙女達の秘密が分かっちゃう！？</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>ミニゲームマスター</name>
+  <detail>全てのミニゲームを収集する。</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>エース・オブ・エース</name>
+  <detail>いずれかの鋼の乙女一体のレベルをMAXまで育てる。めざせ全ての乙女のレベルMAX。</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="B" pid="000">
+  <name>縛りプレイですか？　大好きです！</name>
+  <detail>カスタマイズで「弱気」と「負け癖」を設定なんて、あなたもかなり縛りプレイ好きですね。</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="G" pid="000">
+  <name>至高の整備長</name>
+  <detail>全てのCOMパートを収集する。もっと修理したい！その欲望がコレクションへとかきたてる。</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="G" pid="000">
+  <name>究極の整備長</name>
+  <detail>最高戦績でクリア後、一度もミスなくCOMパート三人を完全修理。すごいテクニシャンです。</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>放置プレイですか？　寂しいです…</name>
+  <detail>誰も修理せずにCOMパートを終了する。放置プレイなんて、寂しいです…。</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="G" pid="000">
+  <name>アラン・スミスの本気</name>
+  <detail>難易度ハードのプレイもシナリオクリアまでしたら立派です。</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>いたずら好きの変態さん！？</name>
+  <detail>COMパートで鋼の乙女のパーツをすべて破壊しました。もしかして変態さん！？</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>乙女たちの絆</name>
+  <detail>あなたと合体技したい！絆を高めた乙女達のすごい合体技をみた。</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>負けるな隊長！</name>
+  <detail>SLGパートでゲームオーバー後、リトライで再挑戦だ。</detail>
+ </trophy>
+</trophyconf>

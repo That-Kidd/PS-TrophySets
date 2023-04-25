@@ -1,0 +1,72 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000dfe1079732c60339dcac2425c80180960ab2223a018598504a514ba1bc4366da1fc3adfa60c1d0d54e5591c1dc9f8baa3e57b47a0ae6b7241b55f75dce39e6ab750de0a9bc5c9332f7f74389b675d655d3a03de8c0a585b6820f7e01c1749dcf4db51db8f43a08aecae04404ab62dff92723d58e75ab39d70c69bbc9dcc0d91fd80f595488d7705267b2c6e590f03e14cba60fa9-->
+<trophyconf version="1.1" platform="ps3,psp2" policy="freemium">
+ <npcommid>NPWR04884_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Best of Board Games</title-name>
+ <title-detail>Best of Board Games</title-detail>
+ <group id="001">
+  <name>Chess</name>
+  <detail>Chess</detail>
+ </group>
+ <group id="002">
+  <name>Mah-jong</name>
+  <detail>Mah-jong</detail>
+ </group>
+ <group id="003">
+  <name>Solitaire</name>
+  <detail>Solitaire</detail>
+ </group>
+ <trophy id="000" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>Chess: I have the solution!</name>
+  <detail>Succeed at a challenge</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="-1" gid="001">
+  <name>Chess: Strategist</name>
+  <detail>Succeed at all of the challenges</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="-1" gid="001">
+  <name>Chess: &amp; Mate!</name>
+  <detail>Finish Adventure mode</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>Chess: Just the beginning</name>
+  <detail>Win an on-line match</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1" gid="002">
+  <name>Mah-jong: Tiles, done!</name>
+  <detail>Finish a board</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1" gid="002">
+  <name>Mah-jong: Next!</name>
+  <detail>Finish an Adventure mode world</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="-1" gid="002">
+  <name>Mah-jong: Eagle eye</name>
+  <detail>Finish all of the Adventure mode worlds</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="-1" gid="002">
+  <name>Mah-jong: Cupid</name>
+  <detail>Make up more than 5,000 pairs</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="-1" gid="003">
+  <name>Solitaire: End of the road</name>
+  <detail>Finish Adventure mode</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1" gid="003">
+  <name>Solitaire: Crossing the desert</name>
+  <detail>Score 50,000 points</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="-1" gid="003">
+  <name>Solitaire: Solitaire King</name>
+  <detail>Get a score of 100,000</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="-1" gid="003">
+  <name>Solitaire: Centenarian</name>
+  <detail>Win 100 matches in all of the games</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="-1" gid="003">
+  <name>Solitaire: Patience...</name>
+  <detail>Win a game of each of the 5 games.</detail>
+ </trophy>
+</trophyconf>

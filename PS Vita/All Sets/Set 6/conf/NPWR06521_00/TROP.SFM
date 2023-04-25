@@ -1,0 +1,172 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000036f81f848ae053abd6580d986bc95a601ae9566b6aae296a9046f16e1a39454e6cf9d29578aeb021ecf1c8cba92b33a75a1eb5c3f386eb6030fee7d4390cc4621e49fd3fc5a4dc98f5e3025f62676d6d4f37e7c6ceaa17835900a37370f5a12b6abbe3bca42816c5faa1e2b0d5ca5d78ef94dc848881dd4211ba83adf92e1fa02fa4b6c29edb6ac8971588bd38a9f4d16c17fcb4-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR06521_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>大江戸BlackSmith</title-name>
+ <title-detail>大江戸BlackSmithのトロフィーセットです。&#x0a;</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>大江戸マスター</name>
+  <detail>全てのトロフィーを取得</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>初めての嬢郭</name>
+  <detail>初めて嬢郭へ行った</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>約束破り</name>
+  <detail>初めて媛嬢との約束を破った</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>二度目の約束破り</name>
+  <detail>媛嬢との約束を二度破った</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>初めての鍛冶</name>
+  <detail>鍛冶を初めて行った</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>駆け出しの鍛冶師</name>
+  <detail>鍛冶を50回行った</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>手馴れの鍛冶師</name>
+  <detail>鍛冶を100回行った</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>鍛冶師の鑑</name>
+  <detail>鍛冶を200回行った</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>高みの鍛冶師</name>
+  <detail>鍛冶を300回行った</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>初めての強化</name>
+  <detail>初めて強化をした</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>最強の鍛冶師</name>
+  <detail>鍛冶を500回行った</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>神の手</name>
+  <detail>鍛冶のランクが最高になった</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>初めての賭場</name>
+  <detail>賭場に初めて行った</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="000">
+  <name>手馴れの博徒</name>
+  <detail>賭場に15回通った</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>最強の博徒</name>
+  <detail>賭場に30回通った</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>初めての依頼</name>
+  <detail>初めて依頼を受けた</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>初めての素材探索</name>
+  <detail>初めて素材探索に行った</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>手馴れの採掘師</name>
+  <detail>素材探索に20回行った</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="S" pid="000">
+  <name>最強の採掘師</name>
+  <detail>素材探索に100回行った</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="S" pid="000">
+  <name>採掘場の支配者</name>
+  <detail>採掘場を全て制覇</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>初めての街</name>
+  <detail>初めて街に行った</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>街の探索者</name>
+  <detail>街に20回行った</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="S" pid="000">
+  <name>街を知り尽くした男</name>
+  <detail>街に100回行った</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="S" pid="000">
+  <name>清花との幸せな結末</name>
+  <detail>清花ハッピーエンドを見た</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>清花との結末</name>
+  <detail>清花ノーマルエンドを見た</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="B" pid="000">
+  <name>清花の不幸</name>
+  <detail>清花バッドエンドを見た</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="S" pid="000">
+  <name>朝香との幸せな結末</name>
+  <detail>朝香ハッピーエンドを見た</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="S" pid="000">
+  <name>朝香との結末</name>
+  <detail>朝香ノーマルエンドを見た</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="B" pid="000">
+  <name>朝香の不幸</name>
+  <detail>朝香バッドエンドを見た</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="S" pid="000">
+  <name>夕霧との幸せな結末</name>
+  <detail>夕霧ハッピーエンドを見た</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="S" pid="000">
+  <name>夕霧との結末</name>
+  <detail>夕霧ノーマルエンドを見た</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="B" pid="000">
+  <name>夕霧の不幸</name>
+  <detail>夕霧バッドエンドを見た</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="S" pid="000">
+  <name>蘭丸との結末</name>
+  <detail>蘭丸エンドを見た</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="S" pid="000">
+  <name>郁奈との結末</name>
+  <detail>郁奈エンドを見た</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="S" pid="000">
+  <name>仁重との結末</name>
+  <detail>仁重エンドを見た</detail>
+ </trophy>
+ <trophy id="035" hidden="yes" ttype="S" pid="000">
+  <name>桐との結末</name>
+  <detail>桐エンドを見た</detail>
+ </trophy>
+ <trophy id="036" hidden="yes" ttype="S" pid="000">
+  <name>梨紗との結末</name>
+  <detail>梨紗エンドを見た</detail>
+ </trophy>
+ <trophy id="037" hidden="yes" ttype="S" pid="000">
+  <name>ませとの結末</name>
+  <detail>ませエンドを見た</detail>
+ </trophy>
+ <trophy id="038" hidden="yes" ttype="B" pid="000">
+  <name>孤独な結末</name>
+  <detail>孤独エンドを見た</detail>
+ </trophy>
+ <trophy id="039" hidden="yes" ttype="S" pid="000">
+  <name>大金持ちに</name>
+  <detail>お金が1,000,000文貯まった</detail>
+ </trophy>
+ <trophy id="040" hidden="yes" ttype="G" pid="000">
+  <name>媛嬢たちとの思い出</name>
+  <detail>イベントCGフルコンプリート</detail>
+ </trophy>
+</trophyconf>

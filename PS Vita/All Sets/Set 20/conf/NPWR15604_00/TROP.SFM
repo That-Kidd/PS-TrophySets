@@ -1,0 +1,88 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000f0bbf37848f1cf23300f6a763af83ac16d8094ad8748ec33dbe5971ae48bbea545f7da6eb4cdaf8a1fb10e5ae433bfeb5914e073621b2c6526bcd4e0a27e19053a4f1f12d658da5627452edf87c6c5368106fe1623d8ee7f3e7ae3f7127f9dc5fd0b8ad61991df1e02e9a72c640c2a03785d2a5f007a887d895df50773bb7ff847284588faf9ee1d397c7ee459f78e24234178fa-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR15604_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Muv-Luv Alternative</title-name>
+ <title-detail>Muv-Luv Alternative Trophy Set</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Muv-Luv Alternative</name>
+  <detail>Aquire all trophies.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>ALTERNATIVE</name>
+  <detail>Back to the Battlefield!</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>The Light of Other Days</name>
+  <detail>Completed Episode 1</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Soldier, Ask Not</name>
+  <detail>Completed Episode 2</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>Across the Island</name>
+  <detail>Completed Episode 3</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>Hollow Glory</name>
+  <detail>Completed Episode 4</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>Coming Home</name>
+  <detail>Completed Episode 5</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>Insatiable Ambition</name>
+  <detail>Completed Episode 6</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>Unforgiven</name>
+  <detail>Completed Episode 7</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>No Tears Left to Shed</name>
+  <detail>Completed Episode 8</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="G" pid="000">
+  <name>The Unending Fight</name>
+  <detail>Completed Episode 9</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="G" pid="000">
+  <name>A Crack in Spacetime</name>
+  <detail>Completed Episode 10</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="G" pid="000">
+  <name>Love Nucleus</name>
+  <detail>Restored order to the multiverse</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="G" pid="000">
+  <name>Chizuru's Farewell</name>
+  <detail>Read Chizuru's Testament</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="G" pid="000">
+  <name>Kei's Farewell</name>
+  <detail>Read Kei's Testament</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="G" pid="000">
+  <name>Miki's Farewell</name>
+  <detail>Read Miki's Testament</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="G" pid="000">
+  <name>Mikoto's Farewell</name>
+  <detail>Read Mikoto's Testament</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="G" pid="000">
+  <name>Kasumi's Farewell</name>
+  <detail>Heard Kasumi's Confession</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>Causality Conductor</name>
+  <detail>Unlocked CG Gallery</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="000">
+  <name>Guiding Light</name>
+  <detail>Unlocked Chapter Select</detail>
+ </trophy>
+</trophyconf>

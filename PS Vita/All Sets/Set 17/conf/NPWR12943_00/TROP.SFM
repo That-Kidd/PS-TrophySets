@@ -1,0 +1,104 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000003f580341721230575cfbdc850d4a02b37ad71eec1bc5a46182e122552be7d9372197cf49a363ec79a881a5a1d2caaae34fff9a31eea82c5476e66f256f7ab7453e81ad82d2665b7e037bb8e4104895117f7ddb4f27bd3a71461cc70ac6728157552b500b56f04e19ff47586a91c1c3ac89cdb0a69cdc23bb852eccb754d58ed7f560e3852da3db2478b8803de7314d972677b8f4-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR12943_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>嘘月シャングリラ</title-name>
+ <title-detail>嘘月シャングリラのトロフィーセットです</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>全トロフィー獲得</name>
+  <detail>全てのトロフィーを獲得した</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>青い月の世界</name>
+  <detail>序章をクリアした</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>彼の嘘を愛せますか？</name>
+  <detail>キャラクターのルートに入った</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>初めての嘘</name>
+  <detail>嘘月選択で嘘をついた</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>嘘つきの証</name>
+  <detail>嘘月度が一番高くなった</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>月を超える愛</name>
+  <detail>フェンリルの Happy END をクリアした</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>償う未来</name>
+  <detail>ヨルムの Happy END をクリアした</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>生きる喜び</name>
+  <detail>ヘルの Happy END をクリアした</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>月に寄り添う狼</name>
+  <detail>ハティの Happy END をクリアした</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>希望の夜明け</name>
+  <detail>エンデの Happy END をクリアした</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>災禍と約束</name>
+  <detail>フェンリルの全てのエンディングをクリアした</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>罪と微笑み</name>
+  <detail>ヨルムの全てのエンディングをクリアした</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>痛みと心</name>
+  <detail>ヘルの全てのエンディングをクリアした</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>本能と優しさ</name>
+  <detail>ハティの全てのエンディングをクリアした</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>宿命と願い</name>
+  <detail>エンデの全てのエンディングをクリアした</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="G" pid="000">
+  <name>終わりを知る者</name>
+  <detail>全てのエンディングをクリアした</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="G" pid="000">
+  <name>幸せを望む</name>
+  <detail>全ての Happy END をクリアした</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="G" pid="000">
+  <name>哀しみに溺れる</name>
+  <detail>全ての Misery END をクリアした</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="G" pid="000">
+  <name>消えゆく月</name>
+  <detail>全ての Vanish END をクリアした</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="G" pid="000">
+  <name>満天の思い出</name>
+  <detail>イベントグラフィックをすべて集めた</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="G" pid="000">
+  <name>湖面を覗く者</name>
+  <detail>全ての湖面の月の情景を見た</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>彼の心を知る</name>
+  <detail>ショートストーリーを全て読んだ</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>みにまむシャングリラ</name>
+  <detail>ミニストーリーを全て読んだ</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>嘘の世界の真実</name>
+  <detail>Liars Moon を読んだ</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,184 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000002b7a7e661e8521715fb96c9405747ded420ba63580fcb94ea6b0fa149cb30bcefb99a3378481db0665d3d24819469fed5fef1ddccfca03da41bdd7dfb99cee51c790f038de09f73b37772865af4a8e98c90c47fd3fed3ac881d666e3763694120ffc504cc097b18d1a66f0d9541eb96f6d5393e7f9a3a6f320423087c8db2fd504d77c6d8520e6deab55ff433c4bf283ef348638-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR13467_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Fallen Legion - Vita</title-name>
+ <title-detail>Fallen Legion - Vita</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Hero of the People</name>
+  <detail>Congraulations! You obtained all of the trophies.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>True Emperor</name>
+  <detail>Complete One Life mode.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Styricaem's Savior</name>
+  <detail>Complete the first act.</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>Political Dissonance</name>
+  <detail>Complete the second act.</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>Castle Clash</name>
+  <detail>Complete the third act.</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="S" pid="000">
+  <name>A Lonely Throne</name>
+  <detail>Unlock the epilogue.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>Teamwork</name>
+  <detail>Perform a link attack.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>Brace Yourself</name>
+  <detail>Deflect an enemy attack with a perfect block.</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>Monster Combo</name>
+  <detail>Complete a 50-chain combo.</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="G" pid="000">
+  <name>Crazy Combo</name>
+  <detail>Complete a 100-chain combo.</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="000">
+  <name>Treasure Hunter</name>
+  <detail>Find a celestial gem.</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>Manticore Mauler</name>
+  <detail>Trigger break mode while fighting the Manticore.</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>Werewolf Tamer</name>
+  <detail>Trigger break mode while fighting the Vandee Werewolf.</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>Summoner Dispelled</name>
+  <detail>Trigger break mode while fighting Micena.</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>Crystal Cracker</name>
+  <detail>Trigger break mode while fighting the Crystal Golem.</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="S" pid="000">
+  <name>Aurelius Annihilator</name>
+  <detail>Trigger break mode while fighting General Aurelius.</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="S" pid="000">
+  <name>Foiled Fencer</name>
+  <detail>Trigger break mode while fighting the final boss.</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>It's Over 9000!</name>
+  <detail>Inflict over 9,000 damage without breaking the chain meter.</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>Sensational!</name>
+  <detail>Earn a S-rank in a stage.</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>The Bloodstained Blade</name>
+  <detail>Unlock Chaos Zulfiqar.</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="000">
+  <name>The Unbreakable Guardian</name>
+  <detail>Unlock Order Zulfiqar.</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>The Vengeful Pike</name>
+  <detail>Unlock Chaos Longinus.</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="B" pid="000">
+  <name>The Devoted Spear</name>
+  <detail>Unlock Order Longinus.</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>The Voracious Hunter</name>
+  <detail>Unlock Chaos Apollon.</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="000">
+  <name>The Solemn Hermit</name>
+  <detail>Unlock Order Apollon.</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="B" pid="000">
+  <name>The Blind Arquebus</name>
+  <detail>Unlock Chaos Winchester.</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>The Restless Rifle</name>
+  <detail>Unlock Order Winchester.</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="B" pid="000">
+  <name>The Wild Mallet</name>
+  <detail>Unlock Chaos Mjolnir.</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="B" pid="000">
+  <name>The Stout Sentinel</name>
+  <detail>Unlock Order Mjolnir.</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="B" pid="000">
+  <name>The Volatile Artillery</name>
+  <detail>Unlock Chaos Dardanelles.</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="B" pid="000">
+  <name>The Tactiurn Cannon</name>
+  <detail>Unlock Order Dardanelles.</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="G" pid="000">
+  <name>Killer Instinct</name>
+  <detail>Learn all of the deathblows.</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="B" pid="000">
+  <name>Two of a Kind</name>
+  <detail>Use two of the same Exemplar in battle.</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="B" pid="000">
+  <name>Three's Company</name>
+  <detail>Use three of the same Exemplar in battle.</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="B" pid="000">
+  <name>Aquila Alliance</name>
+  <detail>Rescue Princess Agnes in her time of need.</detail>
+ </trophy>
+ <trophy id="035" hidden="yes" ttype="B" pid="000">
+  <name>A Noble Sacrifice</name>
+  <detail>Discover the secret in Styricaem.</detail>
+ </trophy>
+ <trophy id="036" hidden="yes" ttype="B" pid="000">
+  <name>Spoils of War</name>
+  <detail>Join a raid with Constantine.</detail>
+ </trophy>
+ <trophy id="037" hidden="yes" ttype="S" pid="000">
+  <name>Gauntlet Thrown</name>
+  <detail>Face the Order of the Bleeding Axe.</detail>
+ </trophy>
+ <trophy id="038" hidden="yes" ttype="S" pid="000">
+  <name>Tricky Tree</name>
+  <detail>Defeat the Ouroboros Cypress.</detail>
+ </trophy>
+ <trophy id="039" hidden="yes" ttype="B" pid="000">
+  <name>Prime Legion</name>
+  <detail>Choose Prime Legion cards 25 times.</detail>
+ </trophy>
+ <trophy id="040" hidden="yes" ttype="B" pid="000">
+  <name>Council of Princes</name>
+  <detail>Choose Council of Princes cards 25 times.</detail>
+ </trophy>
+ <trophy id="041" hidden="yes" ttype="B" pid="000">
+  <name>March Congress</name>
+  <detail>Choose March Congress cards 25 times.</detail>
+ </trophy>
+ <trophy id="042" hidden="yes" ttype="B" pid="000">
+  <name>Phantom Parry</name>
+  <detail>Use the White Staccato spell.</detail>
+ </trophy>
+ <trophy id="043" hidden="yes" ttype="B" pid="000">
+  <name>Don't Fear The Reaper</name>
+  <detail>Use the Psyche Devourer spell.</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,152 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000fd4d0d41719d2106abbd38246484209824f15b2c41037e5eebdc9c671c631a89ec32b69510728656c3f2ff60f1e6b6d2fa77f9a19d145ef1cb0348f42951ab4927c591f8e3a121deff5eb82ebfed2bf98e368e9d6aecbdbbd15bbbcafa6d3c3282e18affb5cfa631834524172e2ef1d88d851cbde0b86e686b67bfc3b3706318e7433dda997524305e957d90b53248e9bf3b4377-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR07510_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Flame Over</title-name>
+ <title-detail>Trofeos para Flame Over.</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Soy el Dios del Fuego</name>
+  <detail>Desbloquea todos los trofeos.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Con la L</name>
+  <detail>Completa un nivel.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Patrulla de Gatos</name>
+  <detail>Rescata un Gato.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Hora de Irse</name>
+  <detail>Rescata a un Trabajador.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>Buscando Trabajo</name>
+  <detail>Rescata a Miss Ion.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>Objetos Perdidos</name>
+  <detail>Completa la Misión Objeto Perdido.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>Tengo Archivos Detallados</name>
+  <detail>Completa la Misión Buscar Papeles.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>Hacktivista</name>
+  <detail>Completa la Misión Protección de Datos.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>Guante Blanco</name>
+  <detail>Completa la Misión Abrir la Caja.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>Los Invasores</name>
+  <detail>Completa la Misión La Verdad está Aquí Dentro.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>Aire limpio</name>
+  <detail>Completa la Misión Fuga de Gas.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>Memoria de Elefante</name>
+  <detail>Completa la Misión Memoria de Misil</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>Sayonara</name>
+  <detail>Completa la Misión Fin de Contrato.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>Por los Pelos</name>
+  <detail>Completa un nivel con 0 segundos en el reloj.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>El Rey de la Manguera</name>
+  <detail>Completa un nivel usando solo la manguera.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>Fiesta de la Espuma</name>
+  <detail>Completa un nivel usando solo el extintor.</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>Vida o muerte</name>
+  <detail>Derrota a la Muerte.</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>Congelación</name>
+  <detail>Congela 10 barriles de proximidad antes de que exploten.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>De Entre Los Muertos</name>
+  <detail>Resucita a un trabajador con el Desfibrilador.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Todo Ayuda</name>
+  <detail>Compra una mejora.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>Contra la Electricidad</name>
+  <detail>Corta la electricidad de un nivel con la caja de fusibles.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>Miss Ion Cumplida</name>
+  <detail>Completa todas las minimisiones en una sola sesión de juego.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>Surtido</name>
+  <detail>Compra un potenciador de cada tipo.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>Vuelta y Vuelta</name>
+  <detail>Muere cien veces.</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>En Efectivo</name>
+  <detail>Lanza cien bombas de agua.</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="S" pid="000">
+  <name>Sesenta Segundos de Vida</name>
+  <detail>Evita a la Muerte durante más de un minuto.</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="S" pid="000">
+  <name>¿Tiene Cita?</name>
+  <detail>Llega a la zona Ejecutiva.</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="S" pid="000">
+  <name>Lávese Las Manos</name>
+  <detail>Llega a la zona de Laboratorios.</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="S" pid="000">
+  <name>Casco Obligatorio</name>
+  <detail>Llega a la zona de la Fábrica.</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="S" pid="000">
+  <name>Bailar Con El Diablo</name>
+  <detail>Encuentra al Diablo.</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="S" pid="000">
+  <name>¡Lo Has Logrado!</name>
+  <detail>Completa el juego.</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="G" pid="000">
+  <name>El Más Rápido</name>
+  <detail>Completa el juego en menos de 1 hora.</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="G" pid="000">
+  <name>Nadie Se Queda Strás</name>
+  <detail>Completa el juego salvando a todos los gatos y personas y completando las Misiones.</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="G" pid="000">
+  <name>A La Vieja Usanza</name>
+  <detail>Completa el juego sin usar potenciadores.</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="G" pid="000">
+  <name>Condiciones Perfectas</name>
+  <detail>Mejora al máximo las estadísticas.</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="G" pid="000">
+  <name>Antiincendios</name>
+  <detail>Completa el juego salvando a todas las personas y sin que ninguna sufra daños.</detail>
+ </trophy>
+</trophyconf>

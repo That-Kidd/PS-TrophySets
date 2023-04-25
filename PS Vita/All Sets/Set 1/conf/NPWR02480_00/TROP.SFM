@@ -1,0 +1,52 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000060088fc4066241d2734b9339854b76a64d28ae08b1e8cbed3dce58c70c1b1805fd3844d7ac8b5c0f27c31c164f1787405774b1dc70a25bf349291e5791b413989e27035a07a4ce943953cc4f10c58c0940aea7c710dbeae9ee718d55579706118e13793ea03215bce56056283439a1d3d85808d276d31b218916ca1b9fdf7cc5d25603aa42b90005303d7dba9b487b9eb34e8101-->
+<trophyconf version="1.1" platform="psp2">
+ <npcommid>NPWR02480_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Touch My Katamari</title-name>
+ <title-detail>This is the "Touch My Katamari" trophy set.&#x0a;Roll your katamari and complete various Requests&#x0a;while building a collection of all things weird and&#x0a;wonderful in the katamari universe!&#x0a;Play to your heart's content and challenge&#x0a;yourself to obtain all trophies!</title-detail>
+ <trophy id="000" hidden="yes" ttype="G" pid="-1">
+  <name>Fanatic</name>
+  <detail>Obtained the ultimate fashion item.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="-1">
+  <name>Hoarder</name>
+  <detail>Collected all Presents.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="-1">
+  <name>Connoisseur</name>
+  <detail>Collected all objects within the Curio Collection.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="-1">
+  <name>The King of Style</name>
+  <detail>Collected all of the King's fashion items.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="-1">
+  <name>Sweet Talker</name>
+  <detail>Used 3 Candy Tickets at the same time.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Katamari Noob</name>
+  <detail>Completed "Make It Big: Playtime".</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Congratulations!</name>
+  <detail>Completed all Requests.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>We Love Cousins</name>
+  <detail>Rolled up all Cousins.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Long Live Katamari!</name>
+  <detail>Unlocked Eternal and Katamari Drive modes for all&#x0a;Requests.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>Katamari Aficionado</name>
+  <detail>Collected all songs.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>Katamari Fan Damacy</name>
+  <detail>Obtained a Fan Damacy for the first time.</detail>
+ </trophy>
+</trophyconf>

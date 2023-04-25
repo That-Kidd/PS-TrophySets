@@ -1,0 +1,168 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000005ba0d4dc33f9a245a729da4ed6fd8232dc9000293caa08a260051b7c478585dd7b675542865a6b48e62ac8d5775047849965557abb0c435516e3bb0317713dc7932d4af868443aaf9c5b93bbee520ba549672a79205a103b38601cf9d267807a7f1e36722cb8a6655ce82c0dcee3880f1f36337a666f45ec09748b6fed603ef5fe1f9de7cabd8c26a90acfabff74d77fd163dd17-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR04011_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>ガンダムブレイカー</title-name>
+ <title-detail>ガンダムブレイカーのトロフィー</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>マスター・オブ・ブレイカー</name>
+  <detail>すべてのトロフィーを獲得する</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>アルティメットブレイカー</name>
+  <detail>すべてのミッションをクリアする</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>エースの証</name>
+  <detail>すべての機体用デカールを入手する</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>ＥＸマスタリー</name>
+  <detail>すべてのEXアクションを習得する</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>ガンプラマイスター</name>
+  <detail>ビルダーレベルをMAXにする</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>最高のパフォーマンス</name>
+  <detail>学習型OSのOSバージョンを最高にする</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>会心のクオリティ</name>
+  <detail>★10個の高能力パーツを作成する</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>一般参加者</name>
+  <detail>チュートリアルミッションをクリアする</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>ガンダムを破壊する者</name>
+  <detail>1/60スケールの機体を撃破する</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>過酷なる戦場へ</name>
+  <detail>ミッションフェーズ1をクリアする</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="000">
+  <name>GAIOSの目覚め</name>
+  <detail>「仕様化」された覚醒を発動させる</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>宇宙の戦場へ</name>
+  <detail>ミッションフェーズ2をクリアする</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="B" pid="000">
+  <name>禁断の地へ</name>
+  <detail>ミッションフェーズ3をクリアする</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>闇を統べる者</name>
+  <detail>グランドマスターガンダムを撃破する</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="G" pid="000">
+  <name>選ばれし者への喝采</name>
+  <detail>バトルライブ-Gのファイナルミッションをクリアする</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>歴史の先へ</name>
+  <detail>エクストラミッションフェーズ1をクリアする</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>究極の戦いへ</name>
+  <detail>エクストラミッションフェーズ2をクリアする</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>エアブラシ</name>
+  <detail>ビルダーレベルが2になり、塗装処理「エアブラシ」が使用可能になる</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>トップコート</name>
+  <detail>ビルダーレベルが4になり、塗装処理「光沢処理」が使用可能になる</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>ウォッシング</name>
+  <detail>ビルダーレベルが6になり、塗装処理「汚し処理」「足元汚し」が使用可能になる</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>チッピング</name>
+  <detail>ビルダーレベルが9になり、塗装処理「チッピング」が使用可能になる</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>バトルダメージ</name>
+  <detail>ビルダーレベルが12になり、塗装処理「傷処理」が使用可能になる</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>スクラッチビルド</name>
+  <detail>スクラッチビルドでパーツを作成する</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>こいつを記録回路に取り付けろ</name>
+  <detail>強化モジュールを学習型OSにセットする</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>リアリスティック</name>
+  <detail>機体用デカールを入手する</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>カモフラージュ</name>
+  <detail>プレイヤーズショップで迷彩塗装パターンを入手する</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>追加装備</name>
+  <detail>プレイヤーズショップで携行アイテムを入手する</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>コーディネイター</name>
+  <detail>ノーマルスーツアバターを変更する</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>珠玉のボックスアート</name>
+  <detail>プレイヤーズショップでガンプラを入手する</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="S" pid="000">
+  <name>ガンプラ箱の山</name>
+  <detail>プレイヤーズショップでガンプラを30個入手する</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="S" pid="000">
+  <name>俺がマスターグレードだ！</name>
+  <detail>ヘッド・ボディ・アーム・レッグ・バックパックがすべてMGパーツで構成された機体を作成する</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="S" pid="000">
+  <name>ハイブレイカー</name>
+  <detail>1/144スケールの敵機体を1000体撃破する</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="S" pid="000">
+  <name>マスターブレイカー</name>
+  <detail>1/100スケールの敵機体を200体撃破する</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="S" pid="000">
+  <name>パーフェクトブレイカー</name>
+  <detail>1/60スケールの敵機体を100体撃破する</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="S" pid="000">
+  <name>パーツアウトブレイカー</name>
+  <detail>パーツ外れが発生した状態の敵機体を1000体撃破する</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="S" pid="000">
+  <name>データガーディアン</name>
+  <detail>データプローブの残り耐久値75%以上で防衛ミッションをクリアする</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>たかがメインカメラをやられただけだ！</name>
+  <detail>ヘッドパーツが外れている状態で敵機体を30体撃破する</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>腕なんて飾りです</name>
+  <detail>左右両方のアームパーツが外れている状態で敵機体を10体撃破する</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>格闘家</name>
+  <detail>射撃武器・近接武器を装備していない機体でミッションをクリアする</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="000">
+  <name>ガンダムファイター</name>
+  <detail>アストレイレッドフレーム、アストレイレッドフレーム改、アストレイグリーンフレーム、ノーベルガンダム、ゴッドガンダム、マスターガンダムいずれかのアームパーツを装備し、近接武器を装備していない機体でミッションをクリアする</detail>
+ </trophy>
+</trophyconf>

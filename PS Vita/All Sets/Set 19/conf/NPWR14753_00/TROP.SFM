@@ -1,0 +1,140 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000007ca5ddf5159831e015a503a9a187917e436045b971ba32868f76ded02bc0d36b127f480c23d50668afc1caebc146ab4e9c8fc11043208d15b6ab65677af5c56f3cb5966ca15b05f0cf677e257506ac2d781360c9192787b17536a02585456455d25a2f7faaa4fcf9014f8e6a2e0a466c2c158ec2cb8b53b1e34e98baacd01bea2d0f92e6eedc9b684b666360ebb389d4921757e0-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR14753_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>天涯ニ舞ウ、粋ナ花</title-name>
+ <title-detail>天涯ニ舞ウ、粋ナ花のトロフィーです</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>天涯に舞う粋な賞</name>
+  <detail>全てのトロフィーを獲得</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>ラヂオ好きな店主</name>
+  <detail>ラヂオをコンプリートした</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>朗読劇が好きな店主</name>
+  <detail>ドラマレコードをコンプリートした</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>音楽好きな店主</name>
+  <detail>BGMレコードをコンプリートした</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>読書好きな店主</name>
+  <detail>ラフと壁紙をコンプリートした</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>経験豊富な店主</name>
+  <detail>全キャラグッドエンドをコンプリートした</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>再会</name>
+  <detail>弥島幸介のグッドエンドを見た</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>強引ナル愛</name>
+  <detail>弥島裕介のグッドエンドを見た</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>天の指輪</name>
+  <detail>弥島惣介のグッドエンドを見た</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>仏蘭西の風</name>
+  <detail>弥島恭介のグッドエンドを見た</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>約束を果たす時</name>
+  <detail>弥島俊介のグッドエンドを見た</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>父を超えて</name>
+  <detail>都村蓮太郎のグッドエンドを見た</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>幸介さんが大好き</name>
+  <detail>弥島幸介の好感度が100になった</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>裕介さんが大好き</name>
+  <detail>弥島裕介の好感度が100になった</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>惣介さんが大好き</name>
+  <detail>弥島惣介の好感度が100になった</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>恭介さんが大好き</name>
+  <detail>弥島恭介の好感度が100になった</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>俊介さんが大好き</name>
+  <detail>弥島俊介の好感度が100になった</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="S" pid="000">
+  <name>蓮太郎君が大好き</name>
+  <detail>都村蓮太郎の好感度が100になった</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="S" pid="000">
+  <name>丹道斎の息子、蓮太郎</name>
+  <detail>都村蓮太郎が攻略出来るようになる</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>銀座志栄堂パーラー</name>
+  <detail>志栄堂パーラーに行った</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>割烹『弥島』新店主誕生</name>
+  <detail>割烹『弥島』店主就任</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>宮ノ杜様御来店</name>
+  <detail>宮ノ杜子息達が来店した</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>「誰デモ楽シメル天体観測」</name>
+  <detail>「誰デモ楽シメル天体観測」に参加した</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>美食家、都村丹道斎</name>
+  <detail>丹道斎に初めて会った</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>赤坂神社に灯る夏</name>
+  <detail>赤坂夏祭りに行った</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>赤坂割烹店の争い</name>
+  <detail>赤坂割烹番付が開始</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>割烹「弥島」創業記念日</name>
+  <detail>割烹「弥島」創業記念日を迎えた</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>結果知るのは赤坂の夏</name>
+  <detail>赤坂割烹番付の結果が出た</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>隅田川に上がる華</name>
+  <detail>花火大会に行った</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>新たな着物に身を包ませて</name>
+  <detail>四代目店主として正式に就任した</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>一家総出の大行事</name>
+  <detail>弥島家観劇行事に参加した</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>年末大売り出し大戦争</name>
+  <detail>クリスマス大売り出しに参加した</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>貴重なる一枚</name>
+  <detail>神社で記念撮影をした</detail>
+ </trophy>
+</trophyconf>

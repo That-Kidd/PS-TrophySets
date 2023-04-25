@@ -1,0 +1,144 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000853853f589a49862f9e449e9e26dfdcb5d7adab83e7469315d65c8b67c216cb84dab84a79b8fb11e9a22bdcb4779ec566dd48f2f68071d40a9bcda38c394d64f0495721b124a8a43ef4de634fbe1c3c19f1ca09a2de6648c505c7fb0b3cc171cb54f4655096c926ca7e049d953801b42ad671e1c385b6985835363e7894d73028b9a56523d8496b8a01ace717b735f39832544d1-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR06324_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>英雄＊戦姫</title-name>
+ <title-detail>『英雄＊戦姫』のトロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>世界の覇者</name>
+  <detail>全てのトロフィーを獲得した</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>初めての勝利</name>
+  <detail>初めての戦闘に勝利した</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>天の御使い</name>
+  <detail>主人公がジパング軍に加入した</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>ジパング 統一</name>
+  <detail>ジパングを統一した</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>大華帝国 制圧</name>
+  <detail>大華帝国を制圧した</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>モンゴル 制圧</name>
+  <detail>モンゴルを制圧した</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>インド 制圧</name>
+  <detail>インドを制圧した</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>東アジア 統一</name>
+  <detail>東アジアを統一した</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>南洋植民地 制圧</name>
+  <detail>南洋植民地を制圧した</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>オーストラリア 制圧</name>
+  <detail>オーストラリアを制圧した</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>南洋ハワイ 制圧</name>
+  <detail>南洋ハワイを制圧した</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>金が全てじゃない！</name>
+  <detail>ＵＳＡを金で買わなかった</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>新大陸北米 制圧</name>
+  <detail>新大陸北米を制圧した</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>新大陸南米 制圧</name>
+  <detail>新大陸南米を制圧した</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>欧州連合 制圧</name>
+  <detail>欧州連合を制圧した</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>ヴィンランド 制圧</name>
+  <detail>ヴィンランドを制圧した</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>暗黒領域 制圧</name>
+  <detail>暗黒領域を制圧した</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>ブリタニア 制圧</name>
+  <detail>ブリタニアを制圧した</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>マケドニア 制圧</name>
+  <detail>マケドニアを制圧した</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>エジプト 制圧</name>
+  <detail>エジプトを制圧した</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>ロシア 制圧</name>
+  <detail>ロシアを制圧した</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>バビロニア 制圧</name>
+  <detail>バビロニアを制圧した</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>ウルク 制圧</name>
+  <detail>ウルクを制圧した</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="G" pid="000">
+  <name>世界統一</name>
+  <detail>イルミナティを倒して平和を手にした…？</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="G" pid="000">
+  <name>ずっといつまでも</name>
+  <detail>トゥルーエンドを見た</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>ミケランジェロ</name>
+  <detail>ミケランジェロを仲間にした</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>誰も怪我なんてさせない</name>
+  <detail>戦闘で一切ダメージを受けずに勝利した</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="S" pid="000">
+  <name>フェミニスト</name>
+  <detail>主人公が出撃した戦闘において、主人公が一度も攻撃をせず勝利した</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="S" pid="000">
+  <name>愛する者に危険なことはさせられない</name>
+  <detail>主人公のみが出撃した戦闘に勝利した</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="G" pid="000">
+  <name>みんな仲間</name>
+  <detail>全キャラクターを仲間にした</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>お金持ち</name>
+  <detail>資金が 100,000 を越えた</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="S" pid="000">
+  <name>資産家</name>
+  <detail>資金が 500,000 を越えた</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="G" pid="000">
+  <name>大富豪</name>
+  <detail>資金が 1,000,000 を越えた</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="G" pid="000">
+  <name>我が前に敵なし</name>
+  <detail>シャンバラをクリアした</detail>
+ </trophy>
+</trophyconf>

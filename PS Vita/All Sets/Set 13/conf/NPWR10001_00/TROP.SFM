@@ -1,0 +1,60 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000007a3aa9eb4ce19e2fffeda74ac92afb4f61817c5c25e4c67876d8b0af8c5745978c6ee05b2f4580aecfa0f36ecfc915f7bfe3fb5fcfbe34cd1fbaa0d55f752c2f702cd7851896ac895d47079b11b98a947a16a81c4afd90cb7e09d5665a873ae528ee07c6c430f35e4375cbbc311c862dfab83505e4e17618b592490c4d55543e416fd5c0b01b47f1fcac443f5f7ebaf203114424-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR10001_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>ミスターパンプキンの不思議な旅</title-name>
+ <title-detail>ミスターパンプキンの不思議な旅</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Jumper</name>
+  <detail>初めてミニゲームをクリアした。</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Clear Mind</name>
+  <detail>第一章をクリアした。</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Escaper</name>
+  <detail>第二章をクリアした。</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Mechanist</name>
+  <detail>第三章をクリアした。</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>The Best Audience</name>
+  <detail>第四章をクリアした。</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Good Driver</name>
+  <detail>第五章をクリアした。</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Dream Interpreter</name>
+  <detail>第六章をクリアした。</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Another Clear Mind</name>
+  <detail>第七章をクリアした。</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Collector</name>
+  <detail>日記のカケラをすべて集めた。</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="-1">
+  <name>Astronaut</name>
+  <detail>第七章のエンディングを見た。</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="-1">
+  <name>Traveler</name>
+  <detail>第八章のエンディングを見た。</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="-1">
+  <name>Pilot</name>
+  <detail>第六章のエンディングを見た。</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="-1">
+  <name>Domination</name>
+  <detail>３つのエンディングを見て、ミニゲームで５回成功し、１０回失敗した。</detail>
+ </trophy>
+</trophyconf>

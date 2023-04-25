@@ -1,0 +1,108 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000003b7e8d713a73129c99d78b41b686fd79f4ab289ba9857ec16e7ab0f98a91fd55f47ba6c38648d96aa99d2730d5059f2c4daf0a660655a6293daa05fb46441c3fd57736cae054ef9da89380a273e29201a59cc41fb2c91a687b7470d838e524705a140d7689d4c08fb0313501479745450e4cd841e5b8bd557e0cfec1ea5748f41f0ba459d7e6e036af6ee027e94fc130951f1b08-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR08941_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>太平洋の嵐　~史上最大の激戦　ノルマンディー攻防戦~</title-name>
+ <title-detail>太平洋の嵐　~史上最大の激戦　ノルマンディー攻防戦~のトロフィーとなります。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>欧州の支配者</name>
+  <detail>おめでとうございます。欧州の支配者となりました。</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>駆け出し新兵</name>
+  <detail>根拠地を１０回占領しました！</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>根拠地３０回占領</name>
+  <detail>根拠地を３０回占領しました！</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>根拠地５０回占領</name>
+  <detail>根拠地を５０回占領しました！</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>根拠地８０回占領</name>
+  <detail>根拠地８０回占領しました！</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>根拠地１００回占領</name>
+  <detail>根拠地を１００回占領しました！</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>駆けだしタンカー</name>
+  <detail>敵師団を初撃破しました！</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>新人タンカー</name>
+  <detail>敵師団をはじめて１０回撃破しました！</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>こなれたタンカー</name>
+  <detail>敵師団をはじめて３０回撃破しました！</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>熟練タンカー</name>
+  <detail>敵師団をはじめて５０回撃破しました！</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>タンクハンター</name>
+  <detail>敵師団をはじめて１００回撃破しました！</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>戦車を初めて１０両生産</name>
+  <detail>戦車を初めて１０両生産しました！</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>戦車を初めて１００両生産</name>
+  <detail>戦車を初めて１００両生産しました！</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>戦車を初めて３００両生産</name>
+  <detail>戦車を初めて３００両生産しました！</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="000">
+  <name>熟練のタンク職人</name>
+  <detail>戦車を初めて５００両生産しました！</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>作戦要請を1回クリアする</name>
+  <detail>作戦要請を1回クリアする</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>作戦要請を5回クリアする</name>
+  <detail>作戦要請を5回クリアする</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>作戦要請を10回クリアする</name>
+  <detail>作戦要請を10回クリアする</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>作戦要請を30回クリアする</name>
+  <detail>作戦要請を30回クリアする</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="G" pid="000">
+  <name>ヨーロッパの名将</name>
+  <detail>ヨーロッパグランドキャンペーンを勝利条件を満たしてクリアする</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="G" pid="000">
+  <name>砂漠の狐</name>
+  <detail>砂漠の狐作戦を勝利条件を満たしてクリアする</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="G" pid="000">
+  <name>赤髭王</name>
+  <detail>赤髭王の憂鬱を勝利条件を満たしてクリアする</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="G" pid="000">
+  <name>オーバーロード</name>
+  <detail>D-DAYを勝利条件を満たしてクリアする</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="G" pid="000">
+  <name>ツィタデレ作戦</name>
+  <detail>ツィタデレ作戦を勝利条件を満たしてクリアする</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="G" pid="000">
+  <name>ラインの守り</name>
+  <detail>ラインの守り作戦を勝利条件を満たしてクリアする</detail>
+ </trophy>
+</trophyconf>

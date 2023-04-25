@@ -1,0 +1,84 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000020fc5440e4b9c3b909b4fb9b76b3cafc1dc12583467e3a32725c7e84ec9df1428c32877a9e311ce711290813ff9004509eaa3e76bfe5e44e07cc8fdf451ebfe5f4a9a1b7d2dd6867da890e50fb247f4b905f3de45808572c01b7c6a61cb1718f150bc57f5b3bd48bc21753e07e01f35e33d4d2a62d2f0b89725b10518737912868eef2e5e8c1f86a1e5f93da6017cbb83b550ba5-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR14535_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Energy Invasion</title-name>
+ <title-detail>Energy Invasion</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Energy Invasion Platinum</name>
+  <detail>Good job! Completed all tasks!</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Good start</name>
+  <detail>Invasion started</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>Interception</name>
+  <detail>Passed level 5 in Invasion mode</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>Intruders</name>
+  <detail>Passed level 10 in Invasion mode</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>Maneuver</name>
+  <detail>Passed level 15 in Invasion mode</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>Defense</name>
+  <detail>Passed level 20 in Invasion mode</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>Salvation</name>
+  <detail>Invasion complete!</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>Parallelism</name>
+  <detail>Passed level 5 in Linear mode</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>Linearity</name>
+  <detail>Passed level 10 in Linear mode</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>Direction</name>
+  <detail>Passed level 15 in Linear mode</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>Strip</name>
+  <detail>Passed level 20 in Linear mode</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>Persistence</name>
+  <detail>Linear mode complete!</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>Origin</name>
+  <detail>Passed level 5 in Endless mode</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>Tranquility</name>
+  <detail>Passed level 10 in Endless mode</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="000">
+  <name>Diversity</name>
+  <detail>Passed level 15 in Endless mode</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="G" pid="000">
+  <name>Patience</name>
+  <detail>Passed level 20 in Endless mode</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="G" pid="000">
+  <name>Eternal</name>
+  <detail>Passed level 25 in Endless mode</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="G" pid="000">
+  <name>Infinity</name>
+  <detail>Passed level 30 in Endless mode</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>Health pack</name>
+  <detail>Got a special health pack bonus</detail>
+ </trophy>
+</trophyconf>

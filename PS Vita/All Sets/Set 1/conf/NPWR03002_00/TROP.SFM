@@ -1,0 +1,64 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000098f51e12521fae49ecd3051ec12ff2bfde531a232d7a394026a8c175c64c84f32da38f0c259ebf5d391aa34b462be49ad99e4644553d511313366092c9ac2653dedc7777929a8065469c8eeff2f4b7068d8c70863046de0d94a8e992cba65aaf29c56ea8e2da341db4b6796d7ed773e913e789185e00d7fb7e8a418b03af4436b32d43fc744a490a1b2bca4382c2db61e76c0811-->
+<trophyconf version="1.1" platform="psp2">
+ <npcommid>NPWR03002_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Tales from Space: Mutant Blobs Attack</title-name>
+ <title-detail>Tales from Space: Mutant Blobs Attack Trophy Set</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Amuse Bouche</name>
+  <detail>Eat the final cork in Level 1</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Graduation Dinner</name>
+  <detail>Eat the valedictorian at the end of Chapter 1</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Houston, we have a problem</name>
+  <detail>Board the rocket ship at the end of Chapter 2</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>It Came From Outer Space</name>
+  <detail>Take a ride on the space elevator at the end of Chapter 3</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Getting the Boot</name>
+  <detail>Boot yourself over the spikes at the end of Chapter 4</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Delicious Magnetic Balls!</name>
+  <detail>Eat the magnetic balls at the end of Chapter 5</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="-1">
+  <name>Galaxicide</name>
+  <detail>Eat the solar system</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Not too shabby</name>
+  <detail>Earn a silver medallion or better in five levels</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Jealous?</name>
+  <detail>Look up the top score on any leaderboard</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>Finally, monsieur, a wafer thin mint</name>
+  <detail>Absorb 1500 objects</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>Extinction</name>
+  <detail>Eat all of the escape pods in the final level</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="-1">
+  <name>Master Tilter</name>
+  <detail>Complete all of the Tilt-A-Blob levels</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="-1">
+  <name>Blob Friends Forever</name>
+  <detail>Collect all Blob Friends in the game</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="-1">
+  <name>Golden Blob</name>
+  <detail>Earn a gold medallion in every level</detail>
+ </trophy>
+</trophyconf>

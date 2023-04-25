@@ -1,0 +1,60 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000009373a66f81ace6658c404200e1e2b5816eb52999605c134e6a81ee73da53e01d142371c41205e4c722d71ac5f78f0480600cf9865112e4fe8587e63974bad9197d8344f7d3397880823d4e9b19ba5b2a7e0b4cfa11580463fdaac0d2c6f00f88ee99254716474616631cb347c47613a3060fdc1274f23619914f632efcb7e8609ee4a2a199d0e87d51bd2be1bdd36ec86226a4da-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR04504_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>The HD Adventures of Rotating Octopus Character</title-name>
+ <title-detail>The HD Adventures of Rotating Octopus Character</title-detail>
+ <trophy id="000" hidden="no" ttype="G" pid="-1">
+  <name>Really Thirsty Work</name>
+  <detail>Collect all of the water drops in the game.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Barking Mad</name>
+  <detail>In Standard Mode, make all Barkleys bark in one playthrough, but don’t hit any.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Thirsty Work</name>
+  <detail>Collect all of the water drops in Stage 1-5 (BABY MANIA!).</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Fear Of Flying</name>
+  <detail>Clear Stage 1-5 (BABY MANIA!) in Standard Mode without jumping more than 10 times.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>On The Buses</name>
+  <detail>Jump between five buses in Standard Mode without jumping onto any other surface.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>No Flipping Park Patrol</name>
+  <detail>In Standard Mode, clear all stages of Park Patrol without changing direction.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>No Flipping Spin City</name>
+  <detail>In Standard Mode, clear all stages of Spin City without changing direction.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>No Flipping River Rescue</name>
+  <detail>In Standard Mode, clear all stages of River Rescue without changing direction.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>No Flipping Desert Dash</name>
+  <detail>In Standard Mode, clear all stages of Desert Dash without changing direction.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>No Flipping Festival Fiasco</name>
+  <detail>In Standard Mode, clear all stages of Festival Fiasco without changing direction.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="-1">
+  <name>No Flipping Sushi Saviour</name>
+  <detail>In Standard Mode, clear all stages of Sushi Saviour without changing direction.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="-1">
+  <name>No Flipping Highscore Hero</name>
+  <detail>In Standard Mode, clear all stages of Highscore Hero without changing direction.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="-1">
+  <name>No Flipping Night Nasties</name>
+  <detail>In Standard Mode, clear all stages of Night Nasties without changing direction.</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,56 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000000dafb00fabe477c879eee916996da441581277bf0e7e7c2b7bfde8e34a8da6e3e378ffdd870b5fb694c38db7f96236c9d5e55709d29e87848674191c48b1b243e7d19a36f492c804246109c2c117bc4d6453f6c1100e4fc19f2062a423757fa00f73283eec0a8eedada6c8cd39af036ec65311ac219345bf07974867822a5cac2859981fd56664a6f0d998fff09097324dd84c55-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR07718_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Pirate Solitaire</title-name>
+ <title-detail>Trophy kit for "Pirate Solitaire"</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Partner of Fortune</name>
+  <detail>Get the maximum number of points on a level</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Favorite of Fortune</name>
+  <detail>Get the maximum number of points on two levels in a row</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Friend of Fortune</name>
+  <detail>Get the maximum number of points on three levels in a row</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Jolly Roger</name>
+  <detail>Use the Joker bonus 10 times</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Angry Roger</name>
+  <detail>Use the Shuffle bonus 10 times</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Full Tackle</name>
+  <detail>Buy 10 Mulligans</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Large hold</name>
+  <detail>Complete 1 pack with the maximum number of points in Sea Wolf mode</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="-1">
+  <name>Thug Roger</name>
+  <detail>Use the Joker bonus 100 times</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="-1">
+  <name>A Full Hold</name>
+  <detail>Complete 6 packs with the maximum number of points in Sea Wolf mode</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="-1">
+  <name>Filled Hold</name>
+  <detail>Complete all levels in Sea Wolf mode</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="-1">
+  <name>First Circumnavigation</name>
+  <detail>Complete all levels in Junior mode</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="-1">
+  <name>Master of the Seas</name>
+  <detail>Complete 12 packs with the maximum number of points in Sea Wolf mode</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,64 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000002a441bdc870a2df119bf876bc87d37c9a1c810c02eec876a34fd86e121db6e408a40a77312706cf421357bb8639bcf23c8e26981643eb366ab1fa91002478038a62df08bd51fa77a6e01ccb87ca0e0c2afd3a2581acb1543d27afcb85111b227926370aca4bee431d19f12ae99adcd8991cfe496d3e43ee24b4fa09d716644bedc5308f43c618c7fb58e34436c716911863b30d4-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR03640_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Big Sky Infinity™</title-name>
+ <title-detail>Trophies</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Slaughterific</name>
+  <detail>Destroy 1,000 bad guys</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Close Encounters</name>
+  <detail>Make a nearby bad guy envious of your drill</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Tolkienesque</name>
+  <detail>See everything</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Home Potato</name>
+  <detail>Spend 20 seconds in the heart of an asteroid</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Averagescorer</name>
+  <detail>Get a highscore of 50,000 on each mode</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Lucky number Seven</name>
+  <detail>Smash through difficulty level 7</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Attack of Boomer V</name>
+  <detail>Destroy 5 enemies at once using a Boomer</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>x100</name>
+  <detail>Get a x100 multiplier!</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Check out my pad</name>
+  <detail>This ship is fast and powerful</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>Check out my shop</name>
+  <detail>Buy the shop!</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>Black Holed</name>
+  <detail>Peacefully survive a Black Hole!</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="-1">
+  <name>Massacrertastic</name>
+  <detail>Destroy 20,000 enemies</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="-1">
+  <name>Highscorer</name>
+  <detail>Get a highscore of 125,000 on each mode</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="-1">
+  <name>King of the skies</name>
+  <detail>Classic Mode - Defeat all bosses in one round!</detail>
+ </trophy>
+</trophyconf>

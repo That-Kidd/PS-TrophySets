@@ -1,0 +1,36 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000046c627b6fdcde86258f7164768e1f753692beb88c59c7fff451b7f529f8fddbd24466fb178830e16ee106b991a7a26eeca83987a894f64a183fc527d8ff8b21d5c7a3242caf494ce9934ebdfca21b426eae1c85bd1d3d26cc593b1dce2ab40a1248bdcd34dacf6e99a929810375a54a15b2373fce67957bd8a3835a033f6ecadd4f0fc7444e46b07f2b50d4b6a4ada05f2b4cc1b-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR08454_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>タッチバトル戦車SP</title-name>
+ <title-detail>「タッチバトル戦車SP」のトロフィーです。</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>初勝利</name>
+  <detail>はじめてステージクリアした証。</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>ベテラン</name>
+  <detail>ステージを通算30クリアした証。</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="-1">
+  <name>エース</name>
+  <detail>敵戦車を100体倒した証。</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="-1">
+  <name>無敵</name>
+  <detail>ノーマルミッションのステージ50をノーダメージクリアした証。</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="-1">
+  <name>無双</name>
+  <detail>エクストラミッションのステージ20をノーダメージクリアした証。</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="-1">
+  <name>ノーマル全制覇</name>
+  <detail>両方の自機でノーマルミッションを全ステージをクリアした証。</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="-1">
+  <name>エクストラ全制覇</name>
+  <detail>両方の自機でエクストラミッションを全ステージをクリアした証。</detail>
+ </trophy>
+</trophyconf>

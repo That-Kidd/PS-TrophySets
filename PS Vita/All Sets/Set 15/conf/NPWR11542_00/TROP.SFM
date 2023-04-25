@@ -1,0 +1,152 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000b7014d83d621b02d718f5a2bb213b42c601c77ca0f9890c9b5a27e2ba8b6ec863316a949314d41feb2bdb83b07f03050c93a83a99bb5e9193f77216ed4ad61f50131ea4998efbceeb96793bc8a06ddf53ac51b662236b7d5e4783b99bb910d91ea3fee3f634fc04f6e07592d095cd94c10cfa1b1396ece1c8aa6dba9fb8f9a39fa4de9cf857b96ca2a7e8761c499e2ea2f48c65f-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR11542_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>数乱digit</title-name>
+ <title-detail>数乱digitのトロフィーです</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>数乱digit</name>
+  <detail>全てのトロフィーを獲得</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>画廊コンプリート</name>
+  <detail>画廊を全て取得した</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>動画コンプリート</name>
+  <detail>動画を全て取得した</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>音楽コンプリート</name>
+  <detail>音楽を全て取得した</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>おまけSSコンプリート</name>
+  <detail>おまけSSを全て取得した</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>数拾コンプリート</name>
+  <detail>全ての数字を拾った</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>光イベントCGコンプリート</name>
+  <detail>弐藤光のイベントCGを全て取得した</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>央助イベントCGコンプリート</name>
+  <detail>壱園央助のイベントCGを全て取得した</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>有比イベントCGコンプリート</name>
+  <detail>肆形有比のイベントCGを全て取得した</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>景太郎イベントCGコンプリート</name>
+  <detail>漆原景太郎のイベントCGを全て取得した</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>崇樹イベントCGコンプリート</name>
+  <detail>陸平崇樹のイベントCGを全て取得した</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>巡イベントCGコンプリート</name>
+  <detail>玖折巡のイベントCGを全て取得した</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>その他イベントCGコンプリート</name>
+  <detail>その他のイベントCGを全て取得した</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="000">
+  <name>始まりを告げる零</name>
+  <detail>序章を終えた</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="B" pid="000">
+  <name>数家たちとの出会い</name>
+  <detail>共通ルート一章を終えた</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>壱園央助との出会い</name>
+  <detail>共通ルート二章を終えた</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>再戦、初めての勝利</name>
+  <detail>共通ルート三章を終えた</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>数研へようこそー！</name>
+  <detail>共通ルート四章数研編を終えた</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>ようこそ生徒会へ</name>
+  <detail>共通ルート四章生徒会編を終えた</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>特別な一番</name>
+  <detail>弐藤光と恋愛ENDを迎えた</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="000">
+  <name>本当の強さ</name>
+  <detail>壱園央助と恋愛ENDを迎えた</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>時を越えて</name>
+  <detail>肆形有比と恋愛ENDを迎えた</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="B" pid="000">
+  <name>奇跡</name>
+  <detail>漆原景太郎と恋愛ENDを迎えた</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>二人で踏み出す一歩</name>
+  <detail>陸平崇樹と恋愛ENDを迎えた</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="000">
+  <name>求めていた居場所</name>
+  <detail>玖折巡と恋愛ENDを迎えた</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>存在するはずのない数字</name>
+  <detail>「零」を全て取得した</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>誇り高き傲慢な数字</name>
+  <detail>「一」を全て取得した</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>勝利を渇望する数字</name>
+  <detail>「二」を全て取得した</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>美しき慈愛に満ちた数字</name>
+  <detail>「三」を全て取得した</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>忌み嫌われる不気味な数字</name>
+  <detail>「四」を全て取得した</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>傍若無人の荒ぶる数字</name>
+  <detail>「五」を全て取得した</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>争いを拒む静穏な数字</name>
+  <detail>「六」を全て取得した</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>異彩を放つ奇跡の数字</name>
+  <detail>「七」を全て取得した</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>相反する意思を持つ数字</name>
+  <detail>「八」を全て取得した</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>策略に長ける卑劣な数字</name>
+  <detail>「九」を全て取得した</detail>
+ </trophy>
+ <trophy id="035" hidden="yes" ttype="B" pid="000">
+  <name>全てを司る数字</name>
+  <detail>「十」を全て取得した</detail>
+ </trophy>
+</trophyconf>

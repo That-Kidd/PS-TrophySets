@@ -1,0 +1,204 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000cad45f8f52f14185506d2ba542befcee0a5c9660a2e45fc868d6851e71425e88f2a227e08c323870087b0e32844df61be8b95683cbc65fb50cbdde7bfcce431f3f78fdadbd8fb0441d46891845cabd4fb4ce539b346ff963760294463da6faa19332c974f33bb00f9b650662ffcd1608c9ccdf125172fdf6e11cd4616f61bb57aa7ccfda1050a928e16a7a710af4fb4a77a149dd-->
+<trophyconf version="1.1" platform="ps3,psp2" policy="large">
+ <npcommid>NPWR04847_00</npcommid>
+ <trophyset-version>01.02</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Dragon Ball Z: Battle of Z</title-name>
+ <title-detail>Dragon Ball Z: Battle of Z Trophy set</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Over 9000</name>
+  <detail>Obtain all Trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>The Tattered Fighters</name>
+  <detail>Clear the Saiyan Saga: Z Fighters route</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>I Win, You Earth Scum!</name>
+  <detail>Clear the Saiyan Saga: Saiyan route</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>A Futile Conclusion</name>
+  <detail>Clear the Frieza Saga: Z Fighters route</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>I Am Number One In The Universe!</name>
+  <detail>Clear the Frieza Saga: Frieza Soldier route</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>Farewell, Fighters</name>
+  <detail>Clear the Cell Saga: Z Fighters route</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>I'm At Full Power Now...</name>
+  <detail>Clear the Cell Saga: Androids route</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>The Grand Finale...</name>
+  <detail>Clear the Majin Buu Saga: Z Fighters route</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>Now No One Can Stop Me!</name>
+  <detail>Clear the Majin Buu Saga: Majin Buu route</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="000">
+  <name>Frieza, Defeated!</name>
+  <detail>Clear all missions in Another Age</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="000">
+  <name>Wrath Of The Dragon!</name>
+  <detail>Clear all missions in Extra Age</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>A Winner Is Me</name>
+  <detail>Clear all missions in Special Age</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>Mission Complete</name>
+  <detail>Clear all missions</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="000">
+  <name>Time To Start Getting Serious</name>
+  <detail>Clear missions 100 times</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="B" pid="000">
+  <name>You're Number One!</name>
+  <detail>Acquire 10 gold medals in Battle Royale</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>I'm Counting On You!</name>
+  <detail>Successfully use Energy Share</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>You OK?! Get A Hold Of Yourself!</name>
+  <detail>Successfully use Revive Soul</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Take This!</name>
+  <detail>Successfully Chase an enemy</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>Let's Finish This!</name>
+  <detail>Max out a Meteor Chain</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Sync With Me!</name>
+  <detail>Successfully use a Synchronized Rush</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>Die!</name>
+  <detail>Successfully use an Ultimate Move</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>Use My Energy!</name>
+  <detail>Send ENERGY through an ENERGY Request</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>Hello, Dragon World!</name>
+  <detail>Enter a Room in Co-op Mode</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>Let's Fight Together As One</name>
+  <detail>Fight as part of a team in Co-op Mode</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="000">
+  <name>Battle Elite</name>
+  <detail>Clear a difficulty level 5 mission without retrying</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="S" pid="000">
+  <name>Card Complete</name>
+  <detail>Collect all cards</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="S" pid="000">
+  <name>Item Complete</name>
+  <detail>Collect all items</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="S" pid="000">
+  <name>Gathering Of The Super Fighters</name>
+  <detail>Unlock all characters (excluding downloadable characters)</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="S" pid="000">
+  <name>Now It's Real</name>
+  <detail>Attain player rank 99</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="G" pid="000">
+  <name>The Legendary Super Saiyan</name>
+  <detail>Attain 150,000,000 EXP</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>Most Impressive</name>
+  <detail>Max out a character's partner rank</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="G" pid="000">
+  <name>Super-powered Warriors</name>
+  <detail>Max out partner ranks on all characters</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="B" pid="000">
+  <name>Rich Collector</name>
+  <detail>Spend over 1,000,000 DP</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="B" pid="000">
+  <name>Premium Collector</name>
+  <detail>Spend over 100,000 PP</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="S" pid="000">
+  <name>Appear, Shenron!</name>
+  <detail>Collect 7 Dragon Balls in Dragon Ball Grab</detail>
+ </trophy>
+ <trophy id="035" hidden="yes" ttype="S" pid="000">
+  <name>The Heat Of Battle</name>
+  <detail>Win 100 times in Battle Mode</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="S" pid="000">
+  <name>Bardock - The Father Of Goku</name>
+  <detail>Clear a difficulty level 5 mission without equipping cards or items</detail>
+ </trophy>
+ <trophy id="037" hidden="yes" ttype="S" pid="000">
+  <name>Character Master</name>
+  <detail>Use all playable characters</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>Gathering Of The Z Fighters!</name>
+  <detail>Without using the same characters, make a team of 4 Z Fighters and win in Battle Mode</detail>
+ </trophy>
+ <trophy id="039" hidden="yes" ttype="B" pid="000">
+  <name>Gathering Of Frieza's Army!</name>
+  <detail>Without using the same characters, make a team of 4 from Frieza's army and win in Battle Mode</detail>
+ </trophy>
+ <trophy id="040" hidden="yes" ttype="B" pid="000">
+  <name>Gathering Of The Saiyans!</name>
+  <detail>Without using the same characters, make a team of 4 Saiyans and win in Battle Mode</detail>
+ </trophy>
+ <trophy id="041" hidden="yes" ttype="B" pid="000">
+  <name>The Android Party</name>
+  <detail>Without using the same characters, make a team of 4 Androids and win in Battle Mode</detail>
+ </trophy>
+ <trophy id="042" hidden="yes" ttype="B" pid="000">
+  <name>Hey There! It's Me, Goku!</name>
+  <detail>Without using the same characters, make a team of 4 from the various Gokus and win in Battle Mode</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="B" pid="000">
+  <name>Found A Treasure!</name>
+  <detail>Obtain a rarity level 7 card</detail>
+ </trophy>
+ <trophy id="044" hidden="yes" ttype="S" pid="000">
+  <name>Determined To Be Stronger</name>
+  <detail>Clear 10 or more missions with a Z rank</detail>
+ </trophy>
+ <trophy id="045" hidden="no" ttype="S" pid="000">
+  <name>Real Warriors Don't Sleep</name>
+  <detail>Attain 50 hours of mission play time</detail>
+ </trophy>
+ <trophy id="046" hidden="yes" ttype="B" pid="000">
+  <name>I Don't Want To See You Any More</name>
+  <detail>Defeat Full Power Frieza using an Ultimate Move</detail>
+ </trophy>
+ <trophy id="047" hidden="yes" ttype="B" pid="000">
+  <name>Just Disappear, Cell!</name>
+  <detail>Defeat Perfect Cell using an Ultimate Move</detail>
+ </trophy>
+ <trophy id="048" hidden="yes" ttype="B" pid="000">
+  <name>Return As A Good Guy Next Time</name>
+  <detail>Defeat Kid Buu using an Ultimate Move</detail>
+ </trophy>
+</trophyconf>

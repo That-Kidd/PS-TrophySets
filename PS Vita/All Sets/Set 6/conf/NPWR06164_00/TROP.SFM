@@ -1,0 +1,56 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000044ae72c8d98fe793ceeff0786921b876d61140068b20427674f2e37ad3942defd45b03ea3c6fbebdb65aee40a3c3538f9e2b721c7eaf5955e541f7b59bba07842cb71007e67d6c1c1e76c221f98079fb577d550f604b408647e03deccff98a46fab0a93fae656222e8f8ad3d24ae766db22e991f103a2188436c1b73c7fdd1633ec490b1054aee50f2377f8db0896c17b4e7b13d-->
+<trophyconf version="1.1" platform="psp2" policy="freemium">
+ <npcommid>NPWR06164_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Get Off My Lawn&#x0a;</title-name>
+ <title-detail>Trophies for Get Off My Lawn</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Grunt Shooter</name>
+  <detail>Kill 1000 grunts with the musket.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Dodger Blaster</name>
+  <detail>Kill 500 dodgers with the shotgun.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Behemoth Zapper</name>
+  <detail>Kill 250 behemoths with the ray gun.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="-1">
+  <name>Tank Zapper</name>
+  <detail>Kill 1000 tanks with the ray gun.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="-1">
+  <name>War of the Lawn</name>
+  <detail>Reach level 20.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="-1">
+  <name>More orbs than your house has room for</name>
+  <detail>Collect 2500 orbs in a single game.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Legend</name>
+  <detail>Get a score of 20000</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Last Ditch Effort</name>
+  <detail>Use a last stand</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="-1">
+  <name>Killary Clinton</name>
+  <detail>Get a 10x multiplier</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="-1">
+  <name>Grunt Zapper</name>
+  <detail>Kill 5000 grunts with the ray gun</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>Firing Blanks</name>
+  <detail>Miss 8 times in a row.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="-1">
+  <name>You are the one</name>
+  <detail>Kill 7 enemies during a single cane time.</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,172 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000078fcf05dd7a69083acbc3e31887c8d6943beef6c4e9662bcba52bc210f440ddb7bf2118c6c28bd6a8a98cc52bf86b247562869597d477973c4ca7c7e4455154c746ec9c88cb9af51687501b1fa9033bc5b514e8504e2beccf6ca14e9bef6ccccf162294a881c7d7d940fbdb4bd6ee3399e957f8107e7ef58f23e24e7f459168c934970347e6e7b10a0c0f162b82951f8dab18589-->
+<trophyconf version="1.1" platform="ps3,psp2" policy="large">
+ <npcommid>NPWR05647_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>影牢 ～ダークサイド プリンセス～</title-name>
+ <title-detail>影牢 ～ダークサイド プリンセス～のトロフィーセットです</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>トラップマスター</name>
+  <detail>全てのトロフィーを入手する</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>魔神の娘</name>
+  <detail>ストーリーチャプター１をクリアする</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>城制圧</name>
+  <detail>ストーリーチャプター３をクリアする</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>工場突破</name>
+  <detail>ストーリーチャプター６をクリアする</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>遊園地を抜けて</name>
+  <detail>ストーリーチャプター９をクリアする</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>影の牢獄</name>
+  <detail>ストーリーをクリアする</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="000">
+  <name>ダークサイド プリンセス</name>
+  <detail>ストーリーの全てのエンディングを見る</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>初級者</name>
+  <detail>ミッションを１つクリアする</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>中級者</name>
+  <detail>10ミッション以上クリアする</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>覇者</name>
+  <detail>全てのミッションをクリアする</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>全てを知るもの</name>
+  <detail>エネミーリストを全て埋める</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>殲滅者</name>
+  <detail>ストーリーに登場する全ての敵キャラクターを倒す</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>破壊者</name>
+  <detail>アーマーブレイクをする</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>破壊の限り</name>
+  <detail>アーマーブレイク可能なキャラクターをすべてアーマーブレイクする</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>罠収集</name>
+  <detail>全てのトラップを習得する</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="G" pid="000">
+  <name>収集癖</name>
+  <detail>全てのトラップをアップグレードする</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>技収集</name>
+  <detail>全てのアビリティを習得する</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>魔装置</name>
+  <detail>ウィザードギアを使用する</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>魔装置を極めし者</name>
+  <detail>すべてのウィザードギアを使用する</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>とどめの一撃</name>
+  <detail>ウィザードギアフィニッシュを決める</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>息の根</name>
+  <detail>全てのウィザードギアフィニッシュを達成</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>一つの願い</name>
+  <detail>メディウムのお願いをかなえる</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="G" pid="000">
+  <name>すべての願い</name>
+  <detail>メディウムのお願いをすべてかなえる</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>挑戦者</name>
+  <detail>クロスクエストでダウンロードしたクエストをクリアする</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>道場破り</name>
+  <detail>クロスクエストでダウンロードしたクエストを10問以上クリアする</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>一通の挑戦状</name>
+  <detail>クロスクエストで作成した問題をアップロードする</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="S" pid="000">
+  <name>十通の挑戦状</name>
+  <detail>クロスクエストで作成した問題を10問以上アップロードする</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>仕掛け</name>
+  <detail>仕掛けを使用する</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="G" pid="000">
+  <name>仕掛けの達人</name>
+  <detail>全ての仕掛けを使用する</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>百罠殺</name>
+  <detail>のべ100人の敵を倒す</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="S" pid="000">
+  <name>千罠殺</name>
+  <detail>のべ1000人の敵を倒す</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>十連</name>
+  <detail>10ヒットコンボ以上を達成する</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="S" pid="000">
+  <name>十五連</name>
+  <detail>15ヒットコンボ以上を達成する</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>捕獲者</name>
+  <detail>敵を捕獲する</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>閲覧者</name>
+  <detail>リプレイをダウンロードする</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>投稿者</name>
+  <detail>リプレイをアップロードする</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="S" pid="000">
+  <name>華麗熟練者</name>
+  <detail>華麗熟練度が999,999を超える</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="S" pid="000">
+  <name>残虐熟練者</name>
+  <detail>残虐熟練度が999,999を超える</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="S" pid="000">
+  <name>屈辱熟練者</name>
+  <detail>屈辱熟練度が999,999を超える</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="S" pid="000">
+  <name>稼ぎ頭</name>
+  <detail>累積WARLが700,000を超える</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="S" pid="000">
+  <name>ARKマスター</name>
+  <detail>累積ARKが2,000,000を超える</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,148 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000046172456aea65d41d36c2b580957a057063c390570c2502d2bc8a4aa0b78916f26c6dc644a2150fc845b48c1a245198c6a6533061ae0533e7bc98c2130042fe3deb6453f06f1038f6f1e713af374dcf29606856ebf9f537a7dcbd3d55f1db773669d05bb5454e7b044021316564c63bae9ac4a8ffe8858bbe88f44ac8b0f02ff00418d749ca7125801b08ba174373029d1811983-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR11247_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Super Robot Wars V</title-name>
+ <title-detail>Super Robot Wars V Trophy Set</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Victorious</name>
+  <detail>Obtain all Trophies.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>Overseer of the two stories</name>
+  <detail>Achieve the ending of both the male and female protagonists.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>Emblem Collector</name>
+  <detail>Collect all five Emblems.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>Factory Master</name>
+  <detail>Purchase all power parts (excluding Recommended Items) from the Factory and increase TAC Customization to Grade 4.</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="G" pid="000">
+  <name>SR Point Hoarder</name>
+  <detail>Obtain 51 SR points. (SR points can only be collected in Standard Mode.)</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>War is Over</name>
+  <detail>Complete the Game.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>Pilot Trainer</name>
+  <detail>Turn 30 or more pilots into Ace Pilots.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>Tuner</name>
+  <detail>Earn a Custom Bonus for 30 or more robots.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>Once in a Lifetime</name>
+  <detail>Deal 50,000 damage to a single enemy in one battle.</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>Within an Inch</name>
+  <detail>Reduce an enemy's HP to a single digit during battle.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>Top Gun</name>
+  <detail>Turn any pilot into a Great Ace.</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>Five in a Row</name>
+  <detail>Complete a Multi-Action four times in one turn with any unit. (Controlling other units in between is OK.)</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>Peak Production</name>
+  <detail>Unlock all of the power parts (excluding Recommended Items) in the Factory.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>Skill Collector</name>
+  <detail>Create 30 or more types of Skill Programs.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>Skill Master</name>
+  <detail>Acquire 20 or more special skills for any pilot.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>The Long Road to Peace</name>
+  <detail>Complete Chapter 1.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Ace Pilot</name>
+  <detail>Turn any pilot into an Ace Pilot.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Custom Bonus</name>
+  <detail>Acquire a Custom Bonus for any robot.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>Break Time</name>
+  <detail>View a break time message.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Battlefield Souvenir</name>
+  <detail>Acquire one Emblem.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>Mental Fortitude</name>
+  <detail>With an ally unit sortied in a map, collect all the spirit commands listed in the overall command Search.</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>One Pilot Army</name>
+  <detail>Destroy 10 or more enemy units in a single stage with any ally pilot.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>Full Count</name>
+  <detail>Max out any pilot's ExC.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>Nine Thanks You</name>
+  <detail>Buy any power parts (excluding Recommended Parts) from the Factory.</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>Sky's The Limit</name>
+  <detail>Turn any female pilot into an Ace Pilot.</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="B" pid="000">
+  <name>Unsung Hero</name>
+  <detail>Perform four support attacks in one turn with any ally pilot.</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>Top-Secret Mission</name>
+  <detail>Complete a secret scenario.</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>Routing the Enemy</name>
+  <detail>Turn any enemy pilot's Focus to 50.</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="B" pid="000">
+  <name>The Little Giant That Could</name>
+  <detail>Destroy an 1L size or larger enemy unit with an S size or smaller ally unit.</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>Skill Production</name>
+  <detail>Develop any Skill Program.</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>My First Skill Program</name>
+  <detail>Teach any pilot a Skill Program.</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="B" pid="000">
+  <name>Factory Scenario</name>
+  <detail>Look at the Factory Scenarios.</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="B" pid="000">
+  <name>Fiery Spirit</name>
+  <detail>Use spirit commands Valor and Soul simultaneously with any pilot.</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>Counterpunches</name>
+  <detail>Return attack with a Counterattack weapon five or more times in one stage.</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>Not Done Yet</name>
+  <detail>Activate two simultaneous Extra Actions with any pilot.</detail>
+ </trophy>
+</trophyconf>

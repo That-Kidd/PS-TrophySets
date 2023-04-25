@@ -1,0 +1,128 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000e9f52aeb81c753add00de8309e4e0a1983ff2dc76a99859cff8b83c56dc77c2551cd12f5de7bb6d0605b262c424912ebde959c16f6017009fe84a130e9b0c7589c7bf6ef6febffa9ec072985a86a33741b2bc12eff3ddb952c070593607041776cfa0bb39f9a03d7f7307ef3ae5ae16929d93058f1a0df9c368e2f68d0d0d9e01dde220316d653b2f0f62ccb34342884fbde9c02-->
+<trophyconf version="1.1" platform="psp2">
+ <npcommid>NPWR01788_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Reality Fighters</title-name>
+ <title-detail>Become a hero in this Augmented Reality fighting game!</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Beat Reality Fighters</name>
+  <detail>Get all Gold, Silver and Bronze trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>The New Sensei</name>
+  <detail>Complete the story mode</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>Master of Time</name>
+  <detail>Achieve Gold score in all Time Attack challenges</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>Extreme Survival</name>
+  <detail>Win 30 combats in survivor mode in a single run</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>Rodeo Drive</name>
+  <detail>Buy all clothing, weapons and fight styles</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>Lovely Challenge III</name>
+  <detail>Discover the Rocket Rocker and the Tumbling Stone costumes</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>Lovely Challenge IV</name>
+  <detail>Discover the Disco Inferno and the Dancing Dino costumes</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>Time Warrior</name>
+  <detail>Reach silver score in all Time Attack challenges</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>Advanced Survival</name>
+  <detail>Win 20 combats in survivor mode in a single run</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>Lovely Challenge I</name>
+  <detail>Discover the Space Cowboy and the Fisher King costumes</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>Lovely Challenge II</name>
+  <detail>Discover the Lord of the Gnomes and the Handyman costumes</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>Rush hour</name>
+  <detail>Beat five different friends in Infrastructure in less than one hour</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>Perfect combat</name>
+  <detail>Defeat an enemy receiving no damage at all</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>Against the Clock</name>
+  <detail>Reach Bronze score in all Time Attack Challenges</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>Basic Survival</name>
+  <detail>Win 10 combats in survivor mode in a single run</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>Karate Master</name>
+  <detail>Perform all the moves for the Karate fight style in a single fight</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Zombie Master</name>
+  <detail>Perform all the moves for the Zombie fight style in a single fight</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Cowboy Master</name>
+  <detail>Perform all the moves for the Cowboy fight style in a single fight</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>Ballerina Master</name>
+  <detail>Perform all the moves for the Ballerina fight style in a single fight</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Boxing Master</name>
+  <detail>Perform all the moves for the Boxing fight style in a single fight</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>Capoeira Master</name>
+  <detail>Perform all the moves for the Capoeira fight style in a single fight</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>Kung Fu Master</name>
+  <detail>Perform all the moves for the Kung Fu fight style in a single fight</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>Super Hero Master</name>
+  <detail>Perform all the moves for the Super Hero fight style in a single fight</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>Super Heroine Master</name>
+  <detail>Perform all the moves for the Super Heroine fight style in a single fight</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>Sorcerer Master</name>
+  <detail>Perform all the moves for the Sorcerer fight style in a single fight</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>Samurai Master</name>
+  <detail>Perform all the moves for the Samurai fight style in a single fight</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>Disco Master</name>
+  <detail>Perform all the moves for the Disco fight style in a single fight</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>Break Dance Master</name>
+  <detail>Perform all the moves for the Break Dance fight style in a single fight</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>Wrestling Master</name>
+  <detail>Perform all the moves for the Wrestling fight style in a single fight</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>Muay Thai Master</name>
+  <detail>Perform all the moves for the Muay Thai fight style in a single fight</detail>
+ </trophy>
+</trophyconf>

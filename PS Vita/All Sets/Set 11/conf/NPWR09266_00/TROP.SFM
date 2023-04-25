@@ -1,0 +1,48 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000b88f04847f5a3f1957186f4b34e0110261338ea597cabf2690b24b850414218eda0619d462298b834eca948d1d32436b5699cd2c5853968bdea17971e8ad3c9ad27d036195c0210a2492a60631b2c82aac5faee6a874d4ea108190ef4157d835c3aa7bd5473f6db730104f3f0c65f80f8618feef958c3594fc8055fdd7306e96533ea79c01f8ee14e34e559432baa045ed12bbca-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="small">
+ <npcommid>NPWR09266_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Electronic Super Joy</title-name>
+ <title-detail>Electronic Super Joy</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Mass Murder</name>
+  <detail>Murder The Pope</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>As You Wish</name>
+  <detail>Survive Glorg</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Rear-venge!</name>
+  <detail>Defeat The Groove Wizard</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="-1">
+  <name>One-derful!</name>
+  <detail>Defeat World 1 within 10 minutes</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="-1">
+  <name>Two Awesome</name>
+  <detail>Defeat World 2 within 17 minutes</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="-1">
+  <name>So Three-ling!</name>
+  <detail>Defeat World 3 within 22 minutes</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="-1">
+  <name>How Four-tuitous!</name>
+  <detail>Defeat World 4 within 26 Minutes</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="-1">
+  <name>Dame Right, It's Better Than Yours!</name>
+  <detail>Beat all gold times</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="-1">
+  <name>So Long And Thanks For All The Stars</name>
+  <detail>Collect every star</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="-1">
+  <name>Electronic Super Done!</name>
+  <detail>Get every Star, beat every Gold Time, and earn 0 deaths in every level</detail>
+ </trophy>
+</trophyconf>

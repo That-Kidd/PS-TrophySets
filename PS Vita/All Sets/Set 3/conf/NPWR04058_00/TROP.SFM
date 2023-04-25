@@ -1,0 +1,56 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000d1de4b9673d201261b20090d6106a28dafd5197899b9a2e3c6eb12cf6da33f46416367a90369c8029c48630c06c63711414cd43dbc244a1d4e639afd955479be23783d7d54f42ff7e213548cd467041715155fc5410e660ec2938da56ed5fe5eae4d42fd332bb4b60308fe102fd91631cd1c6398f65dc202055cfe7ef2f63754e52820585b41a81b7cda6541f9332b16521401ed-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR04058_00</npcommid>
+ <trophyset-version>01.02</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>MALICIOUS™ REBIRTH</title-name>
+ <title-detail>MALICIOUS™ REBIRTH Trophy Set.</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Slayer</name>
+  <detail>You put down a power holder.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Story 1 Complete</name>
+  <detail>You completed "Slayer" in Story Mode.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Story 2 Complete</name>
+  <detail>You completed "Rebirth" in Story Mode.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>No Guard</name>
+  <detail>You cleared a scene without any guard.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Counter Master </name>
+  <detail>You succeeded in all of the counter actions.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Ranking Debut</name>
+  <detail>You made a debut in our ranking.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>100 Chain</name>
+  <detail>You achieved a chain of 100.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="-1">
+  <name>No Continue</name>
+  <detail>You completed both Story Modes at Normal difficulty without using Continue.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="-1">
+  <name>1 Kill Clear</name>
+  <detail>You cleared a scene by defeating the power holder exclusively.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="-1">
+  <name>Bear No Evil</name>
+  <detail>You completed Story Mode "Rebirth" without resorting to forbidden power.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="-1">
+  <name>All S Rank Completed</name>
+  <detail>You completed all scenes of the Story Mode on Normal difficulty at S rank.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="-1">
+  <name>No Repair</name>
+  <detail>You completed both Story Modes at Normal difficulty without ever repairing the Vessel.</detail>
+ </trophy>
+</trophyconf>

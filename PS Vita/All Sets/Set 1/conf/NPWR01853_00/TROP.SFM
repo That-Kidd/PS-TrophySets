@@ -1,0 +1,80 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000f2ad86cd811824684fbaeab62a418d0f7ce931d667a8afafcc8233f1621fe79e7b6c4dca65949a44f03a9debc4ad23594211de0640daad9f020e1bd3c443110d14d61d15f3816a04c815fb5d3926d9a044beba0ef193e17fbaef144a6e234dd354da1f1fe238c5cf16221ec2462f7df0ed2f69719fc9197f87ef76518be422671d66b786d5b88af82a73ae7e5e32989a84d09588-->
+<trophyconf version="1.1" platform="psp2">
+ <npcommid>NPWR01853_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Hustle Kings™</title-name>
+ <title-detail>The King Of Pool Games</title-detail>
+ <group id="001">
+  <name>Snooker Pack</name>
+  <detail>Snooker Pack</detail>
+ </group>
+ <trophy id="000" hidden="no" ttype="G" pid="-1">
+  <name>Hustle King!</name>
+  <detail>Earn 100 million HKC hustling online.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="-1">
+  <name>Career Complete</name>
+  <detail>Complete career mode.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="-1">
+  <name>Luck is an Art</name>
+  <detail>Beat someone else who has this trophy.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="-1">
+  <name>Speed Freak</name>
+  <detail>8-Ball clearance in under 45 seconds.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="-1">
+  <name>Online King</name>
+  <detail>Win 100 online games.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="-1">
+  <name>Skill Player!</name>
+  <detail>Pot a ball using each of the 4 different skill shots: jump shots, swerve shots, bank shots and plant shots.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Online Hustler</name>
+  <detail>Hustle a player online.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Trick Shot Wizard</name>
+  <detail>Complete all trick shots.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>License to Hustle</name>
+  <detail>Complete training mode.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>Career Victory</name>
+  <detail>Win a career mode game.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>Skill Shot!</name>
+  <detail>Swerve or Jump to pot a ball.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="-1" gid="001">
+  <name>Maximum Break</name>
+  <detail>Get a 147 maximum break in snooker.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="-1" gid="001">
+  <name>Century Break</name>
+  <detail>Make a break of 100 or more in snooker.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="-1" gid="001">
+  <name>Snooker Champion</name>
+  <detail>Win the snooker tournament.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>Beat the Fish</name>
+  <detail>Beat someone at snooker who already has this trophy.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>Snooker King</name>
+  <detail>Win 10 online snooker matches.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>Snooker Loopy</name>
+  <detail>Snooker your opponent 5 times in a single frame of snooker.</detail>
+ </trophy>
+</trophyconf>

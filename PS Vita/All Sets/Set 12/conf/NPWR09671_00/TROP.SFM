@@ -1,0 +1,60 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000005c7ffb087b53f3bf0400b2f5e30acda11e8c14e8c58c2ebff46f92c9bb2142261e0e05215da7f2f182f2525293316074a1020d9136d9a30dd6c88325891e2de98a6d06cec6a1cc1de4331880ab066b7dd87375f457178c28d9098d1154c9f7540b18bc12a751bebc0f370ad884afb06922e85001e9b8ccb7757adb42ce5ea5de969b1c2c13bdebe9c4049f02c583ba7dabb6477a-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR09671_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>南瓜先生大冒险</title-name>
+ <title-detail>南瓜先生大冒险</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>跳跃家</name>
+  <detail>第一次通过帮助游戏</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>清醒者</name>
+  <detail>通过第一关“苏醒”</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>墙外人</name>
+  <detail>通过第二关“逃离”</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>机械师</name>
+  <detail>通过第三关“机械年华”</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>最佳观众</name>
+  <detail>通过第四关“太空的故事”</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>老司机</name>
+  <detail>通过第五关“通往未知的地铁”</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>读梦人</name>
+  <detail>通过第六关“世界的尽头”</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>清醒者2</name>
+  <detail>通过第七关“实验室的抉择”</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>收藏家</name>
+  <detail>获得全部日记碎片</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="-1">
+  <name>宇航员</name>
+  <detail>在第七关“实验室的抉择”获得一个结局</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="-1">
+  <name>旅行家</name>
+  <detail>在第八关“觉醒”获得一个结局</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="-1">
+  <name>飞行员</name>
+  <detail>在第六关“世界尽头”获得一个结局</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="-1">
+  <name>自我的主宰</name>
+  <detail>找到了游戏的3个结局，并且在帮助游戏里成功至少5次，失败至少10次。</detail>
+ </trophy>
+</trophyconf>

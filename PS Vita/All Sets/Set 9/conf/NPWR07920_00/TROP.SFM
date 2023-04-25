@@ -1,0 +1,112 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000085c27a321cf98cdd83da5b4c879196070bb315757a02cd2ecd3ea725e76d2e8086016df22d9227197cf076f41a4403cc223fabf396583c53572ce5eaafbd9f6d14d96a167ae1c199bda4c7bb2251183586bd798b0dcd9d86ac2b14bbf29a8e6a73bc82e6a8e2bd61efad0b35a0f6627ab60a6a8ae18549c83859fd8dbb2bc97bca8eecdf39160a8df32b3afa1826b9af193f8358-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR07920_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>新装版クリムゾン・エンパイア</title-name>
+ <title-detail>新装版クリムゾン・エンパイアのトロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Complete！</name>
+  <detail>全トロフィーをコンプリートした</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>BEST／Edvard</name>
+  <detail>エドワルド『ベストEND』を見た</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>GOOD／Edvard</name>
+  <detail>エドワルド『束の間の夢END』を見た</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>BAD／Edvard</name>
+  <detail>『エドワルド処刑END』を見た</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>BEST／Justin</name>
+  <detail>ジャスティン『ベストEND』を見た</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>GOOD／Justin</name>
+  <detail>ジャスティン『約束END』を見た</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>BAD／Justin</name>
+  <detail>ジャスティン『敵対END』を見た</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>BAD／Justin</name>
+  <detail>ジャスティン『BADEND』を見た</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>BEST／Marshall</name>
+  <detail>マーシャル『ベストEND』を見た</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>GOOD／Marshall</name>
+  <detail>マーシャル『今このときの幸せEND』を見た</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>BEST／Bryon</name>
+  <detail>ブライアン『ベストEND』を見た</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>GOOD／Bryon</name>
+  <detail>ブライアン『手放せない温もりEND』を見た</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>BEST／Rambures</name>
+  <detail>ランビュール『ベストEND』を見た</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>GOOD／Rambures</name>
+  <detail>ランビュール『宝物END』を見た</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="000">
+  <name>BEST／Michael</name>
+  <detail>ミハエル『ベストEND』を見た</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>GOOD／Michael</name>
+  <detail>ミハエル『道の果てEND』を見た</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>BAD／Michael</name>
+  <detail>ミハエル『BADEND』を見た</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>END／達成</name>
+  <detail>『達成END』を見た</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>END／恐怖政治</name>
+  <detail>『恐怖政治END』を見た</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>END／カーティス殺害</name>
+  <detail>『カーティス殺害END』を見た</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>END／メデューサ殺害</name>
+  <detail>『メデューサ殺害END』を見た</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>COMP／Varchia</name>
+  <detail>ハルキアのシナリオを全て見た</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>COMP／Lilley</name>
+  <detail>リリーのシナリオを全て見た</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>COMP／OP</name>
+  <detail>オープニングを見た</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="G" pid="000">
+  <name>COMP／CG</name>
+  <detail>CG鑑賞をコンプリートした</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="G" pid="000">
+  <name>COMP／SCENE</name>
+  <detail>シーン回想をコンプリートした</detail>
+ </trophy>
+</trophyconf>

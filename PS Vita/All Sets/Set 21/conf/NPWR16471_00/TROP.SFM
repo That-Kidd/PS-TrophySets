@@ -1,0 +1,120 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000505190bf0e7abad5a4510be7fcd5284a811cceb19507bbf4af2019817a41619c06b91bba1eb7a0c12e8e0d5881c697a550566af2d54ba4ce6fb8ad51484b8eaefb53d33346756641e38a907dcc289bb211436decdd24c0ea1cac52edcebeb1482c713fb05fa90c69d1e55765e711ab4fd3b813b15b667387a4579a48b2799151ec39cd4d1ab7f3bf24fa2938a98eac3551b27a87-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR16471_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Atari Flashback Classics</title-name>
+ <title-detail>Atari Flashback Classics</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Platinum Trophy</name>
+  <detail>Earn all trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="000">
+  <name>Hare Razing</name>
+  <detail>Get the top score of 99 in Air-Sea Battle’s Shooting Gallery</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>Sharp Shooter</name>
+  <detail>Take out 10 fleas in a row in arcade Centipede, without letting one reach the bottom or losing a life</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>They Named a Crater after Me</name>
+  <detail>Hit the ground in Lunar Lander with at least 550 downward velocity</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>Exterminator</name>
+  <detail>Take out an entire Millipede with DDT in the arcade version</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>Corner Pocket</name>
+  <detail>Earn a point in Pong by sending the ball into the corner when it can't be reached</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>Lockout</name>
+  <detail>Win a game of Pong against the AI without losing a point to it</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>Sniper</name>
+  <detail>Take out the Swirl with your Zorlon Cannon in Yars’ Revenge</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>Neat Freak</name>
+  <detail>Eliminate all the mushrooms in a level of arcade Centipede</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>Bank Shot</name>
+  <detail>Score a kill in Combat's Tank-Pong using a shot that has bounced at least 7 times</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>We Don't Need No Fortification</name>
+  <detail>Win with no wall left in arcade Warlords</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>Square Dancing</name>
+  <detail>Solve Atari Video Cube</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>Music Lessons</name>
+  <detail>Play Happy Birthday in Brain Games' Play-Me (Game 19)</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>Garbage Day</name>
+  <detail>Hit the ejected garbage in Major Havoc</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>Stealthy</name>
+  <detail>Win Level 2 without slaying a single dragon in Adventure</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>UFO Hunter</name>
+  <detail>Kill 10 UFOs in a single level of arcade Asteroids without dying</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>I Ain't Afraid of No House</name>
+  <detail>Win Ultimate Haunted House (Game 9)</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>We Can Rebuild</name>
+  <detail>Earn a bonus city in arcade Missile Command after losing all your cities</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>Dot Swatter</name>
+  <detail>Get a score of at least 40 in Race's solo Crash n Score (Game 8)</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="000">
+  <name>Brick Slayer</name>
+  <detail>Clear a full screen in arcade Super Breakout while playing cavity or double</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>Patience</name>
+  <detail>Win a game of Video Chess against the machine at Skill Level 4</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="G" pid="000">
+  <name>Home for Dinner</name>
+  <detail>Finish Adventure Level 1 in under 40 seconds</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="G" pid="000">
+  <name>Pacifist</name>
+  <detail>Go an entire level of arcade Asteroids with a score of zero</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>Unearthed</name>
+  <detail>Try every game</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>We Don't Actually Need a Photograph</name>
+  <detail>Complete all 32 levels in Xari Arena</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="S" pid="000">
+  <name>Safety Patrol</name>
+  <detail>Clear the level in Avalanche</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="S" pid="000">
+  <name>Skywriting</name>
+  <detail>Spell SKYDIVER</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="S" pid="000">
+  <name>Clean Sweep</name>
+  <detail>Hit at least 30 objects in a row in Astroblast without letting one get by</detail>
+ </trophy>
+</trophyconf>

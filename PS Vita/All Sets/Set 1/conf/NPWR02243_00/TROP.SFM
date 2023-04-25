@@ -1,0 +1,212 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000008ceee42ea0a2a60988c0e821d522a17d08392ffb7345126d30092859673e251a0d0022773c9b6a49114b5d8e46280bf91d3d6aade0782ee182385f03b88be29bb4122fdb2b58f95273eedc71fd8eed63152571c7276a430727f4c50f8e008f6f5080bbf05b2717db239c693a25ed4d9d32908217857c0c685f7d1ae1c7e0aea541a4f6dfe60fd4917650b126391ca068def42de1-->
+<trophyconf version="1.1" platform="psp2">
+ <npcommid>NPWR02243_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>BlazBlue: Continuum Shift EXTEND Trophy</title-name>
+ <title-detail>BlazBlue: Continuum Shift EXTEND Trophy Set</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Un...believable</name>
+  <detail>Mastered BlazBlue Continuum Shift - Extend.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>That Will Suffice</name>
+  <detail>Finished the [Tutorial] mode.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Time to Hit the Arcades</name>
+  <detail>Finished [Arcade] mode.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>Murakumo...AWAKEN!</name>
+  <detail>Defeated the secret boss in [Arcade] mode.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>The Beginning of the End</name>
+  <detail>Finished [Score Attack] mode.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>Mars Needs Winnin'</name>
+  <detail>Attempted [Unlimited Mars] mode over 10 times.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>Kaka-kaze</name>
+  <detail>Have been blown up by the chibi-kakas in [Unlimited Mars] mode.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>Eye of the Tiger</name>
+  <detail>Trained for more than 30 minutes, non-stop.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>Mastered the Basics</name>
+  <detail>Cleared over 50 missions in [Challenge] mode.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>Mastered the...Master?</name>
+  <detail>Cleared over 100 missions in [Challenge] mode.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>Just the Beginning</name>
+  <detail>Defeated the boss at level 100 of the [Abyss].</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>About Half Way</name>
+  <detail>Defeated the boss at level 500 of the [Abyss].</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>Getting Down to Abyss-ness</name>
+  <detail>Defeated the boss at level 999 of the [Abyss].</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="000">
+  <name>Abyssmal Shopaholic</name>
+  <detail>Acquired all the items from the shop in [Abyss] mode.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>*Wheeze*...Just Getting Started</name>
+  <detail>Increased all character stats to 50 in [Abyss] mode.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>Oh…NOW I Get It...!</name>
+  <detail>Finished the Calamity Trigger scenario in [Story] mode.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Breaking in the New Guys</name>
+  <detail>Finished Makoto's, Valkenhayn's, Platinum and Relius's scenarios in [Story] mode.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>To Be Continued…!</name>
+  <detail>Witnessed the true ending in [Story] mode.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>Mind on my Money</name>
+  <detail>Accumulated over 100,000P$.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Artwork?!  Gimmie!</name>
+  <detail>Unlocked 50% of the items in the [Gallery].</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="G" pid="000">
+  <name>Gallery Guru</name>
+  <detail>Unlocked everything there is to see in the [Gallery].</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>I See What You Did There</name>
+  <detail>Played back replay data over 10 times in [Replay Theater].</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>There's No "I" In Team</name>
+  <detail>Won a team elimination match without even fighting.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>Just Getting Used to it</name>
+  <detail>Raised any character's PSR to over 200 in a [Ranked Match]</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>Level 20</name>
+  <detail>Reached level 20.</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>I can't Stop Winning</name>
+  <detail>Won three [Ranked Matches].</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>Like a Boss</name>
+  <detail>Fought 100 matches in [Ranked Match].</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>Plays Well With Others</name>
+  <detail>Fought ten team [Player Matches].</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>Feels Like the First Time</name>
+  <detail>Won your first team [Player Match].</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="B" pid="000">
+  <name>Finger on the Button</name>
+  <detail>Defeated an opponent while using the Stylish Layout.</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="B" pid="000">
+  <name>Better Safe Than Sorry</name>
+  <detail>Dished out significantly more damage than the opponent's remaining HP.</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="B" pid="000">
+  <name>Power of the Azure</name>
+  <detail>Performed a 90+ hit combo using Ragna.</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="B" pid="000">
+  <name>Ice Ice Ice Baby</name>
+  <detail>Used all three of Jin's special attacks that freeze opponents in a single combo.</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="B" pid="000">
+  <name>Noooooo...el!</name>
+  <detail>Finished off an opponent with Noel's Nemesis Stabilizer.</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="B" pid="000">
+  <name>Shocking... Positively Shocking</name>
+  <detail>Using Rachel, shocked your opponent more than 15 times during a single combo.</detail>
+ </trophy>
+ <trophy id="035" hidden="yes" ttype="S" pid="000">
+  <name>Don't Give A Kaka</name>
+  <detail> Successfully executed jumping D, jumping ↑+D and jumping ↓+D in the middle of a combo.</detail>
+ </trophy>
+ <trophy id="036" hidden="yes" ttype="B" pid="000">
+  <name>Tager? Don't Even Know Her!</name>
+  <detail>Turned the tide and won a battle using Genesic Emerald Tager Buster.</detail>
+ </trophy>
+ <trophy id="037" hidden="yes" ttype="S" pid="000">
+  <name>Sharp Shooter</name>
+  <detail>Hit the opponent with all of Litchi's Great Wheel attacks.</detail>
+ </trophy>
+ <trophy id="038" hidden="yes" ttype="B" pid="000">
+  <name>Insecticide</name>
+  <detail>Summoned and used all of Arakune's bugs during a single combo.</detail>
+ </trophy>
+ <trophy id="039" hidden="yes" ttype="B" pid="000">
+  <name>Just How I...*wheeze*...Planned</name>
+  <detail>Using Bang, had Fu-Rin-Ka-Zan activated for more than 30 seconds of the battle.</detail>
+ </trophy>
+ <trophy id="040" hidden="yes" ttype="B" pid="000">
+  <name>A Spectacle</name>
+  <detail>Landed Carl's Vivace, Cantabile, and Allegreto during a combo.</detail>
+ </trophy>
+ <trophy id="041" hidden="yes" ttype="S" pid="000">
+  <name>Over 9000?!</name>
+  <detail>Dealt over 10,000 damage to an opponent in a single combo.</detail>
+ </trophy>
+ <trophy id="042" hidden="yes" ttype="B" pid="000">
+  <name>You've Been...Terminated</name>
+  <detail>With Lambda, summoned every type of sword during a single round.</detail>
+ </trophy>
+ <trophy id="043" hidden="yes" ttype="B" pid="000">
+  <name>Fight for Survival</name>
+  <detail>Using Tsubaki, executed all of the "D" versions of her special attacks in a single combo.</detail>
+ </trophy>
+ <trophy id="044" hidden="yes" ttype="B" pid="000">
+  <name>Fangs for the Memories!</name>
+  <detail>Used Hazama's Rising, Falling and Devouring Fangs during a battle.</detail>
+ </trophy>
+ <trophy id="045" hidden="yes" ttype="S" pid="000">
+  <name>Threat Level...Escalated</name>
+  <detail>During the course of one combo, placed all four of Mu's Stein's Gunners.</detail>
+ </trophy>
+ <trophy id="046" hidden="yes" ttype="B" pid="000">
+  <name>Squirrel Power!</name>
+  <detail>Executed Makoto's super, Particle Flare, with only Level 3 punches.</detail>
+ </trophy>
+ <trophy id="047" hidden="yes" ttype="B" pid="000">
+  <name>Get Off My Lawn!</name>
+  <detail>Performed a 30+ hit combo using Valkenhayn.</detail>
+ </trophy>
+ <trophy id="048" hidden="yes" ttype="B" pid="000">
+  <name>Lunatic</name>
+  <detail>Equipped all of Luna's weapons during one round.</detail>
+ </trophy>
+ <trophy id="049" hidden="yes" ttype="B" pid="000">
+  <name>Domestic Battery</name>
+  <detail>Using Relius, fight a battle without depleting the Ignus gauge.</detail>
+ </trophy>
+ <trophy id="050" hidden="yes" ttype="B" pid="000">
+  <name>Aaaaaand I'm Spent</name>
+  <detail>Used up the Ignis gauge while fighting as Relius.</detail>
+ </trophy>
+</trophyconf>

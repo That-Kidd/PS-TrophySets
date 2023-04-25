@@ -1,0 +1,68 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000081bd2fb85bcde3f09c8bf47ad9a4e2abeb319e9e5533dd5886474a271564afe2c324ce79495c1df7075580c639af76c8c959053e5fd6e357cbd0e6c0be4163c0dedf7dd21d90cad8a1b156a5f57201bbf5c10a39ee859b3b207ddcaaad58e6e97353f25f9545806e6d3152bed5d7c3e1721902ea6445db056c549499d7dc597af778370dad659babfe3e8366bf70eb5835fe4a7b-->
+<trophyconf version="1.1" platform="psp2" policy="freemium">
+ <npcommid>NPWR04913_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>勇者のくせにこなまいきだ。G</title-name>
+ <title-detail>勇者のくせにこなまいきだ。G</title-detail>
+ <trophy id="000" hidden="no" ttype="S" pid="-1">
+  <name>魔物コンプリート</name>
+  <detail>魔物図鑑100%</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="-1">
+  <name>勇者コンプリート</name>
+  <detail>勇者図鑑100%</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="S" pid="-1">
+  <name>裏STAGE クリア</name>
+  <detail>裏STAGE 8-8 をクリアした</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="-1">
+  <name>STAGE 8 クリア</name>
+  <detail>STAGE 8-8 をクリアした</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>STAGE 7 クリア</name>
+  <detail>STAGE 7-8 をクリアした</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>STAGE 6 クリア</name>
+  <detail>STAGE 6-8 をクリアした</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>STAGE 5 クリア</name>
+  <detail>STAGE 5-8 をクリアした</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>STAGE 4 クリア</name>
+  <detail>STAGE 4-8 をクリアした</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>STAGE 3 クリア</name>
+  <detail>STAGE 3-8 をクリアした</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>STAGE 2 クリア</name>
+  <detail>STAGE 2-8 をクリアした</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>STAGE 1 クリア</name>
+  <detail>STAGE 1-8 をクリアした</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="-1">
+  <name>はじめてのコマンド入力</name>
+  <detail>隠しコマンドを入力した</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="-1">
+  <name>はじめての共闘</name>
+  <detail>人と協力してステージをクリアした</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="-1">
+  <name>はじめての合成</name>
+  <detail>はじめて魔物を合成した</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="-1">
+  <name>はじめてのコンボ</name>
+  <detail>はじめてパズルでコンボした</detail>
+ </trophy>
+</trophyconf>

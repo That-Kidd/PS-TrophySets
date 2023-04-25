@@ -1,0 +1,40 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000005c0e5253a4384e9fd15345a74ff2f3772d1bdbef20c1df36a25fad6ff3acf10551a9d06c21501c48f5376dd3aa4d8254b91e9ebfdee1ee0f737cf73f65d0b2286d72333a6047d6a5533608c782949656b7f326d2d941dfcfe046f6623586a089f96e20269c21d958dc5c000e4cf9321755f93c37a239b29c1cc6df1bc20f4188590fbf73d4fa413622c9fa6ceae4e4427cd24b48-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR08176_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Phineas and Ferb: Day of Doofenshmirtz</title-name>
+ <title-detail>Phineas and Ferb: Day of Doofenshmirtz</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Better Skill than Strength</name>
+  <detail>Solve the shopping centre puzzle.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Dimensional Generator</name>
+  <detail>Find all the pieces of the dimensional generator.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Arcade King</name>
+  <detail>Complete all the Arcade Machine levels.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Appliance Shooting</name>
+  <detail>Destroy 500 flying machines on the main menu.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="-1">
+  <name>A Job Well Done</name>
+  <detail>Complete the adventure and stop Dr. Doof’s plans.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="-1">
+  <name>Armed to the Teeth</name>
+  <detail>Create all of the types of ammo in the workshop.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="-1">
+  <name>Perfect Day</name>
+  <detail>Complete all the levels with at least an A grade.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="-1">
+  <name>Expert Explorer</name>
+  <detail>Discover all the game secrets.</detail>
+ </trophy>
+</trophyconf>

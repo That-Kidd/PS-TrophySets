@@ -1,0 +1,208 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000003119a5846141b1269e33820b806dc631ee62c5bf347d53ff714a9d5efdf2e17666fb31c6da575ef1234016d5d4dfc6557ba842685075979ebff1ed0eaa5ae0a58d7986b3bac84add21c50821961321c1bc2103fe59e02e51e815a044df159baceebfeefd89ad23a81a96cbed885674ffb2964e8972102e2aaf74bf89928a0e0179144d9faa212fe747bcbd7c703342663fc1b553-->
+<trophyconf version="1.1" platform="psp2">
+ <npcommid>NPWR03895_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Persona 4 Golden</title-name>
+ <title-detail>Persona 4 Golden</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Golden Completed</name>
+  <detail>Earn all trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>A Prince Appears</name>
+  <detail>Rescue Yukiko Amagi</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>A True Man's Stand</name>
+  <detail>Rescue Kanji Tatsumi</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>The Lounge Is Closed</name>
+  <detail>Rescue Rise Kujikawa</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>Game Over</name>
+  <detail>Secure Mitsuo Kubo</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>Boarded-Up Lab</name>
+  <detail>Rescue Naoto Shirogane</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>The Return of the Angels</name>
+  <detail>Rescue Nanako Dojima</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>Breaking Through the Fog</name>
+  <detail>Secure Tohru Adachi</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>Welcome Back</name>
+  <detail>Rescue Marie</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="G" pid="000">
+  <name>The Truth In Your Hands</name>
+  <detail>Defeat Izanami</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>Fusion Expert</name>
+  <detail>Perform 50 Persona fusions</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>Special Fusion Expert</name>
+  <detail>Use 4 or more Personas in a special fusion</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>The Nose Doesn't Always Know</name>
+  <detail>Experience a fusion accident</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>Persona Shopper</name>
+  <detail>Buy a Persona from the Compendium</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>A Favor for Marie</name>
+  <detail>Register a Skill Card</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>Card Collector</name>
+  <detail>Register 100 Skill Cards</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Displaying Adaptability</name>
+  <detail>Switch Personas 5 times in 1 battle</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Hardcore Risette Fan</name>
+  <detail>Hear 250 of Rise's navigation lines</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>Going Nova</name>
+  <detail>Deal over 999 damage in 1 attack</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Skilled Commander</name>
+  <detail>Perform 50 All-Out Attacks</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>Tactical Fighter</name>
+  <detail>Exploit enemy weaknesses 100 times</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>Fill Your Hand</name>
+  <detail>Get 50 Sweep Bonuses</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>Grasping at Greed</name>
+  <detail>Defeat a Golden Hand</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="G" pid="000">
+  <name>One Who Has Proven Their Power</name>
+  <detail>Defeat Margaret</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="S" pid="000">
+  <name>The Reaper Becomes the Reaped</name>
+  <detail>Defeat The Reaper</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>Food Fighter</name>
+  <detail>Finish Aiya's special dish</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>Compulsive Reader</name>
+  <detail>Read all books</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>It's Working Today</name>
+  <detail>Buy an item from the Capsule Machine</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>Lucky Me!</name>
+  <detail>Win a prize from the vending machine</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>Granter of Your Desires</name>
+  <detail>Buy 5 things from Tanaka's Amazing Commodities</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>Seize the Moment</name>
+  <detail>Buy a special croquette from Sozai Daigaku</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>Cooking With Gas</name>
+  <detail>Make 5 perfect boxed lunches</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>A Special Lady</name>
+  <detail>Enter a special relationship with someone</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="S" pid="000">
+  <name>Mr. Perfect</name>
+  <detail>Max out all social qualities</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>The Other Self</name>
+  <detail>Obtain the Persona Izanagi</detail>
+ </trophy>
+ <trophy id="035" hidden="yes" ttype="S" pid="000">
+  <name>The Power of Truth</name>
+  <detail>Create Izanagi-no-Okami</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="S" pid="000">
+  <name>Moderate Bookkeeper</name>
+  <detail>Register over 50% of the Compendium</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="G" pid="000">
+  <name>Thorough Bookkeeper</name>
+  <detail>Complete the Persona Compendium</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>Fashion Plate</name>
+  <detail>Fight a battle in costume</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="000">
+  <name>Head of the Class</name>
+  <detail>Rank #1 in your class on an exam</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="B" pid="000">
+  <name>Fishing Master</name>
+  <detail>Catch the Sea Guardian</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="B" pid="000">
+  <name>A True Bond</name>
+  <detail>Max out a Social Link</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="B" pid="000">
+  <name>Bond Maniac</name>
+  <detail>Max out 10 Social Links</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="S" pid="000">
+  <name>Legend of Inaba</name>
+  <detail>Max out all Social Links</detail>
+ </trophy>
+ <trophy id="044" hidden="no" ttype="B" pid="000">
+  <name>An Acquired Taste</name>
+  <detail>Drink the coffee at Chagall Cafe</detail>
+ </trophy>
+ <trophy id="045" hidden="no" ttype="B" pid="000">
+  <name>Movie Buff</name>
+  <detail>Go to 3 movies at 30 Frame</detail>
+ </trophy>
+ <trophy id="046" hidden="no" ttype="B" pid="000">
+  <name>Bug Hunter</name>
+  <detail>Swing the net with perfect timing</detail>
+ </trophy>
+ <trophy id="047" hidden="no" ttype="B" pid="000">
+  <name>Advantage Mine</name>
+  <detail>Enter a battle with Player Advantage</detail>
+ </trophy>
+ <trophy id="048" hidden="yes" ttype="B" pid="000">
+  <name>Big Bro is Worried</name>
+  <detail>Visit Nanako in the hospital 3 times</detail>
+ </trophy>
+ <trophy id="049" hidden="no" ttype="B" pid="000">
+  <name>A New Quiz King</name>
+  <detail>Win the Miracle Quiz Finals</detail>
+ </trophy>
+</trophyconf>

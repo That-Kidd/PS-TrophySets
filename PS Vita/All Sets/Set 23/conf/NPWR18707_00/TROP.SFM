@@ -1,0 +1,56 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000201fd9c08988e49b6df8a55a545a2c9d419babf426a8357efd0192a8d79b225cb065ee6396149edca66b38e697e4b6067e8740bb981262c26e63949feea5745cdf2268531ad03b0e637d130e273d22547f5781b089bb14d899f08a48f8b05a990d99b2075036c7fea68a2b877225ab39ac1909b229970a1e6bf6d951ca4bf16321b69a00820461efb8a4575ca89988c3a7f834a1-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR18707_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Gravity Duck</title-name>
+ <title-detail>Gravity Duck</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Platinum Duck</name>
+  <detail>Get all other trophies.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>Fried Chicken</name>
+  <detail>Die for the first time.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>Twisted</name>
+  <detail>Change the gravity for the first time.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>Farmer</name>
+  <detail>Get 10 Golden Eggs.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>Egg Thief</name>
+  <detail>Get 20 Golden Eggs.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>Egg Hunter</name>
+  <detail>Get 30 Golden Eggs.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>Looks Like Easter</name>
+  <detail>Get 50 Golden Eggs.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>Scout</name>
+  <detail>Finish The Forest world.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>Gardener</name>
+  <detail>Discover the shooting plant.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>Caterpillar</name>
+  <detail>Discover the caterpillar.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>Bat</name>
+  <detail>Discover the bat.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>Butterfly</name>
+  <detail>Discover the butterfly.</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,264 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000793a7851f8e1d95a747c7076354d6ebe3be6b05f49830adab12aed0350944ac454fcb104974dd888dcf1d95fc2daa79d7c9b277ed25073672b1da054e41dde7d50c85e0ef757fb7150653f03c6ca741a8a42a9b7d9459678174df389de7ea528df97bade974ec065882d45261d1e50822961ef4e82741038c5e02140f37b57fc0370e574bddc3251d221092b1e2ad942fc6ff093-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR04100_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Earth Defense Force 2017 Portable</title-name>
+ <title-detail>Earth Defense Force 2017 Portable&#x0a;Trophy</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Mission Complete</name>
+  <detail>Obtained all trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>All Easy Stages Cleared (Storm)</name>
+  <detail>Cleared all stages on Easy difficulty with Storm</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>All Normal Stages Cleared (Storm)</name>
+  <detail>Cleared all stages on Normal difficulty with Storm</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>All Hard Stages Cleared (Storm)</name>
+  <detail>Cleared all stages on Hard difficulty with Storm</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>All Hardest Stages Cleared (Storm)</name>
+  <detail>Cleared all stages on Hardest difficulty with Storm</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>All Inferno Stages Cleared (Storm)</name>
+  <detail>Cleared all stages on Inferno difficulty with Storm</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>All Easy Stages Cleared (Pale Wing)</name>
+  <detail>Cleared all stages on Easy difficulty with Pale Wing</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>All Normal Stages Cleared (Pale Wing)</name>
+  <detail>Cleared all stages on Normal difficulty with Pale Wing</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>All Hard Stages Cleared (Pale Wing)</name>
+  <detail>Cleared all stages on Hard difficulty with Pale Wing</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>All Hardest Stages Cleared (Pale Wing)</name>
+  <detail>Cleared all stages on Hardest difficulty with Pale Wing</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>All Inferno Stages Cleared (Pale Wing)</name>
+  <detail>Cleared all stages on Inferno difficulty with Pale Wing</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>Rescue</name>
+  <detail>Rescued 5 other players in co-op play</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="B" pid="000">
+  <name>Super Rescue</name>
+  <detail>Rescued 40 other players in co-op play</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="000">
+  <name>Ant Hunter</name>
+  <detail>Defeated 1000 ant-type bugs</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="B" pid="000">
+  <name>Spider Hunter</name>
+  <detail>Defeated 600 spider-type bugs</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>Gunship Hunter</name>
+  <detail>Destroyed 700 gunships</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>Carrier Hunter</name>
+  <detail>Destroyed 25 carriers</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>Mini Hunter</name>
+  <detail>Destroyed 5 miniature Walking Arms</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>Hector Hunter</name>
+  <detail>Destroyed 40 Hectors</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>Vallak Hunter</name>
+  <detail>Defeated a total of 4 Vallaks or Cyborg Vallaks</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="000">
+  <name>Fortress Hunter</name>
+  <detail>Destroyed 1 four-legged walking fortress</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>Queen Hunter</name>
+  <detail>Defeated 5 queens</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="B" pid="000">
+  <name>King Hunter</name>
+  <detail>Defeated 5 giant spiders</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>Attacker Hunter</name>
+  <detail>Destroyed 60 new fighter craft</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="000">
+  <name>Red Hunter</name>
+  <detail>Destroyed 10 Red Gunships</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="B" pid="000">
+  <name>Mothership Hunter</name>
+  <detail>Destroyed 1 mothership</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>Ant Killer</name>
+  <detail>Defeated 10000 ant-type bugs</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="B" pid="000">
+  <name>Spider Killer</name>
+  <detail>Defeated 6000 spider-type bugs</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="B" pid="000">
+  <name>Gunship Killer</name>
+  <detail>Destroyed 7000 gunships</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="B" pid="000">
+  <name>Carrier Killer</name>
+  <detail>Destroyed 250 carriers</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="B" pid="000">
+  <name>Mini Killer</name>
+  <detail>Destroyed 50 miniature Walking Arms</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="B" pid="000">
+  <name>Hector Killer</name>
+  <detail>Destroyed 400 Hectors</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="B" pid="000">
+  <name>Vallak Killer</name>
+  <detail>Defeated a total of 40 Vallaks or Cyborg Vallaks</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="B" pid="000">
+  <name>Fortress Killer</name>
+  <detail>Destroyed 10 four-legged walking fortresses</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="B" pid="000">
+  <name>Queen Killer</name>
+  <detail>Defeated 50 queens</detail>
+ </trophy>
+ <trophy id="035" hidden="yes" ttype="B" pid="000">
+  <name>King Killer</name>
+  <detail>Defeated 50 giant spiders</detail>
+ </trophy>
+ <trophy id="036" hidden="yes" ttype="B" pid="000">
+  <name>Attacker Killer</name>
+  <detail>Destroyed 600 new fighter craft</detail>
+ </trophy>
+ <trophy id="037" hidden="yes" ttype="B" pid="000">
+  <name>Red Killer</name>
+  <detail>Destroyed 100 Red Gunships</detail>
+ </trophy>
+ <trophy id="038" hidden="yes" ttype="B" pid="000">
+  <name>Mothership Killer</name>
+  <detail>Destroyed 10 motherships</detail>
+ </trophy>
+ <trophy id="039" hidden="yes" ttype="B" pid="000">
+  <name>Weapons 10% Complete</name>
+  <detail>Obtained 10% of all available weapons</detail>
+ </trophy>
+ <trophy id="040" hidden="yes" ttype="B" pid="000">
+  <name>Weapons 25% Complete</name>
+  <detail>Obtained 25% of all available weapons</detail>
+ </trophy>
+ <trophy id="041" hidden="yes" ttype="B" pid="000">
+  <name>Weapons 50% Complete</name>
+  <detail>Obtained 50% of all available weapons</detail>
+ </trophy>
+ <trophy id="042" hidden="yes" ttype="B" pid="000">
+  <name>Weapons 75% Complete</name>
+  <detail>Obtained 75% of all available weapons</detail>
+ </trophy>
+ <trophy id="043" hidden="yes" ttype="G" pid="000">
+  <name>Weapons 100% Complete</name>
+  <detail>Obtained all available weapons</detail>
+ </trophy>
+ <trophy id="044" hidden="yes" ttype="B" pid="000">
+  <name>Shield Soldier</name>
+  <detail>Reinforced 10 other players with tempshields</detail>
+ </trophy>
+ <trophy id="045" hidden="yes" ttype="B" pid="000">
+  <name>Shield Master</name>
+  <detail>Reinforced 100 other players with tempshields</detail>
+ </trophy>
+ <trophy id="046" hidden="yes" ttype="B" pid="000">
+  <name>Storm Soldier</name>
+  <detail>Storm's health at 2000</detail>
+ </trophy>
+ <trophy id="047" hidden="yes" ttype="B" pid="000">
+  <name>Storm Master</name>
+  <detail>Storm's health at 4000</detail>
+ </trophy>
+ <trophy id="048" hidden="yes" ttype="B" pid="000">
+  <name>Wing Soldier</name>
+  <detail>Pale Wing's health at 1000</detail>
+ </trophy>
+ <trophy id="049" hidden="yes" ttype="B" pid="000">
+  <name>Wing Master</name>
+  <detail>Pale Wing's health at 2000</detail>
+ </trophy>
+ <trophy id="050" hidden="yes" ttype="B" pid="000">
+  <name>Leader</name>
+  <detail>Commanded a total of 10 allies</detail>
+ </trophy>
+ <trophy id="051" hidden="yes" ttype="B" pid="000">
+  <name>Super Leader</name>
+  <detail>Commanded a total of 60 allies</detail>
+ </trophy>
+ <trophy id="052" hidden="yes" ttype="B" pid="000">
+  <name>Tank Rider</name>
+  <detail>Defeated 200 enemies with a tank</detail>
+ </trophy>
+ <trophy id="053" hidden="yes" ttype="B" pid="000">
+  <name>Tank Master</name>
+  <detail>Defeated 2000 enemies with a tank</detail>
+ </trophy>
+ <trophy id="054" hidden="yes" ttype="B" pid="000">
+  <name>Pilot</name>
+  <detail>Defeated 100 enemies with a helicopter</detail>
+ </trophy>
+ <trophy id="055" hidden="yes" ttype="B" pid="000">
+  <name>Chopper Master</name>
+  <detail>Defeated 1000 enemies with a helicopter</detail>
+ </trophy>
+ <trophy id="056" hidden="yes" ttype="B" pid="000">
+  <name>Bike Rider</name>
+  <detail>Defeated 50 enemies with a bike</detail>
+ </trophy>
+ <trophy id="057" hidden="yes" ttype="B" pid="000">
+  <name>Bike Master</name>
+  <detail>Defeated 500 enemies with a bike</detail>
+ </trophy>
+ <trophy id="058" hidden="yes" ttype="B" pid="000">
+  <name>Vegalta Rider</name>
+  <detail>Defeated 200 enemies with a Vegalta</detail>
+ </trophy>
+ <trophy id="059" hidden="yes" ttype="B" pid="000">
+  <name>Vegalta Master</name>
+  <detail>Defeated 2000 enemies with a Vegalta</detail>
+ </trophy>
+ <trophy id="060" hidden="yes" ttype="B" pid="000">
+  <name>Medic</name>
+  <detail>Healed a player with a Reverser weapon in co-op play</detail>
+ </trophy>
+ <trophy id="061" hidden="yes" ttype="B" pid="000">
+  <name>Surveillance</name>
+  <detail>Chatted 10 times with another player in a co-op mission</detail>
+ </trophy>
+ <trophy id="062" hidden="yes" ttype="B" pid="000">
+  <name>Intel</name>
+  <detail>Chatted 10 times with another player in a co-op room</detail>
+ </trophy>
+ <trophy id="063" hidden="yes" ttype="B" pid="000">
+  <name>Treasure Hunter</name>
+  <detail>Scored 15 weapon items in a single mission</detail>
+ </trophy>
+</trophyconf>

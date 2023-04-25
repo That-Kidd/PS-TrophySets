@@ -1,0 +1,100 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000001934693aa2c395e89a8a78b2a506f428cbacf95746e86dc162cb2dc60f5b124b7899b1a80d5f4fa11c781e6cc922bcdc029203e23821902ca4ee87d2707fed8a0dcd36e18429e5195b6c412a54d1c70e613cc7efb78e964f767655fe8310c9f5586c45419eb4ef263bae81c9ba57a704111bf425e23db10e59563f3f9a91131c878d8fc676b5139b358d49815561e84f91622f35-->
+<trophyconf version="1.1" platform="ps3,psp2" policy="large">
+ <npcommid>NPWR03529_00</npcommid>
+ <trophyset-version>01.02</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Ratchet &amp; Clank™: QForce</title-name>
+ <title-detail>Ratchet &amp; Clank™: QForce</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>The Collector</name>
+  <detail>Collect all trophies.</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>Let's Set up Camp</name>
+  <detail>The QForce has been re-established, now go save the Galaxy! (Campaign)</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Smorgasbord of Destruction</name>
+  <detail>Buy one of each available turret type in any level. (Any mode)</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Hoverboot Madness</name>
+  <detail>Make it to the East Major Weapon Node in Korgon Refinery without touching the moving platforms. (Campaign)</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>Variety is the Spice of Life</name>
+  <detail>Use every weapon in the game at least once.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>QForce, Activate!</name>
+  <detail>Play Co-Op in split screen or online.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>Hero Academy</name>
+  <detail>Play a ranked match.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>Custom Job</name>
+  <detail>Play a custom match.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>Fear Does Not Exist…</name>
+  <detail>Play 5 pvp matches.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>No Tank You</name>
+  <detail>Defeat a Grungarian tank before it reaches your base in any level. (Any Mode)</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>Zurgo's Revenge</name>
+  <detail>Restore all Planetary Defence Centres and discover Zurgo's intentions. (Campaign)</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>Rack 'em and Hack 'em</name>
+  <detail>Successfully trigger all bonuses on 5 hacker puzzles in a row.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>Intergalactic Dance Party</name>
+  <detail>Get at least 1 of every enemy in the game to dance by using the Groovitron. (Any Mode)</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>A Night at the Mansion</name>
+  <detail>Get 8 transmorphed bunnies to dance on screen at once.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>Crushed Ice</name>
+  <detail>Shatter 25 frozen enemies.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="G" pid="000">
+  <name>Ironmadman</name>
+  <detail>Hoverboot 112 Miles, Run 26.2 Miles and Hoverboot Glide for 2.4 miles across all game modes.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>QForce Master</name>
+  <detail>Unlocked for earning the rank of Master.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="G" pid="000">
+  <name>Defenseless</name>
+  <detail>Complete a level other than Zurgo's Lair of Doom without purchasing any base defences. (Campaign)</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="G" pid="000">
+  <name>Peace through Ridiculous Firepower</name>
+  <detail>Land the killing blow on 10 Grungarian tanks.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="G" pid="000">
+  <name>Save Ammo, Smack a Fool</name>
+  <detail>Defeat 50 Grungarian Brawlers using your melee weapon.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="G" pid="000">
+  <name>Ready for Armageddon</name>
+  <detail>Upgrade all weapons to level 3. (Campaign)</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="G" pid="000">
+  <name>Back to the Basement</name>
+  <detail>Complete the campaign.</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="G" pid="000">
+  <name>Over the Top</name>
+  <detail>Beat 3 or more of the Insomniac Challenge Times. (Any Campaign Levels)</detail>
+ </trophy>
+</trophyconf>

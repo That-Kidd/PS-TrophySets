@@ -1,0 +1,180 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000bc3e0b94e4307ed201c93f3d3e8516cc32a4b6ee7557ad867e66fc6990f34be6fcc414894de9804aa4ef47464d261dbb168547d8095c4620f1cb6acf94fc69d033d50a9f6787294dd493547a9630d4661f5b8df59cbe2b7618221122347b736a851756e50b219e5a99616d9540112736d921468e580ac5ca90bf9836ddc56dd691aca100dd5de918fe47b4372ff62c16604cec34-->
+<trophyconf version="1.1" platform="ps3,psp2,ps4" policy="large">
+ <npcommid>NPWR09877_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Rainbow Skies</title-name>
+ <title-detail>Rainbow Skies Trophy Set</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Rainbow Skies Winner Team</name>
+  <detail>Unlock all other trophies.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Rookie</name>
+  <detail>Complete 10% of all quests in the main story.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Inexperienced</name>
+  <detail>Increase the progress of all main quests from 10% to 20%.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Globetrotter</name>
+  <detail>Increase the progress of all main quests from 20% to 30%.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>Pioneer</name>
+  <detail>Increase the progress of all main quests from 30% to 40%.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>Adventurer</name>
+  <detail>Increase the progress of all main quests from 40% to 50%.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>Player</name>
+  <detail>Increase the progress of all main quests from 50% to 60%.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>Warrior</name>
+  <detail>Increase the progress of all main quests from 60% to 70%.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>Traveler</name>
+  <detail>Increase the progress of all main quests from 70% to 80%.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>Fortune Hunter</name>
+  <detail>Increase the progress of all main quests from 80% to 90%.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>Hero</name>
+  <detail>Increase the progress of all main quests from 90% to 100%.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>Bookworm</name>
+  <detail>Complete 75% of the item encyclopedia.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>Explorer</name>
+  <detail>Completely explore 40 areas. (100%)</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>Enlightened</name>
+  <detail>Play at least 200 hours (game world time, not Earth time!) with an active light spell. It doesn't matter if the light is activated using items or magic.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>Researcher</name>
+  <detail>Discover and explore at least 20 optional areas or dungeons.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>The Dole</name>
+  <detail>Spend at least 500 Rainbow Coins at the Healer.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Farmer</name>
+  <detail>Find and collect at least 150 items that can be picked or collected in the world.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>Zeal</name>
+  <detail>Complete 50 or more optional side quests. Repeatable quests only count once!</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>Sneaky</name>
+  <detail>Inflict negative conditions on enemy monsters at least 100 times.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="000">
+  <name>Challenger</name>
+  <detail>Unlock a five star battle rank at the Tutor.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>Fisherman</name>
+  <detail>Catch at least 75 fish.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>Fish Expert</name>
+  <detail>Discover 30 different fish.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>Gambler</name>
+  <detail>Win 100 prizes of category B or better.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>Omniscient</name>
+  <detail>Use and study 40 magic books.</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>Grid Specialist</name>
+  <detail>Expand a skill pattern of any skill 30 times.</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>Master Breeder</name>
+  <detail>Hatch 5 monster eggs.</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>Food Fighter</name>
+  <detail>Eat 50 of any food to do more damage in battle.</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="S" pid="000">
+  <name>Survivor</name>
+  <detail>Survive 100 game days in the world of Lunah. (Defeats are permitted.)</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="G" pid="000">
+  <name>Treasure Hunter</name>
+  <detail>Unearth at least 50 buried treasures.</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>Insatiable</name>
+  <detail>Permanently increase any attribute for any characters 10 times using food.</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>Bargaining Skills</name>
+  <detail>Achieve sales level 2 in any shop.</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>Wannabe Hero</name>
+  <detail>Defeat all of the monsters from the quest 'Monsters Everywhere.'</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>Item Specialist</name>
+  <detail>Upgrade weapons or equipment by using them in battle 15 times.</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>Blacksmith</name>
+  <detail>Improve equipment 100 times at the Blacksmith using any materials.</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="S" pid="000">
+  <name>Perfectionist</name>
+  <detail>Upgrade any piece of equipment to '+5' by using crystals.</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>Level Fan</name>
+  <detail>Achieve 75 amount of level ups. This includes all team members, monsters and main characters alike.</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="S" pid="000">
+  <name>Level Master</name>
+  <detail>Bring all three main characters to level 70 or higher.</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>Master Thief</name>
+  <detail>Steal at least 100 items from monsters.</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="S" pid="000">
+  <name>Superwarrior</name>
+  <detail>Defeat 1,000 or more monsters.</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="G" pid="000">
+  <name>Bodybuilder</name>
+  <detail>Cause 100,000 damage with any attack.</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="S" pid="000">
+  <name>Trophy Collector</name>
+  <detail>Find a total of 25 Moon Trophies.</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="B" pid="000">
+  <name>Trainer</name>
+  <detail>Raise the level of any skill to 25 or higher.</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="S" pid="000">
+  <name>Merchant</name>
+  <detail>Purchase 100,000 coins worth of items from any merchant.</detail>
+ </trophy>
+</trophyconf>

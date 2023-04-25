@@ -1,0 +1,40 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000064ef7b56fa95aed97ff660c8c743c706a26e468e44306071235961d08024d0f1825431254c05b05bb6c9b96d93b1ac3a4b2b3d6d89d6cfa2ad10a8a033bb6cbbe617170d0b0ffb007099dc97f06f0f44092acf384fff2e62096df3d9023304ef8928a738e40e70ca20197ec4228f659dda8391b2230885bd6f621f5302defe62a038afe1e9cfebd978c413c9802fe0a8c8740c01-->
+<trophyconf version="1.1" platform="psp2" policy="freemium">
+ <npcommid>NPWR04273_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Hungry Giraffe</title-name>
+ <title-detail>Set Of Trophies for Hungry Giraffe</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Caliente Jirafa</name>
+  <detail>Eat 400 Chilli Peppers</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Fully Pumped</name>
+  <detail>Eat 100 Weights</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Technicolour Yawn</name>
+  <detail>Eat 100 Poisons</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="-1">
+  <name>Fast Food King</name>
+  <detail>Eat 3,000 Fast Food Items</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="-1">
+  <name>Safety First</name>
+  <detail>Use 600 Hard Hats</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="-1">
+  <name>Circumnavigation</name>
+  <detail>Complete 10 stages in a single game</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="-1">
+  <name>Daedalus Award</name>
+  <detail>Use 100 Angel Feathers</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="-1">
+  <name>Supersize Me</name>
+  <detail>Consume 3,000,000 calories</detail>
+ </trophy>
+</trophyconf>

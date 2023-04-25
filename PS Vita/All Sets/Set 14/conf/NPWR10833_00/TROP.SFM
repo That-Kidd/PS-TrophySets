@@ -1,0 +1,56 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000000f34f1e70f11a0b15dcd01955945c3434e6e10b3b107879d0f952aede65dcba7994159877a1cf778aab4cd168298ab3d42340756a5bd7b759ddd495150fed5b5f61bf39a5714a5b2ab6c4f54e507360cd298f878ae490a2522892bb6e5afcce2aa51b58a328580a7bdd7bc27d18df55541f908f31a92523a81f7548411bf540dbcab47e77a300043539b10a1a9465ccd20610281-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="small">
+ <npcommid>NPWR10833_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>10 SECOND NINJA X</title-name>
+ <title-detail>10 SECOND NINJA X</title-detail>
+ <trophy id="000" hidden="yes" ttype="B" pid="-1">
+  <name>Pensad en los niños</name>
+  <detail>¿Es que nadie va a pensar en los niños?</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="-1">
+  <name>BASTA... ¡YA ESTÁ MUERTO!</name>
+  <detail>Consigue 15 000 puntos jugando a PELN</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="-1">
+  <name>AAAAAAAAAAAAHHHHHH...</name>
+  <detail>Salta fuera del barco</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Esto es solo el calentamiento</name>
+  <detail>Consigue 25 estrellas</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Machacando</name>
+  <detail>Consigue 75 estrellas</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="-1">
+  <name>Ooooooh, ya tienes la mitad…</name>
+  <detail>Consigue 150 estrellas</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="-1">
+  <name>Ooo-oooooh, estás en lo más alto…</name>
+  <detail>Consigue 300 estrellas y el rango X en todos los niveles del modo Maratón</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>¡Sí! ¡Soy una llama otra vez!</name>
+  <detail>Equipa un nuevo aspecto de personaje</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="-1">
+  <name>Nadie puede hacer las cosas que tú haces</name>
+  <detail>Completa el modo Maratón en cada zona</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="-1">
+  <name>... Y BENJI</name>
+  <detail>Deja que Benji se una a la aventura</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="-1">
+  <name>Barbablanca y Benji</name>
+  <detail>Ayuda a Barbagrande y a Benji en cada etapa</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="-1">
+  <name>POR LOS PELOS</name>
+  <detail>Termina un nivel en menos de 0,03 s para conseguir la siguiente puntuación de estrellas</detail>
+ </trophy>
+</trophyconf>

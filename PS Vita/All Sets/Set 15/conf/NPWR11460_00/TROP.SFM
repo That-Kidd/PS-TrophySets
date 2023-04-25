@@ -1,0 +1,84 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000064624f38e4d48df6765fa47ba5f358a65481fcdd2fdb2382e938848eb5edb22953d97516568db80e2fbe9cdd86b9ff225e7b4afbae0897a81f4ccac65d1624fa29eb27e5a8f88763e6cf4a0869f7c2613a266afef4cd8fcac9af1b1f889f028fe8bd509f45a0f09c07f6a415cfdd0183e553df7d3c1baa090bbe3e6ba38afa34f1c23c385d2351c2282480af51365673bb4ca528-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR11460_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>乙女理論とその周辺 -Bon Voyage-</title-name>
+ <title-detail>乙女理論とその周辺 -Bon Voyage-</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>妹、メインヒロインです！</name>
+  <detail>全てのトロフィーを取得しました。</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="G" pid="000">
+  <name>最高の気分です</name>
+  <detail>全てのMemoryをコンプリートしました。</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="G" pid="000">
+  <name>長い旅だったね</name>
+  <detail>全てのシナリオをクリアしました。</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="G" pid="000">
+  <name>あなたの毎日に音楽が彩りを添えてくれますように</name>
+  <detail>全てのMusicをコンプリートしました。</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="G" pid="000">
+  <name>旅立ちの始まりを思い出せるよ</name>
+  <detail>全てのMovieをコンプリートしました。</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="G" pid="000">
+  <name>この私という芸術作品を鑑賞すればいいです。ほほほ</name>
+  <detail>りそなのMemoryをコンプリートしました。</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="G" pid="000">
+  <name>あなたに勇気を与えられますように</name>
+  <detail>メリルのMemoryをコンプリートしました。</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="G" pid="000">
+  <name>あの思い出がここにあるよ</name>
+  <detail>ブリュエットのMemoryをコンプリートしました。</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="G" pid="000">
+  <name>過去を振り返るか……、それもいいだろう</name>
+  <detail>その他のMemoryをコンプリートしました。</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>妹を連れてパリへ行こう</name>
+  <detail>りそなのシナリオをクリアしました。</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>アルプスの少女メリル（再）</name>
+  <detail>メリルのシナリオをクリアしました。</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>文句があるならマルセイユへいらっしゃい</name>
+  <detail>ブリュエットのシナリオをクリアしました。</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>黒執事</name>
+  <detail>大蔵家エンドを見ました。</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>突撃隊は行進する</name>
+  <detail>ディートリンデエンドを見ました。</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>りそなを部屋まで送ろう</name>
+  <detail>りそなのシナリオルートに進みました。</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="S" pid="000">
+  <name>ここでりそなとブリュエット様を見送ろう</name>
+  <detail>メリルのシナリオルートに進みました。</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="S" pid="000">
+  <name>ブリュエット様と話をしよう</name>
+  <detail>ブリュエットのシナリオルートに進みました。</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>Fragile</name>
+  <detail>オープニングムービーを見ました。</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>この優しい妹が起こしに来てあげましたよ</name>
+  <detail>クロック機能のアラームを鳴らしました。</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,140 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000008321ab0e235e26d7d772b5102bc6bc906b8bf95e002bc4a25618d0e613c0323bfe4a758e14a2cde5f568cf9aa36298bbda684d9b49d0b48eaa279ee63ac224f0f761d301bdb2945da25bf4c20ce0716c878b406e17efa4017ee2645e6cee8f71d538abaea9cf5613deca0073d2586166b99ca205230ccffe4f9e689a86734793cf30e963e46bd4599e6bed21cf45277585264766-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR03569_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>特殊報道部</title-name>
+ <title-detail>特殊報道部のトロフィーセットです。&#x0a;</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>トクホウマスター</name>
+  <detail>全てのトロフィーを取得</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>エンディングコンプリート</name>
+  <detail>全てのエンディングを見た</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>読破</name>
+  <detail>各話の既読率を全て100％にした</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>オールS評価</name>
+  <detail>各話の制作評価を全て『S』にした</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>グラフィックコンプリート</name>
+  <detail>グラフィックを全て見た</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>すばらしい観察眼</name>
+  <detail>各話のマテリアルチェックをノーミスでクリア</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>第一話制覇</name>
+  <detail>第一話の各ルートをクリアした</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>第二話制覇</name>
+  <detail>第二話の各ルートをクリアした</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>第三話制覇</name>
+  <detail>第三話の各ルートをクリアした</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>第四話制覇</name>
+  <detail>第四話の各ルートをクリアした</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>第五話制覇</name>
+  <detail>第五話の各ルートをクリアした</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>第六話制覇</name>
+  <detail>第六話の各ルートをクリアした</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>トゥルーエンド到達</name>
+  <detail>トゥルーエンドを見た</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>プレイ開始！</name>
+  <detail>「はじめから」プレイした</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>はじめてのマテリアルチェック</name>
+  <detail>最初のマテリアルチェックを通過した</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>拇印、いただきました！</name>
+  <detail>はじめて企画書に拇印を押した</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>制作評価Ｓ</name>
+  <detail>制作評価Ｓを取った</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>制作評価Ａ</name>
+  <detail>制作評価Ａを取った</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>制作評価Ｂ</name>
+  <detail>制作評価Ｂを取った</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>制作評価Ｃ</name>
+  <detail>制作評価Ｃを取った</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>制作評価Ｄ</name>
+  <detail>制作評価Ｄを取った</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>パーフェクトプログラム</name>
+  <detail>プログラムディレクションを完璧にこなした</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>第二話解除</name>
+  <detail>第二話がプレイ可能になった</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>第三話解除</name>
+  <detail>第三話がプレイ可能になった</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>第四話解除</name>
+  <detail>第四話がプレイ可能になった</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>第五話解除</name>
+  <detail>第五話がプレイ可能になった</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>第六話解除</name>
+  <detail>第六話がプレイ可能になった</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>最終話解除</name>
+  <detail>最終話がプレイ可能になった</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>ノーマルエンド到達</name>
+  <detail>ノーマルエンドを見た</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>バッドエンド知華到達</name>
+  <detail>バッドエンド知華を見た</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>バッドエンド隔離到達</name>
+  <detail>バッドエンド隔離を見た</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>バッドエンド見限り到達</name>
+  <detail>バッドエンド見限りを見た</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>ヒダゴーン好き</name>
+  <detail>マテリアルチェックでヒダゴーンを選択</detail>
+ </trophy>
+</trophyconf>

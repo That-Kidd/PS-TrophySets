@@ -1,0 +1,52 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000016d049560d854db8262adc946d0b5e100306840b800a2a00acf709ef3a283642dbccc86a9bd7b6f4fa12e01d489d66d470a47789275c7b3e4c5751305fc9fa4263a75a85f41301b39002e6d099b677e1043b3685304f058bea9e87e0ffa13dcbc96afd00fc10d0830ef8a731d7d33ac54323e11fbf8c819f7772f84eee6b76477dfcc32ae525a4489b876dce9751662cf8abbf37-->
+<trophyconf version="1.1" platform="psp2" policy="freemium">
+ <npcommid>NPWR07652_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Desert Ashes</title-name>
+ <title-detail>The Core Trophies of Desert Ashes</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Multi-Kill</name>
+  <detail>Destroy 3 units in one turn.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Ultra-Kill</name>
+  <detail>Destroy 4 units in one turn.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Mega-Kill</name>
+  <detail>Destroy 5 units in one turn.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Rookie Trains</name>
+  <detail>Complete the Winged Uprising episode.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Full Frontal Assault</name>
+  <detail>Complete the Winged Assault episode.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Revenge Served</name>
+  <detail>Complete the Landian Strikeback episode.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Human Intelligence</name>
+  <detail>Beat the AI in a skirmish match.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Online Participation</name>
+  <detail>Played an online match.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Online Victory</name>
+  <detail>Win an online match.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>Battlefield Leader</name>
+  <detail>Win 5 online matches.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>Ding!</name>
+  <detail>Level-Up in multiplayer stats.</detail>
+ </trophy>
+</trophyconf>

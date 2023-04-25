@@ -1,0 +1,60 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000b2c7cebdf772def1950fc5322552467f98d1e5128177cf18c10e330e213a384fc4fe423e995d8f04fc89db8eed422926c7a2db50a9d50c46aae289667b6b56ec2e96785bbb8311de1659d8a953e8b78593fbeb31586137a4bce0b4acca5c4f724b028739213bc3810474d3ba9c9efb190919b30d92973445124a7f13410c2c69885980c404c26e2e3c95e303e4117e55c1e10274-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR04612_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Limbo</title-name>
+ <title-detail>Trophy Set for Limbo</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Wrong Way</name>
+  <detail>That's not right</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Altitude is Attitude</name>
+  <detail>Exploration off the ground</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>It's Stuck</name>
+  <detail>Prepare a dry landing</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Urban Exploration</name>
+  <detail>Involves heavy lifting</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Alone in the Dark</name>
+  <detail>Beneath the arthropod</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Climbing the Cog</name>
+  <detail>Don't pull the lever just because you can</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Backtracking</name>
+  <detail>Ride the crates</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Guided by Sparks</name>
+  <detail>The crate is key</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Under Ground</name>
+  <detail>Vertical passageway</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="-1">
+  <name>Going Up</name>
+  <detail>Don't let gravity keep you down</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="-1">
+  <name>Where Credit is Due</name>
+  <detail>Perseverance has its own reward</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="-1">
+  <name>No Point in Dying</name>
+  <detail>Complete the game in one sitting with five or less deaths</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="G" pid="-1">
+  <name>DING!</name>
+  <detail>Running off will get you nowhere</detail>
+ </trophy>
+</trophyconf>

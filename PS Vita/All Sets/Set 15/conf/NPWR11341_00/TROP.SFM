@@ -1,0 +1,124 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000e5f1751a590c13efe821c107f53c0a0c5bab85bc18aee4a10d99e39dfa376bdb1b6e3b71bcb204c5693252d9a871122eadd762603591bcc66d10a63342f8ac8fa4bd620f24a529a8ab88dc1d7bd074e012f52728172ae7e753c4883a40088507178d349beab016a4bc76fe513748bb99ed42335661464527b82b7d9219ccdee16b1780647ae95afb7443fe290730884d20b99f51-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR11341_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Starry☆Sky～Autumn Stories～</title-name>
+ <title-detail>Starry☆Sky～Autumn Stories～のトロフィーセットです</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>秋の星座を繋いで</name>
+  <detail>全てのトロフィーを獲得した</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>胸の痛み、零れた滴。</name>
+  <detail>in 水嶋失恋エンドをクリアした</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>叶うならば、もう一度</name>
+  <detail>in 陽日失恋エンドをクリアした</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>「さようなら」</name>
+  <detail>in 星月失恋エンドをクリアした</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>暮れゆく秋空</name>
+  <detail>in ノーマルエンドをクリアした</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>懐かしい場所のように</name>
+  <detail>After・After Story水嶋ノーマルエンドをクリアした</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>夢のために</name>
+  <detail>After・After Story陽日ノーマルエンドをクリアした</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>もっと知りたい</name>
+  <detail>After・After Story星月ノーマルエンドをクリアした</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>学園での思い出</name>
+  <detail>in 共通のスチルを全部オープンした</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>学園で見上げた夜空</name>
+  <detail>in 全ての回想を開いた</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>遮られることのない感情</name>
+  <detail>After 全ての回想を開いた</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>水嶋との思い出</name>
+  <detail>in 水嶋のスチルを全部オープンした</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>陽日との思い出</name>
+  <detail>in 陽日のスチルを全部オープンした</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>星月との思い出</name>
+  <detail>in 星月のスチルを全部オープンした</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>水嶋とのアルバム</name>
+  <detail>After 水嶋のスチルを全部オープンした</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>陽日とのアルバム</name>
+  <detail>After 陽日のスチルを全部オープンした</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>星月とのアルバム</name>
+  <detail>After 星月のスチルを全部オープンした</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>ずるいひと</name>
+  <detail>in 水嶋恋愛エンドをクリアした</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>初恋</name>
+  <detail>in 陽日恋愛エンドをクリアした</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="000">
+  <name>ずっと傍に</name>
+  <detail>in 星月恋愛エンドをクリアした</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>幸せの涙</name>
+  <detail>After・After Story水嶋グッドエンドをクリアした</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>強さをくれる人</name>
+  <detail>After・After Story陽日グッドエンドをクリアした</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>きみと生きる</name>
+  <detail>After・After Story星月グッドエンドをクリアした</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="G" pid="000">
+  <name>始まりの日</name>
+  <detail>in 水嶋愛情エンドをクリアした</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="G" pid="000">
+  <name>愛を叫ぶ時</name>
+  <detail>in 陽日愛情エンドをクリアした</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="G" pid="000">
+  <name>ふたりの速さで</name>
+  <detail>in 星月愛情エンドをクリアした</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="G" pid="000">
+  <name>幸せへの導き</name>
+  <detail>After・After Story水嶋ベストエンドクリアした</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="G" pid="000">
+  <name>笑顔に囲まれて</name>
+  <detail>After・After Story陽日ベストエンドクリアした</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="G" pid="000">
+  <name>秘密の時間</name>
+  <detail>After・After Story星月ベストエンドクリアした</detail>
+ </trophy>
+</trophyconf>

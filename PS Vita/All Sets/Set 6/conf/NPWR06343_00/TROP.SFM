@@ -1,0 +1,56 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000b163c98c0945b256aef25e480b350de9e822147a828f9264afa374bb3eff82e9b7e8304e127da0cef0355e36668dfa8c5c8877bd7bd97812b158aa3ab524c401233d07d7955bd94a116a8aa01cd91a087993f513194100fdb02c737a45abc099fdaecd8d68e9603d69cda8d58839f7711bf5c3558df6da0af5befca3a1f8eb6d5eaec5dfb16a522f2d59895e9a488dce88c9de6b-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR06343_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Doodle Kingdom</title-name>
+ <title-detail>Troféu definido para "Doodle Kingdom"</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Aventureiro </name>
+  <detail>3 Conclua a quest</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Criador </name>
+  <detail>Faça todos os elementos do jogo do mundo</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Missão completa! </name>
+  <detail>Completar uma missão</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Senhor de magias </name>
+  <detail>Invente todos os feitiços</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Bestiário </name>
+  <detail>Criar todas as criaturas mágicas</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Senhor da tempestade</name>
+  <detail>Criar todos os elementos naturais</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Residente cidade </name>
+  <detail>Crie todas as três cidades</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="-1">
+  <name>Sábio </name>
+  <detail>Criar três novos elementos em uma fileira</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="-1">
+  <name>The Bounty Hunter </name>
+  <detail>Matar 300 monstros no meu modo de herói</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="-1">
+  <name>The Witcher </name>
+  <detail>Mate 30 chefes no meu modo de herói</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="-1">
+  <name>Treasure Hunter </name>
+  <detail>Colete 500 baús modo o meu herói</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="-1">
+  <name>Marathon Man</name>
+  <detail>Obter mais de 20.000 metros de meu modo de herói</detail>
+ </trophy>
+</trophyconf>

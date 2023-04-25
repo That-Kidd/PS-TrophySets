@@ -1,0 +1,204 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000058b1d9ec3a141ee0f05ef7386aaacb7ec60e1461b090f461e9fc20be7d050b4d7f3d485f2e9bf6ca3731196aaf1b3da82150f1c278ce4f17bec05a5b49418d08da32c833f88184e0e550977cf57db059bd0318f4b213e89351f4032500a29ebebfa4571bd38f92e1b227b43cf2fa84823b4ca244bf0cecb3b7dab574550d0f5dcac6a43847fd51baf08851443b0b552b87c6154-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR21365_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Kawaii Deathu Desu</title-name>
+ <title-detail>Achievements for Kawaii Deathu Desu, a fast paced beat'em up about supernatural idols.</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Platinum Idol</name>
+  <detail>Collect all other trophies.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Kawaii! </name>
+  <detail>Get 20 fans souls in one match</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>I'm Only A Fan</name>
+  <detail>Survive 5 Shows</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>365 Indies</name>
+  <detail>Get 365 Scores in the First Show</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>Death is Winged</name>
+  <detail>Finish all Shows</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>Kawaii Music</name>
+  <detail>Unlocked and listened to all music in KDD</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>Tour Complete</name>
+  <detail>Unlock all Shows</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>Stylist</name>
+  <detail>Unlock 9 Idol Skins</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>Kawai Deathuuuu</name>
+  <detail>Collect 800+ souls in one show</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>Skull Collector I</name>
+  <detail>Get 3500 souls with Death-chan</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>Skull Collector II</name>
+  <detail>Get 7000 souls with Death-chan</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>Skull Collector III</name>
+  <detail>Get 11000 souls with Death-chan</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>Death! The throne is mine!</name>
+  <detail>Reach the maximum level with Death-chan</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>Let's Get Brains!</name>
+  <detail>Unlock Emmy</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>Brain Collector I</name>
+  <detail>Get 3500 souls with Emmy</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>Brain Collector II</name>
+  <detail>Get 7000 souls with Emmy</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>Brain Collector III</name>
+  <detail>Get 11000 souls with Emmy</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>Take Care With Your Legs, Weebs!</name>
+  <detail>Get 3500 souls using Emmy's skill</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>Comeback from Dead!</name>
+  <detail>Reach the maximum level with Emmy</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Cute, hmm?</name>
+  <detail>Unlock Suu</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>Irresistible Lips</name>
+  <detail>Enchant 3500 fans with Suu's skill</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>Everyone Loves Me!</name>
+  <detail>Enchant 5000 fans with Suu's skill</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>Heart Collector I</name>
+  <detail>Get 3500 souls with Suu</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>Heart Collector II</name>
+  <detail>Get 7000 souls with Suu</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>Heart Collector III</name>
+  <detail>Get 11000 souls with Suu</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="S" pid="000">
+  <name>Kisses to You!</name>
+  <detail>Reach maximum level with Suu</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>Let's Heat Things Up in Here!</name>
+  <detail>Unlock Mary</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>Ashes Collector I</name>
+  <detail>Get 3500 souls with Mary</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>Ashes Collector II</name>
+  <detail>Get 7000 souls with Mary</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="S" pid="000">
+  <name>Ashes Collector III</name>
+  <detail>Get 11000 souls with Mary</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="S" pid="000">
+  <name>The True Flame Arrives!</name>
+  <detail>Reach maximum level with Mary</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>Weeb Ashes</name>
+  <detail>Burn 3500 fans with Mary's ski</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>The Princess of Blood</name>
+  <detail>Unlock Elysa </detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>Block Them All!</name>
+  <detail>Block 1500 fans with Elysa's security</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>Elysa's Security</name>
+  <detail>Punch 1500 fans with Elysa's security</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="S" pid="000">
+  <name>Nobody Passes!</name>
+  <detail>Punch 1500 fans with Elysa's big security</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>Tea Time!</name>
+  <detail>Use Elysa's big security skill 10 times</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>Blood Collector I</name>
+  <detail>Get 3500 souls with Elysa</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>Blood Collector II</name>
+  <detail>Get 7000 souls with Elysa</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="S" pid="000">
+  <name>Blood Collector III</name>
+  <detail>Get 11000 souls with Elysa</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="S" pid="000">
+  <name>I'm Queen Now, Death-chan!</name>
+  <detail>Reach maximum level with Elysa</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="B" pid="000">
+  <name>A New Body</name>
+  <detail>Unlock Abigail</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="B" pid="000">
+  <name>The Evil Brooch in My Hair</name>
+  <detail>Get 5000 souls with Abigail's Skill</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="B" pid="000">
+  <name>Souls Collector I</name>
+  <detail>Get 3500 souls with Abigail</detail>
+ </trophy>
+ <trophy id="044" hidden="no" ttype="B" pid="000">
+  <name>Souls Collector II</name>
+  <detail>Get 7000 souls with Abigail</detail>
+ </trophy>
+ <trophy id="045" hidden="no" ttype="S" pid="000">
+  <name>Souls Collector III</name>
+  <detail>Get 11000 souls with Abigail</detail>
+ </trophy>
+ <trophy id="046" hidden="no" ttype="B" pid="000">
+  <name>Hungry Puppies</name>
+  <detail>Invoke the trio of Abigail's puppies 5 times</detail>
+ </trophy>
+ <trophy id="047" hidden="no" ttype="B" pid="000">
+  <name>Slowdown, Weebs!</name>
+  <detail>Use Abigails's cat skill 10 times</detail>
+ </trophy>
+ <trophy id="048" hidden="no" ttype="S" pid="000">
+  <name>My Body</name>
+  <detail>Reach the maximum level with Abigail</detail>
+ </trophy>
+</trophyconf>

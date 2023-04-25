@@ -1,0 +1,104 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000f8abde4f56a6b5fe6f3f1fa6ac5a2d83cd31acd73cea1b6673026b1a564a3649f3146818c11b0194daa93f25f401e4524c136c9ee5b1d9fd5c4fb021a1497d4f1697dc9c8bc91b476959583366491d29c065912ffebbf57f1df8b52a29e7eb49ccb4daedd2e9434b5159dc7ca57f34bf103b241e0664eafd4bb6be307b1e250de1b958833e1b9b02073ae47d3d5e79c8a65dfc80-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR09673_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>キスアト</title-name>
+ <title-detail>『キスアト』トロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>コンプリート</name>
+  <detail>『キスアト』を全てプレイしていただき、ありがとうございました。</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>CG達成率10%</name>
+  <detail>イベントCGを10%見ました。</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>CG達成率20%</name>
+  <detail>イベントCGを20%見ました。</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>CG達成率30%</name>
+  <detail>イベントCGを30%見ました。</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>CG達成率40%</name>
+  <detail>イベントCGを40%見ました。</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>CG達成率50%</name>
+  <detail>イベントCGを50%見ました。</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>CG達成率60%</name>
+  <detail>イベントCGを60%見ました。</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>CG達成率70%</name>
+  <detail>イベントCGを70%見ました。</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>CG達成率80%</name>
+  <detail>イベントCGを80%見ました。</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>CG達成率90%</name>
+  <detail>イベントCGを90%見ました。</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>CG達成率100%</name>
+  <detail>イベントCGを全て見ました。</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>Act.01終了</name>
+  <detail>「Act.01」が終了しました。</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>Act.02終了</name>
+  <detail>「Act.02」が終了しました。</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>Act.03終了</name>
+  <detail>「Act.03」が終了しました。</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>星見月夜開始</name>
+  <detail>『星見月夜』ルートに入りました。</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="S" pid="000">
+  <name>棗梓開始</name>
+  <detail>『棗梓』ルートに入りました。</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="S" pid="000">
+  <name>小鳥遊まどか開始</name>
+  <detail>『小鳥遊まどか』ルートに入りました。</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="S" pid="000">
+  <name>藍川有紗開始</name>
+  <detail>『藍川有紗』ルートに入りました。</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="S" pid="000">
+  <name>狩野ひじり開始</name>
+  <detail>『狩野ひじり』ルートに入りました。</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="G" pid="000">
+  <name>星見月夜終了</name>
+  <detail>『星見月夜』ルートが終了しました。</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="G" pid="000">
+  <name>棗梓終了</name>
+  <detail>『棗梓』ルートが終了しました。</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="G" pid="000">
+  <name>小鳥遊まどか終了</name>
+  <detail>『小鳥遊まどか』ルートが終了しました。</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="G" pid="000">
+  <name>藍川有紗終了</name>
+  <detail>『藍川有紗』ルートが終了しました。</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="G" pid="000">
+  <name>狩野ひじり終了</name>
+  <detail>『狩野ひじり』ルートが終了しました。</detail>
+ </trophy>
+</trophyconf>

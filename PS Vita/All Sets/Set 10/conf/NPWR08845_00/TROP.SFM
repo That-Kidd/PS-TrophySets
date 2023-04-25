@@ -1,0 +1,56 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000096ef3240fc16258d6126f9a9bc03eaca47f1203e5b21b6ffe84023f895ceaa4a38b97069cdcb71b9aecfb30eec2a2801883b6b3dfce96bb57e529d80b2e8e2b397f4b7b618b423b9f54152acc7ccade53c82a67561500f656c41de8778e985a9e0bb292edf0a0bb8b84b1c9eb8196e126f9d1685c9fd347875ed1e78a533c4a42cc2bb25a42401b1074130fded16bcb588b79a0d-->
+<trophyconf version="1.1" platform="ps3,psp2,ps4" policy="small">
+ <npcommid>NPWR08845_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Nova-111</title-name>
+ <title-detail>Nova-111</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Enemy infighting</name>
+  <detail>Kill an enemy with infighting </detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Bomb Diggity</name>
+  <detail>Bomb enemy kills multiple enemies</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Time for Science!</name>
+  <detail>Play the game at 1:11am</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Brojectile</name>
+  <detail>Push enemy into projectile when time is stopped</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>To the Point</name>
+  <detail>Use spikes to kill five enemies in one stage.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Laser Master 3000</name>
+  <detail>Hit two enemies with your laser twice in a row</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Speed Racer</name>
+  <detail>Phase 20 times in 1 minute</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="-1">
+  <name>Immortal Technique</name>
+  <detail>Beat game without taking damage</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="-1">
+  <name>Wall Grinder</name>
+  <detail>Bump 1000 walls</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="-1">
+  <name>Treasure Hunter</name>
+  <detail>Find all secrets in the game</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="-1">
+  <name>Science, Yo!</name>
+  <detail>Rescue all 111 scientists</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="-1">
+  <name>Stop, Hammer Time</name>
+  <detail>Spend half-an-hour in time-stop</detail>
+ </trophy>
+</trophyconf>

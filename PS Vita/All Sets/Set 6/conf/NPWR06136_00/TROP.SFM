@@ -1,0 +1,88 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000530ab8d99abec8e2efa493ef78b6f41d80e58fde6814048cddd78c43b6cf0c74b9c75944bb9e75ac7572dabb141f930305a3f6837354b7e4c65f13721d9250b369394bc2a23e29055340c7483d0000b6310dbe877ef9b312c5d15c7e760758d1216f97fb9224a7ceb29d8696bbdb8ef279176a809384e73726458d77451a62158a449ce71912c27dd481cf3413044730ad4cc2f4-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR06136_00</npcommid>
+ <trophyset-version>01.02</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Gravity Crash™ ULTRA</title-name>
+ <title-detail>The Gravity Crash™ ULTRA main game trophies</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>8 Bits of Destruction</name>
+  <detail>Kill 255 gun or missile turrets</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="-1">
+  <name>Feeble Humans!</name>
+  <detail>Rescue 50 stranded crewmen</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Obsolete Technology</name>
+  <detail>Defeat any boss</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Power Saving Mode</name>
+  <detail>Complete 'Norova' level without refuelling or dying</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Exception Handler</name>
+  <detail>Refuel your ship after the fuel depleted warning message is displayed</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Passive Resistor</name>
+  <detail>Complete 'Vectora' level without firing a single shot</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="-1">
+  <name>Out-smarted</name>
+  <detail>Let a homing missile chase you until it runs out of fuel</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Data Miner</name>
+  <detail>Unlock any secret level</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Hyperlink</name>
+  <detail>Activate every node in the game, including those in secret levels</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>Shiny Trinkets</name>
+  <detail>Collect a total of 10 purple gems across different levels</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>I Made This!</name>
+  <detail>Create and publish a level then have it rated by 5 users</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="-1">
+  <name>Within Acceptable Parameters</name>
+  <detail>In manual shield mode, save yourself with only 5% of the shield remaining</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="-1">
+  <name>Guidance Software Approved</name>
+  <detail>Complete all training lessons</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="-1">
+  <name>System Analyst</name>
+  <detail>Find 5 user created levels you like, and rate the creators</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="-1">
+  <name>00101010</name>
+  <detail>Collect all artifact pieces</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="-1">
+  <name>Cache Hit</name>
+  <detail>Find all gems in every level</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="-1">
+  <name>Overclocked</name>
+  <detail>Beat the recommended time on 10 levels</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="-1">
+  <name>Retro Fitted</name>
+  <detail>Have rear, side and 3-way fire simultaneously</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="-1">
+  <name>Mega Points</name>
+  <detail>Gain a score of 1,048,576</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="-1">
+  <name>End-Of-File</name>
+  <detail>Finish the single player campaign game</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,52 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000eb92d7e14914b2acc9b640942f97289f8d441c485690eeb89485044f6e6953aa10688d883230216c52be3d76eab3c9825a7146816de695300e73043dd0c0e972a072a3edd60130d9e937a729b1a759c246446db53112675b5de1bb303d005ca8e79b935735354d38e9e0367940614e30af1e53ffd670a129233d7800fe806641ad882746adbae1a3e251d4998ccebccea7da0902-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR08377_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Bloxiq Trophies</title-name>
+ <title-detail>Basic Trophy set for Bloxiq</title-detail>
+ <trophy id="000" hidden="no" ttype="G" pid="-1">
+  <name>Journey's End</name>
+  <detail>Finish Game</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>And Now You Know</name>
+  <detail>Finish Tutorial World</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>End of the Beginning</name>
+  <detail>Finish World 2</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Break Free</name>
+  <detail>Finish World 3</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>The Final Countdown</name>
+  <detail>Finish World 4</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>What's in the Box?</name>
+  <detail>Finish World 5</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Give and Take</name>
+  <detail>Finish World 6</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="-1">
+  <name>Set 'em Up, Knock 'em Down</name>
+  <detail>Clear 12 or more cubes in a single match (single move, no chaining)</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="-1">
+  <name>In Sync</name>
+  <detail>Create 100 MultiMatches</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="-1">
+  <name>I've Fallen</name>
+  <detail>Create 10 Chains in a single move</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="-1">
+  <name>Cube Master</name>
+  <detail>Match a total of 15,000 cubes</detail>
+ </trophy>
+</trophyconf>

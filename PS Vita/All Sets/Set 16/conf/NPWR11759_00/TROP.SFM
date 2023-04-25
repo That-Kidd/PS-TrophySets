@@ -1,0 +1,120 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000009c5cdfb263d2f7d5a529d417df497ccdef3ee98d7993dce0134e9a9fbc787467ee6e4388e3c4e9637c41b67f6c6412e85dbe6e1b7d8ccc300923b8ccc4acc02a557ccfbb34a37a6ef3fcf023c404e3fc47a4d508ce5e260d9c3ab1d9f8a2aa912c25363a44619dd9dbff42e4cb89af4e2e45b5ba201737169f65478767b161aed84fd4f61b85f6209bad00795f2ab49a9aa06325-->
+<trophyconf version="1.1" platform="ps3,psp2,ps4" policy="large">
+ <npcommid>NPWR11759_00</npcommid>
+ <trophyset-version>01.02</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>STEINS;GATE 0</title-name>
+ <title-detail>The Steins;Gate 0 Trophy Set.</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>To the Promised Place</name>
+  <detail>100% Completed Steins;Gate 0.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Open the NewGate</name>
+  <detail>Began Steins;Gate 0.</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="S" pid="000">
+  <name>Missing Link</name>
+  <detail>Cleared “Missing Link”.</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="S" pid="000">
+  <name>Closed Epigraph</name>
+  <detail>Cleared “Closed Epigraph”.</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="S" pid="000">
+  <name>A Stray Sheep</name>
+  <detail>Cleared “A Stray Sheep”.</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="S" pid="000">
+  <name>The Orbital Eclipse</name>
+  <detail>Cleared “The Orbital Eclipse”.</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="000">
+  <name>Antinomic Dual</name>
+  <detail>Cleared “Anitomic Dual”.</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="G" pid="000">
+  <name>Promised Rinascimento</name>
+  <detail>Cleared “Promised Rinascimento”.</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>X-Day Protocol</name>
+  <detail>Cleared “X-Day Protocol”.</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>Pandora's Box</name>
+  <detail>Cleared “Pandora's Box”.</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>Presage or Recognize</name>
+  <detail>Cleared “Presage or Recognize”.</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="G" pid="000">
+  <name>Vega and Altair</name>
+  <detail>Cleared “Vega and Altair”.</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>Gehenna's Stigma.</name>
+  <detail>Cleared “Gehenna's Stigma”.</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>Twin Automata</name>
+  <detail>Cleared “Twin Automata”.</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>Recursive Mother Goose</name>
+  <detail>Cleared “Recursive Mother Goose”.</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="G" pid="000">
+  <name>Milky-way Crossing</name>
+  <detail>Cleared “Milky-way Crossing”.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Those Who Seek History</name>
+  <detail>Opened Clear List.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Those Who Seek Art</name>
+  <detail>Opened CG Library.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>Those Who Seek Sound</name>
+  <detail>Opened Sound Library.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Those Who Seek Movement</name>
+  <detail>Opened Movie Library.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>Metis, Studying That Which Lies Beneath</name>
+  <detail>Opened TIPS List.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>25% CG Unlocked</name>
+  <detail>Saw 25% of CG.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>50% CG Unlocked</name>
+  <detail>Saw 50% of CG.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>75% CG Unlocked</name>
+  <detail>Saw 75% of CG.</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="G" pid="000">
+  <name>100% CG Unlocked</name>
+  <detail>Saw all CG.</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="G" pid="000">
+  <name>Enki the All-Knowing</name>
+  <detail>Saw all TIPS.</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>Resonating Reaction Renvoir</name>
+  <detail>Answered a message from someone.</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>Message of Oblivion Renvoir</name>
+  <detail>Read and ignored a message.</detail>
+ </trophy>
+</trophyconf>

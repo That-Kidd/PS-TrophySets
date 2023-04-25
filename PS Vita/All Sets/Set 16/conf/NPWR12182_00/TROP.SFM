@@ -1,0 +1,144 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000b21c488365c27403f0e6ee55953a183195007e1127ca659eea37ecd009d5bd64b988c140f7e42995060102edf367e650e983bc1599f4e3922008f2206438120ed50029d98a2de991506ebcf83e27ea71109970fb7ff399cee6bd4601b8111c250fc77ce2dd5579b5c275c22369448db3c1ac55b19a45a33cac968b2a6773127546c97a624e3b9cf7b309233a2ea30bf1bbc6fcd1-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR12182_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Period Cube ~Shackles of Amadeus~</title-name>
+ <title-detail>Period Cube ~Shackles of Amadeus~</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Arcadia Master!</name>
+  <detail>Obtained all Trophies.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Awakening into the Game World</name>
+  <detail>Cleared the Prologue.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>The Adventure Begins</name>
+  <detail>Cleared Chapter 1.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>First Battle</name>
+  <detail>Made a selection in battle for the first time.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>Feelings Come Together</name>
+  <detail>Affection increased for the first time.</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>Number One in Your Life</name>
+  <detail>Experienced the Happy Ending with Hiroya.</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>It's All Your Fault</name>
+  <detail>Experienced the Happy Ending with Radius.</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>I Want to Know</name>
+  <detail>Experienced the Happy Ending with Libera.</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>You're My Girlfriend!</name>
+  <detail>Experienced the Happy Ending with Astrum.</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="000">
+  <name>We're Both the Same</name>
+  <detail>Experienced the Happy Ending with Zain.</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="000">
+  <name>Don't Hold Back</name>
+  <detail>Experienced the Happy Ending with Poyo-poyo.</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>Mixed Feelings</name>
+  <detail>Experienced the Happy Ending with Demento.</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="B" pid="000">
+  <name>Sweet Curse</name>
+  <detail>Experienced the Merry Bad Ending with Hiroya.</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="000">
+  <name>Endless Paradise</name>
+  <detail>Experienced the Merry Bad Ending with Radius.</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="B" pid="000">
+  <name>Never-Ending Dream</name>
+  <detail>Experienced the Merry Bad Ending with Libera.</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>Eternal Love</name>
+  <detail>Experienced the Merry Bad Ending with Astrum.</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>Peaceful Days</name>
+  <detail>Experienced the Merry Bad Ending with Zain.</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>Perfect World</name>
+  <detail>Experienced the Merry Bad Ending with Poyo-poyo.</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>Truly Alive</name>
+  <detail>Experienced the Merry Bad Ending with Demento.</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="S" pid="000">
+  <name>Hiroya, Complete!</name>
+  <detail>Viewed all of Hiroya's CGs.</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="S" pid="000">
+  <name>Radius, Complete!</name>
+  <detail>Viewed all of Radius's CGs.</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="S" pid="000">
+  <name>Libera, Complete!</name>
+  <detail>Viewed all of Libera's CGs.</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="S" pid="000">
+  <name>Astrum, Complete!</name>
+  <detail>Viewed all of Astrum's CGs.</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="S" pid="000">
+  <name>Zain, Complete!</name>
+  <detail>Viewed all of Zain's CGs.</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="S" pid="000">
+  <name>Poyo-poyo, Complete!</name>
+  <detail>Viewed all of Poyo-poyo's CGs.</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="S" pid="000">
+  <name>Demento, Complete!</name>
+  <detail>Viewed all of Demento's CGs.</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="S" pid="000">
+  <name>Others, Complete!</name>
+  <detail>Viewed all other CGs.</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="S" pid="000">
+  <name>Where Happiness Resides</name>
+  <detail>Experienced every Happy Ending.</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="S" pid="000">
+  <name>Beautiful Nightmares</name>
+  <detail>Experienced every Merry Bad Ending.</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="G" pid="000">
+  <name>The Truth Within Our Hearts</name>
+  <detail>Experienced every ending.</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="G" pid="000">
+  <name>Etched Memories</name>
+  <detail>Viewed everyone's CGs.</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="G" pid="000">
+  <name>Eternal Days</name>
+  <detail>Viewed all stories from His Perspective.</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="G" pid="000">
+  <name>Archive of Wisdom</name>
+  <detail>Viewed all content in the Dictionary.</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="G" pid="000">
+  <name>The Proof of Our Existence</name>
+  <detail>Viewed all CGs in the Album.</detail>
+ </trophy>
+</trophyconf>

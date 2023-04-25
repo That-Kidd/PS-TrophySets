@@ -1,0 +1,136 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000016ad11e1c2f99e8d46c2ce0ba6824d9389514d5c65c0d1086cb8af78bf9278734e6c850197fc7557b7b1715373ab8ebb1691e02bc8ee458696c1c367395f1208269436dbae5c8b31337bc95b229f2429bb63eed2b127b584e2b436768402d610e8b6fc88d45e4d5ffd2b2f5b03aa589d7155a34f8c795d9d14d44fcfd9b641d7f5ae19d91d765f8bc70aaebf47b2b0bc09db5bcc-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR12327_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>God Wars ~시대를 넘어~</title-name>
+ <title-detail>God Wars ~시대를 넘어~ 트로피입니다</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>신화를 이야기하는 자</name>
+  <detail>모든 트로피를 획득한다</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>신들과의 조정자</name>
+  <detail>4권을 클리어한다</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>미즈호를 지키는 자</name>
+  <detail>모든 의뢰를 클리어한다</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>태평의 첫걸음</name>
+  <detail>의뢰를 처음 클리어한다</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>황천의 귀환자</name>
+  <detail>3권을 클리어한다</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>신의를 이끄는 자</name>
+  <detail>처음으로 신의를 발동한다</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>기술을 추구하는 자</name>
+  <detail>모든 스킬Lv을 최대로 만든다</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>기술을 아는 자</name>
+  <detail>모든 스킬을 출현시킨다</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>지식 권유</name>
+  <detail>처음으로 스킬Lv을 올린다</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="000">
+  <name>야사카니 곡옥</name>
+  <detail>2권을 클리어한다</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>비의 전도자</name>
+  <detail>처음으로 비의를 발동한다</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>황천을 방문한 자</name>
+  <detail>1권을 클리어한다</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>생업을 추구하는 자</name>
+  <detail>모든 직업Lv을 최대로 만든다</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>오의 개안</name>
+  <detail>처음으로 오의를 발동한다</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="000">
+  <name>탐색을 추구하는 자</name>
+  <detail>묻혀 있는 모든 보석을 입수한다</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>탐색에 익숙한 자</name>
+  <detail>묻혀 있는 보석을 30개 입수한다</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>발견하는 자</name>
+  <detail>묻혀 있는 보석을 처음으로 입수한다</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="G" pid="000">
+  <name>싸움을 추구하는 자</name>
+  <detail>모든 동료의 Lv을 최대로 만든다</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>호기심이 넘치는 자</name>
+  <detail>궤짝 안의 물건을 전부 입수한다</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>눈치가 빠른 자</name>
+  <detail>궤짝 안의 물건을 처음 입수한다</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>장비를 모은 자</name>
+  <detail>모든 장비를 모은다</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>장비를 추구하는 자</name>
+  <detail>장비를 100종류 모은다</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>만물상에 어서 오세요</name>
+  <detail>물건을 처음 산다</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>생업을 아는 자</name>
+  <detail>모든 직업을 출현시킨다</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>백만엽을 모은 자</name>
+  <detail>1000000엽을 모은다</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>십만엽을 모은 자</name>
+  <detail>100000엽을 모은다</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="S" pid="000">
+  <name>경건한 자</name>
+  <detail>신사Lv을 최대로 만든다</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>신을 섬기는 자</name>
+  <detail>신사Lv을 올린다</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>제사를 지내는 자</name>
+  <detail>봉납을 처음 한다</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="S" pid="000">
+  <name>태평을 추구하는 자</name>
+  <detail>의뢰를 30개 클리어한다</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>바람을 이루는 자</name>
+  <detail>의뢰를 10개 클리어한다</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>민초의 청원</name>
+  <detail>의뢰를 처음 받는다</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,80 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000001ea3ead9b6adb8f9160e04761bcd55ae24885d1080828b666734a54c6b3b98fa2bd9220dbc1b76afbf05d54ce09bebdf9b020711e8d543ae714ee7319b13b7e23b2e0da241cefeaab3f7aa1a7b6cea77ea0b29e403057638af9e6668432d5eb179ed873e9402f12801f39c54e72e55f0caf2925a346dd23b0e14cb44aad5e65a6dc2425de33ea87764741913a08e87254e634284-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR15572_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Riddled Corpses EX</title-name>
+ <title-detail>Riddled Corpses EX trophies</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Hardcore Gamer</name>
+  <detail>Unlock all trophies in Riddled Corpses EX</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>Story Stage 1</name>
+  <detail>Complete stage 1 in story mode</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>Story Stage 2</name>
+  <detail>Complete stage 2 in story mode</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>Story Stage 3</name>
+  <detail>Complete stage 3 in story mode</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>Story Stage 4</name>
+  <detail>Complete stage 4 in story mode</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>Story Stage 5</name>
+  <detail>Complete stage 5 in story mode</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>Story completed!</name>
+  <detail>Complete stage 6 in story mode</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>Arcade winner</name>
+  <detail>Complete arcade mode</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>Survivor</name>
+  <detail>Survive through 5 waves in survival mode</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>MK 1000 ready</name>
+  <detail>Unlock the MK 1000</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>Turrets ready</name>
+  <detail>Unlock the turrets</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>Full cast</name>
+  <detail>Unlock all the characters</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>All the way up</name>
+  <detail>Upgrade at least 4 characters to max level</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>I like them roasted</name>
+  <detail>Burn 100 enemies during the same run</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>Can you feel the tension?</name>
+  <detail>Electrify 30 enemies during the same run</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="G" pid="000">
+  <name>Nothing special</name>
+  <detail>Complete stage 4 in story mode without using any special item</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>First death</name>
+  <detail>Die in any mode</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="G" pid="000">
+  <name>Collector</name>
+  <detail>Get at least one of each collectible item</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,164 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000000e95a7005de998201e31f0426e8e57bda27a22fc50e94edcef181557571647921d35bf2151a165f2e8ceaaceb81ec628518d14b102d9d23bb6fe0544495531feb1e30f338c3f18e4e56ec8127445091a325039e90fdce8eeb619f3c9c7ec810fdd1fb7d1d971e90e02e962bcf0e9a43a076c5f9e25835cd67f1a6f850184a1a36e19ac2f90278868a279b205e533830059f9f03e-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR09051_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>学園K -Wonderful School Days- V Edition</title-name>
+ <title-detail>学園K -Wonderful School Days- V Edition のトロフィーです</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>KINGS</name>
+  <detail>全てのトロフィーを獲得した</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>GALLERYコンプ</name>
+  <detail>GALLERYをコンプリートした</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>BGMコンプ</name>
+  <detail>BGMをコンプリートした</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>MEMOIRSコンプ</name>
+  <detail>MEMOIRSをコンプリートした</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>MOVIEコンプ</name>
+  <detail>MOVIEをコンプリートした</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>EXTRAシナリオコンプ</name>
+  <detail>EXTRAシナリオをコンプリートした</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>夜刀神狗朗CGコンプ</name>
+  <detail>GALLERYの夜刀神狗朗をコンプリートした</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>周防尊CGコンプ</name>
+  <detail>GALLERYの周防尊をコンプリートした</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>宗像礼司CGコンプ</name>
+  <detail>GALLERYの宗像礼司をコンプリートした</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>伏見猿比古CGコンプ</name>
+  <detail>GALLERYの伏見猿比古をコンプリートした</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>草薙出雲CGコンプ</name>
+  <detail>GALLERYの草薙出雲をコンプリートした</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>八田美咲CGコンプ</name>
+  <detail>GALLERYの八田美咲をコンプリートした</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>十束多々良CGコンプ</name>
+  <detail>GALLERYの十束多々良をコンプリートした</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>冬の山</name>
+  <detail>夜刀神狗朗ルート・BADエンドを見た</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>クロくんの一番になる</name>
+  <detail>夜刀神狗朗ルート・GOODエンドを見た</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>俺にはお前しか見えていない</name>
+  <detail>夜刀神狗朗ルート・BESTエンドを見た</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>もう先輩じゃねーだろ</name>
+  <detail>周防尊ルート・BADエンドを見た</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>赤部のみんなに出会えたから</name>
+  <detail>周防尊ルート・GOODエンドを見た</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>会いたければ会えばいい</name>
+  <detail>周防尊ルート・BESTエンドを見た</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>本気で好きだった</name>
+  <detail>宗像礼司ルート・BADエンドを見た</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>君は困った人ですね</name>
+  <detail>宗像礼司ルート・GOODエンドを見た</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>卒業しても君と一緒に</name>
+  <detail>宗像礼司ルート・BESTエンドを見た</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>絶対零度</name>
+  <detail>伏見猿比古ルート・BADエンドを見た</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>青部の副部長</name>
+  <detail>伏見猿比古ルート・GOODエンドを見た</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>やっかいなことにはなったな</name>
+  <detail>伏見猿比古ルート・BESTエンドを見た</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>俺の決意、買ったってや</name>
+  <detail>草薙出雲ルート・BADエンドを見た</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>素敵な未来</name>
+  <detail>草薙出雲ルート・GOODエンドを見た</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>左手の薬指の予約</name>
+  <detail>草薙出雲ルート・BESTエンドを見た</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>部長のおつとめ</name>
+  <detail>八田美咲ルート・BADエンドを見た</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>オマエは秘書だ！</name>
+  <detail>八田美咲ルート・GOODエンドを見た</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>大事なモンを守るため</name>
+  <detail>八田美咲ルート・BESTエンドを見た</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>バックパッカーはじめました</name>
+  <detail>十束多々良ルート・BADエンドを見た</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>卒業証書の行方</name>
+  <detail>十束多々良ルート・GOODエンドを見た</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>これからは目を離しません</name>
+  <detail>十束多々良ルート・BESTエンドを見た</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>とてもまぶしい存在</name>
+  <detail>青部エンドを見た</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>俺たちの日常</name>
+  <detail>赤部エンドを見た</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>素敵な部活</name>
+  <detail>女子部エンドを見た</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>楽しい空の旅へ</name>
+  <detail>伊佐那エンドを見た</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>改めてよろしくね</name>
+  <detail>鎌本エンドを見た</detail>
+ </trophy>
+</trophyconf>

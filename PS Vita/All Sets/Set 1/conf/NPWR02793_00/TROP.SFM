@@ -1,0 +1,68 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000002779f0861501f919e70e53138ee01c22d0ccc1689fbf7d2f5397d1fbe8839e2903ae1d09b0caeeaf64afb106e2048f2d25c33c249dd31c7bc6f413b0c3e50e12d566915af9481edba93a7281f122186d321216c6617fddf7802a6e12d57fecc374312060767dde840b9abaa1f151af952ec5e09a9ec86ef29e2772d48e00e1557abc618c3bd5d65012b3b9676156cbd8ce86239d-->
+<trophyconf version="1.1" platform="psp2">
+ <npcommid>NPWR02793_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>＠ｆｉｅｌｄ</title-name>
+ <title-detail>＠ｆｉｅｌｄ</title-detail>
+ <trophy id="000" hidden="no" ttype="G" pid="-1">
+  <name>その金何に使うの？</name>
+  <detail>全ミッションで金メダルを取った</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="-1">
+  <name>シルバーコレクター</name>
+  <detail>全レベルで銀メダル以上を取った</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>銅々めぐり？</name>
+  <detail>全レベルで銅メダル以上を取った</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="-1">
+  <name>＠ｆｉｅｌｄスター</name>
+  <detail>レベル１５をクリアした</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="-1">
+  <name>＠ｆｉｅｌｄランカー</name>
+  <detail>レベル１３をクリアした</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="-1">
+  <name>＠ｆｉｅｌｄプロ</name>
+  <detail>レベル１１をクリアした</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="-1">
+  <name>＠ｆｉｅｌｄセミプロ</name>
+  <detail>レベル９をクリアした</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="-1">
+  <name>＠ｆｉｅｌｄアマチュア</name>
+  <detail>レベル７をクリアした</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="-1">
+  <name>＠ｆｉｅｌｄプレイヤー</name>
+  <detail>レベル５をクリアした</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="-1">
+  <name>＠ｆｉｅｌｄビギナー</name>
+  <detail>レベル３をクリアした</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>＠ｆｉｅｌｄへようこそ</name>
+  <detail>レベル１をクリアした</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="-1">
+  <name>デュエルフィールドへ</name>
+  <detail>マルチプレイで勝利した</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="-1">
+  <name>奇跡の一打</name>
+  <detail>ホールインワンを取った</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="-1">
+  <name>オジャマトリョーシカの最後</name>
+  <detail>オジャマトリョーシカを壊した</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="-1">
+  <name>ファッションリーダー</name>
+  <detail>メガネ風船を割った</detail>
+ </trophy>
+</trophyconf>

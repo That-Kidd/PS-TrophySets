@@ -1,0 +1,56 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000bf64c89502f2325ac6e2353c4ac33e14dbe1873b7938ec4424ac8e93b4cc9192810c419c3215682ccf8f779b593b8cdf30ba87d53dc52115b3bccbefa95ebf1c6cce24f21342e2b0fdb3d8f8f57b59f8746a4266ab0cf738d32790efc5694945d99dd48ee8bcdedfafa37558d07060a779e8d7420a5e9ada48dd4f5a061b2fa5f3e2a900e04a57bee872212425172e5577828f61-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR05409_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Surge Deluxe</title-name>
+ <title-detail>Surge Deluxe</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Masterful!</name>
+  <detail>Create a chain of 15 blocks! Will not unlock in puzzle mode.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="-1">
+  <name>Tammett called...</name>
+  <detail>Create a chain of 20 blocks! Will not unlock in puzzle mode.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Clean Slate</name>
+  <detail>Clear all blocks! Will not unlock in puzzle mode.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="-1">
+  <name>Score!</name>
+  <detail>Get 5,000,000 points! Will not unlock in puzzle mode.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="-1">
+  <name>FuturLab Certified</name>
+  <detail>Get 12,000,000 points! Will not unlock in puzzle mode.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Grinder Man</name>
+  <detail>Explode 100,000 blocks! Will not unlock in puzzle mode.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Paint the Town</name>
+  <detail>Use the chain linker block to link two chains of 3 (or more) blocks! Will not unlock in puzzle mode.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Under Pressure</name>
+  <detail>Open 1,000 vents! Will not unlock in puzzle mode.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Boombastic</name>
+  <detail>Explode 10 blocks at the same time, using a bomb! Will not unlock in puzzle mode.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="-1">
+  <name>Math McGrath</name>
+  <detail>Use multiplier and combiner blocks to get a chain of x10 or more! Will not unlock in puzzle mode.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>C-C-Combo Maker!</name>
+  <detail>Use Combiner blocks to create a x9 multiplier! Will not unlock in puzzle mode.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="-1">
+  <name>Clear Winner</name>
+  <detail>Score over 1,000,000 points in a single level clearence! Will not unlock in puzzle mode.</detail>
+ </trophy>
+</trophyconf>

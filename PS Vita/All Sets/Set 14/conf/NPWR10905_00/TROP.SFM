@@ -1,0 +1,60 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000b64ebe95c72194c9772ad0a6f0038d08deb2a334c47d9fb0a52c9f9e137ec1742e47a45afc31453a77d6f4aad4847a50ca747a190bf20f8477a04f593aee4ff60fff92780092411cb09eaf40f7fc75b84cca095653beb813d42e31e5aaaf4563abc7be436268a1814bb01f55677ac5ed100aae259b73381e510d84a44e3d8c820fd6969a852304e5c85d6b57d1b87d986240ae80-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR10905_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Survivor Trophies</title-name>
+ <title-detail>Trophy Pack for the game Zombies: The Last Survivor</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Improving your weapon!!</name>
+  <detail>You've bought your first weapon upgrade</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>No zombie can defeat you</name>
+  <detail>You've bought your first HP upgrade</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>You are the fastest!!</name>
+  <detail>You've bought your first SP upgrade</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>As strong as a rock</name>
+  <detail>You've bought the fifth HP upgrade</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>As fast as a ray</name>
+  <detail>You've bought the fifth SP upgrade</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Level 4: Welcome!!</name>
+  <detail>You've survived to Level 3. Survive to the Level 4... if you can.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Level 8: Welcome!!</name>
+  <detail>You've survived to Level 7. Survive to the Level 8... if you can.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Level 12: Welcome!!</name>
+  <detail>You've survived to Level 11. Survive to the Level 12... if you can.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Level 16: Welcome!!</name>
+  <detail>You've survived to Level 15. Survive to the Level 16... if you can.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="-1">
+  <name>Gun Completed</name>
+  <detail>You've got all the Standard Gun upgrades</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="-1">
+  <name>Submachine Completed</name>
+  <detail>You've got all the Submachine upgrades</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="-1">
+  <name>Shotgun Completed</name>
+  <detail>You've got all the Shotgun upgrades</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="-1">
+  <name>You're the chosen!!</name>
+  <detail>You've got all Player Skills Upgrade!!</detail>
+ </trophy>
+</trophyconf>

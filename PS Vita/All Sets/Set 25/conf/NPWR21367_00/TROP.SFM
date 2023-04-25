@@ -1,0 +1,32 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000007b97045284e2c1cfc135e8d4cde584a88b3a835490fdb47e1c3d44194fb3507d492a45ac64349e65b9920a6093c53a9a965f3bacc113e08512a3b00a066c5954473d77fef48c2062706910e0c8f252078a1fdbdb927e21e7241ecbfdfdc3be505f3117bf2b41ed834ced49f96798135166f297db7fd145ba37f12c7e3dd662c6aca3a281d5ad5083ba85f8db7a7c8d57faaef766-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR21367_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Big Dipper</title-name>
+ <title-detail>Progress milestones throughout Big Dipper's story.</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Unexpected Meetings</name>
+  <detail>Meet an unexpected tenant.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="-1">
+  <name>Stargazing</name>
+  <detail>Find something interesting in the attic.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="-1">
+  <name>A Friendly Bear</name>
+  <detail>Meet a surprisingly friendly bear.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="-1">
+  <name>Shared Moments</name>
+  <detail>Share a heartwarming moment.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="-1">
+  <name>Spirit of the Forest</name>
+  <detail>Witness something magical.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="-1">
+  <name>Reunion</name>
+  <detail>Share a wonderful new year.</detail>
+ </trophy>
+</trophyconf>

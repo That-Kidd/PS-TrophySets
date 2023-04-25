@@ -1,0 +1,136 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000007f9b1274ff139ad2b41814e1cddd935f4b15e1ab0afdaaddb6b1a235e5e577bd45c6396bc9de865bb9377fdffcbeb4271eeb9febebf0ac29766bd453d7ad15b4d35c60b78916354495d4bddcb7c9d4a99ea00c8d1352e28e978529ab5e8f160d030ec9f4b290a054264280a3ed288b1fc2adf23fd136226bcc5ada6133aab083bec288a50539438cdfa4a9bc75486dda431a3026-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR05387_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Princess Arthur</title-name>
+ <title-detail>「Princess Arthur」トロフィーリスト</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>プリンセス・アーサー</name>
+  <detail>全てのトロフィーを獲得した</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>選定の儀</name>
+  <detail>序章をクリアした</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>王宮へ</name>
+  <detail>1章をクリアした</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>騎士達との生活</name>
+  <detail>2章をクリアした</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>少しは慣れた？</name>
+  <detail>3章をクリアした</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>円卓の誓い</name>
+  <detail>共通ルートをクリアした</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>私だけの……</name>
+  <detail>ランスロットルートでグッドエンドを迎えた</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>大好きだ！</name>
+  <detail>ガウェインルートでグッドエンドを迎えた</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>俺の前では女であれ</name>
+  <detail>トリスタンルートでグッドエンドを迎えた</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>二人で見る海</name>
+  <detail>ガラハッドルートでグッドエンドを迎えた</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>円卓のモードレッド</name>
+  <detail>モードレッドルートでグッドエンドを迎えた</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>グッドモーニング</name>
+  <detail>マーリンルートでグッドエンドを迎えた</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>幸せな結末</name>
+  <detail>すべてのグッドエンディングを見た</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="000">
+  <name>円卓を統べる王</name>
+  <detail>全てのエンディングを見た</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>嬉しいぞ</name>
+  <detail>ランスロットのギャラリーをすべてオープンした</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>サンキュー！</name>
+  <detail>ガウェインのギャラリーをすべてオープンした</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>ふむ、よくやった</name>
+  <detail>トリスタンのギャラリーをすべてオープンした</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>ぜ、全部見たんだ……</name>
+  <detail>ガラハッドのギャラリーをすべてオープンした</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>そんなに俺の事好き？</name>
+  <detail>モードレッドのギャラリーをすべてオープンした</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="000">
+  <name>マーリンの虜、なんてね</name>
+  <detail>マーリンのギャラリーをすべてオープンした</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>聖剣の記録</name>
+  <detail>ストーリーのギャラリーをすべてオープンした</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>様々な記憶</name>
+  <detail>その他のギャラリーをすべてオープンした</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>ランスロットの秘密</name>
+  <detail>ランスロットのショップアイテムをすべて購入した</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>ガウェインの秘密</name>
+  <detail>ガウェインのショップアイテムをすべて購入した</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>トリスタンの秘密</name>
+  <detail>トリスタンのショップアイテムをすべて購入した</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="S" pid="000">
+  <name>ガラハッドの秘密</name>
+  <detail>ガラハッドのショップアイテムをすべて購入した</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="S" pid="000">
+  <name>モードレッドの秘密</name>
+  <detail>モードレッドのショップアイテムをすべて購入した</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="S" pid="000">
+  <name>マーリンの秘密</name>
+  <detail>マーリンのショップアイテムをすべて購入した</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>サブキャラと呼ばないで</name>
+  <detail>サブキャラのショップアイテムをすべて購入した</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>収集上手</name>
+  <detail>その他のショップアイテムをすべて購入した</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="G" pid="000">
+  <name>マーリンのお得意様</name>
+  <detail>ショップアイテムをすべて購入した</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="G" pid="000">
+  <name>あなたのクロニクル</name>
+  <detail>クロニクルをすべて埋めた</detail>
+ </trophy>
+</trophyconf>

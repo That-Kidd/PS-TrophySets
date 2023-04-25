@@ -1,0 +1,288 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000a139a001e7c18ee0f6f69798e7e8c113a0d6a9e85a4efd5bfe1cbf794ec57617a9ff6a7906f97a991eb3bebe3ab545ecf49e1d5a8e95af47609b8dd1b538fab299819ea4196710dbbe55add11044c59757a3dc266f7c6885868532c00b3a1965d70d88d11bb1cf1b39999a3088c0df9937d189f002e002e5693bb06dbd8742ff11315f4fca274481914c6e6fcd0e6caa24408008-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR04472_00</npcommid>
+ <trophyset-version>01.04</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>MURAMASA REBIRTH</title-name>
+ <title-detail>MURAMASA REBIRTH</title-detail>
+ <group id="001">
+  <name>Fishy Tales of the Nekomata</name>
+  <detail>Number 1 DLC</detail>
+ </group>
+ <group id="002">
+  <name>A Cause to Daikon For</name>
+  <detail>Number 2 DLC</detail>
+ </group>
+ <group id="003">
+  <name>A Spirited Seven Nights' Haunting</name>
+  <detail>Number 3 DLC</detail>
+ </group>
+ <group id="004">
+  <name>Hell's Where the Heart Is</name>
+  <detail>Number 4 DLC</detail>
+ </group>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Master of the Oboro Style!</name>
+  <detail>Obtained all trophies!</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>...Ninja Dog</name>
+  <detail>Complete the tutorial section&#x0a;using Kisuke.</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>A Boy and his...Kitsune?</name>
+  <detail>Complete the prologue of Ninja&#x0a;Scroll of the Demon Blade.</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>Nothing Ventured...</name>
+  <detail>Complete chapter 2 of Ninja&#x0a;Scroll of the Demon Blade.</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>Godiva, She's Not</name>
+  <detail>Complete chapter 3 of Ninja&#x0a;Scroll of the Demon Blade.</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>Ghosts of the Past</name>
+  <detail>Complete chapter 4 of Ninja&#x0a;Scroll of the Demon Blade.</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>The Maid of Narukami</name>
+  <detail>Complete chapter 5 of Ninja&#x0a;Scroll of the Demon Blade.</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>Battlefield of the Damned</name>
+  <detail>Complete chapter 6 of Ninja&#x0a;Scroll of the Demon Blade.</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>The Dragon God of Mount Fuji</name>
+  <detail>Complete chapter 7 of Ninja&#x0a;Scroll of the Demon Blade.</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="000">
+  <name>Born Again and Again and Again</name>
+  <detail>Experience the finale of Ninja&#x0a;Scroll of the Demon Blade.</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>A New Hope</name>
+  <detail>See all of the endings of Ninja&#x0a;Scroll of the Demon Blade.</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>Valkyrie, ARISE!</name>
+  <detail>Complete the tutorial section&#x0a;using Momohime.</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="B" pid="000">
+  <name>You've Got (no) Soul!</name>
+  <detail>Complete the prologue of&#x0a;Pandemonium of the Oboro Blade.</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="000">
+  <name>The Devil's Whorehouse</name>
+  <detail>Complete chapter 2 of&#x0a;Pandemonium of the Oboro Blade.</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="B" pid="000">
+  <name>It's Not the Sword that Kills</name>
+  <detail>Complete chapter 3 of&#x0a;Pandemonium of the Oboro Blade.</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>Wow, Hida is Boar-ing!</name>
+  <detail>Complete chapter 4 of&#x0a;Pandemonium of the Oboro Blade.</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>Machiavellian Betrayal </name>
+  <detail>Complete chapter 5 of&#x0a;Pandemonium of the Oboro Blade.</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>Where in Hell is My Sword?!</name>
+  <detail>Complete chapter 6 of&#x0a;Pandemonium of the Oboro Blade.</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>...Stairway to Heaven.</name>
+  <detail>Complete chapter 7 of&#x0a;Pandemonium of the Oboro Blade.</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>In Buddha's Infinite Mercy</name>
+  <detail>Experience the finale of&#x0a;Pandemonium of the Oboro Blade.</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="S" pid="000">
+  <name>Beware the Words of the Mad...</name>
+  <detail>See all of the endings of&#x0a;Pandemonium of the Oboro Blade.</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>Aren't WE precocious?</name>
+  <detail>Inspect the first road barrier&#x0a;before completing the prologue.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>Secret Arts FTW! Literally...</name>
+  <detail>Defeat a boss using a sword's&#x0a;Secret Art.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>Kerouac Has Nothing on You!</name>
+  <detail>Take down all of the barriers&#x0a;blocking the main road.</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>That's Pretty Steamy...</name>
+  <detail>View all of the game's hot&#x0a;spring events.</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>Change in Management</name>
+  <detail>Defeat a boss without taking&#x0a;any damage.</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="S" pid="000">
+  <name>Hours, Persons, Doors</name>
+  <detail>Perform a 999-hit combo.</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="S" pid="000">
+  <name>From the Depths of R'lyeh</name>
+  <detail>Defeat the Sea Monster</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>Evil Only Hurts if You Let It</name>
+  <detail>Emerge from a Cave of Evil&#x0a;unscathed.</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="B" pid="000">
+  <name>They're Swords, not Hammers...</name>
+  <detail>Break 108 blades.</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>665 and a Half Won't Do!</name>
+  <detail>Defeat 666 monsters.</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>That's the Spirit!</name>
+  <detail>Obtain 666 souls while&#x0a;wandering the roads.</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="S" pid="000">
+  <name>Ariel, is that You...?!</name>
+  <detail>Encounter a mermaid</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="S" pid="000">
+  <name>108 Swords of Destiny</name>
+  <detail>Obtain all of the blades available in the game.</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="S" pid="000">
+  <name>Oboro, Shmoboro!</name>
+  <detail>Beat both Kisuke and Momohime in battle.</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="S" pid="000">
+  <name>Accessories for Every Occasion</name>
+  <detail>Obtain all of the accessories available in the game.</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="S" pid="000">
+  <name>You're Already Fed</name>
+  <detail>Enjoy 88 dishes in the country's various restaurants.</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="S" pid="000">
+  <name>Can't You Go Any Faster?!</name>
+  <detail>Complete the game in 3 hours.</detail>
+ </trophy>
+ <trophy id="038" hidden="yes" ttype="S" pid="000">
+  <name>But I Only Have Two Hands!</name>
+  <detail>Equip Descent into Misery, The&#x0a;Threads of Fate, and Oboro&#x0a;Muramasa.</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="G" pid="000">
+  <name>YOU &gt; Evil...Caves</name>
+  <detail>Conquer all Caves of Evil&#x0a;with Kisuke and Momohime.</detail>
+ </trophy>
+ <trophy id="040" hidden="yes" ttype="G" pid="000">
+  <name>Thousand Flowers of Darkness</name>
+  <detail>View all of the Ninja Scroll&#x0a;endings while playing "Fury"&#x0a;mode.</detail>
+ </trophy>
+ <trophy id="041" hidden="yes" ttype="G" pid="000">
+  <name>Ascendancy of the Oboro Style</name>
+  <detail>View all of the Pandemonium&#x0a;endings while playing "Fury"&#x0a;mode.</detail>
+ </trophy>
+ <trophy id="042" hidden="yes" ttype="B" pid="-1" gid="001">
+  <name>Careful What You Wish For</name>
+  <detail>Complete the grand finale of the&#x0a;Fishy Tales of the Nekomata.</detail>
+ </trophy>
+ <trophy id="043" hidden="yes" ttype="B" pid="-1" gid="001">
+  <name>Monster...ARISE!</name>
+  <detail>Defeat a boss while in the &#x0a;Monster Cat form.</detail>
+ </trophy>
+ <trophy id="044" hidden="yes" ttype="B" pid="-1" gid="001">
+  <name>No Pussyfooting Around!</name>
+  <detail>Finish the Fishy Tales of the&#x0a;Nekomata in an hour or less.</detail>
+ </trophy>
+ <trophy id="045" hidden="yes" ttype="S" pid="-1" gid="001">
+  <name>The Horror... The Horror...</name>
+  <detail>Experience all of the endings for&#x0a;the Fishy Tales of the Nekomata.</detail>
+ </trophy>
+ <trophy id="046" hidden="yes" ttype="S" pid="-1" gid="001">
+  <name>A Tiddle-ating Performance</name>
+  <detail>Clear the finale of Fishy Tales&#x0a;of the Nekomata in Fury mode.</detail>
+ </trophy>
+ <trophy id="047" hidden="yes" ttype="G" pid="-1" gid="001">
+  <name>Fear the Furrious Feline!</name>
+  <detail>Conquer all Caves of Evil&#x0a;with Okoi.</detail>
+ </trophy>
+ <trophy id="048" hidden="yes" ttype="B" pid="-1" gid="002">
+  <name>...Lest You Be Judged</name>
+  <detail>Complete the grand finale of&#x0a;A Cause to Daikon For.</detail>
+ </trophy>
+ <trophy id="049" hidden="yes" ttype="B" pid="-1" gid="002">
+  <name>Dig In, Y'all!</name>
+  <detail>Whomp up a mess o' vitals and&#x0a;eat the heck out of 'em!</detail>
+ </trophy>
+ <trophy id="050" hidden="yes" ttype="B" pid="-1" gid="002">
+  <name>Skinflint</name>
+  <detail>Save up the equivalent&#x0a;of one tael of gold.</detail>
+ </trophy>
+ <trophy id="051" hidden="yes" ttype="S" pid="-1" gid="002">
+  <name>It Was Only a Dream, Right?</name>
+  <detail>Experience all of the endings&#x0a;for A Cause to Daikon For.</detail>
+ </trophy>
+ <trophy id="052" hidden="yes" ttype="S" pid="-1" gid="002">
+  <name>Revolution, Come and Gone</name>
+  <detail>Clear the finale of A Cause&#x0a;to Daikon For in Fury mode.</detail>
+ </trophy>
+ <trophy id="053" hidden="yes" ttype="G" pid="-1" gid="002">
+  <name>Super Spelunker!</name>
+  <detail>Conquer all Caves of Evil&#x0a;with Gonbe.</detail>
+ </trophy>
+ <trophy id="054" hidden="yes" ttype="B" pid="-1" gid="003">
+  <name>Death is only the Beginning</name>
+  <detail>Complete the grand finale of A&#x0a;Spirited Seven Nights' Haunting.</detail>
+ </trophy>
+ <trophy id="055" hidden="yes" ttype="B" pid="-1" gid="003">
+  <name>Now You See Me, Now You Don't</name>
+  <detail>Use 10 smoke bombs in battle.</detail>
+ </trophy>
+ <trophy id="056" hidden="yes" ttype="B" pid="-1" gid="003">
+  <name>Don't Forget to Breathe...</name>
+  <detail>Clear A Spirited Seven Nights'&#x0a;Haunting in an hour or less.</detail>
+ </trophy>
+ <trophy id="057" hidden="yes" ttype="S" pid="-1" gid="003">
+  <name>Praise be to Jiraiya!</name>
+  <detail>Experience all of the endings for&#x0a;A Spirited Seven Nights' Haunting.</detail>
+ </trophy>
+ <trophy id="058" hidden="yes" ttype="S" pid="-1" gid="003">
+  <name>Ruination and Absolution</name>
+  <detail>Clear the finale of A Spirited Seven&#x0a;Nights' Haunting in Fury mode.</detail>
+ </trophy>
+ <trophy id="059" hidden="yes" ttype="G" pid="-1" gid="003">
+  <name>And Then There Were None</name>
+  <detail>Conquer all Caves of Evil&#x0a;with Arashimaru.</detail>
+ </trophy>
+ <trophy id="060" hidden="yes" ttype="B" pid="-1" gid="004">
+  <name>Honey, I can see Hell from here!</name>
+  <detail>Complete the grand finale of&#x0a;Hell's Where the Heart Is.</detail>
+ </trophy>
+ <trophy id="061" hidden="yes" ttype="B" pid="-1" gid="004">
+  <name>Gluttony, Second of Seven!</name>
+  <detail>Become full 20 times in battle.</detail>
+ </trophy>
+ <trophy id="062" hidden="yes" ttype="B" pid="-1" gid="004">
+  <name>Crouching Child, Raging Demon</name>
+  <detail>Take out the final boss while in&#x0a;Demon form.</detail>
+ </trophy>
+ <trophy id="063" hidden="yes" ttype="S" pid="-1" gid="004">
+  <name>Not Unlike Icarus...</name>
+  <detail>Experience all of the endings for&#x0a;Hell's Where the Heart Is.</detail>
+ </trophy>
+ <trophy id="064" hidden="yes" ttype="S" pid="-1" gid="004">
+  <name>I am Demoness, Hear me ROAR!</name>
+  <detail>Complete the grand finale of Hell's&#x0a;Where the Heart Is in Fury mode.</detail>
+ </trophy>
+ <trophy id="065" hidden="yes" ttype="G" pid="-1" gid="004">
+  <name>Rajyaki, Don't Cave In!</name>
+  <detail>Conquer all Caves of Evil&#x0a;with Rajyaki.</detail>
+ </trophy>
+</trophyconf>

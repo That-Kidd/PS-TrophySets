@@ -1,0 +1,180 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000714ab070de4c1121268ceb772cdc9b03005d4617574c77a749a827c250a029dd476f7701e431b64a07e54fa554e72660b9101a95b6adfdad4fb37488a8be1108ebf7deb71c0664b9ce67d613a263f8d74992d951b302b54744f59f828ea9fa24daee323cf06634a4eba6c831dac07d0b3412a4c321cc4d7ef92abf582bffb801286ffdd07bb64bab6b0a6294e9a1e2a832ed0c8b-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR20164_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Epic Word Search Collection</title-name>
+ <title-detail>The trophy set of Epic Word Search Collection</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Quite Big</name>
+  <detail>Collect all the trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Just a Few Thousand To Go</name>
+  <detail>Find your first word</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>A Lot On Your Plate</name>
+  <detail>Get 100% in any section of Epic Food Word Search</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>Are We Nearly There Yet?</name>
+  <detail>Get 100% in any section of Epic Journeys Word Search</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>Bit Between Your Teeth</name>
+  <detail>Get 100% in any section of Animals Food Word Search</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>The Gloves Are Off</name>
+  <detail>Get 100% in any section of Epic Sports Word Search</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>Sixth Sense</name>
+  <detail>Request a hint</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>Quest Marker</name>
+  <detail>Find a word using a hint</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>Side Mission</name>
+  <detail>Ignore a hint</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>World Map</name>
+  <detail>Look at the puzzle overview</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>Fast Travel</name>
+  <detail>Jump to another section</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>Holy Crepe</name>
+  <detail>Find CREPE in Epic Food Word Search</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>Hole Foods</name>
+  <detail>Find DOUGHNUTin Epic Food Word Search</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>The Cheese That's Made Backwards</name>
+  <detail>Find EDAM in Epic Food Word Search</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>Kumquat May</name>
+  <detail>Find KUMQUAT in Epic Food Word Search</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>Mightier Than the Swordde</name>
+  <detail>Find PENNE in Epic Food Word Search</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>For Sake's Goodness</name>
+  <detail>Find SAKE in Epic Food Word Search</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Push Him Down a Hill</name>
+  <detail>Find SWISSROLL in Epic Food Word Search</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>No Whey!</name>
+  <detail>Find WHEY in Epic Food Word Search</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Dszqup cz QPXHJ Dpnjoh Tppo!</name>
+  <detail>Find CRYPTOGRAM in Epic Journeys Word Search</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>Ay! You!</name>
+  <detail>Find GOLD in Epic Journeys Word Search</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>If You Remove It, You Get Gravy</name>
+  <detail>Find GRAVITY in Epic Journeys Word Search</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>Not Constantinople</name>
+  <detail>Find ISTANBUL in Epic Journeys Word Search</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>OK Boomer</name>
+  <detail>Find KANGAROO in Epic Journeys Word Search</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>Strait Shooter</name>
+  <detail>Find STRAIT in Epic Journeys Word Search</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>Tolkien Gesture</name>
+  <detail>Find TOLKIEN in Epic Journeys Word Search</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>Shoot for the Tsars</name>
+  <detail>Find TSAR in Epic Journeys Word Search</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>Living in de Nile</name>
+  <detail>Find CROCODILE in Epic Animals Word Search</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>Way Over My Head</name>
+  <detail>Find CLOUD in Epic Animals Word Search</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>They Quack Me Up</name>
+  <detail>Find DUCK in Epic Animals Word Search</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>The Opposite of Waterfall</name>
+  <detail>Find FIREFLY in Epic Animals Word Search</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>Exactly What It Sounds Like</name>
+  <detail>Find ONOMATOPOEIA in Epic Animals Word Search</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>They Have Oodles in Common with Noodles</name>
+  <detail>Find POODLE in Epic Animals Word Search</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>They're a Little Shellfish</name>
+  <detail>Find PRAWN in Epic Animals Word Search</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>Why Bees Stay In the Hive in Winter</name>
+  <detail>Find SWARM in Epic Animals Word Search</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>All Your Base Are Belong to Us</name>
+  <detail>Find BASEJUMPING in Epic Sports Word Search</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>Get the Ball Rolling</name>
+  <detail>Find BOWLING in Epic Sports Word Search</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>Works on So Many Levels</name>
+  <detail>Find ELEVATOR in Epic Sports Word Search</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>Or, in Roman Numerals, Two</name>
+  <detail>Find ELEVEN in Epic Sports Word Search</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="000">
+  <name>Dough!</name>
+  <detail>Find PIZZA in Epic Sports Word Search</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="B" pid="000">
+  <name>That's Going Downhill Fast</name>
+  <detail>Find SLALOM in Epic Sports Word Search</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="B" pid="000">
+  <name>What a Racket!</name>
+  <detail>Find TENNIS in Epic Sports Word Search</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="B" pid="000">
+  <name>Made in New Jersey</name>
+  <detail>Find UNIFORM in Epic Sports Word Search</detail>
+ </trophy>
+</trophyconf>

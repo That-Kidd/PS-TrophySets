@@ -1,0 +1,56 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000c411ef7e2508888b76646df421f9fa2cc380ef8bba0a4236058e85f4766a5278088753245db52986fa0a763c4ce5e3ed7e72e55c78a0fd6989749c8cfc23aacf34c93d0636e57125c92e4bcd1e429ea5f6ad46f889224980bc6bdd813aba1d0254e79eff5693f869cb10e5eba8f70c90124cab3cb8ba3dd73faea2e2001b25aadf62dc6332ee561624098ee1912eb6d6ed40ff2d-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="small">
+ <npcommid>NPWR13703_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>RanchPlanet</title-name>
+ <title-detail>RanchPlanet</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Green hand</name>
+  <detail>Win by catching 1 animal </detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Master</name>
+  <detail>win by catching 10 animals </detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Sheep catcher</name>
+  <detail>Win by catching 10 sheep</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Wolf catcher</name>
+  <detail>Win by catching 20 wolves</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>hippo catcher</name>
+  <detail>Win by catching 30 hippos</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>chicken catcher</name>
+  <detail>Win by catching 40 chickens</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Wild boar catcher</name>
+  <detail>Win by catching 50 Wild boars</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Alpaca catcher</name>
+  <detail>Win by catching 60 alpacas</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="-1">
+  <name>1000 catcher</name>
+  <detail>Medal of  challenge by catching 1000 animals</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="-1">
+  <name>Missile maker</name>
+  <detail>Medal of cooperation by making 500 bullets</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="-1">
+  <name>The Savior</name>
+  <detail>Medal of confrontation by saving 800 animals</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="-1">
+  <name>Rancher</name>
+  <detail>catch 7 kinds of animals each 800</detail>
+ </trophy>
+</trophyconf>

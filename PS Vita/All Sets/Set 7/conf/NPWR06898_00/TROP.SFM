@@ -1,0 +1,120 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000a5f8af057e5c91aeee8dd5c0bb85b2b2ec4ed6869557b1095aeaaab907d54157343674fb5ef4ec939857766a507f227471e71c914dd247d442fffba9693c794d3f7c3ce095bd49602651ff978d5ea82a256af73891d87178e2e47f6f38c819d423b9c6cba0d4a906e18a01e540d58a663165bd7f772b91849bdd17c68e852615bfbc21d1ea5c5a2e35fd2c41ac1f46914e68620c-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR06898_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>ニセコイ　ヨメイリ！？</title-name>
+ <title-detail>「ニセコイ　ヨメイリ！？」のトロフィーデータです</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>コンプリ</name>
+  <detail>全てのトロフィーを獲得しました</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>イントロ</name>
+  <detail>プロローグイベントをクリアしました</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="S" pid="000">
+  <name>ウラグチ</name>
+  <detail>隠されたプロローグイベントをクリアしました</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>コイビト</name>
+  <detail>千棘と幸せなエンディングを迎えました</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>ケッコン</name>
+  <detail>千棘ともうひとつのエンディングを迎えました</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>カノジョ</name>
+  <detail>小咲と幸せなエンディングを迎えました</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>カンキン</name>
+  <detail>小咲ともうひとつのエンディングを迎えました</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>ヒメゴト</name>
+  <detail>誠士郎と幸せなエンディングを迎えました</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>イレカエ</name>
+  <detail>誠士郎ともうひとつのエンディングを迎えました</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>トウボウ</name>
+  <detail>万里花と幸せなエンディングを迎えました</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="000">
+  <name>アイドル</name>
+  <detail>万里花ともうひとつのエンディングを迎えました</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>トモダチ</name>
+  <detail>るりと平穏なエンディングを迎えました</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="B" pid="000">
+  <name>オメガネ</name>
+  <detail>るりともうひとつのエンディングを迎えました&#x0a;</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>オメザメ</name>
+  <detail>真のエンディングを迎えました</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="B" pid="000">
+  <name>ハーレム</name>
+  <detail>安楽なエンディングを迎えました</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="G" pid="000">
+  <name>トゥルー</name>
+  <detail>全てのトゥルーエンディングを見ました</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="S" pid="000">
+  <name>アナザー</name>
+  <detail>全てのアナザーエンディングを見ました</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>リトライ</name>
+  <detail>おたまの力で初日に戻されました</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>グッタリ</name>
+  <detail>HPがゼロになりました</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="G" pid="000">
+  <name>オミマイ</name>
+  <detail>全ての女の子のお見舞いイベントを見ました</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="G" pid="000">
+  <name>アイテム</name>
+  <detail>アイテムを10回使用しました</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="G" pid="000">
+  <name>コレクト</name>
+  <detail>アイテムを全て手に入れました</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="G" pid="000">
+  <name>アルバム</name>
+  <detail>イベントCGをコンプリートしました</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>マジコイ</name>
+  <detail>マジコイ＋をプレイしました</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="G" pid="000">
+  <name>ヨメイリ</name>
+  <detail>マジコイ＋で４人の女の子と結ばれました</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>ヌキアシ</name>
+  <detail>ヌキアシゲームをクリアしました</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="G" pid="000">
+  <name>サシアシ</name>
+  <detail>全てのヌキアシゲームで記録を更新しました</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>ババヌキ</name>
+  <detail>ババヌキで１位になりました</detail>
+ </trophy>
+</trophyconf>

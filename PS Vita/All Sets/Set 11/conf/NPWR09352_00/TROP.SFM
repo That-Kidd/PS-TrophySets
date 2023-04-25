@@ -1,0 +1,168 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000a4fa62c676039062070c592bab4b5e7a70815205be8a1094049fa18837c85854ce541ce01162f4d0712d2f177a7925ffff18b14f7c9a3635037fa31022319cc9d901fece7cd986e046d407858a0388d0c316468806c35e35780151d267d11b5468d03e934f933b264801d1fef80172a77f7998a01c5b6eb87327015faeeca61c7b2dde815d1d23c9bbb2e267da6c83cbcedcb5ba-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR09352_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>アイドルマスター マストソングス 赤盤/青盤</title-name>
+ <title-detail>アイドルマスター マストソングス 赤盤/青盤のトロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>PLATINUM MUST SONGS</name>
+  <detail>貴方はこのゲームのすべてのトロフィーを獲得した。&#x0a;おめでとう</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>はじめてのプロデュース</name>
+  <detail>演奏プロデュースで&#x0a;はじめてノルマクリア成功</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>かんたんDE王冠１２</name>
+  <detail>演奏プロデュースを&#x0a;難易度かんたんで１２曲クリア</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>ふつうDE王冠１２</name>
+  <detail>演奏プロデュースを&#x0a;難易度ふつうで１２曲クリア</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>むずかしいDE王冠１２</name>
+  <detail>演奏プロデュースを&#x0a;難易度むずかしいで１２曲クリア</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>おにDE王冠１２</name>
+  <detail>演奏プロデュースを&#x0a;難易度おにで１２曲クリア</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>はじめてのフルコンボ</name>
+  <detail>演奏プロデュースで&#x0a;金の王冠を１個ゲット</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>フルコンビギナー</name>
+  <detail>演奏プロデュースで&#x0a;金の王冠を５個ゲット</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>フルコンコレクター</name>
+  <detail>演奏プロデュースで&#x0a;金の王冠を２０個ゲット</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="G" pid="000">
+  <name>フルコンマスター</name>
+  <detail>演奏プロデュースで&#x0a;金の王冠を５０個ゲット</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>コンボ１００</name>
+  <detail>演奏プロデュースで最大コンボ数が&#x0a;１００回をこえて演奏終了</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>コンボ３００</name>
+  <detail>演奏プロデュースで最大コンボ数が&#x0a;３００回をこえて演奏終了</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>コンボ６００</name>
+  <detail>演奏プロデュースで最大コンボ数が&#x0a;６００回をこえて演奏終了</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>連打のオニ</name>
+  <detail>演奏プロデュースで&#x0a;連打数が１００回をこえて演奏終了</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>ドンだフルコンボ</name>
+  <detail>演奏プロデュースで&#x0a;良１００％で演奏終了</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>裏譜面の道</name>
+  <detail>演奏プロデュースで&#x0a;裏譜面を１曲クリアした</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>違いの分かるＰ</name>
+  <detail>演奏プロデュースで&#x0a;別歌唱バージョンの曲を３曲クリアした</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>アイドル博士</name>
+  <detail>演奏プロデュースで&#x0a;３つの出典ジャンルをすべてクリア</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>ライブデビュー！</name>
+  <detail>ライブフェスティバルで&#x0a;はじめてライブをクリアした</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>ライブＬＯＶＥ</name>
+  <detail>ライブを２０回クリアした&#x0a;（赤盤・青盤合計）</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="S" pid="000">
+  <name>ライブの鬼</name>
+  <detail>ライブを４０回クリアした&#x0a;（赤盤・青盤合計）</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>マスターエンジェル</name>
+  <detail>M@STER LIVEを１０個達成した</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>ゲストマニア</name>
+  <detail>特別なゲストが参加する&#x0a;ライブをクリアした</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>アイドル道の始まり</name>
+  <detail>ファンを獲得した</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="000">
+  <name>ご当地アイドル</name>
+  <detail>ファン人数が２５０００人を突破&#x0a;</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="S" pid="000">
+  <name>都道府県アイドル</name>
+  <detail>ファン人数が２０万人を突破&#x0a;</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="G" pid="000">
+  <name>オーバーランクの証</name>
+  <detail>難易度を問わず、&#x0a;ランク外～ランクＳの&#x0a;すべてのライブをクリアした</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="G" pid="000">
+  <name>終わりなきアイドル道</name>
+  <detail>アイドルランクがSになり、&#x0a;一応のエンディングをむかえた</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>大手プロ</name>
+  <detail>今までに貯めたマニーが&#x0a;３０万以上になった</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="S" pid="000">
+  <name>セレブプロ</name>
+  <detail>今までに貯めたマニーが&#x0a;１０００万以上になった</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="S" pid="000">
+  <name>最強の事務員</name>
+  <detail>今までにショップで&#x0a;３０万マニー以上の買い物をした</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>ライトルーキー</name>
+  <detail>ライブ中、コンサートライトを使って&#x0a;アイドルたちを応援した</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>ライトベテラン</name>
+  <detail>２０ライブ以上、コンサートライトで&#x0a;応援してクリアした&#x0a;（赤盤・青盤合計）</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="S" pid="000">
+  <name>アイ・アム・ライト</name>
+  <detail>４０ライブ以上、コンサートライトで&#x0a;応援してクリアした&#x0a;（赤盤・青盤合計）&#x0a;</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>ブッシュファイア</name>
+  <detail>１０ライブ以上、ウルトラオレンジで&#x0a;応援してクリアした&#x0a;（赤盤・青盤合計）</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="S" pid="000">
+  <name>プリズムカラーＭＡＸ</name>
+  <detail>ライブをウルトラオレンジ以外の&#x0a;すべての色のコンサートライトを&#x0a;ＬＶ３で使用してクリアした</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="S" pid="000">
+  <name>キラキラアイドル１３</name>
+  <detail>７６５プロのアイドルたちを&#x0a;コンサートライトでたくさん応援した&#x0a;（赤盤・青盤合計）</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>メッセンジャー</name>
+  <detail>はじめてアイドルから&#x0a;届いたメッセージを読んだ</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="S" pid="000">
+  <name>みんなのプロデューサー</name>
+  <detail>アイドルから届いたメッセージを&#x0a;４０以上読んだ&#x0a;（赤盤・青盤合計）</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="000">
+  <name>音色の達人</name>
+  <detail>太鼓以外の音色で演奏かライブを&#x0a;１０回以上クリア&#x0a;（赤盤・青盤合計）</detail>
+ </trophy>
+</trophyconf>

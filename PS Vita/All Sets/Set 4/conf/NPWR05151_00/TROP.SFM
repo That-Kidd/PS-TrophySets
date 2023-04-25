@@ -1,0 +1,208 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000005b6ea308725c86f4ce62738781d3d5efbf18bfee65c100d4fd56bcc06a5ee651017fb15d01cf34d2611e137562161c42caa3804c861dce8855f1cd9767e5935bdc35b2bea6b2107eadec7f402459bd3e47e48e113fecd15908dcb38f02436b81ae9f5173a113f38a5479c177ee54c650ce7f15584cc928af15e99f787faffc390f782908507e2b09b2ed728e329f4a36fea3b49b-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR05151_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>討鬼傳</title-name>
+ <title-detail>討鬼傳獎盃組</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>傳說的武士</name>
+  <detail>獲得所有獎盃</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>大和的教誨</name>
+  <detail>獲得認可為武士</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>獨當一面的武士</name>
+  <detail>完成第一章</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>新銳武士</name>
+  <detail>完成第二章</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>武士隊長</name>
+  <detail>完成第三章</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>老練武士</name>
+  <detail>完成第四章</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="000">
+  <name>肩負產靈之責</name>
+  <detail>完成第五章</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>鬼府的英雄</name>
+  <detail>完成所有章節</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>開拓者</name>
+  <detail>完成進度三</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="000">
+  <name>精進不休的勇士</name>
+  <detail>完成進度五</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>肩負希望之人</name>
+  <detail>完成進度十</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>金眸四目的守護者</name>
+  <detail>完成所有任務</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>指南結業</name>
+  <detail>完成所有指南</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>麻煩事承辦人</name>
+  <detail>完成３０項委託</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>專家</name>
+  <detail>完成所有委託</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>千錘百鍊</name>
+  <detail>將１把武器的強度鍛鍊至最大值</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>武器收藏家</name>
+  <detail>獲得５０種武器</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>一心一意</name>
+  <detail>獲得任一武器的&#x0a;所有種類</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>宿靈威於其身</name>
+  <detail>在祭祀堂中進行了合成</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>精雕細琢</name>
+  <detail>將１件防具的強度鍛鍊至最大值</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>防具收藏家</name>
+  <detail>合計獲得５０種防具</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>防具愛好者</name>
+  <detail>合計獲得１００種防具</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>英靈指引者</name>
+  <detail>將１個御魂提昇至等級１０</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="G" pid="000">
+  <name>英靈解放者</name>
+  <detail>獲得了所有御魂</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>技能名家</name>
+  <detail>發動過５０種技能</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="S" pid="000">
+  <name>技能大師</name>
+  <detail>發動過３００種技能</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>善於搭配</name>
+  <detail>發動過３０種組合技能</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="S" pid="000">
+  <name>搭配大師</name>
+  <detail>發動過１００種組合技能</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>精通武器</name>
+  <detail>使用所有種類的武器&#x0a;各出擊１０次任務</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>精通戰法</name>
+  <detail>使用所有戰鬥風格&#x0a;各出擊１０次任務</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>淨化者</name>
+  <detail>執行過１０次淨化材料</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="S" pid="000">
+  <name>通曉“鬼”之人</name>
+  <detail>將記事本的討伐履歷&#x0a;全部填寫完畢</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="S" pid="000">
+  <name>通曉異界之人</name>
+  <detail>將記事本的拾取履歷&#x0a;全部填寫完畢</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>破壞大師</name>
+  <detail>在１次任務中破壞任一&#x0a;大型“鬼”的所有部位</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>破壞王</name>
+  <detail>達成１００次部位破壞</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="S" pid="000">
+  <name>破壞神</name>
+  <detail>達成５００次部位破壞</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>善於拾物</name>
+  <detail>拾取１００次物品</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>雜鬼殲滅</name>
+  <detail>合計討伐了１０００隻&#x0a;小型“鬼”</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>討“鬼”之鬼</name>
+  <detail>合計討伐了１００隻&#x0a;大型“鬼”</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="000">
+  <name>善於收拾</name>
+  <detail>將武具櫃和收納櫃的容量&#x0a;擴充至最大</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="B" pid="000">
+  <name>神木的恩典</name>
+  <detail>使神木成長至最高階級</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="B" pid="000">
+  <name>有求必應的香油錢箱</name>
+  <detail>使香油錢箱成長至最高階級</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="B" pid="000">
+  <name>以客為尊</name>
+  <detail>在雜貨店中被稱為尊爵貴客</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="B" pid="000">
+  <name>肢體動作大師</name>
+  <detail>學會了所有的「肢體動作」</detail>
+ </trophy>
+ <trophy id="044" hidden="no" ttype="B" pid="000">
+  <name>去冒險吧</name>
+  <detail>派遣天狐前往冒險３０次</detail>
+ </trophy>
+ <trophy id="045" hidden="no" ttype="B" pid="000">
+  <name>死心塌地</name>
+  <detail>將１名夥伴的友好度提昇至最大</detail>
+ </trophy>
+ <trophy id="046" hidden="no" ttype="S" pid="000">
+  <name>人見人愛</name>
+  <detail>將所有夥伴的友好度提昇至最大</detail>
+ </trophy>
+ <trophy id="047" hidden="yes" ttype="B" pid="000">
+  <name>禁忌的禊場</name>
+  <detail>和異性夥伴一起在禊場共度時光</detail>
+ </trophy>
+ <trophy id="048" hidden="no" ttype="B" pid="000">
+  <name>禊場常客</name>
+  <detail>前往５０次禊場</detail>
+ </trophy>
+ <trophy id="049" hidden="no" ttype="S" pid="000">
+  <name>大富翁</name>
+  <detail>獲得魄的數量&#x0a;總計達到１０００００</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,152 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000000f5890b3c455dd95ea11090cfe3c9b4b112e4f77785a382db5d0307ea04624685c0a513edcc5eda39ca84b863a46f29cd180ceb2a7b95bdd5dbff94b66529e46bfc08de2839f981af8c7b1655ce401d002db60e07f9087f0d8e5aa974fba9962a695eb609b31d849ffd42b1d8fc9fcc2841c9ddda085ddd6102921910dde4be8ae97278a9c105306203ce5464e4e5d26ae426a0d-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR12914_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>박앵귀 꽃의 장</title-name>
+ <title-detail>박앵귀 꽃의 장의 트로피입니다.</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>꽃의 장을 끝내고</name>
+  <detail>모든 트로피를 획득했다</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>무사의 길잡이</name>
+  <detail>히지카타편이 시작되었다</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>불치의 병</name>
+  <detail>오키타편이 시작되었다</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>참된 무사</name>
+  <detail>사이토편이 시작되었다</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>삶의 의미</name>
+  <detail>토도편이 시작되었다</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>남자의 지조</name>
+  <detail>하라다편이 시작되었다</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>나찰의 대가</name>
+  <detail>나가쿠라편이 시작되었다</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>나찰의 비밀</name>
+  <detail>산난편이 시작되었다</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>비정한 힘</name>
+  <detail>야마자키편이 시작되었다</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>탐욕의 마음</name>
+  <detail>이바편이 시작되었다</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>쫓아가는 자</name>
+  <detail>소마편이 시작되었다</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>나찰을 쫓아</name>
+  <detail>사카모토편이 시작되었다</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>귀신과 함께</name>
+  <detail>카자마편이 시작되었다</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>남겨진 자</name>
+  <detail>유키무라편이 시작되었다</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>시작의 이야기</name>
+  <detail>히지카타편·오키타편·사이토편·토도편·&#x0a;하라다편·카자마편이 시작되었다</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>자아낸 이야기</name>
+  <detail>나가쿠라편·산난편·야마자키편이 시작되었다</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>새로운 이야기</name>
+  <detail>이바편·소마편·사카모토편이 시작되었다</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>벚나무 아래서</name>
+  <detail>히지카타편을 클리어했다</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>덧없는 꿈</name>
+  <detail>오키타편을 클리어했다</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="000">
+  <name>최북의 땅</name>
+  <detail>사이토편을 클리어했다</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>나뭇잎 사이로 햇살은 쏟아져</name>
+  <detail>토도편을 클리어했다</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>먼 하늘 아래</name>
+  <detail>하라다편을 클리어했다</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>유구한 마음</name>
+  <detail>나가쿠라편을 클리어했다</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>진실을 찾아서</name>
+  <detail>산난편을 클리어했다</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>사람을 살리는 길</name>
+  <detail>야마자키편을 클리어했다</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="S" pid="000">
+  <name>눈을 뜰 때</name>
+  <detail>이바편을 클리어했다</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="S" pid="000">
+  <name>기다리는 사람</name>
+  <detail>소마편을 클리어했다</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="S" pid="000">
+  <name>머나먼 저 바다로</name>
+  <detail>사카모토편을 클리어했다</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="S" pid="000">
+  <name>맞이하러 오는 사람</name>
+  <detail>카자마편을 클리어했다</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="S" pid="000">
+  <name>창궁의 하늘</name>
+  <detail>유키무라편을 클리어했다</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="S" pid="000">
+  <name>나찰이 가는 곳</name>
+  <detail>모든 게임 오버를 봤다</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="S" pid="000">
+  <name>아픈 추억</name>
+  <detail>전원의 배드 엔드를 봤다</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="S" pid="000">
+  <name>슬픈 추억</name>
+  <detail>전원의 비련 엔드를 봤다</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="G" pid="000">
+  <name>모든 추억을 손에</name>
+  <detail>ED 영상을 컴플리트했다</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="G" pid="000">
+  <name>모든 기억이 여기에</name>
+  <detail>CG를 컴플리트했다</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="G" pid="000">
+  <name>모든 지식이 집결</name>
+  <detail>소사전을 컴플리트했다</detail>
+ </trophy>
+</trophyconf>

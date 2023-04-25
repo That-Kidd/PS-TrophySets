@@ -1,0 +1,176 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000179d966dc7d733307a81fecbbef046901420631faacd0eb302d80b8d65fd063768afc9d824e04446eb4f72b5455e376d7b41012da892738fe02b9a76a1ef9688fe532ac4b41f27f5c4245b9396cb997b8c9ecf25dfb5813b216a5d966971848723c0fd1d0bdbb30c148de029eadcb8df01573ad96a74c12e273f6be5914bb2113db52d5b9e245dca59039beed47bf7e4b3132439-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR10559_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>HELLDIVERS™</title-name>
+ <title-detail>Trophy set for HELLDIVERS™.</title-detail>
+ <group id="001">
+  <name>Turning up the Heat</name>
+  <detail>Trophy set for HELLDIVERS™: Turning up the Heat.</detail>
+ </group>
+ <group id="002">
+  <name>Masters of the Galaxy</name>
+  <detail>Trophy set for HELLDIVERS™: Masters of the Galaxy.</detail>
+ </group>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>The epitome of Super Earth</name>
+  <detail>Complete all Trophies.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>Hell dive</name>
+  <detail>Complete a difficulty 10 or higher mission without a single death.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>Making mountains out of molehills</name>
+  <detail>Kill 100,000 enemies.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>Peace and prosperity reigns again</name>
+  <detail>Complete at least one planet in a successful Galactic Campaign.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>Royal Roadkill</name>
+  <detail>Kill a Bug or Illuminate assassination target by running it over with the APC or HAV.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>A shining inspiration to us all!</name>
+  <detail>Achieve the rank of Grand Lord (Rank 25).</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>The element of Supplies</name>
+  <detail>Kill a Bug Tank with a Resupply Stratagem Hellpod.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>Defender of Humanity</name>
+  <detail>Take part in a successful defense of a capital city by completing at least one mission.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>Now that is what I would call a multi-kill!</name>
+  <detail>Kill 7 enemies within a very short time using only your primary weapon.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>No man left behind</name>
+  <detail>Extract from a difficulty 8 or higher mission with 4 players where all 4 get on the shuttle.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>Never give up, never surrender</name>
+  <detail>Use the Reinforce Stratagem while downed and the last Helldiver alive on a difficulty 8 or higher mission with 4 players.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>Back in time for dinner</name>
+  <detail>Complete a difficulty 4 or higher mission in 5 minutes or less.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>A molehill of corpses</name>
+  <detail>Kill 10,000 enemies.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>Next time we meet, I'll probably have to salute you</name>
+  <detail>Achieve the rank of Captain (Rank 13).</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>Spreading Managed Democracy</name>
+  <detail>Take part in a successful final assault on an enemy's home planet by completing at least one mission.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>Liberating the countryside</name>
+  <detail>Complete all missions on a planet with difficulty 10 or higher.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>Solid Stealth Execution</name>
+  <detail>Complete a difficulty 7 or higher mission without triggering any alarms.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>Don't you just hate escort missions?</name>
+  <detail>Successfully complete an escort objective where all 4 NPCs survive.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>They call me Mr. Danmaku</name>
+  <detail>Complete a difficulty 7 or higher mission against the Cyborgs without taking damage from any enemy.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="000">
+  <name>It's raining Hell, hallelujah!</name>
+  <detail>Complete a mission using only Stratagems.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>80% of the time, I hit every time</name>
+  <detail>Complete a mission with over 300 shots fired and 80% accuracy or better.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>Brothers in Arms</name>
+  <detail>Join another game through the matchmaking system.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>Which seat can I take?</name>
+  <detail>In a 4 player game, on a Friday, have all players sitting in an APC or HAV at the same time.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>You're it until you die or I find someone better</name>
+  <detail>Achieve the rank of Sergeant (Rank 7).</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>The Helldiver's new clothes</name>
+  <detail>Customize your character.</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>Join the Army they said</name>
+  <detail>Complete a mission.</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>Meet interesting people they said</name>
+  <detail>Play at least once against all enemy races.</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>See the Galaxy they said</name>
+  <detail>Play at least once on a desert, a forest, and a snow planet.</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>That which doesn't kill you, scars you for life</name>
+  <detail>Finish the Training.</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>Dancing Queen</name>
+  <detail>Do 25 capespins in a row, without moving, while on the ship bridge.</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>When the wrong tools do the job, are they still wrong?</name>
+  <detail>Destroy a Bug Nest, Cyborg AA, or Illuminate Beacon with anything but the NUX-223 Hellbomb.</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="S" pid="-1" gid="001">
+  <name>Why wasn't this standard issue?</name>
+  <detail>Fully upgrade all non DLC Weapons and Stratagems.</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>Make Frank kill a Tank!</name>
+  <detail>Kill a Bug Tank, Bug Behemoth, or Cyborg IFV by having the extraction shuttle land on it.</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>I'm no Zoologist, but how do you classify a 20 foot tentacle?</name>
+  <detail>Face each new enemy once.</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>Stick it to the Man!</name>
+  <detail>While in melee range from a Cyborg Warlord, use the "NO" communication command.</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>Nothing is hotter than a cup of Liber-Tea</name>
+  <detail>Complete a volcanic type planet of difficulty 5 or more.</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>Knock-knock, who's there? DEMOCRACY!</name>
+  <detail>Kill an Illuminate Obelisk while it is closed.</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="S" pid="-1" gid="002">
+  <name>Add that one to the fossil record!</name>
+  <detail>Defeat a Bug Hive Lord.</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="S" pid="-1" gid="002">
+  <name>Resisting democracy is futile!</name>
+  <detail>Defeat a Cyborg Siegemech.</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="S" pid="-1" gid="002">
+  <name>It didn't SEE that coming!</name>
+  <detail>Defeat an Illuminate Great Eye.</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,56 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000009419119b138b4da6dd8fe537ece647dfbb36f30831d4d622b479b79cbbf5ae6ff8261165ffd78586334bdf3d45cebffd7d107a874467ea7445771f1ab8cbd3c02438c146e2ddf85fc8f8d345d4632629a6fa2928c52a05f735a1f65e4f1e26907b748e05ecfb0032dd4a74290f1788d6b8092ca5de84270efc0c90a7871ef009f51a36a492c5297531fb15443f1c2a8303991e8e-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="small">
+ <npcommid>NPWR11142_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Mutant Mudds Super Challenge</title-name>
+ <title-detail>Mutant Mudds Super Challenge</title-detail>
+ <trophy id="000" hidden="yes" ttype="B" pid="-1">
+  <name>First Of Many!</name>
+  <detail>Get killed by spikes or lava</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="-1">
+  <name>Darwin Award</name>
+  <detail>Get killed by a bomb as Bomb Monkey</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="-1">
+  <name>No Escaping Fate</name>
+  <detail>Try to escape the Final Boss by boosting to the roof</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="-1">
+  <name>Character Collection Combo!</name>
+  <detail>Collect one special character using another</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Fancy Footwork</name>
+  <detail>Avoid killing any bad guys in a level where that's actually a challenge</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>0xFF</name>
+  <detail>Beat a level with checkpoints disabled</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="-1">
+  <name>41/41</name>
+  <detail>Collect all songs</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="-1">
+  <name>3/3</name>
+  <detail>Beat final boss without getting hit</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="-1">
+  <name>0/100</name>
+  <detail>Beat a level with no gems</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="-1">
+  <name>45/45</name>
+  <detail>Beat the game</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="-1">
+  <name>21/21</name>
+  <detail>Collect all the characters</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="-1">
+  <name>&lt;100</name>
+  <detail>Beat the game with less than 100 deaths</detail>
+ </trophy>
+</trophyconf>

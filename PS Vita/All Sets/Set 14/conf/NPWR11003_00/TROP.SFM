@@ -1,0 +1,188 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000003ff68c28442e84b09824dca0288f8f5a4c96f466357a4b3863c15c03d6d47832176a4d566c97608d982c691c57d23e5a308e96f3aa708e3c74e9f0cef54d384c0263a6b36767e47fe1a3fde11a89203d8c965432843e4ed15ccc77bd82ce929b75cbdab563d4bf3d3009d77eda0168cac432bcc29b2161a9b978abc3920e11e36eba420a25b5d58e93e7c19b843e1021d413ce71-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR11003_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>한계돌파 모에로 크리스탈</title-name>
+ <title-detail>한계돌파 모에로 크리스탈의 트로피입니다. </title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>상식을 초월한 자</name>
+  <detail>모든 트로피를 취득한 한계를 넘은 플레이어!</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>난감장토이 마을 클리어!</name>
+  <detail>난감장토이 고을을 클리어했다.</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>갬블랜드 클리어!</name>
+  <detail>갬블랜드를 클리어했다.</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>코케시닌자 죽림 클리어!</name>
+  <detail>코케시닌자 죽림을 클리어했다.</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>음악도시 멜로리안 클리어!</name>
+  <detail>음악도시 멜로리안을 클리어했다.</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>해골바가지 유적 클리어!</name>
+  <detail>해골바가지 유적을 클리어했다.</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>유이사르베 궁전 클리어!</name>
+  <detail>유이사르베 궁전을 클리어했다.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>아빠, 나 해냈어!</name>
+  <detail>시나리오의 엔딩을 봤다.</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>견습 신관 시작했습니다</name>
+  <detail>모두 클리어 후 던전을 클리어했다.</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="G" pid="000">
+  <name>이것이 진짜 엔딩</name>
+  <detail>사랑하는 몬스터걸과의 엔딩을 봤다.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>함께 가자</name>
+  <detail>몬스터걸을 20명 동료로 만들었다.</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>전원 대집합!</name>
+  <detail>모든 몬스터걸을 동료로 만들었다.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>모두를 위해서 할 수 있는 일</name>
+  <detail>여관의 방을 개축했다.</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="000">
+  <name>최고의 대우</name>
+  <detail>여관의 방을 최고 랭크로 만들었다.</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="B" pid="000">
+  <name>나도 끼워줘!</name>
+  <detail>처음 몬스터걸끼리 동거했다.</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>기뻐하는 표정이 보고 싶어서</name>
+  <detail>몬스터걸에게 가장 기뻐하는 선물을 줬다.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>손이 멈추지 않아</name>
+  <detail>심쿵 스크래치를 성공했다.</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>꿈이 이루어졌다!</name>
+  <detail>더블 스크래치를 성공했다.</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="S" pid="000">
+  <name>남자의 싸움</name>
+  <detail>100인 베기를 달성했다.</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>다녀오겠습니다!!</name>
+  <detail>크리스탈에 돌입했다.</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="G" pid="000">
+  <name>마음을 겹쳐서!</name>
+  <detail>심층 영역을 240개 클리어했다. </detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>미안! 하지만 너를 알고 싶어!</name>
+  <detail>엿보기 이벤트를 성공했다.</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="B" pid="000">
+  <name>눈을 어디에 둬야 할지</name>
+  <detail>다른 속옷을 조합했다.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>추억을 줘서 고마워</name>
+  <detail>처음 몬스터걸의 친밀도를 최고로 만들었다.</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="S" pid="000">
+  <name>좋아하니까 어쩔 수 없어</name>
+  <detail>모든 몬스터걸과 사랑에 빠졌다.</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="B" pid="000">
+  <name>주먹으로 말한다</name>
+  <detail>훈련소에서 싸웠다.</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>전해지는 것</name>
+  <detail>장식품을 최고까지 강화했다.</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="B" pid="000">
+  <name>너의 색으로 물들여줘</name>
+  <detail>소녀인을 부가했다.</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="B" pid="000">
+  <name>차올라온다</name>
+  <detail>사교장을 이용했다.</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>몬스피로의 불가사의</name>
+  <detail>변태 몬스터 도감을 50종류 채웠다.</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="S" pid="000">
+  <name>별 놈들이 다 있구나</name>
+  <detail>변태 몬스터 도감을 모두 채웠다.</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="B" pid="000">
+  <name>미지와의 조우</name>
+  <detail>왕변태 몬스터를 쓰러뜨렸다.</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>이, 이건···설마!</name>
+  <detail>처음으로 잡 팬티를 손에 넣었다. </detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="G" pid="000">
+  <name>딱히 모으고 있었던 건 아니거든?</name>
+  <detail>모든 잡 팬티를 손에 넣었다. </detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="B" pid="000">
+  <name>우리들만의 치유공간</name>
+  <detail>처음 탕을 찾아냈다. </detail>
+ </trophy>
+ <trophy id="035" hidden="yes" ttype="S" pid="000">
+  <name>다 같이 함께 들어가자!</name>
+  <detail>모든 비탕을 찾아냈다. </detail>
+ </trophy>
+ <trophy id="036" hidden="yes" ttype="B" pid="000">
+  <name>이런 곳이 있었구나</name>
+  <detail>1억층에 돌입했다.</detail>
+ </trophy>
+ <trophy id="037" hidden="yes" ttype="S" pid="000">
+  <name>던전 순례도 나쁘지 않아</name>
+  <detail>몬스피로의 모든 플로어에 진입했다.</detail>
+ </trophy>
+ <trophy id="038" hidden="yes" ttype="B" pid="000">
+  <name>나이스 어시스트!</name>
+  <detail>공격 보조가 발동했다.</detail>
+ </trophy>
+ <trophy id="039" hidden="yes" ttype="B" pid="000">
+  <name>48수 입문</name>
+  <detail>결합 48수를 발동했다.</detail>
+ </trophy>
+ <trophy id="040" hidden="yes" ttype="B" pid="000">
+  <name>48수 면허개전</name>
+  <detail>모든 결합48수를 발동했다.</detail>
+ </trophy>
+ <trophy id="041" hidden="yes" ttype="S" pid="000">
+  <name>48수의 전도사</name>
+  <detail>모든 이면48수를 발동했다.</detail>
+ </trophy>
+ <trophy id="042" hidden="yes" ttype="S" pid="000">
+  <name>가보로 삼겠습니다!</name>
+  <detail>유니크 아이템을 10종류 손에 넣었다.</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="B" pid="000">
+  <name>너희들 덕분</name>
+  <detail>몬스터를 1,000마리 쓰러뜨렸다.</detail>
+ </trophy>
+ <trophy id="044" hidden="yes" ttype="S" pid="000">
+  <name>너희들 모두 최고다!!</name>
+  <detail>몬스터를 10,000마리 쓰러뜨렸다.</detail>
+ </trophy>
+</trophyconf>

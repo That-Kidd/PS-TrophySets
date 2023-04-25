@@ -1,0 +1,84 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000088ed0740f69683cc81a50d72822d217b441316149f08231a7881c432680a2c78303f1655138f74c9ef3833332860f61a0cd34b12179f710df9ba662da536cf5b9a870ac1c4ac393df513b9782f5ce607f290122c9f3370620bcad976b7cacfe14550879cbe51b16b4648bbe90c2552f05843d045c5a08183f26c35eb97774926a7b6b44bb133ba5c224bce8e272a28d1eb67f4a3-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR16887_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>添いカノ</title-name>
+ <title-detail>『添いカノ』トロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>ぎゅっと抱きしめて</name>
+  <detail>『添いカノ』を全てプレイしていただき、ありがとうございました</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>プロローグ</name>
+  <detail>プロローグを読み終えた</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="S" pid="000">
+  <name>夜明ルート</name>
+  <detail>夜明ルートに入った</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="S" pid="000">
+  <name>つばめルート</name>
+  <detail>つばめルートに入った</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="S" pid="000">
+  <name>灯子ルート</name>
+  <detail>灯子ルートに入った</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="S" pid="000">
+  <name>藍果ルート</name>
+  <detail>藍果ルートに入った</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="G" pid="000">
+  <name>鳥籠からの卒業</name>
+  <detail>夜明ルートを読み終えた</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="G" pid="000">
+  <name>それぞれの巣立ち</name>
+  <detail>つばめルートを読み終えた</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="G" pid="000">
+  <name>灯子の絵</name>
+  <detail>灯子ルートを読み終えた</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="G" pid="000">
+  <name>好きを伝えて</name>
+  <detail>藍果ルートを読み終えた</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>夜明の耳かきチャレンジ</name>
+  <detail>夜明の追加エピソードを読み終えた</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>つばめママに、甘えていいんですよ？</name>
+  <detail>つばめの追加エピソードを読み終えた</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>灯子のメイドご奉仕プレイ！？</name>
+  <detail>灯子の追加エピソードを読み終えた</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>藍果のお誕生日プレゼント</name>
+  <detail>藍果の追加エピソードを読み終えた</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>凛空と恋人ごっこ</name>
+  <detail>凛空の追加エピソードを読み終えた</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="G" pid="000">
+  <name>選択肢コンプリート</name>
+  <detail>全ての選択肢を選んだ</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="G" pid="000">
+  <name>ＢＧＭコンプリート</name>
+  <detail>全てのＢＧＭを聴いた</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="G" pid="000">
+  <name>ＣＧコンプリート</name>
+  <detail>全てのＣＧを見た</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="G" pid="000">
+  <name>ＥＶＥＮＴコンプリート</name>
+  <detail>全てのイベントを読んだ</detail>
+ </trophy>
+</trophyconf>

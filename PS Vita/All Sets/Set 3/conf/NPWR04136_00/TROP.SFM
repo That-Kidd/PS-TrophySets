@@ -1,0 +1,200 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000170f8ad593a8d7e81d2b359ffa5daf448fb64d6a34c5e69ac7e33e5bd20de1b983f2d67f31bfe3fbc52090848d43964ea1956668739017a0efc0a033ebfee395d9bdcfdd38da2a614afad887a5c507e4567bba6ace6498f04285eba5c674fbc4fc048ea168fa14fa4543cc6abd9604011aa117c3fe5d02f82ea15246a7af95d1b99b20b32ced18132cd135caa10d8d8d77c206b3-->
+<trophyconf version="1.1" platform="ps3,psp2" policy="large">
+ <npcommid>NPWR04136_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>サカつく プロサッカークラブをつくろう！</title-name>
+ <title-detail>サカつく プロサッカークラブをつくろう！のトロフィーセットです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>スペシャル・ワン</name>
+  <detail>ゲーム内の全てのトロフィーを獲得した</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>記念すべき勝利</name>
+  <detail>試合で勝利した</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>ハットトリック</name>
+  <detail>自チームの選手がハットトリックを達成した</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>クリーンシート</name>
+  <detail>無失点で勝利した</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>石油王を制す！</name>
+  <detail>カリームのクラブに勝利した</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>イビサの島の帝王を制す！</name>
+  <detail>エストデーラのクラブに勝利した</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>祝・リーグ戦１００勝！</name>
+  <detail>リーグ戦で通算１００勝した</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>祝・リーグ戦５００勝！</name>
+  <detail>リーグ戦で通算５００勝した</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>タイトルホルダー</name>
+  <detail>所属リーグで優勝した</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>リーグＭＶＰ</name>
+  <detail>自チーム選手が参加リーグの年間ＭＶＰに選ばれた</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>得点王</name>
+  <detail>自チーム選手が参加リーグの年間得点王を獲得した</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>トレブル</name>
+  <detail>同シーズンに３つの大会で優勝した</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>欧州王者</name>
+  <detail>ヨーロッパチャンピオンシップで優勝した</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>世界王者</name>
+  <detail>ワールドプレミアシップ ＤＩＶＩＳＩＯＮ１で優勝した</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>祝・殿堂入り！</name>
+  <detail>引退した選手が殿堂入りした</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>ネゴシエーター</name>
+  <detail>契約延長を成功させた</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>ひと時の別れ</name>
+  <detail>選手を期限付き移籍に行かせた</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>青田買い</name>
+  <detail>若手選手を発掘しユースチームに入団させた</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>育成型クラブ</name>
+  <detail>ユース選手をトップチームに昇格させた</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>受け継がれる魂</name>
+  <detail>ベテラン選手の能力をユース選手に継承させた</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="000">
+  <name>腕利きの代理人</name>
+  <detail>秘密交渉を成功させた</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>ビッグネームコレクター</name>
+  <detail>大物選手を獲得した</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>祝・代表入り！</name>
+  <detail>所属選手が代表に選ばれた</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>特訓の成果</name>
+  <detail>特別練習で所属選手がスキルを習得・強化した</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>新スタイル確立！</name>
+  <detail>特別練習で所属選手が新しいプレースタイルを習得した</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="S" pid="000">
+  <name>名伯楽</name>
+  <detail>所属クラブの選手１０人以上が上級プレースタイルを取得した</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="S" pid="000">
+  <name>神を創りし者</name>
+  <detail>所属選手が神の域に達した</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>ティーチャー</name>
+  <detail>チームカラーのコンボが発動した</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="S" pid="000">
+  <name>プロフェッサー</name>
+  <detail>上位チームカラーを発動させた</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>偉大なる恩師</name>
+  <detail>累計１０人以上の選手の忠誠度を「絶対の忠誠」にして日程を進行した</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>長期政権</name>
+  <detail>同じクラブに１０年以上在籍した</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="G" pid="000">
+  <name>四半世紀のキャリア</name>
+  <detail>２５年間プレイした</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>流浪の監督</name>
+  <detail>他クラブへ移籍した</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="S" pid="000">
+  <name>世界を知る男</name>
+  <detail>全リーグで指揮を執った</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>駆け出し監督</name>
+  <detail>監督スタイルを１個マスターした</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>期待の監督</name>
+  <detail>監督スタイルを５個マスターした</detail>
+ </trophy>
+ <trophy id="036" hidden="yes" ttype="S" pid="000">
+  <name>偉大なる監督</name>
+  <detail>監督スタイルを１０個マスターした</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>建築技師</name>
+  <detail>施設を設置した</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>聖地建立</name>
+  <detail>スタジアムを建設した</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="000">
+  <name>優雅な生活を</name>
+  <detail>クラブハウスを建設した</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="B" pid="000">
+  <name>有言実行</name>
+  <detail>公約を達成した</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="S" pid="000">
+  <name>世界的なクラブ</name>
+  <detail>サポーターの人数が１０万人以上になった</detail>
+ </trophy>
+ <trophy id="042" hidden="yes" ttype="S" pid="000">
+  <name>超銀河系軍団</name>
+  <detail>特徴「スター選手」を所持する選手が１０人以上在籍している</detail>
+ </trophy>
+ <trophy id="043" hidden="yes" ttype="S" pid="000">
+  <name>アイドル事務所</name>
+  <detail>特徴「イケメン」を所持する選手が１０人以上在籍している</detail>
+ </trophy>
+ <trophy id="044" hidden="yes" ttype="G" pid="000">
+  <name>イビサの忠犬</name>
+  <detail>エストデーラのクラブで３年以上指揮を執る</detail>
+ </trophy>
+ <trophy id="045" hidden="yes" ttype="B" pid="000">
+  <name>ギャンブラー</name>
+  <detail>油野茂一から２０億円借りた</detail>
+ </trophy>
+ <trophy id="046" hidden="no" ttype="B" pid="000">
+  <name>人を創りし者</name>
+  <detail>エディット選手を作成した</detail>
+ </trophy>
+ <trophy id="047" hidden="no" ttype="B" pid="000">
+  <name>強敵を求めて</name>
+  <detail>対戦用クラブデータを作成した</detail>
+ </trophy>
+</trophyconf>

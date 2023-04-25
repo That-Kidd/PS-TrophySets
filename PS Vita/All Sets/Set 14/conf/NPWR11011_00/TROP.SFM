@@ -1,0 +1,76 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000c85e3e486d682b6554721575d0b381bb6c3152c67cac3a7ba53acad9642ab8a36e91164ce16e2b0a49c47e2855ad6bea2ccee0f469d33a9184aae893cd2a4e6f54cdca73eb0170913c0ef2dd1123b4826df1c1ac558d4670dcfac6251ef79707cee0bfe19c6dab3749d69e98c15d429dd3c2c6d4bf5760b84e23de8a49bfdfed207128619a7627e77376b4d65a6e3dd653e1e43d-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR11011_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>鯨神のティアスティラ</title-name>
+ <title-detail>鯨神のティアスティラのトロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>オールクリア</name>
+  <detail>全てのトロフィーを獲得しました</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>おまけ開放</name>
+  <detail>おまけに鑑賞モードが追加されました</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>湊月エンドクリア</name>
+  <detail>湊月ルートをクリアしました</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>真莉音エンドクリア</name>
+  <detail>真莉音ルートをクリアしました</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>恵那エンドクリア</name>
+  <detail>恵那ルートをクリアしました</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>リルエンドクリア</name>
+  <detail>リルルートをクリアしました</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="G" pid="000">
+  <name>トゥルーエンドクリア</name>
+  <detail>トゥルールートをクリアしました</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>トゥルー開放</name>
+  <detail>トゥルールートが出現しました</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="G" pid="000">
+  <name>湊月CGコンプリート</name>
+  <detail>湊月のCGを全てオープンしました</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="G" pid="000">
+  <name>真莉音CGコンプリート</name>
+  <detail>真莉音のCGを全てオープンしました</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="G" pid="000">
+  <name>恵那CGコンプリート</name>
+  <detail>恵那のCGを全てオープンしました</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="G" pid="000">
+  <name>リルCGコンプリート</name>
+  <detail>リルのCGを全てオープンしました</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>トゥルーCGコンプリート</name>
+  <detail>トゥルーのCGを全てオープンしました</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>SDCGコンプリート</name>
+  <detail>SDCGを全てオープンしました</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>TIPSコンプリート</name>
+  <detail>TIPSを全てオープンしました</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>クロックモード</name>
+  <detail>おまけにクロックモードが追加されました</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>PUKAPUKAプレイヤーの称号</name>
+  <detail>PUKAPUKAスコアランキングのトップを獲りました</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,36 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000a43376056c5a3806f161bce79a81c20dff607b7b074b132182553ce65733e424a6ebf66e3cb36e8d7e90f63cfb3cc8c16e414f4adc8f6a6dfb3ec51e4859e4b9b69a3fb3c91f4641069f22e803b060de407cb9c15240e1c63c79fbfc1236c74b0613273e7d53a6a465f89692675815ccccc602c6a651d76f8d85092cfd6d941d1f32521abb64aad41fecc09d342c2f476f44f0a8-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR09438_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>The Quiet Collection</title-name>
+ <title-detail>Trophies for The Quiet Collection</title-detail>
+ <trophy id="000" hidden="no" ttype="S" pid="-1">
+  <name>Quiet, Please!</name>
+  <detail>Solve all puzzles in "Quiet, Please!"</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="-1">
+  <name>Quiet Christmas</name>
+  <detail>Solve all of the puzzles in "Quiet Christmas".</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="-1">
+  <name>Vacation Vexaction</name>
+  <detail>Solve all of the puzzles in "Vacation Vexation".</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="-1">
+  <name>Candy, Please!</name>
+  <detail>Solve all of the puzzles in "Candy, Please!"</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Face Invaders</name>
+  <detail>Get the high score in Face Invaders.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Badger</name>
+  <detail>Get the high score in Badger.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Karate Battle</name>
+  <detail>Get the high score in Karate Battle.</detail>
+ </trophy>
+</trophyconf>

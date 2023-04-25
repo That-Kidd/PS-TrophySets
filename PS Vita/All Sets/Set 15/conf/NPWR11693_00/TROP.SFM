@@ -1,0 +1,116 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000008df058d50a0ffd2d321715d900f18d444b00966c843e46128a66d7ac8d2a935a6972c7449cd83d55f92fff1b39ecc389aeeaa5adb44bee89119aafef87caf8b87d44332fb2c60dcc53c66880f2dd57daf7e5598f464706c7aea0a7210376096d2de415386f75da76964e0ee31ecfae9dd41225f1168577d728d9bd84fafc5f92ca3636b1ad49097622773423a014d3f6f7085bc4-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR11693_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>√Letter&#x0a;</title-name>
+ <title-detail>√Letter 트로피입니다</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>√Letter</name>
+  <detail>모든 트로피를 획득했다</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>시마네에 잘 왔다냐!</name>
+  <detail>SHIMANEKKO와 처음으로 대화를 나눴다</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>유령 펜팔 상대</name>
+  <detail>1장을 클리어했다</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>잠자리 편지지</name>
+  <detail>2장을 클리어했다</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>바나나 편지지</name>
+  <detail>3장을 클리어했다</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>캔디 편지지</name>
+  <detail>4장을 클리어했다</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>갸루 편지지</name>
+  <detail>5장을 클리어했다</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>생강 편지지</name>
+  <detail>6장을 클리어했다</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>노움 편지지</name>
+  <detail>7장을 클리어했다</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>곡옥 편지지</name>
+  <detail>8장을 클리어했다</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="000">
+  <name>푸른 하늘 편지지</name>
+  <detail>결연 루트 9장을 클리어했다</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>벚꽃 편지지</name>
+  <detail>결연 루트 10장을 클리어했다</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>비 편지지</name>
+  <detail>엇갈림 루트 9장을 클리어했다</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>비행기 편지지</name>
+  <detail>엇갈림 루트 10장을 클리어했다</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>손거울 편지지</name>
+  <detail>히메가모리의 공주 루트 9장을 클리어했다</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="S" pid="000">
+  <name>공주 편지지</name>
+  <detail>히메가모리의 공주 루트 10장을 클리어했다</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="S" pid="000">
+  <name>까마귀 편지지</name>
+  <detail>저주의 편지 루트 9장을 클리어했다</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="S" pid="000">
+  <name>해골 편지지</name>
+  <detail>저주의 편지 루트 10장을 클리어했다</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="S" pid="000">
+  <name>UFO 편지지</name>
+  <detail>정부의 음모 루트 9장을 클리어했다</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="S" pid="000">
+  <name>에일리언 편지지</name>
+  <detail>정부의 음모 루트 10장을 클리어했다</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="G" pid="000">
+  <name>진실 판명!</name>
+  <detail>모든 루트를 클리어했다</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="G" pid="000">
+  <name>조사 아이템은 전부 이 손에</name>
+  <detail>모든 아이템을 획득했다</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="G" pid="000">
+  <name>진실 판명?</name>
+  <detail>저주의 편지 루트, 히메가모리의 공주 루트, 정부의 음모 루트, 엇갈림 루트를 클리어했다</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="G" pid="000">
+  <name>시마네를 전부 조사한 남자</name>
+  <detail>「조사한다」로 200번 이상 조사했다</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>시마네를 전부 걸어다닌 남자</name>
+  <detail>「조사한다」로 100번 이상 조사했다</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="G" pid="000">
+  <name>레터 매니아</name>
+  <detail>편지의 답을 전부 골랐다</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="G" pid="000">
+  <name>SHIMANEKKO 발견!</name>
+  <detail>SHIMANEKKO를 10번 이상 찾았다</detail>
+ </trophy>
+</trophyconf>

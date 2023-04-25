@@ -1,0 +1,132 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000b822a456be809e3c1dd47ce9708db85250712f4d184692007641035c81c990c2af1cd3b9c8e4f8424d5e10893ad3b2cecbf8b1e7c48f11540ce99b0880d825583b5ebc5bc6d60b648337c71b56ce5e19160ad646e0fb410637676bece1321b71ed34208ba4c5b8705328ed8e69867ea45ab909b211af39956b004d48c72f7be8d063c9e49eb1fc7826e70abc94e6cc999ac8a765-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR10726_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Spy Chameleon</title-name>
+ <title-detail>Spy Chameleon</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>All trophies earned</name>
+  <detail>Congratulations!</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>First steps</name>
+  <detail>Complete 5 levels</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Paparazzi</name>
+  <detail>Complete level 15</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>The Theft</name>
+  <detail>Complete level 30</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>Plagiarism</name>
+  <detail>Complete level 45</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>Dangerous Mutation</name>
+  <detail>Complete level 60</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>Firewall</name>
+  <detail>Complete level 75</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>RGB Agent</name>
+  <detail>ONLY ON HARD - Complete all levels and all challenges</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>Perfect photo</name>
+  <detail>ONLY ON HARD - Complete all levels with their mission 1 challenges</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>Perfect theft</name>
+  <detail>ONLY ON HARD - Complete all levels with their mission 2 challenges</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>Perfect formula</name>
+  <detail>ONLY ON HARD - Complete all levels with their mission 3 challenges</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>Perfect discovery</name>
+  <detail>ONLY ON HARD - Complete all levels with their mission 4 challenges</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>Perfect beta testing</name>
+  <detail>ONLY ON HARD - Complete all levels with their mission 5 challenges</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>Few flies</name>
+  <detail>Complete the fly challenge on 1 level</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>Some flies</name>
+  <detail>Complete the fly challenge on 15 levels</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>Many flies!</name>
+  <detail>Complete the fly challenge on 30 levels</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Few ladybugs</name>
+  <detail>Complete the ladybug challenge on 15 levels</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Some ladybugs</name>
+  <detail>Complete the ladybug challenge on 45 levels</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>Many ladybugs!</name>
+  <detail>Complete the ladybug challenge on all levels</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Speed demon</name>
+  <detail>Complete the time challenge on 5 levels</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>Need for speed</name>
+  <detail>Complete the time challenge on 25 levels</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>"FTL"</name>
+  <detail>Complete the time challenge on 50 levels</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="G" pid="000">
+  <name>Sprinter</name>
+  <detail>ONLY ON HARD - Complete all levels in less than 18 minutes</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>Chromatic</name>
+  <detail>Change colors one thousand times</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>No changes I</name>
+  <detail>ONLY ON HARD - Complete level 10 without changing colors</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>Speedy collector</name>
+  <detail>ONLY ON HARD - Complete level 24 collecting all the ladybugs in 17.5 seconds</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>Don't touch my Circulo Rojo</name>
+  <detail>ONLY ON HARD - Complete level 41 without using the button</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>No changes II</name>
+  <detail>ONLY ON HARD - Complete level 50 without changing colors</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="S" pid="000">
+  <name>Vegetarian</name>
+  <detail>ONLY ON HARD - Complete level 63 without eating any flies</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>Calorie balance</name>
+  <detail>Achieve a positive calorie balance</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>Fish annoyer</name>
+  <detail>Annoy the same fish 25 times</detail>
+ </trophy>
+</trophyconf>

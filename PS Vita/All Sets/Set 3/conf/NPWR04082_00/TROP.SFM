@@ -1,0 +1,132 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000cca75c79385cb2b5e7e848d3b8d5469c9b8ff3e18a7179e4587f1ae43bdcaa4dde918d503e45b4722f2698b748a04079e1d4948a73d73b2b72a3056330e106be5050a5ac187415b554b98f059b3302fd05e8df72c4948296c67a2ee5d011e0a47b20341897feeaaa8f43fae9aaf4f45a268db02585ee29f5f603f13c7da2758fa582c39cb91594f543ea04409fe09801b96a558f-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR04082_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Let's Fish! Hooked On</title-name>
+ <title-detail>Let's Fish! Hooked On Trophy List</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Let's Fish! Hooked On Champion</name>
+  <detail>Collected all trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>Total Domination!</name>
+  <detail>Collected all of the stars in Challenge Mode</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>The Greatest Challenge!</name>
+  <detail>Cleared all of the courses in Challenge Mode.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Halftime!</name>
+  <detail>Cleared half of the courses in Challenge Mode</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>It Begins!</name>
+  <detail>Started Challenge Mode.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>Hardcore Fishing Gal!</name>
+  <detail>Play Jamie in Challenge Mode 5 times.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>Hardcore Fishing Guy!</name>
+  <detail>Play Ryuji in Challenge Mode 5 times.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>Hardcore Fishing Lady!</name>
+  <detail>Play Kano in Challenge Mode 5 times.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>Hardcore Fishing Mage Apprentice!</name>
+  <detail>Play Ai in Challenge Mode 5 times.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>That's a Lot of Fish!</name>
+  <detail>Weighed in a total of over 2,200 lbs. in Challenge Mode.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>That's Quite Heavy!</name>
+  <detail>Weighed in a total of over 220 lbs. in Challenge Mode.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>A Decent Weight!</name>
+  <detail>Weighed in a total of over 22 lbs. in Challenge Mode.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>Endangered Species</name>
+  <detail>Caught total of over 500 fish in Challenge Mode.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>That's Plenty!</name>
+  <detail>Caught more than a total of 250 fish in Challenge Mode.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>Impressive!</name>
+  <detail>Caught more than a total of 50 fish in Challenge Mode.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>Ranking Champ!</name>
+  <detail>Caught 20 super-big fish in Challenge Mode.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Ranking Killer!</name>
+  <detail>Caught 10 super-big fish in Challenge Mode.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>That's a Big'un!</name>
+  <detail>Caught your first super-big fish in Challenge Mode.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>None shall escape!</name>
+  <detail>Caught every type of fish in Challenge Mode.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="G" pid="000">
+  <name>Love, Dreams, Passion &amp; Courage</name>
+  <detail>Cleared World Tour Mode with every playable character.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>Just as Good as You Know Who…</name>
+  <detail>Cleared World Tour Mode with Jamie.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>Got Room for Improvement!</name>
+  <detail>Started World Tour Mode with Jamie.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>The True Battle Begins Now!</name>
+  <detail>Cleared World Tour Mode with Ryuji.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>Son of a Legend!</name>
+  <detail>Started World Tour Mode with Ryuji.</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>Aiming for Further Glory...</name>
+  <detail>Cleared World Tour Mode with Kano.</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>The World's Toughest Challenge!</name>
+  <detail>Started World Tour Mode with Kano.</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="S" pid="000">
+  <name>Save the World with Fishing and Magic!</name>
+  <detail>Cleared World Tour Mode with Ai.</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>Kazaam!</name>
+  <detail>Started World Tour Mode with Ai.</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="G" pid="000">
+  <name>Full Tacklebox</name>
+  <detail>Acquired all of the lures types.</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="S" pid="000">
+  <name>Half full Tacklebox</name>
+  <detail>Acquired half of all lure types.</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>One down…</name>
+  <detail>Acquired your first lure.</detail>
+ </trophy>
+</trophyconf>

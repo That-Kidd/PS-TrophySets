@@ -1,0 +1,52 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000600909679ac53cfba30ecaba5dbfd046c3248a0f34e8ac0d6bdd2eeb166a7a4f72903397460d8969cdd79d368fee7b96a2e4ee8ec382cd2cea92db4921cb4c46cba78dbe5e4e2165bbb7927a707ef0aa87712d70738731e9bbd15af738bf7fa698456d179aa8e24a57a66fb194ad55c22a8d2a679c7869a2274d09d0d9defd4bd2368a01b1c85deabb55b712bb21c6f0e00d33f5-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="small">
+ <npcommid>NPWR11515_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Exile's End</title-name>
+ <title-detail>Exile's End Trophies</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Where is everyone?</name>
+  <detail>Find a member of your crew</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>See the local wildlife</name>
+  <detail>Get up close and personal with some of the local creatures</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Close encounter</name>
+  <detail>Meet someone unexpected</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="-1">
+  <name>Hey man, nice shot!</name>
+  <detail>Shoot a worm while it's falling</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Let's blow this joint</name>
+  <detail>Get ready to make your own way out of the mining base</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="-1">
+  <name>Say hello...</name>
+  <detail>Find the grenade launcher</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="-1">
+  <name>Fast mover</name>
+  <detail>Complete the game in less than 3 hours</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Selfless</name>
+  <detail>Reach ending #1</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>After you...</name>
+  <detail>Reach ending #2</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="-1">
+  <name>Game Completed</name>
+  <detail>Complete the game</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="-1">
+  <name>100% Completion</name>
+  <detail>Find everything in the game</detail>
+ </trophy>
+</trophyconf>

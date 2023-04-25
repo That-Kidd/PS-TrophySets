@@ -1,0 +1,120 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000f6477dfaf9977c5763775b5cd36c3428818ef5227f855917668a3c2b0f44d96c9ae4c9978b5e6f2703823fe5a430fcb77fe9e0a5aefba8baad3ba0e002a38432c32783e67b7182e0ec37468a5777fa0815bb5ba92bf86c5813bdb7e85508980c2e05a554e110557632cfa1c7681587472be3d65baf1691c98bde3f849af71ecc9cdd07d19668142d2f24ff232b7a32d2046e601e-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR12395_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Unholy Heights</title-name>
+ <title-detail>Unholy Heights</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Unholy Heights</name>
+  <detail>탈샐러하여, 세계정복에 성공했다.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Hello Work1</name>
+  <detail>탈샐러하여, 맨션 관리인이 되었다.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>제물</name>
+  <detail>첫 주민이 입주했다.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>퀘스트 오브 마왕</name>
+  <detail>처음으로 퀘스트를 클리어했다.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>자주 있는 일</name>
+  <detail>집세 체납…… 이것을 어떻게 하느냐가 관리인의 실력.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>눈물을 머금고</name>
+  <detail>처음으로 몬스터가 승천했다.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>나가!</name>
+  <detail>퇴거하면 그 후, 어디로 갈까.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>대쉬! 대쉬!</name>
+  <detail>집값 못 내는 건 아는데 말이야…….</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>사랑의 둥지</name>
+  <detail>연인과 러브러브하다고…….</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>Hello Work２</name>
+  <detail>내일부터 다른 일 하게 되었어…….</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>마음은 DJ?</name>
+  <detail>취미는 무엇?</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>안녕, 아가야</name>
+  <detail>새로운 생명이!</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>몬스터의 계보</name>
+  <detail>몬스터 도감을 조금 채웠다.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>아파트</name>
+  <detail>아파트가 2층 건물이 되었다.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>맨션</name>
+  <detail>아파트가 3층 건물이 되었다.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>억션</name>
+  <detail>아파트가 4층 건물이 되었다.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>이제야 절반!</name>
+  <detail>몬스터 도감의 절반을 채웠다!</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="S" pid="000">
+  <name>복수자</name>
+  <detail>당했으면 복수, 그것이 내 신념이다!</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>녀석이 온다.</name>
+  <detail>최고위종 몬스터가 왔다.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="000">
+  <name>초 러브러브</name>
+  <detail>어떤 종족이 마왕 초 러브가 되었다.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>Hello Work3</name>
+  <detail>오늘부터 일한닷!</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="G" pid="000">
+  <name>몬스터 마스터</name>
+  <detail>몬스터 도감을 전부 채웠다! 이걸로 몬스터 마스터!</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="G" pid="000">
+  <name>가구 씨</name>
+  <detail>모든 가구를 살 수 있게 되었다.</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="G" pid="000">
+  <name>사랑과 마왕과 후일담.</name>
+  <detail>사랑과 마왕과 후일담을 클리어했다.</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="G" pid="000">
+  <name>이끌리는 마물들</name>
+  <detail>용자 지크를 해치우고, 세계정복에 나섰다.</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="G" pid="000">
+  <name>진 마왕전설</name>
+  <detail>용자 지크를 해치우고, 새로운 전설이 시작된다.</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="G" pid="000">
+  <name>마왕 퀘스트</name>
+  <detail>마왕이 퀘스트를 모두 클리어했다.</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="G" pid="000">
+  <name>초 리치</name>
+  <detail>이제, 배고프지 않아!</detail>
+ </trophy>
+</trophyconf>

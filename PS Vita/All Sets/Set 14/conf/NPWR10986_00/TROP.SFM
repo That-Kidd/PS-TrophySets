@@ -1,0 +1,140 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000ffbc0d45ec8b15b542aa44c0b2c80dc7d5ffcb740429e011a45e36a8ba8cecf7fffe1720d6cde01d4a1a7242ac917e123418890621abbf6833c221bed3398b651a6032034e4e2bf7b7fdbe5157f5aa7e11588cf317c9d10a2dce5c30732e40e013e15e549741a1a28edef1bd573b338ae67c4d260cf9d8c1f65d6bd8a51eca294b4620ebd755361e61e9deb1ececff48d8d87dba-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR10986_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>戦国乙女 ～LEGEND BATTLE～のトロフィー</title-name>
+ <title-detail>戦国乙女 ～LEGEND BATTLE～のトロフィーセットです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>乙女奉行</name>
+  <detail>全てのトロフィーを獲得した。</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>泰平の光</name>
+  <detail>【ストーリー】の全てのシナリオをクリアした。</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>天下無双</name>
+  <detail>【アーケード】の＜難しい＞を全てのキャラクターで一度もコンティニューせずにクリアした。</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>南蛮コレクション</name>
+  <detail>【ギャラリー】のアイテム収集率100%を達成した。</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>免許皆伝</name>
+  <detail>全てのキャラクターの鎧を破壊した。</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>剣聖</name>
+  <detail>【アーケード】の＜難しい＞をキャラクター6人以上でクリアした。</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>戦国乙女は花盛り</name>
+  <detail>全てのキャラクターをアンロックした。</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>ファッションショー開催！</name>
+  <detail>【ギャラリー】で全ての衣装を購入した。</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>サウンドコンプリート！</name>
+  <detail>【ギャラリー】で全てのサウンドを購入した。</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>イラストコンプリート！</name>
+  <detail>【ギャラリー】で全てのイラストを購入した。</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>ムービーコンプリート！</name>
+  <detail>【ギャラリー】で全てのムービーを購入した。</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>燎原の火の如く</name>
+  <detail>10連撃コンボを達成した。</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>せっかちさん</name>
+  <detail>【アーケード】をバトル合計時間10分以内にクリアした。</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>奥義習得</name>
+  <detail>全てのキャラクターで奥義を発動した。</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>尾張編の序幕</name>
+  <detail>【ストーリー】＜尾張編＞の第一章をクリアした。</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>尾張編の完結</name>
+  <detail>【ストーリー】＜尾張編＞を全てクリアした。</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>駿河編の序幕</name>
+  <detail>【ストーリー】＜駿河編＞の第一章をクリアした。</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>駿河編の完結</name>
+  <detail>【ストーリー】＜駿河編＞を全てクリアした。</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>京都編の序幕</name>
+  <detail>【ストーリー】＜京都編＞の第一章をクリアした。</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="000">
+  <name>京都編の完結</name>
+  <detail>【ストーリー】＜京都編＞を全てクリアした。</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>流浪編の序幕</name>
+  <detail>【ストーリー】＜流浪編＞の第一章をクリアした。</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>流浪編の完結</name>
+  <detail>【ストーリー】＜流浪編＞を全てクリアした。</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>軍神乙女</name>
+  <detail>【アーケード】を＜難しい＞でクリアした。</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>足軽乙女</name>
+  <detail>【アーケード】を＜普通＞でクリアした。</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>見習い乙女</name>
+  <detail>【アーケード】を＜易しい＞でクリアした。</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>孤独な戦い</name>
+  <detail>【バーサス】の＜一人で遊ぶ＞をプレイした。</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>乙女フレンド</name>
+  <detail>【バーサス】の＜複数で遊ぶ＞をプレイした。</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>日々是精進</name>
+  <detail>【トレーニング】をプレイした。</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>南蛮の宝</name>
+  <detail>【ギャラリー】で初めてアイテムを購入した。</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>反撃開始！</name>
+  <detail>初めて闘氣解放を行った。</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>乙女の闘氣</name>
+  <detail>初めて闘氣覚醒を行った。</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>奥義開眼</name>
+  <detail>初めて奥義を発動した。</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>破壊、爽快！</name>
+  <detail>初めて鎧破壊を行った。</detail>
+ </trophy>
+</trophyconf>

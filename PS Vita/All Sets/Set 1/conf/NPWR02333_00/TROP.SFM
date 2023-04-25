@@ -1,0 +1,228 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000f1f0e7b26100cf0a9860140be664e76aa36609dfa14e4f3e2c586bf1da6a26640459faf3d5d0daecd496cb9037d1e00eb8a5c5afc2f80c0521897dc599108e724e632cfc4247e3ac1bd08c533f34cf93ca0c647313faa1c394c2fdd111ee6f6f37dec12c6b544e46098c2a2177d61f97e67a0dc91a9f88fb001aaf4c35a86c122708a2a58422981086c8c586c2e3f523cab25adb-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR02333_00</npcommid>
+ <trophyset-version>01.03</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>WipEout® 2048</title-name>
+ <title-detail>The future of racing - at your fingertips</title-detail>
+ <group id="001">
+  <name>WipEout® HD</name>
+  <detail>WipEout® HD</detail>
+ </group>
+ <group id="002">
+  <name>WipEout® HD Fury</name>
+  <detail>WipEout® HD Fury</detail>
+ </group>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>This is WipEout®!</name>
+  <detail>Obtain every Trophy in WipEout® 2048</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>2048 Champion</name>
+  <detail>Complete the 2048 season</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>2049 Champion</name>
+  <detail>Complete the 2049 season</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>2050 Champion</name>
+  <detail>Complete the 2050 season</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>Completist</name>
+  <detail>Complete all events in the Single Player Campaign</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>Elite Completist</name>
+  <detail>ELITE PASS every event in the Single Player Campaign</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>2048 Elite 1</name>
+  <detail>Get an ELITE PASS on the C Class Time Trial on Capital Reach in 2048</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>2048 Elite 2</name>
+  <detail>Get an ELITE PASS on Empire Climb Zone Mode in 2048</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>2048 Elite 3</name>
+  <detail>Get an ELITE PASS on the C Class Combat Event on Metro Park in 2048</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>2049 Elite 1</name>
+  <detail>Get an ELITE PASS on the B Class Race on Unity Square in 2049</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>2049 Elite 2</name>
+  <detail>Get an ELITE PASS on the A Class Time Trial on Metro Park in 2049</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>2049 Elite 3</name>
+  <detail>Get an ELITE PASS on Downtown Zone Mode in 2049</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>2050 Elite 1</name>
+  <detail>Get an ELITE PASS on Queens Mall Zone Mode in 2050</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>2050 Elite 2</name>
+  <detail>Get an ELITE PASS on the A Class Race on Empire Climb in 2050</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>2050 Elite 3</name>
+  <detail>Get an ELITE PASS on the A Class Race on Sol in 2050</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>Prototype</name>
+  <detail>ELITE PASS all Prototype Ship Challenges</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>Speed Thrills</name>
+  <detail>ELITE PASS any A+ Class Challenge</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Multiplayer Begins</name>
+  <detail>Finish an Online Multiplayer event</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>1 Down, 19 To Go</name>
+  <detail>Complete your first Online Multiplayer Level</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="000">
+  <name>50 MP Events</name>
+  <detail>Finish 50 Online Multiplayer events</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>Halfway There</name>
+  <detail>Complete 10 Online Multiplayer Levels</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="G" pid="000">
+  <name>Multiplayer Finished</name>
+  <detail>Finish the Online Multiplayer Campaign</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="G" pid="000">
+  <name>Multiplayer Completist</name>
+  <detail>Complete all nodes in the Online Muliplayer Campaign</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>50 Kills</name>
+  <detail>Destroy 50 ships in Online Multiplayer</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>Rank 25</name>
+  <detail>Reach Rank 25</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="G" pid="000">
+  <name>Rank 50</name>
+  <detail>Reach Rank 50</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="G" pid="000">
+  <name>Beat Zico</name>
+  <detail>Altima, C Class, Speed Lap, Pir-hana Speed - beat 52.00 seconds</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="G" pid="000">
+  <name>Mach 1.5</name>
+  <detail>Reach Zone 65 in any Zone Event</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="S" pid="000">
+  <name>The Unlucky 7</name>
+  <detail>Destroy 7 opposition ships in any Race in the Single Player Campaign</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="S" pid="000">
+  <name>2048 Speed Pads</name>
+  <detail>Hit a total of 2048 Speed Pads</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="S" pid="000">
+  <name>Perfect Pir-hana</name>
+  <detail>Get a Perfect Lap in the Pir-hana Prototype, in the A Class, Unity Square, Speed Lap</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>Step into HD</name>
+  <detail>Play any event in the HD campaign</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>Uplift Champion</name>
+  <detail>Complete all events in the Uplift campaign</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>Warped Champion</name>
+  <detail>Complete all events in the Warped campaign</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>Frenzy Champion</name>
+  <detail>Complete all events in the Frenzy campaign</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>Vertigo Champion</name>
+  <detail>Complete all events in the Vertigo campaign</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>Head Rush Champion</name>
+  <detail>Complete all events in the Head Rush campaign</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>Speed Freak Champion</name>
+  <detail>Complete all events in the Speed Freak campaign</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>Dropzone Champion</name>
+  <detail>Complete all events in the Dropzone campaign</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>Meltdown Champion</name>
+  <detail>Complete all events in the Meltdown campaign</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="S" pid="-1" gid="001">
+  <name>2048 - WipEout® HD All Complete</name>
+  <detail>Complete all WipEout® HD events, obtaining any medal</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="S" pid="-1" gid="001">
+  <name>2048 - WipEout® HD All Gold</name>
+  <detail>Complete all WipEout® HD events, obtaining all Gold medals</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="B" pid="-1" gid="002">
+  <name>Leap into Fury</name>
+  <detail>Play any event in the Fury campaign</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="B" pid="-1" gid="002">
+  <name>Blitzed Champion</name>
+  <detail>Complete all events in the Blitzed campaign</detail>
+ </trophy>
+ <trophy id="044" hidden="no" ttype="B" pid="-1" gid="002">
+  <name>Impact Champion</name>
+  <detail>Complete all events in the Impact campaign</detail>
+ </trophy>
+ <trophy id="045" hidden="no" ttype="B" pid="-1" gid="002">
+  <name>Voltage Champion</name>
+  <detail>Complete all events in the Voltage campaign</detail>
+ </trophy>
+ <trophy id="046" hidden="no" ttype="B" pid="-1" gid="002">
+  <name>Turbulence Champion</name>
+  <detail>Complete all events in the Turbulence campaign</detail>
+ </trophy>
+ <trophy id="047" hidden="no" ttype="B" pid="-1" gid="002">
+  <name>Vortex Champion</name>
+  <detail>Complete all events in the Vortex campaign</detail>
+ </trophy>
+ <trophy id="048" hidden="no" ttype="B" pid="-1" gid="002">
+  <name>Corruption Champion</name>
+  <detail>Complete all events in the Corruption campaign</detail>
+ </trophy>
+ <trophy id="049" hidden="no" ttype="B" pid="-1" gid="002">
+  <name>Nuked Champion</name>
+  <detail>Complete all events in the Nuked campaign</detail>
+ </trophy>
+ <trophy id="050" hidden="no" ttype="B" pid="-1" gid="002">
+  <name>Aftermath Champion</name>
+  <detail>Complete all events in the Aftermath campaign</detail>
+ </trophy>
+ <trophy id="051" hidden="no" ttype="S" pid="-1" gid="002">
+  <name>2048 - WipEout® HD Fury All Complete</name>
+  <detail>Complete all WipEout® HD Fury events, obtaining any medal</detail>
+ </trophy>
+ <trophy id="052" hidden="no" ttype="S" pid="-1" gid="002">
+  <name>2048 - WipEout® HD Fury All Gold</name>
+  <detail>Complete all WipEout® HD Fury events, obtaining all Gold medals</detail>
+ </trophy>
+</trophyconf>

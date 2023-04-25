@@ -1,0 +1,96 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000031a3053ecc9d22609664150d00fefb47e0de822096a5eab0e5df34e67437ef21385310776a471d7085fe905d8a6111da14d303cf804b98887b38b6e1b0fea1c619def2370a85fe112f340597f24ad29855299db92b0b1dee81f9d0ac4f213f6244fbf82d601ca25edbe22463df9a8bb2c0f0db790ecdb4637fe6e6e77b275af9d2016d98ed11e386f22bf9b71d36ed3781c877e8-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR15460_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>League of Evil</title-name>
+ <title-detail>League of Evil</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Platinum-League of Evil</name>
+  <detail>Complete all the trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>The apprentice</name>
+  <detail>Complete 25 missions</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>The savior</name>
+  <detail>Complete 50 missions</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>The hope</name>
+  <detail>Complete 100 missions</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>The whistleblower</name>
+  <detail>Collect 25 briefcases</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>The informer</name>
+  <detail>Collect 50 briefcases</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>The researcher</name>
+  <detail>Collect 100 briefcases</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>I &lt;3 stars</name>
+  <detail>Get 3 stars in 25 missions</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>The stargazer</name>
+  <detail>Get 3 stars in 50 missions</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>The astrologer</name>
+  <detail>Get 3 stars in 100 missions</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>The soldier</name>
+  <detail>Defeat 50 enemies</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>The warrior</name>
+  <detail>Defeat 100 enemies</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>The bionic warrior</name>
+  <detail>Defeat 250 enemies</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>The hero</name>
+  <detail>Complete all missions on chapter 1</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>The jungle hero</name>
+  <detail>Complete all missions on chapter 2</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>The dragon hero</name>
+  <detail>Complete all missions on chapter 3</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="G" pid="000">
+  <name>The spy</name>
+  <detail>Collect all briefcases on chapter 1</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="G" pid="000">
+  <name>The detective</name>
+  <detail>Collect all briefcases on chapter 2</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="G" pid="000">
+  <name>The addict to information</name>
+  <detail>Collect all briefcases on chapter 3</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="G" pid="000">
+  <name>The starlord</name>
+  <detail>Get 3 stars in all missions on chapter 1</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="G" pid="000">
+  <name>The jungle starlord</name>
+  <detail>Get 3 stars in all missions on chapter 2</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="G" pid="000">
+  <name>The dragon starlord</name>
+  <detail>Get 3 stars in all missions on chapter 3</detail>
+ </trophy>
+</trophyconf>

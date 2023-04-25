@@ -1,0 +1,68 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000003c220252c30e1afdbeb61503bae4b5c0fceb47b3ba57d80486b88a7af20c0267fcb2f11bbf159d53df70c494f77594781c03abf61ccaac4810efc4938b0dd437fcde426d82481f67b5b7b6255605a37b18d919c76644a65c904c8a3d65a450ebce1221cdccfb19f01d684352a6c3e6fefe6257c55814245539f9e140596f75c036e4dfb969931ad4c76ef35db7c2c7d953fce669-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR04056_00</npcommid>
+ <trophyset-version>01.02</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Flying Hamster HD</title-name>
+ <title-detail>Flying Hamster HD trophies set</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Welcome to Flying Hamster!</name>
+  <detail>Finish Stage 1 (Normal Mode)</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Finish Normal Mode</name>
+  <detail>Clear game in Normal Mode</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="-1">
+  <name>1 Credit Normal Mode</name>
+  <detail>Clear game in Normal Mode using 1 credit</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="-1">
+  <name>1 Credit Hard Mode</name>
+  <detail>Clear game in Hard Mode using 1 credit</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Top score</name>
+  <detail>Reach first position in the local Hi-score table</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Millionaire score</name>
+  <detail>Score 1.000.000 points</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Screen clear using a big berry</name>
+  <detail>Charge the berry weapon to the maximum by holding the primary attack button, then release the big berry to kill hen and all crows in Stage 1.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Screen clear using a big berry #2</name>
+  <detail>Charge the berry weapon to the maximum by holding the primary attack button, then release the big berry on the wall to kill the group of six bats in Stage 2.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Column breaker</name>
+  <detail>Destroy all columns in Stage 2 (Normal Mode)</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>Kill that ram!</name>
+  <detail>Kill jumping ram from stage 1 (Normal Mode)</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>Kill that robot!</name>
+  <detail>Kill jetpack robot from stage 3 (Normal Mode)</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="-1">
+  <name>Avoid them all!</name>
+  <detail>Finish any level without firing (except for the boss) with 1 credit</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="-1">
+  <name>Hardcore spitter</name>
+  <detail>Finish any level using spit weapon only</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="-1">
+  <name>Hamster Master</name>
+  <detail>Go through Stage 5-2 (Normal Mode) without losing any HP</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="-1">
+  <name>Adventurer</name>
+  <detail>Destroy secret passage from stage 2 (Normal Mode)</detail>
+ </trophy>
+</trophyconf>

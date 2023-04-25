@@ -1,0 +1,204 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000007f2e50bb968b67a7fae253fc00136e0ff5e1f92c2b7e2bf00e9e0f9318349db3274b92dbe4d7f03261a1b2839296e05d62c06199347b305da6ec40c4a07f11a1842326bb8c6d2fa6acb0adf5601d5d27b5ed91fc74fd5636aa0c207198aa200c7d30513e7ab3bc8c4b9232e7d848ca0716e6567b53571130b898e5dba8b26b3ed0394ac3dc306ff93a671ad74ccebab1caccd440-->
+<trophyconf version="1.1" platform="psp2">
+ <npcommid>NPWR02397_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Virtua Tennis 4</title-name>
+ <title-detail>Colección de trofeos de Virtua Tennis 4.</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>As del tenis</name>
+  <detail>Consigue todos los trofeos.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Principiante Arcade</name>
+  <detail>Supera una fase en el modo Arcade.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Principiante de Dobles</name>
+  <detail>Supera una fase en un partido de dobles en el modo Arcade.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>As en Individuales</name>
+  <detail>Supera el modo Individuales.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>As en Dobles</name>
+  <detail>Supera el modo Dobles.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>El gran King</name>
+  <detail>Derrota a King en Individuales en el modo Arcade.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>Revientaglobos</name>
+  <detail>Explota 30 globos en el modo Entrenamiento.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>Exhibicionista</name>
+  <detail>Juega 10 partidos de exhibición.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>¡Tenis descarado!</name>
+  <detail>Gana 5 partidos RV.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>Pantallero</name>
+  <detail>Juega un partido de Toque VS.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>Fotógrafo clásico</name>
+  <detail>Saca una foto clásica con la cámara VT.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>Gran puntería</name>
+  <detail>Consigue un "Combo x5" en Tiro al plato.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>Mamá gallina</name>
+  <detail>Llévale al menos 10 pollitos a la vez a su madre en Consigue los huevos.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>As de la precisión</name>
+  <detail>Marca 3 goles seguidos en Golpe maestro. </detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>Cara de póquer</name>
+  <detail>Consigue 10 escaleras reales de color en Póquer real.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>Bombamanía</name>
+  <detail>Detona 20 bombas en el campo de un oponente en Pista explosiva.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Mil moneditas</name>
+  <detail>Obtén 1.000 monedas en Monedero.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>As del viento</name>
+  <detail>Revienta 3 globos en Vendaval.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>As del muro</name>
+  <detail>Golpea al muro 5 veces con la pelota en El muro.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Tenista bolero</name>
+  <detail>Consigue un triple en Tirando bolos</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>Parada de emergencia</name>
+  <detail>Detén a los barcos 10 veces en Mueve el barco.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>¡Campeonato mundial superado!</name>
+  <detail>Acaba el juego.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>Famoso</name>
+  <detail>Conviértete en: Famoso.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>Consumado</name>
+  <detail>Conviértete en: Consumado.</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="G" pid="000">
+  <name>Entrada para la final de la STP</name>
+  <detail>Entra en la ronda eliminatoria</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>Futuro campeón</name>
+  <detail>Gana el torneo final del Descanso de campeonato</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>El doble</name>
+  <detail>Crea un jugador sacando una foto</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>Cliente habitual</name>
+  <detail>Detente 30 veces en la Oficina de gestión.</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="S" pid="000">
+  <name>En plena forma</name>
+  <detail>Alcanza el nivel de condición 20</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>Viajero internacional</name>
+  <detail>Juega con un visitante en línea 10 veces</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>Magnate</name>
+  <detail>Gana un total de 1.000.000 como premio en metálico.</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="G" pid="000">
+  <name>Experto en todo</name>
+  <detail>Toma lecciones de todos los estilos de juego.</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>Fondo de armario</name>
+  <detail>Compra 50 objetos distintos del catálogo de equipación.</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>Debut en línea</name>
+  <detail>Juega en línea con un personaje personalizado.</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>Primera victoria en línea</name>
+  <detail>Gana un partido en línea.</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>Pleno en línea</name>
+  <detail>Gana tres partidos consecutivos en línea.</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="G" pid="000">
+  <name>Estrella en línea</name>
+  <detail>Consigue el rango A.</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>Un placer</name>
+  <detail>Gana 10 juegos en blanco.</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="S" pid="000">
+  <name>Grande del tenis</name>
+  <detail>Haz 250 servicios MÁX.</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="S" pid="000">
+  <name>¡Golpe poderoso!</name>
+  <detail>Haz 250 mates.</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="B" pid="000">
+  <name>Peloteo interminable</name>
+  <detail>Aguanta un peloteo de 30 golpes.</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="S" pid="000">
+  <name>Supertenista</name>
+  <detail>Da 100 supergolpes.</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="B" pid="000">
+  <name>Maratón</name>
+  <detail>Corre 42km.</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="B" pid="000">
+  <name>As en golpes</name>
+  <detail>Golpea 5.000 veces.</detail>
+ </trophy>
+ <trophy id="044" hidden="no" ttype="B" pid="000">
+  <name>A golpe limpio</name>
+  <detail>Gana 100 puntos con golpes de fondo.</detail>
+ </trophy>
+ <trophy id="045" hidden="no" ttype="B" pid="000">
+  <name>As de la volea</name>
+  <detail>Gana 100 puntos con voleas.</detail>
+ </trophy>
+ <trophy id="046" hidden="no" ttype="B" pid="000">
+  <name>Fanático del Tenis</name>
+  <detail>Juega usando a todos los jugadores reales.</detail>
+ </trophy>
+ <trophy id="047" hidden="no" ttype="B" pid="000">
+  <name>¡Golpe con ganas!</name>
+  <detail>Golpea 50 golpes con máxima potencia.</detail>
+ </trophy>
+ <trophy id="048" hidden="no" ttype="B" pid="000">
+  <name>El descubrimiento</name>
+  <detail>Gana 10 juegos como el jugador que recibe.</detail>
+ </trophy>
+</trophyconf>

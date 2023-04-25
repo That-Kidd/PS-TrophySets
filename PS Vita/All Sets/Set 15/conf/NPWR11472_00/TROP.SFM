@@ -1,0 +1,156 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000099c19ed8f18ce58dee347a4b4372d42af2938d779beca55e050399de66e90b13bb73e3558d5f853531cece431205da688600067d10be0c9585035e547a02321031052290bf4d1b5bb39d5020d781d83898dc76d324786235bea813e2ad010a49ade0249e2030398748126a570f950de66239bb7acf7f0f2a96e199719b26fd66e19758fa883a1fc5fc88b4cc9d1130c3e7e6e471-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR11472_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>迷Q地下去死團</title-name>
+ <title-detail>迷Q地下去死團的獎盃組。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>滿分畢業</name>
+  <detail>取得所有獎盃！！！</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>感謝開始遊玩</name>
+  <detail>初次指令確定。</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>稱霸黑之塔</name>
+  <detail>通過第1章！</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>稱霸紅之塔</name>
+  <detail>通過第2章！</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>稱霸青之塔</name>
+  <detail>通過第3章！</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>稱霸白之塔</name>
+  <detail>通過第4章！</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>稱霸中黃神殿</name>
+  <detail>通過第5章！</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>星之救世主</name>
+  <detail>通過最終章！</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>稱霸金之紋章的迷宮</name>
+  <detail>通過金之紋章的迷宮！</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>稱霸木之紋章的迷宮</name>
+  <detail>通過木之紋章的迷宮！</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="G" pid="000">
+  <name>稱霸火之紋章的迷宮</name>
+  <detail>通過火之紋章的迷宮！</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>獲得木之紋章</name>
+  <detail>以困難難度通過遊戲！</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>獲得火之紋章</name>
+  <detail>以魔鬼難度通過遊戲！</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="G" pid="000">
+  <name>獲得神之紋章</name>
+  <detail>以地獄難度通過遊戲！</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>完美公會任務</name>
+  <detail>完成所有公會委託！&#x0a;</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="S" pid="000">
+  <name>討伐全部十二星獸</name>
+  <detail>擊敗所有的十二星獸！</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>怪物專家</name>
+  <detail>開啟全部怪物圖鑑。</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>守衛者配件蒐藏家</name>
+  <detail>開啟全部配件圖鑑。</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>最強艾斯特拉</name>
+  <detail>艾斯特拉的等級達到99。</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>最強可妮</name>
+  <detail>可妮的等級達到99。</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>最強芙雷亞</name>
+  <detail>芙雷亞的等級達到99。</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>最強瑪奇</name>
+  <detail>瑪奇的等級達到99。</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>最強賽席兒</name>
+  <detail>賽席兒的等級達到99。</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="S" pid="000">
+  <name>究極艾斯特拉</name>
+  <detail>艾斯特拉的等級達到999。&#x0a;</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="S" pid="000">
+  <name>究極可妮</name>
+  <detail>可妮的等級達到999。</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="S" pid="000">
+  <name>究極芙雷亞</name>
+  <detail>芙雷亞的等級達到999。</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="S" pid="000">
+  <name>究極瑪奇</name>
+  <detail>瑪奇的等級達到999。</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="S" pid="000">
+  <name>究極賽席兒</name>
+  <detail>賽席兒的等級達到999。</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="S" pid="000">
+  <name>四季服裝</name>
+  <detail>將艾斯特拉的所有服裝的熟練度提升至最高！</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="G" pid="000">
+  <name>守衛者大師</name>
+  <detail>將所有守衛者的等級提升至99！</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>魔械士新人</name>
+  <detail>殺敵數達到500！</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="B" pid="000">
+  <name>優秀魔械士</name>
+  <detail>殺敵數達到1000！</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="B" pid="000">
+  <name>最優秀魔械士</name>
+  <detail>殺敵數達到3000！</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="B" pid="000">
+  <name>公會首領</name>
+  <detail>殺敵數達到5000！</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="S" pid="000">
+  <name>大首領</name>
+  <detail>殺敵數達到10000！</detail>
+ </trophy>
+ <trophy id="035" hidden="yes" ttype="S" pid="000">
+  <name>超絕魔械士</name>
+  <detail>殺敵數達到20000！&#x0a;</detail>
+ </trophy>
+ <trophy id="036" hidden="yes" ttype="G" pid="000">
+  <name>究極超絕魔械士</name>
+  <detail>殺敵數達到30000！</detail>
+ </trophy>
+</trophyconf>

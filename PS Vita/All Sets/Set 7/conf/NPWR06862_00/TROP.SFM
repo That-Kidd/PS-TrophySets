@@ -1,0 +1,128 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000c9a7c81248422044b95577b6fad33eca69977de549d6b540e55a10224cd1f8cc5afec1a9b1140b7d80b168fdf8467d4e99ca29cb5a0ded64049b1a93f300c2f0f8f1eb8210c50b5a1145efa25a6a79755f4700b4f6150db15450af6bc79a7c698f34258741a6260b1ac6411d9d8a2522d6bbe804dd5685a1a343275380551c0e3953fb947f59b683c184a7e09a332650a812ec58-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR06862_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>熱血異能部活譚 Trigger Kiss</title-name>
+ <title-detail>「熱血異能部活譚 Trigger Kiss」のトロフィーリスト</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>青春は終わらねぇ！！</name>
+  <detail>全てのトロフィーを獲得した</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>「あきつき」じゃない、「あきづき」だ！</name>
+  <detail>秋月高校に転校してきた</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>入部申請、受理！</name>
+  <detail>地区予選１回戦を突破し、そして異能部へ入部した</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>これで仲間は揃ったな！</name>
+  <detail>５人目の部員を迎え、地区予選２回戦を突破した</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>激戦を終えて…</name>
+  <detail>勝敗を問わず、地区予選決勝戦を終えた</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>海よさらば！</name>
+  <detail>合宿の全日程が終了した</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>これが私の力だ！</name>
+  <detail>全国大会１回戦をＡチームで突破</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>これ、どうなっちゃうの！？</name>
+  <detail>全国大会１回戦をＢチームで突破</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>聞いてないんですけど！？</name>
+  <detail>選抜チームに抜擢される</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="000">
+  <name>本当に、よかった…</name>
+  <detail>親友と仲直りした</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>は、恥ずかしくなんかない！</name>
+  <detail>初めて自身の異能を使用した</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>私の彼は何位かな…？</name>
+  <detail>初めて人気投票の結果を見た</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="B" pid="000">
+  <name>イースターエッグ</name>
+  <detail>秘密のメッセージを見る</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>俺達の青春はこれからだ！</name>
+  <detail>梓馬ルートをクリアした</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>まぁなんだ…、好きだよ</name>
+  <detail>大和ルートをクリアした</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="S" pid="000">
+  <name>やっとデレてくれたね</name>
+  <detail>御門ルートをクリアした</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="S" pid="000">
+  <name>一緒に強くなりましょう！</name>
+  <detail>万里ルートをクリアした</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="S" pid="000">
+  <name>最高の相棒だぜ！</name>
+  <detail>巌ルートをクリアした</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="S" pid="000">
+  <name>大学でもよろしく頼む</name>
+  <detail>宗也ルートをクリアした</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="000">
+  <name>梓馬との日々</name>
+  <detail>梓馬のＣＧをすべて獲得した</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>大和との日々</name>
+  <detail>大和のＣＧをすべて獲得した</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>御門との日々</name>
+  <detail>御門のＣＧをすべて獲得した</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>万里との日々</name>
+  <detail>万里のＣＧをすべて獲得した</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>青春の日々</name>
+  <detail>その他のＣＧをすべて獲得した</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="G" pid="000">
+  <name>優勝旗を掲げよ</name>
+  <detail>秋月異能部が全国制覇を成し遂げた</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="G" pid="000">
+  <name>写真部部長</name>
+  <detail>すべてのＣＧを収集した</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="G" pid="000">
+  <name>吹奏楽部部長</name>
+  <detail>すべてのＢＧＭを収集した</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="G" pid="000">
+  <name>はがき職人</name>
+  <detail>すべての読み切りを収集した</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="G" pid="000">
+  <name>秋月の生き字引</name>
+  <detail>すべての用語を収集した</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="G" pid="000">
+  <name>異能部主将</name>
+  <detail>６人全員のエンディングを見た</detail>
+ </trophy>
+</trophyconf>

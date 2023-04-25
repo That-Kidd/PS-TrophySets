@@ -1,0 +1,116 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000c58e8f10c170609330dba36f3f582c816db1c2d77abcd55f23328b3ddd51b3a2232efc029a2356b235bddb60b793c7f8e0c829e0ba38d8cf935accb78cca79400fb55d158821765d1558dcf31e58669a4403e86a682e27e67d50e796520976289beb3039d7901d0f554b2643cacb5b7e71f2b1b6cb21fa694944fb4b140e0cc746fb9e786b52b36e427fba56d8ac50e4e4cf9477-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR11887_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Pox Nora</title-name>
+ <title-detail>The trophy set of Pox Nora</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>One With Nora</name>
+  <detail>Obtain All Trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>Who Wants to Fight Me!</name>
+  <detail>Win 40 Ranked Games</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>Conqueror of Legend</name>
+  <detail>Defeat 10 Solo Play Campaigns on Legendary difficulty</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>Reaching for the Top</name>
+  <detail>Reach Limited League in either the 1v1 or 2v2 Ladders</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>Overkill</name>
+  <detail>Win 5 Ranked Games with at least 3 Legendary runes in your deck</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>What is your Quest?</name>
+  <detail>Complete a full set of Heroic Quests before time runs out</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>The Highlander</name>
+  <detail>Win 5 Ranked Games using a deck with no duplicate runes</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>Moving On Up</name>
+  <detail>Win 20 Ranked Games</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>Lore Master</name>
+  <detail>Defeat 5 Solo Play Campaigns on Legendary difficulty</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>I am the Destroyer!</name>
+  <detail>Kill 5 Enemy Champions with a Transfigured Avatar</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>Battle of Titans</name>
+  <detail>Win a Match where both players have transfigured Avatars</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>Testing the Waters</name>
+  <detail>Play 5 Custom Games</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>Lore Acolyte</name>
+  <detail>Defeat 3 Solo Play Campaigns at any difficulty</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>Target Eliminated</name>
+  <detail>Kill an enemy relic with a spell</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>Medium Rare</name>
+  <detail>Reach Rare League in either the 1v1 or 2v2 Ladders</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>It Sure is Cold</name>
+  <detail>Win a Ranked Game with a Savage Tundra deck</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Why Am I Wet?</name>
+  <detail>Win a Ranked Game with a Forglar Swamp deck</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Holding Strong</name>
+  <detail>Win a Ranked Game with a Ironfist Stronghold deck</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>Tree Hugger</name>
+  <detail>Win a Ranked Game with a K'thir Forest deck</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Nefarious Purpose</name>
+  <detail>Win a Ranked Game with a Underdepths deck</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>The Grass is Always Greener</name>
+  <detail>Win a Ranked Game with a Sundered Lands deck</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>King of the Mountain</name>
+  <detail>Win a Ranked Game with a Shattered Peaks deck</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>Something Smells Funny</name>
+  <detail>Win a Ranked Game with a Forsaken Wastes deck</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>I Just Can't Decide</name>
+  <detail>Win a Ranked Game with a Split Faction deck</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>Exotic Hunting</name>
+  <detail>Win a Ranked Game with an Exotic rune in the deck</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>I am Legendary!</name>
+  <detail>Win a Ranked Game with a Legendary rune in the deck</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>Critical Spelling Mistake</name>
+  <detail>Kill an enemy champion with a spell</detail>
+ </trophy>
+</trophyconf>

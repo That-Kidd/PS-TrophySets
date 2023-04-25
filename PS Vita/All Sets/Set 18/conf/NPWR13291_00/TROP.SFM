@@ -1,0 +1,132 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000003f70eeb2b072dc99cb15e111eb576f3cf0f5863f63cbdddf7eb37fa7181f4d1d3720452e96fb4ccd7a57c9c9e60d6d6a442ac44d01749cf83e44576e81fd83ad06f132232bdaa0a6a9ef99477b4b4b596c756584caef89dbdbff939dfa981373cfc5b2689bf5144e437dd508ed0428b466d2cf3a47ddb0d8fd97ab5b5aa24ccead71fca7c2d82e55f44a2fee095da4987a3193b3-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR13291_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>うたの☆プリンスさまっ♪Amazing Aria &amp; Sweet Serenade LOVE</title-name>
+ <title-detail>うたの☆プリンスさまっ♪Amazing Aria &amp; Sweet Serenade LOVEトロフィー</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Amazing Sweet LOVE！</name>
+  <detail>全てのトロフィーを獲得した証</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="G" pid="000">
+  <name>Complete All Stories！</name>
+  <detail>10人全員の全てのエンディングを見た</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="G" pid="000">
+  <name>My Collections！</name>
+  <detail>全てのイベントイラストを集めた</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="G" pid="000">
+  <name>Precious Memories！</name>
+  <detail>全てのメモリアルを集めた</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="G" pid="000">
+  <name>Expert of Rhythm！</name>
+  <detail>難易度PROのリズムレッスンでSランクを取得した</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="G" pid="000">
+  <name>Enjoy Colorful Days！</name>
+  <detail>COLORFUL STORYを全てクリアした</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="000">
+  <name>ADVENT ACE</name>
+  <detail>SPECIAL COOLルートのエンディングを見た</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>Superb Spirits</name>
+  <detail>SPECIAL HAPPYルートのエンディングを見た</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>一緒にHang in there♪</name>
+  <detail>FUTURE STARSルートのエンディングを見た</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>虹色☆OVER DRIVE！</name>
+  <detail>一十木音也ルートの全てのエンディングを見た</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>BLUE×PRISM HEART</name>
+  <detail>聖川真斗ルートの全てのエンディングを見た</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>アンドロメダでクチヅケを</name>
+  <detail>四ノ宮那月ルートの全てのエンディングを見た</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>星屑☆Shall we dance？</name>
+  <detail>一ノ瀬トキヤルートの全てのエンディングを見た</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>RED HOT×LOVE MINDS</name>
+  <detail>神宮寺レンルートの全てのエンディングを見た</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>コズミックRUNNER</name>
+  <detail>来栖 翔ルートの全てのエンディングを見た</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="S" pid="000">
+  <name>情熱のデジャヴキス</name>
+  <detail>愛島セシルルートの全てのエンディングを見た</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="S" pid="000">
+  <name>AMAZING LOVE</name>
+  <detail>月宮林檎ルートの全てのエンディングを見た</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="S" pid="000">
+  <name>熱情 SERENADE</name>
+  <detail>日向龍也ルートの全てのエンディングを見た</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="S" pid="000">
+  <name>君だけの為の物語</name>
+  <detail>早乙女光男ルートの全てのエンディングを見た</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>二人のフレーズはNeverland!!</name>
+  <detail>一十木音也ルートの大恋愛エンドまたは恋愛エンドのどちらか1つをクリアした</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="000">
+  <name>お前がいればそれでいい</name>
+  <detail>聖川真斗ルートの大恋愛エンドまたは恋愛エンドのどちらか1つをクリアした</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>手を取って星座を紡ぎましょう</name>
+  <detail>四ノ宮那月ルートの大恋愛エンドまたは恋愛エンドのどちらか1つをクリアした</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="B" pid="000">
+  <name>心繋がるHeart-Ring</name>
+  <detail>一ノ瀬トキヤルートの大恋愛エンドまたは恋愛エンドのどちらか1つをクリアした</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>愛は君だけのものと誓うよ</name>
+  <detail>神宮寺レンルートの大恋愛エンドまたは恋愛エンドのどちらか1つをクリアした</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="000">
+  <name>お前は俺のすべて</name>
+  <detail>来栖 翔ルートの大恋愛エンドまたは恋愛エンドのどちらか1つをクリアした</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="B" pid="000">
+  <name>求め合いたいPrecious love</name>
+  <detail>愛島セシルルートの大恋愛エンドまたは恋愛エンドのどちらか1つをクリアした</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>果てない想いは繋がってゆく</name>
+  <detail>月宮林檎ルートの大恋愛エンドまたは恋愛エンドのどちらか1つをクリアした</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="B" pid="000">
+  <name>自分変えた大きな愛</name>
+  <detail>日向龍也ルートの大恋愛エンドまたは恋愛エンドのどちらか1つをクリアした</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="B" pid="000">
+  <name>空を彩る虹になって</name>
+  <detail>早乙女光男ルートの大恋愛エンドまたは恋愛エンドのどちらか1つをクリアした</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="B" pid="000">
+  <name>リズムレッスンクリア！</name>
+  <detail>初めてリズムレッスンをクリアした</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="B" pid="000">
+  <name>演奏レッスンクリア！</name>
+  <detail>初めて演奏レッスンをクリアした</detail>
+ </trophy>
+</trophyconf>

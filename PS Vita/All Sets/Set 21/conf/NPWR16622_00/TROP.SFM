@@ -1,0 +1,80 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000969964d7472d984c6862075d799c80655edb84bd84a3ba73138f29a975865e94a3c031ca337139cd4b2faf79af4c4468893b0276308ea821a5ad02cff4dbd09509f86da65b529a1fab2a985acf8bb1a96d6ce3b2ebc6b6fb807d9a6a9fa1cf9857b7994289ea107384677e5d12d3af0b7c28b2f1bfc758c12ddeda9bb514c1276fd3200e96bcb7ee61578138ae621e543f8d1619-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR16622_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Planet RIX-13</title-name>
+ <title-detail>Planet RIX-13</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Planet RIX-13 Platinum</name>
+  <detail>Good job! Completed all tasks!</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="000">
+  <name>Cause of Death: Radiation</name>
+  <detail>Die from effects of radiation</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>Cause of Death: Explosion</name>
+  <detail>Die in the explosion</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>Cause of Death: Suffocation</name>
+  <detail>Die from effects of toxic fumes</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>Cause of Death: Drowning</name>
+  <detail>Drown in the water</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>Cause of Death: Killed by a Monster</name>
+  <detail>Die after a monster attack</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>Explorer</name>
+  <detail>Find all the locations</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>You Managed to Survive!</name>
+  <detail>Pass the game</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>Wonders of Technology</name>
+  <detail>Make an object using 3D printer</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>Archaeologist</name>
+  <detail>Find a Crystal</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>Alchemist</name>
+  <detail>Try to prepare a potion using five components</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>Two is Better Than One</name>
+  <detail>Restore the operation of both servers</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>It Was Worth a Try</name>
+  <detail>Try to fly away from the planet, not solving the problem with the source of the anomalies</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="000">
+  <name>There is a Signal!</name>
+  <detail>Restore the operation of repeaters</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>Cause of Death: Acid</name>
+  <detail>Die due to acid exposure</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>Cause of Death: Suicide</name>
+  <detail>Commit suicide</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="G" pid="000">
+  <name>Let It Burn!</name>
+  <detail>Destroy the source of anomalies</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="G" pid="000">
+  <name>Peaceful Outcome</name>
+  <detail>Eliminate the source of anomalies without destroying it</detail>
+ </trophy>
+</trophyconf>

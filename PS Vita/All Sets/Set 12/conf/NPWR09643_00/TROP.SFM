@@ -1,0 +1,236 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000b489759896386d405cbe181e0781ec9a83374781c4dcabe26ac5777df345f567b3dfa1ceb2486259cc9ad8be120ac8c8bcdb2cb379b6d017bd003f7ff1b0beeb9fd796e8a970fa94a45103d38d64079190602c4df926ba6cc734baaeddc85c3adcd4a3b58ef525698bf56585b56db3297d0818106592b81586f1a04d58ecf2d11cf6b8dab35d743ad91ce7ce79c8d5ad5ead720d-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR09643_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>雷子</title-name>
+ <title-detail>雷子トロフィー</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>雷子マスター</name>
+  <detail>雷子を極める</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>蜀編プロローグ</name>
+  <detail>蜀編プロローグをクリア</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>張飛との出会い</name>
+  <detail>張飛との出会いをクリア</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>曹操軍襲来</name>
+  <detail>曹操軍襲来をクリア</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>戦闘工作</name>
+  <detail>戦闘工作をクリア</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>長坂の戦い</name>
+  <detail>長坂の戦いをクリア</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>赤壁の戦い</name>
+  <detail>赤壁の戦いをクリア</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>弓の黄忠</name>
+  <detail>弓の黄忠をクリア</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>綿竹の戦い</name>
+  <detail>綿竹の戦いをクリア</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="000">
+  <name>成都攻略戦</name>
+  <detail>成都攻略戦をクリア</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="000">
+  <name>怒りの矛先</name>
+  <detail>怒りの矛先をクリア</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>関羽が託す者</name>
+  <detail>関羽が託す者をクリア</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="B" pid="000">
+  <name>近づく闇</name>
+  <detail>近づく闇をクリア</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="000">
+  <name>白帝城</name>
+  <detail>白帝城をクリア</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="B" pid="000">
+  <name>街亭の戦い</name>
+  <detail>街亭の戦いをクリア</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>知略対決</name>
+  <detail>知略対決をクリア</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>孔明の死</name>
+  <detail>孔明の死をクリア</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>剣閣の戦い</name>
+  <detail>剣閣の戦いをクリア</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>呉編プロローグ</name>
+  <detail>呉編プロローグをクリア</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>模擬戦</name>
+  <detail>模擬戦をクリア</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="000">
+  <name>赤壁の戦い</name>
+  <detail>赤壁の戦いをクリア</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>合肥の戦い</name>
+  <detail>合肥の戦いをクリア</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="B" pid="000">
+  <name>合肥再び</name>
+  <detail>合肥再びをクリア</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>南荊州攻略戦</name>
+  <detail>南荊州攻略戦をクリア</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="000">
+  <name>友達</name>
+  <detail>友達をクリア</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="B" pid="000">
+  <name>夷陵の戦い</name>
+  <detail>夷陵の戦いをクリア</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>魏編プロローグ</name>
+  <detail>魏編プロローグをクリア</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="B" pid="000">
+  <name>赤壁の戦い</name>
+  <detail>赤壁の戦いをクリア</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="B" pid="000">
+  <name>男三人</name>
+  <detail>男三人をクリア</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="B" pid="000">
+  <name>漢中の戦い</name>
+  <detail>漢中の戦いをクリア</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="B" pid="000">
+  <name>樊城の戦い</name>
+  <detail>樊城の戦いをクリア</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="B" pid="000">
+  <name>馬超奮迅</name>
+  <detail>馬超奮迅をクリア</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="B" pid="000">
+  <name>五丈原の戦い</name>
+  <detail>五丈原の戦いをクリア</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="B" pid="000">
+  <name>謀反</name>
+  <detail>謀反をクリア</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="B" pid="000">
+  <name>雷編プロローグ</name>
+  <detail>雷編プロローグをクリア</detail>
+ </trophy>
+ <trophy id="035" hidden="yes" ttype="B" pid="000">
+  <name>劉備軍進軍</name>
+  <detail>劉備軍進軍をクリア</detail>
+ </trophy>
+ <trophy id="036" hidden="yes" ttype="B" pid="000">
+  <name>波状逆落とし</name>
+  <detail>波状逆落としをクリア</detail>
+ </trophy>
+ <trophy id="037" hidden="yes" ttype="B" pid="000">
+  <name>羌族同盟戦</name>
+  <detail>羌族同盟戦をクリア</detail>
+ </trophy>
+ <trophy id="038" hidden="yes" ttype="B" pid="000">
+  <name>呉を救え！</name>
+  <detail>呉を救え！をクリア</detail>
+ </trophy>
+ <trophy id="039" hidden="yes" ttype="B" pid="000">
+  <name>江陵の戦い</name>
+  <detail>江陵の戦いをクリア</detail>
+ </trophy>
+ <trophy id="040" hidden="yes" ttype="B" pid="000">
+  <name>虎牢関の戦い</name>
+  <detail>虎牢関の戦いをクリア</detail>
+ </trophy>
+ <trophy id="041" hidden="yes" ttype="B" pid="000">
+  <name>乱世終止符</name>
+  <detail>乱世終止符をクリア</detail>
+ </trophy>
+ <trophy id="042" hidden="yes" ttype="B" pid="000">
+  <name>新しい時代</name>
+  <detail>新しい時代をクリア</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="S" pid="000">
+  <name>蜀</name>
+  <detail>蜀編をクリア</detail>
+ </trophy>
+ <trophy id="044" hidden="no" ttype="S" pid="000">
+  <name>呉</name>
+  <detail>呉編をクリア</detail>
+ </trophy>
+ <trophy id="045" hidden="no" ttype="S" pid="000">
+  <name>魏</name>
+  <detail>魏編をクリア</detail>
+ </trophy>
+ <trophy id="046" hidden="yes" ttype="S" pid="000">
+  <name>雷</name>
+  <detail>雷編をクリア</detail>
+ </trophy>
+ <trophy id="047" hidden="yes" ttype="B" pid="000">
+  <name>憂いをのぞく</name>
+  <detail>憂いをのぞくをクリア</detail>
+ </trophy>
+ <trophy id="048" hidden="yes" ttype="B" pid="000">
+  <name>大河戦隊水蓮ジャー</name>
+  <detail>大河戦隊水蓮ジャーをクリア</detail>
+ </trophy>
+ <trophy id="049" hidden="yes" ttype="B" pid="000">
+  <name>恋せよ司馬懿</name>
+  <detail>恋せよ司馬懿をクリア</detail>
+ </trophy>
+ <trophy id="050" hidden="yes" ttype="B" pid="000">
+  <name>勇将・趙雲子龍</name>
+  <detail>勇将・趙雲子龍をクリア</detail>
+ </trophy>
+ <trophy id="051" hidden="yes" ttype="B" pid="000">
+  <name>隣の芝生は青く見える</name>
+  <detail>隣の芝生は青く見えるをクリア</detail>
+ </trophy>
+ <trophy id="052" hidden="yes" ttype="B" pid="000">
+  <name>英雄は色を好む</name>
+  <detail>英雄は色を好むをクリア</detail>
+ </trophy>
+ <trophy id="053" hidden="yes" ttype="B" pid="000">
+  <name>赤壁の裏側</name>
+  <detail>赤壁の裏側をクリア</detail>
+ </trophy>
+ <trophy id="054" hidden="yes" ttype="B" pid="000">
+  <name>ザ・変・パーティー</name>
+  <detail>ザ・変・パーティーをクリア</detail>
+ </trophy>
+ <trophy id="055" hidden="yes" ttype="B" pid="000">
+  <name>不器用の烙印</name>
+  <detail>不器用の烙印をクリア</detail>
+ </trophy>
+ <trophy id="056" hidden="yes" ttype="G" pid="000">
+  <name>絵</name>
+  <detail>CGを全て見る</detail>
+ </trophy>
+</trophyconf>

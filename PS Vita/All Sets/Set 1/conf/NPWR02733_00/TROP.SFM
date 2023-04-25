@@ -1,0 +1,36 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000051d14b7728eef39228ac5bbd6a542d769753a99b3ff9a5f82be6ad03b42c50afbdbf66a908c214f89b7f00add2c27adc4e5467c049d7bc33161de3443788619bf6d9286c933a249eb8c9e888bfb97668b2897d889529c4871c96c5bac3b3dfa1f59d8d8cd40d48aa8fdc0d2fe7271e2e6915d623680241ed4fe7953ef53843333a4ed2d1a1dab1e3eca90679eb3ed035961be0de-->
+<trophyconf version="1.1" platform="psp2">
+ <npcommid>NPWR02733_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>TABLE TOP TANKS</title-name>
+ <title-detail>Become supreme commander of the not-so-heavy artillery</title-detail>
+ <trophy id="000" hidden="no" ttype="G" pid="-1">
+  <name>Challenge Commander</name>
+  <detail>Complete all solo challenges</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="-1">
+  <name>Centurion</name>
+  <detail>Destroy 100 tanks using any game modes</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="-1">
+  <name>War Room Owner</name>
+  <detail>Win 5 multiplayer matches</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="-1">
+  <name>HOT SHOT!</name>
+  <detail>Destroy 3 tanks with 1 Air Strike in any mode</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="-1">
+  <name>Field Marshal</name>
+  <detail>Win one of each game type using Solo Creator</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Ricochet Rocketeer</name>
+  <detail>Bounce a rocket to destroy a tank</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>War Artisan</name>
+  <detail>Create an arena with custom shapes and objects using Solo Creator</detail>
+ </trophy>
+</trophyconf>

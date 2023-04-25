@@ -1,0 +1,124 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000103d4133a6d38380697c1546289f1f7d4474b13c8f8a910f27cc5e8ea0b0c3a5b6463735108a9e97a8b86f39f260a65c60484b32c32a907e2eb6b237374f19f3893a08f7da7c6ab9fbbe8970c101b7ccb978129659640b9fde3519b309cf40b32bc4f9a32a503c0e8c394230b50d5ea925d75ff8e99575a7a449ca99b928d87db3f63f0d2b666a9e5a9d6f7ad63b0b6c855b5dd5-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR07959_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>風雨来記3トロフィーセット</title-name>
+ <title-detail>風雨来記3のトロフィーセットです</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>風雨来記3マスター</name>
+  <detail>おめでとうございます！　風雨来記3全てのトロフィーを獲得しました。</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="G" pid="000">
+  <name>〜ふうらいき〜</name>
+  <detail>鋭明展で1位を獲り、一人旅ルートのトゥルーエンドをクリアしました。</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>出会いと別れ</name>
+  <detail>条件：ヒロインルートを全てクリアする</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>満杯のメモリー</name>
+  <detail>条件：アルバムモードの写真をコンプリートする</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>偶然なる出会いに乾杯</name>
+  <detail>条件：散策中や走行中などランダムの確率で発生するイベントを全て見る</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>EXTREME北海道通</name>
+  <detail>条件：全スポットの全バリエーション（同スポットの複数シナリオを含む）を制覇する</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>期待の新人</name>
+  <detail>条件：一人旅ルートの2位エンドをクリアする</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>ガラナはたまに涙の味</name>
+  <detail>条件：逢沢なぎさルートをクリアする</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>未来</name>
+  <detail>条件：水科小夜ルートをクリアする</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>邂逅</name>
+  <detail>条件：富村泉ルートをクリアする</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>スケッチブックを胸に</name>
+  <detail>条件：雪代明里ルートをクリアする</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>時と場所の縁</name>
+  <detail>条件：アルバムモードのスポット写真をコンプリートする</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>一期一会を大切に</name>
+  <detail>条件：アルバムモードのイベントCGをコンプリートする</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>星を追う人</name>
+  <detail>天体写真家連続ランダムイベントを全て見ました。</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>心臓がエンジン</name>
+  <detail>峠のチャリダー連続ランダムイベントを全て見ました。</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>たまには横道へ逸れてみよう</name>
+  <detail>条件：サブイベント（ランダムで発生するものを除く）を全て見る</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="S" pid="000">
+  <name>北海道大横断</name>
+  <detail>見事、西端から東端まで一日で走り切りました。</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>とても北海道通</name>
+  <detail>条件：全スポットを訪れる</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>銅メダル片手に</name>
+  <detail>条件：一人旅ルートの3位エンドをクリアする</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>最高の一枚を目指して</name>
+  <detail>条件：一人旅ルートをクリアする</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="000">
+  <name>熱い男、田口</name>
+  <detail>札幌での連続サブイベントを全て見ました。</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>松本女史のお悩み相談室</name>
+  <detail>長万部公園でのサブイベントを見ました。</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="B" pid="000">
+  <name>北海道大縦断</name>
+  <detail>見事、北端から南端まで一日で走り切りました。</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>かなり北海道通</name>
+  <detail>条件：スポットを100ヶ所訪れる</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>駿足の取材</name>
+  <detail>条件：スポットを一日で7ヶ所訪れる</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>もっと北海道通</name>
+  <detail>条件：スポットを50ヶ所訪れる</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>快足の取材</name>
+  <detail>条件：スポットを一日で3ヶ所訪れる</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>北海道通</name>
+  <detail>条件：スポットを15ヶ所訪れる</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="B" pid="000">
+  <name>マメなお仕事</name>
+  <detail>記事を毎日更新し続けました。</detail>
+ </trophy>
+</trophyconf>

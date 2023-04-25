@@ -1,0 +1,56 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000666d87c2ea2cdc6b929640a0c77d11c8ecf9e6c1c0e05827bc2b9150e629279017c61e02fff5327c7f44cb39db599f37f1072fe2cf7802bb853a8cd5f4dc9932263c3d945d12d73c21f868f29559e4d7a812041a981cd13168b3fe7c9f45e65444f5686200c6b45e4d2cdd5e498303349fd1d50778795c9142ab639f1a471f75e84eb0ed1eb3bdf17fc20075edc299848c94d753-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR18830_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Breeder Homegrown: Director's Cut</title-name>
+ <title-detail>Breeder Homegrown: Director's Cut</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Breeder Homegrown: Director's Cut Platinum</name>
+  <detail>Good job! Completed all tasks!</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>Caught</name>
+  <detail>Naughty boy!</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>Coffee</name>
+  <detail>This is just a coffee.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>Fight the Empire</name>
+  <detail>You will be the end of us.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>Snail Grail</name>
+  <detail>The Breeder has many forms.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>Monster Slayer</name>
+  <detail>You defeated Xenon</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>Psycho Pops</name>
+  <detail>No wonder you're crazy.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>Confusion</name>
+  <detail>Confusion will be your epitaph</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>The Labyrinth</name>
+  <detail>Many went down</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>The Duck</name>
+  <detail>Where is the duck ?</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>Resurrection</name>
+  <detail>Time is irrelevant.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>Let the story begin...</name>
+  <detail>Start the game</detail>
+ </trophy>
+</trophyconf>

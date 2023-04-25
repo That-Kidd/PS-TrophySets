@@ -1,0 +1,56 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000edc22766b213e70fec297a338737c346ae0d42113b3f919036c5546fe87af6e539b36c6abcd13340d2dc8267fb079ff3ee87c8196f0ceddb462d03acd722324aa71c04476dd80cfa05b44d4435494d9ad12f29b7d0e80ab4097abb738d01c8da0eb6159a4acd5b0917e04ab3e9c9ae46609b38bd68850d9a8b9fc47329e70b136a0e9492654507b8760001e0cd7bea8e94c3eb2f-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR06398_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Doodle Kingdom</title-name>
+ <title-detail>Trophy set for "Doodle Kingdom"</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Adventurer</name>
+  <detail>Complete 3 quests</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Creator</name>
+  <detail>Create all elements in Genesis mode</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Quest complete!</name>
+  <detail>Complete 1 quest</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Spell master</name>
+  <detail>Create all spells in Genesis mode</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Bestiary</name>
+  <detail>Create all magic creatures in Genesis mode</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Lord of the elements</name>
+  <detail>Open all elemental elements in Genesis mode</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Urbanizer</name>
+  <detail>Create 3 towns in Genesis mode</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="-1">
+  <name>Wise man</name>
+  <detail>Create 3 new elements in a row</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="-1">
+  <name>Headhunter</name>
+  <detail>Kill 300 enemies in My Hero mode</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="-1">
+  <name>Witcher</name>
+  <detail>Kill 30 bosses in My Hero mode</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="-1">
+  <name>Treasure hunter</name>
+  <detail>Open 500 chests in My Hero mode</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="-1">
+  <name>Marathooner</name>
+  <detail>Run 20000 meters in My Hero mode</detail>
+ </trophy>
+</trophyconf>

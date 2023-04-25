@@ -1,0 +1,68 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000c2fbb8870dd1ab84cf4ad272dc36df27264aac37c455e5482f09ccc0f9422bd9654f873c7b352d7eeef6fb50d67ca4555de5aa71e1b75d7d3a0bdfcd2f421f14a8be66832a2c6f49dcec0815f716ac8f25882e89bd9fa8c192f2f4985abadbd2ba2174676a3820b9e20886064d0d839560e93ae94beafe70cccbbb4b649195db40ace86e6a8577ebd8535ddcd9743db3ad0d2c03-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR19395_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>FoxyLand</title-name>
+ <title-detail>FoxyLand</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Platinum Fox</name>
+  <detail>Get all other trophies.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>It's not over!</name>
+  <detail>Die on any level.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>First gem</name>
+  <detail>Get your 1st gem.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>First cherry</name>
+  <detail>Get your 1st cherry.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>Collector's cherry</name>
+  <detail>Collect 50 cherries.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>Big Collector's cherry</name>
+  <detail>Collect 100 cherries.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>Shopping.</name>
+  <detail>Buy an item on the shop.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>Nasty toad</name>
+  <detail>Defeat a toad.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>Fast opossum</name>
+  <detail>Defeat a opossum.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>Winged eagle</name>
+  <detail>Defeat an eagle.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>With shine</name>
+  <detail>Complete a level with 3 starts.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>Adventure begins</name>
+  <detail>Complete 5 levels.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>Don't stop there</name>
+  <detail>Complete 10 levels.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="000">
+  <name>Your love is somewhere near</name>
+  <detail>Complete 15 levels.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="000">
+  <name>You're on the right track</name>
+  <detail>Complete 20 levels.</detail>
+ </trophy>
+</trophyconf>

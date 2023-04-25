@@ -1,0 +1,108 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000e08ee37b194a01a26d20c06dec6d204a31ac50f8b63ab651198476e20b0f02b4f60464e919c677032b6602989f8a29dcf485673a2db5364059811f89ad6f2680ef9e2e12c4cc356fca03f3c2a14b1c94c1ff6c580958bdbdb57ca72a73e22ef977d246d9fb2e7befa1e4edbc38c2927c2b5657712af808a4a0bb9e97254f2af30ff5f867f8f4282241d2506b6f64c02fe4db3085-->
+<trophyconf version="1.1" platform="ps3,psp2,ps4" policy="large">
+ <npcommid>NPWR11799_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>THE BIT.TRIP</title-name>
+ <title-detail>Get all of the trophies in THE BIT.TRIP.</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>BIT.TRIP COMPLETE</name>
+  <detail>You Are CommanderVideo.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>A Reasonable Request</name>
+  <detail>Get a chain of 253 in any game.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>FATE.MASTER</name>
+  <detail>Defeat 2000 enemies in BIT.TRIP FATE.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>So Meta</name>
+  <detail>Enter Meta Mode in each level in BIT.TRIP FLUX.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>Nether Again</name>
+  <detail>Escape from the Nethersphere in any game.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>Six Degrees of CommanderVideo</name>
+  <detail>Play each game at least once.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>No Beat Left Behind</name>
+  <detail>Hit all beats in a challenge in BIT.TRIP CORE.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>Freud Would Be Proud</name>
+  <detail>Race against the id boss in BIT.TRIP VOID for 2 minutes before beating the level.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>Beat Feat</name>
+  <detail>Block all Beats during a challenge in BIT.TRIP BEAT.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>That's Almost 51!</name>
+  <detail>Achieve a multiplier of 50 in Normal difficulty in BIT.TRIP CORE.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>Buddy System</name>
+  <detail>Use each buddy power-up at least once in BIT.TRIP FATE.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>Better Than Perfect</name>
+  <detail>Get a Double Perfect in BIT.TRIP RUNNER.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>Game Over Yeaaah!</name>
+  <detail>Get the Game Over in BIT.TRIP RUNNER.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>Odyssean Feet</name>
+  <detail>Beat the Odyssey in BIT.TRIP RUNNER.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>Danny Dangerfield</name>
+  <detail>Unleash the Danny in BIT.TRIP FLUX.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>Gill Buildin'</name>
+  <detail>Set the standard with Bill Gildan in BIT.TRIP BEAT.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>A Real BEATing</name>
+  <detail>Hit 1,342 Beats in BIT.TRIP BEAT.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="G" pid="000">
+  <name>BEAT.COMPLETE</name>
+  <detail>Beat BIT.TRIP BEAT.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="G" pid="000">
+  <name>CORE.COMPLETE</name>
+  <detail>Beat BIT.TRIP CORE.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="G" pid="000">
+  <name>VOID.COMPLETE</name>
+  <detail>Beat BIT.TRIP VOID.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="G" pid="000">
+  <name>RUNNER.COMPLETE</name>
+  <detail>Beat BIT.TRIP RUNNER.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="G" pid="000">
+  <name>FATE.COMPLETE</name>
+  <detail>Beat BIT.TRIP FATE.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="G" pid="000">
+  <name>FLUX.COMPLETE</name>
+  <detail>Beat BIT.TRIP FLUX.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="G" pid="000">
+  <name>THE BIT.TRIP</name>
+  <detail>Beat all games in THE BIT.TRIP.</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="G" pid="000">
+  <name>A Perfect Perfect</name>
+  <detail>Earn a PERFECT score in any full level of any game.</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,152 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000005526777d1c31d06a72524f44dde9c232f93652cc310122a175fd8150d81744163cc36dd2f3a94ef2668b121d195fe2130c350ec780417036f32ccb7654fce3dedd758a25a34e727e0fb3d2db4635125686122db44bc5bed98fd9058f785f01f48ea11c00a848ebaec6104e45cbb62b5fe8789280a2618a05068177dbfc38f269d48a80ca522b8503962474ebcef180bfef40a9fa-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR11665_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>薄櫻鬼 真改　風之章</title-name>
+ <title-detail>薄櫻鬼 真改　風之章的獎盃組。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>結束風之章</name>
+  <detail>獲得所有獎盃</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>京都的第一夜</name>
+  <detail>完成序章</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>成為新選組的小姓</name>
+  <detail>完成第一章</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>與新選組共進退</name>
+  <detail>完成第二章</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>知曉新選組的秘密</name>
+  <detail>完成第三章</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>與夥伴別離與重逢</name>
+  <detail>完成第四章</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>鬼副長之路</name>
+  <detail>開始土方路線</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>新選組之劍</name>
+  <detail>開始沖田路線</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>堅持信念的代價</name>
+  <detail>開始齋藤路線</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>非人之人的心</name>
+  <detail>開始藤堂路線</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>男人的堅持</name>
+  <detail>開始原田路線</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>與她的約定</name>
+  <detail>開始永倉路線</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>化為羅剎的證明</name>
+  <detail>開始山南路線</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>想要的力量</name>
+  <detail>開始山崎路線</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>戰場上的重逢</name>
+  <detail>開始伊庭路線</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>愛擔心的晚輩</name>
+  <detail>開始相馬路線</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>來自土佐的使者</name>
+  <detail>開始坂本路線</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>鬼族</name>
+  <detail>開始風間路線</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="S" pid="000">
+  <name>陪伴在他身邊</name>
+  <detail>完成土方路線</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="S" pid="000">
+  <name>想要支持他</name>
+  <detail>完成沖田路線</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="S" pid="000">
+  <name>接過小太刀</name>
+  <detail>完成齋藤路線</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="S" pid="000">
+  <name>即使如此仍要前進</name>
+  <detail>完成藤堂路線</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="S" pid="000">
+  <name>仰望天空</name>
+  <detail>完成原田路線</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="S" pid="000">
+  <name>繼承信念</name>
+  <detail>完成永倉路線</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="S" pid="000">
+  <name>相信現在</name>
+  <detail>完成山南路線</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="S" pid="000">
+  <name>苦惱的盡頭</name>
+  <detail>完成山崎路線</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="S" pid="000">
+  <name>與左臂同在</name>
+  <detail>完成伊庭路線</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="S" pid="000">
+  <name>一同前往江戶</name>
+  <detail>完成相馬路線</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="S" pid="000">
+  <name>為了阻止父親</name>
+  <detail>完成坂本路線</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="S" pid="000">
+  <name>身為雪村家之女</name>
+  <detail>完成風間路線</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="S" pid="000">
+  <name>獨自離開京都</name>
+  <detail>完成普通結局</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="S" pid="000">
+  <name>痛苦的回憶</name>
+  <detail>看過所有角色的Bad End</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="S" pid="000">
+  <name>悲傷的回憶</name>
+  <detail>看過所有角色的悲戀結局</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="G" pid="000">
+  <name>獲得所有回憶</name>
+  <detail>完整收集ED影片</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="G" pid="000">
+  <name>一切記憶之所在</name>
+  <detail>完整收集CG</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="G" pid="000">
+  <name>一切知識之大成</name>
+  <detail>完整收集辭典</detail>
+ </trophy>
+</trophyconf>

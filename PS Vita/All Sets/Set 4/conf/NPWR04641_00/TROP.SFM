@@ -1,0 +1,116 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000007cb38e80105a748d3ce355d7d5bd3248d2031bf17944e7b92360a67fa626d5b94e7bb68362ca57fb2dc79f33928b128e488bd18620897b876e99159aee97423f4395ac631652c4e9641ecfd5695e72626cfe6f2cd4d4afb0f825f01da5d1f545444d60d5af69987da0ab4bd8e7431ef05a8eb6e84525fec086d8e4797c3efeb31aa9f1a3d8ee3974e3c79e6a537c6133ed83cc38-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR04641_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Valhalla Knights 3</title-name>
+ <title-detail>Valhalla Knights 3 Trophy Set</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>The One Who Controls All</name>
+  <detail>Obtained all trophies.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Survival of the Fittest</name>
+  <detail>Defeated 100 enemies.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Economist</name>
+  <detail>Saved 10,000G.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>First Title</name>
+  <detail>Earned your first title.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>One Small Step for Man</name>
+  <detail>Completed your first quest.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>First Parry</name>
+  <detail>Parried for the first time.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>They Came from Another World</name>
+  <detail>Battled online for the first time.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>Savior</name>
+  <detail>Helped a fallen party member.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>Men's Hearts Are as Easy as Pie</name>
+  <detail>Maxed your relationship with a male friend.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>Women's Hearts Are a Piece of Cake</name>
+  <detail>Maxed your relationship with a clerk.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>Sleepover</name>
+  <detail>Stayed at the hotel with someone.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>Getting Handsy</name>
+  <detail>Searched a certain number of times.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>An Apple a Day </name>
+  <detail>Walked a certain number of steps.</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>The Emperor Sleeps </name>
+  <detail>Defeated the Emperor for the second time.</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>Vengeance on Mary</name>
+  <detail>Took vengeance on Mary.</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="S" pid="000">
+  <name>Vengeance on Tuckerno</name>
+  <detail>Took vengeance on Tuckerno.</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="S" pid="000">
+  <name>Vengeance on Yasciano</name>
+  <detail>Took vengeance on Yasciano.</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="S" pid="000">
+  <name>Vengeance on Vladimir</name>
+  <detail>Took vengeance on Vladimir.</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="S" pid="000">
+  <name>Vengeance on Bartess</name>
+  <detail>Took vengeance on Bartess.</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="S" pid="000">
+  <name>Vengeance on Roger Moreau</name>
+  <detail>Took vengeance on Roger Moreau.</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="S" pid="000">
+  <name>Vengeance on Kevin</name>
+  <detail>Took vengeance on Kevin.</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="G" pid="000">
+  <name>New Life</name>
+  <detail>Completed all story quests.</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="G" pid="000">
+  <name>The Truth of the World</name>
+  <detail>Brought things to a close.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="G" pid="000">
+  <name>Title Collector</name>
+  <detail>Earned a lot of titles.</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="G" pid="000">
+  <name>Weapon Collector</name>
+  <detail>Collected a lot of weapons.</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="G" pid="000">
+  <name>Armor Collector</name>
+  <detail>Collected a lot of armor.</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="G" pid="000">
+  <name>Quest Collector</name>
+  <detail>Completed a lot of quests.</detail>
+ </trophy>
+</trophyconf>

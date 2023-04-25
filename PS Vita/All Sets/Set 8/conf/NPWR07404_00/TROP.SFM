@@ -1,0 +1,88 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000b62d2d31bbfd34f969ccf4def3f65569673ef50a4ab255740a7693f7dcad3d15a4b4c602ffd883f9a6dd906d7d19381c752538db34586d17916f625f997f110f7de2bf99512d65439a590fc9bef42f0b5cf58e8c4de4a9bfcb98c8f8fc4d0e0d7ae3af47ed784be1df1ee2e6e1592e54ccf9ead1dd3c216bb69c7735bb1d8380287f96e451f32eb00f5ab562706fc28195096f5b-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR07404_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>グリザイアの迷宮-LE LABYRINTHE DE LA GRISAIA-</title-name>
+ <title-detail>グリザイアの迷宮-LE LABYRINTHE DE LA GRISAIA-のトロフィーです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>コンプリート</name>
+  <detail>全てのトロフィーを獲得</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>空を見上げて</name>
+  <detail>由美子と雄二がデートの約束をした</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="G" pid="000">
+  <name>petits bonheurs</name>
+  <detail>由美子Afterをクリア</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>動物園でイチャイチャと</name>
+  <detail>天音と雄二が動物園でデートした</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="G" pid="000">
+  <name>未来へ届く手紙</name>
+  <detail>天音Afterをクリア</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>神様、魔法使い、ペテン師</name>
+  <detail>黒髪のみちるがコートを着て雄二とデートした</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="G" pid="000">
+  <name>真夏の奇跡</name>
+  <detail>みちるAfterをクリア</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>カレーパーリー</name>
+  <detail>蒔菜が天音のカレーを食べた</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="G" pid="000">
+  <name>左胸のバッジは誰が為に輝く</name>
+  <detail>蒔菜Afterをクリア</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="000">
+  <name>前倒しの初夜</name>
+  <detail>幸が初夜用の衣装を着た</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="G" pid="000">
+  <name>祝福の音色</name>
+  <detail>幸Afterをクリア</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>乱暴な養親</name>
+  <detail>雄二が麻子と暮らすことになった</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>麻子みたいに、強くなりたい</name>
+  <detail>雄二が麻子の"弟子"になった</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>“生きてて良かった”</name>
+  <detail>雄二が海軍練校を卒業した</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="G" pid="000">
+  <name>“帰って来たぞ、風見雄二”</name>
+  <detail>カプリスの繭をクリア</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>ショートショート入門</name>
+  <detail>ショートショートシナリオを1本クリア</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="S" pid="000">
+  <name>ショートショート中級者</name>
+  <detail>ショートショートシナリオを10本クリア</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="G" pid="000">
+  <name>ショートショートマスター</name>
+  <detail>ショートショートシナリオを全てクリア</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="G" pid="000">
+  <name>CGコンプリート</name>
+  <detail>CGギャラリーをコンプリート</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="G" pid="000">
+  <name>BGMコンプリート</name>
+  <detail>BGM鑑賞をコンプリート</detail>
+ </trophy>
+</trophyconf>

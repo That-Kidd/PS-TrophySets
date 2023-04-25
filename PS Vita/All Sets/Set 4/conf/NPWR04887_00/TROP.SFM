@@ -1,0 +1,64 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000b939a455af4e8ecf58982b3fbf240c0dbb2b16d6c96cf5e67372db5b6c25a071115cc8563165bf4e858e3a96df4242ec6075a30ecd1cf138cb72a84aed3ce0235276b434962fe4041d88dfa783d3f1501547be507abb5b92b602457b7ff193348dcf1ed58bec152c4475363f761c4e0d56352d85a429aab4640ad173e58d1917bbe1e1e76ca88b3899d704bc1af37bd17f9a63c3-->
+<trophyconf version="1.1" platform="ps3,psp2" policy="small">
+ <npcommid>NPWR04887_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>CounterSpy™</title-name>
+ <title-detail>CounterSpy™ Trophies</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Welcome to C.O.U.N.T.E.R.</name>
+  <detail>Complete the tutorial.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Load Em Up</name>
+  <detail>Equip all available slots with weapons.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Silent Killer</name>
+  <detail>Execute 10 stealth takedowns in one mission.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Sharpshooter</name>
+  <detail>Execute 5 successful headshots in a row.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Cooking With Gas</name>
+  <detail>Shoot an enemy rocket projectile while it is in mid-air.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Explosives Expert</name>
+  <detail>Take out at least 5 guards with one explosive.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Sleeping on the Job</name>
+  <detail>A guard sees a tranquilized guard while player remains undetected.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Idle Hands</name>
+  <detail>Search all lockers in a single mission. Cannot earn in Tutorial.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>International Nemesis</name>
+  <detail>Loot a rival agent. (Online Only)</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>Professional</name>
+  <detail>Score 10000 points or more on a single mission.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="-1">
+  <name>Super Spy</name>
+  <detail>Complete a mission without being seen by a single enemy.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="-1">
+  <name>First Strike</name>
+  <detail>Stop the superpowers from launching the nukes.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="-1">
+  <name>On Target</name>
+  <detail>Beat the game without using a Continue.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="-1">
+  <name>World Peace... For Now</name>
+  <detail>Beat the game on all difficulties.</detail>
+ </trophy>
+</trophyconf>

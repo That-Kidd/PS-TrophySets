@@ -1,0 +1,64 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000282f5a6bb00afb8397c3c0f7b59358348183c34d39ce5e443c312284f38c56dcf549957720fd88bf48be9b05a07cd761d0deaa68bfa49e2225ac5815e88977c7b95bcfed0a4a5d9d8d0dbff86fc83058fbb959dbe6f0111e547d0a6bbc91870a250cfb1142ec6a22401660777c20bb48d5eb11da2e4a09f57ac551e6dd9532cab4529516286bee9d03ab6ba8b439cff4321fccf3-->
+<trophyconf version="1.1" platform="ps3,psp2,ps4" policy="small">
+ <npcommid>NPWR08648_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>METAL SLUG 3</title-name>
+ <title-detail>METAL SLUG 3</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>MISSION START</name>
+  <detail>Start Mission 1</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>1ST MISSION MASTER</name>
+  <detail>Complete Mission 1 with no continue</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>2ND MISSION MASTER</name>
+  <detail>Complete Mission 2 with no continue</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>3RD MISSION MASTER</name>
+  <detail>Complete Mission 3 with no continue</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>4TH MISSION MASTER</name>
+  <detail>Complete Mission 4 with no continue</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>FINAL MISSION MASTER</name>
+  <detail>Complete Final Mission with no continue</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>MISSION ALL COMPLETED</name>
+  <detail>Complete all the missions</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>POINT HUNTER</name>
+  <detail>Achieve over 3,000,000 points</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>SLUG MASTER</name>
+  <detail>Ride all the Slugs</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>METAL SLUG ATTACK</name>
+  <detail>Defeat any boss in the game with the METAL SLUG ATTACK</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>ELEPHANT RESURRECTION</name>
+  <detail>Reach the icy cave's exit with the Elephant Slug</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="-1">
+  <name>ZOMBIE MASTER</name>
+  <detail>Clear Mission 2 as a zombie</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="-1">
+  <name>ROUTE MASTER</name>
+  <detail>Play all the routes</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="-1">
+  <name>HERE COMES HYAKUTARO ICHIMONJI!</name>
+  <detail>Find and save Hyakutaro Ichimonji</detail>
+ </trophy>
+</trophyconf>

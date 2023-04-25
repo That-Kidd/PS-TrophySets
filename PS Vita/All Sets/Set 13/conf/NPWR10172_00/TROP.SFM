@@ -1,0 +1,168 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000007623e83f850cbee982537ec9222169df3fe51d4ac963d4cb02a8efb662a776adace84684b488d76a6eaf9ee07c6d0b54d75df140c8f3b5451f16ae9b4003e922bec17a3c63761a287640e391294fe3c31901fe6fe26832197c5adf098e073adcefaabbae8f75dfd99da0e1d64e3e9bc4765a5287e98a120eac5868d640e97f41eb94993ba8708508224ab12fb68ef25a3d098d2a-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR10172_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>女神異聞錄４ 通宵熱舞</title-name>
+ <title-detail>女神異聞錄４ 通宵熱舞</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>通宵☆熱舞</name>
+  <detail>獲得所有獎盃</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>饗宴揭幕</name>
+  <detail>完成Chapter1</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>馬戲團打烊了</name>
+  <detail>解救了上杉珠美</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>今天晚上很開心呢</name>
+  <detail>解救了左山友繪</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>收拾玩具的時間到了</name>
+  <detail>解救了右島鈴桃</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>演出一票難求</name>
+  <detail>解救了中原希海</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>Bye-bye熊熊</name>
+  <detail>完成Chapter4</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>女王淪陷</name>
+  <detail>解救了落水鏡花</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="G" pid="000">
+  <name>GO！羈絆舞者！</name>
+  <detail>對御倉板舉神表達了心意</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="000">
+  <name>歷史見證者</name>
+  <detail>觀看了包含前日譚在內的所有事件</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="000">
+  <name>狂亂之宴揭幕</name>
+  <detail>解鎖瑪格麗特</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>朝更高境界邁進</name>
+  <detail>解鎖最高難度（ALL NIGHT）</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>留意穿著打扮</name>
+  <detail>首次購買服裝</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>最佳服裝師</name>
+  <detail>購買了遊戲中半數的服裝</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="000">
+  <name>裝滿夢想的衣櫃</name>
+  <detail>購買了遊戲中所有服裝</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>珠寶商</name>
+  <detail>購買了遊戲中所有配件</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>時價購物網中毒</name>
+  <detail>在SHOPPING中購買了所有商品</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>網購大戶</name>
+  <detail>在SHOPPING中總計消費５０萬Ｐ＄</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>重溫那份感動</name>
+  <detail>在最高積分選單中觀看重播資料</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>吾即汝，汝即吾</name>
+  <detail>完整蒐集DATABASE中所有項目</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>關門打烊</name>
+  <detail>在樂曲途中便被迫結束遊玩</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>歡迎來到舞池</name>
+  <detail>在FREE DANCE中完成1首樂曲</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>永無止境的派對</name>
+  <detail>在FREE DANCE中完成所有樂曲</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>連段品質No.1</name>
+  <detail>在任一樂曲中達成完美連段</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>傳奇藝人</name>
+  <detail>在任一樂曲中獲得最高評價（KING CRAZY）</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="S" pid="000">
+  <name>失誤是什麼？可以吃嗎？</name>
+  <detail>以未曾失誤的狀態完成任一樂曲</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="S" pid="000">
+  <name>完美超人</name>
+  <detail>在「HARD」以上難度中，以超過一半的樂符獲得PERFECT的狀態完成樂曲</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>超越自我</name>
+  <detail>更新了自己的最高積分紀錄</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>時尚教主</name>
+  <detail>為角色變更服裝並出場跳舞</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>提味秘方</name>
+  <detail>為角色穿戴配件並出場跳舞</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>講究穿搭</name>
+  <detail>為所有角色變更過服裝並出場跳舞</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="S" pid="000">
+  <name>舞者之星</name>
+  <detail>同時使用2種以上提昇難度的道具並出場跳舞</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>兩人三腳</name>
+  <detail>觸發社群狂熱</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="G" pid="000">
+  <name>長伴左右</name>
+  <detail>觸發30種社群狂熱</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="S" pid="000">
+  <name>狂熱菜菜迷</name>
+  <detail>觀看過菜菜子包括社群狂熱在內的所有舞步</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>夢幻偶像團體</name>
+  <detail>在FREE DANCE中讓理世與加奈美同台演出</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="S" pid="000">
+  <name>學長好帥喔！</name>
+  <detail>觸發鳴上和理世的所有社群狂熱</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="S" pid="000">
+  <name>紅色女老闆與綠色成龍</name>
+  <detail>觸發雪子和千枝的所有社群狂熱</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="S" pid="000">
+  <name>朱尼斯轟炸機</name>
+  <detail>觸發陽介和小熊的所有社群狂熱</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="S" pid="000">
+  <name>美女與野獸的狂想曲</name>
+  <detail>觸發直斗和完二的所有社群狂熱</detail>
+ </trophy>
+</trophyconf>

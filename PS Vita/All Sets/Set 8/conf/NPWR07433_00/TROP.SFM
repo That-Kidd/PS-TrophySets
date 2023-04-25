@@ -1,0 +1,168 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000043feb64ae47c6a99373664ad81c59ce1abab9c238f26df092b9ee6cfb4806864f025da1546109c10cf482ba8d11e95d53444452d406cdadb7b68bfab1290fa0a01265cf92f58636996fdf027bd9765e922b8539c2e26d13ff0a0873210372235d304717ee29044f4baa403654bfa7b94e3ad7bfcce19016e72077c42bb7e225757d32247aab144999fdc8a7874eaeb46d3f7217-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR07433_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>CLOCK ZERO ～終焉の一秒～ ExTime</title-name>
+ <title-detail>CLOCK ZERO ～終焉の一秒～ ExTimeのトロフィーです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>ExTime</name>
+  <detail>全てのトロフィーを獲得した</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>episode.00【Prologue】</name>
+  <detail>プロローグをクリア</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>episode.01【偽りの時空】</name>
+  <detail>エピソード01をクリア</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>episode.02【協調と同調】</name>
+  <detail>エピソード02をクリア</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>episode.03【Distorted　Dreamer】</name>
+  <detail>エピソード03をクリア</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>episode.04【未来予想】</name>
+  <detail>エピソード04をクリア</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>episode.05【月明かりの来訪者】</name>
+  <detail>エピソード05をクリア&#x0a;</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>episode.06【タイムカプセル】</name>
+  <detail>エピソード06をクリア</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>初めての課題成功</name>
+  <detail>初めて課題をクリアした</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>夢の世界</name>
+  <detail>壊れた世界の夢を見た</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="000">
+  <name>今日も明日も、明後日も</name>
+  <detail>鷹斗の現代ENDをクリア</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>あなたが咲かせた、茜色の</name>
+  <detail>鷹斗の未来ENDをクリア</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="B" pid="000">
+  <name>やさしい指先</name>
+  <detail>円の現代ＥＮＤをクリア</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="000">
+  <name>新世界への第一歩</name>
+  <detail>円の未来ＥＮＤをクリア</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="B" pid="000">
+  <name>この、醜く愚かしい世界で</name>
+  <detail>レインＥＮＤをクリア</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="S" pid="000">
+  <name>クイーンの仰せのままに</name>
+  <detail>政府ルートのキャラＥＮＤを全て見た</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>Engagement Ring.</name>
+  <detail>理一郎の現代ＥＮＤをクリア</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>ふたりきりの箱庭</name>
+  <detail>理一郎の未来ＥＮＤをクリア</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>この世界のどこでだって</name>
+  <detail>寅之助の現代ＥＮＤをクリア</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>牙の抜けない獣</name>
+  <detail>寅之助の未来ＥＮＤをクリア</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="000">
+  <name>永遠の誓い</name>
+  <detail>終夜の現代ＥＮＤをクリア</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>この夜は終わらない</name>
+  <detail>終夜の未来ＥＮＤをクリア</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="B" pid="000">
+  <name>忘れないで</name>
+  <detail>央の現代ＥＮＤをクリア</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>還るべき場所</name>
+  <detail>央の未来ＥＮＤをクリア</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="S" pid="000">
+  <name>果てない蝶の夢</name>
+  <detail>有心会ルートのキャラＥＮＤを全て見た</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="G" pid="000">
+  <name>未来への物語</name>
+  <detail>タイムカプセルを掘り返した</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="S" pid="000">
+  <name>はじまりの記憶</name>
+  <detail>全ての真相を見た</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="G" pid="000">
+  <name>課題マスター</name>
+  <detail>課題で全ての問題に正解した</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="G" pid="000">
+  <name>Brilliant sky</name>
+  <detail>ギャラリーを全て解放した</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="S" pid="000">
+  <name>消せない残響</name>
+  <detail>ＢＧＭを全て聴いた</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="G" pid="000">
+  <name>そしてまた、ここから</name>
+  <detail>ボーナストラックを全て解放した</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="G" pid="000">
+  <name>交差する世界の支配者</name>
+  <detail>エンディングリストをコンプリートした</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>初めての課題失敗</name>
+  <detail>初めて課題で失敗した</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>よくできました</name>
+  <detail>特別授業を終えて合格点をもらった</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>コミュニケーションが大事</name>
+  <detail>初めて誰かと下校した</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>選択の可能性</name>
+  <detail>初めてバッドエンドを迎えた</detail>
+ </trophy>
+ <trophy id="036" hidden="yes" ttype="S" pid="000">
+  <name>繰り返す哀しみの果てに</name>
+  <detail>バッドエンドを全て見た</detail>
+ </trophy>
+ <trophy id="037" hidden="yes" ttype="B" pid="000">
+  <name>ひとりより、ふたり</name>
+  <detail>楓ＥＮＤをクリアした</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>黒のウサギ</name>
+  <detail>政府側の個別ルートに初めて入った</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="000">
+  <name>白のウサギ</name>
+  <detail>有心会側の個別ルートに初めて入った</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,152 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000000b5f38c36a162bd19ac7052f00791af83d66556cbe153663e3caeddece353b85e9f9fcb0915e6ab31bf885ff6b6b34e93abb6aabca5b6fe638312a958b24cdd51bfb8f387c63ddddf642a920c78825453080d5fd0493b3435bb82bc9aa4dbb0e4becb840e8ccab3f993e095f680d5b1131ab0caf4f47c584bb883da7377637bb51189802ddd150eb0fcc0d359e264acf892fc468-->
+<trophyconf version="1.1" platform="psp2">
+ <npcommid>NPWR02096_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>MLB® 12 The Show™ (VITA)</title-name>
+ <title-detail>MLB® 12 The Show™ (VITA)</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Congratulations!</name>
+  <detail>You got all of the MLB® 12 The Show™ Trophies!</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>Million Dollar Arm </name>
+  <detail>In any game mode, throw a perfect game against a CPU contolled team. Must be done in a full, uninterrupted, 9 inning game.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>Winning</name>
+  <detail>Hit 10 consecutive home runs in Home Run Derby™.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>King Slayer</name>
+  <detail>In Exhibition Mode, beat the team that is ranked first overall in the team select screen with Pitching and Batting difficulties set to Legend. Must be done in a full, uninterrupted, 9 inning game.</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="G" pid="000">
+  <name>Sooo Close!</name>
+  <detail>Lose your shot at a perfect game or no hitter in the 9th inning. Must be done against a CPU controlled team.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>For the Greater Good</name>
+  <detail>In any game mode, get a broken bat base hit.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>Contact Killer</name>
+  <detail>In any mode excluding RttS, play an entire 9 inning game without striking out. Must be done in a full, uninterrupted, 9 inning game against a CPU controlled team.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>Quality Start</name>
+  <detail>Throw more than 70% first pitch strikes in a complete game victory. Must be done in a full, uninterrupted, 9 inning game against a CPU controlled team.</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>Rally Killer</name>
+  <detail>In any game mode, hit into 2 double plays in a game with the same player. Must be done against a CPU controlled team.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>Meatball Buffet</name>
+  <detail>Bat around in an inning. Must be completed on All-Star or higher Batting difficulty. Must be done in a full, uninterrupted, 9 inning game against a CPU controlled team.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>Solid D</name>
+  <detail>Using Pure Analog Throwing, with throwing difficulty set to All-Star or higher, complete a 9 inning game without an error. Must be done against a CPU controlled team.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>Don't Phase Me Bro </name>
+  <detail>In any game mode, hit a home run off a 100+ MPH pitch. Must be done against a CPU controlled team.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>Early Exit</name>
+  <detail>In any game mode, knock out the opponent's starting pitcher before the end of the 3rd inning. Must be done against a CPU controlled team.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>Zone Plus Analog Blast</name>
+  <detail>With hitting difficulty set to All-Star or harder, hit a home run using Zone Plus Analog controls. This trophy is not unlockable in Home Run Derby™ modes.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>Pulsating</name>
+  <detail>With the pitching difficulty set to All-Star or higher, use Pulse Pitching to strike out the side. Must be done against a CPU controlled team.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>Back, Back, Back, Back, Back...</name>
+  <detail>Hit a home run of 490ft or more in Home Run Derby™.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Run Benjie, Run!</name>
+  <detail>Steal a base with a player whose primary position is Catcher. Must be done against a CPU controlled team.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>In The Bag!</name>
+  <detail>As the batter, hit 1st, 2nd, or 3rd base with the ball. Trophy is not achievable in Home Run Derby™.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>Cruzball</name>
+  <detail>Playing as the pitcher in any game mode, intentionally walk a batter, then turn a double play. Must be done against a CPU controlled team.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Squeezeball</name>
+  <detail>In any game mode, win the game with an RBI bunt. Must be done in a full, uninterrupted, 9 inning game against a CPU controlled team.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>Plowman</name>
+  <detail>As a baserunner, plow the catcher. Must be done against a CPU controlled team.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>"RESPECT THE GAME!"</name>
+  <detail>In any game mode, enter a game with a mismatching uniform.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>Don't Try That Again</name>
+  <detail>On defense, throw a runner out at 3B or home plate from the outfield. Must be done against a CPU controlled team.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>Sombrero Dealer</name>
+  <detail>In any mode, strike out the same player four times in a game. Must be done against a CPU controlled team.</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>Vulture a Win</name>
+  <detail>In any mode, blow a save and get the win with the same pitcher. Must be done in a full, uninterrupted, 9 inning game against a CPU controlled team.</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>The Old Fashioned Way</name>
+  <detail>In any mode, earn a save by having your reliever pitch the last 3 innings of a win. Must be done in a full, uninterrupted, 9 inning game against a CPU controlled team.</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>You Blew It</name>
+  <detail>In any mode, blow your opponents save opportunity. Must be done against a CPU controlled team.</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>Take Out Your Rival</name>
+  <detail>In any mode, hit the opposing pitcher with a pitch.</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>Loud and Clear</name>
+  <detail>Hit a home run into the speaker in center field at Dodger Stadium™. (LAD)</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>Go Chasin' Waterfalls</name>
+  <detail>Hit a home run into a waterfall at Kauffman Stadium™. (KC)</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>Texas Two-Step</name>
+  <detail>Hit a home run onto Greene's Hill in CF at Rangers Ballpark In Arlington™. (TEX)</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>Deep Dish</name>
+  <detail>Hit a home run into the Bullpen Sports Grill in rightfield at U.S. Cellular Field™. (CWS)</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>Fish off a Barrel</name>
+  <detail>Hit the aquarium behind home plate at Marlins Park™. (MIA)</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>On The Beach</name>
+  <detail>Hit a home run into the sand area in Petco Park™. (SD)</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="G" pid="000">
+  <name>You're the Man!</name>
+  <detail>Reach 500 XP in online play.</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="S" pid="000">
+  <name>Mr. 300</name>
+  <detail>Reach 300 XP in online play.</detail>
+ </trophy>
+</trophyconf>

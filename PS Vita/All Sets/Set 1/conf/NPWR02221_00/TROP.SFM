@@ -1,0 +1,212 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000082e46d69f097caeb871090ebc0cf2720c98a562db54b87cae1bb453a96ce2d26a0103b6159acb55370a234aca89bb0703c340ebf41b385196daaa03839644204090a41c0d2de5bfdcd2f5e0734b0fcf09260fcc94464c119b72c0cfe3b96163c5cee34f5af7f6940b0c9490e767100aad0a93379a04706e3881bfa00ffd6346054c4e1d4626abea5bd2e481ed3903cac53891950-->
+<trophyconf version="1.1" platform="psp2">
+ <npcommid>NPWR02221_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Mortal Kombat</title-name>
+ <title-detail>Conjunto de trofeos para Mortal Kombat</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Trofeo de Platino</name>
+  <detail>¡Has desbloqueado todos los trofeos!</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>¡Queda la mitad!</name>
+  <detail>Completa el 50% del modo historia</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>Regreso al pasado...</name>
+  <detail>Completa el 100% del modo historia</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Progresa adecuadamente</name>
+  <detail>Completa el modo tutorial</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>¡Fatality!</name>
+  <detail>¡Realiza un Fatality!</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>¡Bloquea esto!</name>
+  <detail>Realiza un kombo de 10 golpes con cualquier luchador</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>El pulpo</name>
+  <detail>Realiza todos los lanzamientos frontales y posteriores de todos los luchadores en un modo de lucha</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>¿Qué pasa con el arcade?</name>
+  <detail>Completa el torneo arcade con cualquier luchador</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>Campeón del torneo</name>
+  <detail>Completa el torneo arcade con todos los luchadores</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>¡Acaba lo que empieces!</name>
+  <detail>Realiza un Fatality con todos los luchadores disponibles</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>Toca y corre</name>
+  <detail>Realiza 1 "-ality" con la pantalla (pantalla táctil) del sistema PlayStation®Vita</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>Maestro del torneo</name>
+  <detail>Completa el torneo arcade en dificultad máxima y sin continuar</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>¡No saltes!</name>
+  <detail>Vence en una partida igualada sin saltar</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>¿Para qué sirve este botón?</name>
+  <detail>Completa el torneo arcade sin bloquear (puedes continuar)</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>¡Un tipo duro!</name>
+  <detail>Gana una partida versus</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>¡Los robots molan!</name>
+  <detail>Vence en el torneo por equipos con Sektor y Cyrax robóticos</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>¡Excepcional!</name>
+  <detail>Gana 10 partidas igualadas seguidas</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Ciber-kontendiente</name>
+  <detail>Completa 100 partidas versus</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>Ciber-campeón</name>
+  <detail>Gana un total de 100 partidas versus</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Humillación</name>
+  <detail>Consigue una Flawless Victory en una partida versus</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>Recluta de la torre</name>
+  <detail>Completa 50 misiones de la Torre de los retos extra</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>Enterrador</name>
+  <detail>Desbloquea el 50% de la kripta</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>El guardián de la Kripta</name>
+  <detail>Desbloquea el 100% de la kripta</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>¡Que corra la sangre!</name>
+  <detail>Derrama 10.000 litros de sangre</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>Licencia para matar</name>
+  <detail>Completa el entrenamiento de Fatality</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="S" pid="000">
+  <name>Campeón de la torre</name>
+  <detail>Completa 100 misiones de la Torre de los retos extra</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="S" pid="000">
+  <name>Tres son multitud</name>
+  <detail>Desbloquea los trajes alternativos de Kenshi, Skarlet y Rain</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>Lanzar es de campeones</name>
+  <detail>Realiza 8 lanzamientos en una partida igualada</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>Equilíbrate</name>
+  <detail>Completa todos los niveles de Desafío de equilibrio</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>Corte de vida</name>
+  <detail>Desliza tus dedos por toda una nueva serie de desafíos</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>La suerte es caprichosa</name>
+  <detail>Consigue todos los dragones MK en desafío de suerte</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>¡e-X-celente!</name>
+  <detail>Impacta con el ataque X-Ray de todos los luchadores disponibles en un modo de lucha</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="G" pid="000">
+  <name>Dios de la torre</name>
+  <detail>Completa las 150 misiones de la Torre de los retos extra</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>¡Tienes estilo!</name>
+  <detail>Desbloquea todos los trajes alternativos</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="B" pid="000">
+  <name>¡El mejor alternativo de la historia!</name>
+  <detail>Desbloquea el tercer traje alternativo de Mileena</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="S" pid="000">
+  <name>Mi Kung-fu es poderoso</name>
+  <detail>Logra la maestría de 1 luchador</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="G" pid="000">
+  <name>Mi Kung-fu es aún más poderoso</name>
+  <detail>Logra la maestría de todos los luchadores</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>Soy el mejor, a la fuerza</name>
+  <detail>Completa todos los mini-juegos del desafío de fuerza</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>¡Dim Mak!</name>
+  <detail>Completa todos los mini-juegos del desafío de golpeo</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="000">
+  <name>¡Estas no son mis gafas!</name>
+  <detail>Completa todos los mini-juegos del desafío de reflejos</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="B" pid="000">
+  <name>Aprendiz de la Torre</name>
+  <detail>Completa 25 misiones de la Torre</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="S" pid="000">
+  <name>Maestro de la Torre</name>
+  <detail>Completa todas las misiones de la Torre</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="B" pid="000">
+  <name>¡El relevo es lo mejor!</name>
+  <detail>Realiza con éxito un kombo por parejas</detail>
+ </trophy>
+ <trophy id="043" hidden="yes" ttype="B" pid="000">
+  <name>Complet-ality</name>
+  <detail>Realiza 1 vez cada tipo de "-ality"</detail>
+ </trophy>
+ <trophy id="044" hidden="yes" ttype="B" pid="000">
+  <name>¿Acabo con él?</name>
+  <detail>Realiza el movimiento final oculto de cualquier luchador</detail>
+ </trophy>
+ <trophy id="045" hidden="yes" ttype="S" pid="000">
+  <name>Humillación definitiva</name>
+  <detail>Realiza el movimiento final oculto de todos los luchadores</detail>
+ </trophy>
+ <trophy id="046" hidden="yes" ttype="B" pid="000">
+  <name>¡No caigas en la trampa!</name>
+  <detail>Descubre todas las trampas mortales de Desafío de equilibrio</detail>
+ </trophy>
+ <trophy id="047" hidden="yes" ttype="B" pid="000">
+  <name>¡Me has encontrado!</name>
+  <detail>Descubre al primer kombatiente oculto en el torneo arcade y lucha contra él</detail>
+ </trophy>
+ <trophy id="048" hidden="yes" ttype="B" pid="000">
+  <name>Jugando al escondite</name>
+  <detail>Descubre al segundo kombatiente oculto en el torneo arcade y lucha contra él</detail>
+ </trophy>
+ <trophy id="049" hidden="yes" ttype="B" pid="000">
+  <name>Amo del Foso</name>
+  <detail>Descubre al tercer kombatiente oculto en el torneo arcade y lucha contra él</detail>
+ </trophy>
+ <trophy id="050" hidden="yes" ttype="B" pid="000">
+  <name>Hermandad de la Sombra</name>
+  <detail>Descubre al cuarto kombatiente oculto en el torneo arcade y lucha contra él</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,84 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000f7eed47ff6e782e7f9c1c9829b75ba4f640cb53761b2c6f464c50b150230196fa7e7c1838355c2c330c532525d8c6e72d8394a21480bc2c10f551889c2d28d8c6ee8456744de222ad40bed71e85b2253e56d1eef7d0d32ea12c642e6e79351c385dc022de248be9ec1909fc8e505349c15ee1222a976235f53c4caea84f9798ea67687de947923be0bdf67d977c5c785b7d6718f-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR12481_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Farming Simulator 18</title-name>
+ <title-detail>Farming Simulator 18 Trophies</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>SEEN IT ALL</name>
+  <detail>You unlocked all the trophies.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>NOUVEAU RICHE</name>
+  <detail>Your account has reached more than 1 million.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>POTS OF GOLD</name>
+  <detail>Your wealth has exceeded 10 million.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>TRUCKER</name>
+  <detail>You have covered more than 5 km with vehicles.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>VERY FREQUENT DRIVER</name>
+  <detail>You have covered more than 200 km with vehicles.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>PEASANT</name>
+  <detail>You have harvested more than 1 hectare.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>HARVEST KING</name>
+  <detail>You have harvested more than 100 hectares.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>GREEN THUMB</name>
+  <detail>You have sown more than 1 hectare.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>MASS PRODUCTION</name>
+  <detail>You have sown more than 100 hectares.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>LUMBERJACK</name>
+  <detail>You have cut down more than 10 trees.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>MASTER OF THE FOREST</name>
+  <detail>You have cut down more than 200 trees.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>GREEN POWER</name>
+  <detail>You have completely filled one plant silo.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>BIO TRANSMUTATION</name>
+  <detail>You have completely filled all plant silos at the same time.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="000">
+  <name>MILKMAN</name>
+  <detail>You have sold more than 30000 litres of milk.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="000">
+  <name>WEAVER</name>
+  <detail>You have sold more than 24000 kg of wool.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>DIESEL TYCOON</name>
+  <detail>You have used over 1000 l of diesel.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>COWBOY</name>
+  <detail>You have bred 20 cows.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>SWEET DREAMS</name>
+  <detail>You have bred 30 sheep.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="G" pid="000">
+  <name>OINK OINK!</name>
+  <detail>You have bred 50 pigs.</detail>
+ </trophy>
+</trophyconf>

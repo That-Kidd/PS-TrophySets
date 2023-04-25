@@ -1,0 +1,56 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000001f66e84985ce42ebb613a338941a9d1dc68afc2d2117a34892ca33f66c15dea2d362e8cff0be37c3d829bfc2ae906172384260af2e570fee4fe2f8b75d0f18b0069975b459fd40c558a7354e1e1eba3bb22ee4fc46c261d22f23f3cdaa68a29632e0938327259a774cb5643b6612a8cf2644b3d3b60554847378a9c705624323d0ae2773d8a8439540ce9e4c7c192daad0fa2ad0-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR15220_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>sweet pool</title-name>
+ <title-detail>sweet pool のトロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>sweet pool</name>
+  <detail>全てのトロフィーを獲得した</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>CGコンプリート</name>
+  <detail>CGを全てオープンした</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>SONGコンプリート</name>
+  <detail>SONGを全てオープンした</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>RECOLLECTIONコンプリート</name>
+  <detail>RECOLLECTIONを全てオープンした</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="G" pid="000">
+  <name>CONGRATULATIONS</name>
+  <detail>フルコンプイラストを見た</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="G" pid="000">
+  <name>I'm in blue</name>
+  <detail>I'm in blue (Japanese Ver.) が解放した</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="G" pid="000">
+  <name>哲雄 END2</name>
+  <detail>哲雄 END2を見た</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="G" pid="000">
+  <name>哲雄 END3</name>
+  <detail>哲雄 END3を見た</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="G" pid="000">
+  <name>睦 END</name>
+  <detail>睦のエンディングを見た</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="G" pid="000">
+  <name>善弥 END</name>
+  <detail>善弥のエンディングを見た</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="G" pid="000">
+  <name>哲雄 END1</name>
+  <detail>哲雄 END1を見た</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="G" pid="000">
+  <name>Miracles may</name>
+  <detail>全てのエンディングを見た</detail>
+ </trophy>
+</trophyconf>

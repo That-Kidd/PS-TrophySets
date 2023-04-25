@@ -1,0 +1,180 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000002d2017b464dc89c5cf37efc8591592fa666e20da5db72c1c4d00a1279f3d15d6fb5f1a489260077f094b2a456b7993002528066f93fb717aba1f0b1c82cb77311a739efd97b18605cd03c6dd363ef57be0b80b9e33b7f6a563412cfc669e40c6fa418151ebd1f77ff68bb132d3cb3b2355335be0c64ed55d74bdd955d46bf94182f030f68521827bf353a2cd580c92b3d165b0ea-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR12081_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Touhou Genso Wanderer</title-name>
+ <title-detail>Touhou Genso Wanderer</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Mystery Solver</name>
+  <detail>Obtained all other trophies.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Let's Find That Mystery</name>
+  <detail>Started the tutorial.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Yokai's Paradise</name>
+  <detail>Visited the Yokai Village.</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>Restored Peace to Gensokyo?</name>
+  <detail>Defeated Buyking Rinnosuke.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>Forgotten Underground Palace</name>
+  <detail>Visited the Old Capital.</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>Underground Savior</name>
+  <detail>Defeated Crimson Raven.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>I'm Going to Bunnyland!</name>
+  <detail>Visited Watatsuki Bunnyland.</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>Bridge Between Heaven and Earth</name>
+  <detail>Defeated Kokoro Hata.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>Attraction Master</name>
+  <detail>Cleared all of Bunnyland's attractions.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>Brilliant Pupil</name>
+  <detail>Cleared all of Kasen's trials.</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>Ones Who Surpass Sages</name>
+  <detail>Cleared Kasen's Final Trial.</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>Underground Salvager</name>
+  <detail>Cleared Jinryu Tenketsu.</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>Sincerity for a Noblewoman</name>
+  <detail>Cleared the Dogmatite Mine.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>Aloof Challenger</name>
+  <detail>Cleared the Old Well at the Hakurei Shrine.</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="G" pid="000">
+  <name>Jumping to the 8.9th Dimension!</name>
+  <detail>Cleared the Mysterious Dimension.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>Full Power Mode!!!</name>
+  <detail>Maxed out your P Items.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Hobby King</name>
+  <detail>Collected over 10,000 Nito Points.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Food Fighter</name>
+  <detail>Raised Tummy to 200.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>Gensokyo Millionaire</name>
+  <detail>Saved ten million yen in the offertory box.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Strongest in Gensokyo</name>
+  <detail>Player's level reached 99.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>Reliable Partner</name>
+  <detail>Partner's level reached 99.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>Fusion, Nito Fusion!</name>
+  <detail>Used the Fusion function of Nito Fusion for the first time.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>Mix, Nito Fusion!</name>
+  <detail>Used the Mix function of Nito Fusion for the first time.</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>Alchemy, Nito Fusion!</name>
+  <detail>Used the Alchemy function of Nito Fusion for the first time.</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="000">
+  <name>Reincarnation, Nito Fusion!</name>
+  <detail>Performed Equipment Reincarnation with Nito Fusion for the first time.</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>Strategic Retreat</name>
+  <detail>Returned to the shrine using Return-of-Hakurei.</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>Pandemonium Battle</name>
+  <detail>Encountered Pandemonium for the first time.</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>Lunar War III</name>
+  <detail>Encountered Lunar War III for the first time.</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>Luxurious Vacation</name>
+  <detail>Stayed at an inn more than 30 times.</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="B" pid="000">
+  <name>Last Night Was Fun!</name>
+  <detail>Paid 150,000 yen to stay at the New Hakutaku Hotel.</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>Kappa Sponsor</name>
+  <detail>Unlocked all facilities at Kappa Mine.</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>☆SHOPPING☆</name>
+  <detail>Successfully stole an item from the shop inside a dungeon.</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="S" pid="000">
+  <name>You're Only Making Things Worse</name>
+  <detail>Defeated the owner after stealing from them.</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="B" pid="000">
+  <name>Roundup</name>
+  <detail>Defeated 12 or more enemies with one action.</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="B" pid="000">
+  <name>Wholeheartedly</name>
+  <detail>Cleared more than 10 dungeons.</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>Love to Talk</name>
+  <detail>Watched all the scenes in every shop.</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="S" pid="000">
+  <name>Great Writer, Professor Hakurei</name>
+  <detail>Recorded all enemies.</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>Shrine Maiden's Notebook</name>
+  <detail>Recorded all characters.</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="G" pid="000">
+  <name>Kakashineko Directory</name>
+  <detail>Recorded all cut-ins.</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="S" pid="000">
+  <name>First-Class Mixer</name>
+  <detail>Recorded all Mix recipes.</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="G" pid="000">
+  <name>First-Class Alchemist</name>
+  <detail>Recorded all Alchemy recipes.</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="B" pid="000">
+  <name>Fine Sword</name>
+  <detail>One stat on your equipment reached 99.</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="S" pid="000">
+  <name>Shrine Maiden's Greatest Swing</name>
+  <detail>Road of Hakurei's level reached 99.</detail>
+ </trophy>
+</trophyconf>

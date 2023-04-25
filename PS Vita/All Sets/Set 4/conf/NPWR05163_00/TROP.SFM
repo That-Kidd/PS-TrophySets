@@ -1,0 +1,208 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000001cd894804cbeae2b8c6dae44c3554c1cf9ab0f2583427f671dd9afa5d2523b7ec10b02e6e533f06032e89321a21afd938fb846271e8601ca6d9f423ff67782f3d71823d3828b66c799d102c30f4121756ec0b42630468e3e46f43e0ecfe7f5f1028a0ef1670522cab4bd5c86cf167482f931cbb96c67e1b275f9ee27866962b1f41292086114c309c68374c740aed1000498095f-->
+<trophyconf version="1.1" platform="ps3,psp2" policy="large">
+ <npcommid>NPWR05163_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Winning Post 8</title-name>
+ <title-detail>Winning Post 8 のトロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>全トロフィー獲得</name>
+  <detail>全トロフィー獲得</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>初勝利</name>
+  <detail>初勝利</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>重賞初勝利</name>
+  <detail>重賞初勝利</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>ＧⅠ初勝利</name>
+  <detail>ＧⅠ初勝利</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>地方初勝利</name>
+  <detail>地方の競馬場で勝利</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>海外初勝利</name>
+  <detail>海外の競馬場で勝利</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>コースレコード更新</name>
+  <detail>コースレコードを更新</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>日本レコード更新</name>
+  <detail>日本レコードを更新</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>最優秀２歳牡馬受賞</name>
+  <detail>年末表彰で最優秀２歳牡馬を受賞</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="000">
+  <name>最優秀２歳牝馬受賞</name>
+  <detail>年末表彰で最優秀２歳牝馬を受賞</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="000">
+  <name>最優秀３歳牡馬受賞</name>
+  <detail>年末表彰で最優秀３歳牡馬を受賞</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>最優秀３歳牝馬受賞</name>
+  <detail>年末表彰で最優秀３歳牝馬を受賞</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="B" pid="000">
+  <name>最優秀４歳以上牡馬受賞</name>
+  <detail>年末表彰で最優秀４歳以上牡馬を受賞</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="000">
+  <name>最優秀４歳以上牝馬受賞</name>
+  <detail>年末表彰で最優秀４歳以上牝馬を受賞</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="B" pid="000">
+  <name>最優秀短距離馬受賞</name>
+  <detail>年末表彰で最優秀短距離馬を受賞</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>最優秀ダートホース受賞</name>
+  <detail>年末表彰で最優秀ダートホースを受賞</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>年度代表馬受賞（日本）</name>
+  <detail>年末表彰で年度代表馬（日本）を受賞</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>年度代表馬受賞（米国）</name>
+  <detail>年末表彰で年度代表馬（米国）を受賞</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>年度代表馬受賞（欧州）</name>
+  <detail>年末表彰で年度代表馬（欧州）を受賞</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>牧場設立（米国）</name>
+  <detail>米国牧場を設立</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="000">
+  <name>牧場設立（欧州）</name>
+  <detail>欧州牧場を設立</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="S" pid="000">
+  <name>エンディング①</name>
+  <detail>海外主要ＧⅠを制覇</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="S" pid="000">
+  <name>エンディング②</name>
+  <detail>年末表彰で最優秀生産者賞＆最優秀馬主賞を同時受賞</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="S" pid="000">
+  <name>エンディング③</name>
+  <detail>Ｍｙ牝系が名牝系になる</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="G" pid="000">
+  <name>エンディング④</name>
+  <detail>年末表彰で騎手、調教師、馬主、生産者全部門で最優秀賞を一族で独占</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="B" pid="000">
+  <name>牡馬３冠制覇</name>
+  <detail>牡馬３冠を制覇</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>牝馬３冠制覇</name>
+  <detail>牝馬３冠を制覇</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="B" pid="000">
+  <name>秋古馬３冠制覇</name>
+  <detail>秋古馬３冠を制覇</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="B" pid="000">
+  <name>米国３冠制覇</name>
+  <detail>米国３冠を制覇</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="B" pid="000">
+  <name>欧州３冠制覇</name>
+  <detail>欧州３冠を制覇</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="B" pid="000">
+  <name>サマースプリントシリーズ制覇</name>
+  <detail>サマースプリントシリーズを制覇</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="B" pid="000">
+  <name>サマー2000シリーズ制覇</name>
+  <detail>サマー2000シリーズを制覇</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="B" pid="000">
+  <name>サマーマイルシリーズ制覇</name>
+  <detail>サマーマイルシリーズを制覇</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="B" pid="000">
+  <name>ＧＳＣ優勝</name>
+  <detail>グローバル・スプリント・チャレンジに優勝</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="B" pid="000">
+  <name>ＡＭＣ優勝</name>
+  <detail>アジア・マイル・チャレンジに優勝</detail>
+ </trophy>
+ <trophy id="035" hidden="yes" ttype="B" pid="000">
+  <name>結婚</name>
+  <detail>プレイヤーが結婚</detail>
+ </trophy>
+ <trophy id="036" hidden="yes" ttype="B" pid="000">
+  <name>新しい家族</name>
+  <detail>プレイヤーに新しい家族が増える</detail>
+ </trophy>
+ <trophy id="037" hidden="yes" ttype="B" pid="000">
+  <name>大家族</name>
+  <detail>子孫が10人突破</detail>
+ </trophy>
+ <trophy id="038" hidden="yes" ttype="S" pid="000">
+  <name>最多勝利騎手</name>
+  <detail>子孫騎手が年末表彰で最多勝利騎手を受賞</detail>
+ </trophy>
+ <trophy id="039" hidden="yes" ttype="S" pid="000">
+  <name>最多賞金獲得騎手</name>
+  <detail>子孫騎手が年末表彰で最多賞金獲得騎手を受賞</detail>
+ </trophy>
+ <trophy id="040" hidden="yes" ttype="S" pid="000">
+  <name>最高勝率騎手</name>
+  <detail>子孫騎手が年末表彰で最高勝率騎手を受賞</detail>
+ </trophy>
+ <trophy id="041" hidden="yes" ttype="S" pid="000">
+  <name>騎手大賞</name>
+  <detail>子孫騎手が年末表彰で騎手大賞を受賞</detail>
+ </trophy>
+ <trophy id="042" hidden="yes" ttype="S" pid="000">
+  <name>最多勝利調教師</name>
+  <detail>子孫調教師が年末表彰で最多勝利調教師を受賞</detail>
+ </trophy>
+ <trophy id="043" hidden="yes" ttype="S" pid="000">
+  <name>最多賞金獲得調教師</name>
+  <detail>子孫調教師が年末表彰で最多賞金獲得調教師を受賞</detail>
+ </trophy>
+ <trophy id="044" hidden="yes" ttype="S" pid="000">
+  <name>最高勝率調教師</name>
+  <detail>子孫調教師が年末表彰で最高勝率調教師を受賞</detail>
+ </trophy>
+ <trophy id="045" hidden="yes" ttype="S" pid="000">
+  <name>優秀技術調教師</name>
+  <detail>子孫調教師が年末表彰で優秀技術調教師を受賞</detail>
+ </trophy>
+ <trophy id="046" hidden="yes" ttype="B" pid="000">
+  <name>Ｍｙ牝系が特性獲得</name>
+  <detail>Ｍｙ牝系が特性を獲得</detail>
+ </trophy>
+ <trophy id="047" hidden="yes" ttype="B" pid="000">
+  <name>Ｍｙ牝系が牝系構築</name>
+  <detail>Ｍｙ牝系が牝系を構築</detail>
+ </trophy>
+ <trophy id="048" hidden="yes" ttype="B" pid="000">
+  <name>Ｍｙ牝系が100勝達成</name>
+  <detail>Ｍｙ牝系が100勝達成</detail>
+ </trophy>
+ <trophy id="049" hidden="yes" ttype="G" pid="000">
+  <name>Ｍｙ牝系が主要ＧⅠ全制覇</name>
+  <detail>Ｍｙ牝系に所属する馬が主要ＧⅠ全制覇</detail>
+ </trophy>
+</trophyconf>

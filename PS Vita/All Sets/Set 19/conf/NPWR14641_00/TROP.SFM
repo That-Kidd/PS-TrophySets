@@ -1,0 +1,64 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000001f3c20a71566ce0686fa8bca6dc037bdeb21f6348fab2ce89aea1184f57e0dbcbdbbdaef54fe821445192069728e66e736545ee43e7411335d79ae9d0c7405e9b27c808ef1d2ab25291b7ee8702c26626d8088b4c681a1d0eadb1c07fa85a3c5bcfeeb4134b4295e448e5cf51a04794b0665b833cb9d8355c453108ab9cfebc01e3aa5f1f3240dfefeed14418b5ed949c40e5744-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR14641_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Midnight Deluxe</title-name>
+ <title-detail>Midnight Deluxe</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Platinum Midnight</name>
+  <detail>Unlock all the trophies.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="000">
+  <name>Go into the light</name>
+  <detail>Complete level 1.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>Not overworking</name>
+  <detail>Get 3 stars in one level.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>Making friends</name>
+  <detail>Bump into one of Midnight's friends.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>Not squared anymore</name>
+  <detail>Die by a saw.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>Went to explore</name>
+  <detail>Die by getting out of a level.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>Stabbed</name>
+  <detail>Die by a spike.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>Stunned</name>
+  <detail>Die by a laser.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>Starter</name>
+  <detail>Complete 5 levels.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>Improving</name>
+  <detail>Complete 10 levels.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>Professional</name>
+  <detail>Complete 20 levels.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>Expert</name>
+  <detail>Complete 40 levels.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>Engineer</name>
+  <detail>Pull a lever.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="000">
+  <name>You made it</name>
+  <detail>Complete level 4 making Midnight's friend smile.</detail>
+ </trophy>
+</trophyconf>

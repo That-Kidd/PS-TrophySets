@@ -1,0 +1,220 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000e3b9e475f19f16e9f9868a86c052117bb487886d168597da963484d98e02fcba6b9f3537373fd483c0a6118a867b552339d905f695da57a2a191c8c99295571789161ba4633fe3e66b7c37d1fd3490d75bb01339f1243f82b083b648d1687e40cf17166eed0848c5fe18ddf2b46ee7bfa778b9b036ca767706f8c2e56f4fe07adf66092e80c9aadf3f0425e627dc23d646f5cd10-->
+<trophyconf version="1.1" platform="psp2">
+ <npcommid>NPWR02787_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>テイルズ オブ イノセンス R</title-name>
+ <title-detail>"テイルズ オブ イノセンス R"のトロフィーセットです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>テイルズ オブ イノセンス R マスター</name>
+  <detail>"テイルズ オブ イノセンス R"を&#x0a;極めた証。あなたの愛に感謝！</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>初めてのガードカウンター</name>
+  <detail>初めてガードカウンターに成功した。&#x0a;このタイミングを忘れずに&#x0a;戦闘を有利に進めよう</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>初めてのミッション</name>
+  <detail>初めてミッションを達成した。&#x0a;ミッション達成で報酬ゲットだ！</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>200コンボ達成</name>
+  <detail>200コンボを達成した。&#x0a;ここまでコンボを繋げられる&#x0a;あなたの腕前は、素晴らしいの一言</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>天術マスター</name>
+  <detail>コンウェイが、その身に受けることで&#x0a;覚えられる敵の天術を全て習得した証。&#x0a;一度くらえば覚えてしまう、&#x0a;彼の器量は見習いたいものです</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>秘奥義制覇</name>
+  <detail>全てのプレイヤーの秘奥義を見た証。&#x0a;天を統べしその力に溺れることなかれ…</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>レイヴLV4最大時間</name>
+  <detail>戦闘中のレイヴLV4最大継続時間が&#x0a;60秒を突破。継続は力なり！</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>レイヴLV4総時間</name>
+  <detail>レイヴLV4の継続時間が10分を突破。&#x0a;これからもレイヴLV4を維持して、&#x0a;素敵な効果も継続しましょう</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>スピードゲーマー</name>
+  <detail>15時間以内にエンディングを迎えた証。&#x0a;その早さには脱帽の一言。&#x0a;次はもっと早くクリアできるかも！？</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>プレイ時間が100時間を越えた</name>
+  <detail>プレイ時間が100時間を越えた証。&#x0a;こんなに長く遊んでくれたあなたは、&#x0a;イノセンス世界の住人になれるはず</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>100万ガルド貯めた</name>
+  <detail>100万ガルドを貯めた証。&#x0a;貯金は大事なのです。&#x0a;実は重たいのがタマにキズ…</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>1000万ガルド使った</name>
+  <detail>1000万ガルドを消費した証。&#x0a;お金は天下のまわりもの。&#x0a;消費することも大切なのです</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>敵を2000体撃破</name>
+  <detail>敵を2000体撃破した証。&#x0a;少しはアスラに近づけたかな？</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>戦闘回数が1000回以上</name>
+  <detail>戦闘回数が1000回を突破した証。&#x0a;もはや戦闘のプロと呼ばれる腕前</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>サーチガルドマスター</name>
+  <detail>サーチガルドの使用回数が&#x0a;250回を突破した証。&#x0a;雨の日も風の日も、めげずに&#x0a;ガルドを探し続けたその努力は&#x0a;きっと報われているはず</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>ローバーアイテムマスター</name>
+  <detail>ローバーアイテムの使用回数が&#x0a;500回を突破した証。&#x0a;良い子はマネしないでね！</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>スタイルマスター</name>
+  <detail>全キャラのアビリティを&#x0a;全て取得した証。&#x0a;お気に入りの組み合わせで百戦百勝！</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>全キャラレベルMAX達成</name>
+  <detail>全キャラのレベルが最大になった証。&#x0a;ルカたちのレベルは&#x0a;これ以上あがりませんが、&#x0a;あなたのレベルに上限はありません</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>モンスター図鑑コレクター</name>
+  <detail>様々な敵に出会い、情報収集した証。&#x0a;好きな敵を、あんな角度や&#x0a;こんな角度で眺めてみよう</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>スキットコレクター</name>
+  <detail>あんな話やこんな話を&#x0a;聞き遂げたあなたに。&#x0a;キャラたちの意外な一面にびっくり！？</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>称号を10個獲得</name>
+  <detail>全キャラがそれぞれ&#x0a;10個の称号を獲得した証。&#x0a;好きな称号を名乗ってみよう！</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>称号を20個獲得</name>
+  <detail>全キャラがそれぞれ&#x0a;20個の称号を獲得した証。&#x0a;名前で選ぶもよし！&#x0a;性能で選ぶもよし！</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>称号制覇</name>
+  <detail>全キャラが全称号を獲得した証。&#x0a;お気に入りの衣装は見つかったかな？</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>宝箱コレクター</name>
+  <detail>宝箱を一定以上回収した者の証。&#x0a;トレジャーハンターと呼ばれる腕前</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>世界踏破</name>
+  <detail>世界をその目で、全て見てきた証。&#x0a;この世界に、君の知らない場所はない！</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>料理マスター</name>
+  <detail>全キャラの料理レベルをMAXにした証。&#x0a;素晴らしい料理愛</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>低レベルクリア</name>
+  <detail>レベル30以下でゲームをクリアした証。&#x0a;このゲームを&#x0a;知り尽くしたからこその快挙！</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="B" pid="000">
+  <name>五色の英雄</name>
+  <detail>五人の英雄たちの生き様を見届けた証。&#x0a;シンジャーファイブよ永遠に！</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="B" pid="000">
+  <name>初めての温泉</name>
+  <detail>誰にでも初めてはあるもの。&#x0a;温泉はいいものです</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="B" pid="000">
+  <name>狙撃手撃破</name>
+  <detail>狙撃手を撃破した。&#x0a;遠距離攻撃はフリーランで回避！</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="B" pid="000">
+  <name>異界の魔物を撃破</name>
+  <detail>ネガスィオンデローズを撃破した。&#x0a;コンウェイの助けがなければ&#x0a;倒せなかった…はず</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="B" pid="000">
+  <name>ギガンテス撃破</name>
+  <detail>ギガンテスを撃破した。&#x0a;動力源は転生者。&#x0a;許すまじオズバルド！</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="B" pid="000">
+  <name>用心棒撃破</name>
+  <detail>用心棒を撃破した。&#x0a;実は子ども想いの優しいおっちゃん</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="B" pid="000">
+  <name>闇の住人を撃破</name>
+  <detail>マッキア・グラーヴェを撃破した。&#x0a;ぶよんぶよんと波打つ体。&#x0a;しかし、攻撃はとてもハードでした</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="B" pid="000">
+  <name>チトセ撃破</name>
+  <detail>チトセを撃破した。&#x0a;前世を色濃く受け継ぐ彼女に&#x0a;救いはあるのか…</detail>
+ </trophy>
+ <trophy id="035" hidden="yes" ttype="B" pid="000">
+  <name>シアン撃破</name>
+  <detail>シアンを撃破した。&#x0a;彼の生い立ちを考えると、&#x0a;改心して欲しいと願ってやみません</detail>
+ </trophy>
+ <trophy id="036" hidden="yes" ttype="B" pid="000">
+  <name>ガードル撃破</name>
+  <detail>ガードルを撃破した。&#x0a;彼の転生者に対する憎悪は、&#x0a;地上に対する愛に溢れているがゆえに</detail>
+ </trophy>
+ <trophy id="037" hidden="yes" ttype="B" pid="000">
+  <name>アルベール撃破</name>
+  <detail>アルベールを撃破した。&#x0a;アンジュに対する彼の思いは、&#x0a;世界中の誰よりも強く物悲しい</detail>
+ </trophy>
+ <trophy id="038" hidden="yes" ttype="B" pid="000">
+  <name>ハスタ撃破</name>
+  <detail>ハスタを撃破した。&#x0a;彼の破天荒なキャラクターは、&#x0a;どこか憎めなかった…</detail>
+ </trophy>
+ <trophy id="039" hidden="yes" ttype="G" pid="000">
+  <name>マティウス撃破</name>
+  <detail>マティウスを撃破した。&#x0a;絶望に打ちひしがれたその魂を&#x0a;ルカは受け入れ、&#x0a;明日も前を向いて生きていく</detail>
+ </trophy>
+ <trophy id="040" hidden="yes" ttype="G" pid="000">
+  <name>異界の守護者を撃破</name>
+  <detail>ロテュスデリュイーヌを撃破した。&#x0a;これで無垢なる絆の世界へのゲートは&#x0a;全て解き放たれた…</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="B" pid="000">
+  <name>闘技場初級クリア</name>
+  <detail>闘技場でシングル、パーティーの&#x0a;初級ランクをクリアした。&#x0a;次は中級…ちょっぴり手ごわいかも</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="B" pid="000">
+  <name>闘技場中級クリア</name>
+  <detail>闘技場でシングル、パーティーの&#x0a;中級ランクをクリアした。&#x0a;次は上級…&#x0a;かなり手ごわいけどがんばって！</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="B" pid="000">
+  <name>闘技場上級クリア</name>
+  <detail>闘技場でシングル、パーティーの&#x0a;上級ランクをクリアした。&#x0a;闘技場を制覇したと言っても&#x0a;過言ではありません！&#x0a;おや？　誰かがこちらに&#x0a;視線を送っているようですが…</detail>
+ </trophy>
+ <trophy id="044" hidden="yes" ttype="S" pid="000">
+  <name>ハーツ兄妹撃破</name>
+  <detail>コハク、ヒスイを撃破した。&#x0a;一体どうして彼らは、この世界へ&#x0a;紛れ込んでしまったのでしょう……</detail>
+ </trophy>
+ <trophy id="045" hidden="yes" ttype="S" pid="000">
+  <name>ミラ撃破</name>
+  <detail>ミラを撃破した。&#x0a;彼女は無事、&#x0a;ジュードに逢えたのでしょうか？</detail>
+ </trophy>
+ <trophy id="046" hidden="no" ttype="B" pid="000">
+  <name>イリアとの絆</name>
+  <detail>ルカがイリアとの絆を深めた証。&#x0a;彼女に振り回された日々。&#x0a;そのどれもが、愛おしい大切な思い出</detail>
+ </trophy>
+ <trophy id="047" hidden="no" ttype="B" pid="000">
+  <name>スパーダとの絆</name>
+  <detail>ルカがスパーダとの絆を深めた証。&#x0a;いい兄貴分として、一緒に旅をした彼は&#x0a;かけがえのない親友</detail>
+ </trophy>
+ <trophy id="048" hidden="no" ttype="B" pid="000">
+  <name>アンジュとの絆</name>
+  <detail>ルカがアンジュとの絆を深めた証。&#x0a;慈悲深い彼女は、食べ物に対しても&#x0a;愛のある人でした</detail>
+ </trophy>
+ <trophy id="049" hidden="no" ttype="B" pid="000">
+  <name>リカルドとの絆</name>
+  <detail>ルカがリカルドとの絆を深めた証。&#x0a;その生き様を見て、戦うこと、&#x0a;生きることを学びました</detail>
+ </trophy>
+ <trophy id="050" hidden="no" ttype="B" pid="000">
+  <name>エルマーナとの絆</name>
+  <detail>ルカがエルマーナとの絆を深めた証。&#x0a;何事にも動じない彼女に、&#x0a;立ち向かう勇気をもらいました</detail>
+ </trophy>
+ <trophy id="051" hidden="no" ttype="B" pid="000">
+  <name>コンウェイとの絆</name>
+  <detail>ルカがコンウェイとの絆を深めた証。&#x0a;どこか不思議な彼からは、&#x0a;冒険の手助けと、&#x0a;人との接し方を教わりました</detail>
+ </trophy>
+ <trophy id="052" hidden="no" ttype="B" pid="000">
+  <name>キュキュとの絆</name>
+  <detail>ルカがキュキュとの絆を深めた証。&#x0a;好奇心旺盛な彼女からは、&#x0a;無償の愛を受け取りました</detail>
+ </trophy>
+</trophyconf>

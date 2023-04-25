@@ -1,0 +1,56 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000bf155eb317d98ecab84badf67ce96045a46e7b5108a078a036c6ec7b5ab1d2398ac94ffecbe24399aa925ea2669e860b2b16a3c11dc67d93aff2d9eb9410bc473cdbef8325e64eae33e7ba2be406a2251605877640d93d2df3f30feb1acf397aedaf39186b365651b1d3e6f84bed1ea7a4fd7503664d9fff05cfa27119c4ffb44dda2a1b786c6ac32114286a35d1b18edd0fdfbd-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR05749_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Joe Danger</title-name>
+ <title-detail>Trophies for Joe Danger</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>DETECTIVE!</name>
+  <detail>Find 3 hidden stars.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>DANGEROUS!</name>
+  <detail>Get a DANGER star.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>MONEY GRABBER!</name>
+  <detail>Get 5 coin dash stars.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>STAY ON TARGET!</name>
+  <detail>Get 5 target stars.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>COLLECTOR!</name>
+  <detail>Collect all mini stars on 8 levels.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>BACK ON THE BIKE!</name>
+  <detail>Complete the first tour.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="-1">
+  <name>ALL THE TIME IN THE WORLD!</name>
+  <detail>Get all of the time stars.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="-1">
+  <name>TRICK MASTER!</name>
+  <detail>Get all of the combo stars.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>MEGA COMBO!</name>
+  <detail>Get a x40 combo.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>NINJA STARS!</name>
+  <detail>Get 4 stars in one run.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="-1">
+  <name>AROUND THE WORLD!</name>
+  <detail>Finish all levels.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="-1">
+  <name>MASTER OF DISASTER!</name>
+  <detail>Get all the stars in the game.</detail>
+ </trophy>
+</trophyconf>

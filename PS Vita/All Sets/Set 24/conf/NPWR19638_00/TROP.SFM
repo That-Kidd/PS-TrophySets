@@ -1,0 +1,60 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000995ac3700d02d427a5255338f4b6f305d197ad313e396b97ecb57e1129fadeac0e18e5ead65272c47070bedc0ad7584eed243c1ccce8362f19d763e90cad03b08da877d2c2b52ea81435c2d5ce9e6fa844ee4c8f975126f82448d7b1cc2b226f152fd9ef83f38d61ad13f7d1e17f6466996efb201197780c1f94685d0f2d23114981e090cd6c425b5c6116700b238a600cb32961-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR19638_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Syrup and the Ultimate Sweet</title-name>
+ <title-detail>Syrup and the Ultimate Sweet</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Ultimate Sweet</name>
+  <detail>You've seen everything in the game! Thanks for playing!</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="000">
+  <name>Good Ending Collector (5/5)</name>
+  <detail>You collected all 5 good endings. Feels great, huh?</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>Bad Ending Collector (5/5)</name>
+  <detail>You collected all 5 bad endings. Are you a masochist...?</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>Syrup Ending</name>
+  <detail>Syrup, disinterested in the people around her, put all her energy into capitalism. Now she's super rich.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>Gumdrop Ending</name>
+  <detail>Syrup and Gumdrop travel the world together to strengthen their bond &lt;3</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>Pastille Ending</name>
+  <detail>Syrup and Pastille go on adventures together to make LEGENDARY CANDIES!</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>Butterscotch Ending</name>
+  <detail>Syrup teaches Butterscotch how to make candy and it's oh so sweet.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>Toffee Ending</name>
+  <detail>Syrup adopts Toffee as her pet. Nya.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>Candibal Ending</name>
+  <detail>You ate her. I can't believe you actually ate her.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>Frozen Ending</name>
+  <detail>Butterscotch couldn't melt the ice and no one came to save you.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>Bad End 1</name>
+  <detail>Syrup had to run the store by herself and failed horribly.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>Bad End 2</name>
+  <detail>Toffee and Butterscotch took over Atelier Sweets.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>Worst End</name>
+  <detail>Syrup's heart completely froze over. How could you be so cruel?</detail>
+ </trophy>
+</trophyconf>

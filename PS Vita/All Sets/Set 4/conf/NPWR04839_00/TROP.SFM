@@ -1,0 +1,52 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000449b204a6833dd17e359f71ca002f610d198b5df34406fea434dfe542c05305a13563a62b41745473281a3a4f22a9aebac7c9c9dcc1be72ddb602b56ff86e42d33c19a161f0185016a9622ada83a7ffa15300d84bac7c6cc3b4f0804af567c2162b22d5f1820becabf2f3efd0a5abbb07fef1c734711e1533b0e430695f21265c505943fc267bc1cc61779a416f29bd0c88144e0-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR04839_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Doodle God</title-name>
+ <title-detail>Trofeos de Doodle God</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>¡Combo!</name>
+  <detail>¡Crea dos nuevos elementos seguidos!</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Los cien de Dios</name>
+  <detail>Crea 100 elementos diferentes.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Creador de civilización</name>
+  <detail>Completa el primer episodio.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Creador de tecnología</name>
+  <detail>Completa el segundo episodio.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Creador de modernidad</name>
+  <detail>Completar el tercer episodio.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Creador de magia</name>
+  <detail>Completa el cuarto episodio.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="-1">
+  <name>Deidad de las Tinieblas</name>
+  <detail>Crea todas las cosas malas.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="-1">
+  <name>Gran combinador</name>
+  <detail>Crea cinco nuevos elementos seguidos.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="-1">
+  <name>Creador del mundo</name>
+  <detail>Crea un mundo.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="-1">
+  <name>Inventor brillante</name>
+  <detail>Completa el primer episodio, sin usar pistas.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="-1">
+  <name>Amo de los mundos</name>
+  <detail>Crea un mundo sinusar pistas.</detail>
+ </trophy>
+</trophyconf>

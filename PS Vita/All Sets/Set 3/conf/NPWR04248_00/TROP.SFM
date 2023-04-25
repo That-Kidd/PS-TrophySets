@@ -1,0 +1,132 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000a3bae90a3f21ac76e78c41c30bd09c7d7970037e7bc7bb5683c14d7e5a868a38a9c713f52acd50d9cf78489eccfeaa1b843ec77d10ddd1217113f46fec06adc64f37e7f2ff49a164d501cf2b2accb0b6e2a1d98e9c12110a3499f958389c4f2f9deebff28ce1b6f3c60473cb323577e6c66cab6ae0d0d5cc67881676fe08137c5eb2da4bce96c1d7d4baae2f28081026686d93eb-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR04248_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Tearaway™</title-name>
+ <title-detail>Behold - your deeds are legend.</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Perfectionist</name>
+  <detail>Collect all the other trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Catastrophe</name>
+  <detail>Finish Gibbet Hill</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Cataclysm</name>
+  <detail>Finish Between the Pages</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Helping Hand</name>
+  <detail>Complete your first "extra thing to do"</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>Papercraft Beginner</name>
+  <detail>Unlock your first papercraft plan</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>Happy Birthday</name>
+  <detail>Open your first Present</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>Crafty</name>
+  <detail>Create 10 Decorations with the Cutting Mat</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>Too Much Swag</name>
+  <detail>Put more than 10 Decorations on your Messenger</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>Ham-Fisted</name>
+  <detail>Dispatch 10 Scraps while riding the Pig</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>Free Hug</name>
+  <detail>Throw a Gopher at a Scrap</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>Dangerous Digit</name>
+  <detail>Dispatch 40 Scraps with your finger</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>Paperazzi</name>
+  <detail>Take 15 photos of the paper world</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>Tower of Doom</name>
+  <detail>Tumble a pile of 6 Scraps</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>Doppelganger</name>
+  <detail>Take a photo of the other Messenger</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>Shredder</name>
+  <detail>Dispatch 200 Scraps</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>Inspiring Presents</name>
+  <detail>Collect 30 presents</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>Papercraft Enthusiast</name>
+  <detail>Collect 25 papercraft plans</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>Humanitarian</name>
+  <detail>Complete 10 "extra things to do"</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>Lunch Break</name>
+  <detail>Take a sepia photo of a Squirrel eating an acorn</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="000">
+  <name>Globe Trotter</name>
+  <detail>Take a photo in each Chapter</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>Good Old Days</name>
+  <detail>Take a black and white photo of a Gopher riding an Elk</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>Yellow Head</name>
+  <detail>Take a photo of Yellow Head</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>Wendigo Fissure</name>
+  <detail>Finish the Wendigo Fissure without losing your Stamp</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>Between the Pages</name>
+  <detail>Finish Between the Pages without losing your Stamp</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>Grand Tear</name>
+  <detail>Finish the Tear without losing your Stamp</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="S" pid="000">
+  <name>You Have 1 New Message</name>
+  <detail>Finish the game</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="G" pid="000">
+  <name>Scrapped</name>
+  <detail>Dispatch all the Scraps</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="G" pid="000">
+  <name>Gifted</name>
+  <detail>Collect all the hidden presents</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="G" pid="000">
+  <name>Do-Gooder</name>
+  <detail>Complete all the "extra things to do"</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="G" pid="000">
+  <name>Papercraft Wizard</name>
+  <detail>Collect all the papercraft plans in the world</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="G" pid="000">
+  <name>Completist</name>
+  <detail>100% complete the game</detail>
+ </trophy>
+</trophyconf>

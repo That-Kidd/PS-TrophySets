@@ -1,0 +1,84 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000654eab053e3c2504b157330314158d5b1d60c7eda5cfc81e9b3649a5a8b8e04b240c676e47634a65c12d195df7acf00c10a73a92e1361047a8a4d8dc73bc7af9b0b63c2a5667542dd34bd094251c4d6316f223b8426588da1de631b81e1e012b1dab973943799425d29a697dc1bdc9ad239ccac7d7764fb1699c1baad0e87b6b1ff3e6f48a09f22479412885e16dec1b5bc46c53-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR11724_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>終わる世界とバースデイ</title-name>
+ <title-detail>終わる世界とバースデイ</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>コンプリート</name>
+  <detail>『終わる世界とバースデイ』を全てプレイしていただき、ありがとうございました</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>Prologue I</name>
+  <detail>『Prologue I』 をクリアしました</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>Prologue II</name>
+  <detail>『Prologue II』 をクリアしました</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="S" pid="000">
+  <name>Common Part I</name>
+  <detail>『Common Part I』 をクリアしました</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="G" pid="000">
+  <name>Common Part II</name>
+  <detail>『Common Part II』 をクリアしました</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="G" pid="000">
+  <name>Common Part III</name>
+  <detail>『Common Part III』 をクリアしました</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="G" pid="000">
+  <name>Cassandra Syndrome</name>
+  <detail>『Cassandra Syndrome』 をクリアしました</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="G" pid="000">
+  <name>Genocide Virus</name>
+  <detail>『Genocide Virus』 をクリアしました</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="G" pid="000">
+  <name>Glacial Period</name>
+  <detail>『Glacial Period』 をクリアしました</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="G" pid="000">
+  <name>Reverse Past</name>
+  <detail>『Reverse Past』 をクリアしました</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="G" pid="000">
+  <name>I Am Legend</name>
+  <detail>『I Am Legend』 をクリアしました</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="G" pid="000">
+  <name>Reverse End</name>
+  <detail>『Reverse End』 をクリアしました</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="G" pid="000">
+  <name>Happy Birthday</name>
+  <detail>『Happy Birthday』をクリアしました</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="G" pid="000">
+  <name>Epilogue</name>
+  <detail>『Epilogue』をクリアしました</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="B" pid="000">
+  <name>BAD END1</name>
+  <detail>『BAD END1』をクリアしました</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>BAD END2</name>
+  <detail>『BAD END2』をクリアしました</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>BAD END3</name>
+  <detail>『BAD END3』をクリアしました</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>BAD END4</name>
+  <detail>『BAD END4』をクリアしました</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>BAD END5</name>
+  <detail>『BAD END5』をクリアしました</detail>
+ </trophy>
+</trophyconf>

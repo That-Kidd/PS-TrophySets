@@ -1,0 +1,32 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000032dae50e3cd062e2bb25e806974e6ad2bd32e64744d660d3c2816a1198ce6991808c07e7bcff51531328880b05d14e0e7c89b9ae1eccd10a18f9e1d26a8f3c40ef7abdbbcf1748010c2333a3be53387275e02606bbea4ca8fdced1d102be710eca3560e825a300e2267e39123e8f3011376243bd07d4723cd675c35bd10d7d124531c6c4f1a3507af77043952cea29b486384683-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR13183_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Still Time</title-name>
+ <title-detail>Still Time trophies</title-detail>
+ <trophy id="000" hidden="yes" ttype="B" pid="-1">
+  <name>Time Travel</name>
+  <detail>Travel back in time for the first time</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="-1">
+  <name>Chapter 1</name>
+  <detail>Complete the first chapter</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="G" pid="-1">
+  <name>Control Room</name>
+  <detail>Complete all the puzzles in the control room</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="-1">
+  <name>Chapter 2</name>
+  <detail>Complete the second chapter</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Chapter 3</name>
+  <detail>Complete the third chapter</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Chapter 4</name>
+  <detail>Complete the fourth chapter</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,208 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000069b5bc50975ca5f6f1099c4a76c6c12fee87ccd8297cb3680f50e0cc19db379ccc9df97ecbb57f1c03f7e2fb3563a7d95c06d9b1b2b6176c384fde0e23d4310e341bc2336cb8a89006e5c9f0d60ba18e58ec78e2e575b8e9544001c6bd4f9515817bcd6dca49bd4f8d04382db965efd820951c4258870f13e68a4f1dd641d081bef1f0d735a3f1fd3924b3044a4e39907dc2c690-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR07728_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>討鬼傳 極</title-name>
+ <title-detail>討鬼傳 極的獎盃組</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>至極武士</name>
+  <detail>獲得所有的獎盃</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>討北方之“鬼”的武士</name>
+  <detail>完成第八章</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>去而復返者</name>
+  <detail>完成第九章</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>百鬼夜行討伐者</name>
+  <detail>完成第十章</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>親赴死地者</name>
+  <detail>完成第十一章</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>連繫千年之英雄</name>
+  <detail>完成第十二章</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="000">
+  <name>英雄之首</name>
+  <detail>完成所有章節</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>英勇好漢</name>
+  <detail>完成進度十二</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>至極英傑</name>
+  <detail>完成進度十七</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>肩負英靈之人</name>
+  <detail>在『討鬼傳 極』中&#x0a;將１個御魂提昇至等級１２</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>英靈救世主</name>
+  <detail>在『討鬼傳 極』中&#x0a;獲得所有御魂</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>無限的戰功</name>
+  <detail>於無限討伐中&#x0a;連續討伐１０隻“鬼”</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>無限的光榮</name>
+  <detail>於無限討伐中&#x0a;連續討伐３０隻“鬼”</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>守護者的典範</name>
+  <detail>完成緊急任務</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="000">
+  <name>金眸四目的鬼神</name>
+  <detail>在『討鬼傳 極』中&#x0a;完成所有任務</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>不負眾望的專家</name>
+  <detail>在『討鬼傳 極』中&#x0a;完成所有委託</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>討“鬼”者</name>
+  <detail>討伐了所有的“鬼”</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>快刀斬亂麻</name>
+  <detail>在『討鬼傳 極』中&#x0a;將１把武器的強度鍛鍊至最大值</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>熱愛武器的猛者</name>
+  <detail>獲得１００種武器</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="000">
+  <name>金石為開</name>
+  <detail>在『討鬼傳 極』中&#x0a;獲得任一種類的所有武器</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>金剛不壞</name>
+  <detail>在『討鬼傳 極』中&#x0a;將１件防具的強度鍛鍊至最大值</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>熱愛防具的巧者</name>
+  <detail>獲得２００種防具</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>破壞入門</name>
+  <detail>首次破壞“鬼”的部位</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>破壞名家</name>
+  <detail>在『討鬼傳 極』中&#x0a;在１次任務中破壞任一&#x0a;大型“鬼”的所有部位</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>破壞天帝</name>
+  <detail>在『討鬼傳 極』中&#x0a;達成１０００次部位破壞</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>至極羈絆力量</name>
+  <detail>以鬼千切・極攻擊“鬼”</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>消逝瞬間之美</name>
+  <detail>以鬼千切・極&#x0a;對“鬼”施加致命一擊</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>專注武器</name>
+  <detail>使用１個種類的武器&#x0a;出擊１００次</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>堅持戰技</name>
+  <detail>使用１種戰鬥風格&#x0a;出擊１００次</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="S" pid="000">
+  <name>收集之“鬼”</name>
+  <detail>在『討鬼傳 極』中&#x0a;將記事本的拾取履歷&#x0a;全部填寫完畢</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>櫃子王</name>
+  <detail>在『討鬼傳 極』中&#x0a;將武具櫃和收納櫃的容量&#x0a;擴充至最大</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>神木的福音</name>
+  <detail>在『討鬼傳 極』中&#x0a;使神木成長至最高階級</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>見習首領</name>
+  <detail>派遣分隊前往執行任務１０次</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>崇高純淨之鋼</name>
+  <detail>自神木取得魂鋼</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>盈溢的思念</name>
+  <detail>在『討鬼傳 極』中&#x0a;將１名夥伴的友好度提昇至最大</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="S" pid="000">
+  <name>天賦向心力</name>
+  <detail>在『討鬼傳 極』中&#x0a;將所有夥伴的友好度提昇至最大</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>禊場紳士</name>
+  <detail>邀請夥伴前往禊場</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>愛之鞭</name>
+  <detail>攻擊昏厥狀態的夥伴&#x0a;１０次以上使其復原</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>愛的祈禱</name>
+  <detail>以袚鬼使耗盡體力的夥伴&#x0a;復活３０次</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="000">
+  <name>是異界啾伊！</name>
+  <detail>於戰場上遇到&#x0a;派去冒險的天狐</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="S" pid="000">
+  <name>吃飽了啾伊！</name>
+  <detail>餵食天狐１０次</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="B" pid="000">
+  <name>來救援啾伊！</name>
+  <detail>受到天狐救援</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="B" pid="000">
+  <name>孤高不鈍之刃</name>
+  <detail>無同行者的情況下&#x0a;討伐了極級的忌速火&#x0a;※無限討伐任務除外</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="B" pid="000">
+  <name>與戰友同行者</name>
+  <detail>與其他玩者一同&#x0a;討伐了大型“鬼”</detail>
+ </trophy>
+ <trophy id="044" hidden="no" ttype="B" pid="000">
+  <name>狂飆武士</name>
+  <detail>未對任何部位袚鬼的情況下&#x0a;討伐了大型“鬼”。&#x0a;※無限討伐任務除外</detail>
+ </trophy>
+ <trophy id="045" hidden="no" ttype="B" pid="000">
+  <name>比風更快</name>
+  <detail>５分鐘以內&#x0a;討伐了極級的風切&#x0a;※無限討伐任務除外</detail>
+ </trophy>
+ <trophy id="046" hidden="no" ttype="B" pid="000">
+  <name>求道者</name>
+  <detail>無同行者的情況下，卸除防具，不讓御魂宿於武器上&#x0a;討伐了上級的大型“鬼”&#x0a;※無限討伐任務除外</detail>
+ </trophy>
+ <trophy id="047" hidden="no" ttype="B" pid="000">
+  <name>馳騁死地的武者</name>
+  <detail>所有人卸除防具的情況下&#x0a;討伐了極級的崩山&#x0a;（村里的武士不可同行）&#x0a;※無限討伐任務除外</detail>
+ </trophy>
+ <trophy id="048" hidden="no" ttype="S" pid="000">
+  <name>真正王者</name>
+  <detail>無同行者的情況下，卸除防具&#x0a;討伐了極級的常夜王&#x0a;※無限討伐任務除外</detail>
+ </trophy>
+ <trophy id="049" hidden="yes" ttype="B" pid="000">
+  <name>難免的事</name>
+  <detail>鬼千切・極未命中</detail>
+ </trophy>
+</trophyconf>

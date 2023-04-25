@@ -1,0 +1,268 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000009d2dc8a901adca7e03adf54eea645ecc97c224ec7f30610aefc1a5f3dff288513d2f0bdcafbd5e69be3d3bf240b01df61d7810eb5350cfa60ada63fb9fef7eaf9fc1f545162eb1b8368da5fbf93d66e5808122f61783b0feb849d200b9def1fa090e8820ffbebfab0531527f6b284273dd794697841875dce56abfeffe1d505a94a98b274f6b1e5d7abb8844fe8be80a74ac12bc-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR11594_00</npcommid>
+ <trophyset-version>01.04</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Darkest Dungeon</title-name>
+ <title-detail>Darkest Dungeon</title-detail>
+ <group id="001">
+  <name>Crimson Court</name>
+  <detail>Crimson Court</detail>
+ </group>
+ <group id="002">
+  <name>Color of Madness</name>
+  <detail>Color of Madness</detail>
+ </group>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>The Iron Crown</name>
+  <detail>Collect all trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Welcome home...</name>
+  <detail>Reach the Estate</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>The first of many victories...</name>
+  <detail>Complete a quest in the Ruins</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Discretion, my old friend...</name>
+  <detail>Abandon a quest</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>The first evil to fall...</name>
+  <detail>Slay your first boss</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>A strenuous adventure comes to a close...</name>
+  <detail>Complete a medium quest</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>A grueling adventure comes to a close...</name>
+  <detail>Complete a long quest</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>A team of hardened veterans...</name>
+  <detail>Start a quest with all four heroes of Resolve Level 6</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>Like lambs to the slaughter...</name>
+  <detail>Start a Darkest Dungeon quest with four heroes of resolve level 0</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>I've seen every corner of this ruined land...</name>
+  <detail>Complete a quest in all four regions</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>Twisted and about to break</name>
+  <detail>Complete a dungeon with all 4 heroes afflicted</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>And our training begins...</name>
+  <detail>Upgrade a Combat skill</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>It takes more than brawn...</name>
+  <detail>Learn a new Camping skill</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>A drink, a hand, and a companion...</name>
+  <detail>Treat a hero in the Tavern</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>A rumination, a prayer, and a confession...</name>
+  <detail>Treat a hero in the Abbey</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>Weeding out the weak...</name>
+  <detail>Dismiss your first hero</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>The price we pay for sanity...</name>
+  <detail>Remove a Quirk in the Sanitarium</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Encouragement...</name>
+  <detail>Lock a positive Quirk in the Sanitarium</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>Our equipment polished to a mirror finish...</name>
+  <detail>Fully upgrade the Blacksmith</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Our techniques sharpened to a razor's edge...</name>
+  <detail>Fully upgrade the Guild</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>The tavern my Ancestor once saw...</name>
+  <detail>Fully upgrade the Tavern</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>The abbey my Ancestor once knew...</name>
+  <detail>Fully upgrade the Abbey</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>Only the finest equipment will endure this torment...</name>
+  <detail>Fully upgrade a hero's weapons and armor</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>Only masterful technique will suffice in battle...</name>
+  <detail>Fully upgrade at least four of a hero's skills</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>Restored to its former glory...</name>
+  <detail>Fully upgrade the Town</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>A sobering visit with the departed...</name>
+  <detail>Visit the Graveyard</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>A true champion emerges...</name>
+  <detail>Raise a hero to Resolve Level 6</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>Darkest sentinels...</name>
+  <detail>Raise 4 heroes to Resolve Level 6</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>The end of the first year...</name>
+  <detail>Reach week 52</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="S" pid="000">
+  <name>Two years of this...</name>
+  <detail>Reach week 104</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>A collection of treasured antiques...</name>
+  <detail>Collect at least 30 heirlooms from a single quest</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>A killer of striking force and wit...</name>
+  <detail>Kill 50 enemies with one hero</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>The first of many has fallen...</name>
+  <detail>Lose your first hero</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>The stresses were unbearable...</name>
+  <detail>Lose your first hero to heart attack</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>Gnawing hunger sets in...</name>
+  <detail>Lose a hero to hunger</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>That'll do, pig...</name>
+  <detail>Lose a hero to Wilbur</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>We return to the worms of the earth...</name>
+  <detail>Lose a hero to a Maggot</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>Watch your step...</name>
+  <detail>Lose a hero to a trap</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>Blocked from life...</name>
+  <detail>Lose a hero to an obstacle</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="000">
+  <name>Valiant sacrifice...</name>
+  <detail>Lose all four heroes on a Darkest Dungeon quest</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="B" pid="000">
+  <name>No retreat, no quarter...</name>
+  <detail>First party wipe</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="B" pid="000">
+  <name>We all return to dust...</name>
+  <detail>Lose a Legendary (Level 6) hero</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="B" pid="000">
+  <name>What is already Dead Cannot Die</name>
+  <detail>Have a character survive 5 attacks at Death's Door in a single combat</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="B" pid="000">
+  <name>More blood soaks the soil...</name>
+  <detail>Party wipe on a boss</detail>
+ </trophy>
+ <trophy id="044" hidden="no" ttype="S" pid="000">
+  <name>Sentimental relics from our forefathers...</name>
+  <detail>Acquire all your Ancestor's Trinkets</detail>
+ </trophy>
+ <trophy id="045" hidden="no" ttype="B" pid="000">
+  <name>A terrifying figure emerged from the darkness...</name>
+  <detail>Slay a Shambler</detail>
+ </trophy>
+ <trophy id="046" hidden="no" ttype="S" pid="000">
+  <name>Strict Mode</name>
+  <detail>Complete the game with default difficulty options</detail>
+ </trophy>
+ <trophy id="047" hidden="no" ttype="S" pid="000">
+  <name>Caretaker</name>
+  <detail>Complete all Caretaker Goals</detail>
+ </trophy>
+ <trophy id="048" hidden="no" ttype="G" pid="000">
+  <name>Victory, such as it is...</name>
+  <detail>Complete the game on Darkest</detail>
+ </trophy>
+ <trophy id="049" hidden="no" ttype="S" pid="000">
+  <name>In such haste...</name>
+  <detail>Complete the game within 99 Weeks</detail>
+ </trophy>
+ <trophy id="050" hidden="no" ttype="B" pid="000">
+  <name>Lone survivor</name>
+  <detail>Kill any boss with only one hero remaining</detail>
+ </trophy>
+ <trophy id="051" hidden="no" ttype="G" pid="000">
+  <name>World End</name>
+  <detail>Complete the game on Stygian</detail>
+ </trophy>
+ <trophy id="052" hidden="no" ttype="S" pid="000">
+  <name>In Sheep's Clothing</name>
+  <detail>Defeat the Brigand Vvulf</detail>
+ </trophy>
+ <trophy id="053" hidden="no" ttype="S" pid="-1" gid="001">
+  <name>Les Jeux Son Faits</name>
+  <detail>Defeat the Baron</detail>
+ </trophy>
+ <trophy id="054" hidden="no" ttype="S" pid="-1" gid="001">
+  <name>Just the Cheque</name>
+  <detail>Defeat the Viscount</detail>
+ </trophy>
+ <trophy id="055" hidden="no" ttype="G" pid="-1" gid="001">
+  <name>Her Last Dance</name>
+  <detail>Defeat the Countess</detail>
+ </trophy>
+ <trophy id="056" hidden="no" ttype="S" pid="-1" gid="001">
+  <name>The Red Hook</name>
+  <detail>Build The Red Hook</detail>
+ </trophy>
+ <trophy id="057" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>Zealous Accusation</name>
+  <detail>Defeat the Fanatic</detail>
+ </trophy>
+ <trophy id="058" hidden="no" ttype="B" pid="-1" gid="002">
+  <name>A Taste Of Madness</name>
+  <detail>Complete The First Farmstead Quest</detail>
+ </trophy>
+ <trophy id="059" hidden="no" ttype="S" pid="-1" gid="002">
+  <name>A Merciful Act</name>
+  <detail>Defeat the Miller</detail>
+ </trophy>
+ <trophy id="060" hidden="no" ttype="G" pid="-1" gid="002">
+  <name>Beyond The Infinite</name>
+  <detail>Defeat the Sleeper</detail>
+ </trophy>
+ <trophy id="061" hidden="no" ttype="S" pid="-1" gid="002">
+  <name>Ashes To Ashes</name>
+  <detail>Get 300 Kills</detail>
+ </trophy>
+ <trophy id="062" hidden="no" ttype="S" pid="-1" gid="002">
+  <name>There Are No Words</name>
+  <detail>Defeat the Thing From The Stars</detail>
+ </trophy>
+</trophyconf>

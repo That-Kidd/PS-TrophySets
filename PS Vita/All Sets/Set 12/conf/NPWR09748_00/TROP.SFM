@@ -1,0 +1,100 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000003a1c641dc72e7aa1abff7672c3700ad9a4d59caea48fd96be13a30bf839210448b8f0f24c1192076a7b9ff438d412acfbdd684eded58a2dc6565485b57576d9ca4f08744211ad225fb3ab96e104a5a56bbdbe80dd37b5d7f4dc5ef00a8627c8917a68b49562ebcd5f8d6b37841b65b666c6bbce40062bbb5bd392b704dd79d8d157c58c5a5a1395f36fb332a25b50f2824a80ad0-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR09748_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>大正メビウスライン Vitable</title-name>
+ <title-detail>大正メビウスライン Vitableのトロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>大正メビウスライン</name>
+  <detail>全てのトロフィーを獲得した</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="G" pid="000">
+  <name>コングラチュレイション</name>
+  <detail>全てのエンディングを見た&#x0a;</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="G" pid="000">
+  <name>バッドエンドコンプリイト</name>
+  <detail>全てのバッドエンディングを見た</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="G" pid="000">
+  <name>帝都再生</name>
+  <detail>グランドエンディングを見た</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="G" pid="000">
+  <name>グランドエンディングルート開放</name>
+  <detail>グランドエンディングへの道が開いた</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="S" pid="000">
+  <name>頭領</name>
+  <detail>時雨のエンディングを見た</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="000">
+  <name>翼もつもの</name>
+  <detail>時雨のエンディングを見た</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>現代の神話</name>
+  <detail>ミサキのエンディングを見た</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>雄図を継ぐ者</name>
+  <detail>千家のエンディングを見た</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>血の呼び声</name>
+  <detail>千家のエンディングを見た</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>さだめられたもの</name>
+  <detail>千家のエンディングを見た</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>天命の旗</name>
+  <detail>千家のエンディングを見た</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>それぞれの日々</name>
+  <detail>館林のエンディングを見た</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>遺志</name>
+  <detail>館林のエンディングを見た</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>共通画像コンプリィト</name>
+  <detail>共通画像を全てオープンした</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>時雨画像コンプリィト</name>
+  <detail>時雨の画像を全てオープンした</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>ミサキ画像コンプリィト</name>
+  <detail>ミサキの画像を全てオープンした</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>千家画像コンプリィト</name>
+  <detail>千家の画像を全てオープンした</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>館林画像コンプリィト</name>
+  <detail>館林の画像を全てオープンした</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="S" pid="000">
+  <name>特別画廊コンプリィト</name>
+  <detail>特別画廊を全てオープンした</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="G" pid="000">
+  <name>短編小説コンプリィト</name>
+  <detail>短編小説を全て読破した</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="S" pid="000">
+  <name>プロフィイル開放</name>
+  <detail>プロフィイルを全て開放した</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>音楽鑑賞コンプリィト</name>
+  <detail>音楽鑑賞を全てオープンした</detail>
+ </trophy>
+</trophyconf>

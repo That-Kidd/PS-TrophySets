@@ -1,0 +1,180 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000d2088bd3ceda47ff469472560eea9669cb11e09871bf96eb6ea68ea3f54285453c3419df42b4740d3a8961e3a2c82e04eb041a87a7d262249867dd2ab0b7ff52a717f1f883ed14efcda24ea80be81bab86215eec032cf31452a2ef223af179d09d8894925848f442bb5463e69d686437f8e0bc2e35a6cb3dc0320dfe158400135ab564560bee88a13e5de564abc162fd250d5863-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR09866_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>終わりのセラフ　運命の始まり</title-name>
+ <title-detail>終わりのセラフ　運命の始まりのトロフィーです</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>運命の始まり</name>
+  <detail>全てのトロフィーを獲得した</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>戦いの中の絆</name>
+  <detail>バトルで家族ポイントを初めて獲得した</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="S" pid="000">
+  <name>深まる絆</name>
+  <detail>家族ポイントを３００ポイントＧＥＴした</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>絆の証</name>
+  <detail>家族コンビネーションを２人で発動させた</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="S" pid="000">
+  <name>強固な絆の証</name>
+  <detail>家族コンビネーションを４人で発動させた</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>優一郎の技</name>
+  <detail>優一郎のスキルを１つ習得した</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>君月の技</name>
+  <detail>君月のスキルを１つ習得した</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>与一の技</name>
+  <detail>与一のスキルを１つ習得した</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>シノアの技</name>
+  <detail>シノアのスキルを新たに１つ習得した</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="000">
+  <name>三葉の技</name>
+  <detail>三葉のスキルを新たに１つ習得した</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="000">
+  <name>ミカエラの技</name>
+  <detail>ミカエラのスキルを新たに１つ習得した</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>初めての攻撃</name>
+  <detail>バトルで敵ユニットを初めて攻撃した</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>戦上手</name>
+  <detail>バトルで１０勝した</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="000">
+  <name>獣の番人</name>
+  <detail>ヨハネの四騎士を５０体倒した</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>熟練狩人</name>
+  <detail>ヨハネの四騎士を３００体倒した</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>月鬼ノ組期待の新人</name>
+  <detail>吸血鬼を５０体討伐した</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="S" pid="000">
+  <name>吸血鬼討伐者</name>
+  <detail>吸血鬼を３００体討伐した</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="G" pid="000">
+  <name>ヴァンパイアハンター</name>
+  <detail>吸血鬼を１０００体討伐した</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="S" pid="000">
+  <name>優一郎が深めた絆</name>
+  <detail>優一郎のいずれかの家族ランクをＡにした</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="S" pid="000">
+  <name>君月が深めた絆</name>
+  <detail>君月のいずれかの家族ランクをＡにした</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="S" pid="000">
+  <name>与一が深めた絆</name>
+  <detail>与一のいずれかの家族ランクをＡにした</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="S" pid="000">
+  <name>シノアが深めた絆</name>
+  <detail>シノアのいずれかの家族ランクをＡにした</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="S" pid="000">
+  <name>三葉が深めた絆</name>
+  <detail>三葉のいずれかの家族ランクをＡにした</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="S" pid="000">
+  <name>ミカエラが深めた絆</name>
+  <detail>ミカエラのいずれかの家族ランクをＡにした</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>運命のコドウ</name>
+  <detail>第一話「運命のコドウ」をクリア</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>宿命のデアイ</name>
+  <detail>第二話「宿命のデアイ」をクリア</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>新しいカゾク</name>
+  <detail>第三話「新しいカゾク」をクリア</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>殲滅部隊のタタカイ</name>
+  <detail>第四話「殲滅部隊のタタカイ」をクリア</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>紡がれるキズナ</name>
+  <detail>第五話「紡がれるキズナ」をクリア</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>暴走するニンゲン</name>
+  <detail>第六話「暴走するニンゲン」をクリア</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>決意とカクゴ</name>
+  <detail>第七話「決意とカクゴ」をクリア</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>《月鬼ノ組》のニンム</name>
+  <detail>第八話「《月鬼ノ組》のニンム」をクリア</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>別離のアシオト</name>
+  <detail>第九話「別離のアシオト」をクリア</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="S" pid="000">
+  <name>運命のミチシルベ</name>
+  <detail>第十話「運命のミチシルベ」をクリア</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="S" pid="000">
+  <name>ミカエラとの絆</name>
+  <detail>ミカエラとのエピローグをクリアした</detail>
+ </trophy>
+ <trophy id="035" hidden="yes" ttype="B" pid="000">
+  <name>シノアとの絆</name>
+  <detail>シノアとのエピローグをクリアした</detail>
+ </trophy>
+ <trophy id="036" hidden="yes" ttype="B" pid="000">
+  <name>三葉との絆</name>
+  <detail>三葉とのエピローグをクリアした</detail>
+ </trophy>
+ <trophy id="037" hidden="yes" ttype="B" pid="000">
+  <name>与一との絆</name>
+  <detail>与一とのエピローグをクリアした</detail>
+ </trophy>
+ <trophy id="038" hidden="yes" ttype="B" pid="000">
+  <name>君月との絆</name>
+  <detail>君月とのエピローグをクリアした</detail>
+ </trophy>
+ <trophy id="039" hidden="yes" ttype="B" pid="000">
+  <name>孤高の兵士</name>
+  <detail>誰とのエピローグも発生させずにクリアした</detail>
+ </trophy>
+ <trophy id="040" hidden="yes" ttype="B" pid="000">
+  <name>一冊目の想い出</name>
+  <detail>イベントＣＧを５０枚開放した</detail>
+ </trophy>
+ <trophy id="041" hidden="yes" ttype="S" pid="000">
+  <name>二冊目の想い出</name>
+  <detail>イベントＣＧを１００枚開放した</detail>
+ </trophy>
+ <trophy id="042" hidden="yes" ttype="G" pid="000">
+  <name>三冊目の想い出</name>
+  <detail>イベントＣＧを全て開放した</detail>
+ </trophy>
+</trophyconf>

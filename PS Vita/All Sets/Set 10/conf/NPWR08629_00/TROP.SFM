@@ -1,0 +1,140 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000cc5d4b3ec2ee762f20ef518f1fd2aac418f9204173068c2691b415376265e85b3b7a4d44381ef60efcc35aca4d30785f33f23700ebd8a5ee821503996a040da139cd9e87ca718e996dfd63a7fef1cbee324b12a65715340a96173d05bb2239942e28457413c9643917486e790045961e4b6c2989495ff25150981721d71a42052eb5e8d43d2c14aa2414c90bf9a458ae598bb788-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR08629_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>薄桜鬼 黎明録 思馳せ空</title-name>
+ <title-detail>薄桜鬼 黎明録 思馳せ空のトロフィーです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>新選組局長</name>
+  <detail>全てのトロフィーを獲得した</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="G" pid="000">
+  <name>鮮烈な記憶</name>
+  <detail>全てのエンディングを見た</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="G" pid="000">
+  <name>たいへんよくできました</name>
+  <detail>フルコンプイラストを見た</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="G" pid="000">
+  <name>こんなこともあったっけ……</name>
+  <detail>編成録を全て解放した</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="G" pid="000">
+  <name>生き字引</name>
+  <detail>覚書を全て回収した</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>第一章：完</name>
+  <detail>一章をクリアした</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>第二章：完</name>
+  <detail>二章をクリアした</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>第三章：完</name>
+  <detail>三章をクリアした</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>新選組副長　土方歳三</name>
+  <detail>土方ルートをクリアした</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>新選組一番組組長　沖田総司</name>
+  <detail>沖田ルートをクリアした</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>新選組三番組組長　斎藤一</name>
+  <detail>斎藤ルートをクリアした</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>新選組八番組組長　藤堂平助</name>
+  <detail>藤堂ルートをクリアした</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>新選組十番組組長　原田左之助</name>
+  <detail>原田ルートをクリアした</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>新選組筆頭局長　芹沢鴨</name>
+  <detail>芹沢ルートをクリアした</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>運命的な出会い</name>
+  <detail>小鈴エンドを見た</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>終焉</name>
+  <detail>バッドエンドを見た</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>十六夜挿話</name>
+  <detail>十六夜挿話を見た</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="G" pid="000">
+  <name>十六夜回顧録</name>
+  <detail>十六夜挿話を全て見た</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>祇園会騒動</name>
+  <detail>祇園会騒動のエンディングを一つ見た</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>祭りのひととき</name>
+  <detail>祇園会騒動の全エンディングを見た</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>鬼が霍乱する日</name>
+  <detail>鬼が霍乱する日のエンディングを一つ見た</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>風邪には気をつけましょう</name>
+  <detail>鬼が霍乱する日の全エンディングを見た</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>小夏日和</name>
+  <detail>小夏日和のエンディングを一つ見た</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>ひと夏の思ひ出</name>
+  <detail>小夏日和の全エンディングを見た</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>夢見抄</name>
+  <detail>夢見抄のエンディングを一つ見た</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="B" pid="000">
+  <name>良い夢を</name>
+  <detail>夢見抄の全エンディングを見た</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>勉強になりました</name>
+  <detail>幕末講義録を全て見た</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="S" pid="000">
+  <name>土方との思い出</name>
+  <detail>土方の画像を全て見た</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="S" pid="000">
+  <name>沖田との思い出</name>
+  <detail>沖田の画像を全て見た</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="S" pid="000">
+  <name>斎藤との思い出</name>
+  <detail>斎藤の画像を全て見た</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="S" pid="000">
+  <name>藤堂との思い出</name>
+  <detail>藤堂の画像を全て見た</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="S" pid="000">
+  <name>原田との思い出</name>
+  <detail>原田の画像を全て見た</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="S" pid="000">
+  <name>浪士組の思い出</name>
+  <detail>その他の画像を全て見た</detail>
+ </trophy>
+</trophyconf>

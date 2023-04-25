@@ -1,0 +1,152 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000907357dd62f68b227971d7e319a439832a09ba3c66ebad31deb34c2cbc3a607528a10b551c3acb496b33bfb1fce6aec939d296a48ec521e385db0321b09ea37db3423b78e170e204428e13d233ea3cd19dd8d1f21e351ffc257817e5a030b49429108096ad704c3c36e0e07a341c75de61b2f346dae3fa17871082951928a670ce01b4f1a88e6f181a9f9f212f3a05572b289dbc-->
+<trophyconf version="1.1" platform="ps3,psp2" policy="large">
+ <npcommid>NPWR04430_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>スーパーロボット大戦ＯＧサーガ　魔装機神Ⅲ　PRIDE OF JUSTICE</title-name>
+ <title-detail>スーパーロボット大戦ＯＧサーガ　魔装機神Ⅲ　PRIDE OF JUSTICEのトロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>PRIDE OF JUSTICE</name>
+  <detail>すべてのトロフィーを獲得する。</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="G" pid="000">
+  <name>やり込み派</name>
+  <detail>３つ全てのルートでトゥルーエンディングを迎える。</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="G" pid="000">
+  <name>強化パーツ収集家</name>
+  <detail>「強化パーツ」を２５種類以上入手する。</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>南宗家の書庫</name>
+  <detail>用語録・追想録・楽曲集・シナリオチャートをフルコンプリートする。</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="G" pid="000">
+  <name>スキルの探求者</name>
+  <detail>「特殊スキル」５１種類開示する。</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>ウェンディフル回転</name>
+  <detail>アンティラス隊の機体を１０機以上をフル改造する。</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="000">
+  <name>過去、思い出、そして明日へ</name>
+  <detail>バゴニアルートでエンディングを迎える。</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>トゥルー・プライド</name>
+  <detail>ラングランルートでエンディングを迎える。</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>あなたがいるから</name>
+  <detail>シュテドニアスルートでエンディングを迎える。</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>無双機神</name>
+  <detail>１ステージでポゼッションした状態で敵を５機撃墜する。</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>惜しまず使おうポゼッション</name>
+  <detail>１ステージで３機ポゼッションさせる。</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>撃墜王誕生</name>
+  <detail>いずれかの操者の撃墜数を１００機以上にする。</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>一撃入魂！</name>
+  <detail>一度の戦闘で、敵１機に１０万以上のダメージを与える。</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>武器収集家</name>
+  <detail>２０個以上の武器をランクアップさせる。</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>至高の癒し</name>
+  <detail>広域修理装置を使用し１度に５機回復させる。</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>ラ・ギアスに疾る風</name>
+  <detail>サイバスターが１度に１０マス以上移動する。</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>アンティラス隊再始動</name>
+  <detail>プロローグを見る。</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>休息の時</name>
+  <detail>終了メッセージを見る。</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>一撃必殺！</name>
+  <detail>敵を一撃で撃墜する。</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>デモンタイプで問題ない！？</name>
+  <detail>召喚したデモンタイプで敵を撃墜する。</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>俺の後ろに立つな</name>
+  <detail>背後から攻撃してきた敵を反撃で撃墜する。</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>闘志を燃やして</name>
+  <detail>いずれかの操者の気力が＋５０に到達する。</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>捉えられぬもの</name>
+  <detail>１ステージでトレイスが敵の攻撃を５回連続で回避する。</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>ポゼッション、発動！</name>
+  <detail>ポゼッションを任意で発動させる。</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="000">
+  <name>草萌えて　春の祭典　馨しく</name>
+  <detail>精神コマンドの『祝福』『応援』がかかった状態で「春の祭典」を使用する。</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="B" pid="000">
+  <name>財布ラッシュ！？</name>
+  <detail>精神コマンドの『熱血』『幸運』がかかった状態で「サイフラッシュ」を使用する。</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>勇気を胸に</name>
+  <detail>いずれかの操者が、精神コマンドの『勇気』を修得する。</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>そうか、そんなに……か</name>
+  <detail>ロザリーがムデカを撃墜する。</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>ステルスゲンちゃん</name>
+  <detail>１ステージでゲンナジーが１度も敵の攻撃を受けない。</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="B" pid="000">
+  <name>な～んちゃって！</name>
+  <detail>レゾナンスクエイク使用時、「な～んちゃって！」の音声が発生する。</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="B" pid="000">
+  <name>双子のエース</name>
+  <detail>ニコ、リコが合体攻撃で敵を撃墜する。</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>勘違いしないでよね！</name>
+  <detail>ヤンロンの戦闘でレミアが援護攻撃で敵を撃墜する。</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>精霊の相性</name>
+  <detail>精霊属性が有利な状態で敵を撃墜する。</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="B" pid="000">
+  <name>いい刺激♪</name>
+  <detail>サフィーネが、１ターン内で３回攻撃を受ける。</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>敵を食らい尽くす牙</name>
+  <detail>ファングが１ステージで、敵を１０機以上撃墜する。</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>修理お姉さん、大活躍</name>
+  <detail>テュッティが１ステージで、個別コマンド「修理」を５回使用する。</detail>
+ </trophy>
+</trophyconf>

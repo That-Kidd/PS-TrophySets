@@ -1,0 +1,132 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000423e526acdc2829f4342d7bce776cf5878198ee6531d022a0a337571185aa6a7dc2cc25b1a95497a6b084e23e76cc197857cad7b1df1164ed12850e5df34b91e08018635ca13f6c7cde3a0a461113a7c0ba89e982312cecb129183e6991e20f25a9b69ddb947858c4936521b8cc7610f919f5b1b711568de6de88dff7b77cb1d87bf2c6f9a0f90a00d94973ccc0c8186c502d7c0-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR13682_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Code：Realize ～白銀の奇跡～</title-name>
+ <title-detail>Code：Realize ～白銀の奇跡～のトロフィーです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>白銀の奇跡</name>
+  <detail>全てのトロフィーを獲得した</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>If Christmas -side Lupin-</name>
+  <detail>ルパンのクリスマスルートの一枚目のＣＧを解放した</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>If Christmas -side Van-</name>
+  <detail>ヴァンのクリスマスルートの一枚目のＣＧを解放した</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>If Christmas -side Fran-</name>
+  <detail>フランのクリスマスルートの一枚目のＣＧを解放した</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>If Christmas -side Impey-</name>
+  <detail>インピーのクリスマスルートの一枚目のＣＧを解放した</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>If Christmas -side Saint-</name>
+  <detail>サンのクリスマスルートの一枚目のＣＧを解放した</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>弟として</name>
+  <detail>フィーニスアフタールートの一枚目のＣＧを解放した</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>名探偵の選択</name>
+  <detail>ショルメアフタールートの一枚目のＣＧを解放した</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>白き歌姫</name>
+  <detail>カンタレラルートの一枚目のＣＧを解放した</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>泥棒紳士の隣には</name>
+  <detail>ルパンのクリスマスルートをクリアした</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>心許せる人と</name>
+  <detail>ヴァンのクリスマスルートをクリアした</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>続く時を共に</name>
+  <detail>フランのクリスマスルートをクリアした</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>好きということ</name>
+  <detail>インピーのクリスマスルートをクリアした</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>幾千年の恋</name>
+  <detail>サンのクリスマスルートをクリアした</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>命の答え</name>
+  <detail>フィーニスのアフタールートをクリアした</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>君を迎えに</name>
+  <detail>ショルメのアフタールートをクリアした</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>白き歌姫と動く城</name>
+  <detail>カンタレラルートをクリアした</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="S" pid="000">
+  <name>ルパンとの思い出</name>
+  <detail>ルパンのクリスマスルートの画像を全てオープンした</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="S" pid="000">
+  <name>ヴァンとの思い出</name>
+  <detail>ヴァンのクリスマスルートの画像を全てオープンした</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="S" pid="000">
+  <name>フランとの思い出</name>
+  <detail>フランのクリスマスルートの画像を全てオープンした</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="S" pid="000">
+  <name>インピーとの思い出</name>
+  <detail>インピーのクリスマスルートの画像を全てオープンした</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="S" pid="000">
+  <name>サンとの思い出</name>
+  <detail>サンのクリスマスルートの画像を全てオープンした</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="S" pid="000">
+  <name>フィーニスとの思い出</name>
+  <detail>フィーニスの画像を全てオープンした</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="S" pid="000">
+  <name>ショルメとの思い出</name>
+  <detail>ショルメの画像を全てオープンした</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="S" pid="000">
+  <name>とある日々の思い出</name>
+  <detail>カンタレラルートの画像を全てオープンした</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="G" pid="000">
+  <name>祝福の未来のその先を――</name>
+  <detail>スペシャルアフターを解放した</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="G" pid="000">
+  <name>皆とずっと一緒に</name>
+  <detail>トライアングルデートの画像を全てオープンした</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="G" pid="000">
+  <name>ものすごく物知りなお嬢様</name>
+  <detail>用語集をコンプリート</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="G" pid="000">
+  <name>世界を彩る音色たち</name>
+  <detail>BGMをコンプリート</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="G" pid="000">
+  <name>それぞれの結末</name>
+  <detail>全てのエンディングムービーを見た</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="G" pid="000">
+  <name>Congratulations!!</name>
+  <detail>フルコンプ画像を見た</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,208 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000007fc6ff9b30f777d247bea163453ece42eb82c86816fd2f02c1e4eed9e2582cefce01db11ea08ea6855a4d756accd0cb954f4b57e2dfca1abb183b3f525553792a1de9ca005aa14c9d41b368df9eb81fbe38a92f5bc9467617deb591c41e4837ba424d6c94217e8e8ed462aaad46b09e6003e0015e4ab494e7face84552f5af1e5bc48c3362213f3e79d1e5635f32bd08a6e731c-->
+<trophyconf version="1.1" platform="ps3,psp2,ps4" policy="large">
+ <npcommid>NPWR08153_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>J-STARS Victory VS+ Trophy Set</title-name>
+ <title-detail>J-STARS Victory VS+ Trophy Set Data</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>J-STARS Victory VS+</name>
+  <detail>Collect all trophies.</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>The Grand Adventure Begins</name>
+  <detail>Acquire the Jump Ship in J-Adventure mode.</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>Unto the Final Battle</name>
+  <detail>Upgrade your Jump Ship to its final form in J-Adventure mode.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>First Quest Cleared!</name>
+  <detail>Clear 1 quest in J-Adventure mode.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>Veteran Quester</name>
+  <detail>Clear 30 quests in J-Adventure mode.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>Thar Be Treasure!</name>
+  <detail>Find 1 piece of submerged treasure in J-Adventure mode.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>Treasure Hunter</name>
+  <detail>Find 10 pieces of submerged treasure in J-Adventure mode.</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>Devils Begone!</name>
+  <detail>Defeat 1 Dark Phantom ship in J-Adventure mode.</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>Phantom Killer</name>
+  <detail>Defeat 30 Dark Phantom ships in J-Adventure mode.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>Testing the Waters</name>
+  <detail>Defeat 1 Mysterious Voice ship in J-Adventure mode.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>Mightiest on the Ocean</name>
+  <detail>Defeat 30 Mysterious Voice ships in J-Adventure mode.</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>Fearless Challenger</name>
+  <detail>Win 1 Korin's Tower challenge in J-Adventure mode.</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>Champion of the World</name>
+  <detail>Win 10 Korin's Tower challenges in J-Adventure mode.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>First-Time Hunter</name>
+  <detail>Hunt 1 monster in J-Adventure mode.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>Cannon Marksman</name>
+  <detail>Hunt 10 monsters in J-Adventure mode.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>Sharpshooter of the Great Sea</name>
+  <detail>Hunt every type of monster in J-Adventure mode.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Apprentice Shipwright</name>
+  <detail>Affix 1 upgrade part to your Jump Ship in J-Adventure mode.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Veteran Shipwright</name>
+  <detail>Affix 3 upgrade parts to your Jump Ship in J-Adventure mode.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>Experience Makes a Person</name>
+  <detail>Reach level 30 with 1 character in J-Adventure mode.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="000">
+  <name>Ruler of the World</name>
+  <detail>Clear 1 story arc in J-Adventure mode.</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="G" pid="000">
+  <name>J-Adventure Maestro</name>
+  <detail>Clear all story arcs in J-Adventure mode.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>The Road to Strength</name>
+  <detail>Win 1 Victory Road battle.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>The Road to Honor</name>
+  <detail>Win 20 Victory Road battles.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="G" pid="000">
+  <name>The Road to Glory</name>
+  <detail>Win every battle on Victory Road.</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>First Win's Always the Greatest</name>
+  <detail>Win 1 battle in Free Battle mode.</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>Undisputed Champion</name>
+  <detail>Win 20 battles in Free Battle mode.</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>Cutting Your Online Teeth</name>
+  <detail>Fight 1 battle in Online Battle mode.</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>Broadband Brawler</name>
+  <detail>Fight 20 battles in Online Battle mode.</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>Your Very First Title</name>
+  <detail>Earn 1 title in Online Battle mode.</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>First Player Icon</name>
+  <detail>Earn 1 player icon in Online Battle mode.</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>Novice Customizer</name>
+  <detail>Customize your J-Stars card deck once.</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>Nice Bonus!</name>
+  <detail>Create 1 combination bonus line when customizing your J-Stars card deck.</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="S" pid="000">
+  <name>Born to Customize</name>
+  <detail>Create all 6 combination bonus lines when customizing your J-Stars card deck.</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>Point Hoarder</name>
+  <detail>Earn J-Points in a battle.</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>Shop Items will Increase!</name>
+  <detail>Raise your Effort, Friendship, or Triumph Gauge by 1 level.</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>First Purchase</name>
+  <detail>Use J-Points to buy something in the shop.</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>Celebrity Hero</name>
+  <detail>Spend a total of 10,000 J-Points.</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>What will I Get?!</name>
+  <detail>Use a coin to buy a J-Stars card.</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>You Got a Card!</name>
+  <detail>Get 1 J-Stars card.</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="S" pid="000">
+  <name>Card Collector</name>
+  <detail>Get 100 J-Stars cards.</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="S" pid="000">
+  <name>You Got a Super Rare Card!</name>
+  <detail>Get a ★★★★ J-Stars card.</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="S" pid="000">
+  <name>Battle Roster Roll Call</name>
+  <detail>Unlock all battle characters.</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="S" pid="000">
+  <name>Support Roster Roll Call</name>
+  <detail>Unlock all support characters.</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="B" pid="000">
+  <name>BGM Connoisseur</name>
+  <detail>Use the BGM Editor to edit 1 BGM.</detail>
+ </trophy>
+ <trophy id="044" hidden="no" ttype="B" pid="000">
+  <name>Expert Taunter</name>
+  <detail>Taunt enemies 50 times in total.</detail>
+ </trophy>
+ <trophy id="045" hidden="no" ttype="B" pid="000">
+  <name>Ultimate Fighter</name>
+  <detail>Execute an ultimate attack 50 times.</detail>
+ </trophy>
+ <trophy id="046" hidden="no" ttype="B" pid="000">
+  <name>God of the Burst</name>
+  <detail>Activate 50 Victory Bursts.</detail>
+ </trophy>
+ <trophy id="047" hidden="no" ttype="B" pid="000">
+  <name>Tag-Team For Life</name>
+  <detail>Execute 20 tag-team melees.</detail>
+ </trophy>
+ <trophy id="048" hidden="no" ttype="B" pid="000">
+  <name>Defense Demon</name>
+  <detail>Pull off a perfect guard 20 times.</detail>
+ </trophy>
+ <trophy id="049" hidden="no" ttype="B" pid="000">
+  <name>Support Claimer</name>
+  <detail>Call on a support character 100 times.</detail>
+ </trophy>
+</trophyconf>

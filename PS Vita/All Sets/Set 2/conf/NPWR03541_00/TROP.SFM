@@ -1,0 +1,60 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000b3a5e3df288822febb3c9d8f57ad89d06d2fbdbe3663b965e713eaada8d77add9508f9e1853ddae2aeedf4037ba565177973e7d578820f456831b5ca87284a81037427f6869b9af5ac535af623859e921a3b7f5933ee3a060a365e74d7642592d484d1d50302efbe8789d095ccf322fcf70897d02387e39fd517f0e90c588bef2a3921686b79da705a01d69c93dafcd971a9c4bd-->
+<trophyconf version="1.1" platform="psp2">
+ <npcommid>NPWR03541_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>ニコリのパズルV ヤジリン</title-name>
+ <title-detail>「ニコリのパズルV ヤジリン」のトロフィーセットです。&#x0a;パズルを解いてトロフィーをコンプリートしよう！</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>中断50回達成！</name>
+  <detail>パズルを中断した回数が累計50回を超えた</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>やめる50回達成！</name>
+  <detail>パズルをやめた回数が累計50回を超えた</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>消去100回達成！</name>
+  <detail>消去回数が累計100回を超えた</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>ガイド閲覧完了！</name>
+  <detail>ガイドを閲覧した</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>24時間プレイ達成！</name>
+  <detail>総プレイ時間が24時間を超えた</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>100REDO達成！</name>
+  <detail>REDOを累計100回使用した</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>100UNDO達成！</name>
+  <detail>UNDOを累計100回使用した</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>10問制覇！</name>
+  <detail>「ヤジリン」を10問クリアした</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>20問制覇！</name>
+  <detail>「ヤジリン」を20問クリアした</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>30問制覇！</name>
+  <detail>「ヤジリン」を30問クリアした</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>40問制覇！</name>
+  <detail>「ヤジリン」を40問クリアした</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="-1">
+  <name>全問制覇！</name>
+  <detail>「ヤジリン」を全問クリアした</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="-1">
+  <name>シャッフル連続15問制覇！</name>
+  <detail>シャッフルで連続15問クリアした</detail>
+ </trophy>
+</trophyconf>

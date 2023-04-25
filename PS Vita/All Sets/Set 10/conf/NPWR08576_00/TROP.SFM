@@ -1,0 +1,60 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000000a9bc6611168d74347e92230fc878da61dc8f3e64d691e6786d911f6f30b321af7daee83f81dd18b594790b98af0b16c4421a9a209ab6a6ed9b1aeae400066a5792b1c267ae3dce966b2c6be74ef7947df85fe5d33161e2b1614549097996b394e9833931d2dd9b5bf0b9d045317f50945500b5885c0c4fc3e089da3ce40c9e1a460a5d5969a670c79c327fd6f53945a9426fb4f-->
+<trophyconf version="1.1" platform="ps3,psp2,ps4" policy="small">
+ <npcommid>NPWR08576_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>MilitAnt Trophies</title-name>
+ <title-detail>Unlock all the trophies and save the ant kingdom.</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>For the Colony!</name>
+  <detail>Beat Level 1 on any mode</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>The colony Strikes Back!</name>
+  <detail>Beat Level 2 on any mode</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>AirHopper Strike</name>
+  <detail>Beat Level 3 on any mode</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>One Ant Army</name>
+  <detail>Beat Level 4 on any mode</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>BattleLog</name>
+  <detail>Beat Level 5 on any mode</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>MeleetAnt</name>
+  <detail>Beat Level 6 on any mode</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Arachnid Offensive</name>
+  <detail>Beat Level 7 on any mode</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Scorp-Ops</name>
+  <detail>Beat Level 8 on any mode</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>LieutenAnt</name>
+  <detail>Beat the game on any mode</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="-1">
+  <name>Unsung Hero</name>
+  <detail>Beat The Game on rank mode</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="-1">
+  <name>Arsenal</name>
+  <detail>Collect every weapon in the game</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="-1">
+  <name>Economic Warfare</name>
+  <detail>Find all hidden crystalite in every level</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="-1">
+  <name>Medals Of Honor</name>
+  <detail>Complete every task in all levels</detail>
+ </trophy>
+</trophyconf>

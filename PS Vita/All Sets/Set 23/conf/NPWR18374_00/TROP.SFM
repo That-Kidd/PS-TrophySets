@@ -1,0 +1,56 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000fba9ef5a91e3e1d05775e49ac072f528892fd7980af5a306c47dba2e12747b84fa20e3535dfbcc704c09997c3993b8b17caf462df99764c259acf543cbe881e328520d35568baf92b82d3ba9522ab11ae0c430250c40f6ca5bb9bc90f6c431fb5fda83e629feb029d7620354b480df28906f05cf5f38c002b0a3c3cb85f5872f6ab9d8e0de530ac3c9fd3c0e96351fb138321e55-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR18374_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Mochi Mochi Boy</title-name>
+ <title-detail>Mochi Mochi Boy</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Platinum Slime</name>
+  <detail>Get all other trophies.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>Lost &amp; Found</name>
+  <detail>Find 1 slime.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>Two's Better than one</name>
+  <detail>Find 2 slimes.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>Sticky Pocket</name>
+  <detail>Find 4 slimes.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>Slime Party</name>
+  <detail>Find 6 slimes.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>Baby steps</name>
+  <detail>Reach level 6 on Tower mode.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>Sticky trail</name>
+  <detail>Reach level 12 on Tower mode.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>Gooey Foot</name>
+  <detail>Reach level 18 on Tower mode.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>Bouncy March</name>
+  <detail>Reach level 24 on Tower mode.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>Slimey Climb</name>
+  <detail>Reach level 30 on Tower mode.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>That was random</name>
+  <detail>Reach level 2 on Dungeon mode.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>Into the unknown</name>
+  <detail>Reach level 3 on Dungeon mode.</detail>
+ </trophy>
+</trophyconf>

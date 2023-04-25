@@ -1,0 +1,204 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000c196278c71e06fa4c3efd5e56886f727ae68bff89aa0f41ce093c964eb786e09b9eadc355b92cfd9aed7bb4905b13cba8e58f6cba4701e6b00e25da226891ac0291bf7ea9a94dd96475ae6e78523472d1b9d7bc3ab8e2023f51a5cfdfc46bf586ec3495c36cf67396faa59ed44f2a3618c3ba4b355e1accde5941e57d2e6360134200663d802f75a4bd9dcb50ecd285244a72056-->
+<trophyconf version="1.1" platform="ps3,psp2" policy="large">
+ <npcommid>NPWR03852_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Dragon's Crown</title-name>
+ <title-detail>Dragon's Crown</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Dragon's Crown</name>
+  <detail>Earn all trophies!</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>The Adventure Begins...</name>
+  <detail>Complete your first mission.</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>The Stolen Scepter</name>
+  <detail>Retrieve the royal scepter.</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>Lucain's Bones</name>
+  <detail>Obtain the bones of the magician Lucain.</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>Subterranean Subterfuge</name>
+  <detail>Successfully gather intel from Bilbaron Fortress.</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>Disappearing Damsels</name>
+  <detail>Unravel the mystery behind the missing village girls.</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>Royal Orb</name>
+  <detail>Retrieve the royal orb.</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>Purify the Sanctuary</name>
+  <detail>Replace the holy seal.</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>Rune Stones</name>
+  <detail>Acquire the rune stones.</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="000">
+  <name>Draconic Dissertations</name>
+  <detail>Acquire research on the Ancient Dragon.</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="000">
+  <name>Talisman</name>
+  <detail>Obtain a talisman.</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>Talismaster</name>
+  <detail>Obtain all the talismans.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>Fantastic Fighter</name>
+  <detail>Complete the game as a Fighter.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>Amazing Amazon</name>
+  <detail>Complete the game as an Amazon.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>Dazzling Dwarf</name>
+  <detail>Complete the game as a Dwarf.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>Epic Elf</name>
+  <detail>Complete the game as an Elf.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Wondrous Wizard</name>
+  <detail>Complete the game as a Wizard.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Scintillating Sorceress</name>
+  <detail>Complete the game as a Sorceress.</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="S" pid="000">
+  <name>Hardcore Hero</name>
+  <detail>Conquer the game on Hard difficulty.</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="G" pid="000">
+  <name>Blazing Hero</name>
+  <detail>Conquer the game on Infernal difficulty.</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="000">
+  <name>Vanquisher</name>
+  <detail>Defeat the Ancient Dragon within 2 minutes on Normal.</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="S" pid="000">
+  <name>Conqueror</name>
+  <detail>Defeat the Ancient Dragon within 3 minutes on Hard.</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="S" pid="000">
+  <name>The Destroyer</name>
+  <detail>Defeat the Ancient Dragon within 4 minutes on Infernal.</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="G" pid="000">
+  <name>Order to Chaos</name>
+  <detail>Defeat the Demon Lord in the Labyrinth of Chaos. </detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="000">
+  <name>Crime and Punishment</name>
+  <detail>You were thrown in jail 10 times. Poor impulse control leads to multiple incarcerations.</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="B" pid="000">
+  <name>Oniomaniac</name>
+  <detail>Buy all the items in the store.</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>Unsullied</name>
+  <detail>Clear a round without taking damage.</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="B" pid="000">
+  <name>Insatiable Adventurer</name>
+  <detail>Clear all 9 rounds in the Labyrinth without returning to town.</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="B" pid="000">
+  <name>Savior</name>
+  <detail>Purchase a Life Point for a dead companion.</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="B" pid="000">
+  <name>Merciful Fossor</name>
+  <detail>Bury 100 sets of bones.</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="B" pid="000">
+  <name>Devout Follower</name>
+  <detail>Offer 100,000 gold to the goddess. </detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="B" pid="000">
+  <name>King of the Colosseum</name>
+  <detail>Be the champion of the colosseum ten times.</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="B" pid="000">
+  <name>Three-star Chef</name>
+  <detail>Score over 50,000 points during camp. </detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="S" pid="000">
+  <name>Gourmand</name>
+  <detail>Eat all the different food that can be made at camp.</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="S" pid="000">
+  <name>Paragon</name>
+  <detail>Reach level 99.</detail>
+ </trophy>
+ <trophy id="035" hidden="yes" ttype="S" pid="000">
+  <name>Legendary Strike</name>
+  <detail>Deal over 100,000 damage in one strike.</detail>
+ </trophy>
+ <trophy id="036" hidden="yes" ttype="S" pid="000">
+  <name>Best of the Best</name>
+  <detail>Earn over 5,000,000 points in one adventure.</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>Novice Art Collector</name>
+  <detail>Obtain 1 piece of Treasure Art.</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>Dabbling Collector</name>
+  <detail>Obtain 5 pieces of Treasure Art.</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="000">
+  <name>Amateur Collector</name>
+  <detail>Obtain 10 pieces of Treasure Art.</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="B" pid="000">
+  <name>Art Lover</name>
+  <detail>Obtain 15 pieces of Treasure Art.</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="B" pid="000">
+  <name>Art Connoisseur</name>
+  <detail>Obtain 20 pieces of Treasure Art.</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="B" pid="000">
+  <name>Amateur Curator</name>
+  <detail>Obtain 25 pieces of Treasure Art.</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="B" pid="000">
+  <name>Art Fiend</name>
+  <detail>Obtain 30 pieces of Treasure Art.</detail>
+ </trophy>
+ <trophy id="044" hidden="no" ttype="B" pid="000">
+  <name>Art Hunter</name>
+  <detail>Obtain 35 pieces of Treasure Art.</detail>
+ </trophy>
+ <trophy id="045" hidden="no" ttype="B" pid="000">
+  <name>Art Expert</name>
+  <detail>Obtain 40 pieces of Treasure Art.</detail>
+ </trophy>
+ <trophy id="046" hidden="no" ttype="B" pid="000">
+  <name>Renowned Art Expert</name>
+  <detail>Obtain 45 pieces of Treasure Art.</detail>
+ </trophy>
+ <trophy id="047" hidden="no" ttype="B" pid="000">
+  <name>Gallery Owner</name>
+  <detail>Obtain 50 pieces of Treasure Art.</detail>
+ </trophy>
+ <trophy id="048" hidden="no" ttype="G" pid="000">
+  <name>Museum Owner</name>
+  <detail>Fill the entire Treasure Art gallery.</detail>
+ </trophy>
+</trophyconf>

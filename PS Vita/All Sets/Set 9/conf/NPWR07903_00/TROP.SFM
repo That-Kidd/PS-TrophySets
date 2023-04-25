@@ -1,0 +1,84 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000a90c14eec021902f7c136854b1efc3857932ec22405da5a205752b35adfd8f9daf7d289679a9e8e04d006d04486af638e9c42fb831c8c80234cc94cb91e90585e88be15fc424519e390bf27c155b241c6421ec6d41d6a7324707a1c477eaddeb23720fd70d2a6b85261f4667084c2241002c72f6c7963499f2aba9b36b52607ba1feaf5123522352761b21f3ddd7ac21d81cec8a-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR07903_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>SpongeBob HeroPants</title-name>
+ <title-detail>Game Trophies</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>The Real Hero</name>
+  <detail>Get all the Trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>A Good Start</name>
+  <detail>Find the first missing page</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>Saved The World</name>
+  <detail>Finish the game with any character</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>Reality Restored</name>
+  <detail>Collect all the missing pages</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>Collector</name>
+  <detail>Find all the memorabilia</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>Scrap Metal</name>
+  <detail>Defeat the Giant Plankton Bot</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>The Bigger They Are...</name>
+  <detail>Escape from Squidwardosaurus Rex</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>It Feels Better</name>
+  <detail>Upgrade an ability</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>Can't Get Better Than This</name>
+  <detail>Fully upgrade any character</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>I’m Super Awesome</name>
+  <detail>Fully upgrade all characters</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>Vegetarian</name>
+  <detail>Finish a level without using any Blaster Burgers</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>Wheeeeee!</name>
+  <detail>Jump 100 times on trampolines</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>Invincibubble</name>
+  <detail>Finish a level without taking any damage</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="000">
+  <name>Unbeatabubble</name>
+  <detail>Finish a level without falling unconscious</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="000">
+  <name>Jurassic Dodger</name>
+  <detail>Avoid being squashed by Patrickosaurus</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="G" pid="000">
+  <name>Self Inflicted Damage</name>
+  <detail>Get Patrick squashed by Patrickosaurus</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="G" pid="000">
+  <name>Like Looking in a Mirror</name>
+  <detail>Wake up Imaginary SpongeBob as SpongeBob</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>Scary Me</name>
+  <detail>Escape from Squidwardosaurus Rex as Squidward</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="G" pid="000">
+  <name>Bikini Bottom Heroes</name>
+  <detail>Become a SuperHero 100 times</detail>
+ </trophy>
+</trophyconf>

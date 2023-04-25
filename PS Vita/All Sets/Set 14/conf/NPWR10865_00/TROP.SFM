@@ -1,0 +1,100 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000002ad3f5ebb7dae0452c4cd1b61eb4b9024d5ba2763e7e54b48a524dbd81e0dc6ab705241a49b22eff9298a7ce6198bdf99df19f760981358da668df228a266cee26cf238294272d93000e3f76ebf86a5ff250858f9c4919d080635e498cf6609dcdf4fd14a161dd219d03724a84bcd1ebf9d18f963062ce7b8f748b14dc3e756edbbfb97358cd4ef0fa52dbb5895a16104b1ac8a3-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR10865_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>7'scarlet</title-name>
+ <title-detail>7'scarletのトロフィーです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>奥音里マスター！</name>
+  <detail>すべてのトロフィーを獲得した</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>迦具土  ヒノの憂鬱</name>
+  <detail>迦具土 ヒノルートに分岐した</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>甘梨 イソラの献身</name>
+  <detail>甘梨 イソラルートに分岐した</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>櫛奈雫 トアの傷心</name>
+  <detail>櫛奈雫 トアルートに分岐した</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>建比良 ソウスケの決断</name>
+  <detail>建比良 ソウスケルートに分岐した</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>叢雲 ユヅキの贖罪</name>
+  <detail>叢雲 ユヅキルートに分岐した</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>屍者は風厘館に現れる</name>
+  <detail>真相編ルートに分岐した</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>夜刀神 ハナテの追想</name>
+  <detail>夜刀神 ハナテルートに分岐した</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>遠き日の笑顔</name>
+  <detail>迦具土 ヒノルートをハッピーエンドクリアした</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>果てない空</name>
+  <detail>甘梨 イソラルートをハッピーエンドクリアした</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>LOVESICK</name>
+  <detail>櫛奈雫 トアルートをハッピーエンドクリアした</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>透けていくだまし絵</name>
+  <detail>建比良 ソウスケルートをハッピーエンドクリアした</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>見上げた夕月</name>
+  <detail>叢雲 ユヅキルートをハッピーエンドクリアした</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>永遠に続く世界</name>
+  <detail>櫛奈雫 トア 真相編ルートをハッピーエンドクリアした</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>笑顔を解き放って</name>
+  <detail>夜刀神 ハナテルートをハッピーエンドクリアした</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="G" pid="000">
+  <name>レアキャラコレクター</name>
+  <detail>迦具土 ヒノのCGをすべて獲得した</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="G" pid="000">
+  <name>料理研究家</name>
+  <detail>甘梨 イソラのCGをすべて獲得した</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="G" pid="000">
+  <name>絶対的エース</name>
+  <detail>櫛奈雫 トアのCGをすべて獲得した</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="G" pid="000">
+  <name>医学博士</name>
+  <detail>建比良 ソウスケのCGをすべて獲得した</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="G" pid="000">
+  <name>理想の上司</name>
+  <detail>叢雲 ユヅキのCGをすべて獲得した</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="G" pid="000">
+  <name>記憶の宝箱</name>
+  <detail>夜刀神 ハナテのCGをすべて獲得した</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="G" pid="000">
+  <name>FIN</name>
+  <detail>すべてのCGを獲得した</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="G" pid="000">
+  <name>奥音里禁忌倶楽部へようこそ</name>
+  <detail>TIPSをすべて獲得した</detail>
+ </trophy>
+</trophyconf>

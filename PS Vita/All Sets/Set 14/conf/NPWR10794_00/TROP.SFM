@@ -1,0 +1,156 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000b199b333f7fe8b03c204febca3d84cc730c03997ba759c679a43b4fca8ed40181213c28d039a22a5cf2ded844ef3240fb1f127232a6998fce00dc015275bc375d7628af4d39ab978dc1224c04d92254927481a27b75fbf9fcaef22c3be08eafbb1434808d3f050e7021cec525f9a3e092ffe1e3dd7b5ac500c7fee4922dd69e7395815e0b8c55744b16175e1875d30251d1c9467-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR10794_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>미궁의 지하에서 죽다</title-name>
+ <title-detail>미궁의 지하에서 죽다의 트로피입니다</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>마스터 컴플리트 상</name>
+  <detail>모든 트로피를 획득!!!</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>게임을 시작해줘서 고마워 상</name>
+  <detail>처음으로 커맨드를 선택했다.</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>흑의 탑 제패 상</name>
+  <detail>제 1장 클리어!</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>홍의 탑 제패 상</name>
+  <detail>제 2장 클리어!</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>청의 탑 제패 상</name>
+  <detail>제 3장 클리어!</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>백의 탑 제패 상</name>
+  <detail>제 4장 클리어!</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>중황 신전 제패 상</name>
+  <detail>제 5장 클리어!</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>별의 구세주 상</name>
+  <detail>최종장 클리어!</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>금의 문장 던전 제패 상</name>
+  <detail>금의 문장 던전을 클리어!</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>목의 문장 던전 제패 상</name>
+  <detail>목의 문장 던전을 클리어!</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="G" pid="000">
+  <name>화의 문장 던전 제패 상</name>
+  <detail>화의 문장 던전을 클리어!&#x0a;</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>목의 문장 획득 상</name>
+  <detail>하드로 엔딩까지 클리어!</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>화의 문장 획득 상</name>
+  <detail>데빌로 엔딩까지 클리어!</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="G" pid="000">
+  <name>신의 문장 획득 상</name>
+  <detail>헬로 엔딩까지 클리어!</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>길드 퀘스트 컴플리트 상</name>
+  <detail>길드 의뢰를 모두 클리어!</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="S" pid="000">
+  <name>12성수 완전 토벌 상</name>
+  <detail>12성수를 모두 격파!</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>몬스터 컴플리트 상</name>
+  <detail>몬스터 도감을 전부 채웠다.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>가디언 파츠 컴플리트 상</name>
+  <detail>파츠 도감을 전부 채웠다.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>최강 에스트라 상</name>
+  <detail>에스트라의 레벨을 99로 만들었다.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>최강 코니 상</name>
+  <detail>코니의 레벨을 99로 만들었다.&#x0a;</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>최강 플레아 상</name>
+  <detail>플레아의 레벨을 99로 만들었다.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>최강 마키 상</name>
+  <detail>마키의 레벨을 99로 만들었다.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>최강 세티아 상</name>
+  <detail>세티아의 레벨을 99로 만들었다.</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="S" pid="000">
+  <name>궁극 에스트라 상</name>
+  <detail>에스트라의 레벨을 999로 만들었다.</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="S" pid="000">
+  <name>궁극 코니 상</name>
+  <detail>코니의 레벨을 999로 만들었다.</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="S" pid="000">
+  <name>궁극 플레아 상</name>
+  <detail>플레아의 레벨을 999로 만들었다.</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="S" pid="000">
+  <name>궁극 마키 상</name>
+  <detail>마키의 레벨을 999로 만들었다.</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="S" pid="000">
+  <name>궁극 세티아 상</name>
+  <detail>세티아의 레벨을 999로 만들었다.</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="S" pid="000">
+  <name>올 시즌 폼 상</name>
+  <detail>에스트라의 모든 폼 숙련도를 최대까지 올렸다!</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="G" pid="000">
+  <name>가디언 마스터 상</name>
+  <detail>모든 가디언의 레벨을 99로 만들었다!</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>신인 마계사 상</name>
+  <detail>격파수 500마리 달성!</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="B" pid="000">
+  <name>우수 마계사 상</name>
+  <detail>격파수 1000마리 달성!&#x0a;</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="B" pid="000">
+  <name>최우수 마계사 상</name>
+  <detail>격파수 3000마리 달성!</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="B" pid="000">
+  <name>길드 마스터 상</name>
+  <detail>격파수 5000마리 달성!</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="S" pid="000">
+  <name>그랜드 마스터 상</name>
+  <detail>격파수 10000마리 달성!</detail>
+ </trophy>
+ <trophy id="035" hidden="yes" ttype="S" pid="000">
+  <name>초절 마계사 상</name>
+  <detail>격파수 20000마리 달성!</detail>
+ </trophy>
+ <trophy id="036" hidden="yes" ttype="G" pid="000">
+  <name>궁극 초절 마계사 상</name>
+  <detail>격파수 30000마리 달성!&#x0a;</detail>
+ </trophy>
+</trophyconf>

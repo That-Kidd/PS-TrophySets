@@ -1,0 +1,116 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000005c10fce881ff35b256040a517726a768f5d2c5eea5a837f077be5b58a1d6eecfac531d49acaaa881e4f2c389c85450e886c01ced459d5f274a08e563cfe4a5f271bae7a0ae04506b837f5a323a6b72d0ac80eb4e753186ff3f3c1150caf067006e80ecaa1d6e8824c49c4ae63701e82bbb4a2a170e1b161ba981a613e030e596042a3b632506d34fa796136c6f2b2a7b9f00427e-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR10038_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Super Blast Deluxe</title-name>
+ <title-detail>Trophies for the game Super Blast Deluxe.</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Alpha &amp; Omega</name>
+  <detail>Get every trophy in the game</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="G" pid="000">
+  <name>Iron Man</name>
+  <detail>Cleared and collected every Star and Golden Chili in each world</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Concretely Urban</name>
+  <detail>You cleared the Big Apple, training barrels are off, Blast High!</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>Cosmopolitan</name>
+  <detail>Fully completed all the secrets in the city levels</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>If an Imp blasts in the forest</name>
+  <detail>You cleared the Forest, Reconnected with your roots, but this is just getting started.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>Force of Nature</name>
+  <detail>Fully completed all the secrets in the Forest levels</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>Special Snowflake</name>
+  <detail>You traversed through the winter storm and your flame survived the gusts, but the real Super Blast Deluxe stars here.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>Cold never bothered me anyway</name>
+  <detail>Fully completed all the secrets in the Arctic levels</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>The note reads: Huge Success</name>
+  <detail>Cleared the Test Chambers, skillfully proved that the test subject is impervious to deviously designed anti-imp devices.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>I know Kung-Fu</name>
+  <detail>Fully completed all the secrets in the Cyberspace levels</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>The Machinist</name>
+  <detail>You cleared the Clock tower, the gears and mechanisms hold no secrets for you.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>A Clockwork Lemon</name>
+  <detail>Fully completed all the secrets in the Clockwork Levels.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>My way or the Highway</name>
+  <detail>You have cleared the Liberty Imp levels, and you showed everyone what you're made of.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="000">
+  <name>You'll make it Anywhere</name>
+  <detail>Fully completed all the secrets in the Liberty Imp levels</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="B" pid="000">
+  <name>Resourceful</name>
+  <detail>Unlocked every Skill slot.</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>We're in this together now</name>
+  <detail>Unlocked a friend to help you celebrate.</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="G" pid="000">
+  <name>This is what I call a party</name>
+  <detail>Unlock every playable character.</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>Even more special</name>
+  <detail>level up a skill.</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="S" pid="000">
+  <name>One track mind</name>
+  <detail>Max out a skill.</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="G" pid="000">
+  <name>A gentleman and a scholar</name>
+  <detail>Max out every skill.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>Look ma! no hands!</name>
+  <detail>Finish the level "If you can make it there" in "The Liberty Imp" world without using any skills.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>YOLO</name>
+  <detail>Finish Level 6.10 without dying.</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="B" pid="000">
+  <name>Flippin Mental</name>
+  <detail>Perform every aerial trick</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>No more walls between us.</name>
+  <detail>Open every gate in the overworld.</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>Endlessly enthusiastic</name>
+  <detail>Clear 5 sections in [ENDLESS] mode</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="S" pid="000">
+  <name>I'm getting a hang of this</name>
+  <detail>Clear 10 sections in [ENDLESS] mode</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="G" pid="000">
+  <name>I could do this all day</name>
+  <detail>Clear 20 sections in [ENDLESS] mode</detail>
+ </trophy>
+</trophyconf>

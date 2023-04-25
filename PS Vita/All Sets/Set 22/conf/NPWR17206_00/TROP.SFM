@@ -1,0 +1,80 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000c43d798508f9652ab33c1a2f0991882e11159e174fdeea807322b0a4d19a164f0b6202f82c0ae4384bf7ed2f7765be387c88a998580cc51c82a2f4fad95b5598b64009fcad3f4e94ec2c630062d39a0925d439d6203dc9a205a11dcb3ba4ead607b68977385564c3ba7ba7b39ebaa8d1edbb6148845c0a4db8644f8de3ec3facd03d9e6777c8ed855c7ebc55473598258a1f8332-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR17206_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>フルキス</title-name>
+ <title-detail>『フルキス』トロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>フルキス</name>
+  <detail>全てのトロフィーを獲得した</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>最初の一歩</name>
+  <detail>最初の選択肢を選ぶ</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>いろいろ分かれ道</name>
+  <detail>全ての選択肢を通過した</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>桜の木の下で</name>
+  <detail>プロローグを読み終えた</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="S" pid="000">
+  <name>勇気を出して</name>
+  <detail>千桜ルートに入った</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="S" pid="000">
+  <name>オモチャから進化して</name>
+  <detail>陽子ルートに入った</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="000">
+  <name>意外な魅力</name>
+  <detail>結希ルートに入った</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>学園祭は３人で</name>
+  <detail>純恋ルートに入った</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>れっつごー学園祭</name>
+  <detail>愛奈ルートに入った</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>日常は続く</name>
+  <detail>ノーマルＥＮＤルートを読み終えた</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="G" pid="000">
+  <name>再会と約束と</name>
+  <detail>千桜ルートを読み終えた</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="G" pid="000">
+  <name>同棲生活</name>
+  <detail>陽子ルートを読み終えた</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="G" pid="000">
+  <name>いっぱい、幸せになろうね</name>
+  <detail>結希ルートを読み終えた</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="G" pid="000">
+  <name>それから</name>
+  <detail>純恋ルートを読み終えた</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="G" pid="000">
+  <name>１X年後</name>
+  <detail>愛奈ルートを読み終えた</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="G" pid="000">
+  <name>ＢＧＭコンプリート</name>
+  <detail>全てのＢＧＭを聴いた</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="G" pid="000">
+  <name>ＣＧコンプリート</name>
+  <detail>全てのＣＧを見た</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="G" pid="000">
+  <name>ＥＶＥＮＴコンプリート</name>
+  <detail>全てのイベントを読んだ</detail>
+ </trophy>
+</trophyconf>

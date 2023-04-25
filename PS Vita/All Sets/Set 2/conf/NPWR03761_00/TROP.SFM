@@ -1,0 +1,208 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000d9d18912c92ecede7ffa131f81810841193572c15e879e50699c4e6399549b5d65fc98a8e9ca39a2ec898a038c8cac2e070d36523246ddabf72f62c05c038e4c5bbd782609118142f33cf6ff0a0774ea22caf474659fdec037fcfd5faa04bea65945d1855b99628d3900826c04c998a4226b27d7058e5da3c5692563771d032bb08e6e81cb8a3d8d0e243abcf52d78e2ab18c17f-->
+<trophyconf version="1.1" platform="psp2">
+ <npcommid>NPWR03761_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>여신전생 페르소나4 더 골든</title-name>
+ <title-detail>여신전생 페르소나4 더 골든</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>골든 제패</name>
+  <detail>모든 트로피를 획득</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>왕자님 나타나다</name>
+  <detail>아마기 유키코를 무사히 구출했다</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>진정한 사나이 일어서다</name>
+  <detail>타츠미 칸지를 무사히 구출했다</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>스트립 바 폐점했습니다</name>
+  <detail>쿠지카와 리세를 무사히 구출했다</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>모험은 끝났다</name>
+  <detail>쿠보 미츠오의 신병을 확보했다</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>연구소 긴급폐쇄</name>
+  <detail>시로가네 나오토를 무사히 구출했다</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>천사들의 귀환</name>
+  <detail>도지마 나나코를 무사히 구출했다</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>그리고 안개는 개었다</name>
+  <detail>아다치 토오루의 신병을 확보했다</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>어서오세요</name>
+  <detail>마리를 무사히 구출했다</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="G" pid="000">
+  <name>진실을 이 손에</name>
+  <detail>이자나미를 쓰러트렸다</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>합체 숙련자</name>
+  <detail>페르소나 합체를 50회 실행했다</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>특수 합체사</name>
+  <detail>4체 이상의 특수 페르소나 합체를 했다</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>코쟁이도 나무에서 떨어질 때가 있다</name>
+  <detail>합체 사고가 발생했다</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>페르소나 구매하기</name>
+  <detail>페르소나 전서에서 페르소나를 구매했다</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>마리에게 부탁해</name>
+  <detail>스킬 카드를 등록했다</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>카드 콜렉터</name>
+  <detail>스킬 카드를 100장 등록했다</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>임기응변</name>
+  <detail>한 번의 전투에서 페르소나 체인지를 5회 이상 했다</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>리세의 열혈팬</name>
+  <detail>리세의 내비 250종류를 들었다</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>하트 어태커</name>
+  <detail>한 번의 공격으로 999 이상의 대미지를 입혔다</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>뛰어난 사령탑</name>
+  <detail>총공격을 50회 이상 했다</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>배틀 숙련자</name>
+  <detail>WEAK 100회 돌파</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>신의 드로우</name>
+  <detail>ALL GET BONUS를 50회 달성했다</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>욕망을 쥐어 잡는 손</name>
+  <detail>황금손을 쓰러트렸다</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="G" pid="000">
+  <name>힘을 드러낸 자</name>
+  <detail>마가렛을 쓰러트렸다</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="S" pid="000">
+  <name>거둬 들이는 자를 거둬 들이는 자</name>
+  <detail>거둬 들이는 자를 쓰러트렸다</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>푸드 파이터</name>
+  <detail>아이야의 스페셜 메뉴를 다 먹었다</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>비블리오마니아</name>
+  <detail>모든 책을 독파했다</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>오늘은 작동하네?</name>
+  <detail>캡슐 판매기에서 아이템을 구매했다</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>럭키!</name>
+  <detail>자동판매기에서 보너스에 당첨되었다</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>여러분의 지름 친구 </name>
+  <detail>시가넷에서 5회 이상 쇼핑을 했다</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>쇼핑 숙련자</name>
+  <detail>먹거리 대학에서 특제 고로케를 샀다</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>자취형 남자</name>
+  <detail>도시락 만들기를 5회 이상 대성공시켰다</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>특별한 사람</name>
+  <detail>아무 캐릭터와 특별한 관계가 되었다</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="S" pid="000">
+  <name>완벽한 소질</name>
+  <detail>인간 스테이터스를 모두 최대로 만들었다</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>또 한 명의 자신</name>
+  <detail>페르소나 이자나기를 손에 넣었다</detail>
+ </trophy>
+ <trophy id="035" hidden="yes" ttype="S" pid="000">
+  <name>진실의 힘</name>
+  <detail>이자나기 오오카미를 만들었다</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="S" pid="000">
+  <name>페르소나 전서 중급자</name>
+  <detail>페르소나 전서 등록률이 50%를 넘었다</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="G" pid="000">
+  <name>페르소나 전서 컴플리트</name>
+  <detail>페르소나 전서를 컴플리트했다</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>패션 전도사</name>
+  <detail>복장을 바꾸고 전투에 임했다</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="000">
+  <name>눈에 띄는 존재</name>
+  <detail>시험에서 학년 톱이 되었다</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="B" pid="000">
+  <name>낚시 마스터</name>
+  <detail>바다의 수호신을 낚았다</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="B" pid="000">
+  <name>진정한 인연</name>
+  <detail>커뮤니티 하나를 MAX로 만들었다</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="B" pid="000">
+  <name>결속사</name>
+  <detail>10개의 커뮤니티를 MAX로 만들었다</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="S" pid="000">
+  <name>이나바의 전설</name>
+  <detail>모든 커뮤니티를 MAX로 만들었다</detail>
+ </trophy>
+ <trophy id="044" hidden="no" ttype="B" pid="000">
+  <name>차이를 아는 남자</name>
+  <detail>샤갈의 커피를 마셨다</detail>
+ </trophy>
+ <trophy id="045" hidden="no" ttype="B" pid="000">
+  <name>영화평론가</name>
+  <detail>오키나 시의 영화관에 세 번 갔다</detail>
+ </trophy>
+ <trophy id="046" hidden="no" ttype="B" pid="000">
+  <name>벌레 헌터</name>
+  <detail>베스트 타이밍으로 곤충채집망을 휘둘렀다</detail>
+ </trophy>
+ <trophy id="047" hidden="no" ttype="B" pid="000">
+  <name>나이스 어택!</name>
+  <detail>선제공격으로 전투를 시작했다</detail>
+ </trophy>
+ <trophy id="048" hidden="yes" ttype="B" pid="000">
+  <name>오빠는 걱정입니다</name>
+  <detail>나나코의 병문안을 3번 갔다</detail>
+ </trophy>
+ <trophy id="049" hidden="no" ttype="B" pid="000">
+  <name>신 퀴즈왕 탄생</name>
+  <detail>심야 횡단 미라클 퀴즈・결승에서 우승했다</detail>
+ </trophy>
+</trophyconf>

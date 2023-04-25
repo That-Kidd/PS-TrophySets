@@ -1,0 +1,228 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000004533fea0269997e0f2803b569ede92e19538207a1be9ec841b861b78ab0cbdc7665effe8a79fed134bf310362670565f8158e76a01d3807e7fcc9e401c462b351d5c58b53c0ee50802f29e4d9e1f2af380c95201745d2d3e0fde018b069b5671a8d9ce275abe5fec2ee3e34b9c0face3a55f777c892298c0ad3f62dce847eb97ff9690319ebed9d147369a4a0ec9d5c3b5f7fe03-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR06843_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>カデンツァ フェルマータ アコルト：フォルテシモ</title-name>
+ <title-detail>トロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>オールクリア</name>
+  <detail>全てのトロフィーを入手した。</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>覚醒</name>
+  <detail>あなたが真の主人公となった。</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>斬り拓き者</name>
+  <detail>初めてバトルで戦略勝利した。</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>捻じ伏せし者</name>
+  <detail>初めてバトルで戦略破壊勝利した。</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>スマートフォンGET</name>
+  <detail>フレイアがスマートフォンを購入した。</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="S" pid="000">
+  <name>スタイリッシュプレイヤー</name>
+  <detail>隠しギミックを駆使して戦闘を有利に運んだ。</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="000">
+  <name>レジェンドチェイン</name>
+  <detail>ラストバトルで華麗に連携を繋いだ。</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>クライマックス</name>
+  <detail>数多の運命を斬り開き、決戦準備を完璧に整えた。</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>過去を超えし者</name>
+  <detail>零二で龍一に戦略勝利した。</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>究極魔法使い</name>
+  <detail>零二で龍一に戦略破壊勝ちした。</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>薄氷の勝利</name>
+  <detail>フレイアでミコトを降参まで追い詰めた。</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>秘められし力</name>
+  <detail>フレイアでミコトを戦略破壊勝利&#x0a;した。</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="B" pid="000">
+  <name>空を往く者</name>
+  <detail>天空飛空艇でフレイアを撃破した。</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="000">
+  <name>海を往く者</name>
+  <detail>時空豪華客船でミコトを撃破した。</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="B" pid="000">
+  <name>地を往く者</name>
+  <detail>死獄の魔列車でアリシアを撃破した。</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>アトラクションマスター</name>
+  <detail>全てのアトラクションをクリアした。</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>第三勢力登場</name>
+  <detail>謎の鎧騎士・フェルマータが登場した。</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>未だ見ぬ剣才</name>
+  <detail>陽菜子の手助けでファウストを退いた。</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>高みからの助言</name>
+  <detail>陽菜子と共にファウストを退けた。</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>雷紅の守護戦士</name>
+  <detail>時空の摩天楼で激しい戦いを繰り広げた。</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="000">
+  <name>不屈の闘志</name>
+  <detail>龍一の猛攻に対し不屈の闘志でカウンターした。</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>ハイウェイマスター</name>
+  <detail>蒼雷の高速道路で敵を翻弄した。</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="B" pid="000">
+  <name>七聖騎士団長の助力</name>
+  <detail>時空の摩天楼でイルムフリートが来るまで持ち堪えた。</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>七聖騎士団長の力</name>
+  <detail>イルムフリートにフルアクセスを防がれた。</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="000">
+  <name>生き抜く戦士達</name>
+  <detail>イルムフリートの猛攻を凌いだ。</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="B" pid="000">
+  <name>戦略破壊せし兵器</name>
+  <detail>フレイアの猛攻を智略と“能力”全てを駆使して上回った。</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>勇猛なる閃光剣士</name>
+  <detail>サクラのレーヴァテインを恐れず勝機を見出した。</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="B" pid="000">
+  <name>万能なる過去の具現</name>
+  <detail>フレイアの猛攻を戦略破壊し優位に立った。</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="B" pid="000">
+  <name>魔眼覚醒</name>
+  <detail>フレイアの魔眼が覚醒し真の能力が発動した。</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="B" pid="000">
+  <name>七星の衛星砲</name>
+  <detail>ユリウスの切り札を発動させた。</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="B" pid="000">
+  <name>魔術居合剣士の誕生</name>
+  <detail>なぎさが魔術と居合の融合に成功した。</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="B" pid="000">
+  <name>奥義継承</name>
+  <detail>なぎさが白杖円舞を継承した。</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="B" pid="000">
+  <name>真実への道</name>
+  <detail>ユリアの神話輝術と戦術を見事打ち破った。</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="B" pid="000">
+  <name>未完の大器を持つ少女</name>
+  <detail>陽菜子とアリシアを邂逅させた。</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="B" pid="000">
+  <name>闇に囚われし少女の救出</name>
+  <detail>アリシアの暴走を食い止めた。</detail>
+ </trophy>
+ <trophy id="035" hidden="yes" ttype="B" pid="000">
+  <name>極限なる戦いの申し子</name>
+  <detail>ミコトで零二と互角の戦いを繰り広げた。</detail>
+ </trophy>
+ <trophy id="036" hidden="yes" ttype="B" pid="000">
+  <name>守り抜く闘志</name>
+  <detail>零二からコアを防衛した。</detail>
+ </trophy>
+ <trophy id="037" hidden="yes" ttype="B" pid="000">
+  <name>攻め続ける闘志</name>
+  <detail>零二の隙を狙い果敢に攻撃した。</detail>
+ </trophy>
+ <trophy id="038" hidden="yes" ttype="B" pid="000">
+  <name>天照大神誕生</name>
+  <detail>三種の神器の真の力を解放した。</detail>
+ </trophy>
+ <trophy id="039" hidden="yes" ttype="B" pid="000">
+  <name>師の教え</name>
+  <detail>仲間の言葉を拳に籠めて戦い抜いた。</detail>
+ </trophy>
+ <trophy id="040" hidden="yes" ttype="B" pid="000">
+  <name>好敵手の存在</name>
+  <detail>龍一がルドラを良き好敵手と認めた。</detail>
+ </trophy>
+ <trophy id="041" hidden="yes" ttype="B" pid="000">
+  <name>いざ最深部へ</name>
+  <detail>最終防衛ラインを突破した。</detail>
+ </trophy>
+ <trophy id="042" hidden="yes" ttype="B" pid="000">
+  <name>兄を乗り越えた剣士</name>
+  <detail>運命に抗いユリウスに勝利した。</detail>
+ </trophy>
+ <trophy id="043" hidden="yes" ttype="B" pid="000">
+  <name>交叉するキセキとマホウ</name>
+  <detail>サクラが輝石の剣と融合し復活を果たした。</detail>
+ </trophy>
+ <trophy id="044" hidden="yes" ttype="S" pid="000">
+  <name>さらなる高みへ</name>
+  <detail>フェルマータとして真の覚醒を果たし具現化した。</detail>
+ </trophy>
+ <trophy id="045" hidden="yes" ttype="S" pid="000">
+  <name>哀しき運命</name>
+  <detail>ラストバトルに勝利した。</detail>
+ </trophy>
+ <trophy id="046" hidden="yes" ttype="G" pid="000">
+  <name>トゥルークリア</name>
+  <detail>トゥルーエンドへ到達した。</detail>
+ </trophy>
+ <trophy id="047" hidden="yes" ttype="S" pid="000">
+  <name>時空操作マスター</name>
+  <detail>ディメンションシフトで全てのイベントを見た。</detail>
+ </trophy>
+ <trophy id="048" hidden="no" ttype="B" pid="000">
+  <name>買い物マスター</name>
+  <detail>お店が空になった。</detail>
+ </trophy>
+ <trophy id="049" hidden="yes" ttype="B" pid="000">
+  <name>上級運命使い</name>
+  <detail>フェルマータのレベルが１０になった。</detail>
+ </trophy>
+ <trophy id="050" hidden="no" ttype="B" pid="000">
+  <name>諦めない力</name>
+  <detail>コンティニューを１０回以上した。</detail>
+ </trophy>
+ <trophy id="051" hidden="no" ttype="B" pid="000">
+  <name>サウンドマスター</name>
+  <detail>全てのBGMが登録された。</detail>
+ </trophy>
+ <trophy id="052" hidden="no" ttype="B" pid="000">
+  <name>ＣＧマスター</name>
+  <detail>CG MODEが全て登録された。</detail>
+ </trophy>
+ <trophy id="053" hidden="no" ttype="B" pid="000">
+  <name>専門用語マスター</name>
+  <detail>GLOSSARYに全て専門用語が登録された。</detail>
+ </trophy>
+ <trophy id="054" hidden="no" ttype="B" pid="000">
+  <name>隠しショップ発見</name>
+  <detail>隠しショップを発見した。</detail>
+ </trophy>
+</trophyconf>

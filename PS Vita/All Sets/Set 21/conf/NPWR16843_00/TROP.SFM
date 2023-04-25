@@ -1,0 +1,72 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000059f4f98658d4ed133b579d3269671a32e32b8083c8818f70e31ac53b10daf7b3950776bd0bd550cdb67715df2d720d704b903ad43cb06a08a6656559362c689a0f7dc59c7197e08a0273fe569e89d7a3a5a2db18d2bde89e088602548da6d9017ba0b8b9239d4947b04f4bcbbc9af1d00ce47e2c8531bab6bf54340ecab2c69be19894d45eb3f4b6db870ab7708c89a0aa7cb9f4-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR16843_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Daggerhood</title-name>
+ <title-detail>Daggerhood</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Platinum Thief</name>
+  <detail>Get all the trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>This poor guy was just doing his job</name>
+  <detail>Kill 1 enemy</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>I deserve this and much more</name>
+  <detail>Die once</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Training to escape</name>
+  <detail>Complete 1 level</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>This is harder than I thought</name>
+  <detail>Complete 3 levels</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>I'm sure I can escape now!</name>
+  <detail>Complete 6 levels</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>Nope, I'm still trapped here...</name>
+  <detail>Complete 12 levels</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>Hunting butterflies</name>
+  <detail>Get 1 fairy</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>They don't give health</name>
+  <detail>Get 3 fairies</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>It's funny to destroy little Fairy families</name>
+  <detail>Get 10 fairies</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>Congratulations! You can now buy bread</name>
+  <detail>Get all treasures on 1 level</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>Might be useful if you escape</name>
+  <detail>Get all treasures on 3 levels</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>It’s worth nothing down here</name>
+  <detail>Get all treasures on 10 level</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="000">
+  <name>Slow but safe</name>
+  <detail>Get 3 stars on 1 level</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="000">
+  <name>Taking more risks</name>
+  <detail>Get 3 stars on 3 level</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="G" pid="000">
+  <name>This is not going to end well</name>
+  <detail>Get 3 stars on 10 level</detail>
+ </trophy>
+</trophyconf>

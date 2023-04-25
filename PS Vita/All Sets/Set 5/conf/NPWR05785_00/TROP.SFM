@@ -1,0 +1,148 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000061b73f060a22a552639ac8595d6d751332a084ab7009182008af1d91ef57e70a22fe080398849abcc7abd673d72e0da46bbcf972d9f1fd0924447d98b18560b80afe2b075170e230bc9fe30d261a2b6b9ae4c90c7c6facaa85391f0e8f903ac652acd6566c3e7d208f990a7d08f4e010d4e907b9d179b459a65e9a657b2c3d9c0b272dc6cfc470e7f4c2992471de8f622d27c315-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR05785_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Ratchet &amp; Clank</title-name>
+ <title-detail>Trofeos de Ratchet &amp; Clank</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Maestro en artilugios</name>
+  <detail>Obtén todos los trofeos de Ratchet &amp; Clank.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>Cazaguitones</name>
+  <detail>Consigue los 40 guitones de oro del juego.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>Habilidoso</name>
+  <detail>Domina los 30 puntos de habilidad.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>Ratchet Midas</name>
+  <detail>Obtén las diez armas de oro.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>Chúpate esa, Drek </name>
+  <detail>Derrota al Presidente Drek.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>Raudo y veloz</name>
+  <detail>Supera el desafío de hoverboard de Rilgar en menos de 1:35.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>Control definitivo</name>
+  <detail>Obtén el T.A.U.N.</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>Hoverboard acrobático</name>
+  <detail>Haz un "Especial McMarx" en la carrera de hoverboard.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>Cuaderno de bocetos</name>
+  <detail>Consigue 15 puntos de habilidad para desbloquear el cuaderno de bocetos.</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>Vándalo</name>
+  <detail>Destruye todas las farolas de Oltanis.</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>A por la chica</name>
+  <detail>Derrota a la reina alienígena de la estación Blarg con solo tu llave.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>Coleccionista de artilugios</name>
+  <detail>Obtén todos los artilugios normales de armas</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>"Ananodado"</name>
+  <detail>Consigue el Ultra Nanotec.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>Recogeguitones</name>
+  <detail>Consigue 1.000.000 de guitones.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>Qwark-ataque</name>
+  <detail>Derrota a la nave del capitán Qwark.</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="S" pid="000">
+  <name>Masticad plomo</name>
+  <detail>Utiliza un ratón de arena para destruir todos los tanques de Batalia.</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>¡Eh, por aquí!</name>
+  <detail>Atrae a cualquier enemigo a un campo de fuerza en Orxon.</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>Posa para la foto</name>
+  <detail>Colócate entre las piernas de la estatua del Robotaller de Al en Kerwan.</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>Bombardero</name>
+  <detail>Haz saltar por los aires 10 vehículos en Eudora.</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>Píoooo</name>
+  <detail>Convierte un tanque en un pollo en Rilgar.</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="000">
+  <name>Quarcástico</name>
+  <detail>Destruye al robot de entrenamiento del capitán Qwark en Kerwan.</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>Apunta</name>
+  <detail>Destruye un caza o bombardero en Novalis.</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="B" pid="000">
+  <name>Transportes kaput</name>
+  <detail>Destruye tres transportes voladores en Aridia.</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>Destructor destruido</name>
+  <detail>Vuela todos los destructores Blarg en Gaspar.</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="000">
+  <name>Francotirador</name>
+  <detail>Dispara a un Chillón a través de un hueco de francotirador en Orxon.</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>Lombax magnético</name>
+  <detail>Obtén las magnetobotas.</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>Tesoro enterrado</name>
+  <detail>Encuentra y destruye todas las cajas en el océano de Pokitaru.</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>¡Dame más!</name>
+  <detail>Obtén la mejora Nanotec Prémium.</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>No son los droides...</name>
+  <detail>Obtén el persuasor.</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="B" pid="000">
+  <name>El mago</name>
+  <detail>Consigue más de 4.500 puntos en una carrera de hoverboard en Kalebo III.</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>Succión va, succión viene</name>
+  <detail>Obtén el cañón de succión.</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="B" pid="000">
+  <name>Insecticida</name>
+  <detail>Mata a todos los muerdetobillos en el planeta Hoven.</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="B" pid="000">
+  <name>Patos de feria</name>
+  <detail>Destruye todas las naves de carga de la base de la órbita Oltanis.</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="B" pid="000">
+  <name>Crucero cauto</name>
+  <detail>Atraviesa la región acuática sin perder salud en la estación orbital de Veldin.</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="B" pid="000">
+  <name>Van de comando</name>
+  <detail>Mata a 10 guardias de élite solo con la llave en Veldin.</detail>
+ </trophy>
+</trophyconf>

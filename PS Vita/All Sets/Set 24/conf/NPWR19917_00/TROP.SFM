@@ -1,0 +1,72 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000dca28049f9d6e29b15e85e162ac5e71a8daec12566d939e782e59cf245b25e89df878497caae96c6d669cd2c3eedfb565ac322711c5f2d812fca6258ac43602a8afdf79853e9aef6ebe6c79269fb55f559a5801e695bbdb40aac206f8a8dc47530c93ba648954026aa54cc9bb834b03375d96d1260670aca68709e3698647e020c1b81db5fabd1419534fc5328bf4abb62181b7b-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR19917_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Knightin'+</title-name>
+ <title-detail>Knightin'+</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Platinum Knight</name>
+  <detail>Get all other trophies.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="000">
+  <name>Super Sharp Sword</name>
+  <detail>Swing it towards your foe. Haven't won yet? Repeat previous step.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>Whirlwind Blade</name>
+  <detail>Secret hold-attack-button-to-charge technique unlocked.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>Shield of Protection</name>
+  <detail>Place it in front of anything dangerous. It's as simple as that.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>Ring of Speed</name>
+  <detail>Allows you to dash because walking is slow and boring.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>Arcane Wand</name>
+  <detail>Point at your target. Shoot magic bolts. Try not to miss.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>Hercules Belt</name>
+  <detail>Now you can move heavy things and open jars with bare hands!</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>Ghost Amulet</name>
+  <detail>Makes you invulnerable! But only after you were hurt...</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>Glug-Glug-Glug</name>
+  <detail>Big Red Potions... There is always not enough of them.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>Arcane Hangover</name>
+  <detail>Great power may lead to unpleasant consequences (or not).</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>Key collector</name>
+  <detail>Found all the golden keys in the Forsaken Ruins.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>Key hoarder</name>
+  <detail>Found all the golden keys in the Ancient Pyramid.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>Safecracker in the Ruins</name>
+  <detail>No closed chest was left behind in the Forsaken Ruins.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="000">
+  <name>Safecracker in the Pyramid</name>
+  <detail>No closed chest was left behind in the Ancient Pyramid.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="000">
+  <name>Qaug</name>
+  <detail>Defeated almost a dragon.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="G" pid="000">
+  <name>Gosura</name>
+  <detail>Defeated the unfinished titan.</detail>
+ </trophy>
+</trophyconf>

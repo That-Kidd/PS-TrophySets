@@ -1,0 +1,108 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000b2aa73cab8b00e13eddb45c06ea4b062cc29578891af9ddc3886a0b9a71635e14e71b3b0c5cc789794c5537aec7aea70a52804211b5426dca50032953b928cab0ee4f5f59971d25efc224438726fc4f258d2ba33667d012ac7d99ef3e7fc2c0181190aa8a92f59467685d94e1371f5062b1b6c134ca00584b0de7c60f683646554f8f569380185442e8928bae22d27e29a35a119-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR08086_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Severed</title-name>
+ <title-detail>Severed - Trophy Set</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Made Whole</name>
+  <detail>Obtain every trophy in the game</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Tutelage</name>
+  <detail>Remember what your mother taught you</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Apprentice Severer</name>
+  <detail>Sever 10 enemies</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Feel the Power</name>
+  <detail>Fully upgrade one skill tree</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>Your Strength is My Strength</name>
+  <detail>Devour every buff at least once</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>The Path Unseen</name>
+  <detail>Breach a Secret Blind Barrier</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>Eating Through</name>
+  <detail>Breach a Secret Devour Barrier</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>Filet Minions</name>
+  <detail>Sever 4 enemies in one encounter</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>Adept Severer</name>
+  <detail>Sever 50 enemies</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>Heart-Shaped Snack</name>
+  <detail>Complete a Health Upgrade</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>Brain Buffet</name>
+  <detail>Complete a Mana Upgrade</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>Surgical Searching</name>
+  <detail>Explore every area to 100% completion</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>Detective</name>
+  <detail>Find every secret</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>Brother Rememberance</name>
+  <detail>Find your Brother's memento</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>Father Rememberance</name>
+  <detail>Find your Father's memento</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="S" pid="000">
+  <name>Mother Rememberance</name>
+  <detail>Find your Mother's memento</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>One Hand Tied Behind Your Back</name>
+  <detail>Take no damage in a 4 enemy fight</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="S" pid="000">
+  <name>Re-Armed</name>
+  <detail>Confront the Stray Arm</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>Burdened</name>
+  <detail>Make peace with the Wanderer</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="G" pid="000">
+  <name>Master Severer</name>
+  <detail>Sever 100 enemies</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="G" pid="000">
+  <name>Badass</name>
+  <detail>Fully upgrade all of your skills and equipment</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="G" pid="000">
+  <name>Mass Murder</name>
+  <detail>Defeat the Crow Golem</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="G" pid="000">
+  <name>Glutton for Punishment</name>
+  <detail>Defeat the Cryptolith</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="G" pid="000">
+  <name>Face to Faces</name>
+  <detail>Defeat the Dragon</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="G" pid="000">
+  <name>Completed Memories</name>
+  <detail>Finish the game after finding all mementos</detail>
+ </trophy>
+</trophyconf>

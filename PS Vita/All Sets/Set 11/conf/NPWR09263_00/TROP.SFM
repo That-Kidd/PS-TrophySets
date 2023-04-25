@@ -1,0 +1,108 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000048bf0376d511d6ea282ad9e89fe61707d7d25b54746e3a5e6a690de92e29b5a7de2ec4f10aaff328cd79fa7d0877e6987028a20fa8bd76a59da6fc1fad46cffbf218be9cf58ab05208da4863d9b754e96e30ade41b48ca72a596f7cb5c8cbfd2a1422bbdcf8d370ce4e5e5b9f8ed3bf59db1258ef39d30771ef4feac58bdd3ff9ffd5ff3e6b2a3d4f7a3c6bc61e65bee19672c94-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR09263_00</npcommid>
+ <trophyset-version>01.02</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Volume</title-name>
+ <title-detail>Volume</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>La flecha de platino</name>
+  <detail>Consigue todos los trofeos de Volume.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>La primera balada</name>
+  <detail>Completa 25 niveles principales.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>Semifinal</name>
+  <detail>Completa 50 niveles principales.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>Las dos horas más oscuras</name>
+  <detail>Completa 75 niveles principales.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>Las obras completas</name>
+  <detail>Completa todos los niveles principales.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>Marcha imperial</name>
+  <detail>Recorre 1 milla.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>Un largo paseo</name>
+  <detail>Recorre 3 millas.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>Calentando</name>
+  <detail>Juega 20 minutos.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>Lectura ligera</name>
+  <detail>Lee el 25% del texto de los niveles principales.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>Manuscritos iluminados</name>
+  <detail>Lee el 50% del texto de los niveles principales.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>Textos compilados</name>
+  <detail>Lee el 75% del texto de los niveles principales.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>Historia de las cosas</name>
+  <detail>Lee el 100% del texto de los niveles principales.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>Oculto en la sombra de Moisés</name>
+  <detail>Escóndete en 50 armarios en los niveles principales.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>Saltos de fe</name>
+  <detail>Salta 25 muros en los niveles principales.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="000">
+  <name>Porque dolerá más</name>
+  <detail>Aturde a tus enemigos 100 veces en los niveles principales, usando el Blackjack </detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="G" pid="000">
+  <name>Ladrón para siempre</name>
+  <detail>Deja que te vean los enemigos 300 veces en los niveles principales.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Interceptor improbable</name>
+  <detail>Muere una vez.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>Arcade Flynn</name>
+  <detail>Muere 200 veces.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>Verde Lincoln</name>
+  <detail>Juega un nivel con un personaje personalizado.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Que te oigan</name>
+  <detail>Usa la Corneta 50 veces en los niveles principales.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>Disfruta el viaje</name>
+  <detail>Coloca 20 Cables en los niveles principales.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>Si sangra...</name>
+  <detail>Vuélvete invisible 30 veces en los niveles principales.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>El fantasma de...</name>
+  <detail>Encuentra 40 figmentos en los niveles principales.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="G" pid="000">
+  <name>Agente 48</name>
+  <detail>Usa un disfraz 100 veces en los niveles principales.</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="G" pid="000">
+  <name>Q</name>
+  <detail>Usa todos los artilugios en los niveles principales.</detail>
+ </trophy>
+</trophyconf>

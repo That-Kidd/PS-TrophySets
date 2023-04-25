@@ -1,0 +1,172 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000086ac3eba3113727efedceda659e51da51db28e1ba8f70e392fa04735f3b0f7a83f1280ebb22f7ccc2dc65adadbf48ece998019ab09b77d1cc1cfd6ef69482a2f97123a3e51d62a9505fd2d7b89ded2350cf73acd5bbf20a477b515efb070ea6f75a31f6aecaf02c94b109d4e795146bf3556ab4212eb28782151df94d796f80472393cc337accb078c611252558b82d2cb256614-->
+<trophyconf version="1.1" platform="psp2">
+ <npcommid>NPWR02866_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>プロ野球スピリッツ2012&#x0a;</title-name>
+ <title-detail>トロフィーコレクション</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>スピリッツマスター</name>
+  <detail>すべてのトロフィーを獲得</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>対決チャレンジャー</name>
+  <detail>スピリッツモードで「対決チャレンジ」をクリア</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>カードチャレンジャー</name>
+  <detail>スピリッツモードで「カードチャレンジ」をクリア</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>チームチャレンジャー</name>
+  <detail>スピリッツモードで「チームチャレンジ」をクリア</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>育成王</name>
+  <detail>スピリッツモードで★８０以上の選手育成成功</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>ルーキー</name>
+  <detail>スタープレイヤーモードを1年プレイする</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>中堅選手</name>
+  <detail>スタープレイヤーモードを10年プレイする</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>ベテラン</name>
+  <detail>スタープレイヤーモードを20年プレイする</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>一軍昇格</name>
+  <detail>スタープレイヤーモードを新規選手で開始して一軍に昇格する</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>月間ＭＶＰ</name>
+  <detail>スタープレイヤーモードで月間ＭＶＰを獲得する</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>オールスター選手</name>
+  <detail>スタープレイヤーモードでオールスターに出場する</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>タイトルホルダー</name>
+  <detail>スタープレイヤーモードのシーズン記録でタイトルを獲得する</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>歴代記録更新</name>
+  <detail>スタープレイヤーモードで歴代記録を更新する</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="000">
+  <name>1億円プレイヤー</name>
+  <detail>スタープレイヤーモードで年俸１億円以上を提示される</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>クライマックスモード制覇</name>
+  <detail>クライマックスモードで日本一になる</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>チームプレイで10試合達成</name>
+  <detail>ペナントレースモードのチームプレイで10試合達成する</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>チームプレイで50試合達成</name>
+  <detail>ペナントレースモードのチームプレイで50試合達成する</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>監督プレイで10試合達成</name>
+  <detail>ペナントレースモードの監督プレイで10試合達成する</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>監督プレイで50試合達成</name>
+  <detail>ペナントレースモードの監督プレイで50試合達成する</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>フィールドプレイで10試合達成</name>
+  <detail>ペナントレースモードのフィールドプレイで10試合達成する</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>フィールドプレイで50試合達成</name>
+  <detail>ペナントレースモードのフィールドプレイで50試合達成する</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>FA選手獲得</name>
+  <detail>ペナントレースモードでFA選手を1人獲得する</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>トレード成立</name>
+  <detail>ペナントレースモードでトレードを1組成立させる</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>競合抽選</name>
+  <detail>ペナントレースモードのドラフト会議で抽選くじを引き、交渉権を獲得する</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>まだまだ1年目</name>
+  <detail>ペナントレースモードを１年プレイする　　　＊（スキップ可）</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>ようやく10年目</name>
+  <detail>ペナントレースモードを10年プレイする　　　＊（スキップ可）</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="S" pid="000">
+  <name>20年間おつかれさまでした</name>
+  <detail>ペナントレースモードを20年プレイする　　　＊（スキップ可）</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="S" pid="000">
+  <name>リーグ優勝</name>
+  <detail>ペナントレースモードでリーグ優勝　　　　　＊（スキップ可）</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="S" pid="000">
+  <name>日本一！</name>
+  <detail>ペナントレースモードで日本シリーズ優勝　　＊（スキップ可）</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>ビギナーグランプリ優勝</name>
+  <detail>グランプリモードでビギナーグランプリ優勝</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>ルーキーグランプリ優勝</name>
+  <detail>グランプリモードでルーキーグランプリ優勝</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>スプリンググランプリ優勝</name>
+  <detail>グランプリモードでスプリンググランプリ優勝</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>レギュラーグランプリ優勝</name>
+  <detail>グランプリモードでレギュラーグランプリ優勝</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>エキスパートグランプリ優勝</name>
+  <detail>グランプリモードでエキスパートグランプリ優勝</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>マスターグランプリ優勝</name>
+  <detail>グランプリモードでマスターグランプリ優勝</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="S" pid="000">
+  <name>プロスピグランプリ優勝</name>
+  <detail>グランプリモードでプロスピグランプリ優勝</detail>
+ </trophy>
+ <trophy id="036" hidden="yes" ttype="G" pid="000">
+  <name>ファイナルカップ優勝</name>
+  <detail>グランプリモードでファイナルカップ優勝</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="S" pid="000">
+  <name>強化大成功</name>
+  <detail>グランプリモードで選手カード強化を行い大成功する</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>カードトレーダー</name>
+  <detail>グランプリモードのトレードセンターで取引を成功させる</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="000">
+  <name>一軍☆合計1000</name>
+  <detail>グランプリモードで１軍☆合計1000以上のチームを作って試合をした</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="S" pid="000">
+  <name>一軍☆合計2000</name>
+  <detail>グランプリモードで１軍☆合計2000以上のチームを作って試合をした</detail>
+ </trophy>
+</trophyconf>

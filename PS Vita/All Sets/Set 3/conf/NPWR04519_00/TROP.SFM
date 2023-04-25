@@ -1,0 +1,64 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000013db19d31d3135d188194fc44c95e116924bb87a00f9ca24e63cc03dd412f064c8c18c42f10e1cdc7e8e45b9e80318b362f120ef3d17ee092960da533c5308a0b4c7b61920daa0af5b856a01cbeaede7a3b5c099656da79eecb7ca463eeb6ee6255f5e29a9331eff88443b5a9b421febc409acb54ce934e1af2a6ee8e4c36bc9889ecc903830eb68f4f5d7e013c7172029f1e163-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR04519_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Men's Room Mayhem</title-name>
+ <title-detail>Men's Room Mayhem</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>One Down...</name>
+  <detail>Serve Your First Patron</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Get Your Hands Dirty</name>
+  <detail>First full cleanup (all toilets and sinks cleaned)&#x0a;</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Bronze Award</name>
+  <detail>Complete All Bronze Objectives</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="-1">
+  <name>Silver Award</name>
+  <detail>Complete All Silver Objectives</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="-1">
+  <name>Gold Award</name>
+  <detail>Complete All Gold Objectives</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Care in the Community</name>
+  <detail>Serve the Old Man in the Hotel</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Intruder Alert!</name>
+  <detail>Serve the Woman in the Nightclub</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Drunk and Disorderly</name>
+  <detail>Serve the Drunk in the Biker Bar</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Peace and Love</name>
+  <detail>Serve the Hippie at the Festival</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>The Tinkle Twins</name>
+  <detail>Serve the Clown Twins at the Circus</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>Sand in the Face</name>
+  <detail>Serve the Bully at the Beach</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="-1">
+  <name>Hygiene Award</name>
+  <detail>Survive 3 waves with everyone washing their hands</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="-1">
+  <name>Mayhem Master</name>
+  <detail>Survive 3 waves with a full mayhem meter</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="-1">
+  <name>Toilet Trouble</name>
+  <detail>Have 12 patrons on screen at once in Blitz Mode</detail>
+ </trophy>
+</trophyconf>

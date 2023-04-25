@@ -1,0 +1,56 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000d9e4ab8447b598207b0241bed1d4705e46a31a71c9ccf8700b04ed713c9e7e1861da5bafc7983b3f0cc49e001596b319820db8bc5faae744c8be10e6a2347f5fc45d1f47ec053d28ac3019456eb64f196cc5af041796cb7b5703daee82982601f521be93ef4ec52de058ca41333039dcea166f4fac518a2b4a443f5f14a84f2b465456e4dbf9d5502249b032841b55cf4f73374f-->
+<trophyconf version="1.1" platform="psp2" policy="freemium">
+ <npcommid>NPWR02970_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Ecolibrium™</title-name>
+ <title-detail>Ecolibrium™</title-detail>
+ <trophy id="000" hidden="no" ttype="G" pid="-1">
+  <name>Competitive spirit</name>
+  <detail>Finish among the top 100 in an Online challenge.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="-1">
+  <name>Against wind and tide</name>
+  <detail>Complete ecosystem challenges 1, 2 and 3.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="-1">
+  <name>Tough guy</name>
+  <detail>Create a level-10 alpha creature.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="-1">
+  <name>Collector</name>
+  <detail>Obtain 20 different tokens.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="-1">
+  <name>Coloniser</name>
+  <detail>Colonise 3 ecosystems in free mode.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Step by step</name>
+  <detail>Complete all the tutorials.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Gardener</name>
+  <detail>Add 10 plants or fungi.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Engineer</name>
+  <detail>Add 10 artefacts.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Farmer</name>
+  <detail>Clone 10 creatures.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>Leader of the pack</name>
+  <detail>Achieve 5 alpha creatures in a single ecosystem.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>Variety is the spice of life</name>
+  <detail>Achieve a biodiversity of level 8.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="-1">
+  <name>Shopkeeper</name>
+  <detail>Exchange 20 creatures or artefacts in the auction.</detail>
+ </trophy>
+</trophyconf>

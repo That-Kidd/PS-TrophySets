@@ -1,0 +1,264 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000066bd1751c73742ab8bdf795cda0190cf07fe46ee2c4f732ab19819c50efd61e99b55664a010e8358cc3eca5ded441ee27fde0ac027a5194682f659d22e41edbe627d6c6d6b34e68c4a6d18ad763fe77ede2a50968f5e1a1c5dbf1af3c8d2c9c734c7fbd4792826a6a71c4d984b272d2a521e90a6a67d53045cb811efee9d0401ad3987da8f7d14721598e635f6f77e9732c7cce2-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR03751_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>地球防衛軍3 PORTABLE</title-name>
+ <title-detail>地球防衛軍3 PORTABLE&#x0a;トロフィー</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>ミッション・コンプリート</name>
+  <detail>すべてのトロフィーを獲得する</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Easy全ステージクリア（ストーム隊）</name>
+  <detail>ストーム隊で難易度Easyの全ステージをクリア</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Normal全ステージクリア（ストーム隊）</name>
+  <detail>ストーム隊で難易度Normalの全ステージをクリア</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Hard全ステージクリア（ストーム隊）</name>
+  <detail>ストーム隊で難易度Hardの全ステージをクリア</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>Hardest全ステージクリア（ストーム隊）</name>
+  <detail>ストーム隊で難易度Hardestの全ステージをクリア</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>Inferno全ステージクリア（ストーム隊）</name>
+  <detail>ストーム隊で難易度Infernoの全ステージをクリア</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>Easy全ステージクリア（ペイルウイング）</name>
+  <detail>ペイルウイングで、難易度Easyの全ステージをクリア</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>Normal全ステージクリア（ペイルウイング）</name>
+  <detail>ペイルウイングで、難易度Normalの全ステージをクリア</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>Hard全ステージクリア（ペイルウイング）</name>
+  <detail>ペイルウイングで、難易度Hardの全ステージをクリア</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>Hardest全ステージクリア（ペイルウイング）</name>
+  <detail>ペイルウイングで、難易度Hardestの全ステージをクリア</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>Inferno全ステージクリア（ペイルウイング）</name>
+  <detail>ペイルウイングで、難易度Infernoの全ステージをクリア</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>レスキュー</name>
+  <detail>協力プレイ時に、他プレイヤーを５人救助する</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="B" pid="000">
+  <name>スーパーレスキュー</name>
+  <detail>協力プレイ時に、他プレイヤーを４０人救助する</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="000">
+  <name>アント・ハンター</name>
+  <detail>蟻系巨大生物を１０００体倒す</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="B" pid="000">
+  <name>スパイダー・ハンター</name>
+  <detail>蜘蛛系巨大生物を６００体倒す</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>ガンシップ・ハンター</name>
+  <detail>ガンシップを７００機撃墜する</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>キャリア・ハンター</name>
+  <detail>キャリアーを２５機撃墜する</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>スモール・ハンター</name>
+  <detail>小型ヘクトルを５機破壊する</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>ヘクトル・ハンター</name>
+  <detail>ヘクトルを４０機破壊する</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>ヴァラク・ハンター</name>
+  <detail>ヴァラク、ヴァラクサイボーグ体を合計４体倒す</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="000">
+  <name>フォートレス・ハンター</name>
+  <detail>四足歩行要塞を１機破壊する</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>クイーン・ハンター</name>
+  <detail>クイーンを５体倒す</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="B" pid="000">
+  <name>キング・ハンター</name>
+  <detail>大蜘蛛を５体倒す</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>アタッカー・ハンター</name>
+  <detail>新型攻撃機を６０機撃墜する</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="000">
+  <name>レッド・ハンター</name>
+  <detail>レッドカラーを１０機撃墜する</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="B" pid="000">
+  <name>マザーシップ・ハンター</name>
+  <detail>マザーシップを１機撃墜する</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>アント・キラー</name>
+  <detail>蟻系巨大生物を合計１００００体倒す</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="B" pid="000">
+  <name>スパイダー・キラー</name>
+  <detail>蜘蛛系巨大生物を６０００体倒す</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="B" pid="000">
+  <name>ガンシップ・キラー</name>
+  <detail>ガンシップを７０００機撃墜する</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="B" pid="000">
+  <name>キャリア・キラー</name>
+  <detail>キャリアーを２５０機撃墜する</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="B" pid="000">
+  <name>スモール・キラー</name>
+  <detail>小型ヘクトルを５０機破壊する</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="B" pid="000">
+  <name>ヘクトル・キラー</name>
+  <detail>ヘクトルを４００機破壊する</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="B" pid="000">
+  <name>ヴァラク・キラー</name>
+  <detail>ヴァラク、ヴァラクサイボーグ体を合計４０体倒す</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="B" pid="000">
+  <name>フォートレス・キラー</name>
+  <detail>四足歩行要塞を１０機破壊する</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="B" pid="000">
+  <name>クイーン・キラー</name>
+  <detail>クイーンを５０体倒す</detail>
+ </trophy>
+ <trophy id="035" hidden="yes" ttype="B" pid="000">
+  <name>キング・キラー</name>
+  <detail>大蜘蛛を５０体倒す</detail>
+ </trophy>
+ <trophy id="036" hidden="yes" ttype="B" pid="000">
+  <name>アタッカー・キラー</name>
+  <detail>新型攻撃機を６００機撃墜する</detail>
+ </trophy>
+ <trophy id="037" hidden="yes" ttype="B" pid="000">
+  <name>レッド・キラー</name>
+  <detail>レッドカラーを１００機撃墜する</detail>
+ </trophy>
+ <trophy id="038" hidden="yes" ttype="B" pid="000">
+  <name>マザーシップ・キラー</name>
+  <detail>マザーシップを１０機撃墜する</detail>
+ </trophy>
+ <trophy id="039" hidden="yes" ttype="B" pid="000">
+  <name>武器入手10％</name>
+  <detail>武器の入手率が10％</detail>
+ </trophy>
+ <trophy id="040" hidden="yes" ttype="B" pid="000">
+  <name>武器入手25％</name>
+  <detail>武器の入手率が25％</detail>
+ </trophy>
+ <trophy id="041" hidden="yes" ttype="B" pid="000">
+  <name>武器入手50％</name>
+  <detail>武器の入手率が50％</detail>
+ </trophy>
+ <trophy id="042" hidden="yes" ttype="B" pid="000">
+  <name>武器入手75％</name>
+  <detail>武器の入手率が75％</detail>
+ </trophy>
+ <trophy id="043" hidden="yes" ttype="G" pid="000">
+  <name>武器入手100％</name>
+  <detail>武器の入手率が100％</detail>
+ </trophy>
+ <trophy id="044" hidden="yes" ttype="B" pid="000">
+  <name>シールド兵</name>
+  <detail>ミニッツシールドで１０人の他プレイヤーを強化</detail>
+ </trophy>
+ <trophy id="045" hidden="yes" ttype="B" pid="000">
+  <name>シールドマスター</name>
+  <detail>ミニッツシールドで１００人の他プレイヤーを強化</detail>
+ </trophy>
+ <trophy id="046" hidden="yes" ttype="B" pid="000">
+  <name>ストームソルジャー</name>
+  <detail>ストーム隊の体力が２０００</detail>
+ </trophy>
+ <trophy id="047" hidden="yes" ttype="B" pid="000">
+  <name>ストームマスター</name>
+  <detail>ストーム隊の体力が４０００</detail>
+ </trophy>
+ <trophy id="048" hidden="yes" ttype="B" pid="000">
+  <name>ウイングソルジャー</name>
+  <detail>ペイルウイングの体力が１０００</detail>
+ </trophy>
+ <trophy id="049" hidden="yes" ttype="B" pid="000">
+  <name>ウイングマスター</name>
+  <detail>ペイルウイングの体力が２０００</detail>
+ </trophy>
+ <trophy id="050" hidden="yes" ttype="B" pid="000">
+  <name>リーダー</name>
+  <detail>累計１０名の仲間を指揮下に置く</detail>
+ </trophy>
+ <trophy id="051" hidden="yes" ttype="B" pid="000">
+  <name>スーパーリーダー</name>
+  <detail>累計６０名の仲間を指揮下に置く</detail>
+ </trophy>
+ <trophy id="052" hidden="yes" ttype="B" pid="000">
+  <name>タンク乗り</name>
+  <detail>戦車で敵を２００体倒す</detail>
+ </trophy>
+ <trophy id="053" hidden="yes" ttype="B" pid="000">
+  <name>タンクマスター</name>
+  <detail>戦車で敵を２０００体倒す</detail>
+ </trophy>
+ <trophy id="054" hidden="yes" ttype="B" pid="000">
+  <name>パイロット</name>
+  <detail>ヘリで敵を１００体倒す</detail>
+ </trophy>
+ <trophy id="055" hidden="yes" ttype="B" pid="000">
+  <name>ヘリマスター</name>
+  <detail>ヘリで敵を１０００体倒す</detail>
+ </trophy>
+ <trophy id="056" hidden="yes" ttype="B" pid="000">
+  <name>バイク乗り</name>
+  <detail>バイクで敵を５０体倒す</detail>
+ </trophy>
+ <trophy id="057" hidden="yes" ttype="B" pid="000">
+  <name>バイクマスター</name>
+  <detail>バイクで敵を５００体倒す</detail>
+ </trophy>
+ <trophy id="058" hidden="yes" ttype="B" pid="000">
+  <name>ベガルタ乗り</name>
+  <detail>ベガルタで敵を２００体倒す</detail>
+ </trophy>
+ <trophy id="059" hidden="yes" ttype="B" pid="000">
+  <name>ベガルタマスター</name>
+  <detail>ベガルタで敵を２０００体倒す</detail>
+ </trophy>
+ <trophy id="060" hidden="yes" ttype="B" pid="000">
+  <name>衛生兵</name>
+  <detail>協力プレイ時に、他プレイヤーをリバーサー系武器で回復する</detail>
+ </trophy>
+ <trophy id="061" hidden="yes" ttype="B" pid="000">
+  <name>通信兵</name>
+  <detail>協力プレイ時、ミッション中、他プレイヤーに１０回チャットを送る</detail>
+ </trophy>
+ <trophy id="062" hidden="yes" ttype="B" pid="000">
+  <name>情報分析兵</name>
+  <detail>協力プレイ時、ルーム画面で他プレイヤーに１０回チャットを送る</detail>
+ </trophy>
+ <trophy id="063" hidden="yes" ttype="B" pid="000">
+  <name>トレジャーハンター</name>
+  <detail>１ミッション中に、武器アイテムを１５個獲得</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,192 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000051be0e541db9147904fe56c23b2bc01cb20ba65da86eb21364c283184dfeba1785ad9ab903d87be33206b83d2a629466550160ce32fbc60d5a8017927a6c24596e5e894947086b50140d45eb754a14ba1b157016e89b0dac3d8c7a7714b3eb94548ea55d5397ce76675990b680b29639e6dcfd66f34b5488ec83376e4ef0a850bacf5cee77bd8de1f2e921dd59853067912613ac-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR07138_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Final Horizon</title-name>
+ <title-detail>Final Horizon Trophies</title-detail>
+ <group id="001">
+  <name>Dark Galaxy</name>
+  <detail>Dark Galaxy Trophies</detail>
+ </group>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>The Destroyer of Worlds</name>
+  <detail>Unlock all the other trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>The Final Horizon</name>
+  <detail>Complete the story 100%</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>Shipwrecked and Comatose</name>
+  <detail>Complete any Act 100%</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Mostly Harmless</name>
+  <detail>Complete any Planet 100%</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>Make like a shepherd</name>
+  <detail>Evacuate the Vega System</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>Set course for Alderaan</name>
+  <detail>Locate the Swarm home system</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="000">
+  <name>The only way to be sure</name>
+  <detail>Destroy the Swarm home planet</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>Sting in the tail</name>
+  <detail>Kill 120 Skorpions</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>Fly swatter</name>
+  <detail>Kill 250 Hornets</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>Pest control</name>
+  <detail>Kill 2500 Hornets</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>Full of Venom</name>
+  <detail>Kill 100 Wasps</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>Arachnophobia</name>
+  <detail>Kill 250 Level 1 Spider Tanks</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>Crushed like a bug in the ground</name>
+  <detail>Kill 2500 Level 1 Spider Tanks</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="000">
+  <name>Beetlebug</name>
+  <detail>Kill 100 Scarabs</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>Philip J Fried</name>
+  <detail>Kill 20 Swarm with a single Killstreak</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>The fog is lifted</name>
+  <detail>Reveal every item from the main game in the Object Intel viewer</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Know your enemy</name>
+  <detail>Unlock all the Swarm units from the main game in the Object Intel viewer</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>Weird science</name>
+  <detail>Make a kill with the third arc from a Thunderbolt L2</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>Pan-galactic gargle blaster</name>
+  <detail>Get 250 Boost kills</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Kill it with fire!</name>
+  <detail>Get 10 kills with a missile killstreak</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>Nuke them from orbit</name>
+  <detail>Get 5 kills with one Firestrike blast</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>Use of Weapons</name>
+  <detail>Kill 10 L1 SpiderTanks with GroundQuake shells</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>Danger! High Voltage</name>
+  <detail>Get 300 kills with the Thunderbolt</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>Get to the chopper!</name>
+  <detail>Complete both secondary objectives in Vega Delta 8 at the same time</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>Everybody's dead, Dave</name>
+  <detail>Kill just one enemy with the Orbital Bombardment Killstreak</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>Training Day</name>
+  <detail>Complete Vega Delta VR modes</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="S" pid="000">
+  <name>Virtual Insanity</name>
+  <detail>Complete all weapons training</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>Icarus unleashed</name>
+  <detail>Complete Icarus launcher training</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>Bring the heat</name>
+  <detail>Complete Afterburner training</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>Boom shake the room</name>
+  <detail>Complete GroundQuake training</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>Challenge yourself</name>
+  <detail>Complete a Score Challenge level</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="S" pid="000">
+  <name>Player of Games</name>
+  <detail>Get a 15X bonus multiplier in a Score Challenge game</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="S" pid="000">
+  <name>Take it to the next level</name>
+  <detail>Complete a Score challenge with a 2X score modifier</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="G" pid="000">
+  <name>Push through the pain barrier</name>
+  <detail>Complete a Score challenge with a 4X score modifier</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="S" pid="000">
+  <name>Per Ardua ad Astra</name>
+  <detail>Complete both secondary objectives on Kondoi 4 at the same time</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="S" pid="000">
+  <name>Frostbite</name>
+  <detail>Complete both secondary objectives on Ushtuk 3 at the same time</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="S" pid="000">
+  <name>Alien Homeworld</name>
+  <detail>Complete both secondary objectives on Acari 2 at the same time</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="S" pid="000">
+  <name>Flawless Victory!</name>
+  <detail>Complete Acari 3 with no damage to the planetary drill</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>Electro-Shock Blues</name>
+  <detail>Get 75 EMP kills</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>Caught in a web</name>
+  <detail>Kill 250 Spider Bombs</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>Dark Swarm</name>
+  <detail>Kill 250 Dark Hornets</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>Laser Guided</name>
+  <detail>Get 50 Plasma Cannon kills</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>Mists of Agrion</name>
+  <detail>Complete all secondary objectives on Agrion 3 at the same time</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="S" pid="-1" gid="001">
+  <name>Start the fireworks</name>
+  <detail>Complete all secondary objectives on Carabus 2 at the same time</detail>
+ </trophy>
+ <trophy id="044" hidden="no" ttype="G" pid="-1" gid="001">
+  <name>A Light in the Darkness</name>
+  <detail>Complete The Dark Galaxy 100%</detail>
+ </trophy>
+</trophyconf>

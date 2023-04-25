@@ -1,0 +1,112 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000016e0e9df1b39e0f9697cce1468bf0f8711e366d11909803e91b87d81e62df7f9e1c92aad297aca85059979f73aff8c7c7ac63925649e6c378249f81c52eb9f729fbb010bd7576367add333e057a18473d374b05c24d04505c5ae00fa5840db77999567bd51872d4f7f085887e48be53e672ee864faa8220eb6c41abc3faeb28450fed2e8fae486e2f772bee68a84e0633879db39-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR10490_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Last Wings</title-name>
+ <title-detail>Last Wings</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Collect all trophies</name>
+  <detail>Collect all trophies of the game</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>General</name>
+  <detail>Achieve level 25&#x0a;</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>Colonel</name>
+  <detail>Reach level 20</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>Victorious</name>
+  <detail>Win 100 matches</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>Extinction II</name>
+  <detail>Shoot down 1500 enemies</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>Immortal</name>
+  <detail>Win 20 matches without dying, in any game mode</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>Legendary</name>
+  <detail>Achieve Hexa Kill 10 times</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>Major</name>
+  <detail>Achieve level 15</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>Extinction I</name>
+  <detail>Shoot down 500 enemies</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>Machine gun II</name>
+  <detail>Shoot down 100 enemies with the Machine gun</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>Invincible</name>
+  <detail>Win 10 matches in a row, in any game mode, on Hard or Insane levels</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>Perfect sequence</name>
+  <detail>Win 10 matches without dying, in any game mode</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>Fifty Victory</name>
+  <detail>Win 50 matches</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>I'm the best</name>
+  <detail>Being MVP 30 times in Team Attack</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>Amazing</name>
+  <detail>Destroy 10 enemy bases</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>Towards the Top II</name>
+  <detail>Win in all game modes (online or offline)</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Towards the top I</name>
+  <detail>Win first match, in any mode</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Sergeant</name>
+  <detail>Achieve level 5</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>Pure lucky</name>
+  <detail>Eliminate your first opponent</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>A new journey Begun</name>
+  <detail>Win 10 matches</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>Close one</name>
+  <detail>Win a match without dying, in any game mode</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>The Destroyer</name>
+  <detail>Shoot down 100 enemies</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>Lieutenant</name>
+  <detail>Achieve level 10</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>Demonstration of power</name>
+  <detail>Being MVP for the first time in Team Attack</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>Machine gun I</name>
+  <detail>Shoot down 30 enemies with the Machine gun</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>Knowing the Game</name>
+  <detail>Play all maps of Last Wings</detail>
+ </trophy>
+</trophyconf>

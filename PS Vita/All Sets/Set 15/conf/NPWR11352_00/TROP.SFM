@@ -1,0 +1,164 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000005f5597d986bea799b5d7e14ee853c7f2d0d6af2d02a1ad8393dab720945cf4803a1546987be545d9e0eca8949cf5de3bb8299a8987d90ef4adab6a51d334267204bbd55f33d94faff9ebdefeff6bbe7516e7395c832a34dde9276db61fb64b51ec6ae703abf34edb1f71aa768557dd11454d9a02ee61c21c37689fd3d13727aaf84958e37fa51e1b957ad23bb543cfedd4405123-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR11352_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>アイドルデスゲームTV</title-name>
+ <title-detail>アイドルデスゲームTVのトロフィーセットです</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>トップアイドル！</name>
+  <detail>全てのトロフィーを獲得した</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>ようこそDoDへ</name>
+  <detail>千春篇を開始した</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>ようこそDream or Deathへ</name>
+  <detail>フロア１をクリア</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>夢にまで見たセンター</name>
+  <detail>千春篇をクリアした</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>夢落ちアイドル</name>
+  <detail>真理子篇をクリアした</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>復讐アイドル</name>
+  <detail>しらせ篇をクリアした</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>偽笑アイドル</name>
+  <detail>彩夏篇をクリアした</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>失意アイドル</name>
+  <detail>理都篇をクリアした</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>血闘アイドル</name>
+  <detail>れん篇をクリアした</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>吸血アイドル</name>
+  <detail>姫篇をクリアした</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>ドリーム オブ ドリーム</name>
+  <detail>ＤｏＤ篇をクリアした</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>あやちゃん大好き……</name>
+  <detail>理都篇（裏）をクリアした</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>かくれんぼ勝利</name>
+  <detail>れん篇でドリパクを4回見つけた</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>舞台裏</name>
+  <detail>隠し部屋をすべて見つけた</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>物知り</name>
+  <detail>ヒントメモを10個以上手に入れた</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>メモ魔</name>
+  <detail>ヒントメモを25個以上手に入れた</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>情報通</name>
+  <detail>ヒントメモを50個以上手に入れた</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>生き字引</name>
+  <detail>ヒントメモを100個以上手に入れた</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="G" pid="000">
+  <name>メモマスター</name>
+  <detail>すべてのヒントメモを手に入れた</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>のぞき魔</name>
+  <detail>スキャンダルを10個以上暴露した</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>パパラッチ</name>
+  <detail>スキャンダルを25個以上暴露した</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>炎上仕掛け人</name>
+  <detail>スキャンダルを50個以上暴露した</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>ヒトデナシ</name>
+  <detail>スキャンダルを100個以上暴露した</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="G" pid="000">
+  <name>スキャンダルマスター</name>
+  <detail>すべてのスキャンダルを暴露した</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="000">
+  <name>千春の理解者</name>
+  <detail>千春のスキャンダルを暴露した</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="B" pid="000">
+  <name>真理子の理解者</name>
+  <detail>真理子のスキャンダルを暴露した</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>しらせの理解者</name>
+  <detail>しらせのスキャンダルを暴露した</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="B" pid="000">
+  <name>彩夏の理解者</name>
+  <detail>彩夏のスキャンダルを暴露した</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="B" pid="000">
+  <name>理都の理解者</name>
+  <detail>理都のスキャンダルを暴露した</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="B" pid="000">
+  <name>れんの理解者</name>
+  <detail>れんのスキャンダルを暴露した</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="B" pid="000">
+  <name>姫の理解者</name>
+  <detail>姫のスキャンダルを暴露した</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>自己嫌悪</name>
+  <detail>バクロワイヤルで勝利した</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>いじめっこ</name>
+  <detail>1度のプレイ中でバクロワイヤルを3回挑む</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>バクロ魔</name>
+  <detail>1度のプレイ中でバクロワイヤルを5回挑む</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="S" pid="000">
+  <name>ココロブレイカー</name>
+  <detail>1度のプレイ中でバクロワイヤルを10回挑む</detail>
+ </trophy>
+ <trophy id="035" hidden="yes" ttype="G" pid="000">
+  <name>バクロマスター</name>
+  <detail>1度のプレイ中でバクロワイヤルを15回挑む</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="S" pid="000">
+  <name>ダンサーアイドル</name>
+  <detail>フロア2を1位で通過</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="S" pid="000">
+  <name>アクトレスアイドル</name>
+  <detail>フロア3を1位で通過</detail>
+ </trophy>
+ <trophy id="038" hidden="yes" ttype="G" pid="000">
+  <name>ダントツアイドル</name>
+  <detail>最終的にファン10万人以上でクリア</detail>
+ </trophy>
+</trophyconf>

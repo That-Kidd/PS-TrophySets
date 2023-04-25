@@ -1,0 +1,144 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000021066a59bec66a1519f062749ee43253896d5a2d4c420b8c25fa0646c3733cf991484441306eed68f598107fd38feab28d2d03ab274116374caacae385b912ff180ef9fdf02e206d551463919e911d318b0621535a62dfaf7998a3a1c5546ae80b1d6e626f2b8fb4899def9b2d3a26a4b5831ac72ddeeb8b055c5f20374f47e4d6c172bfc8fd1eb3c7a0205da6f9c9fc3ebe25c8-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR12305_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Rogue Aces</title-name>
+ <title-detail>Trophies</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Platinum</name>
+  <detail>Earn all other trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>On The Head Son</name>
+  <detail>Drop a bomb on an enemy plane</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Deck Grind</name>
+  <detail>Skid the plane along 80% of the carrier without landing</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>War Rations</name>
+  <detail>Destroy 2 enemy aircraft with one rocket</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>The Whole Package</name>
+  <detail>Unlocked all game modes</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>The Long Drop</name>
+  <detail>Freefall in a plane for 5 seconds with no throttle without hitting the ground</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>Mow Down</name>
+  <detail>Kill 20 parachutists in 20 seconds</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>Touch Down</name>
+  <detail>Land the plane 10 times without crashing (no auto land)</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>Baron Schmaron</name>
+  <detail>Defeat Mecha Baron X</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>Timed To Perfection</name>
+  <detail>Land with 5% fuel or less</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>Grand Theft Aircraft</name>
+  <detail>Hijack an enemy aircraft during flight</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>Hop, Skip And A Jump</name>
+  <detail>Bounce 3 times on landing</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>Domination</name>
+  <detail>Capture all bases</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>Call The Ball</name>
+  <detail>Perform a carrier landing (no auto land)</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>Like A Pro</name>
+  <detail>Perform a carrier landing using less than a quarter of the deck (no auto land)</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>Strafe Magnate</name>
+  <detail>Kill 500 infantry with cannons in a single game</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Parallels</name>
+  <detail>Have a score of exactly 1,940 points</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Dedicated</name>
+  <detail>Max out one stat (campaign mode)</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="G" pid="000">
+  <name>Really Dedicated</name>
+  <detail>Max out all stats (campaign mode)</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Lucky Son Of A...</name>
+  <detail>Survive a landing without a plane or a parachute</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>Wait... Wha...?!</name>
+  <detail>Kill a plane with an enemy plane</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>All Hat, No Horse</name>
+  <detail>Lose all your planes but don't die</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>Maverick</name>
+  <detail>Score 10 points in Survival without firing a single bullet</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>Unconventional Warfare</name>
+  <detail>Use your own empty plane to neutralise an airfield</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>Scuttle Bonus</name>
+  <detail>Destroy your own plane before it hits the ground after ejecting from it</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="G" pid="000">
+  <name>Chain Smoking</name>
+  <detail>Reached a multiplier of x25 in Survival</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="S" pid="000">
+  <name>Unstoppable</name>
+  <detail>Reached a multiplier of x5 in Frontline</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="S" pid="000">
+  <name>Defender Extraordinaire</name>
+  <detail>Reached a multiplier of x65 in Bomber Defence</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>Unconventional Potato</name>
+  <detail>Score an infantry kill in Hot Potato mode</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>Pure Rogue</name>
+  <detail>Score 50k or more in Rogue Ace mode</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="S" pid="000">
+  <name>Half Way There</name>
+  <detail>Completed 50 missions in a single game</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="G" pid="000">
+  <name>All The Way</name>
+  <detail>Completed 100 missions in a single game</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>As It's Meant To Be Played (Vega's Homage)</name>
+  <detail>Started a veteran campaign</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="G" pid="000">
+  <name>The Head Of The Snake</name>
+  <detail>Destroy the enemy's HQ</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,56 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000099071a7cff5ac77741fa1a4e2fdef5164bf2ec60b8f01f2eeb7eefba63c41f2334197e96717de237e4523d220505e211adf87fe830e18b4ed7fa508259e3ccfe4d47c7d5420056273be42b622f69cb82ad45f475f01db42529e2f4848f0a13e8e86babd81938304945d6166765ce11d0d6d1ad12c77cccc3ba0bb03d324f3d1ef38193febc799001f06d26238c0e6230e8ea9ea0-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR09508_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Super Blackout</title-name>
+ <title-detail>Trophies for Super Blackout</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Novice</name>
+  <detail>Complete all Easy levels in Play Now mode</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="-1">
+  <name>Competitor</name>
+  <detail>Complete all Medium levels in Play Now mode</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="-1">
+  <name>Expert</name>
+  <detail>Complete all Hard levels in Play Now mode</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="-1">
+  <name>Power outage</name>
+  <detail>Complete all levels in Play Now mode</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Random novice</name>
+  <detail>Complete 30 consecutive levels in Random mode on Easy difficulty</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Random competitor</name>
+  <detail>Complete 20 consecutive levels in Random mode on Medium difficulty</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="-1">
+  <name>Random expert</name>
+  <detail>Complete 10 consecutive levels in Random mode on Hard difficulty</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Designer</name>
+  <detail>Create a custom level with the Level Editor</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Hey Billy, try my level!</name>
+  <detail>Play (and finish) a custom level made with the Level Editor</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>Line</name>
+  <detail>Complete level 5 on Easy difficulty in Play Now mode</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>The letter A</name>
+  <detail>Complete level 28 on Easy difficulty in Play Now mode</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="-1">
+  <name>Smily face</name>
+  <detail>Complete level 17 on Medium difficulty in Play Now mode</detail>
+ </trophy>
+</trophyconf>

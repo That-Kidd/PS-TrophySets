@@ -1,0 +1,128 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000004b277daf2e191fde43ab8fe3e10b755bfa87ec602ea1a28d629392b6936cc68b7adb10e9aae174745c2ee5a372f0bda2bc24dc8d45a0ff49a3e7ef372c45fa3d227ac036dcb1eaad512d73a1b374b7ac82366adb9e26332cce371dbc56eaaf9ebc1a72bd28101bdedc0d6c1812ea1c105140e8de61133094651084308672f98ef335f7e7709ff20dc75b634d8688047883a01da4-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR10529_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Emerald Shores</title-name>
+ <title-detail>Trophy set for Emerald Shores.</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Platinum</name>
+  <detail>Get all other trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Level up!</name>
+  <detail>Level your character up for the first time</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>To the castle!</name>
+  <detail>Finish level 1-1: Royal Road</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Unraveling the forest's mysteries</name>
+  <detail>Find the secret exit in level 1-2: Forest of Secrets.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>The floor is lava!</name>
+  <detail>Finish level 1-3: Cavernous Depths without touching any lava</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>World 1 complete!</name>
+  <detail>Beat the World 1 boss</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>At least it wasn't yellow</name>
+  <detail>Get hit by a snowball</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>World 2 complete!</name>
+  <detail>Beat the World 2 boss</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>The things we do for riches</name>
+  <detail>Collect all of the coins in 3-4: Cactus Valley</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>World 3 complete!</name>
+  <detail>Beat the World 3 boss</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>Pick on someone your own size</name>
+  <detail>Defeat a giant Bootworm</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>World 4 complete!</name>
+  <detail>Beat the World 4 boss</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>Normal mode complete</name>
+  <detail>Finish the game on Normal mode</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="000">
+  <name>Remix mode complete</name>
+  <detail>Finish the game on Remix mode</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="000">
+  <name>Low-level run</name>
+  <detail>Finish the game without leveling up past character level 8</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>High-level run</name>
+  <detail>Level up to character level 12</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="G" pid="000">
+  <name>Crisis averted</name>
+  <detail>Find and destroy the optional level 70 boss</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>Bootworm tamer</name>
+  <detail>Acquire a pet Bootworm</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>Bootworm racer</name>
+  <detail>Win a Bootworm race</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="G" pid="000">
+  <name>Bootworm champion</name>
+  <detail>Win all of the Bootworm races and collect your trophy at the Winner's Circle</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>Treasure seeker</name>
+  <detail>Collect 500 coins</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>Just like the old days</name>
+  <detail>Find a fireball power-up</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>To the sky!</name>
+  <detail>Pick up a double-jump power-up</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="G" pid="000">
+  <name>Historian</name>
+  <detail>Acquire the winged boots at the end of the Ancient Castle sidequest</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>To the heavens!</name>
+  <detail>Perform a triple-jump for the first time</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="S" pid="000">
+  <name>Hungry, hungry Bootworms</name>
+  <detail>Feed your pet Bootworm an apple, a banana, and sushi</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="S" pid="000">
+  <name>Scholar</name>
+  <detail>Teach your pet Bootworm all three spells</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="G" pid="000">
+  <name>Decked out</name>
+  <detail>Equip your pet Bootworm with a sword, a helmet, and a plate of armor.  And paint him red.</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="S" pid="000">
+  <name>Moo</name>
+  <detail>Buy 5 cows in one game of Farmtrepreneur</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="S" pid="000">
+  <name>Skilled Farmer</name>
+  <detail>Finish a game of Farmtrepreneuer with a score of $4,000 or higher</detail>
+ </trophy>
+</trophyconf>

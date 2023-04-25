@@ -1,0 +1,72 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000004e778a07e3049737fa781e15aafe6ab79b898bd629fe77e66cc8c8ff9ebc4d3ac9ce09537e5f4b2c8d4e3d12af9351f670b6b77f0b1ab30261c3551ac8a36077db67211709675eedca091cf132641a1b8d733a8e390018fbd33001954a08bca72c80aa81add72e64ea0010e1be09533799b4230ce8ff98711244f56e364bf9ecee32600582037c6f562e98da156c7489ad97c877-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR17715_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Iron Snout</title-name>
+ <title-detail>Iron Snout</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Platinum Pig</name>
+  <detail>Get all other trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>Forbidden Love</name>
+  <detail>Get humped by a mini-wolf</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>Fashion Police</name>
+  <detail>Put a basket hat on a wolf</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>Wolf Skewer</name>
+  <detail>Impale an enemy with tree branch</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>BeckHAM</name>
+  <detail>Kick the same head twice</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>Rocket Bender</name>
+  <detail>Kill an enemy with stray rocket</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>Balloon Popper</name>
+  <detail>Pop tutorial balloons in less than 10 seconds</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>250 Total Kills</name>
+  <detail>Kill 250 wolves</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>500 Total Kills</name>
+  <detail>Kill 500 wolves</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>750 Total Kills</name>
+  <detail>Kill 750 wolves</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>1000 Total Kills</name>
+  <detail>Kill 1000 wolves</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>Beat 50</name>
+  <detail>Beat 50 wolves in a single fight</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>Hard Bacon to Chew</name>
+  <detail>Kill 10 enemies in 1HP mode</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="000">
+  <name>Fast Hooves</name>
+  <detail>Catch 100 items</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="000">
+  <name>Sticky Hooves</name>
+  <detail>Catch 250 items</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="G" pid="000">
+  <name>Rain of Hooves</name>
+  <detail>Get an epic 25 hit combo</detail>
+ </trophy>
+</trophyconf>

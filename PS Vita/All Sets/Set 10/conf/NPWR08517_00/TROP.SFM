@@ -1,0 +1,60 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000be7a19fde10ef998afc68da465254662074123a88e36ff0a594a4a378f4e3009c8540815668d58e8603155af0b1916650a80bda4f30a911123b75603474062170ab7839ba919b1ca5fa204e5e22c1bb027f4114a973afa696f1366e28ba53edcaee47c255a8b1c8a9a7ec8b375f69dee615cc48a7445bd3e4c6bbf343534d0894bff0a751f9cf9bb1ff2a5cf1e25899da5672b7c-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="small">
+ <npcommid>NPWR08517_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Bombing Buster&#x0a;</title-name>
+ <title-detail>Bombing Buster Trophies.</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Good Start</name>
+  <detail>Complete the first level</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Ready for the Boss</name>
+  <detail>Complete all Fairy levels before the Fairy Boss</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Lucky Buster</name>
+  <detail>Complete a level with 3 stars</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Promising Buster</name>
+  <detail>Complete 5 levels with 3 stars</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Skilled Buster</name>
+  <detail>Complete 10 levels with 3 stars</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Hardcore Buster</name>
+  <detail>Complete 20 levels with 3 stars</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="-1">
+  <name>Total Buster</name>
+  <detail>Complete all 30 levels with 3 stars</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Fairy King</name>
+  <detail>Defeat the Fairy Boss</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Ice King</name>
+  <detail>Defeat the Ice Boss</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>Wind King</name>
+  <detail>Defeat the Wind Boss</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>Fire King</name>
+  <detail>Defeat the Fire Boss</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="-1">
+  <name>Spark King</name>
+  <detail>Defeat the Spark Boss</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="-1">
+  <name>Boss Slayer</name>
+  <detail>Defeat all Bosses with 3 stars</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,48 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000b8f9f94c3384b5a59a439e3025fc14c35f3a6253970fd83739002c23bd4515b22bbf9fa2391d03843385885b524e6e8fea7110cfbff6cf1244f50038e8ea04a3d77f6109773679405cee0dab7c6fe09eac29bbaab9c506f65e680a8c33a3741de5e5c90bb83bb175a4ec468bfc5d9c3fde894a7ba9a912274db02e6dcc4bc10ad10aa1e706adb5ad0e0c369305e6424c5f7e1fdd-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR12057_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>#KILLALLZOMBIES</title-name>
+ <title-detail>Trophies for #KILLALLZOMBIES</title-detail>
+ <trophy id="000" hidden="no" ttype="G" pid="-1">
+  <name>Stay Alive</name>
+  <detail>Stay alive at least 60 minutes.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="-1">
+  <name>Crasher</name>
+  <detail>Explode at least 100 containers in one session.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="-1">
+  <name>XP+</name>
+  <detail>Get 10.000.000 experience points in the single session.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="-1">
+  <name>Pacifist</name>
+  <detail>Don't shoot for whole six minutes and survive.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="-1">
+  <name>Dongerino</name>
+  <detail>Kill first Undead Boss.</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="S" pid="-1">
+  <name>Level Up</name>
+  <detail>Rack up to 30 level.</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="-1">
+  <name>Exterminator</name>
+  <detail>Kill 500.000 zombies.</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="-1">
+  <name>Lock'n'Load</name>
+  <detail>Kill at least 1.000 zombies with each weapon type.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>RAMPAGE!</name>
+  <detail>Perform a rampage attack.</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="-1">
+  <name>Melee Master</name>
+  <detail>Use melee attack 100 times in one session.</detail>
+ </trophy>
+</trophyconf>

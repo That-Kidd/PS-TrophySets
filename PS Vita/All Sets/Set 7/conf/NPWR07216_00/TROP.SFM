@@ -1,0 +1,200 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000d9a2c7d9129bf621f3235291ef8bb52a66a31c906b3ecac79d187db4ffe90595c51246455cdc6e87ffd7a338f2e3ff90fc6acd020ca5af419a7cc4fecdd64dbc382c69d495a84a4e1e10157fa9da20cd28ef8539bec912e1603921ce2c25ef6c8326ccb0afb772f3ce66ed42b77de092bc3c2e29ca2d2eb3fee78ea3eaa53209d199e878f8a28dfe43aac452bfdb763c1af48aa7-->
+<trophyconf version="1.1" platform="ps3,psp2,ps4" policy="large">
+ <npcommid>NPWR07216_00</npcommid>
+ <trophyset-version>01.02</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>真・三國無双７ Empires</title-name>
+ <title-detail>真・三國無双７ Empiresのトロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Empires</name>
+  <detail>すべてのトロフィーを獲得した</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>修羅制覇</name>
+  <detail>難易度「修羅」でいずれかのシナリオをクリアした</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>数多の人生を経て</name>
+  <detail>すべての生き様を達成した</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>人生の大先輩</name>
+  <detail>すべての称号を獲得した</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>武器宝庫</name>
+  <detail>武器を100種以上購入した</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>準備万端</name>
+  <detail>装備アイテムを30種以上所有した</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>無双の先へ</name>
+  <detail>エディット武将を操作して、すべての無双武将を撃破した</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>知謀万滅</name>
+  <detail>秘計のみでの累計撃破数が10000以上になった</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>軍略網羅</name>
+  <detail>すべての軍略コマンドを1回以上実行した</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>子だくさん</name>
+  <detail>子供の累計人数が5人以上になった</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>無双大国家</name>
+  <detail>プレイヤーの地位が君主、または放浪軍頭領のときに、すべての無双武将を配下にした</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>多岐にわたる人生</name>
+  <detail>ギャラリーで鑑賞できるすべてのイベントを見た</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="B" pid="000">
+  <name>嫡子誕生</name>
+  <detail>初めて子供が生まれた</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>新たなる英雄</name>
+  <detail>エディット武将でいずれかのエンディングを見た</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>色恋沙汰</name>
+  <detail>初めて告白された、または告白した</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>桃園の誓い</name>
+  <detail>初めて義兄弟ができた</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>比翼連理</name>
+  <detail>初めて結婚した</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>継承者</name>
+  <detail>初めて君主の地位を継承した</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>幹国之器</name>
+  <detail>初めて君主になった</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>大抜擢</name>
+  <detail>在野から大将軍/軍師として登用された</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>謀反人</name>
+  <detail>謀反を起こして君主の座に就いた</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>野望の始まり</name>
+  <detail>初めて勢力を旗揚げした</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>身内国家</name>
+  <detail>義兄弟、配偶者、子供だけから成る勢力を形成した</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>反骨の相</name>
+  <detail>軍略コマンド「裏切り」を実行した</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>建築家</name>
+  <detail>初めて施設を建築した</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>大秘計阻止</name>
+  <detail>敵の準備中の大規模秘計を阻止した</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>四季堪能</name>
+  <detail>春、夏、秋、冬それぞれのステージで戦い、勝利した</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>面従腹背</name>
+  <detail>初めて配下武将に転籍された</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>目標達成者</name>
+  <detail>一度の戦闘で4つの戦功目標を達成した</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>鎧袖一触</name>
+  <detail>総兵力の9割以上を残して戦闘に勝利した</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>初めての依頼</name>
+  <detail>初めて依頼をクリアした</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>大胆不敵</name>
+  <detail>単身で敵地に乗り込んで武将を撃破した</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="B" pid="000">
+  <name>天候変化</name>
+  <detail>秘計を使って、天候を変化させた</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="B" pid="000">
+  <name>自作集結</name>
+  <detail>エディットモードで、武将、軍旗、軍馬、兵士をそれぞれ1つ以上作成した</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>策略家</name>
+  <detail>秘計を100回以上使用した</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>軍師就任</name>
+  <detail>初めて軍師に就任した</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>大将軍就任</name>
+  <detail>初めて大将軍に就任した</detail>
+ </trophy>
+ <trophy id="037" hidden="yes" ttype="B" pid="000">
+  <name>勝利の風が吹く</name>
+  <detail>イベント戦闘「赤壁の戦い・連合軍」に参加し、諸葛亮の「東南の風」を成功させた</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>駆け出し政略家</name>
+  <detail>初めて政略目標を達成した</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="000">
+  <name>大国家</name>
+  <detail>自勢力の武将数が20人に達した</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="B" pid="000">
+  <name>拠点制圧</name>
+  <detail>一度の戦闘で拠点を10回以上制圧した</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="B" pid="000">
+  <name>温厚篤実</name>
+  <detail>人徳が「至善」になった</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="B" pid="000">
+  <name>眼中無人</name>
+  <detail>人徳が「極悪」になった</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="B" pid="000">
+  <name>信頼を築く</name>
+  <detail>依頼戦を達成して、君主との友好を深めた</detail>
+ </trophy>
+ <trophy id="044" hidden="no" ttype="B" pid="000">
+  <name>絶世の美貌</name>
+  <detail>一度の人生で3人以上の武将から告白された</detail>
+ </trophy>
+ <trophy id="045" hidden="no" ttype="B" pid="000">
+  <name>建築熟練者</name>
+  <detail>同じ施設を6つ建設した</detail>
+ </trophy>
+ <trophy id="046" hidden="no" ttype="B" pid="000">
+  <name>大切な贈り物</name>
+  <detail>初めて武器や装備アイテムを贈呈された</detail>
+ </trophy>
+ <trophy id="047" hidden="no" ttype="B" pid="000">
+  <name>少数精鋭</name>
+  <detail>味方兵力が敵兵力よりも一定以上少ない状態で戦闘に勝利した</detail>
+ </trophy>
+</trophyconf>

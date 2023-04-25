@@ -1,0 +1,136 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000002a57c08cef8edbeec067f66e0431af11abf6faad86b00b9e4cce7d33e0788b1067c14ef06f285a864160d62dd91ce876205bcf43d4b4ee7886bc0f32175071c54a57b71e571eef60980a19aaf79696d4032b1b7c746fd38d3e1a129cfa97eb8a40c655c3d2c459e3910ceffa720a5200c0dd424d484aee0a2052684f160b55a969c2af47f36b559e9b7ac746bf6e91e51ef65e0f-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR12358_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>GOD WARS</title-name>
+ <title-detail>GOD WARS獎盃組</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>神話傳頌者</name>
+  <detail>獲得所有獎盃</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>眾神的調停者</name>
+  <detail>通過第四卷</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>守護瑞穗者</name>
+  <detail>通過所有委託</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>平和的第一步</name>
+  <detail>首次通過委託</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>自黃泉返回者</name>
+  <detail>通過第三卷</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>神儀承擔者</name>
+  <detail>首次發動神儀</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>技術造極者</name>
+  <detail>提高所有的技能的Lv至最高</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>深諳技術者</name>
+  <detail>解鎖所有的技能</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>初探知識</name>
+  <detail>首次提高技能的Lv</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="000">
+  <name>八尺瓊勾玉</name>
+  <detail>通過第二卷</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>祕儀的傳道者</name>
+  <detail>初次發動祕儀</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>造訪黃泉者</name>
+  <detail>通過第一卷</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>職業造極者</name>
+  <detail>提高所有職業的Lv至最高</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>奧儀開竅</name>
+  <detail>首次發動奧儀</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="000">
+  <name>造極探索者</name>
+  <detail>取得所有埋藏寶物</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>熟練探索者</name>
+  <detail>取得３０個埋藏寶物</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>發現者</name>
+  <detail>初次取得埋藏寶物</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="G" pid="000">
+  <name>戰力造極者</name>
+  <detail>提高所有夥伴的Lv至最高</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>好奇者</name>
+  <detail>取得所有藤箱中的物品</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>目明者</name>
+  <detail>首次取得藤箱中的物品</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>蒐齊裝備者</name>
+  <detail>收集所有的裝備</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>尋求裝備者</name>
+  <detail>收集１００種裝備</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>歡迎來到雜貨店</name>
+  <detail>首次購買物品</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>瞭解職業者</name>
+  <detail>解鎖所有的職業</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>串帶百萬葉者</name>
+  <detail>存到１００００００葉</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>串帶十萬葉者</name>
+  <detail>存到１０００００葉</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="S" pid="000">
+  <name>虔誠者</name>
+  <detail>提高神社的Lv至最高</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>敬神者</name>
+  <detail>提高神社的Lv</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>祭祀者</name>
+  <detail>首次貢奉</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="S" pid="000">
+  <name>尋求平和者</name>
+  <detail>通過３０件委託</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>實現願望者</name>
+  <detail>通過１０件委託</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>百姓的願望</name>
+  <detail>首次承接委託</detail>
+ </trophy>
+</trophyconf>

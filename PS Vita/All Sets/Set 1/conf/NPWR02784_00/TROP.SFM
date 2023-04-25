@@ -1,0 +1,140 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000932aa9a071ca033738b804f35c27e620075822342c6e55a41e5302dbf9d1940e87f52c8695b26d0e0872697ce86c941b903bd50121eb0a0a45bfe659e2046251716513c5ede602580636540a3c915edde191c2b18d0a8b3672c4670afbe6f495eb628689f1eaf9b0a36c63f8b22f74da5b58d03b13a786c399466027b46758f0f71b9216d21eb348b8f45bb90954001475c52439-->
+<trophyconf version="1.1" platform="psp2">
+ <npcommid>NPWR02784_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>極限脱出ＡＤＶ　善人シボウデス</title-name>
+ <title-detail>極限脱出ＡＤＶ　善人シボウデスのトロフィー</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>善人シボウデス</name>
+  <detail>全てのトロフィーを取得</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>脱出初心者</name>
+  <detail>脱出パート「エレベータ」をクリアした</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>脱出中級者</name>
+  <detail>脱出パートを８ステージクリアした</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>脱出上級者</name>
+  <detail>脱出パートを１６ステージクリアした</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>脱出の才能</name>
+  <detail>脱出パートを難易度HARDでクリアした</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="G" pid="000">
+  <name>脱出の天才</name>
+  <detail>全ての脱出パートをHARDでクリアした</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>見つけてしまいましたね？</name>
+  <detail>SECRETを初めて入手した</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="G" pid="000">
+  <name>あなたは知りすぎてしまった</name>
+  <detail>SECRETを全て入手した</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>抜群の記憶力</name>
+  <detail>FILEをひとつ入手した</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>収集癖</name>
+  <detail>FILEを全て入手した</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="000">
+  <name>ファイとＫを救うには！？</name>
+  <detail>ロックNo.01を解除した</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>他殺ではない証拠とは！？</name>
+  <detail>ロックNo.02を解除した</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="B" pid="000">
+  <name>死亡まであと５分！？</name>
+  <detail>ロックNo.03を解除した</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="000">
+  <name>抗ウイルス薬が足りない！？</name>
+  <detail>ロックNo.04を解除した</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="B" pid="000">
+  <name>長い桁数の数字とは！？</name>
+  <detail>ロックNo.05を解除した</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>アリスはどこに！？</name>
+  <detail>ロックNo.06を解除した</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>爆弾を仕掛けたのは誰だ！？(A)</name>
+  <detail>ロックNo.07を解除した</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>ファイを引き止めるには！？</name>
+  <detail>ロックNo.08を解除した</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>爆弾を仕掛けたのは誰だ！？(B)</name>
+  <detail>ロックNo.09を解除した</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>爆弾【00】はどこに！？</name>
+  <detail>ロックNo.10を解除した</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>ひとつ目の結末</name>
+  <detail>いずれかのエンディングを見た</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="S" pid="000">
+  <name>LUNA;END</name>
+  <detail>LUNA;ENDを見た</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="S" pid="000">
+  <name>K;END</name>
+  <detail>K;ENDを見た</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="S" pid="000">
+  <name>DIO;END</name>
+  <detail>DIO;ENDを見た</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="S" pid="000">
+  <name>TENMYOUJI;END</name>
+  <detail>TENMYOUJI;ENDを見た</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="S" pid="000">
+  <name>QUARK;END</name>
+  <detail>QUARK;ENDを見た</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="S" pid="000">
+  <name>YOTSUBA;END</name>
+  <detail>YOTSUBA;ENDを見た</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="S" pid="000">
+  <name>ALICE;END</name>
+  <detail>ALICE;ENDを見た</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="S" pid="000">
+  <name>SIGMA;END</name>
+  <detail>SIGMA;ENDを見た</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="S" pid="000">
+  <name>PHI;END</name>
+  <detail>PHI;ENDを見た</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="G" pid="000">
+  <name>END or BEGINNING</name>
+  <detail>END or BEGINNINGを見た</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="G" pid="000">
+  <name>ALTERNATIVE;END</name>
+  <detail>ALTERNATIVE;ENDを見た</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>不幸な結末</name>
+  <detail>バッドエンドを初めて見た</detail>
+ </trophy>
+</trophyconf>

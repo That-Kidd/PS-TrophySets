@@ -1,0 +1,60 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000000051debad1d52ff3b2072245d7238790ea09f6f3b9f88f3acc3bf68be962f70dde611e60faebf7600292dd983e84a95e6a1f1a0b0aa256f163c20789a10aa1220ed10bcdfd6216155bd889ae0452016e4a71e44f4b645442d55b8131eb70b686b5f6d0fb6c2065a6d6cdd4b5bdf4369d2df5ebca5d88381657f216b866d52d83e6f9902394e6cef711cab4ea5a63f18692dbf7e8-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR16864_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Back in 1995</title-name>
+ <title-detail>Back in 1995</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>You did everything you possibly could.</name>
+  <detail>Get all the trophies.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="000">
+  <name>Are you still here?</name>
+  <detail>Clear the opening sequence.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>If life were only like this.</name>
+  <detail>Clear the first stage.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>Life moves pretty fast.</name>
+  <detail>Clear the second stage.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>Welcome to the middle of the game.</name>
+  <detail>Clear the third stage.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>New word for the day.</name>
+  <detail>Clear the fourth stage.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>It's over. Go home.</name>
+  <detail>Complete game with first ending.</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="G" pid="000">
+  <name>You've came back there.</name>
+  <detail>Complete game with second ending.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>How do we arm first?</name>
+  <detail>Get the pipewrench.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>Looking for really big gun.</name>
+  <detail>Get the shotgun.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>Kids playing with guns.</name>
+  <detail>Get the pistol.</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="G" pid="000">
+  <name>Did I play video games because I was miserable?</name>
+  <detail>Get the flashlight.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>The fourth dimension wall.</name>
+  <detail>Collect Dr. Randell newsclips.</detail>
+ </trophy>
+</trophyconf>

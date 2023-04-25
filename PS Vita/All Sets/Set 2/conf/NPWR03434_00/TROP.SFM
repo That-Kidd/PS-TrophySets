@@ -1,0 +1,36 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000db38b930be605036fb0235818920af7107e124b6b5370815b0a87122e63b7798ef5b9bc243e88cefbcefb915d1d651fc2ba4ba447ff1a83d4d0cace766a52a937b1757b73eb5fffc3a73315fa79537a213b2ef76b07963c1399359ff5009d097978a7306faf75f05911077381afa4c80c650c163e00eab2c480b55a2eeecebd7a0b30d81ef9c5a7ec16eb61691c5734e30a36063-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR03434_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Pinball Heroes™: Complete</title-name>
+ <title-detail>Pinball Heroes™: Complete - Online Trophy Case</title-detail>
+ <trophy id="000" hidden="no" ttype="G" pid="-1">
+  <name>All Tables 100% Complete</name>
+  <detail>Complete all local awards for all 8 tables.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="-1">
+  <name>All Tables 75% Complete</name>
+  <detail>Complete 75% of local awards for all 8 tables.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="-1">
+  <name>All Tables 50% Complete</name>
+  <detail>Complete 50% of local awards for all 8 tables.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="-1">
+  <name>All Tables 25% Complete</name>
+  <detail>Complete 25% of local awards for all 8 tables.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="-1">
+  <name>Public Tournament Winner</name>
+  <detail>Come in first place in a public online tournament with at least 3 players finishing.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>3 Star Challenger</name>
+  <detail>Achieve 3 stars while playing against a posted score in the Leaderboard Challenge mode.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Table Achiever</name>
+  <detail>Make at least one local award on all 8 tables</detail>
+ </trophy>
+</trophyconf>

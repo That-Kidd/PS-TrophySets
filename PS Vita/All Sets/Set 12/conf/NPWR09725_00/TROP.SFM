@@ -1,0 +1,216 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000acbace0c62428469971af99302f0d6a9d41dce0f0aa53bdeada6884e18da36e2cc8d4cc0c2ee9167576800ec3415658328c84a476ab1b4c3a56e6131dacd0329487ddf9b85039d98b0b35350d9e1852d1aa1aa11fbf40b16b8041d7a9bf7b5dbbd1612e73207bfde4c8df32f16d56e5246de72ad314cc1dc0cb09e2c9bfb92441a9ea8bc59b72f4580ce0aed8a793cd2474e90ed-->
+<trophyconf version="1.1" platform="ps3,psp2,ps4" policy="large">
+ <npcommid>NPWR09725_00</npcommid>
+ <trophyset-version>01.02</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>三國志13</title-name>
+ <title-detail>三國志13のトロフィー</title-detail>
+ <group id="001">
+  <name>三國志13 with パワーアップキット</name>
+  <detail>三國志13 with パワーアップキットのトロフィー</detail>
+ </group>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>三国の英雄</name>
+  <detail>『三國志13』のすべての記録を達成した証</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>時代を切り開く者</name>
+  <detail>『三國志13』のすべての通常シナリオをクリアした証</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>歴史の生き証人</name>
+  <detail>『三國志13』の歴史イベントをすべて見た証</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>シナリオ「黄巾の乱」クリア</name>
+  <detail>シナリオ「黄巾の乱」をクリアした証</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>シナリオ「反董卓連合」クリア</name>
+  <detail>シナリオ「反董卓連合」をクリアした証</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>シナリオ「群雄割拠」クリア</name>
+  <detail>シナリオ「群雄割拠」をクリアした証</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>シナリオ「官渡の戦い」クリア</name>
+  <detail>シナリオ「官渡の戦い」をクリアした証</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>シナリオ「三顧の礼」クリア</name>
+  <detail>シナリオ「三顧の礼」をクリアした証</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>シナリオ「益州平定」クリア</name>
+  <detail>シナリオ「益州平定」をクリアした証</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>古今無双</name>
+  <detail>一騎討ちで１００勝した証</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>最強の論客</name>
+  <detail>舌戦で１００勝した証</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>貪欲な名品収集家</name>
+  <detail>１回のプレイで名品を５０個所持した証</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>覇を唱える者</name>
+  <detail>『三國志13』の英傑伝のすべてのステージをクリアした証</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>立身出世</name>
+  <detail>在野の状態から始めて、一品官まで出世した証</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>名君</name>
+  <detail>君主として、難易度「超困難」の勢力使命を達成させた証</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>敏腕都督</name>
+  <detail>都督として、難易度「超困難」の軍団使命を達成させた証</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>有能太守</name>
+  <detail>太守として、難易度「超困難」の都市使命を達成させた証</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>シナリオクリア</name>
+  <detail>初めてシナリオをクリアした証</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>武人の証明</name>
+  <detail>初めて一騎討ちに勝利した証</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>論客への第一歩</name>
+  <detail>初めて舌戦で勝利した証</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>英傑への道</name>
+  <detail>初めて英傑伝のステージをクリアした証</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>紡がれた絆</name>
+  <detail>初めて絆を結んだ証</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>交遊の証</name>
+  <detail>初めて紹介状を入手した証</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>初めての任務</name>
+  <detail>初めて任務を完了した証</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>戦功一位</name>
+  <detail>初めて戦功一位に輝いた証</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>先駆</name>
+  <detail>初めて城内に先駆した証</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>功績一位</name>
+  <detail>初めて勢力の短期功績一位に輝いた証</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>お近づきの印</name>
+  <detail>初めて贈与を行った証</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>絶対の信頼</name>
+  <detail>初めて都督に任命された証</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>信頼厚き者</name>
+  <detail>初めて太守に任命された証</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>信頼の証</name>
+  <detail>初めて重臣に任命された証</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>感謝される者</name>
+  <detail>初めて他武将を感謝状態にした証</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>好感を与える者</name>
+  <detail>初めて他武将を好感状態にした証</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>畏敬される者</name>
+  <detail>初めて他武将を畏敬状態にした証</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>魅了する者</name>
+  <detail>初めて他武将を魅了状態にした証</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>稀代の策士</name>
+  <detail>実行武将として初めて敵中作敵の任務を成功させた証</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>比類なき説客</name>
+  <detail>実行武将として初めて同盟を成功させた証</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>優秀なる説客</name>
+  <detail>実行武将として初めて懐柔を成功させた証</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>説客の第一歩</name>
+  <detail>実行武将として初めて口添を成功させた証</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="000">
+  <name>名鑑収集</name>
+  <detail>武将名鑑を50人集めた証</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="B" pid="000">
+  <name>英傑誕生の立会人</name>
+  <detail>歴史イベント「虎牢関の戦い」を見た証</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="B" pid="000">
+  <name>決戦の目撃者</name>
+  <detail>歴史イベント「官渡の戦い・膠着」を見た証</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="B" pid="000">
+  <name>赤壁の生き証人</name>
+  <detail>歴史イベント「赤壁の戦い」を見た証</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="S" pid="-1" gid="001">
+  <name>シナリオ「小覇王勇躍」クリア</name>
+  <detail>シナリオ「小覇王勇躍」をクリアした証</detail>
+ </trophy>
+ <trophy id="044" hidden="no" ttype="S" pid="-1" gid="001">
+  <name>シナリオ「華容道の変」クリア</name>
+  <detail>シナリオ「華容道の変」をクリアした証</detail>
+ </trophy>
+ <trophy id="045" hidden="no" ttype="S" pid="-1" gid="001">
+  <name>シナリオ「潼関の戦い」クリア</name>
+  <detail>シナリオ「潼関の戦い」をクリアした証</detail>
+ </trophy>
+ <trophy id="046" hidden="no" ttype="S" pid="-1" gid="001">
+  <name>シナリオ「出師の表」クリア</name>
+  <detail>シナリオ「出師の表」をクリアした証</detail>
+ </trophy>
+ <trophy id="047" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>威名を極めし者</name>
+  <detail>いずれかの系統の威名を最後まで名乗った証</detail>
+ </trophy>
+ <trophy id="048" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>新たなる戦いの幕開け</name>
+  <detail>英傑伝・外伝を全てクリアした証</detail>
+ </trophy>
+ <trophy id="049" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>伝説の侠</name>
+  <detail>初めて侠客系統の威名で武名を高めてクリアした証</detail>
+ </trophy>
+ <trophy id="050" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>天下豪商</name>
+  <detail>初めて商人系統の威名で財を築いてクリアした証</detail>
+ </trophy>
+</trophyconf>

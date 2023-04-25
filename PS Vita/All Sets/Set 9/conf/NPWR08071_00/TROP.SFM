@@ -1,0 +1,224 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000003549c6905301407a48493a07d4d19da5ec9781d65896eb7b5b96270ebfd7912c35f4da49a7e2457dbe0502b742017bf47ed3a8a79501355b2b289175499d8312a4362deafb047294c47113bb2bc626d8f4cf8b8ac404926a638138f2ab996edc8f3e3a0736230a8cad59491ede1837a17efaf3dde78f7d27194ad8948f37e38cdce45734a3d031cf9e37a0025819c03d8cc47486-->
+<trophyconf version="1.1" platform="ps3,psp2,ps4" policy="large">
+ <npcommid>NPWR08071_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>戦国無双４-Ⅱ</title-name>
+ <title-detail>戦国無双４-Ⅱのトロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>天下無双</name>
+  <detail>すべてのトロフィーを入手した</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>天下無双への第一歩</name>
+  <detail>初めてミッションを達成した</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>初陣祝い</name>
+  <detail>初めて合戦に勝利した</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>巨星となる</name>
+  <detail>無双演武で「新星の章」をクリアした</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>比翼連理</name>
+  <detail>無双演武で「絆の章」をクリアした</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>真の悪党</name>
+  <detail>無双演武で「反逆の章」をクリアした</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>大切な人</name>
+  <detail>無双演武で「情愛の章」をクリアした</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>純粋な思い</name>
+  <detail>無双演武で「理想の章」をクリアした</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>友のために</name>
+  <detail>無双演武で「盟友の章」をクリアした</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="000">
+  <name>忠臣の報恩</name>
+  <detail>無双演武で「主従の章」をクリアした</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="000">
+  <name>揺るがぬ支え</name>
+  <detail>無双演武で「大樹の章」をクリアした</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>受け継がれる意志</name>
+  <detail>無双演武で「賢人の章」をクリアした</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="B" pid="000">
+  <name>譲れない</name>
+  <detail>無双演武で「好敵手の章」をクリアした</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="000">
+  <name>二人の宝物</name>
+  <detail>無双演武で「約束の章」をクリアした</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="B" pid="000">
+  <name>生きて忠を成す</name>
+  <detail>無双演武で「忠節の章」をクリアした</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>夢の舞台</name>
+  <detail>無双演武で「百花繚乱の章」をクリアした</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>常勝無敗</name>
+  <detail>無双演武ですべての合戦に勝利した</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="G" pid="000">
+  <name>天下布武</name>
+  <detail>無双演武ですべての合戦をすべてのキャラクターで勝利した</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="G" pid="000">
+  <name>無限への到達</name>
+  <detail>無限城で100階に到達した</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>無限への道半ば</name>
+  <detail>無限城で50階に到達した</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="000">
+  <name>無限への一歩</name>
+  <detail>無限城で5階に到達した</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>超級武功</name>
+  <detail>無限城のいずれかの別館で、Rank「S」を達成した</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="S" pid="000">
+  <name>別館制覇</name>
+  <detail>無限城の全ての別館で、Rank「S」を達成した</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>至高の一振り</name>
+  <detail>初めてレア武器を入手した</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="000">
+  <name>数多の業物</name>
+  <detail>２０種類のレア武器を入手した</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="S" pid="000">
+  <name>種々の神品</name>
+  <detail>すべてのレア武器を入手した</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>覚醒せし者</name>
+  <detail>初めて覚醒技能を修得した</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="B" pid="000">
+  <name>覚醒に魅入られし者</name>
+  <detail>２０種類の覚醒技能を修得した</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="S" pid="000">
+  <name>覚醒を極めし者</name>
+  <detail>すべての覚醒技能を修得した</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>熱き鋼を打て！</name>
+  <detail>初めて武器の強化を行った</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>調教師</name>
+  <detail>初めて馬の強化を行った</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>果て無き強化</name>
+  <detail>限界突破チャンスに成功した</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>地獄からの生還</name>
+  <detail>難易度「地獄」でいずれかのステージをクリアした</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>一騎当千</name>
+  <detail>１つの合戦で１０００人撃破した</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>神速無双</name>
+  <detail>１つの合戦で神速攻撃で１０００人撃破した</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>阿吽の呼吸</name>
+  <detail>１つの合戦でプレイヤー武将との協力奥義で１５０人撃破した</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>殺陣役者</name>
+  <detail>１つの合戦で殺陣で武将を５人撃破した</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>刹那の呼応</name>
+  <detail>敵武将の神速をガードした</detail>
+ </trophy>
+ <trophy id="038" hidden="yes" ttype="B" pid="000">
+  <name>月丸参上！</name>
+  <detail>合戦中に月丸を見た</detail>
+ </trophy>
+ <trophy id="039" hidden="yes" ttype="B" pid="000">
+  <name>洒落者無双</name>
+  <detail>初めて無双武将の衣装切り替えを行い、戦闘した</detail>
+ </trophy>
+ <trophy id="040" hidden="yes" ttype="B" pid="000">
+  <name>破竹の勢い</name>
+  <detail>竹束を１０回壊した</detail>
+ </trophy>
+ <trophy id="041" hidden="yes" ttype="B" pid="000">
+  <name>おかえり</name>
+  <detail>初めて無限城から脱出した</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="B" pid="000">
+  <name>よっ千両役者！</name>
+  <detail>１回の黄金時間中に１０００両獲得した</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="B" pid="000">
+  <name>連撃雨あられ</name>
+  <detail>１０００コンボを達成した</detail>
+ </trophy>
+ <trophy id="044" hidden="no" ttype="B" pid="000">
+  <name>武名を天下に</name>
+  <detail>初めてランキングに登録した</detail>
+ </trophy>
+ <trophy id="045" hidden="no" ttype="B" pid="000">
+  <name>きらめく群雄</name>
+  <detail>すべての無双武将を使用した</detail>
+ </trophy>
+ <trophy id="046" hidden="no" ttype="B" pid="000">
+  <name>戦国一のお大尽</name>
+  <detail>よろず屋で消費した金が１０００００を超えた</detail>
+ </trophy>
+ <trophy id="047" hidden="no" ttype="B" pid="000">
+  <name>古今無双</name>
+  <detail>宝物庫の総撃破数が１０００００人を超えた</detail>
+ </trophy>
+ <trophy id="048" hidden="no" ttype="B" pid="000">
+  <name>任務達成</name>
+  <detail>宝物庫のミッション達成率が５０％を超えた</detail>
+ </trophy>
+ <trophy id="049" hidden="no" ttype="S" pid="000">
+  <name>任務完遂</name>
+  <detail>宝物庫のミッション達成率を１００％にした</detail>
+ </trophy>
+ <trophy id="050" hidden="no" ttype="B" pid="000">
+  <name>合戦絵巻</name>
+  <detail>宝物庫のイベント収集率が５０％を超えた</detail>
+ </trophy>
+ <trophy id="051" hidden="no" ttype="S" pid="000">
+  <name>戦国絵巻</name>
+  <detail>宝物庫のイベント収集率を１００％にした</detail>
+ </trophy>
+ <trophy id="052" hidden="no" ttype="B" pid="000">
+  <name>雅な調べ</name>
+  <detail>宝物庫のサウンド収集率が５０％を超えた</detail>
+ </trophy>
+ <trophy id="053" hidden="no" ttype="S" pid="000">
+  <name>絢爛な調べ</name>
+  <detail>宝物庫のサウンド収集率を１００％にした</detail>
+ </trophy>
+</trophyconf>

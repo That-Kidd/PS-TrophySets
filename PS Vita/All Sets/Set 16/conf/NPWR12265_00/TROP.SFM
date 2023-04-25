@@ -1,0 +1,64 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000f38be46061f3bec4628c781ecea8201d46805d239e3aeb3e2d50fea94fc6d3c7bc1d92fa3a77c06beb36fce3c8537997e1a5f77901bcff983094fafbd50db16a08d8aa7561be473b5bf9775b900661aa81252c3c784e770c982fc3370be4241924a8acf854706e441b8d0e1f5e5abe0d1791633c30a4b36eacecbcf0b6aa5bdd1d74aa5894f862cd96d65fd4b63ebe033d0152d9-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR12265_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Siralim 2</title-name>
+ <title-detail>Collection of trophies for Siralim 2.</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>The Undying</name>
+  <detail>Defeat the Ceaseless Gladiator.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>The Reanimator</name>
+  <detail>Defeat King Andrick.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>The Unstable</name>
+  <detail>Defeat Phobos.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>The Changeling</name>
+  <detail>Defeat Flubris.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>The Introvert</name>
+  <detail>Defeat Shackler.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>The Sea Terror</name>
+  <detail>Defeat Deathwalker.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>The Decision</name>
+  <detail>Defeat Scylla and Charybdis.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>The Unguided</name>
+  <detail>Defeat The Unguided.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>The Balance</name>
+  <detail>Defeat Judgment and Mercy.</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="-1">
+  <name>The Truth</name>
+  <detail>Defeat Misery.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="-1">
+  <name>Divine Ascension</name>
+  <detail>Become "Deified" with all 15 gods.</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="-1">
+  <name>A Bright Future</name>
+  <detail>Complete a set of tasks from Elize.</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="-1">
+  <name>God Slayer</name>
+  <detail>Defeat a god in battle.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="-1">
+  <name>Coerced Coexistence</name>
+  <detail>Add at least 500 creatures to the bestiary.</detail>
+ </trophy>
+</trophyconf>

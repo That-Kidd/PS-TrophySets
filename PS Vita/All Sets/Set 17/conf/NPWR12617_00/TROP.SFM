@@ -1,0 +1,96 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000001edc2a36c8e9967125871f7dec90e42ace8979a123e4d4f179a584f9a27f8223f6905ac9ea271b72df73a5bcc0396ca93aa493aaa2e85c54e57a0ee1b9b49fd93f6f7a42382f29779603cd0e33f59a2d96df52eae6f0f1e94f7b586c148b4e8ce490a0ec5b13dcf188e787fb25d7f9417cb6667c0e9f0de519d46a9f170d2d274cd37fbe276e67ee7de33052e3da86fb32513266-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR12617_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Bad Apple Wars</title-name>
+ <title-detail>Bad Apple Wars</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>How Did You Like Them Apples?</name>
+  <detail>Obtain every trophy.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>Worth a Couple Thousand Words</name>
+  <detail>Achieve 100% completion for the CG gallery.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>A Day at the Movies</name>
+  <detail>Achieve 100% completion for the movie gallery.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>The Apple of My Ear</name>
+  <detail>Achieve 100% completion for the music player.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>Gone with the Flow</name>
+  <detail>Achieve 100% completion of the flowchart.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>Bad Touch</name>
+  <detail>Touched your first Soul.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>That First Day's a Killer</name>
+  <detail>Got accepted to NEVAEH Academy.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>A Promise is a Promise</name>
+  <detail>See Alma's ending and epilogue.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>All of Me</name>
+  <detail>See Higa's ending and epilogue.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>Beautiful World</name>
+  <detail>See Shikishima's ending and epilogue.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>The Person I Love</name>
+  <detail>See Satoru's ending and epilogue.</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>A Promised Kiss</name>
+  <detail>See Watase's ending and epilogue.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>The Reason for My Tears</name>
+  <detail>See Alma's NEVAEH ending.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>Don't You Need Me?</name>
+  <detail>See Higa's NEVAEH ending.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>A Colorless Place</name>
+  <detail>See Shikishima's NEVAEH ending.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>Repeated Meetings</name>
+  <detail>See Satoru's NEVAEH ending.</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="S" pid="000">
+  <name>Her Despair</name>
+  <detail>See Watase's NEVAEH ending.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="G" pid="000">
+  <name>You've Seen Alma CGs</name>
+  <detail>See every CG of Alma.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="G" pid="000">
+  <name>How Many CGs Does Higa?</name>
+  <detail>See every CG of Higa.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="G" pid="000">
+  <name>Art Show</name>
+  <detail>See every CG of Shikishima.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="G" pid="000">
+  <name>Perfect Score</name>
+  <detail>See every CG of Satoru.</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="G" pid="000">
+  <name>Look at this Watasegraph</name>
+  <detail>See every CG of Watase.</detail>
+ </trophy>
+</trophyconf>

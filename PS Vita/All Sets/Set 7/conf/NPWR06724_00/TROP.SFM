@@ -1,0 +1,128 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000038b4653c9c366dd691202aea20cb5985a1c1d56a2ffb6f4a7ca2ffe21934f122a7ba4ab51adc953eb0c1bfa9316ac2ab8d9b5a2f32c5051757e3e3a5a9eb8ee4d40a9958a6ce4633774ec407d68bf12d02f0ab48c05bb3adea899e8bf0f81154b5e7b22fb27aa92e7d2578a776530f6fb6fed534a243913e1a87cf89baa5a84e99158478041b1ddd556381ff2e9965052fbf83b8-->
+<trophyconf version="1.1" platform="ps3,psp2,ps4" policy="large">
+ <npcommid>NPWR06724_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Rogue Legacy</title-name>
+ <title-detail>Rogue Legacy Trophy Set</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Ergophobia</name>
+  <detail>Earn every other trophy.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Atelophobia</name>
+  <detail>Choose a hero with no traits.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Aurophilia</name>
+  <detail>Open your very first gold chest.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Barophobia</name>
+  <detail>Use the special class at least once.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>Bibliophilia</name>
+  <detail>Read the last journal entry.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>Biophobia</name>
+  <detail>Die 20 times or more.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>Cainotophilia</name>
+  <detail>Have one rune equipped in every item slot.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>Coulrophilia</name>
+  <detail>Beat one of the clown's games at least once.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>Decidophobia</name>
+  <detail>Put at least one point in every skill in the manor.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>Disposophobia</name>
+  <detail>Find all blueprints (purchase not necessary).</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>Gnosiophilia</name>
+  <detail>Find all the runes (purchase not necessary).</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>Gymnophobia</name>
+  <detail>Have one piece of equipment in every item slot.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>Plutophobia</name>
+  <detail>Reach level 50 or higher.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>Rhabdophilia</name>
+  <detail>Earn your very first Enchantress rune.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>Somniphobia</name>
+  <detail>Play the game for at least 20 hours.</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>Ommetaphobia</name>
+  <detail>Defeat the boss in Castle Hamson.</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>Phasmophobia</name>
+  <detail>Defeat the boss in the Forest Abkhazia.</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="S" pid="000">
+  <name>Pyrophobia</name>
+  <detail>Defeat the boss in the Maya.</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="S" pid="000">
+  <name>Blennophobia</name>
+  <detail>Defeat the boss in the Land of Darkness.</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="G" pid="000">
+  <name>Paterphobia</name>
+  <detail>Defeat the last boss.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>Zoophobia</name>
+  <detail>Defeat all the minibosses.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="G" pid="000">
+  <name>Geminiphobia</name>
+  <detail>Beat the game… twice.</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="G" pid="000">
+  <name>Syngenesophobia</name>
+  <detail>Defeat the brothers.</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="S" pid="000">
+  <name>Chemophobia</name>
+  <detail>Defeat the trademarked chemical.</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="S" pid="000">
+  <name>Ostiophobia</name>
+  <detail>Defeat the son.</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="S" pid="000">
+  <name>Scotomaphobia</name>
+  <detail>Defeat the doppleganger.</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="S" pid="000">
+  <name>Astrophobia</name>
+  <detail>Defeat the asteroids.</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="G" pid="000">
+  <name>Katagelasticism</name>
+  <detail>Mock the traitor.</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="G" pid="000">
+  <name>Thanatophobia</name>
+  <detail>WITHOUT using the Architect, complete the game dying 15 times or less</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="B" pid="000">
+  <name>Alektorophobia</name>
+  <detail>Kill a chicken.</detail>
+ </trophy>
+</trophyconf>

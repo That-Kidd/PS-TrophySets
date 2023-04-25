@@ -1,0 +1,76 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000005f042ea27871422a848fe65fe867730b0155caa16bf4da4b39cf7a1ba9460d57d1c8820cf524a710f9c5ed01a8bf14802b6f3dd2a63c3c728e62a503f1347915676415a11810d80e5358efaec5495770587af1abb63cbf8b7691034cbaf6a7690f6b85a1df1cbe28c838466d332086f216724e46f41b26f060611702a331458976f7e66b962aa86313b489c1e742209a1ce3329d-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR19133_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Deep Space Rush</title-name>
+ <title-detail>Deep Space Rush</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Platinum DeTeam</name>
+  <detail>Get all other trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Spender</name>
+  <detail>Buy anything on the store</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Healer</name>
+  <detail>Buy a hear on the store</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>Corpose</name>
+  <detail>Be killed by a monster</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>Trainee</name>
+  <detail>Kill 10 Monsters in total</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>Novice</name>
+  <detail>Kill 20 Monsters in total</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>Hunter</name>
+  <detail>Kill 30 Monsters in total</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>Assasin</name>
+  <detail>Kill 40 Monsters in total</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>Killing-Mahcine</name>
+  <detail>Kill 50 Monsters in total</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>Walker</name>
+  <detail>Complete 10 Zones in total</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>Runner</name>
+  <detail>Complete 20 Zones in total</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>Hiker</name>
+  <detail>Complete 30 Zones in total</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>Explorer</name>
+  <detail>Complete 40 Zones in total</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="000">
+  <name>Trapper</name>
+  <detail>Complete 50 Zones in total</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="000">
+  <name>Super Spender</name>
+  <detail>MAX an item on the store</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="G" pid="000">
+  <name>Super Killing-Mahcine</name>
+  <detail>Kill 100 Monsters in total&#x0a;</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="G" pid="000">
+  <name>Extreme Trapper</name>
+  <detail>Complete 100 Zones in total</detail>
+ </trophy>
+</trophyconf>

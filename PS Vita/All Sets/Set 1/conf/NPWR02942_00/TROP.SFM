@@ -1,0 +1,168 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000005cce8c6ad3f2e926763a9be9c331022069b74118a9cf03dd8404e8d1998ac8b234aa32a46af89e7d01d5a45648f267a9c931045976b3afcdc00d94e1134306b72ed2fb9b0aef7855c08ec2487b1c27d192876a6e1860cfa37cd920b7874d9ac9b2963c4adced30601e5c9459c6258ed7c6805592018b65e99ff8f48095a701fc5154e8074f14bb899d8b9cb1417983b42fd62194-->
+<trophyconf version="1.1" platform="psp2">
+ <npcommid>NPWR02942_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>EA SPORTS™ FIFA Football</title-name>
+ <title-detail>EA SPORTS™ FIFA Soccer Trophies (gained in online or offline matches unless stated otherwise)</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Soccer Legend</name>
+  <detail>Unlock all other trophies (excluding additional content trophies)</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Pinpoint Accuracy</name>
+  <detail>Score a goal using the screen (touchscreen) shot, or a rear touch pad shot</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>Sharp Shooter</name>
+  <detail>Score 50 goals using a touch shot</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Pressure is On</name>
+  <detail>Score a penalty kick using a touch shot</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>You Pointing at Me?</name>
+  <detail>Make a successful direct pass using the touchscreen</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>Thread the Needle</name>
+  <detail>Make a successful through pass using the touchscreen</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>Control the Open Space</name>
+  <detail>Make a successful lob pass using the touchscreen in a match</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>Nimble Fingers</name>
+  <detail>Score a touchscreen or rear touch pad goal from a touchscreen pass</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>Pass Master</name>
+  <detail>Make 100 successful passes using the touchscreen</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>All My Own Work</name>
+  <detail>Win a Match with Manual Controls</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>Safe Hands</name>
+  <detail>Play any match as the Goalkeeper with no Assistance</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>Perfect Keeping</name>
+  <detail>Play as the Goalkeeper in a Kick-Off match and finish with 100% Saving Accuracy</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>Once in a Lifetime</name>
+  <detail>Score as the Goalkeeper in any match</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>Aerial Threat</name>
+  <detail>Score a header in a match with a player with the Aerial Threat Speciality</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>Crosser</name>
+  <detail>Create a goal with a cross with a player with the Crosser Speciality</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>Distance Shooter</name>
+  <detail>Score from outside the box with a  player with the Distance Shooter Speciality</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Playmaker</name>
+  <detail>Create a goal with a player with the Playmaker Speciality</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Poacher</name>
+  <detail>Score from inside the box with a player with the Poacher Speciality</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>Woodwork and In!</name>
+  <detail>Score off the post or cross bar in a match</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Training Time</name>
+  <detail>Work on your skills in any Arena Practice Mode</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>Back of the Net</name>
+  <detail>Score 5 goals in the Arena</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>Warming the Gloves</name>
+  <detail>Make 10 saves in the Arena</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>Home and Away</name>
+  <detail>Play and win in every Stadium</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>Home Maker</name>
+  <detail>Change the Home Stadium of any team</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="G" pid="000">
+  <name>FIFA for Life</name>
+  <detail>Spend 50 hours on the pitch</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="S" pid="000">
+  <name>Around the World</name>
+  <detail>Play a match with a team from every league</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>In the Game</name>
+  <detail>Create a Virtual Pro</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="S" pid="000">
+  <name>Rising Talent</name>
+  <detail>Complete 100 Accomplishments with your Virtual Pro</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="G" pid="000">
+  <name>Virtual Legend</name>
+  <detail>Play 100 matches with your Virtual Pro</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>Against the Odds</name>
+  <detail>Win a Head to Head Ranked Match using a weaker team</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>Experimental</name>
+  <detail>Play 5 consecutive Head to Head Ranked Matches with different teams</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>In for the Win</name>
+  <detail>Take a Head to Head Ranked Match to extra time with a weaker team</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="S" pid="000">
+  <name>Good Form</name>
+  <detail>Play 5 consecutive Head to Head Ranked Matches without losing</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="G" pid="000">
+  <name>Hundred and Counting</name>
+  <detail>Play 100 Head to Head Ranked Matches</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>Mastermind</name>
+  <detail>Have a substitute score a goal in Career Mode</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>Good Week!</name>
+  <detail>Get yourself selected in the Team of the Week in Career Mode</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>Great Month!</name>
+  <detail>Win the Manager of the Month award in Career Mode</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="S" pid="000">
+  <name>Established Keeper</name>
+  <detail>Play a season as a Goalkeeper in Career Mode</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="S" pid="000">
+  <name>It's in the Blood!</name>
+  <detail>Go from being a Player to the Manager (or Player Manager) in Career Mode</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="S" pid="000">
+  <name>Folklore</name>
+  <detail>Become a Legend as a player in Career Mode</detail>
+ </trophy>
+</trophyconf>

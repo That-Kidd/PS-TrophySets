@@ -1,0 +1,48 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000c1b7a50e259090d76f12e710355b8329d93b55b09149e7a9f0f75bb6c4a02b97cfd67e2d4f800fe59674db9228a442cea8eea25e5df86f8d709027c9324cbe9a312d9629603f1735e8fe7461e2be293a213e6aa2be2fc9cfbda62db48474cdc9c5a82df47cbc9760f574f8783e1a042ccae5de4681f79b31bd7404e8b9d9e4df25a5da110c294cb7e00a052f1e0f557088c43941-->
+<trophyconf version="1.1" platform="ps3,psp2" policy="small">
+ <npcommid>NPWR05257_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Mutant Mudds Deluxe</title-name>
+ <title-detail>Mutant Mudds Deluxe</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Launchpad</name>
+  <detail>Unlock the path to space</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="-1">
+  <name>Victory!</name>
+  <detail>Beat the game. You'll know it when you see it.</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="-1">
+  <name>Earned Your Allowance</name>
+  <detail>Collect all known water sprites and golden diamonds</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="S" pid="-1">
+  <name>Dang, Grannie!</name>
+  <detail>Collect all of Grannie's medals</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="S" pid="-1">
+  <name>Wowza!</name>
+  <detail>Collect all the spooky water sprites</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="S" pid="-1">
+  <name>Renegade Kids</name>
+  <detail>Unlock all characters</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Who Needs 'Em</name>
+  <detail>Beat a REAL level without using the checkpoint (1-1 doesn't count!)</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Sprinkler</name>
+  <detail>Beat a REAL level without dying once (1-1 doesn't count!)</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="-1">
+  <name>Hovercraft</name>
+  <detail>Beat a REAL level without getting hit (1-1 doesn't count!)</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="-1">
+  <name>No Pressure</name>
+  <detail>Collect 4000 golden diamonds, unnecessarily</detail>
+ </trophy>
+</trophyconf>

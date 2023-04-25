@@ -1,0 +1,84 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000e036c9a20bef7eb04760fa029f797b903de8f1bb9fbd7c4d71d80f8d7481089a99981fea5ec3b897375226e878641facbb0bd0132d73c1a50ad8618c3c160de6b91048019dec1412552f997f30d31f4dc5f0ceccf4249fdbe6e940b0bac0f5533a9732ddc4585b64be6d5c85b21466d5d644d73b2019377c0edc14b0945d930c92e1c25acda3b69ddd4775a92f57ad2e533b96a2-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR11459_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Re:BIRTHDAY SONG～恋を唄う死神～another record</title-name>
+ <title-detail>Re:BIRTHDAY SONG～恋を唄う死神～another recordのトロフィーセットです</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>冥府に響く死神の歌</name>
+  <detail>全てのトロフィーを獲得した</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>受け入れられなかった真実</name>
+  <detail>カイリバッドエンドをクリアした</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>壊れたこころ</name>
+  <detail>ヨルバッドエンドをクリアした</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>隠された秘密</name>
+  <detail>アメバッドエンドをクリアした</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>振り上げられた死神の鎌</name>
+  <detail>シュンバッドエンドをクリアした</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>ふたりだけのせかい</name>
+  <detail>ナミバッドエンドをクリアした</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>さよなら特別補習組</name>
+  <detail>共通バッドエンドをクリアした</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>思い出のオルゴール</name>
+  <detail>カイリ死神エンドをクリアした</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>今も、昔も、これからも</name>
+  <detail>ヨル死神エンドをクリアした</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>魔法使いと王子様</name>
+  <detail>アメ死神エンドをクリアした</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>キスはお預け</name>
+  <detail>シュン死神エンドをクリアした</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>あなたの為に歌う歌</name>
+  <detail>ナミ死神エンドをクリアした</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>思い出のひまわり畑</name>
+  <detail>カイリ転生エンドをクリアした</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="000">
+  <name>最高の贈り物</name>
+  <detail>ヨル転生エンドをクリアした</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="000">
+  <name>運命のひと</name>
+  <detail>アメ転生エンドをクリアした</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="G" pid="000">
+  <name>わたしだけの優しい眼差し</name>
+  <detail>シュン転生エンドをクリアした</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="G" pid="000">
+  <name>甘くて苦い口付け</name>
+  <detail>ナミ転生エンドをクリアした</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>ユユの思い出アルバム</name>
+  <detail>CGを全て開いた</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>ユユの思い出日記</name>
+  <detail>回想を全て開いた</detail>
+ </trophy>
+</trophyconf>

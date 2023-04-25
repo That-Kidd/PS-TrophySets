@@ -1,0 +1,60 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000c06416c98471ab5d370e9ba9900c836444b2d0a267dfb100e84d300fc7b11a9b75320ad83e07c95c37254a26ddc732ec46415e9ed052b05b024628e61aa8a3e42db9964093f163fef5de244ee3ad0c038650cde00895389cf73fdfd8ccef5bf6d32c86d06135529a79b70789bd0dc73780362ad6c9e6d8a1c6801acfd507610da8a9f2d3702ec2cbaa85435141d92a69629df28c-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR03443_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Puzzle by Nikoli V Sudoku</title-name>
+ <title-detail>A trophy set for "Puzzle by Nikoli V Sudoku". Complete puzzles to get all the trophies! </title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Paused a puzzle 50 times!</name>
+  <detail>Paused a puzzle more than 50 times</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Quit a puzzle 50 times!</name>
+  <detail>Quit a puzzle more than 50 times</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Used "delete" 100 times!</name>
+  <detail>Used the delete function more than 100 times</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Read all the guides!</name>
+  <detail>Read all game guides</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Played for more than 24 hours!</name>
+  <detail>Total play time exceeded 24 hours</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Used "REDO" 100 times!</name>
+  <detail>Used the redo function more than 100 times</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Used "UNDO" 100 times!</name>
+  <detail>Used the undo function more than 100 times</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Cleared 10 puzzles!</name>
+  <detail>Cleared 10 "Sudoku" puzzles</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Cleared 20 puzzles!</name>
+  <detail>Cleared 20 "Sudoku" puzzles</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>Cleared 30 puzzles!</name>
+  <detail>Cleared 30 "Sudoku" puzzles</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>Cleared 40 puzzles!</name>
+  <detail>Cleared 40 "Sudoku" puzzles</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="-1">
+  <name>Cleared all puzzles!</name>
+  <detail>Cleared all "Sudoku" puzzles</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="-1">
+  <name>Cleared 15 puzzles in a row on shuffle!</name>
+  <detail>Cleared 15 puzzles in a row on shuffle</detail>
+ </trophy>
+</trophyconf>

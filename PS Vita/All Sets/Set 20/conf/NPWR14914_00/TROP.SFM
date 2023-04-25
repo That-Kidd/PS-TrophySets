@@ -1,0 +1,60 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000055c3e40136c8a98a26673031d13533cf5a2b06ed46ff5a1459e2c34ccfed2ae650184f8dcbb005615556155d58f84dad58d82135efcef8f471deb6d0c70eb65de875b437e8b189abcf4c75c31b4e0212479214d2d54b1acdac663fcfef7820e514378345625b10f4266deadab0962b0046ff2d54bb6cb2aff792306e48a4cb8d8704cd0b75501c7ce1312d24efa49fb0ee225933-->
+<trophyconf version="1.1" platform="psp2" policy="freemium">
+ <npcommid>NPWR14914_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>インフィニタ・ストラーダ 華</title-name>
+ <title-detail>インフィニタ・ストラーダ 華　トロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>カードコレクター</name>
+  <detail>カードを100種類ゲットしました</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>伝説のカードコレクター</name>
+  <detail>カードを150種類ゲットしました</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>カードレベル10</name>
+  <detail>カードが10レベルになりました</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>カードレベル100</name>
+  <detail>カードが100レベルになりました</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>プレイヤーレベル99</name>
+  <detail>プレイヤーレベルが99になりました</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>プレイヤーレベル999</name>
+  <detail>プレイヤーレベルが999になりました</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>ダンジョンレベル999</name>
+  <detail>ダンジョンレベルが999レベルになりました</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>マスターエージェント</name>
+  <detail>第10章をクリアしました</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>ネットワーク対戦初勝利</name>
+  <detail>ネットワーク対戦で初勝利しました</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="-1">
+  <name>スペシャルエージェント</name>
+  <detail>追加の全5シナリオをクリアしました</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="-1">
+  <name>ネットワーク対戦100勝</name>
+  <detail>ネットワーク対戦で100勝しました</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="-1">
+  <name>伝説の冒険者</name>
+  <detail>60種類以上のダンジョンをクリアしました</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="-1">
+  <name>伝説のランカー</name>
+  <detail>1位から10位にランクインしました</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,104 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000d145a17e7b9ebab488d2e21fcec00063c38ffc106b781aa9041f0db69866c461ecd6945c224ca125223945df32c1c817db13e7eb8fd14ad1e9b9a6a767300b85bb4403b58194c130cb2eb484b72e8925eb6755cd8946459521f7d93dd7230ba5e49a61feaa71e67084ca6093f088c02b9f5ebbbf7d24353f5f0b7f335a6b66e6ef2d97aae1d766fe8dc9c5c1b2740fc3141e4d6c-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="small">
+ <npcommid>NPWR06218_00</npcommid>
+ <trophyset-version>01.03</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Towerfall Ascension Trophies</title-name>
+ <title-detail>Trophy Data for Towerfall Ascension</title-detail>
+ <group id="001">
+  <name>Towerfall Dark World</name>
+  <detail>Trophy Data for Towerfall Dark World</detail>
+ </group>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Serpent Hymns</name>
+  <detail>Discover Sunken City</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Omens</name>
+  <detail>Discover Moonstone</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Creation Myth</name>
+  <detail>Discover TowerForge</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Ascension</name>
+  <detail>Discover Ascension</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Exuluna</name>
+  <detail>Unlock the White Archer</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Fabled Recluse</name>
+  <detail>Unlock the Yellow Archer</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Demented Thespian</name>
+  <detail>Unlock the Cyan Archer</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Demon Queen</name>
+  <detail>Unlock the Purple Archer</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="-1">
+  <name>Battle Stenography</name>
+  <detail>Earn 90% of the Versus Awards</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>Tall Tales</name>
+  <detail>Play 1,000 rounds of Versus mode</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>Massive Mythology</name>
+  <detail>Play 5,000 rounds of Versus mode</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="-1">
+  <name>Thief's Badge</name>
+  <detail>Beat 10 diamond times in Trials mode</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="-1">
+  <name>Reaper’s Crown</name>
+  <detail>Earn a gold skull on King's Court in Quest mode</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="-1">
+  <name>Way of the Order</name>
+  <detail>Complete the first 3 towers of Quest mode</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="-1">
+  <name>Rapture</name>
+  <detail>Complete Ascension in Quest mode</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="-1">
+  <name>Crimson Shield</name>
+  <detail>Earn 8 red skulls in Quest mode</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="-1">
+  <name>Golden Goddess</name>
+  <detail>Earn 14 red skulls in Quest mode</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>Wretched Seer</name>
+  <detail>Complete The Amaranth in Dark World mode</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>Lady Abigail</name>
+  <detail>Complete Dreadwood in Dark World mode</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>The Blind Lich</name>
+  <detail>Complete Darkfang in Dark World mode</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="-1" gid="001">
+  <name>Cataclysm</name>
+  <detail>Complete Cataclysm in Dark World mode</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="-1" gid="001">
+  <name>Dream Team</name>
+  <detail>Complete the four main stages of Dark World mode on Hardcore difficulty</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="G" pid="-1" gid="001">
+  <name>Dark World Conquerors</name>
+  <detail>Complete the four main stages of Dark World mode on Legendary difficulty</detail>
+ </trophy>
+</trophyconf>

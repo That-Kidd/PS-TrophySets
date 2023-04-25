@@ -1,0 +1,188 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000cbdfd277b0eb1ec4645e48af6c1d7060c2f3e77362507ccae07e9ca5af8de227feee8a1393ee2e48c2e26f41433aeb3eac8b612f72c7ae5d07c87db3f983c7c32f1b212a3b998d7892bcd78b3090bcecc506d1f76cf46c32269354cd00220d088775407fc895d620409fd6123dde200a70d7d539f66a2d030bad6dc38c3f8bd69209ce54c7d90fab712d3b69f20bd09dc6b910b2-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR11072_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>數碼寶貝世界 -Next Order-</title-name>
+ <title-detail>「數碼寶貝世界 -Next Order-」獎盃</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>稱霸數碼寶貝世界！</name>
+  <detail>取得了所有獎盃</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>第1章過關！</name>
+  <detail>第1章過關</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>第2章過關！</name>
+  <detail>第2章過關</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>第3章過關！</name>
+  <detail>第3章過關</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>擊敗滅世魔獸！</name>
+  <detail>擊敗滅世魔獸</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>第一次的貢獻！</name>
+  <detail>繁榮度達到1</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>城鎮活化起來了！</name>
+  <detail>繁榮度達到50</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>城鎮盛大發展！</name>
+  <detail>繁榮度達到100</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>有錢人！</name>
+  <detail>持有金錢超過100000Bit</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>超級有錢人！</name>
+  <detail>持有金錢超過1000000Bit</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>我看穿了！</name>
+  <detail>完全不受傷結束戰鬥</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>硬派攻擊手！</name>
+  <detail>單次攻擊造成了1000傷害</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>KING SIZE獵人！</name>
+  <detail>第一次擊敗了KING SIZE</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>振作一點啊…</name>
+  <detail>第一次發生培育失誤</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>期待的新人！</name>
+  <detail>第一次在競技場獲勝</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>熟練的預兆！</name>
+  <detail>第一次馴獸師等級上昇</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>輪迴轉生！</name>
+  <detail>第一次將夥伴數碼寶貝轉生為數碼蛋</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>第一次露營！</name>
+  <detail>第一次露營</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>訓練師出道！</name>
+  <detail>第一次進行訓練</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>戰略性撤退！</name>
+  <detail>第一次從戰鬥中逃跑</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>開始釣魚囉！</name>
+  <detail>第一次釣魚</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>第一次採收材料！</name>
+  <detail>第一次採收材料</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>第一次撿東西！</name>
+  <detail>第一次拾取食材道具</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>新手馴獸師！</name>
+  <detail>第一次讓數碼寶貝進化到成長期</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>熟手馴獸師！</name>
+  <detail>第一次讓數碼寶貝進化到成熟期</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>一流馴獸師！</name>
+  <detail>第一次讓數碼寶貝進化到完全體</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>傳說馴獸師！</name>
+  <detail>第一次讓數碼寶貝進化到究極體</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>長命百歲！</name>
+  <detail>夥伴活到了20歲</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="B" pid="000">
+  <name>好麻吉！</name>
+  <detail>數碼友情達到最大值</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>永遠是好朋友喔！</name>
+  <detail>羈絆到達最大值</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>數碼寶貝愛好者！</name>
+  <detail>培育了50種數碼寶貝</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="S" pid="000">
+  <name>第一次合體進化！</name>
+  <detail>第一次進行合體進化</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="S" pid="000">
+  <name>一級建築師！</name>
+  <detail>在建築店將所有設施的等級提升到MAX</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="S" pid="000">
+  <name>競技場之王！</name>
+  <detail>稱霸競技場的所有比賽</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="S" pid="000">
+  <name>戰鬥狂！</name>
+  <detail>戰鬥勝利300次</detail>
+ </trophy>
+ <trophy id="035" hidden="yes" ttype="S" pid="000">
+  <name>數碼寶貝研究家！</name>
+  <detail>培育了100種數碼寶貝</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="S" pid="000">
+  <name>突破極限！</name>
+  <detail>夥伴數碼寶貝的所有能力值達到1000以上</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="S" pid="000">
+  <name>猛烈攻擊手！</name>
+  <detail>單次攻擊造成9999傷害</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="S" pid="000">
+  <name>卡片大師！</name>
+  <detail>完整收集數碼寶貝卡</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="S" pid="000">
+  <name>輪迴達人！</name>
+  <detail>見證數碼蛋轉生20次</detail>
+ </trophy>
+ <trophy id="040" hidden="yes" ttype="S" pid="000">
+  <name>異界霸王！</name>
+  <detail>完成所有Extra迷宮</detail>
+ </trophy>
+ <trophy id="041" hidden="yes" ttype="S" pid="000">
+  <name>第4章過關！</name>
+  <detail>第4章過關</detail>
+ </trophy>
+ <trophy id="042" hidden="yes" ttype="G" pid="000">
+  <name>數碼寶貝博士！</name>
+  <detail>培育了所有數碼寶貝</detail>
+ </trophy>
+ <trophy id="043" hidden="yes" ttype="G" pid="000">
+  <name>最強馴獸師！</name>
+  <detail>馴獸師等級到達最高</detail>
+ </trophy>
+ <trophy id="044" hidden="yes" ttype="G" pid="000">
+  <name>復興的推手！</name>
+  <detail>城鎮繁榮度到達最高</detail>
+ </trophy>
+</trophyconf>

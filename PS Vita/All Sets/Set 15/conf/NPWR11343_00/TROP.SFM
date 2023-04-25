@@ -1,0 +1,108 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000222268e481d7a8294f5e7293c22e0a01b2d18fe36f79df09aab4fce3c0e02fef2691354f3d2b1b37fa3117ec2bbff3d0f232ea4e0b4074ad0615a65aaf712332c747c0b00692e5e607460e28c8215fd395f642d4e38ef8e4aed1be9359e22defdccef487e055b511c93fdd769813a3ae5363241c9598bcf4e5a53d713bf07844b0bdb1711a91e03068c7780640158cc71bd367f4-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR11343_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Starry☆Sky～Winter Stories～</title-name>
+ <title-detail>Starry☆Sky～Winter Stories～のトロフィーセットです</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>冬の星座を繋いで</name>
+  <detail>全てのトロフィーを獲得した</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>強引なキス</name>
+  <detail>in 不知火卒業エンドをクリアした</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>どんな時も</name>
+  <detail>in 青空卒業エンドをクリアした</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>愛しさと夢を抱えて</name>
+  <detail>in 天羽卒業エンドをクリアした</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>共に歩き出す</name>
+  <detail>After 不知火ノーマルエンドをクリアした</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>幸せになる魔法</name>
+  <detail>After 青空ノーマルエンドをクリアした</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>大きな夢へ、行ってきます</name>
+  <detail>After 天羽ノーマルエンドをクリアした</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>星月学園卒業証書</name>
+  <detail>全ての回想を開いた</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>星月学園卒業アルバム</name>
+  <detail>全てのスチルを開いた</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>素直が１番</name>
+  <detail>in 不知火ノーマルエンドをクリアした</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>君は僕のもの</name>
+  <detail>in 青空ノーマルエンドをクリアした</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>約束の薬指</name>
+  <detail>in 天羽ノーマルエンドをクリアした</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>秘密の大スクープ</name>
+  <detail>in 白銀ルートをひとつクリアした</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>絆を守るために</name>
+  <detail>After 不知火グッドエンドをクリアした</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>もっと知りたい</name>
+  <detail>After 青空グッドエンドをクリアした</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>星が導く二人の夢に</name>
+  <detail>After 天羽グッドエンドをクリアした</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>桜の下、描く未来。</name>
+  <detail>After 神楽坂グッドエンドをクリアした</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="S" pid="000">
+  <name>君に誓う</name>
+  <detail>After 白銀ルートをひとつクリアした</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="G" pid="000">
+  <name>未来よりも大切なもの</name>
+  <detail>in 不知火グッドエンドをクリアした</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="G" pid="000">
+  <name>夢の中で逢いましょう</name>
+  <detail>in 青空グッドエンドをクリアした</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="G" pid="000">
+  <name>無敵のふたり</name>
+  <detail>in 天羽グッドエンドをクリアした</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="G" pid="000">
+  <name>沢山の宝物</name>
+  <detail>After 不知火ベストエンドクリアした</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="G" pid="000">
+  <name>家族になるということ</name>
+  <detail>After 青空ベストエンドクリアした</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="G" pid="000">
+  <name>純白の誓いを</name>
+  <detail>After 天羽ベストエンドクリアした</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="G" pid="000">
+  <name>新しい明日へ</name>
+  <detail>After 神楽坂ベストエンドクリアした</detail>
+ </trophy>
+</trophyconf>

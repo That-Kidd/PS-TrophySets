@@ -1,0 +1,56 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000625d0d973123d3b7f077629198684cfdde723aba5f411c0dd163e7d5bad8e7e52b61ea0129a0f68ffef59dbf953812ad91a01c537bcbe1423d7a74060a1584c1a5da3b96e636d07ccb53ab0eda1aeeacf138174dbb157d603ddb513ebbbcf524d71ccc34041378ec29a9e30c5df0bfd486521a747ecaf7012d9d5a4315faab3d22b305bfe51fe59fe109e79cfde056336d50c2c9-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR09805_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Siralim</title-name>
+ <title-detail>Collection of trophies for Siralim.</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Minor Leagues</name>
+  <detail>Defeat the enemies contained in a Minor Sigil.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Major Leagues</name>
+  <detail>Defeat the enemies contained in a Major Sigil.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Sworn Duty</name>
+  <detail>Complete 20 Duties.</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="-1">
+  <name>Lucky Seven</name>
+  <detail>Beat a gambling dwarf with a roll of 7.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Enchanted to Meet You</name>
+  <detail>Enchant an artifact with a legendary crafting material.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>All-Powerful</name>
+  <detail>Complete a Power Spell ritual.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Master Mage</name>
+  <detail>Level up your character to 100.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Broken</name>
+  <detail>Level up a creature to 100.</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="-1">
+  <name>The Pandemonium King</name>
+  <detail>Defeat the Pandemonium King.</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="-1">
+  <name>The Treasure Golem</name>
+  <detail>Defeat a Treasure Golem.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="-1">
+  <name>Hot Streak</name>
+  <detail>Attain an arena win streak of 10 or higher.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="-1">
+  <name>Gotta Catch 'em... Nevermind</name>
+  <detail>Summon 300 unique creatures.</detail>
+ </trophy>
+</trophyconf>

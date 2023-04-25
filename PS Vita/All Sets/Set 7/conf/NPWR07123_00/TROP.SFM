@@ -1,0 +1,60 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000d6686e4ff2034c288119d1a70a2ec32a9661552072cf7ebc180814ff098cb2a89bd754e117b26128ec1ed050c63a214eddf3bdc9771bad2236ad0c6a2ea01e1716bade66d8e3f92ac14f2702c38d984f6ed19c1bbe2d46c909643cefe7a1ffad9201ad29a7bf6417ec7b590823d695a31e3ef1e7aaeae489f61c58815dfb9040b4d0be46f57d2834fa86d9a5037fcec4f2140923-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR07123_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Pocket RPG</title-name>
+ <title-detail>The records of your heroic deeds</title-detail>
+ <trophy id="000" hidden="no" ttype="G" pid="-1">
+  <name>Multitalented</name>
+  <detail>Complete the game with each hero class</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="-1">
+  <name>Blademaster Award</name>
+  <detail>Complete the game as a Blademaster</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="-1">
+  <name>Darkranger Award</name>
+  <detail>Complete the game as a Darkranger</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="-1">
+  <name>Battlemage Award</name>
+  <detail>Complete the game as a Battlemage</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Destructive Habits</name>
+  <detail>Break 90% of all the objects in a quest</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Gladiator</name>
+  <detail>Kill all the monsters in a quest</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Dragon Quencher</name>
+  <detail>Beat the fire dragon boss</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Overachiever</name>
+  <detail>Level up 10 times in a single map</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>15 Minutes Of Fame</name>
+  <detail>Complete a quest in less than 15 minutes</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>Explorer</name>
+  <detail>Find every secret in a map</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>Chaos God</name>
+  <detail>Killing spree of 50 enemies</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="-1">
+  <name>Treasure Hunter</name>
+  <detail>Find more than 50% of all the treasure on the map</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="-1">
+  <name>Stupid But Brave</name>
+  <detail>Complete a quest using only your base weapons</detail>
+ </trophy>
+</trophyconf>

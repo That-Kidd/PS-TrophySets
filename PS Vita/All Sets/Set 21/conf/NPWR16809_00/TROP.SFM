@@ -1,0 +1,188 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000176c2a9205bfd9327d6d9d9be158b1121b57202b505d675e3407a9427eb2946933b9931a482ceb98344227a9a9eb810cd3f7ae51dd8c2e235244b18801b261fc2ed68be8c57ca1e5eccde4439e06e94501f11f62f33aee4f42136d7f1e4b47ed1ae5aded31aa85fdebef4a1e42dffe94cc448c5580ba658b17fb05227b5163762b146f150b8c9b32449e471e1d0b898e868545cb-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR16809_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Scintillatron 4096</title-name>
+ <title-detail>Trophy set for Scintillatron 4096</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Scintillatron Platinum</name>
+  <detail>Obtain all trophies for Scintillatron 4096</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Combo 5</name>
+  <detail>Hit 5 of the same color particles in a row</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Combo 25</name>
+  <detail>Hit 25 of the same color particles in a row</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Combo 50</name>
+  <detail>Hit 50 of the same color particles in a row</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>Combo 100</name>
+  <detail>Hit 100 of the same color particles in a row</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>Perfect</name>
+  <detail>In one wave build a combo including every enemy</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>Perfect 5</name>
+  <detail>Achieve 5 perfect waves in one game</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>Perfect 10</name>
+  <detail>Achieve 10 perfect waves in one game</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>Perfect 20</name>
+  <detail>Achieve 20 perfect waves in one game</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>High Scorer</name>
+  <detail>Score above 10 million in a single game</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>Score Master</name>
+  <detail>Score above 75 million in a single game</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>Fast Clearance</name>
+  <detail>Complete a wave with more than 10 seconds remaining</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>Super Fast Clearance</name>
+  <detail>Clear a complete wave in 10 seconds or less</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>Sharp Shooter</name>
+  <detail>Complete a wave with every shot hitting an enemy</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>Enlightenment Complete</name>
+  <detail>Complete the 4 waves of "Enlightenment" and travel deeper</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>Mined Games Exit</name>
+  <detail>Complete the 4 waves of "Mined Games" and travel deeper</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Meditation Complete</name>
+  <detail>Complete the 4 waves of "Guru Meditation" and travel deeper</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Tunnel 4e75 Exit</name>
+  <detail>Complete the 4 waves of "Tunnel 4e75" and travel deeper</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>Direct Memories</name>
+  <detail>Complete the 4 waves of "Direct Memories" and travel deeper</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Near Light Traveller</name>
+  <detail>Complete the 4 waves of "Near Light" and travel deeper</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>End of End Times</name>
+  <detail>Complete the 4 waves of "End Times" and...</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>Wave 8 Purist</name>
+  <detail>Complete the first 8 waves without using a power up</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>Wave 12 Purist</name>
+  <detail>Complete the first 12 waves without using a power up</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>Wave 16 Purist</name>
+  <detail>Complete the first 16 waves without using a power up</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>Stoical</name>
+  <detail>Survive at least 60 seconds with the Hurry Up</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="S" pid="000">
+  <name>Hyper Stoical</name>
+  <detail>Survive at least 140 seconds with the Hurry Up</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>Heavy Gunner</name>
+  <detail>Hit at least 3 enemies with a single shot</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>Super Heavy Gunner</name>
+  <detail>Hit at least 6 enemies with a single shot</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>Ultra Heavy Gunner</name>
+  <detail>Hit at least 12 enemies with a single shot</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>Mad Skillz</name>
+  <detail>Complete a wave being both "perfect" and "fast"</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="S" pid="000">
+  <name>Super Leet</name>
+  <detail>Complete a wave being "perfect", "fast" and a "sharpshooter"</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>Mined Out</name>
+  <detail>Trigger a mine by colliding with it</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>Mine Chain 2</name>
+  <detail>Trigger a chain reaction of at least 2 mines (excluding Last Waves)</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>Mine Chain 4</name>
+  <detail>Trigger a chain reaction of at least 4 mines (excluding Last Waves)</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="S" pid="000">
+  <name>Mine Chain 10</name>
+  <detail>Trigger a chain reaction of at least 10 mines (excluding Last Waves)</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="S" pid="000">
+  <name>Bug Stomper</name>
+  <detail>Take out an entire Particlepede with a single shot</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>Fair Copper</name>
+  <detail>Destroy a Fat Agnus with consecutive shots</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="S" pid="000">
+  <name>Pew Pew</name>
+  <detail>Power up to maximum fire rate (excluding the "Max Fire" power up)</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>Perfectly Enlightened</name>
+  <detail>Complete the Last Wave of Enlightenment with perfect performance</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="000">
+  <name>Perfect Games</name>
+  <detail>Complete the Last Wave of Mined Games with perfect performance</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="B" pid="000">
+  <name>Perfect Meditation</name>
+  <detail>Complete the Last Wave of Mined Games with perfect performance</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="B" pid="000">
+  <name>Tunnel Perfection</name>
+  <detail>Complete the Last Wave of Tunnel 4e75 with perfect performance</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="B" pid="000">
+  <name>Perfect Memories</name>
+  <detail>Complete the Last Wave of Direct Memories with perfect performance</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="S" pid="000">
+  <name>Perfect Light</name>
+  <detail>Complete the Last Wave of Near Light with perfect performance</detail>
+ </trophy>
+ <trophy id="044" hidden="no" ttype="G" pid="000">
+  <name>A Perfect End</name>
+  <detail>Complete the Last Wave of End Times with perfect performance</detail>
+ </trophy>
+</trophyconf>

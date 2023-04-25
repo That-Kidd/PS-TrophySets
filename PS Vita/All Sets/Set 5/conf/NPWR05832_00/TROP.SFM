@@ -1,0 +1,192 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000418d8414466aa426e51d7d38c0404634e1b4f4230c179469aabc533faab7c80dd6f4ffad37969255147f6b8ecb26fdb9557c44bf522d4c9e84206184781ef6ad837d103dd7bf41187d1618517eca8a969b1b68f9ad7f60da499c1afc5961bc8f7f651c3e7744a630d179fa1a31dc8a62d3bf26878a70f2b8d0ff858e4d38959185569e63bc1361cc03032d37ce3f4af670118c03-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR05832_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>AKIBA'S TRIP 2 獎盃組</title-name>
+ <title-detail>此為AKIBA'S TRIP 2 的獎盃組。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>秋葉原之神降臨！</name>
+  <detail>獲得所有獎盃。</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>太過狂熱的粉絲</name>
+  <detail>撞見Ｒｉｎ的突擊現場演唱會。</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>多虧了你，我才能獲勝……</name>
+  <detail>和雫與守望隊的成員們合力戰勝了禪夜。</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>和戒斗共鬥！？</name>
+  <detail>針對遭到追殺的Ｒｉｎ和大師本製藥的謎團進行了推理。</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>與禪夜決戰</name>
+  <detail>在鬥技場擊敗禪夜，恢復了普通阿宅的身份。</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="S" pid="000">
+  <name>……我的太陽……</name>
+  <detail>觀看過雫路線的真結局。</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="000">
+  <name>只屬於你的偶像！</name>
+  <detail>觀看過霖路線的真結局。</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>用溫情聯繫彼此</name>
+  <detail>觀看過登子路線的真結局。</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>前往「下一座舞台」！</name>
+  <detail>觀看過志遠路線的真結局。</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>只屬於我的葛格</name>
+  <detail>觀看過妹妹的結局。</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="G" pid="000">
+  <name>閉幕通知</name>
+  <detail>觀看過所有的結局。</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>跑完全程紀念</name>
+  <detail>完成遊戲。</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>遊戲玩家</name>
+  <detail>以「核心玩家」難易度完成遊戲。</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="G" pid="000">
+  <name>阿宅玩家</name>
+  <detail>以「阿宅」難易度完成遊戲。</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>脫衣初學者</name>
+  <detail>脫下了50件衣物。</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>脫衣專家</name>
+  <detail>脫下了300件衣物。</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>反回收戰士</name>
+  <detail>撕破了300件衣物。</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>內衣掃除者</name>
+  <detail>蒐集了100件內衣。</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>接我這招吧！</name>
+  <detail>反擊擊中目標100次。</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>攻防逆轉</name>
+  <detail>施展過30次反擊脫衣。</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>在光的彼端！</name>
+  <detail>施展過20次脫衣終結技。</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>天上天下無所不脫</name>
+  <detail>達成12連脫。</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>看我揍扁你</name>
+  <detail>連續攻擊超過50 CHAIN。</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>在你！脫光之前！我不會！停手的！</name>
+  <detail>連續攻擊超過200 CHAIN。</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="000">
+  <name>你真受歡迎呢</name>
+  <detail>和6名搭檔進行過合力脫衣。</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="B" pid="000">
+  <name>覺醒</name>
+  <detail>變得可裝備男裝／女裝。</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>換個不停</name>
+  <detail>替身上所有部位更換過衣物。</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>小跳步購物</name>
+  <detail>在所有店家買過東西。</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="S" pid="000">
+  <name>脫衣的霸王</name>
+  <detail>完成鬥技場的S級挑戰。</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>見習守望隊員</name>
+  <detail>完成10種支線任務。</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>資深守望隊員</name>
+  <detail>完成30種支線任務。</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>武器愛好者</name>
+  <detail>蒐集了25種武器。</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>武器權威</name>
+  <detail>蒐集了50種武器。</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>頭戴物高手</name>
+  <detail>蒐集了25種頭部裝備。</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>穿搭初學者</name>
+  <detail>蒐集了25種上半身服裝。</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>穿搭達人</name>
+  <detail>蒐集了75種上半身服裝。</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>時尚初學者</name>
+  <detail>蒐集了25種下半身服裝。</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>時尚達人</name>
+  <detail>蒐集了75種下半身服裝。</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>愛鞋成痴</name>
+  <detail>蒐集了25種鞋子。</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="000">
+  <name>興趣：蒐集內衣</name>
+  <detail>蒐集了25種內衣。</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="B" pid="000">
+  <name>飾品收藏家</name>
+  <detail>蒐集了25種飾品。</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="B" pid="000">
+  <name>跟秋葉原有關的問我就對了！</name>
+  <detail>蒐集了100張傳單。</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="B" pid="000">
+  <name>幻想御手</name>
+  <detail>等級達到30級。</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="B" pid="000">
+  <name>死要錢</name>
+  <detail>持有金額達到1,000,000圓。</detail>
+ </trophy>
+ <trophy id="044" hidden="yes" ttype="B" pid="000">
+  <name>首次請妹妹合成</name>
+  <detail>進行過武器或服裝的合成。</detail>
+ </trophy>
+ <trophy id="045" hidden="yes" ttype="G" pid="000">
+  <name>和妹妹一起創造究極服裝</name>
+  <detail>令武器或服裝的能力值達到999。</detail>
+ </trophy>
+</trophyconf>

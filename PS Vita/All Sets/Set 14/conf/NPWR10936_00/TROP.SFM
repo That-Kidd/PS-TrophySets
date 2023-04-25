@@ -1,0 +1,64 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000008459100f01fedd90ad374b3516649fc63da7b7aa9b4d8c2fbac869e323d60c225f902f73b3734872d400654f030ddd0e320f4546c2ff1a25c865c288c39da75c781b8cf8d1f61f7e83f7bb8c88f55e5af4479f6fd5c91a69587ed7d7d6179f906b63197253519b5248c31b36509c5376bcfdbdd962e88d0ead07e41c30141580980d03664127cc741235db8937122b6d5d89a5bf-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR10936_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Neon Chrome</title-name>
+ <title-detail>Neon Chrome</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Pacifist</name>
+  <detail>Finish a normal level without using abilities, weapons or melee.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Runner</name>
+  <detail>Finish a normal level in under 20 seconds.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="-1">
+  <name>Sneaky</name>
+  <detail>Finish a normal level without being seen.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Grit</name>
+  <detail>Play 20 levels without dying.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Spiderbot</name>
+  <detail>Defeat the spiderbot.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Centipede</name>
+  <detail>Defeat the centipede.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Hovertank</name>
+  <detail>Defeat the hovertank.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Hard Work</name>
+  <detail>Kill 1000 enemies.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Explosive</name>
+  <detail>Kill 8 enemies with a single explosion.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>You've just been erased</name>
+  <detail>Kill 3 enemies with a single railgun bullet.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="-1">
+  <name>Overseer</name>
+  <detail>Stop the Overseer 1.0.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="-1">
+  <name>You're special</name>
+  <detail>Complete all special levels.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="-1">
+  <name>Stat Master</name>
+  <detail>Upgrade a stat to level 100.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="-1">
+  <name>Unlocker</name>
+  <detail>Unlock all unlockables.</detail>
+ </trophy>
+</trophyconf>

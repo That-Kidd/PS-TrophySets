@@ -1,0 +1,176 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000004c722d24d563ad65096b3d3115fb2a492455e0c81ae48bde55cd381c8581af5b2ccf0af3aece5ad578094e30b608a583b772bf2e4305f0be114198c4a5268e6c30e3e4476c3e7ee933b2f00940e42d9e867b7e88e0799366079ef57c930b5a98e766864f25a937d2e814a06bbebafd9d9f169e7674a19726f1f750aa5262c5911d28c1e07e55d02bd40fc265ad860b9e69ead30c-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR08154_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>One Tap Hero</title-name>
+ <title-detail>One Tap Hero trophies.</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>One Tap Hero Master!</name>
+  <detail>You are the master of One Tap Hero!</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Apprentice</name>
+  <detail>Total score is more than 15000.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Novice</name>
+  <detail>Total score is more than 30000.&#x0a;</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Amature</name>
+  <detail>Total score is more than 50000.&#x0a;&#x0a;</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>Pro</name>
+  <detail>Total score is more than 75000.&#x0a;</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>Expert</name>
+  <detail>Total score is more than 105000.&#x0a;</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>Wizard</name>
+  <detail>Total score is more than 145000.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>Deposit</name>
+  <detail>Collect 2000 coins.&#x0a;&#x0a;</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>First Step</name>
+  <detail>Pass all levels in world 1.&#x0a;</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>Community Guardian</name>
+  <detail>Perfect all levels in world 1.&#x0a;</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>Part Time Explorer</name>
+  <detail>Perfect all extra levels in world 1.&#x0a;</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>Tourist of the flying castle</name>
+  <detail>Pass all levels in world 2.&#x0a;</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>Ruler of the sky</name>
+  <detail>Perfect all levels in world 2.&#x0a;</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>Air Rex</name>
+  <detail>Perfect all extra levels in world 2.&#x0a;</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>Wild Safari</name>
+  <detail>Passed all levels in world 3.&#x0a;&#x0a;</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="G" pid="000">
+  <name>Indiana Who?</name>
+  <detail>Perfect all levels in world 3.&#x0a;</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Lost In Red</name>
+  <detail>Perfect all extra levels in world 3.&#x0a;</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Little Red Riding Hood</name>
+  <detail>Pass all levels in world 4.&#x0a;</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="G" pid="000">
+  <name>Real Grandma</name>
+  <detail>Perfect all levels in world 4.&#x0a;</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Shadow Master</name>
+  <detail>Perfect all extra levels in world 4.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>Gong Hey Fat Choy</name>
+  <detail>Pass all levels in world 5.&#x0a;</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>Give me red pockets</name>
+  <detail>Perfect all levels in world 5.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>I'm Rich</name>
+  <detail>Get the super rich suit&#x0a;</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>Archaeologist</name>
+  <detail>Get a key.&#x0a;&#x0a;&#x0a;</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>No Longer Naked</name>
+  <detail>Equip your suit at first time.&#x0a;</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>Shopaholic</name>
+  <detail>Get all suits.&#x0a;</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>I Love Coconut Island</name>
+  <detail>See credits from start to the end.&#x0a;</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>First Blood</name>
+  <detail>The first death of Red Apple.&#x0a;&#x0a;</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>T-800</name>
+  <detail>Kill 5 enemies in a short time.&#x0a;</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>You've Got Red On You</name>
+  <detail>Get Killed by Red Apple.&#x0a;</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>1000 Ways To Die</name>
+  <detail>Die 1000 times.&#x0a;</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>Never Give Up</name>
+  <detail>Die 50 times in a level.&#x0a;</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>Camper</name>
+  <detail>Keep relatively still for more than 1 minute.&#x0a;</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>Rolling Stone</name>
+  <detail>Push a rolling stone more than 4s.&#x0a;</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>Spring Festival</name>
+  <detail>Continuously jump onto a spring more than 10 times.&#x0a;</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>Sticks At Funeral</name>
+  <detail>Death by Hammer more than 100 times.&#x0a;</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>One Tap Hero</name>
+  <detail>Clear a level with one tap and 3 stars.&#x0a;</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>The Tourist</name>
+  <detail>Stand on a moving platform more than 1 minute.&#x0a;</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>Time For Bed</name>
+  <detail>Play for more than 2 hours in a single session.&#x0a;</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="000">
+  <name>What Time Is It Now?</name>
+  <detail>Play more than 1 hour total.&#x0a;</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="B" pid="000">
+  <name>Deep Involvement</name>
+  <detail>Play more than 3 hours total.&#x0a;</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="B" pid="000">
+  <name>Dazer</name>
+  <detail>Make level 1-25 rotate more than 48 round.</detail>
+ </trophy>
+</trophyconf>

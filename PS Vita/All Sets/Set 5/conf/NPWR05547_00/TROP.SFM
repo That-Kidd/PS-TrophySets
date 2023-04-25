@@ -1,0 +1,152 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000000bcff999d920ea7f24e07d8e81d51570e5168b05a7b0ab24dad26c885608d1be6090a9eead3701b93860b3d1caef5d0ece3cd0ed10c67184324bb86dcf041f2c628737f6c1678bb27e84d4d963dde1747724ec3e0bc64fcfb6b8386efc34c84de81fc04e534ff42adcce6450efc00c141b1aca4b9ea94e9af767ba5f05f39ede0ff34d2431c8945a77f10dac587022c39f0aa0e8-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR05547_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>MIND≒0</title-name>
+ <title-detail>MIND≒0 Trophy</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Omniscience</name>
+  <detail>For the minder who knows everything.</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="S" pid="000">
+  <name>The City Comes Alive</name>
+  <detail>Complete Phase 1.</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="S" pid="000">
+  <name>Below and Behind</name>
+  <detail>Complete Phase 2.</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="S" pid="000">
+  <name>A Rising Tide</name>
+  <detail>Complete Phase 3.</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="S" pid="000">
+  <name>Doubt Blooms</name>
+  <detail>Complete Phase 4.</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="S" pid="000">
+  <name>Wind at Your Back</name>
+  <detail>Complete Phase 5.</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="000">
+  <name>With These Two Hands</name>
+  <detail>Complete Phase 6.</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>An Evening Visit</name>
+  <detail>Complete Phase 7.</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>Parting and Reunion</name>
+  <detail>Complete Phase 8.</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>Creeping Madness</name>
+  <detail>Complete Phase 9.</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>When The Walls Fell</name>
+  <detail>Complete Phase 10.</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>Live By The Sword...</name>
+  <detail>Complete Phase 11.</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>Castles of Sand</name>
+  <detail>Complete Phase 12.</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="G" pid="000">
+  <name>Only Human</name>
+  <detail>Complete all story content.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="000">
+  <name>Courage In Adversity</name>
+  <detail>Finish game on EXPERT.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>Always Be Bursting</name>
+  <detail>Activate Burst Mode 10 times.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>With One Stone</name>
+  <detail>Collect 10 Big Sluggers.</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>Snicker-Snack</name>
+  <detail>Kill enemy at &gt;50% LP with one blow.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>Untouchable</name>
+  <detail>Finish 100 battles without getting hit.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Be Quick or be Dead</name>
+  <detail>Get a Quick Battle 50 times.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>Make Your Own Luck</name>
+  <detail>Get 25 bonuses for defeating enemies.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>A Guarded Mind</name>
+  <detail>Activate your MIND Guard 10 times.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>Battlefield Training</name>
+  <detail>Get in 100 fights.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>Matter Over MIND</name>
+  <detail>Defeat 1000 enemies.</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="S" pid="000">
+  <name>The Spice of Life</name>
+  <detail>Defeat several different enemies.</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>Well-Adjusted</name>
+  <detail>Collect some skill cards.</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>Well-Protected</name>
+  <detail>Collect all armor.</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>Well-Decorated</name>
+  <detail>Collect all accessories.</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="G" pid="000">
+  <name>Inner Travelogue</name>
+  <detail>Explore every level of every dungeon.</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>Part-Time</name>
+  <detail>Complete 10 requests.</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="G" pid="000">
+  <name>Full-Time</name>
+  <detail>Complete all requests.</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>Not A Secret Shopper</name>
+  <detail>Spend 100,000 yen shopping.</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>I'm In Sales</name>
+  <detail>Get 100,000 yen selling.</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="B" pid="000">
+  <name>I Just Found It</name>
+  <detail>Open 100 treasure chests.</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="B" pid="000">
+  <name>Stoic Commander</name>
+  <detail>Get Kei to level 30.</detail>
+ </trophy>
+ <trophy id="035" hidden="yes" ttype="S" pid="000">
+  <name>Legendary General</name>
+  <detail>Get Kei to level 99.</detail>
+ </trophy>
+</trophyconf>

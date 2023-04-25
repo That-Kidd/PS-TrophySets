@@ -1,0 +1,68 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000052d9481b1364acf1cbc8a6ec1b8d7675f18f56f563cdae2d59c80777181ed47f78ae5b2fad371a571a0fe619f2e9d34eb5a06d0b849b360178cbb43441454f4bbb77a17ee45a5c66d8a9d6679ed5919079bc00557d88856caeaddf8fe5b7a82ddc4936d3abaeea70587912b7465ae1188d1650f9b11ec4298b2ed38cefcb072fb1e159f8fc86b17bdc9f0be86e7d16dcf753eb80-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR07980_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>MotoGP™14 Compact</title-name>
+ <title-detail>Trophy set for MotoGP™14 Compact</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Two-Wheel Flamenco</name>
+  <detail>Complete a race at Jerez in any game mode</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>24 hours is too long</name>
+  <detail>Complete a race at Le Mans in any game mode</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Two wheels are enough</name>
+  <detail>Complete a race in Catalunya in any game mode</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Short but Intense</name>
+  <detail>Complete a race at Sachsenring in any game mode</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>In the Brno woods</name>
+  <detail>Complete a race at Brno in any game mode</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Race at five o'clock sharp</name>
+  <detail>Complete a race at Silverstone in any game mode</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Speed Tiger</name>
+  <detail>Complete a race at Sepang in any game mode</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>The Lord of the Two Rings</name>
+  <detail>Complete a race at Motegi in any game mode</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Racing Model</name>
+  <detail>Complete a race at Mugello in any game mode</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>The New World</name>
+  <detail>Complete a race at Termas de Río Hondo in any game mode</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>Tick tock tick tock...</name>
+  <detail>Set a time on any track in Time Attack mode</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="-1">
+  <name>The personal touch</name>
+  <detail>Modify the bike settings via Engineer in the pit menu.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="-1">
+  <name>Varooom!</name>
+  <detail>Reach 300 km/h and maintain speed for 2 seconds in any game mode</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="-1">
+  <name>Hello World!</name>
+  <detail>Complete your first online race</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="-1">
+  <name>Make no mistake...</name>
+  <detail>Win a race with tire wear active and damage active, in any game mode</detail>
+ </trophy>
+</trophyconf>

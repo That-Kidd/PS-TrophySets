@@ -1,0 +1,56 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000ff1ef75da8b1d1717dd6d73b6fdc2da3363ee1c87e1ead65a2356f5b654502ee78181a4d2c167b9c60a98191461ed05857bb56c1ca58c4e8912635bf07da806fa4c39602dee0063edd03fef318c5f651f7f7b566d95986a90bdaaa96358b2919533c406abeb6e7a54cad1bfa42c03d57ef24e4a9bdffe122d49b5578fa0f234926bd747949e3bd4f9f614891d1c60dcc5f00a93c-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR06520_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Alien Shooter</title-name>
+ <title-detail>Trophy set for Alien Shooter</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Claws up!</name>
+  <detail>Complete a level without taking damage</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Cyberpunk</name>
+  <detail>Buy all character improvements, drone and night vision goggles</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>To the Teeth</name>
+  <detail>Use all forms of weaponry</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Two of Every Beast</name>
+  <detail>Kill at least one monster of every type</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Found you!</name>
+  <detail>Find the secret area</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Tactician</name>
+  <detail>Survive 5 minutes in Survival mode</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Survivor</name>
+  <detail>Complete the first episode on any difficulty</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="-1">
+  <name>Wicked Shot</name>
+  <detail>Complete the first episode on maximum difficulty</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="-1">
+  <name>Brutality</name>
+  <detail>Kill 1,000,000 monsters</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="-1">
+  <name>Favorite Pair</name>
+  <detail>Survive 5 minutes in Survival mode using pistols only</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="-1">
+  <name>Expert Tactician</name>
+  <detail>Survive 15 minutes in Survival mode</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="-1">
+  <name>Sole Survivor</name>
+  <detail>Complete the first episode without dying once</detail>
+ </trophy>
+</trophyconf>

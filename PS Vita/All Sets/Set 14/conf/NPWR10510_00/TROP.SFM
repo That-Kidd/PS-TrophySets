@@ -1,0 +1,112 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000005253f00cab9a7135cde96246623321eaa10fd2f1aa21e9ff158872b1e98299ef376e0f008c6b0db9fb78e69e7b968a859240d70ce66977fc84b41cf1658d2e7810bf7efcbe6593fc918279a65e5e43ce59ff792700dab09cff1ee3999d6fd5b281f52bdebd9f10e91909a2daf6de5cf628dadd54e995a33ef916510ee3b0198d4ba6c79bc229cec7e7e50489e6b31dea0fee24fc-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR10510_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>百花百狼～戦国忍法帖～</title-name>
+ <title-detail>百花百狼～戦国忍法帖～のトロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>任務達成</name>
+  <detail>トロフィーをコンプリートした</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>CG　コンプリート</name>
+  <detail>全てのCGを見た</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>エンディング　コンプリート</name>
+  <detail>全てのエンディングを見た</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>回想録　コンプリート</name>
+  <detail>回想録をコンプリートした</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>ムービー　コンプリート</name>
+  <detail>全てのムービーを見た</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="S" pid="000">
+  <name>月下丸との思い出</name>
+  <detail>月下丸の画像を全て解放した</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="000">
+  <name>黒雪との思い出</name>
+  <detail>黒雪の画像を全て解放した</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>蝶治郎との思い出</name>
+  <detail>蝶治郎の画像を全て解放した</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>半蔵との思い出</name>
+  <detail>半蔵の画像を全て解放した</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>五右衛門との思い出</name>
+  <detail>五右衛門の画像を全て解放した</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>里の思い出</name>
+  <detail>その他の画像を全て解放した</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>月下丸との物語り</name>
+  <detail>月下丸ルートを解放した</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>黒雪との物語り</name>
+  <detail>黒雪ルートを解放した</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>蝶治郎との物語り</name>
+  <detail>蝶治郎ルートを解放した</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>半蔵との物語り</name>
+  <detail>半蔵ルートを解放した</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="S" pid="000">
+  <name>五右衛門との物語り</name>
+  <detail>五右衛門ルートを解放した</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="S" pid="000">
+  <name>穏やかな日々</name>
+  <detail>月下丸のハッピーエンドをクリアした</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="S" pid="000">
+  <name>果たせなかった約束</name>
+  <detail>月下丸のバッドエンドをクリアした</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="S" pid="000">
+  <name>片時も離れずに</name>
+  <detail>黒雪のハッピーエンドをクリアした</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="S" pid="000">
+  <name>二人の帰る場所</name>
+  <detail>黒雪のバッドエンドをクリアした</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="S" pid="000">
+  <name>二つの想い</name>
+  <detail>蝶治郎のハッピーエンドをクリアした</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="S" pid="000">
+  <name>紅い花びら</name>
+  <detail>蝶治郎のバッドエンドをクリアした</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="S" pid="000">
+  <name>半蔵様とわたしの家</name>
+  <detail>半蔵のハッピーエンドをクリアした</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="S" pid="000">
+  <name>忍びとしての選択</name>
+  <detail>半蔵のバッドエンドをクリアした</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="S" pid="000">
+  <name>本当の夫婦に</name>
+  <detail>五右衛門のハッピーエンドをクリアした</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="S" pid="000">
+  <name>悪夢</name>
+  <detail>五右衛門のバッドエンドをクリアした</detail>
+ </trophy>
+</trophyconf>

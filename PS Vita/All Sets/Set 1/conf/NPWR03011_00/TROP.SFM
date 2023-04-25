@@ -1,0 +1,128 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000f82919c4bebb6399f88d540de72003fd9c5249d95abfc8adad9769696d89a577dbae23595201bb55aee684612085264e78ff328bf404bc160d94cbd8382143209e554c9b297957c5c669092264aa8c935abdde9118521f4ec22a4f1ec60f1693c0b087950a6dd2cec12cf7e3ff4c4ba78cbcc5cb5a50633462e9ebac2a04a1528bef2f93cdaaf8e712253586241c804c453b8fca-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR03011_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Putty Squad</title-name>
+ <title-detail>Trofeos de Putty Squad</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>HÉROE</name>
+  <detail>Completa todos los trofeos y derrota a Scatterflash para coronarte Rey Putty.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>RECORDATORIO TOAD</name>
+  <detail>Recoge un objeto 'N' y utiliza una bomba Nitro como Putty o desde un POD para destruir a un enemigo Toad.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>DESTRIPADOR DE COHETES</name>
+  <detail>Absorbe un Firework Imp y úsalo como objeto para matar a un enemigo con su cohete.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>¡PODER PUTTY!</name>
+  <detail>Recoge Estrellas para mejorar la potencia de ataque de Putty. Consigue y usa todas sus mejoras.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>CINCUENTA EN LA CUENTA</name>
+  <detail>Recoge las Estrellas que se esconden en cada nivel hasta que el Medidor de estrellas marque 50.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>ATRAPA ESTRELLAS</name>
+  <detail>Recoge las Estrellas que se esconden en cada nivel hasta que el Medidor de estrellas marque 200.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>TRIPA DE GELATINA</name>
+  <detail>Derriba al gato Dweezil y rebota sobre su tripa para saltar más alto.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>DEPREDADOR DE NOMBRES</name>
+  <detail>Desentierra y mata a todos los GI Pups del nivel.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>ALTOS VUELOS</name>
+  <detail>Consigue un objeto 'P' y usa el POD para recoger una Estrella.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>ASALTADOR DE TUMBAS</name>
+  <detail>Salva a todos los Putties rojos y usa la salida del nivel 1.1 : Tomb Of King Phut en 1:10 o menos.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>MENUDA PITA</name>
+  <detail>Salva a todos los Putties rojos y usa la salida del nivel 2.1 : Bizarre Bazaar en 1:15 o menos.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>AULLIDO DEL TIEMPO</name>
+  <detail>Salva a todos los Putties rojos y usa la salida del nivel 2.2 : The Wailing Tower en 1:30 o menos.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>¡NO TE DETENGAS!</name>
+  <detail>Salva a todos los Putties rojos y usa la salida del nivel 3.2 : Fortress Of Klud en 1:30 o menos.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>¡HACIA ARRIBA!</name>
+  <detail>Salva a todos los Putties rojos y usa la salida del nivel 1.5 : Watchtower Of Squirt en 1:45 o menos.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>COMIDA RÁPIDA</name>
+  <detail>Salva a todos los Putties rojos y usa la salida del nivel 4.4 : Dr Sushi's Dinner Of Fear en 1:52 o menos.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>¡DIVERSIÓN INCREÍBLE!</name>
+  <detail>Salva a todos los Putties rojos y usa la salida del nivel 5.2 : Fun Land en 1:15 o menos.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>PROBLEMA DE MANDO</name>
+  <detail>Salva a todos los Putties rojos y usa la salida del nivel 7.9 : Major Smith's Escape Tunnel en 2:15 o menos.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>HACIA ARRIBA Y MÁS ALLÁ</name>
+  <detail>Salva a todos los Putties rojos y usa la salida del nivel 6.1 : Gateway To The North en 1:15 o menos.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>OSCURA FLOTACIÓN</name>
+  <detail>Recoge todas las Estrellas y completa el nivel 9.3 : Night Flight en 0:40 o menos.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>TRIPLE REVÉS</name>
+  <detail>Salta sobre la cabeza de un GI Pup y golpea el casco para derribar al menos a tres enemigos seguidos.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>¡PÉGALAS 1 !</name>
+  <detail>Colecciona todas las pegatinas de la página del libro de pegatinas : Phantom Pharoahs of Phut</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>¡PÉGALAS 2 !</name>
+  <detail>Colecciona todas las pegatinas de la página del libro de pegatinas : Secret Souks of Swat</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>¡PÉGALAS 3 !</name>
+  <detail>Colecciona todas las pegatinas de la página del libro de pegatinas : Karmic Kingdoms of Klud</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>¡PÉGALAS 4 !</name>
+  <detail>Colecciona todas las pegatinas de la página del libro de pegatinas : Septic Swamps of Sushi</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>¡PÉGALAS 5 !</name>
+  <detail>Colecciona todas las pegatinas de la página del libro de pegatinas : House of Happy Horrors</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="G" pid="000">
+  <name>¡PÉGALAS 6 !</name>
+  <detail>Colecciona todas las pegatinas de la página del libro de pegatinas : Foggy Fortresses of Fear</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="G" pid="000">
+  <name>¡PÉGALAS 7 !</name>
+  <detail>Colecciona todas las pegatinas de la página del libro de pegatinas : Lost Lanes of London</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="G" pid="000">
+  <name>¡PÉGALAS 8 !</name>
+  <detail>Colecciona todas las pegatinas de la página del libro de pegatinas : Wicked Wizards Wastelands</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="G" pid="000">
+  <name>¡PÉGALAS 9 !</name>
+  <detail>Colecciona todas las pegatinas de la página del libro de pegatinas : Deadly Dimensions of Dread</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="G" pid="000">
+  <name>¡PÉGALAS 10 !</name>
+  <detail>Colecciona todas las pegatinas de la página del libro de pegatinas : Putty Planet Advisor</detail>
+ </trophy>
+</trophyconf>

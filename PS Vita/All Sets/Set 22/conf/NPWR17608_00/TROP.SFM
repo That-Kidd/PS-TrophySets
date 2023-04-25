@@ -1,0 +1,108 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000081f08d365b63bed5845e2ed2a682dbf65dac91a9035b521d149429f0335ebf93c5f6691e85c7c7b6eb7e4235d19a00d8e196499482ec1aa9eb58275fe4f826dfee0959c25f288ec1c8765f4ab2b406ed057a417cc71e666c6b2cd85c0f1652973636c372e2d43a52cce2a2706a0eb49d1a9e6a5081bd49337acef10025f5d47053cab9754badf40e130f60900f8533d79e334093-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR17608_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>ピースお絵かきパズル Pic-a-Pix</title-name>
+ <title-detail>「ピースお絵かきパズル Pic-a-Pix」のトロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>メダルコンプリート</name>
+  <detail>全てのトロフィーを獲得します。</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>航海</name>
+  <detail>1個目のパズルをクリアし、絵を表示します。</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>働き者</name>
+  <detail>2個目のパズルをクリアし、絵を表示します。</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>サンセットビーチ</name>
+  <detail>3個目のパズルをクリアし、絵を表示します。</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>猛突進</name>
+  <detail>4個目のパズルをクリアし、絵を表示します。</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>ナビゲーション</name>
+  <detail>5個目のパズルをクリアし、絵を表示します。</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>水槽</name>
+  <detail>6個目のパズルをクリアし、絵を表示します。</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>タッチダウン</name>
+  <detail>7個目のパズルをクリアし、絵を表示します。</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>サバンナ</name>
+  <detail>8個目のパズルをクリアし、絵を表示します。</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>果実</name>
+  <detail>9個目のパズルをクリアし、絵を表示します。</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>鳥の女王</name>
+  <detail>10個目のパズルをクリアし、絵を表示します。</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>朝のさえずり</name>
+  <detail>11個目のパズルをクリアし、絵を表示します。</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>アート</name>
+  <detail>12個目のパズルをクリアし、絵を表示します。</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>ただいま</name>
+  <detail>13個目のパズルをクリアし、絵を表示します。</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>インド</name>
+  <detail>14個目のパズルをクリアし、絵を表示します。</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>ラリー</name>
+  <detail>15個目のパズルをクリアし、絵を表示します。</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="G" pid="000">
+  <name>爽快</name>
+  <detail>16個目のパズルをクリアし、絵を表示します。</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="G" pid="000">
+  <name>立派な角</name>
+  <detail>17個目のパズルをクリアし、絵を表示します。</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="G" pid="000">
+  <name>ライオン</name>
+  <detail>18個目のパズルをクリアし、絵を表示します。</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="G" pid="000">
+  <name>自撮り</name>
+  <detail>19個目のパズルをクリアし、絵を表示します。</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="G" pid="000">
+  <name>シマシマ</name>
+  <detail>20個目のパズルをクリアし、絵を表示します。</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>スマート</name>
+  <detail>10x10ピースをクリアし、メダルを獲得します。</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>スマーター</name>
+  <detail>15x15ピースをクリアし、メダルを獲得します。</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>スマーティスト</name>
+  <detail>20x20ピースをクリアし、メダルを獲得します。</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="G" pid="000">
+  <name>メダルコレクター</name>
+  <detail>１つのパズルで、全てのメダルを獲得します。</detail>
+ </trophy>
+</trophyconf>

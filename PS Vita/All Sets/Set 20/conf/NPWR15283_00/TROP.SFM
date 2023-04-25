@@ -1,0 +1,64 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000e94ae2deecbe75cd32713fb35ea01596a5d4e65d66fbb987c84882e0b9d7bc1b1b0b9f793b8f512b8ca626b9ed6fc76bd176abc70eb277bb7c751b3571f3038e07f4e461433b2138118b02b26c4cd115ecc10016215f97aeede860c70fcc033c3767c3b96bb563fb8a88b162356148b9184ad7f2bd10467e7cd9b9df97f6fa403dc3941069d41473c48a278b19709393a34e6bba-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR15283_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>InkSplosion</title-name>
+ <title-detail>InkSplosion</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Platinum-explosion</name>
+  <detail>Complete all the trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="000">
+  <name>Getting Started</name>
+  <detail>Kill your first enemy</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>Overpowered</name>
+  <detail>Die for the first time</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>Leveling up</name>
+  <detail>Reach level 5 in Classic Mode</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>Getting better</name>
+  <detail>Reach level 10 in Classic Mode</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>Little by little</name>
+  <detail>Reach 25,000 points in Classic Mode</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>Go get them</name>
+  <detail>Reach 50,000 points in Classic Mode</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>Show them who's boss</name>
+  <detail>Reach 75,000 points in Classic Mode</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>Unlock the Arena Mode</name>
+  <detail>Reach 100,000 points in Classic Mode</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>Kill or get killed</name>
+  <detail>Kill 25 enemies in Arena Mode</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>Getting used</name>
+  <detail>Kill 50 enemies in Arena Mode</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>Without any mercy</name>
+  <detail>Kill 75 enemies in Arena Mode</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>Kill them all</name>
+  <detail>Kill 100 enemies in Arena Mode</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="000">
+  <name>Brave</name>
+  <detail>Kill your first enemy in hard mode</detail>
+ </trophy>
+</trophyconf>

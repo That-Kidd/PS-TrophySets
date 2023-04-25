@@ -1,0 +1,108 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000ea3d24ea89ae60f7bf0bedb53ce19e027d7de1785bde6890439787af34d60699713b7a9fc3961a2db9b69495a58f769db7ffd0ae1f12ebd712cb833ce9ab18cba41ee555534dbe0aeb4ae26a038a3c935baead452dda3d7cbfce1dcb84565cd3db7bf29ef14f26f0c93a1ba4858988c8f9822dfe0ca04cd68ddd58b1e474fb29e28a953ba7cec861d21ce1dcec4571e3dcf8e88b-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR11681_00</npcommid>
+ <trophyset-version>01.02</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Atari Flashback Classics vol.1</title-name>
+ <title-detail>Atari Flashback Classics vol.1</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Platinum Trophy</name>
+  <detail>Earn all trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Wanderer</name>
+  <detail>Try every game</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Payoff</name>
+  <detail>Double your money in Black Jack ($400)</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>I Hear Them Marching in my Sleep</name>
+  <detail>Reach the top of the local scoreboard in Centipede</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>Dawn of a New Era</name>
+  <detail>Reach the top of the local scoreboard in Liberator</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>Dead Weight</name>
+  <detail>Earn more than triple the other player's points in a game of tethered 2-player Space Duel</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>Dizzying Heights</name>
+  <detail>Reach the top of the local scoreboard in Space Duel</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>Fear the Claw</name>
+  <detail>Reach the top of the local scoreboard in Tempest</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>Betrayal</name>
+  <detail>Kill your human opponent in a 2-player game of arcade Warlords before any AIs die</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>Hare Razing</name>
+  <detail>Get the top score of 99 in Air-Sea Battle’s Shooting Gallery</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>Top of the Food Chain</name>
+  <detail>Reach the top of the local scoreboard in Black Widow</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>Sharp Shooter</name>
+  <detail>Take out 10 fleas in a row in arcade Centipede, without letting one reach the bottom or losing a life</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>They Named a Crater after Me</name>
+  <detail>Hit the ground in Lunar Lander with at least 550 downward velocity</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>Exterminator</name>
+  <detail>Take out an entire Millipede with DDT in the arcade version</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>Legs! Legs Everywhere!</name>
+  <detail>Reach the top of the local scoreboard in Millipede</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>Corner Pocket</name>
+  <detail>Earn a point in Pong by sending the ball into the corner when it can't be reached</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>Lockout</name>
+  <detail>Win a game of Pong against the AI without losing a point to it</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>For All Insectkind!</name>
+  <detail>Achieve a score of 300,000 or higher in Yars' Revenge</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>Sniper</name>
+  <detail>Take out the Swirl with your Zorlon Cannon in Yars’ Revenge</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="G" pid="000">
+  <name>Surgical Strike</name>
+  <detail>Clear a level in Canyon Bomber with limited bombs (Games 1-4)</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="G" pid="000">
+  <name>Neat Freak</name>
+  <detail>Eliminate all the mushrooms in a level of arcade Centipede</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="G" pid="000">
+  <name>Bank Shot</name>
+  <detail>Score a kill in Combat's Tank-Pong using a shot that has bounced at least 7 times</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="G" pid="000">
+  <name>Space Jockey</name>
+  <detail>Earn 800 points in Lunar Lander’s COMMAND MISSION</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="G" pid="000">
+  <name>Digging Deep</name>
+  <detail>Finish Level 81 or above in arcade Tempest without losing a life in the level</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="G" pid="000">
+  <name>We Don't Need No Fortification</name>
+  <detail>Win with no wall left in arcade Warlords</detail>
+ </trophy>
+</trophyconf>

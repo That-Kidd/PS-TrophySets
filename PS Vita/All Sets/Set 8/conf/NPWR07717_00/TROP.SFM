@@ -1,0 +1,56 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000002f688478f64ec8be424479522a852441563d953cac8bba0cc4efa0e0be7c0e9ecfdff0ee1466dfca851da94c86a12a8acf1d5bcaa33dfe4bc9fca9a742ce1b7028109f4ce53fb35586df5a2f511ffafd84e4c7478920e2561a919a81884d57c9c185d70bdd0055fc51b268f1e1e8850cd663d2f724f5080ad41a752c410c2caffc410950727e84865a8c29c5fac7249be508be39-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR07717_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Knight Solitaire</title-name>
+ <title-detail>Trophy kit for "Knight Solitaire"</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Master key</name>
+  <detail>Buy 10 Mulligans</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Knight's cup</name>
+  <detail>Use the Shuffle bonus 10 times</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Successful player</name>
+  <detail>Use the Joker bonus 10 times</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Aristocrat</name>
+  <detail>Get the maximum number of points on a level</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Baron</name>
+  <detail>Get the maximum number of points on 2 levels in a row</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Graph</name>
+  <detail>Get the maximum number of points on 3 levels in a row</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Reward of Honor</name>
+  <detail>Complete all levels in Squire mode</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="-1">
+  <name>King's Cup</name>
+  <detail>Use the Shuffle bonus 50 times</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="-1">
+  <name>Lucky player</name>
+  <detail>Use the Joker bonus 50 times</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="-1">
+  <name>Bronze Helmet</name>
+  <detail>Maximum points for 1 pack in Knight mode</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="-1">
+  <name>Silver Helmet</name>
+  <detail>Maximum points for 6 packs in Squire mode</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="-1">
+  <name>Golden Rose</name>
+  <detail>Complete all levels in Knight mode</detail>
+ </trophy>
+</trophyconf>

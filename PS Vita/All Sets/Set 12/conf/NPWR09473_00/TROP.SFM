@@ -1,0 +1,112 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000ba1ca2add6722fb4e66596a0bc3dd0f738e8c3b05181d9ec5d63a3acd9dde4c4d74aadef61a9c5bc43a03bcc028cde61306c9c71a8415f7b611cf4ba7ac2a4652c10926f7a513754cb4adeaad329e6d88a218511223430914fa0a10a2bc5d4ccae2cc0f1fb605642b6d5003115db8551ec1b85bf1e69cf6c1548e2fdd98206724fa2a54622d516877099b5d78a685946fdce6d49-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR09473_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>神々の悪戯 InFinite</title-name>
+ <title-detail>神々の悪戯 InFinite トロフィー</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>INFINITE</name>
+  <detail>全てのトロフィーを取得した証</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="G" pid="000">
+  <name>運命を全うせし者</name>
+  <detail>ディオニュソス・陽・トール・メリッサの全てのエンディングを見た</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="G" pid="000">
+  <name>豊穣の神ディオニュソス</name>
+  <detail>ディオニュソスルートのエンディングを全て見た</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="G" pid="000">
+  <name>太陽を統べる神アマテラス</name>
+  <detail>陽ルートのエンディングを全て見た</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="G" pid="000">
+  <name>雷の神トール</name>
+  <detail>トールルートのエンディングを全て見た</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="G" pid="000">
+  <name>命を与えられし者メリッサ</name>
+  <detail>メリッサルートのエンディングを全て見た</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="G" pid="000">
+  <name>箱庭を識る者</name>
+  <detail>「箱庭モード」内のイベントを全て見た</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="G" pid="000">
+  <name>箱庭の記憶</name>
+  <detail>イベントイラストを全て回収した</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>太陽の神と冥府の王</name>
+  <detail>アポロンルートとハデスルートのエンディングを見た</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>月の神と海の神</name>
+  <detail>月人ルートと尊ルートのエンディングを見た</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>光の神と炎の神</name>
+  <detail>バルドルルートとロキルートのエンディングを見た</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>死の神と叡智の神</name>
+  <detail>アヌビスルートとトトルートのエンディングを見た</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>君と選んだその先へ</name>
+  <detail>ディオニュソスルートのエンディングを1つ見た</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>一緒に掴んだ未来</name>
+  <detail>陽ルートのエンディングを1つ見た</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>共に見つけた道</name>
+  <detail>トールルートのエンディングを1つ見た</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="S" pid="000">
+  <name>2人でたどり着いた場所</name>
+  <detail>メリッサルートのエンディングを1つ見た</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="S" pid="000">
+  <name>神話の語り部</name>
+  <detail>全てのミソロジーモノローグを集めた</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="S" pid="000">
+  <name>クイズの神様</name>
+  <detail>難易度HARDの神話クイズでSランクを取得した</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>クイズの使者</name>
+  <detail>難易度EASYの神話クイズでSランクを取得した</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>箱庭の創造主</name>
+  <detail>「箱庭モード」内でキャラ・ハウス・オブジェクトの3つを設置した</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="000">
+  <name>自己紹介</name>
+  <detail>初めて「プロフィール」画面を見た</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>もうひとつの箱庭</name>
+  <detail>初めて「箱庭モード」のアイテムを入手した</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="B" pid="000">
+  <name>はじめてのクイズ</name>
+  <detail>神話クイズを初めてクリアした</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>知識の書</name>
+  <detail>初めて「辞書」に登録されるワードを取得した</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="000">
+  <name>穏やかな時の始まり</name>
+  <detail>神話プロローグを開始した</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="B" pid="000">
+  <name>新たなる可能性</name>
+  <detail>共通プロローグを開始した</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,204 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000006f9849b1d27cc4550d6016be28823648ee910e117bc0eaed2052550ee80724cf3a931be063be39eb63b0767c4eb7b335a954c8f92ebf6091ebfe22a5a5a6818abf15861c7c2d7cf8860312cefb5a440f7cb190269473bc81b88606c39d6603bee3a6eaf186d76cc74a7303dc29490e2e478bb7a765bc7a00e3f5fb28b2a6d0e39b7980df7c877d8138af8fc2dece19285e77b65b-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR10342_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>チェルシーさんは7の魔神をブッ殺さねばならない。 </title-name>
+ <title-detail>猫耳バニーガールとネクスト妖精王の！わくわくトロフィーどんどんぱふぱふ☆</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>PTOLEMAEUS</name>
+  <detail>全ての星々を制覇した証である。あんたはすごい！</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>LEPUS</name>
+  <detail>BunnyMustDieモードをクリアした</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>CANIS MINOR</name>
+  <detail>BunnyMustDieモードを2時間以下でクリアした</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="S" pid="000">
+  <name>CANIS MAJOR</name>
+  <detail>BunnyMustDieモードを1時間以下でクリアした&#x0a;</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>CRATER</name>
+  <detail>BunnyMustDieモードをアイテム100%クリアした</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="S" pid="000">
+  <name>CENTAURUS</name>
+  <detail>BunnyMustDieモードを2時間以下でアイテム100%クリアした</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="G" pid="000">
+  <name>CORONA AUSTRINA</name>
+  <detail>BunnyMustDieモードをアイテム15%以下でクリアした</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>BOOTES</name>
+  <detail>Chelsea&amp;7devilsモードをクリアした</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>URSA MINOR</name>
+  <detail>Chelsea&amp;7devilsモードを2時間以下でクリアした</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>URSA MAJOR</name>
+  <detail>Chelsea&amp;7devilsモードを1時間以下でクリアした</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="000">
+  <name>TRIANGULUM</name>
+  <detail>Chelsea&amp;7devilsモードをアイテム100%クリアした</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>HERCULES</name>
+  <detail>Chelsea&amp;7devilsモードを2時間以下でアイテム100%クリアした</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="G" pid="000">
+  <name>CORONA BOREALIS</name>
+  <detail>Chelsea&amp;7devilsモードをアイテム15%以下でクリアした</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="000">
+  <name>PEGASUS</name>
+  <detail>UFOにさらわれた&#x0a;</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>PERSEUS</name>
+  <detail>マッチョ看板で記念撮影した</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>AURIGA</name>
+  <detail>メイドの手紙を郵便ポストに投函した</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>SAGITTA</name>
+  <detail>ヘッドショットで即死した</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>ANDROMEDA</name>
+  <detail>＊＊＊いしのなかにいる＊＊＊</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>ERIDANUS</name>
+  <detail>マイクロウェーブ装置で消毒された</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>SERPENS</name>
+  <detail>100回死んでしまったぁ</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>LUPUS</name>
+  <detail>色々な武器を使ってみた</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>EQUULEUS</name>
+  <detail>4回連続で敵を踏み殺した</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>CASSIOPEIA</name>
+  <detail>タイムジェムを100,000個回収した</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>OPHIUCHUS</name>
+  <detail>リーフ星人を64匹ぶっ殺した</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>LYRA</name>
+  <detail>すべての種類のアイテムを手に入れた</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="B" pid="000">
+  <name>CYGNUS</name>
+  <detail>100回手動で攻撃を受け流した</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>AQUILA</name>
+  <detail>きちんと戸締りし直した</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>PISCIS AUSTRINUS</name>
+  <detail>すべてのスイッチをONにした</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>ARIES</name>
+  <detail>第一の魔神エル・ボボンボイをよくわからせた&#x0a;</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="B" pid="000">
+  <name>TAURUS</name>
+  <detail>第二の魔神ピョア・アーァアを丁寧に分解した</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="B" pid="000">
+  <name>GEMINI</name>
+  <detail>月之影エンディミオンを粉々に粉砕した</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="B" pid="000">
+  <name>LEO</name>
+  <detail>第三の魔神ヌコ・ド・マロンのあったけえ猫暖房を堪能した</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="B" pid="000">
+  <name>SAGITTARIUS</name>
+  <detail>死神人セレナ・ミルフォールと月夜に踊った</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="B" pid="000">
+  <name>CAPRICORNUS</name>
+  <detail>第四の魔神ブラムドゥ男爵を通報した</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="B" pid="000">
+  <name>LIBRA</name>
+  <detail>第五の魔神「十三賢者の瞳」と語り合った</detail>
+ </trophy>
+ <trophy id="035" hidden="yes" ttype="B" pid="000">
+  <name>ARA</name>
+  <detail>紅法王ポープ・ククビータに洗礼を受けた</detail>
+ </trophy>
+ <trophy id="036" hidden="yes" ttype="B" pid="000">
+  <name>CEPHEUS</name>
+  <detail>南瓜王ロード・パンキッシュに拝謁した</detail>
+ </trophy>
+ <trophy id="037" hidden="yes" ttype="B" pid="000">
+  <name>DELPHINUS</name>
+  <detail>道化士チョーカー・ジョーカーを笑わせた</detail>
+ </trophy>
+ <trophy id="038" hidden="yes" ttype="B" pid="000">
+  <name>VIRGO</name>
+  <detail>第六の魔神ハロウィンアリスと楽しく遊んだ</detail>
+ </trophy>
+ <trophy id="039" hidden="yes" ttype="B" pid="000">
+  <name>ARGO NAVIS</name>
+  <detail>万能電子頭脳ゴーレムエクシヴを破壊した</detail>
+ </trophy>
+ <trophy id="040" hidden="yes" ttype="S" pid="000">
+  <name>AQUARIUS</name>
+  <detail>最後の魔神セプテントリオン昴と、時の果ての地にて邂逅した</detail>
+ </trophy>
+ <trophy id="041" hidden="yes" ttype="S" pid="000">
+  <name>PISCES</name>
+  <detail>妖精姫チェルシー・ママナージュを張り倒した</detail>
+ </trophy>
+ <trophy id="042" hidden="yes" ttype="S" pid="000">
+  <name>SCORPIUS</name>
+  <detail>時兎人バニー・ザ・ハニーホワイトを救った</detail>
+ </trophy>
+ <trophy id="043" hidden="yes" ttype="G" pid="000">
+  <name>CANCER</name>
+  <detail>古禍神ノモス・デクロノスを封印した</detail>
+ </trophy>
+ <trophy id="044" hidden="yes" ttype="B" pid="000">
+  <name>ORION</name>
+  <detail>ぶち切れた魔神エル・ボボンボイをぶっ殺した</detail>
+ </trophy>
+ <trophy id="045" hidden="yes" ttype="B" pid="000">
+  <name>CETUS</name>
+  <detail>フォースギア・レイキを撃破した</detail>
+ </trophy>
+ <trophy id="046" hidden="yes" ttype="B" pid="000">
+  <name>DRACO</name>
+  <detail>フォースギア・オウリュウを撃破した</detail>
+ </trophy>
+ <trophy id="047" hidden="yes" ttype="B" pid="000">
+  <name>CORVUS</name>
+  <detail>フォースギア・ホウオウを撃破した</detail>
+ </trophy>
+ <trophy id="048" hidden="yes" ttype="B" pid="000">
+  <name>HYDRA</name>
+  <detail>フォースギア・シンキリンを撃破した</detail>
+ </trophy>
+</trophyconf>

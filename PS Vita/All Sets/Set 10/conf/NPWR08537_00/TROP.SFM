@@ -1,0 +1,124 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000005b7db184711b8b5827d965eecefbc2fbef4a4f2e87e83f45c07c4ceb9ae7e5554aa2e4f76bd19513e1014dba300de6b945b5eb9de06c2aeefad6d198a7d3532350e38d1d78da1425b0279193c65b3264b16bb883c10fa2ffd78975b73f296590a189506a3dc8fddda8d731dbc52f8145c1d7216357440b69ca9435c898bdeb1fc36c4a413e3366bacf2649e62a08cc3baf6e741e-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR08537_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>プリンス・オブ・ストライド</title-name>
+ <title-detail>プリンス・オブ・ストライドのトロフィーです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>ＭＡＳＴＥＲ　ＯＦ　ＳＴＲＩＤＥ</name>
+  <detail>全てのトロフィーを獲得した証です。</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>ＬＩＭＩＴ　ＯＶＥＲ</name>
+  <detail>最強のチームへとたどり着いた証です。</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>ＲＥＷＡＲＤ ＣＯＭＰＬＥＴＥ</name>
+  <detail>全てのＲＥＷＡＲＤを獲得した証です。</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>ＥＮＤＩＮＧ　ＣＯＭＰＬＥＴＥ</name>
+  <detail>全てのエンディングを迎えた証です。</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>ＥＰＩＳＯＤＥ ＣＯＭＰＬＥＴＥ</name>
+  <detail>ＳＣＥＮＥ ＲＥＰＬＡＹの達成率が１００％に到達した証です。</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="G" pid="000">
+  <name>ＰＲＯＭＯＴＥＤ！！</name>
+  <detail>門脇歩がケガを乗り越えた証です。</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="000">
+  <name>ストライクエンド：陸</name>
+  <detail>八神陸の心にストライクした証です。</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>ストライクエンド：尊</name>
+  <detail>藤原尊の心にストライクした証です。</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>ストライクエンド：穂積</name>
+  <detail>小日向穂積の心にストライクした証です。</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>ストライクエンド：ヒース</name>
+  <detail>支倉ヒースの心にストライクした証です。</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>ストライクエンド：恭介</name>
+  <detail>久我恭介の心にストライクした証です。</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>ストライクエンド：怜治</name>
+  <detail>諏訪怜治の心にストライクした証です。</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>ノーマルエンド；陸</name>
+  <detail>八神陸と通常のエンディングを迎えた証です。</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>ノーマルエンド；尊</name>
+  <detail>藤原尊と通常のエンディングを迎えた証です。</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>ノーマルエンド；穂積</name>
+  <detail>小日向穂積と通常のエンディングを迎えた証です。</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="S" pid="000">
+  <name>ノーマルエンド；ヒース</name>
+  <detail>支倉ヒースと通常のエンディングを迎えた証です。</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="S" pid="000">
+  <name>ノーマルエンド；恭介</name>
+  <detail>久我恭介と通常のエンディングを迎えた証です。</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>試合評価：Ｓ</name>
+  <detail>リレーショナーとして最高の仕事をした証です。</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>シナリオクリア：プロローグ</name>
+  <detail>プロローグをクリアした証です。</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>シナリオクリア：シーン１</name>
+  <detail>シーン１をクリアした証です。</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="000">
+  <name>シナリオクリア：シーン２</name>
+  <detail>シーン２をクリアした証です。</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>シナリオクリア：シーン３</name>
+  <detail>シーン３をクリアした証です。</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="B" pid="000">
+  <name>シナリオクリア：シーン４</name>
+  <detail>シーン４をクリアした証です。</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>シナリオクリア：シーン５</name>
+  <detail>シーン５をクリアした証です。</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="000">
+  <name>シナリオクリア：シーン６</name>
+  <detail>シーン６をクリアした証です。</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="B" pid="000">
+  <name>シナリオクリア：シーン７</name>
+  <detail>シーン７をクリアした証です。</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>シナリオクリア：シーン８</name>
+  <detail>シーン８をクリアした証です。</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="B" pid="000">
+  <name>シナリオクリア：シーン９</name>
+  <detail>シーン９をクリアした証です。</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="B" pid="000">
+  <name>シナリオクリア：シーン１０</name>
+  <detail>シーン１０をクリアした証です。</detail>
+ </trophy>
+</trophyconf>

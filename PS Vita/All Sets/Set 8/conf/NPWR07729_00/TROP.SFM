@@ -1,0 +1,144 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000001b8d0d34db8038c3e772fa113c01f073f4478fb38f62ed7245c9e16edd658e1e67e8a046f3ed501ddab2649681f8c8765e9d3da3109816e263d3c5dae0e581b48e3c0f3f0e9f7af2fc9b3df7c56b24903285daa9c209eee7989f0333c6ce5ed530703e18c3fb5972537ddd9aabfd06893aa75b44e4b7462018987f8f4dbb5436432a51b7bdedfeeff81004843d74cdb405e99b0b-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR07729_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>デュラララ!! Relay</title-name>
+ <title-detail>はっはーい！　どうもー、デュラララ!! Relayのトロフィーセットですよーっ！ヾ（≧▽≦）ノ</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>徹頭徹尾</name>
+  <detail>全てのトロフィーを獲得した。</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>池袋奴帰</name>
+  <detail>新たな物語を開始した。</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>事件解決</name>
+  <detail>窃盗団を壊滅させた。</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>時節到来</name>
+  <detail>決戦の日を迎える準備を整えた。</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="S" pid="000">
+  <name>国士無双</name>
+  <detail>窃盗団の残党を無傷で倒した。</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="S" pid="000">
+  <name>薬物駆逐</name>
+  <detail>アロマ事件を解決した。</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>電撃戦士</name>
+  <detail>「遊馬崎電撃編」を開放した。</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>超電磁砲</name>
+  <detail>罪歌の暴走を止めた。</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>毋望之禍</name>
+  <detail>「クラブ編」を開放した。</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="000">
+  <name>怪蟹駆逐</name>
+  <detail>地下通路に巣くう殺人ガニを全て倒した。</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>蟹汁完成</name>
+  <detail>巨大ガニを倒し、池袋の平和を守った。</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>奸智術数</name>
+  <detail>「掲示板編」を開放した。</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>電子統制</name>
+  <detail>掲示板騒動を解決した。</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="000">
+  <name>薬石無効</name>
+  <detail>「妄想編」を開放した。</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>妄想完遂</name>
+  <detail>妄想を完走した。</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>群疑満腹</name>
+  <detail>「妄執編」を開放した。</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="S" pid="000">
+  <name>外敵排除</name>
+  <detail>女狐を誠二から遠ざけた。</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="G" pid="000">
+  <name>絵画集結</name>
+  <detail>CGギャラリーを完成させた。</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>偶人獲得</name>
+  <detail>3Dモデルを1種類獲得した。</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>偶人充実</name>
+  <detail>3Dモデルを10種類獲得した。</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="G" pid="000">
+  <name>偶人集結</name>
+  <detail>3Dモデルギャラリーを完成させた。</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>人物獲得</name>
+  <detail>キャラクターを1種類獲得した。</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>人物充実</name>
+  <detail>キャラクターを10種類獲得した。</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="G" pid="000">
+  <name>人物集結</name>
+  <detail>キャラクターギャラリーを完成させた。</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>依頼開始</name>
+  <detail>サブクエストを1種類クリアした。</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>依頼進展</name>
+  <detail>サブクエストを10種類クリアした。</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="G" pid="000">
+  <name>依頼完遂</name>
+  <detail>サブクエストを全てクリアした。</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>関係開始</name>
+  <detail>リレーションイベントを1種類開放した。</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>関係充実</name>
+  <detail>リレーションイベントを50種類開放した。</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="S" pid="000">
+  <name>関係親密</name>
+  <detail>リレーションイベントを150種類開放した。</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="G" pid="000">
+  <name>関係円満</name>
+  <detail>リレーションイベントを全て見た。</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="S" pid="000">
+  <name>会稽之恥</name>
+  <detail>全てのバッドエンドを見た。</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="S" pid="000">
+  <name>音声集結</name>
+  <detail>全てのボイスデータを集めた。</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="S" pid="000">
+  <name>晴雲秋月</name>
+  <detail>真の妄想編を完走した。</detail>
+ </trophy>
+</trophyconf>

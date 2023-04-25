@@ -1,0 +1,228 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000698ecc2e00c3cc1c6b5a54514e97fb0963a666139c19f5c694e98e8c928069e75471fe2da07980e379512ebe6acd66177888d72c4f625e2ce3680e80e0ff97664fbabe9512d82e266fb11c55b65af6e6c41a0df7d82b1645205297ef98c4e9b991f3d1d99b429b50687fb2cfa0405986d564304acaabeeab3081cda457c3e85b71eaf7b0210db312d69c54690b38634500145c91-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR10313_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Shiren The Wanderer</title-name>
+ <title-detail>Shiren The Wanderer: The Tower of Fortune and the Dice of Fate</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Wanderer</name>
+  <detail>You unlocked all trophies!</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>First Step</name>
+  <detail>You arrived at Nekomaneki Village.</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>Dice Bag</name>
+  <detail>You collected 3 Dice of Fate.</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>Reeva Statue Defeated</name>
+  <detail>You beat the Reeva Statue.</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="S" pid="000">
+  <name>Great Reeva Statue Crushed</name>
+  <detail>You defeated the Great Reeva Statue.</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="S" pid="000">
+  <name>Defeat Gendolucika</name>
+  <detail>You have defeated Gendolucika.</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="000">
+  <name>Tower of Fortune Passport Stamp</name>
+  <detail>You have conquered the Tower of Fortune.</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>Inori Cave Tourist</name>
+  <detail>You have conquered Inori Cave.</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="G" pid="000">
+  <name>Primordial Chasm Visitor</name>
+  <detail>You have conquered the Primordial Chasm.</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>Destiny's Descender</name>
+  <detail>You have conquered Destiny's Descent.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>Bizarre Tower Ascender</name>
+  <detail>You have conquered the Bizarre Tower.</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>Onigiri Hollow Journeyer</name>
+  <detail>You have conquered Onigiri Hollow.</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="B" pid="000">
+  <name>Pitfall of Life Voyager</name>
+  <detail>You have conquered the Pitfall of Life.</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="000">
+  <name>Heavenly Lake Wayfarer</name>
+  <detail>You have conquered Heavenly Lake.</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="B" pid="000">
+  <name>Old Road Traveler</name>
+  <detail>You have conquered Old Road.</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>Passerby of Gen's Turf</name>
+  <detail>You have conquered Gen's Turf.</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>Lost Well Spelunker</name>
+  <detail>You have conquered the Lost Well.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Explosion Rocks Conqueror</name>
+  <detail>You've beaten all parts of Explosion Rocks!</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>Underground Manor Victor</name>
+  <detail>You've beaten all of the Underground Manor!</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Statue Cave Subduer</name>
+  <detail>You have conquered the Statue Cave.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>Hunter Pond Traverser</name>
+  <detail>You have conquered Hunter Pond.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>Warning Valley Voyager</name>
+  <detail>You have conquered Warning Valley.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>Arms Amasser</name>
+  <detail>You unlocked all weapons in the Item Book.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>Shield Stocker</name>
+  <detail>You unlocked all shields in the Item Book.</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>Armband Aggregator</name>
+  <detail>You unlocked all bracelets in the Item Book.</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>Arrow Accumulator</name>
+  <detail>You unlocked all arrows in the Item Book.</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>Mineralogist</name>
+  <detail>You unlocked all rocks in the Item Book.</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>Gourmand</name>
+  <detail>You unlocked all onigiri and peaches in the Item Book.</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>Grazer</name>
+  <detail>You unlocked all grass in the Item Book.</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>Determined Researcher</name>
+  <detail>You unlocked all scrolls in the Item Book.</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>Staff Affection</name>
+  <detail>You unlocked all staves in the Item Book.</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>Talismaniac</name>
+  <detail>You unlocked all talismans in the Item Book.</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>Pot Procurer</name>
+  <detail>You unlocked all pots in the Item Book.</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="G" pid="000">
+  <name>True Shiren Fan</name>
+  <detail>You filled every entry in the Item Book.</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="S" pid="000">
+  <name>Shiren, Monster Professor</name>
+  <detail>You filled every entry in the Monster Book.</detail>
+ </trophy>
+ <trophy id="035" hidden="yes" ttype="B" pid="000">
+  <name>Larcenous Tendencies</name>
+  <detail>You successfully stole an item.</detail>
+ </trophy>
+ <trophy id="036" hidden="yes" ttype="B" pid="000">
+  <name>First Responder</name>
+  <detail>You successfully rescued someone.</detail>
+ </trophy>
+ <trophy id="037" hidden="yes" ttype="B" pid="000">
+  <name>Shiren Shiren Evolution</name>
+  <detail>You have awakened and become Super Shiren.</detail>
+ </trophy>
+ <trophy id="038" hidden="yes" ttype="B" pid="000">
+  <name>Night Master</name>
+  <detail>You learned all abilities.</detail>
+ </trophy>
+ <trophy id="039" hidden="yes" ttype="B" pid="000">
+  <name>Gitan Leverages Everything Around Me</name>
+  <detail>You filled the bank with your Gitan.</detail>
+ </trophy>
+ <trophy id="040" hidden="yes" ttype="B" pid="000">
+  <name>Dreams Come True</name>
+  <detail>You gathered all Lucky Cats and had a wish granted.</detail>
+ </trophy>
+ <trophy id="041" hidden="yes" ttype="B" pid="000">
+  <name>Pot, Where Art Thou?</name>
+  <detail>You threw a Synthesis Pot with a certain bracelet equipped.</detail>
+ </trophy>
+ <trophy id="042" hidden="yes" ttype="B" pid="000">
+  <name>Unlucky</name>
+  <detail>You were defeated by your ally.</detail>
+ </trophy>
+ <trophy id="043" hidden="yes" ttype="B" pid="000">
+  <name>Caught Red-Handed</name>
+  <detail>You failed a steal attempt.</detail>
+ </trophy>
+ <trophy id="044" hidden="yes" ttype="B" pid="000">
+  <name>Keep Calm and Carry On</name>
+  <detail>You were KOed while you were Level 1.</detail>
+ </trophy>
+ <trophy id="045" hidden="yes" ttype="B" pid="000">
+  <name>Overstayed Your Welcome</name>
+  <detail>You were returned to the village by a gust.</detail>
+ </trophy>
+ <trophy id="046" hidden="yes" ttype="B" pid="000">
+  <name>Monster HOUUUUUUSE!</name>
+  <detail>You were thrown into a monster house.</detail>
+ </trophy>
+ <trophy id="047" hidden="yes" ttype="B" pid="000">
+  <name>Lesson Learned</name>
+  <detail>You threw a weapon or shield at a sleeping Mixer monster.</detail>
+ </trophy>
+ <trophy id="048" hidden="yes" ttype="B" pid="000">
+  <name>Tomorrow is Another Day</name>
+  <detail>You consumed a Super Unlucky Seed.</detail>
+ </trophy>
+ <trophy id="049" hidden="yes" ttype="B" pid="000">
+  <name>Shatter</name>
+  <detail>You tripped and broke a pot.</detail>
+ </trophy>
+ <trophy id="050" hidden="yes" ttype="B" pid="000">
+  <name>Grilled to Perfection!</name>
+  <detail>You grilled an onigiri.</detail>
+ </trophy>
+ <trophy id="051" hidden="yes" ttype="B" pid="000">
+  <name>Expired</name>
+  <detail>A peach rotted.</detail>
+ </trophy>
+ <trophy id="052" hidden="yes" ttype="B" pid="000">
+  <name>You Felt Lucky, Punk</name>
+  <detail>You got the multiplier of a Sweet-Nut monster to 1024x.</detail>
+ </trophy>
+ <trophy id="053" hidden="yes" ttype="B" pid="000">
+  <name>Unidentified Object</name>
+  <detail>You defeated FO-Uβ with direct attacks.</detail>
+ </trophy>
+ <trophy id="054" hidden="yes" ttype="B" pid="000">
+  <name>Demon Hunter</name>
+  <detail>You defeated a Maneater.</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,68 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000007f5dfea5b57e871201628aaa36f8ad62669bc14c51a3f8d36065962dd1426d2286f40b7a5f9926e7c6f60cd5691941d7e367cb769a1e0538bdd34c4ba9217c68977d30cb650bc027f33ced9863a6394bac6238d87c845e8017676d42aff19dda2472cc39bda6b7a26ed8ed3c731d8013abe73174aedaa240a43062ecc4a2796384e2a5b32b2c4d9ed99c819600e3f1b0b92b28ca-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR10143_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Tachyon Project Trophies</title-name>
+ <title-detail>Trophy set for Tachyon Project</title-detail>
+ <trophy id="000" hidden="no" ttype="S" pid="-1">
+  <name>Story Mode Completed</name>
+  <detail>Finish Level 10 Successfully</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Butcher</name>
+  <detail>Destroy 500 enemies</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Slayer</name>
+  <detail>Destroy 2500 enemies</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="-1">
+  <name>Mass Murderer</name>
+  <detail>Destroy 10000 enemies</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Berserker</name>
+  <detail>Destroy 20 enemies in less than 1 second</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Two Birds One Stone</name>
+  <detail>Destroy 15 or more enemies with a single explosion</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Chain Reaction</name>
+  <detail>Drop a Decoy and a Turret in less than 1 second</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="-1">
+  <name>Bomber</name>
+  <detail>Destroy 1000 enemies with the bomb launcher weapon</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>By a Hair's Breadth</name>
+  <detail>Finish a wave with 1 or less seconds left</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="-1">
+  <name>Sniper</name>
+  <detail>Destroy 1000 enemies using the laser weapon</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>Bullfighter</name>
+  <detail>Destroy 100 Bull enemies</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="-1">
+  <name>Slippery</name>
+  <detail>Stay hidden for more than 15 seconds in a single level</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="-1">
+  <name>Live in the Shadows</name>
+  <detail>Stay hidden for a total of 10 minutes</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="-1">
+  <name>Bullet Time</name>
+  <detail>Destroy 10 enemies with the time stopped or slowed down in one go</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="-1">
+  <name>Shield Breaker</name>
+  <detail>Destroy 100 Shield bearer enemies</detail>
+ </trophy>
+</trophyconf>

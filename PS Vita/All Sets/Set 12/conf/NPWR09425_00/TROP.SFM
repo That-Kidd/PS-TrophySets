@@ -1,0 +1,188 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000529389eff72ae361439543fcf789342429b6e044b098fa639da1b2522790254cf6e33ce67bd9a6011fdf7193d85e07495b4d8df446d831194d50e228a3f9aeccf70207b80d8ad70bfcbe4b06c74b6df9ef6c5666a5426d8c493438699679b0c1bb347b4274a029f5ae55bc7ba330b5464fa69a5f0c15033687b0d9cb47e6e563310d28abaadf0850407be5ae8d214aa1bf110716-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR09425_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>限界凸起 モエロクリスタル</title-name>
+ <title-detail>限界凸起 モエロクリスタルのトロフィーです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>常識を超越せし者</name>
+  <detail>全てのトロフィーを取得した限界を超えたプレイヤー！</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>モチャオトーイ郷クリアー！</name>
+  <detail>モチャオトーイ郷をクリアーした。</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>ギャンブランドクリアー！</name>
+  <detail>ギャンブランドをクリアーした。</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>コケシノビ竹林クリアー！</name>
+  <detail>コケシノビ竹林をクリアーした。</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>音楽の都メロリアンクリアー！</name>
+  <detail>音楽の都メロリアンをクリアーした。</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>シャレコーべ遺跡クリアー！</name>
+  <detail>シャレコーべ遺跡をクリアーした。</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>ユイサルヴェ宮殿クリアー！</name>
+  <detail>ユイサルヴェ宮殿をクリアーした。</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>父さん、俺やったよ！</name>
+  <detail>シナリオのエンディングを見た。</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>神官見習いはじめました</name>
+  <detail>全てのクリアー後ダンジョンをクリアーした。</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="G" pid="000">
+  <name>これが本当のエンディング</name>
+  <detail>愛しのモンスター娘とのエンディングを見た。</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>一緒にいこう</name>
+  <detail>モンスター娘を２０人仲間にした。</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>全員大集合！</name>
+  <detail>全てのモンスター娘を仲間にした。</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>みんなのためにできる事</name>
+  <detail>宿屋の部屋を改築した。</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="000">
+  <name>最高のおもてなし</name>
+  <detail>宿屋の部屋を最高ランクにした。</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="B" pid="000">
+  <name>俺も混ぜてくれ！</name>
+  <detail>初めてモンスター娘同士が同居した。</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>喜ぶ顔が見たいから</name>
+  <detail>モンスター娘の一番喜ぶプレゼントを渡した。</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>手が止まらない</name>
+  <detail>胸キュンスクラッチを成功した。</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>夢が叶った！</name>
+  <detail>ダブルスクラッチを成功した。</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="S" pid="000">
+  <name>漢の戦い</name>
+  <detail>１００人斬りを達成した。</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>いってきます！！</name>
+  <detail>クリスタルに突入した。</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="G" pid="000">
+  <name>心を重ねて！</name>
+  <detail>深層領域を240個クリアーした。</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>ごめん！でもキミの事が知りたいんだ！</name>
+  <detail>のぞき見イベントを成功した。</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="B" pid="000">
+  <name>目のやり場に困る</name>
+  <detail>異なる下着を組合せた。</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>思い出をありがとう</name>
+  <detail>初めてモンスター娘の親密度を最高にした。</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="S" pid="000">
+  <name>好きなんだからしょうがない</name>
+  <detail>全てのモンスター娘と愛を深めた。</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="B" pid="000">
+  <name>拳で語る</name>
+  <detail>訓練所で戦った。</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>受け継がれるもの</name>
+  <detail>装飾品を最高まで鍛えた。</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="B" pid="000">
+  <name>君色に染めてくれ</name>
+  <detail>娘印を付けた。</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="B" pid="000">
+  <name>みなぎってきた</name>
+  <detail>社交場を利用した。</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>モンスフィーロの不思議</name>
+  <detail>ヘンテコモンスター図鑑を５０種埋めた。</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="S" pid="000">
+  <name>いろんな奴がいるもんだ</name>
+  <detail>ヘンテコモンスター図鑑をすべて埋めた。</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="B" pid="000">
+  <name>未知との遭遇</name>
+  <detail>どヘンテコモンスターを倒した。</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>こ、これって・・・まさか！</name>
+  <detail>初めてジョブパンツを手に入れた。</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="G" pid="000">
+  <name>別に集めてるわけじゃないからね？</name>
+  <detail>全てのジョブパンツを手に入れた。</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="B" pid="000">
+  <name>俺たちだけの癒し空間</name>
+  <detail>初めて秘湯を見つけた。</detail>
+ </trophy>
+ <trophy id="035" hidden="yes" ttype="S" pid="000">
+  <name>みんなで一緒に入ろう！</name>
+  <detail>全ての秘湯を見つけた。</detail>
+ </trophy>
+ <trophy id="036" hidden="yes" ttype="B" pid="000">
+  <name>こんな所があったんだ</name>
+  <detail>１億階に進入した。</detail>
+ </trophy>
+ <trophy id="037" hidden="yes" ttype="S" pid="000">
+  <name>ダンジョン巡りも悪くない</name>
+  <detail>モンスフィーロの全てのフロアに進入した。</detail>
+ </trophy>
+ <trophy id="038" hidden="yes" ttype="B" pid="000">
+  <name>ナイスアシスト！</name>
+  <detail>攻撃補助が発動した。</detail>
+ </trophy>
+ <trophy id="039" hidden="yes" ttype="B" pid="000">
+  <name>４８手入門</name>
+  <detail>結合４８手を発動した。</detail>
+ </trophy>
+ <trophy id="040" hidden="yes" ttype="B" pid="000">
+  <name>４８手免許皆伝</name>
+  <detail>全ての結合４８手を発動した。</detail>
+ </trophy>
+ <trophy id="041" hidden="yes" ttype="S" pid="000">
+  <name>４８手の伝道師</name>
+  <detail>全ての裏４８手を発動した。</detail>
+ </trophy>
+ <trophy id="042" hidden="yes" ttype="S" pid="000">
+  <name>家宝にします！</name>
+  <detail>ユニークアイテムを１０種類手に入れた。</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="B" pid="000">
+  <name>君達のおかげ</name>
+  <detail>モンスターを１０００体倒した。</detail>
+ </trophy>
+ <trophy id="044" hidden="yes" ttype="S" pid="000">
+  <name>君達みんな最高だ！！</name>
+  <detail>モンスターを１００００体倒した。</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,172 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000b423c879ae8a9e92958b90837714165496b9f76576ff2853ccad7394c5f9a33596f52f2bc77d0ae92d72598fe062b61e619b137f908fa598a604b050437157356f355a51da73f04804b12af07be13fcc45acb2e11cbcdbd269b562478c88bf62812ffd6ace4257845e20ad129e5f16991514b1b593afdb36356d2d32cd621cd979c918d697b3975aaa4b2ba38083e6532b804a75-->
+<trophyconf version="1.1" platform="ps3,psp2,ps4" policy="large">
+ <npcommid>NPWR12196_00</npcommid>
+ <trophyset-version>01.02</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Stardew Valley</title-name>
+ <title-detail>Stardew Valley</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Iridium Seal</name>
+  <detail>This priceless treasure is the mark of a truly great farmer! Grandpa lives inside...</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Greenhorn (15k)</name>
+  <detail>Earn 15,000g</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Cowpoke (50k)</name>
+  <detail>Earn 50,000g</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Homesteader (250k)</name>
+  <detail>Earn 250,000g</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>Millionaire (1mil)</name>
+  <detail>Earn 1,000,000g</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="G" pid="000">
+  <name>Legend (10mil)</name>
+  <detail>Earn 10,000,000g</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>A Complete Collection</name>
+  <detail>Complete the museum collection.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>A New Friend</name>
+  <detail>Reach a 5-heart friend level with someone.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>Best Friends</name>
+  <detail>Reach a 10-heart friend level with someone.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>The Beloved Farmer</name>
+  <detail>Reach a 10-heart friend level with 8 people.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>Cliques</name>
+  <detail>Reach a 5-heart friend level with 4 people.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>Networking</name>
+  <detail>Reach a 5-heart friend level with 10 people.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>Popular</name>
+  <detail>Reach a 5-heart friend level with 20 people.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>Cook</name>
+  <detail>Cook 10 different recipes.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>Sous Chef</name>
+  <detail>Cook 25 different recipes.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>Gourmet Chef</name>
+  <detail>Cook every recipe.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Moving Up</name>
+  <detail>Upgrade your house.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Living Large</name>
+  <detail>Upgrade your house to the maximum size.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>D.I.Y.</name>
+  <detail>Craft 15 different items.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="000">
+  <name>Artisan</name>
+  <detail>Craft 30 different items.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="G" pid="000">
+  <name>Craft Master</name>
+  <detail>Craft every item.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>Fisherman</name>
+  <detail>Catch 10 different fish.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>Ol' Mariner</name>
+  <detail>Catch 24 different fish.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>Master Angler</name>
+  <detail>Catch every fish.</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>Mother Catch</name>
+  <detail>Catch 100 fish.</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>Treasure Trove</name>
+  <detail>Donate 40 different items to the museum.</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>Gofer</name>
+  <detail>Complete 10 'Help Wanted' requests.</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="S" pid="000">
+  <name>A Big Help</name>
+  <detail>Complete 40 'Help Wanted' requests.</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>Polyculture</name>
+  <detail>Ship 15 of each crop.</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>Monoculture</name>
+  <detail>Ship 300 of one crop.</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="G" pid="000">
+  <name>Full Shipment</name>
+  <detail>Ship every item.</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>Prairie King</name>
+  <detail>Beat 'Journey Of The Prairie King'.</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>The Bottom</name>
+  <detail>Reach the lowest level of the mines.</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>Local Legend</name>
+  <detail>Restore the Pelican Town Community Center.</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>Joja Co. Member Of The Year</name>
+  <detail>Become a Joja Co. member and purchase all the community development perks.</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="G" pid="000">
+  <name>Mystery Of The Stardrops</name>
+  <detail>Find every stardrop.</detail>
+ </trophy>
+ <trophy id="036" hidden="yes" ttype="S" pid="000">
+  <name>Fector's Challenge</name>
+  <detail>Beat 'Journey Of The Prairie King' without dying.</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>Full House</name>
+  <detail>Get married and have two kids</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>Singular Talent</name>
+  <detail>Reach level 10 in a skill.</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="S" pid="000">
+  <name>Master Of The Five Ways</name>
+  <detail>Reach level 10 in every skill.</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="S" pid="000">
+  <name>Protector Of The Valley</name>
+  <detail>Complete all of the Adventure Guild Monster Slayer goals.</detail>
+ </trophy>
+</trophyconf>

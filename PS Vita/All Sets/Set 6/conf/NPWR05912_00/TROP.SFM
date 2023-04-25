@@ -1,0 +1,68 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000c2e2d5888aee2b76155052b7813c27116ba3cb4e753c291499ee25b7eca469404ad247d3793263e91c9790300015e42c2040edf021d5f1d01d84c41d9139fbff9e79323006a2dcc76adf31c7cf07142bcc375fedf5fe76092aede19fb3f74d9158f73c3a0bf4cd1ca6520ab5f39807f19dcbb4f7e20dad56fbda747ab315d5a74f26fe21678b3743ce2bdd81e7d42dd0947bd39e-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="small">
+ <npcommid>NPWR05912_00</npcommid>
+ <trophyset-version>01.02</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Switch Galaxy Ultra</title-name>
+ <title-detail>Obtainable trophies for Switch Galaxy Ultra</title-detail>
+ <group id="001">
+  <name>Switch Galaxy Ultra Charity Pack</name>
+  <detail>Obtainable trophies for Switch Galaxy Ultra</detail>
+ </group>
+ <trophy id="000" hidden="no" ttype="G" pid="-1">
+  <name>Gold Finger</name>
+  <detail>Beat the gold time in every level.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="-1">
+  <name>Brunel's Dock</name>
+  <detail>Purchase and fully upgrade all ships in the game.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="-1">
+  <name>Cheapskate</name>
+  <detail>Play through the game without purchasing any ships or upgrades.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="-1">
+  <name>The Journey</name>
+  <detail>Travel 5,000,000 miles.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>High Flyer</name>
+  <detail>Hit 50 jumps.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>On The Warpath</name>
+  <detail>Destroy 400 drone ships.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>The Survivalist</name>
+  <detail>Beat 20,000 on Survival Mode.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Social Gamer</name>
+  <detail>Win 20 multiplayer games.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Robin Hood</name>
+  <detail>Steal 2,000 credits.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="-1" gid="001">
+  <name>Gold Fingers</name>
+  <detail>Achieve gold time on all levels.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="-1" gid="001">
+  <name>Roger Dodger</name>
+  <detail>Achieve 20 minutes of play without seeing the slow down message.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="-1" gid="001">
+  <name>Travel Bug</name>
+  <detail>Travel 7,500,000 miles in the game.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="-1" gid="001">
+  <name>The Survivalist's 2nd Challenge</name>
+  <detail>Beat 30,000 on Survival mode.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>Brunel's Last Voyage</name>
+  <detail>Upgrade the Orion ship to full specification.</detail>
+ </trophy>
+</trophyconf>

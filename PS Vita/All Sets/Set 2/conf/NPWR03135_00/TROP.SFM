@@ -1,0 +1,220 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000059f0aa1ea13e9762c6baaff77c7f8be78b1c151b87cf07e36f11cf9539ed074533a9814ae6eac624c939c65c67f3a20c0eaa7ee5046e4be5cc8fb35129e487010778e7da8d62c41adcc7a7f3cf5f349c26e996bce788b0a0290732907ec8a36d25ffabcaea63f164bae271ca9bcf05bedf2cce04b6facf80805ac12284b42d3408ae5994100438a7525150eee81f7f0a9a8ced27-->
+<trophyconf version="1.1" platform="ps3,psp2" policy="large">
+ <npcommid>NPWR03135_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Rainbow Moon</title-name>
+ <title-detail>Rainbow Moon trophy set</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Official Rainbow Moon Hero</name>
+  <detail>Obtain all other trophies to unlock the platinum trophy.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>First Victory</name>
+  <detail>Win your first battle on Rainbow Moon.</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>Sarrothrod's Rescuer</name>
+  <detail>Help Sarrothrod in the Southport Mines to escape from the dungeon and return to Cassar Village.</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>Well Boss Killer</name>
+  <detail>Defeat the monster that lives in the well in Cassar Village and get back to Stella.</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>Trisha</name>
+  <detail>Acquire Trisha.</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>Dozeru</name>
+  <detail>Acquire Dozeru.</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>Gorodo</name>
+  <detail>Acquire Gorodo.</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>Serena</name>
+  <detail>Acquire Serena.</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>Make Friends</name>
+  <detail>Acquire all six main characters.</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="000">
+  <name>Mojo of Tears</name>
+  <detail>Obtain the Mojo of Tears.</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="000">
+  <name>Mojo of Torture</name>
+  <detail>Obtain the Mojo of Torture.</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>Mojo of Trust</name>
+  <detail>Obtain the Mojo of Trust.</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="B" pid="000">
+  <name>Charged Magnet Coil</name>
+  <detail>Obtain the Charged Magnet Coil artifact.</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="000">
+  <name>Fused Twilight Gem</name>
+  <detail>Obtain the Fused Twilight Gem artifact.</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="B" pid="000">
+  <name>Twisted Pole</name>
+  <detail>Obtain the Twisted Pole artifact.</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>Ethereal Spike</name>
+  <detail>Obtain the Ethereal Spike artifact.</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>Magic Socket</name>
+  <detail>Obtain the Magic Socket artifact.</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>Orb of Delusion</name>
+  <detail>Obtain the Orb of Delusion artifact.</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>Crystal Clasp</name>
+  <detail>Obtain the Crystal Clasp artifact.</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="G" pid="000">
+  <name>Dimension Traveler</name>
+  <detail>Rebuild and obtain the Magic Portal Staff and defeat Namoris for the last time to gain unlimited warp access to the portal.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>Rich?</name>
+  <detail>Accumulate 2,500 Rainbow Coins in your inventory.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>Half a Millionaire</name>
+  <detail>Accumulate 500,000 Rainbow Coins in your inventory.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>Crafting Novice</name>
+  <detail>Improve your weapons or armor at the crafting shop for 10 times.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>Pro Crafter</name>
+  <detail>Improve your weapons or armor at the crafting shop for 50 times.</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>Extreme Crafter</name>
+  <detail>Improve your weapons or armor at the crafting shop for 250 times.</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="B" pid="000">
+  <name>Compulsive Hoarder</name>
+  <detail>Obtain at least 100 hidden treasure items.</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>Side Quest Master</name>
+  <detail>Complete 40 side quests or more.</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>Bear Up!</name>
+  <detail>Accumulate 40 hours of play time.</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="S" pid="000">
+  <name>Everlasting Perfectionist</name>
+  <detail>Accumulate 100 hours of play time.</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="B" pid="000">
+  <name>Ocher Stone Swamp</name>
+  <detail>Discover and enter the Ocher Stone Swamp, an optional area on Rainbow Moon.</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="B" pid="000">
+  <name>Forgotten Island</name>
+  <detail>Discover and enter the Forgotten Island, an optional area on Rainbow Moon.</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="B" pid="000">
+  <name>Limwar's House</name>
+  <detail>Discover and enter Limwar's House, an optional dungeon in the Green Shimmer Forest.</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="B" pid="000">
+  <name>Murky Basement</name>
+  <detail>Discover and enter the Murky Basement, an optional dungeon in Burning Steppe.</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="B" pid="000">
+  <name>Warehouse</name>
+  <detail>Discover and enter the Warehouse, an optional dungeon in Taswan.</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>Don't Worry, Be Happy!</name>
+  <detail>Lose three battles.</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>Camper</name>
+  <detail>Use the camp at least 25 times.</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>Noble Tourist</name>
+  <detail>Stay overnight at the tavern 10 times.</detail>
+ </trophy>
+ <trophy id="037" hidden="yes" ttype="B" pid="000">
+  <name>Lucky One</name>
+  <detail>Win 10 prizes in the lottery.</detail>
+ </trophy>
+ <trophy id="038" hidden="yes" ttype="B" pid="000">
+  <name>Gambling Expert</name>
+  <detail>Win five 'Class-A' prizes in the lottery.</detail>
+ </trophy>
+ <trophy id="039" hidden="yes" ttype="S" pid="000">
+  <name>Bulls Eye</name>
+  <detail>Win two 'Class-S' prizes in the lottery.</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="B" pid="000">
+  <name>Well Explorer</name>
+  <detail>Discover and use all wells on Rainbow Moon.</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="B" pid="000">
+  <name>Bathe in the Well</name>
+  <detail>Use any recovery well at least 15 times.</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="B" pid="000">
+  <name>Monster Farmer</name>
+  <detail>Kill at least 300 of the same type of monster. </detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="B" pid="000">
+  <name>Hit and Run Fighter</name>
+  <detail>Win 50 or more random encounter battles.</detail>
+ </trophy>
+ <trophy id="044" hidden="yes" ttype="B" pid="000">
+  <name>Passive Skill Fan</name>
+  <detail>Learn at least 10 different passive skills with any of your main characters.</detail>
+ </trophy>
+ <trophy id="045" hidden="no" ttype="S" pid="000">
+  <name>Skilled!</name>
+  <detail>Acquire and learn all available skills for any of your main characters. (The skill level doesn't matter)</detail>
+ </trophy>
+ <trophy id="046" hidden="no" ttype="S" pid="000">
+  <name>Level Up</name>
+  <detail>Level up any of your active skills to level 50 or higher.</detail>
+ </trophy>
+ <trophy id="047" hidden="no" ttype="B" pid="000">
+  <name>Scaredy Cat</name>
+  <detail>Escape 30 times from a battle using the escape option.</detail>
+ </trophy>
+ <trophy id="048" hidden="yes" ttype="B" pid="000">
+  <name>Monster Cutter</name>
+  <detail>Create 100 new monsters by tiling existing monsters with the killing stroke.</detail>
+ </trophy>
+ <trophy id="049" hidden="no" ttype="B" pid="000">
+  <name>Rainbow Pearl Collector</name>
+  <detail>Accumulate 200 Rainbow Pearls with any character before spending them at the savant.</detail>
+ </trophy>
+ <trophy id="050" hidden="no" ttype="B" pid="000">
+  <name>Level Fan</name>
+  <detail>Reach level 100 with any of your main characters.</detail>
+ </trophy>
+ <trophy id="051" hidden="no" ttype="S" pid="000">
+  <name>Level Master</name>
+  <detail>Reach level 250 with any of your main characters.</detail>
+ </trophy>
+ <trophy id="052" hidden="no" ttype="G" pid="000">
+  <name>Level God</name>
+  <detail>Reach level 500 with any of your main characters.</detail>
+ </trophy>
+</trophyconf>

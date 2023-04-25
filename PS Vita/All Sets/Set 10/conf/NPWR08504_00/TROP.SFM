@@ -1,0 +1,56 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000d2c0d36d1ddc41a0cd32097d370e8b9d11513f183ca10ba6530e92f14cb77db505e4cdb83758b0b49399df165a002632aad52fa926b14549d22bdcc6f04f633f53831bf15dcae0c9be5013f08c175d1881dc1883bfe69895e38d3f3eb2743e4f36449f58949fcb7415d5e067fd0a68b16c8775c7e9e6a9f7520f7589953e41a0a170a9f5fd36d8787e58e1b4a6cab2b46ae5dbf2-->
+<trophyconf version="1.1" platform="ps3,psp2,ps4" policy="small">
+ <npcommid>NPWR08504_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>人狼ゲーム</title-name>
+ <title-detail>人狼ゲーム　トロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>最初の死</name>
+  <detail>初めて死亡エンディングを迎えました&#x0a;</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>3つの終劇</name>
+  <detail>3種類のエンディングを迎えました&#x0a;</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>5つの終劇</name>
+  <detail>5種類のエンディングを迎えました</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>10の終劇</name>
+  <detail>10種類のエンディングを迎えました</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>15の終劇</name>
+  <detail>15種類のエンディングを迎えました</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>生存者</name>
+  <detail>前編をクリアしました</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>殺戮者</name>
+  <detail>後編をクリアしました&#x0a;</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="-1">
+  <name>勝利者</name>
+  <detail>特別編をクリアしました</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="-1">
+  <name>村人マニア</name>
+  <detail>前編の全てのエンディングを迎えました</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="-1">
+  <name>人狼マニア</name>
+  <detail>後編の全てのエンディングを迎えました</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="-1">
+  <name>特別マニア</name>
+  <detail>特別編の全てのエンディングを迎えました</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="-1">
+  <name>人狼マスター</name>
+  <detail>エンディングリストをコンプリートしました</detail>
+ </trophy>
+</trophyconf>

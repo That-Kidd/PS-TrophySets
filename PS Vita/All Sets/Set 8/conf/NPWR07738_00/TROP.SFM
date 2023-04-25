@@ -1,0 +1,52 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000006214fcbb20a88a3816507fadd8e2212169ed2f2d706983d232ad6a50e202afbbbe914a08fb049cef576b539dc339de8ba36b4faf2b77fdfbcb8451c377d4f8307fe24b0ee3beaeb5a1d1f88626f6c8840645280fe373d98044333b45d7b821e0e999d288be2c6b7027fbd878b19da8971bd7abf76fd6349d75bda09c4eb34ede435d223a35a1edbb29890001e64655f7403fc35b-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR07738_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>HTR+ Slot Car Simulation</title-name>
+ <title-detail>HTR+ Slot Car Simulation</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Beat First Track</name>
+  <detail>Win the first track on the championship mode</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Novice Racer</name>
+  <detail>Complete the novice championship on normal or hard dificulty</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Advanced Racer</name>
+  <detail>Complete the advanced championship on normal or hard dificulty</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Pro Racer</name>
+  <detail>Complete the pro championship on normal or hard dificulty</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="-1">
+  <name>Skilled Racer</name>
+  <detail>Complete all championship and extra tracks on normal or hard dificulty</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="-1">
+  <name>Piece of Cake</name>
+  <detail>Unlock all items in the Garage</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Build 5 Tracks</name>
+  <detail>Build 5 tracks closed in Track Editor</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="-1">
+  <name>Build 20 Tracks</name>
+  <detail>Build 20 tracks closed in Track Editor</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Ghost Believer</name>
+  <detail>Beat the Fastest Track Time of any Championship Race in Ghost Mode</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="-1">
+  <name>Ghost Chaser</name>
+  <detail>Beat the Fastest Track Time of any Championship Race in Ghost Mode 7 times</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="-1">
+  <name>Ghost Buster</name>
+  <detail>Beat the Fastest Track Time of any Championship Race in Ghost Mode 14 times</detail>
+ </trophy>
+</trophyconf>

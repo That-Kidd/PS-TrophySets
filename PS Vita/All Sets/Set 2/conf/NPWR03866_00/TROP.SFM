@@ -1,0 +1,44 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000004a0fcbeecacffcc3f600d72e61a62d337e1f400dc83d9d5c0eac4b733de4f631eedbe3eabb6abcc7518b6f6ee07685649c72cd46664c5e9476c61d3d654f9d19d88c62546e8bc1539d96c2669645189e4b3e34a7897153b5cd5d58944dfa476534da09bba3a9289151df6352728ea22c042cdeb50b011a92ec2fe263073d836dfab9082e1535a751d3280b947c04fada26056699-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR03866_00</npcommid>
+ <trophyset-version>01.02</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>escapeVektor</title-name>
+ <title-detail>escapeVektor</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Detonator</name>
+  <detail>Destroyed 200 enemies using Detonate</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Boostenator</name>
+  <detail>Destroyed 200 enemies using Boostenate</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Break Out</name>
+  <detail>Completed Chapter 1</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Discovery</name>
+  <detail>Completed Chapter 2</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Chased</name>
+  <detail>Completed Chapter 3</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="-1">
+  <name>Escaped!!</name>
+  <detail>Completed Chapter 4</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="-1">
+  <name>Set Boost to Detonate</name>
+  <detail>Upgraded Vektor to Ver. 15.0</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="-1">
+  <name>Fully Upgraded</name>
+  <detail>Upgraded Vektor to Max Ver. 25.0</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="-1">
+  <name>What a star!</name>
+  <detail>Completed 150 levels without Detonating</detail>
+ </trophy>
+</trophyconf>

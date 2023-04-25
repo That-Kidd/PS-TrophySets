@@ -1,0 +1,92 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000006c596f85438ba44f126dd9354bdc5f3717839a20378c732752ca9b812062607432321c890a1a1c9623e3ebde1d4910ec0d790fcd2c2b28f462f31352820bf25f03314fe54ccb453a789c5b9eb0ce5dc2cc9f396cedabfcf72652f1e25dbafe3b3caa3f91d769bb7ba7804e92b748bb931383e316a888c3a8305d11cf7bd0eeac2e7d5c8aa1bb7816661e3b0404309f038e5a92c0-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR20173_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Grass Cutter</title-name>
+ <title-detail>Grass Cutter</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Grass Cutter Platinum</name>
+  <detail>Good job! Completed all tasks!</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="000">
+  <name>Scared bird</name>
+  <detail>Scare the birds 50 times</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>Scared cat</name>
+  <detail>Scare the cats 15 times</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>Scared dog</name>
+  <detail>Scare the dogs 20 times</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>1000 grasses</name>
+  <detail>Cut 1000 squares with grass</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>Buyer</name>
+  <detail>Make the first purchase</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>Destroyer</name>
+  <detail>Disable 50 monsters</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>I hate monsters</name>
+  <detail>Use a bomb</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>Diver</name>
+  <detail>Dive into the water 20 times</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>Pig</name>
+  <detail>Take a mud bath 20 times</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>Off-road vehicle</name>
+  <detail>Drive by 10 times on the sand</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>Volatile</name>
+  <detail>25 times, purchase 15% of the energy</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>Kamikaze</name>
+  <detail>Face the monsters 50 times</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="000">
+  <name>Cold-blooded calculation</name>
+  <detail>Gather up energy when there is less than 5% left</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="000">
+  <name>I'm in the tank</name>
+  <detail>Break 100 barriers</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>Drop</name>
+  <detail>Immerse the first box</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Easy money</name>
+  <detail>Complete the first level</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>Bad weather</name>
+  <detail>Get wet in the rain</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="G" pid="000">
+  <name>Multikill</name>
+  <detail>Eliminate multiple monsters in less than 1 second</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="G" pid="000">
+  <name>Quadcopter</name>
+  <detail>Eliminate quadcopter</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="G" pid="000">
+  <name>Robot</name>
+  <detail>Eliminate robot</detail>
+ </trophy>
+</trophyconf>

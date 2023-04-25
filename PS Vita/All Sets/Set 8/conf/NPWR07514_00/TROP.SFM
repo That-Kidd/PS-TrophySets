@@ -1,0 +1,88 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000008fa8e9cdbe323f39ee879117d6ef09d273ad55190ed2fbbbd185c3885f23d81d6e6063451dc309e1b77ede5bbc00cb9875834caf21d1df2a4026836a0d71597bbeb1677ebbc430774f74ffe262358778c866e8ca6e367966abc230d8f12c4a465a344b90fa8414d56cb0b67c51f050ca68358ee3be1a9d6e51aeade4ae7efd1c7ea4b293870249e35181e3aebd77eecd9d919961-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR07514_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Rugby 15</title-name>
+ <title-detail>Rugby 15</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Placador de trofeos</name>
+  <detail>Conseguir todos los trofeos de bronce, plata y oro</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Primer ensayo</name>
+  <detail>Anotar un ensayo</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Abrirse paso</name>
+  <detail>Correr y anotar un ensayo después de zafarse de un placaje contra la IA (Difícil)</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Digno de una bonificación</name>
+  <detail>Anotar cuatro ensayos en un partido contra la IA (Difícil)</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>Con la brisa</name>
+  <detail>Anotar un golpe de castigo o una transformación desde más de 55 metros contra la IA (Difícil)</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>Perfección a balón parado</name>
+  <detail>Anotar 5 patadas a balón parado seguidas durante un partido contra la IA (Difícil)</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>Directo a zona de marca</name>
+  <detail>Alcanzar la zona de marca con un punt para lograr un avance de más de 50 metros</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>Drop largo</name>
+  <detail>Anotar un drop desde más de 40 metros</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>Carrera de 100 metros</name>
+  <detail>Anotar un ensayo después de correr con el balón desde detrás de tu propia línea de marca</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>Juego limpio</name>
+  <detail>No cometer ninguna infracción de golpe de castigo en un partido</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>Rey del ruck</name>
+  <detail>Ganar 5 pérdidas de balón en rucks en un partido contra la IA (Difícil)</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>Rugby de verdad</name>
+  <detail>Ganar un partido contra un equipo internacional con una clasificación de más de 90 contra la IA (Difícil)</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>Saco de ensayos</name>
+  <detail>Anotar 10 ensayos en un partido contra la IA (Difícil) con mitades de 5 o 10 minutos</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="000">
+  <name>Racha de victorias</name>
+  <detail>Ganar 10 partidos seguidos contra la IA (Difícil) como mando principal</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="000">
+  <name>Premiership</name>
+  <detail>Ganar el título de la AVIVA Premiership</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="G" pid="000">
+  <name>Campeones del TOP 14</name>
+  <detail>Ganar el título del TOP 14</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="G" pid="000">
+  <name>Campeones de PRO D2</name>
+  <detail>Ganar el título de la PRO D2</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="G" pid="000">
+  <name>PRO total</name>
+  <detail>Ganar el título de la PRO12</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="G" pid="000">
+  <name>Habitual</name>
+  <detail>Crear y ganar una competición de Copa personalizada con 20 equipos o más</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>Incordio en serie</name>
+  <detail>Recibir dos tarjetas amarillas o rojas en un partido</detail>
+ </trophy>
+</trophyconf>

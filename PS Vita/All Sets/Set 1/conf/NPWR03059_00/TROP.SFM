@@ -1,0 +1,260 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000885de3cf344ea6aec17aec04d0f088c7f6ffab7e62ce7da5a20ab1783234197cc18da8d55d5035009f86efc36e2139c8f92c61b6a3996188d2e8d071e90c4e00a826b06ae5604be3860a152799cab547b119377816fc804bd80c981794b23d74e2a53663825af61e584c1a3c4c55020d12ecca479b3284ed569bf0f2759195daae263232b1966cce42e9cd38bfd2c9ff7f2197bc-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR03059_00</npcommid>
+ <trophyset-version>01.02</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Silent Hill: Book of Memories</title-name>
+ <title-detail>Book of Memories</title-detail>
+ <group id="001">
+  <name>DLC Trophies - Extra Memories Pack</name>
+  <detail>Explore new nightmares with the following DLC trophies</detail>
+ </group>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Hyperthymesiac</name>
+  <detail>Earn every trophy in the game</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Creator</name>
+  <detail>Create a character</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Consumer</name>
+  <detail>Make a purchase in Howard's shop</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Light Napper</name>
+  <detail>Complete Zone 1</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>Deep Sleeper</name>
+  <detail>Reach Zone 50</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>Comatose</name>
+  <detail>Reach Zone 100</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>Novice</name>
+  <detail>Level up to LVL 2</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>Apprentice</name>
+  <detail>Level up to LVL 25</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>Master</name>
+  <detail>Level up to LVL 50</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>Choice Meat</name>
+  <detail>Defeat 25 Butchers with the Great Cleaver</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>Disorderly Conduct</name>
+  <detail>Defeat 25 Nurses with the Steel Pipe</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>Hammer Time</name>
+  <detail>Defeat 25 Bogeymen with the Bogeyman's Hammer</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>Pyramid Scheme</name>
+  <detail>Defeat 25 Pyramid Heads with the Great Knife</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>Light Heal Me</name>
+  <detail>Use Heal Me Karma Ability to restore 25% or more health</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>Light Heal You</name>
+  <detail>Use Heal You Karma Ability to restore 50% or more health to a friend (multiplayer)</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>Light Heal Us</name>
+  <detail>Use Heal Us Karma Ability to restore 50% or more health each to 3 players (multiplayer)</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Blood Barrage</name>
+  <detail>Use Blood Barrage Karma Ability to kill 5 or more enemies</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Blood Beam</name>
+  <detail>Use Blood Beam Karma Ability on 5 or more enemies at once</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>Blood Burn</name>
+  <detail>Use Blood Burn Karma Ability to damage 4 different enemy types at once</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Power Breaker</name>
+  <detail>Use Weapon Breaker Power Move with a weapon that's about to shatter</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>Power Charger</name>
+  <detail>Use Charge Tackle Power Move to knock one enemy into another</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>Power Flasher</name>
+  <detail>Use Flash Burst Power Move to kill 5 or more stunned enemies in a row</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>Power Inverter</name>
+  <detail>Use Karma Flip Power Move to flip 8 or more enemies at once</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>Power Repeller</name>
+  <detail>Use Push Force Power Move to knock 8 or more enemies back at once</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>Power Savior</name>
+  <detail>Use Health Siphon Power Move to bring a dying friend back to life (multiplayer)</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>Power Switcher</name>
+  <detail>Use 360 Attack Power Move to strike 4 or more enemies at once</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>Beast Master</name>
+  <detail>Defeat any Guardian without taking damage</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>Beat Maniac</name>
+  <detail>Earn a 30 or greater timed hit combo</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>Blacksmith</name>
+  <detail>Level up 10 different weapons</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>Bleeder</name>
+  <detail>Lose more than 400% health in one Zone without dying</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>Bouncer</name>
+  <detail>Complete a Zone using only your fists (no weapons)</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>Brainiac</name>
+  <detail>Complete any 5 puzzles without using the hint lever</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>Executioner</name>
+  <detail>Perform a timed execution on 10 enemies in one Zone</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>Klutz</name>
+  <detail>Trigger every kind of trap in the game</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>Medic</name>
+  <detail>Drop a health pack after a friend requests one (multiplayer)</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>Moneybags</name>
+  <detail>Spend over 250,000 MR in Howard's shop</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>Ninja</name>
+  <detail>Complete a Zone without turning on your flashlight</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>Sugar High</name>
+  <detail>Complete a Zone without stopping for more than 30 seconds total</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>Tommfoolery</name>
+  <detail>Perform every in-game VO clip for one character</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="000">
+  <name>Wingman</name>
+  <detail>Defeat any Guardian with all four players still alive (multiplayer)</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="B" pid="000">
+  <name>Saint</name>
+  <detail>Achieve the LIGHT ending in every Forsaken Room</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="B" pid="000">
+  <name>Sinner</name>
+  <detail>Achieve the BLOOD ending in every Forsaken Room</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="B" pid="000">
+  <name>Agnostic</name>
+  <detail>Achieve the NEUTRAL ending in every Forsaken Room</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="B" pid="000">
+  <name>Fireman</name>
+  <detail>Defeat the Fire Guardian</detail>
+ </trophy>
+ <trophy id="044" hidden="no" ttype="B" pid="000">
+  <name>Lumberjack</name>
+  <detail>Defeat the Wood Guardian</detail>
+ </trophy>
+ <trophy id="045" hidden="no" ttype="B" pid="000">
+  <name>Sandman</name>
+  <detail>Defeat the Light Guardian</detail>
+ </trophy>
+ <trophy id="046" hidden="no" ttype="B" pid="000">
+  <name>Plumber</name>
+  <detail>Defeat the Water Guardian</detail>
+ </trophy>
+ <trophy id="047" hidden="no" ttype="B" pid="000">
+  <name>Miner</name>
+  <detail>Defeat the Earth Guardian</detail>
+ </trophy>
+ <trophy id="048" hidden="no" ttype="B" pid="000">
+  <name>Phlebotomist</name>
+  <detail>Defeat the Blood Guardian</detail>
+ </trophy>
+ <trophy id="049" hidden="no" ttype="G" pid="000">
+  <name>Author</name>
+  <detail>Defeat the Steel Guardian and complete the game</detail>
+ </trophy>
+ <trophy id="050" hidden="no" ttype="S" pid="000">
+  <name>Emissary</name>
+  <detail>Complete Valtiel's missions in Zones 1 through 21</detail>
+ </trophy>
+ <trophy id="051" hidden="no" ttype="S" pid="000">
+  <name>Storyteller</name>
+  <detail>Achieve all 6 of the game's endings</detail>
+ </trophy>
+ <trophy id="052" hidden="no" ttype="S" pid="000">
+  <name>Architect</name>
+  <detail>Complete your Rooms Checklist 100%</detail>
+ </trophy>
+ <trophy id="053" hidden="no" ttype="S" pid="000">
+  <name>Antiquarian</name>
+  <detail>Complete your Artifacts Checklist 100%</detail>
+ </trophy>
+ <trophy id="054" hidden="no" ttype="S" pid="000">
+  <name>Arms Dealer</name>
+  <detail>Complete your Weapons Checklist 100%</detail>
+ </trophy>
+ <trophy id="055" hidden="no" ttype="S" pid="000">
+  <name>Couch Potato</name>
+  <detail>Complete your Broadcasts Checklist 100%</detail>
+ </trophy>
+ <trophy id="056" hidden="no" ttype="S" pid="000">
+  <name>Librarian</name>
+  <detail>Complete your Notes Checklist 100%</detail>
+ </trophy>
+ <trophy id="057" hidden="no" ttype="S" pid="000">
+  <name>Veterinarian</name>
+  <detail>Complete your Bestiary Checklist 100%</detail>
+ </trophy>
+ <trophy id="058" hidden="no" ttype="S" pid="-1" gid="001">
+  <name>Optimist</name>
+  <detail>Turn all 40 Change Notes to Light at the same time</detail>
+ </trophy>
+ <trophy id="059" hidden="no" ttype="S" pid="-1" gid="001">
+  <name>Pessimist</name>
+  <detail>Turn all 40 Change Notes to Blood at the same time</detail>
+ </trophy>
+ <trophy id="060" hidden="no" ttype="S" pid="-1" gid="001">
+  <name>Deity</name>
+  <detail>Level up to LVL 70</detail>
+ </trophy>
+ <trophy id="061" hidden="no" ttype="S" pid="-1" gid="001">
+  <name>Annotator</name>
+  <detail>Complete the DLC (red) portions of all checklists</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,232 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000ba1f71479a9fc70b2c381127d95ad40fcea44ec50976d6a676af3d582447f6a4ec94da41e78caca1a22d6572127b9ab1e889e668016cd1d999f4b19ae28c72d6592d2b10f438e95cf10bd4f1360aa968bd1a4f1f0bbf3dabbb6c169fca0de84c7a8cc1b872d47204f95f9938b042ff3a0f66aed9c8609ce1854764086047d8b5e0407e39cd6b272cd718d0546199b8570fb43cad-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR05278_00</npcommid>
+ <trophyset-version>01.03</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Soul Sacrifice™ Delta</title-name>
+ <title-detail>Soul Sacrifice™ Delta</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Chronicles of Yore</name>
+  <detail>Acquired all trophies.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Welcome to Avalon</name>
+  <detail>Unlocked the ability to align with Avalon.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Welcome to Sanctuarium</name>
+  <detail>Unlocked the ability to align with Sanctuarium.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Welcome to Grim</name>
+  <detail>Unlocked the ability to align with Grim.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>The Neophyte</name>
+  <detail>Defeated an Archfiend of difficulty level 3.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>The Fledgling Takes to the Skies</name>
+  <detail>Defeated an Archfiend of difficulty level 5.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>Joining the Upper Echelons</name>
+  <detail>Defeated an Archfiend of difficulty level 10.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>The Peerless Sorcerer</name>
+  <detail>Defeated an Archfiend of difficulty level 15.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>The Wheel of Fate</name>
+  <detail>Read all Magusar chapters, fought Magusar and saw ending.</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="000">
+  <name>Newfound Reflections</name>
+  <detail>Fulfilled all pacts for The End Begins.</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="000">
+  <name>Driving Towards the Truth</name>
+  <detail>Fulfilled all pacts for An Interlude in Time.</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>A World Transformed</name>
+  <detail>Fulfilled all pacts for The Trail of a Life.</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="G" pid="000">
+  <name>Omniscience</name>
+  <detail>Defeated the God-Dragon and saw ending.</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="000">
+  <name>Sacrificing for a Living</name>
+  <detail>Fulfilled all Avalon sorcerer pacts.</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="B" pid="000">
+  <name>The Spirit of Compassion</name>
+  <detail>Fulfilled all Sanctuarium sorcerer pacts.</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>Fighting the Eternal Recursion</name>
+  <detail>Fulfilled all Grim sorcerer pacts.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Tracing the Memories</name>
+  <detail>Fulfilled all pacts in Age of Dawn.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Star-Crossed</name>
+  <detail>Fulfilled all pacts in Age of Temperance.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>Days of War</name>
+  <detail>Fulfilled all pacts in Age of Thirst.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Mounting Strength</name>
+  <detail>Fulfilled all pacts in Age of Authority.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>Pandemonium</name>
+  <detail>Fulfilled all pacts in Age of Transgression.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>Strides of the Conqueror</name>
+  <detail>Fulfilled all pacts in Age of Intrigue.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>The Endless Chain of Desire</name>
+  <detail>Fulfilled all pacts in Age of Deceit.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>Destiny Gallops Apace</name>
+  <detail>Fulfilled all pacts in Age of Escape.</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>A Deadly Encounter</name>
+  <detail>Fulfilled all pacts in Age of Bewilderment.</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>Breaking New Ground</name>
+  <detail>Fulfilled all pacts in Age of Undeath.</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>Challenging the Unknown</name>
+  <detail>Fulfilled all pacts in Age of Rebirth.</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>A Mighty Foe Awaits</name>
+  <detail>Fulfilled all pacts in Age of Reformation.</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>Beyond Our Ken</name>
+  <detail>Fulfilled all pacts in Age of Oblivion.</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>A Challenge from the Ivory Tower</name>
+  <detail>Fulfilled all pacts in Age of Ruin.</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="S" pid="000">
+  <name>Transcendent</name>
+  <detail>Fulfilled all pacts in Age of Infinity.</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="G" pid="000">
+  <name>A History of Adventure</name>
+  <detail>Fulfilled all pacts in all Ages.</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>Avalon's Pride</name>
+  <detail>Earned Avalon title "Mage 1st Class".</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="S" pid="000">
+  <name>The Ideal Sorcerer</name>
+  <detail>Earned Avalon title "Archmage 1st Class".</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>Sanctuarium's Pride</name>
+  <detail>Earned Sanctuarium title "High Cleric".</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="S" pid="000">
+  <name>Faith in the Divine</name>
+  <detail>Earned Sanctuarium title "High Cardinal".</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>Grim's Pride</name>
+  <detail>Earned Grim title "High Atheist".</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="S" pid="000">
+  <name>Defying the Gods Themselves</name>
+  <detail>Earned Grim title "High Awakened".</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>Going Beyond Sacrifice</name>
+  <detail>Invoked sacrifice magic with sorcerers of all alignments.</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="000">
+  <name>Getting the Knack</name>
+  <detail>Acquired 5 (+) Offerings.</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="B" pid="000">
+  <name>Arcane Knowledge</name>
+  <detail>Acquired many items from 1 Offering type in Ars Magica.</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="B" pid="000">
+  <name>Path of the Sage</name>
+  <detail>Acquired many items from 10 Offering types in Ars Magica.</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="S" pid="000">
+  <name>Sorcerer Emeritus</name>
+  <detail>Acquired many items from 20 Offering types in Ars Magica. </detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="B" pid="000">
+  <name>All Dressed Up</name>
+  <detail>Acquired 5 different accessories.</detail>
+ </trophy>
+ <trophy id="044" hidden="no" ttype="B" pid="000">
+  <name>Phantasmagoric Beauty</name>
+  <detail>Acquired 50 different accessories.</detail>
+ </trophy>
+ <trophy id="045" hidden="no" ttype="B" pid="000">
+  <name>Pursuing Timeless Memories</name>
+  <detail>Fully completed your first Blank Page, earning rewards.</detail>
+ </trophy>
+ <trophy id="046" hidden="no" ttype="B" pid="000">
+  <name>The Right Arm's New Powers</name>
+  <detail>Triggered resonance using your faction's seal during quest.</detail>
+ </trophy>
+ <trophy id="047" hidden="no" ttype="B" pid="000">
+  <name>A Sorcerer's Full Potential</name>
+  <detail>Carried out a Rite of Transmutation.</detail>
+ </trophy>
+ <trophy id="048" hidden="no" ttype="B" pid="000">
+  <name>An Encounter of Sorcerers</name>
+  <detail>Recorded your first Slayer Points.</detail>
+ </trophy>
+ <trophy id="049" hidden="no" ttype="B" pid="000">
+  <name>The Sorcerers' Rivalry</name>
+  <detail>Recorded a total of 200 Slayer Points.</detail>
+ </trophy>
+ <trophy id="050" hidden="no" ttype="B" pid="000">
+  <name>A Sorcerous Maelstrom</name>
+  <detail>Recorded a total of 2,000 Slayer Points.</detail>
+ </trophy>
+ <trophy id="051" hidden="no" ttype="B" pid="000">
+  <name>The Bonds of Battle</name>
+  <detail>Defeated an Archfiend in co-op for the first time.</detail>
+ </trophy>
+ <trophy id="052" hidden="no" ttype="B" pid="000">
+  <name>The Lessons of Shared Ordeals</name>
+  <detail>Defeated 20 Archfiends in co-op.</detail>
+ </trophy>
+ <trophy id="053" hidden="no" ttype="B" pid="000">
+  <name>Making a Killing</name>
+  <detail>Defeated your first Orichalcum.</detail>
+ </trophy>
+ <trophy id="054" hidden="no" ttype="B" pid="000">
+  <name>Streetwise</name>
+  <detail>Used up 10 Rumour Notes.</detail>
+ </trophy>
+ <trophy id="055" hidden="yes" ttype="B" pid="000">
+  <name>Worming Your Way Out of Trouble</name>
+  <detail>Demonstrated sorcerous might by crushing prison worms.</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,60 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000700cd62988ca0408abd94d8ae781901a2ee0b6811115dd03846d765dab55a5b4a2c3099b8a8c0ad1d938dc89425b813c9b52b8d1d1e0c29edaa9d397bcea5ab02e219905ac49e6d4787b41efd0e9790f0d38cd5d40434c1f88bf5f57a97ebecd19a6cedef54be95c28a0a84291aebc83c12cf15279624e2a9b409db11704ec817b5c750221c5ca21d582712b1930986f3d32a4e6-->
+<trophyconf version="1.1" platform="psp2" policy="freemium">
+ <npcommid>NPWR08026_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Venus Project</title-name>
+ <title-detail>Venus Projectのトロフィーです</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>アイドルはじめました</name>
+  <detail>チュートリアルクリア</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>アイドルコレクター</name>
+  <detail>今までに５０種類のキャラクターを取得した</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>SRゲッター</name>
+  <detail>初めてSRキャラクターを取得した</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>どきどき生着替え</name>
+  <detail>初めて衣装を着替えた&#x0a;</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>バトルマニア</name>
+  <detail>対決に５０回勝利した&#x0a;</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>売れ線アイドル</name>
+  <detail>ミッションを５０回クリアした&#x0a;</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>はじめてのイベント</name>
+  <detail>イベントに参加した</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>推しメン増し増し</name>
+  <detail>キャラクターのレベルを２０にした&#x0a;</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>フルアーマーアイドル</name>
+  <detail>デッキのスロットすべてを埋めた&#x0a;</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>ファイト一発！</name>
+  <detail>ミッションで初めて消費アイテムを使用した</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>SRコレクター</name>
+  <detail>今までに１０種類のSRキャラクターを取得した</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="-1">
+  <name>売れっ子アイドル</name>
+  <detail>ミッションを１００回クリアした&#x0a;</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="-1">
+  <name>クイーンオブアイドル</name>
+  <detail>対決に１００回勝利した&#x0a;</detail>
+ </trophy>
+</trophyconf>

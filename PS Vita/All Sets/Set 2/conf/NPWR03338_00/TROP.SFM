@@ -1,0 +1,60 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000d9c2067ced7cb54db2d4689bf4dbfa1f9218f309831ab6243d028af3c219321246704e4b529c4c8418ba191c553271f81c78766e610014e0f8d61bd19d7ca873ce12b4a946bbbb4b23c4fe199f2c51ed443f2607c55c1b6de15f9a1cab82f9e633114dae36afaca3765b51edd48f6fc481f269a87829f49b3d2126ebc47ec2dd5a3523967f900fba8a73cac9394c901a6011b262-->
+<trophyconf version="1.1" platform="psp2">
+ <npcommid>NPWR03338_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>ニコリのパズルV ぬりかべ</title-name>
+ <title-detail>「ニコリのパズルV ぬりかべ」のトロフィーセットです。&#x0a;パズルを解いてトロフィーをコンプリートしよう！</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>中断50回達成！</name>
+  <detail>パズルを中断した回数が累計50回を超えた</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>やめる50回達成！</name>
+  <detail>パズルをやめた回数が累計50回を超えた</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>消去100回達成！</name>
+  <detail>消去回数が累計100回を超えた</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>ガイド閲覧完了！</name>
+  <detail>ガイドを閲覧した</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>24時間プレイ達成！</name>
+  <detail>総プレイ時間が24時間を超えた</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>100REDO達成！</name>
+  <detail>REDOを累計100回使用した</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>100UNDO達成！</name>
+  <detail>UNDOを累計100回使用した</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>10問制覇！</name>
+  <detail>「ぬりかべ」を10問クリアした</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>20問制覇！</name>
+  <detail>「ぬりかべ」を20問クリアした</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>30問制覇！</name>
+  <detail>「ぬりかべ」を30問クリアした</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>40問制覇！</name>
+  <detail>「ぬりかべ」を40問クリアした</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="-1">
+  <name>全問制覇！</name>
+  <detail>「ぬりかべ」を全問クリアした</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="-1">
+  <name>シャッフル連続15問制覇！</name>
+  <detail>シャッフルで連続15問クリアした</detail>
+ </trophy>
+</trophyconf>

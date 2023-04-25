@@ -1,0 +1,200 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000000df57651c1404012d486d0be05e7363f23e5c34ba557fc7893d9c598892bbdd54f08f9c39a1e1348729a60ea369cc2b19ce21538d8f259ae7e5a8d1106d55d0c3a0e8675061b07f7ee72fdc3f1961effd878b0c9012e97844a89ac9883951565c673f6e408b5b292cc17a09e18090a5220bdb0ff80e6b8523f4a754f15018da97d6270c00e08c9b49631b029a115abaae69d2e59-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR08452_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>XCOM: Enemy Unknown Plus</title-name>
+ <title-detail>XCOM: Enemy Unknown Plus</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>You Win</name>
+  <detail>You Win, Everything.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Who Needs Limbs?</name>
+  <detail>Augment a soldier.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>A Little Bit Alien</name>
+  <detail>Modify a soldier.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>Enemy Within</name>
+  <detail>Get a Soldier to have 5 modifications.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>Steel Martyr</name>
+  <detail>Deploy three tactical subsystems on a single soldier.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>Apotheosis Denied</name>
+  <detail>Deal with the newest global threat.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>They Shall Not Pass</name>
+  <detail>Eliminate all alien waves.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>Zom-B-Gone</name>
+  <detail>Eradicate the infestation.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>Someone Your Own Size</name>
+  <detail>Kill a Muton Berserker in melee combat.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>Where in the World</name>
+  <detail>Make certain of the new threat's location.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>Rise of the Machines</name>
+  <detail>Field a squad consisting entirely of augmented soldiers and SHIVs (min. 4) and win the mission.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>Mental Minefield</name>
+  <detail>Kill an enemy as it is psionically attacking you.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>Tingling Sensation</name>
+  <detail>Kill an unseen enemy detected by a specially modified soldier.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>Pain in the Neck</name>
+  <detail>Cause an enemy to suicide.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>Elite Defense</name>
+  <detail>Beat a new special mission without losing any assets.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>Guardian of Earth</name>
+  <detail>Designate a highly decorated soldier as the Volunteer.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="G" pid="000">
+  <name>No Looking Back</name>
+  <detail>Beat the game in Ironman mode on Classic or Impossible difficulty.</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>Xavier</name>
+  <detail>Mind Control an Ethereal.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>Humanity's Savior</name>
+  <detail>Beat the game on any difficulty.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="000">
+  <name>Earth First</name>
+  <detail>Beat the game on Classic difficulty.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="G" pid="000">
+  <name>Our Finest Hour</name>
+  <detail>Beat the game on Impossible difficulty.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>Lone Wolf</name>
+  <detail>Clear a UFO crash site with one soldier on Classic or Impossible difficulty.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>Welcoming Committee</name>
+  <detail>Kill 150 aliens.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>Ain't No Cavalry Comin'</name>
+  <detail>Have a soldier survive every mission in a full game.</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>Edison</name>
+  <detail>In a single game, complete every Research Project.</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>All Employees Must Wash Hands...</name>
+  <detail>In a single game, complete every Autopsy.</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>Beyond the Veil</name>
+  <detail>Find a soldier with the Gift.</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="B" pid="000">
+  <name>Prisoner of War</name>
+  <detail>Capture a live alien.</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="B" pid="000">
+  <name>The Gatekeeper</name>
+  <detail>Stun an Outsider.</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="B" pid="000">
+  <name>X Marks the Spot</name>
+  <detail>Uncover the alien base's location.</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="B" pid="000">
+  <name>On the Shoulders of Giants</name>
+  <detail>Build the Gollop Chamber.</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>Eye in the Sky</name>
+  <detail>Launch a Satellite.</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>All Together Now</name>
+  <detail>Get satellite coverage over every country on one continent.</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>Hunter/Killer</name>
+  <detail>In a single game, shoot down one of each alien craft.</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>We Happy Few</name>
+  <detail>Complete a mission without losing a soldier.</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="S" pid="000">
+  <name>The Hardest Road</name>
+  <detail>Advance one of your soldiers to Colonel rank.</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>Worth Every Penny</name>
+  <detail>Acquire 1000 credits in one month.</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>Skunkworks</name>
+  <detail>In a single game, complete every Foundry project.</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>Theory...</name>
+  <detail>Build a Laboratory.</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="000">
+  <name>...and Practice</name>
+  <detail>Build a Workshop.</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="S" pid="000">
+  <name>Wet Work</name>
+  <detail>Complete a Very Difficult abduction mission in five turns or less on Classic or Impossible difficulty.</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="B" pid="000">
+  <name>Drums in the Deep</name>
+  <detail>Gain access to the lowest level in your base.</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="B" pid="000">
+  <name>Happy to Oblige</name>
+  <detail>Fulfill a Council request.</detail>
+ </trophy>
+ <trophy id="043" hidden="yes" ttype="B" pid="000">
+  <name>Off My Planet</name>
+  <detail>Recover the Hyperwave Beacon.</detail>
+ </trophy>
+ <trophy id="044" hidden="no" ttype="B" pid="000">
+  <name>Tables Turned</name>
+  <detail>Shoot down a UFO.</detail>
+ </trophy>
+ <trophy id="045" hidden="no" ttype="B" pid="000">
+  <name>And So It Begins...</name>
+  <detail>Complete the tutorial mission.</detail>
+ </trophy>
+ <trophy id="046" hidden="yes" ttype="B" pid="000">
+  <name>The Volunteer</name>
+  <detail>Make contact with the Ethereal hive mind.</detail>
+ </trophy>
+ <trophy id="047" hidden="yes" ttype="B" pid="000">
+  <name>Flight of the Valkyries</name>
+  <detail>Win a mission with an all-female squad.</detail>
+ </trophy>
+</trophyconf>

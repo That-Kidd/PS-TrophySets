@@ -1,0 +1,144 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000043301e8b8b165fd0aafe3e3d7cc23e69d9b8336ebc07a773c4d81818aff2702ff6364389e877a000b13c544d12d34bbbcfa436fe13a1e12f18e4800517f31ed8b6c2505c7b841599d1c7c4976ca6c61c84172662ffc825a2d6d51f47833bcf3e04d23cdbfcb00307e7e6f727eff96882e86ce6c8b39d8a4cdfdc03281047e44ba3aa114a14616f98426769f32475ec97923de72e-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR10684_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>ピリオドキューブ ～鳥籠のアマデウス～</title-name>
+ <title-detail>ピリオドキューブ ～鳥籠のアマデウス～</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>アルケイディアMaster!!</name>
+  <detail>全てのトロフィーを獲得した</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>ゲーム世界での目覚め</name>
+  <detail>プロローグをクリアした</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>冒険の始まり</name>
+  <detail>一章をクリアした</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>初めてのバトル</name>
+  <detail>初めてバトル選択肢をおこなった</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>触れあう気持ち</name>
+  <detail>初めて好感度がアップした</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>オマエの一番になりたい</name>
+  <detail>ヒロヤのグッドEDをクリアした</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>全部、あんたのせいだ</name>
+  <detail>ラディウスのグッドEDをクリアした</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>言ってよ、ワガママ</name>
+  <detail>リベラのグッドEDをクリアした</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>君は僕の彼女だから！</name>
+  <detail>アストラムのグッドEDをクリアした</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="000">
+  <name>おんなじだね</name>
+  <detail>ザインのグッドEDをクリアした</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="000">
+  <name>ずっと我慢してたのに</name>
+  <detail>ポヨポヨのグッドEDをクリアした</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>アンタにだけは</name>
+  <detail>ディメントのグッドEDをクリアした</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="B" pid="000">
+  <name>甘やかな呪い</name>
+  <detail>ヒロヤのメリーバッドEDをクリアした</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="000">
+  <name>終わらない楽園</name>
+  <detail>ラディウスのメリーバッドEDをクリアした</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="B" pid="000">
+  <name>醒めない夢</name>
+  <detail>リベラのメリーバッドEDをクリアした</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>永遠の愛</name>
+  <detail>アストラムのメリーバッドEDをクリアした</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>穏やかな日々</name>
+  <detail>ザインのメリーバッドEDをクリアした</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>完全なる世界</name>
+  <detail>ポヨポヨのメリーバッドEDをクリアした</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>生きてる実感</name>
+  <detail>ディメントのメリーバッドEDをクリアした</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="S" pid="000">
+  <name>ヒロヤcomplete!!</name>
+  <detail>ヒロヤのCGを全てオープンした</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="S" pid="000">
+  <name>ラディウスcomplete!!</name>
+  <detail>ラディウスのCGを全てオープンした</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="S" pid="000">
+  <name>リベラcomplete!!</name>
+  <detail>リベラのCGを全てオープンした</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="S" pid="000">
+  <name>アストラムcomplete!!</name>
+  <detail>アストラムのCGを全てオープンした</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="S" pid="000">
+  <name>ザインcomplete!!</name>
+  <detail>ザインのCGを全てオープンした</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="S" pid="000">
+  <name>ポヨポヨcomplete!!</name>
+  <detail>ポヨポヨのCGを全てオープンした</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="S" pid="000">
+  <name>ディメントcomplete!!</name>
+  <detail>ディメントのCGを全てオープンした</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="S" pid="000">
+  <name>その他complete!!</name>
+  <detail>その他のCGを全てオープンした</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="S" pid="000">
+  <name>幸せの在り処</name>
+  <detail>全員のグッドEDを見た</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="S" pid="000">
+  <name>宝石のような悪夢</name>
+  <detail>全員のメリーバッドEDを見た</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="G" pid="000">
+  <name>真実は心の中に</name>
+  <detail>全てのEDを見た</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="G" pid="000">
+  <name>刻まれた想い出</name>
+  <detail>全てのCGを見た</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="G" pid="000">
+  <name>永遠の日々</name>
+  <detail>全ての後日談を解放した</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="G" pid="000">
+  <name>叡智の書庫</name>
+  <detail>用語集を全て解放した</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="G" pid="000">
+  <name>この世界で生きた証</name>
+  <detail>フルコンプCGをオープンした</detail>
+ </trophy>
+</trophyconf>

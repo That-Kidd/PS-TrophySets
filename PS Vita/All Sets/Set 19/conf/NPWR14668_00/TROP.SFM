@@ -1,0 +1,80 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000009b4bec2e674da81d056d849262b4b7cdd4549bf5a1b055deebbae9ce5d765c950c0f1d6e8299dc99c3b15645a348f1023618204eeb3db64eaca11ecb02ddfa50cfe5db3f39deedbf23a1e26a3ff5b64c03c89845795a8f21d0790ec338bef81909aea88f5ac69da10509865fcf45b31fd1da628118c196304c3e727519b714bd08604d556f0e06374e53abf7a8ef1505c85c9a85-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR14668_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Where Are My Friends?</title-name>
+ <title-detail>Where Are My Friends?</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Where Are My Friends? Platinum</name>
+  <detail>Good job! Completed all tasks!</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="G" pid="000">
+  <name>It's me - Italian Plumber!</name>
+  <detail>Collect all coins in Jungle-level</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>Invulnerable: BUNKER</name>
+  <detail>Complete Bunker-level without dying</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>Invulnerable: JUNGLE</name>
+  <detail>Complete Jungle-level without dying</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>Invulnerable: CAVE</name>
+  <detail>Complete Cave-level without dying</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>Finish game</name>
+  <detail>Thanks for playing &lt;3</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="G" pid="000">
+  <name>1977-2017</name>
+  <detail>Hidden meaning...</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>Bunker</name>
+  <detail>Complete Bunker-level</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>Jungle</name>
+  <detail>Complete Jungle-level</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>Tower</name>
+  <detail>Complete Tower-level</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>Cave</name>
+  <detail>Complete Cave-level</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>Till the very last piece</name>
+  <detail>Complete the Tower-level without any items in the inventory</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>First button!</name>
+  <detail>Press first button after start of new game</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>Story begin</name>
+  <detail>Use telescope on a spaceship</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>Knowledge</name>
+  <detail>Use the library on a spaceship</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="G" pid="000">
+  <name>Engineer</name>
+  <detail>Assemble the part in the laboratory on a spaceship</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>Go home!</name>
+  <detail>Use teleport on a choose-level-location</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>Reel time!</name>
+  <detail>Use reel on a choose-level-location</detail>
+ </trophy>
+</trophyconf>

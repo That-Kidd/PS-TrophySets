@@ -1,0 +1,116 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000af7b00588763479e1fbf9d4d94d780c6c494ac13a09152cbe2564c48f01de80120667c4d3cd99db67892024dcc89d6798642f8cc5cffb5ea55e796f7f6a9809e35b66bbb1a22441238132e06adade58557e61209cc84b96b13c24ff8cb50c0e6324850e379e3217530ab4561796b39b16d7e4c20b8bb3d28e6402922d4fb4952014d440c666c426c13919f54522fe6f359a53477-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR14119_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>SQUAREBOY VS BULLIES</title-name>
+ <title-detail>SQUAREBOY VS BULLIES</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>SQUAREBOY VS BULLIES</name>
+  <detail>DEFEAT ALL THE BULLIES</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>KNOWLEDGE IS KEY</name>
+  <detail>OPEN THE MOVES LIST IN THE PAUSED MENU</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>STRIKER</name>
+  <detail>HIT AN ENEMY WITH A STRIKE COMBO</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>UPPERCUT HERO</name>
+  <detail>HIT AN ENEMY WITH A JUMP PUNCH</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>WHAT A KICK</name>
+  <detail>HIT AN ENEMY WITH A JUMP KICK</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>EYES AT THE BACK</name>
+  <detail>HIT AN ENEMY WITH A BACK PUNCH</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>SO FAST</name>
+  <detail>HIT AN ENEMY WITH A DASH ATTACK</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>LIKE A TORNADO</name>
+  <detail>HIT AN ENEMY WITH A SPIN PUNCH</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>A CLEAN SWEEP</name>
+  <detail>HIT AN ENEMY WITH A SPIN KICK</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>GOTCHA</name>
+  <detail>GRAB AN ENEMY</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>HAYEAHH</name>
+  <detail>THROW AN ENEMY</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>HOMERUN</name>
+  <detail>HIT AN ENEMY WITH A BASEBALL BAT</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>UNLEASHED</name>
+  <detail>HIT AN ENEMY WITH A CHAIN</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>TIRE OR TYRE?</name>
+  <detail>HIT AN ENEMY WITH A TIRE</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>BOXING CHAMP</name>
+  <detail>HIT AN ENEMY WITH A BOX</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>TAKING OUT THE TRASH</name>
+  <detail>HIT AN ENEMY WITH A TRASH CAN</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>EARLY DELIVERY</name>
+  <detail>HIT AN ENEMY WITH A CRATE</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="G" pid="000">
+  <name>WEAPONS MASTER</name>
+  <detail>HIT ENEMIES BEHIND AND IN FRONT OF YOU WITH A SINGLE SWING OF A WEAPON</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="G" pid="000">
+  <name>GOTCHA SLIPPERY NINJA</name>
+  <detail>THROW A CRATE ON THE NINJA BULLY ON THE SHIP DECK</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>TRAINING</name>
+  <detail>DESTROY ALL THE DUMMIES IN THE DOJO</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="G" pid="000">
+  <name>BANDANAS ARE SILLY</name>
+  <detail>DEFEAT BANDANA BULLY ON THE HIDEOUT ROOFTOP</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="G" pid="000">
+  <name>A BLACK ROBE ALONE MAKETH NOT THE NINJA</name>
+  <detail>DEFEAT NINJA BULLY ON THE SHIP DECK</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="G" pid="000">
+  <name>BIGGER THEY ARE, HARDER THEY FALL</name>
+  <detail>DEFEAT BIG BOSS BULLY</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="G" pid="000">
+  <name>BULLYING IS UNCOOL</name>
+  <detail>FINISH THE GAME</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>STAND UP FOR YOURSELF</name>
+  <detail>DEFEAT 10 BULLIES</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="S" pid="000">
+  <name>STAND UP FOR YOUR FRIENDS</name>
+  <detail>DEFEAT 100 BULLIES</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="G" pid="000">
+  <name>STAND UP FOR EVERYONE</name>
+  <detail>DEFEAT 300 BULLIES</detail>
+ </trophy>
+</trophyconf>

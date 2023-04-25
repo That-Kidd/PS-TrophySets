@@ -1,0 +1,60 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000815c2adc20b9614c9c2c66e35dd35ef08ec7fc9eb2a98fb055e0125f2f50b5a7217aed1479537a4cb30f7c32340dd8717fb1686c7dbfe142adadb5e30f9d6aa38402041a683507dbd06dd02eecec7a9c73acac101b6bb000ee0a8cbe3a25b341d9ca5feb255a90da461fecf4d2ba2350ae0d27ec279dc63fdcee29ebf333869c4636f8628ebb69b1f4243c6e5d0777aaeb190f87-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR17216_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Bouncy Bullets</title-name>
+ <title-detail>Bouncy Bullets</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Bouncy platinum</name>
+  <detail>Get all the trophies.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="000">
+  <name>Don't give up</name>
+  <detail>Die for the first time.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>It was him or you</name>
+  <detail>Kill a black enemy.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>Great shot</name>
+  <detail>Kill a purple or yellow enemy.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>Be careful with the hostages</name>
+  <detail>Accidentally kill a gray character.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>Well done</name>
+  <detail>Complete a level with 3 stars.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>Rookie</name>
+  <detail>Complete 5 levels.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>Keep it up</name>
+  <detail>Complete 10 levels.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>You can do it</name>
+  <detail>Complete 15 levels.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>Expert</name>
+  <detail>Complete 20 levels.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>Champion</name>
+  <detail>Complete 25 levels.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>Special</name>
+  <detail>Complete 3 special levels.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>Super special</name>
+  <detail>Complete 6 special levels.</detail>
+ </trophy>
+</trophyconf>

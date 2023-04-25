@@ -1,0 +1,56 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000bcee322d84c047480618153ebdf99a2e97f1ea8c10261edc7b4cbed3cb55c4379a935e582a77a259a66bef8f1f82aedaf8e05028b1b2ffd7f50918fe1517cd4a9d08f040f328e19c99fe6351e7d9631ad621d048fc2da5471a3cbbe400f7cb75ab83863d98b201c43161e83b724c5fc53efc24384dc3b60b12bad7f58efee770b657baecebd5a724b25625008bf153ce009750b5-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR14678_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>カタハネ ―An' call Belle―</title-name>
+ <title-detail>カタハネ ―An' call Belle―のトロフィーです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>コンプリート</name>
+  <detail>全てのトロフィーを獲得</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="G" pid="000">
+  <name>聖歌隊</name>
+  <detail>ベルが聖歌を歌った</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="G" pid="000">
+  <name>ひとつの終わり</name>
+  <detail>「KUROHANE」を読んだ</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="G" pid="000">
+  <name>過去から未来へ</name>
+  <detail>「Secret Story」を読んだ</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="G" pid="000">
+  <name>人形劇</name>
+  <detail>みんなで人形劇を成功させた</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="G" pid="000">
+  <name>「――この劇は、私の一生の宝物」</name>
+  <detail>「ワカバ」の物語を読んだ</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="G" pid="000">
+  <name>「心から、愛しています」</name>
+  <detail>「アンジェリナ」の物語を読んだ</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="G" pid="000">
+  <name>天使の導き</name>
+  <detail>みんなで演劇祭を成功させた</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="G" pid="000">
+  <name>想いの軌跡</name>
+  <detail>「想いの軌跡」を読んだ</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>Graphicコンプリート</name>
+  <detail>Graphic鑑賞をコンプリート</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>Musicコンプリート</name>
+  <detail>Music鑑賞をコンプリート</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>Movieコンプリート</name>
+  <detail>Movie鑑賞をコンプリート</detail>
+ </trophy>
+</trophyconf>

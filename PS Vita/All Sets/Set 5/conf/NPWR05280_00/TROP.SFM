@@ -1,0 +1,116 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000e022589c7659df0392555b26178799c84ede11af0b02bf688203da1e638391059612bb63c8de5b38a7069c2a0abb1f7f427ab4469bacaac67a3dabcddcc76c877be27e380619565a763663541a61ede9f37faa10c4cb4330d951de685f28921f6cf3db99813b4191f09946ca474fc837e875e093c04bff6cec0e8f2af2b7f95a4ebc3c4631efe5fee2aa2aabb817f98ede51f30d-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR05280_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Lemmings™ Touch</title-name>
+ <title-detail>The trophy set for Lemmings™ Touch</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Obtain All Trophies</name>
+  <detail>Obtain All Trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Lessons Learned</name>
+  <detail>Complete the Tutorials</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Easy There</name>
+  <detail>Unlock Tricky Difficulty</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Getting Tricky</name>
+  <detail>Unlock Taxing Difficulty</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>In The Big Leagues</name>
+  <detail>Unlock Hard Difficulty</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>Cakewalk</name>
+  <detail>Complete All Easy Levels</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>Stepping Up</name>
+  <detail>Complete All Tricky Levels</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>Turning Up The Heat</name>
+  <detail>Complete All Taxing Levels</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>A Real Contender</name>
+  <detail>Complete All Hard Levels</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>A Taste of the Best now Finish the Rest</name>
+  <detail>Obtain All Stars on a level</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>More of a Handful than Usual</name>
+  <detail>Obtain all the stars from the Easy Levels</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>Easy, with a pinch of Difficult</name>
+  <detail>Obtain all the stars from the Tricky Levels</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>Dedicated</name>
+  <detail>Obtain all the stars from the Taxing Levels</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="000">
+  <name>Leave No Lem Behind</name>
+  <detail>Obtain All the stars from the Hard Levels</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>What did I do?</name>
+  <detail>Complete 1 Objective</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>A Slight Detour</name>
+  <detail>Complete 10 Objectives</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>Going out of your way</name>
+  <detail>Complete 25 Objectives</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="G" pid="000">
+  <name>Side Mission Manic</name>
+  <detail>Complete 50 Objectives</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>Hats Off to you Sir</name>
+  <detail>Buy your first item from the Look &amp; Style menu</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="000">
+  <name>Wardrobe Malfunction</name>
+  <detail>Buy 10 items from the Look &amp; Style menu</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="G" pid="000">
+  <name>Bringing the Bling</name>
+  <detail>Buy 20 items from the Look &amp; Style menu</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>You're a Wizard, Lemming!</name>
+  <detail>Wizard Costume: Black Hair/Body, Wizard Hat, Glasses and Wand.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>Make it your Business</name>
+  <detail>Business Costume: Black Body/Hair/Moustache/Umbrella, Bowler Hat and Tie.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>He deserved it!</name>
+  <detail>Kill your first Mischievous Lemming</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>Showing your wares</name>
+  <detail>Play a level with any item from the Look &amp; Style menu</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="S" pid="000">
+  <name>You went out like that?</name>
+  <detail>Play 20 levels with any item from the Look &amp; Style menu</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="G" pid="000">
+  <name>The 95%</name>
+  <detail>Obtain 290 Stars or more</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,72 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000e67899abe6f7c09b9babe57a82599edb894158157dea229213a7b0cf43aec0177e051f9f1b0207fa8acdaed22f6a7ddf9f1edfc6467bfaff8e43a915fb4e58819fded672c711dd7e57d82d84d6bdc5d7063e22993df44cca62868ffe16fdf9f7cc96a44047a47dcd9a8284e8283bcbb2e2cf21f21f6651e26efd1653ae03b751043bcfcd0206c9a0d26bb9efbc3585ee3e94c05e-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR05082_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Azkend 2</title-name>
+ <title-detail>Azkend 2</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Match Ten</name>
+  <detail>Create a match of ten items.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Humble Highscore</name>
+  <detail>Get 12,000 points in the Time challenge with a multiplier of 1.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Exact-o-Matcher</name>
+  <detail>Play a classic level without matching even one move on blue tiles.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Compass Master</name>
+  <detail>Include four compass pieces in one match.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Match 16</name>
+  <detail>Create a match of 16 or more items.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Bug Stomper</name>
+  <detail>Squish five bugs with a single match.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Expert Matcher</name>
+  <detail>Create a match of 24 or more items.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Medal Apprentice</name>
+  <detail>Get a medal from half of the levels in the Medal challenge.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Snappy Collector</name>
+  <detail>Collect all the flowers before any leaves fall.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>Bug Shooter</name>
+  <detail>Kill a bug in flight.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>Carpenter</name>
+  <detail>Turn all of the wood tiles before turning any steel tiles during one level.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="-1">
+  <name>God of Thunder</name>
+  <detail>Create a ball lightning with every move during one level.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="-1">
+  <name>Timely Tile Turner</name>
+  <detail>Turn all of the tiles blue 10 or more times during one round of Time challenge.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="-1">
+  <name>Extinguisher</name>
+  <detail>Make every match next to a fiery tile in one level of the fire game mode.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="-1">
+  <name>Challenge Champion</name>
+  <detail>Reach a multiplier of 30 in the Time challenge.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="-1">
+  <name>Medal Master</name>
+  <detail>Get a medal from all of the levels in the Medal challenge.</detail>
+ </trophy>
+</trophyconf>

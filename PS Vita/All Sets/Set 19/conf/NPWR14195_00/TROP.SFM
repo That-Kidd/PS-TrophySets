@@ -1,0 +1,48 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000dd9d7a08a7fe52688b0c693e0d812fcb7363d14283ab0ecbf6af40a4891731832372ee3f0df838d56c0554db45a49118b3f94062ea72834ea25d5447b88a9957ce65bbe5415751ded35dfb7032240bd978e57a130850f0a937d9c63f63e47b1392583947a74382e000f436ad9b68c68781f2fe5898fab1e96a086543016f00f34319059364b360ae83d7f63786a2dfb7332a875d-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="small">
+ <npcommid>NPWR14195_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>NORTH</title-name>
+ <title-detail>NORTH</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Listener</name>
+  <detail>Listened to the radio</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Special pills</name>
+  <detail>Do not talk about them to doctors</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Job description</name>
+  <detail>He learned about his new job</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Burned out at work</name>
+  <detail>He did not do the job</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="-1">
+  <name>Good worker</name>
+  <detail>For today, the work is done</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="-1">
+  <name>This door will open later</name>
+  <detail>He tried to enter the immigration office, but the door was closed</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="-1">
+  <name>Police test</name>
+  <detail>Police test successfully passed</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="-1">
+  <name>The doctors test</name>
+  <detail>The doctors test passed successfully</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="-1">
+  <name>Prayer</name>
+  <detail>Took a new religion</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="-1">
+  <name>The last letter</name>
+  <detail>He got to the end of this story</detail>
+ </trophy>
+</trophyconf>

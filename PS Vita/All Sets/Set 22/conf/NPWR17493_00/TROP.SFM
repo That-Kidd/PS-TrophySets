@@ -1,0 +1,104 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000796cdd6e65f9ffd9f349c5e6f6e3057bfdf161007f20b8a1763d5d2fbe58d6e17a960708bd0291033ffac0a4b96ec7825e0c7ba919ff7a0814611d3561d36eb61ec92e2173a044592fe9468e04b9328d6c3611edbc587d7dfc71597287c0cee9f885fdc3509da6251408bd23e35c4009276a37c1f2f7468646515ee1d85b905c1f25d1eda6cb1c9f284168b12535fedaa135d251-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR17493_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Pic-a-Pix Classic</title-name>
+ <title-detail>The trophy set of Pic-a-Pix Classic</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Pic-of-the-Bunch</name>
+  <detail>Collect all the trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Tiny Puzzler</name>
+  <detail>Solve a 5x5 puzzle</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Casual Puzzler</name>
+  <detail>Solve a 10x10 puzzle</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>Casual Smarty Pants</name>
+  <detail>Solve a 10x10 puzzle without using an X</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>Casual Completionist</name>
+  <detail>Solve all the 10x10 puzzles</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>Casual Perfectionist</name>
+  <detail>Earn a medal for every 10x10 puzzle</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>Adept Puzzler</name>
+  <detail>Solve a 15x15 puzzle</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>Adept Smarty Pants</name>
+  <detail>Solve a 15x15 puzzle without using an X</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>Adept Completionist</name>
+  <detail>Solve all the 15x15 puzzles</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>Adept Perfectionist</name>
+  <detail>Earn a medal for every 15x15 puzzle</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>Talented Puzzler</name>
+  <detail>Solve a 20x15 puzzle</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>Talented Smarty Pants</name>
+  <detail>Solve a 20x15 puzzle without using an X</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>Talented Completionist</name>
+  <detail>Solve all the 20x15 puzzles</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>Talented Perfectionist</name>
+  <detail>Earn a medal for every 20x15 puzzle</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>Expert Puzzler</name>
+  <detail>Solve a 20x20 puzzle</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="G" pid="000">
+  <name>Expert Smarty Pants</name>
+  <detail>Solve a 20x20 puzzle without using an X</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>Expert Completionist</name>
+  <detail>Solve all the 20x20 puzzles</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>Expert Perfectionist</name>
+  <detail>Earn a medal for every 20x20 puzzle</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>Guru Puzzler</name>
+  <detail>Solve a 30x20 puzzle</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="G" pid="000">
+  <name>Guru Smarty Pants</name>
+  <detail>Solve a 30x20 puzzle without using an X</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>Guru Completionist</name>
+  <detail>Solve all the 30x20 puzzles</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>Guru Perfectionist</name>
+  <detail>Earn a medal for every 30x20 puzzle</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="G" pid="000">
+  <name>Perfect Completionist</name>
+  <detail>Solve every puzzle</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="G" pid="000">
+  <name>Complete Perfectionist</name>
+  <detail>Earn a medal for every puzzle</detail>
+ </trophy>
+</trophyconf>

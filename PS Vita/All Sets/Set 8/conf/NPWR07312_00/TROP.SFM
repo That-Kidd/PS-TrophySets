@@ -1,0 +1,52 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000c85e6b91569922f0589106dca4216033a831d96e9e78519bd57658c2d9c1c81e004fae7d5d8c2bcce7a406303d2bc88c87aefc0eb85a8e2fafde7fe4d8e01cc671f4cd00b20a9cdb3bb92feaf954bbd396199a7ca1b8a60a1a6c95e1c1e07a5564441ba577b23351323257bf93537c356b1709c4eb92f937c643d9e7f8b820f6acd8d5c3536b4b11afb49085d63e53f1adc05230-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR07312_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>AirshipQ</title-name>
+ <title-detail>AirshipQ Trophy List</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Breaking Out</name>
+  <detail>Get the airship.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Red Dragon</name>
+  <detail>Defeat the red dragon.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Green Dragon</name>
+  <detail>Defeat the green dragon.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Blue Dragon</name>
+  <detail>Defeat the blue dragon.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Witch</name>
+  <detail>Defeat the Witch.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>La Puter</name>
+  <detail>Defeat La Puter.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="-1">
+  <name>Wing Sigil</name>
+  <detail>Obtain the Wing Sigil.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="-1">
+  <name>Great Tree Sigil</name>
+  <detail>Obtain the Great Tree Sigil.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="-1">
+  <name>Eye Sigil</name>
+  <detail>Obtain the Eye Sigil.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="-1">
+  <name>Sun Sigil</name>
+  <detail>Obtain the Sun Sigil.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="-1">
+  <name>Blue Crystal</name>
+  <detail>Collect 100 blue crystals.</detail>
+ </trophy>
+</trophyconf>

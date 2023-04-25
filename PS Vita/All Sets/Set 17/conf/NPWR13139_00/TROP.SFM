@@ -1,0 +1,64 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000004cb6794ff8f51aa77c65352cf748d609c51e5b5a57a0cca2ac817ad2897e2c19589a94cebf4298ca629b76d602294abc6de208da5b82080946e440a56ae77eb98b0aed00000d9a33b3b87d5e02907716c663caa203b0e7f4fbcb20c5e468598ccc403e8fc11f841bd7d56e34459f3e2452e5d351c452d2c63b60ee0c4b9a8229cd51e6ad6682f5c2479bb9600ede0e56af54cafe-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR13139_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Dragons Online</title-name>
+ <title-detail>Dragons Online</title-detail>
+ <trophy id="000" hidden="no" ttype="G" pid="-1">
+  <name>Natural born killer</name>
+  <detail>Defeat a total of 100 Players and Enemies&#x0a;</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="-1">
+  <name>PVP</name>
+  <detail>Winning blow on a Player (PVP needs to be on for both players)&#x0a;</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="-1">
+  <name>Revenge probe</name>
+  <detail>Winning blow on a Tripod&#x0a;</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Down a Phoenix</name>
+  <detail>Winning blow on a Phoenix&#x0a;</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Early Bird</name>
+  <detail>Winning blow on a CaveWorm</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Beauty killed the Beast</name>
+  <detail>Winning blow on a Fairy&#x0a;</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Baa humbug</name>
+  <detail>Sacrificed a Sheep&#x0a;</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Now its personal</name>
+  <detail>Customise your Dragon</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>SODA Quest</name>
+  <detail>Talk to all NPCs (Scientist, Orphanage, Doctor, Artist)</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>Mine</name>
+  <detail>Claimed a Nest&#x0a;</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>Hatchlings</name>
+  <detail>Hatched a Baby Dragon from a nest&#x0a;</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="-1">
+  <name>Is there anybody there</name>
+  <detail>Speak in chat&#x0a;</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="-1">
+  <name>Nosey Parker</name>
+  <detail>View a profile in chat&#x0a;</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="-1">
+  <name>Thank you bonus</name>
+  <detail>Receive menu support reward</detail>
+ </trophy>
+</trophyconf>

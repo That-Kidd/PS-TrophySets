@@ -1,0 +1,172 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000008fd2b1a44f341af40cf9164be861bfe009b311da6b8fe8bd264dd969f3e7445aad7587a24fc0226aa31bffc06ade105921152571422a90117cd70cc2473386e217c6775f5c8f673a54ab4e02bab207c7a77bf5d1bf720f58f85e5919de1a1f18b31e195afd7f85fdac9535d0738752e663ffab1a674b7941e10b242bfd60f1e8c1756f78def8532c767619b163966b08f20d426f-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR03054_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>DEMON GAZE</title-name>
+ <title-detail>DEMON GAZE TROPHY SET</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>デモンゲイザー</name>
+  <detail>ここまで遊んでくれてありがとう！</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>囚われの魂</name>
+  <detail>星のデモン：コメットを倒した</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>憤怒の炎</name>
+  <detail>火のデモン：マルスを倒した</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>墓地の守り人</name>
+  <detail>土のデモン：クロノスを倒した</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>森の王子</name>
+  <detail>風のデモン：ヘルメスを倒した</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>水奥の癒し</name>
+  <detail>水のデモン：ネプトゥヌスを倒した</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>絶世の美女</name>
+  <detail>美のデモン：ヴィーナスを倒した</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>極めし魔力</name>
+  <detail>魔のデモン：アストロを倒した</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>電力と仕掛け</name>
+  <detail>雷のデモン：ユピテルを倒した</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>傲慢という光</name>
+  <detail>光のデモン：ウラヌスを倒した</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>妖艶な眼差し</name>
+  <detail>闇のデモン：プルトを倒した</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>片割れとの決闘</name>
+  <detail>月のデモン：ルナを倒した</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="G" pid="000">
+  <name>この地に平和を</name>
+  <detail>闇の大天使：ソルを倒して平和を取り戻した</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>魔を統べし者</name>
+  <detail>運命のデモン：エリスの鍵を手に入れた</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="G" pid="000">
+  <name>神の試練</name>
+  <detail>時のデモン：クエイサーを倒した</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>初めての水中探索</name>
+  <detail>青の旧市街に突入した</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>閉ざされた魔城</name>
+  <detail>グリモダール城に突入した</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>古王の楽園</name>
+  <detail>王のエデンに突入した</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>転移装置起動</name>
+  <detail>ゲートストーンを起動した</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>名前はここに</name>
+  <detail>初めて竜姫亭の部屋を自分で借りた</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="000">
+  <name>幸せな家族になりましょう</name>
+  <detail>ピーネと仲良しになった</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>これが感情なのだとしたら</name>
+  <detail>プロメスと仲良しになった</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="B" pid="000">
+  <name>シャーク教団の最期</name>
+  <detail>シャーク様を倒した</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>強襲　竜姫亭</name>
+  <detail>ミドガルズオルムを倒した</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="000">
+  <name>お宝は体内に</name>
+  <detail>ミドガルズハートを倒した</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="B" pid="000">
+  <name>ダール王の指輪</name>
+  <detail>三至宝：指輪を手に入れた</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>魔剣デモンスレイン</name>
+  <detail>三至宝：剣を手に入れた</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="B" pid="000">
+  <name>イーシルの御鏡</name>
+  <detail>三至宝：盾を手に入れた</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>毎日コツコツと</name>
+  <detail>家賃を初めて支払った</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="S" pid="000">
+  <name>優良住居人</name>
+  <detail>家賃報酬最高を手に入れた</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>不名誉賞</name>
+  <detail>家賃を滞納した</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>最高の装備</name>
+  <detail>通常アイテムを最大まで鍛えた</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="S" pid="000">
+  <name>至高の装備</name>
+  <detail>ユニークアイテムを最大まで鍛えた</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>百戦錬磨</name>
+  <detail>１００回の戦闘を闘いぬいた</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="S" pid="000">
+  <name>海千山千</name>
+  <detail>１０００回の戦闘を闘いぬいた</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>修羅のごとく</name>
+  <detail>１０００匹の敵を打ち倒した</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="S" pid="000">
+  <name>鬼神のごとく</name>
+  <detail>３０００匹の敵を打ち倒した</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="S" pid="000">
+  <name>妖刀村正</name>
+  <detail>村正を手に入れた</detail>
+ </trophy>
+ <trophy id="038" hidden="yes" ttype="G" pid="000">
+  <name>妖刀を超えしもの</name>
+  <detail>大村正を手に入れた</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="000">
+  <name>家具を大切に</name>
+  <detail>家具を配置した</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="B" pid="000">
+  <name>たまには趣を変えて</name>
+  <detail>通常とは異なる見た目を試した</detail>
+ </trophy>
+</trophyconf>

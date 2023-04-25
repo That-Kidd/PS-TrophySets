@@ -1,0 +1,144 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000027157853bbd600b28bcea9e1ba8bd7f715463e761169d95cc2c44fc3063b97bfe2de9da7515e27a0e537c8067ca36d6b1e43e2b8361b46448bc3088fe76029268aaa0207c0479c3ff9eeffb34725775a054e723a07a33db80a7672c04da0287cc5041a658eb6f240a2e80af934dc95407829461d312880c6b16202fc967d4d7143416a1bad3c0c5684be73aa0e10465e6010ade8-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR06656_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>BinaryStar</title-name>
+ <title-detail>BinaryStarのトロフィーリストです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>アカツキの天遣</name>
+  <detail>全てのトロフィーを獲得した</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>始まりの日</name>
+  <detail>チャプター１　天遣の宴に参加した</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>再会</name>
+  <detail>チャプター２　アカツキの天遣塔に引っ越した</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>【Ｂｉ】の連行　クリア</name>
+  <detail>ユン・チャプター３　任務成功</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>クラブパーティ潜入捜査　クリア</name>
+  <detail>ユン・チャプター４　任務成功</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>【Ｂｉ】からの誘い　クリア</name>
+  <detail>ユン・チャプター５　任務成功</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>ホシクズのお迎え　クリア</name>
+  <detail>レイラ・チャプター３　任務成功</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>保育園潜入捜査　クリア</name>
+  <detail>レイラ・チャプター４　任務成功</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>天上裁判　クリア</name>
+  <detail>レイラ・チャプター５　任務成功</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="000">
+  <name>高校潜入　クリア</name>
+  <detail>ミクト・チャプター３　任務成功</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="000">
+  <name>ミクトへの疑い　クリア</name>
+  <detail>ミクト・チャプター４　任務成功</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>侵入者の捕獲　クリア</name>
+  <detail>ミクト・チャプター５　任務成功</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="B" pid="000">
+  <name>キャンディ運営者の連行　クリア</name>
+  <detail>チカイ・チャプター３　任務成功</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="000">
+  <name>ステラパーティへの潜入　クリア</name>
+  <detail>チカイ・チャプター４　任務成功</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="B" pid="000">
+  <name>夜会潜入捜査　クリア</name>
+  <detail>チカイ・チャプター５　任務成功</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>ベストパートナー　～ユン～</name>
+  <detail>ユンルートの任務を全て成功した</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>ベストパートナー　～レイラ～</name>
+  <detail>レイラルートの任務を全て成功した</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>ベストパートナー　～ミクト～</name>
+  <detail>ミクトルートの任務を全て成功した</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>ベストパートナー　～チカイ～</name>
+  <detail>チカイルートの任務を全て成功した</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="S" pid="000">
+  <name>賑やかなパートナー</name>
+  <detail>ユン・チームルート　グッドエンドをクリアした</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="S" pid="000">
+  <name>ツンデレなパートナー</name>
+  <detail>レイラ・チームルート　グッドエンドをクリアした</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="S" pid="000">
+  <name>ギャップありすぎパートナー</name>
+  <detail>ミクト・チームルート　グッドエンドをクリアした</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="S" pid="000">
+  <name>積極的すぎパートナー</name>
+  <detail>チカイ・チームルート　グッドエンドをクリアした</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="S" pid="000">
+  <name>愛されリーダー</name>
+  <detail>イヅキルート　チームエンドをクリアした</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="S" pid="000">
+  <name>２人だけの新しい“お揃い”</name>
+  <detail>ユン・ラブルート　ベストエンドをクリアした</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="S" pid="000">
+  <name>本物の夜空の下で誓う永遠</name>
+  <detail>レイラ・ラブルート　ベストエンドをクリアした</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="S" pid="000">
+  <name>あなたと見上げる綺麗な空</name>
+  <detail>ミクト・ラブルート　ベストエンドをクリアした</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="S" pid="000">
+  <name>甘い愛のキャンディ</name>
+  <detail>チカイ・ラブルート　ベストエンドをクリアした</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="S" pid="000">
+  <name>BinaryStar</name>
+  <detail>イヅキルート　ベストエンドをクリアした</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="S" pid="000">
+  <name>てふったーマニア</name>
+  <detail>すべてのてふったーを獲得した</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="G" pid="000">
+  <name>ギャラリーマスター</name>
+  <detail>すべてのＣＧを獲得した</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="G" pid="000">
+  <name>純愛マスター</name>
+  <detail>すべてのラブストーリーを確認した</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="G" pid="000">
+  <name>ドリームマスター</name>
+  <detail>すべてのドリームストーリーを確認した</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="G" pid="000">
+  <name>エンディングマスター</name>
+  <detail>すべてのエンディングを確認した</detail>
+ </trophy>
+</trophyconf>

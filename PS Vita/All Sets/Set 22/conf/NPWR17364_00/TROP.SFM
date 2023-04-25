@@ -1,0 +1,52 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000d8c935a594d6e62d7e0c4d9bc60105c5436a69e91e96ed4abb40ebd5144f39a142922bed6da953d0e5e73d0d15409ad1bcffea2a5e94e53b19c4bfa60d6a5a092a08ed5c3f13b214f97f6c7ea65442e8351669665d7fc4c2755714982a83b440bc02a0618e358d3741232e4c4e196e1dd17f57a9e07492d5f5f298e958316f7b3cd6e0e9a3ad5a1864b992582b68b1ffb6c7a5d6-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR17364_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>VASARA Collection</title-name>
+ <title-detail>Trophy Pack</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Now I get it!</name>
+  <detail>Fill your first Vasara Gauge</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>POWER UP</name>
+  <detail>Reach maximum fire power</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>I don't get it</name>
+  <detail>Finish any Stage without using a Vasara Attack</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Marksman</name>
+  <detail>Finish any Stage without using melee attacks</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Samurai Slayer</name>
+  <detail>Defeat your first Boss</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="-1">
+  <name>Who are YOU?</name>
+  <detail>Finish Vasara 1 by defeating Tokugawa</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="-1">
+  <name>The End of a Dynasty?</name>
+  <detail>Finish Vasara 1 by defeating the REAL Tokugawa</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="-1">
+  <name>The "Easy" way</name>
+  <detail>Finish Vasara 2 on 6 Stages Rank Mode</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="-1">
+  <name>The Long Road</name>
+  <detail>Finish Vasara 2 on 12 Stages Rank Mode</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="-1">
+  <name>CONNOISSEUR</name>
+  <detail>Finish Vasara 1 and Vasara 2 with all base characters</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="-1">
+  <name>Useless</name>
+  <detail>Finish any Stage without killing any Commander</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,248 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000009da1ed9c4f55f73804d63f26bf36ab3b1c8ab80e3979a3b23ecb91458843f769b4ef0d6e20bfbc83dc802e4dec07bf06fbab3cb1e74b82b6711545c4fd6eb3bb0f6f4565cda783da9bf1885d04707b1bb68cab4c4e66e1a2edcf70a59abd1896e3dbc1d9f906416a1cdfb5b8bebdf372e192f1beb75715920599db480e37c9b5291540cc96a17400748e46a1c8352e2eff5bcaa7-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR03139_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>STREET FIGHTER X TEKKEN</title-name>
+ <title-detail>STREET FIGHTER X TEKKENのトロフィーパックです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>極</name>
+  <detail>全てのトロフィーを獲得した</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="000">
+  <name>称号愛好家</name>
+  <detail>称号を300個獲得した</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>必殺の一撃</name>
+  <detail>必殺技を50回ヒットさせた</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>打ち上げ花火</name>
+  <detail>ランチアタックを50回ヒットさせた</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>波状攻撃</name>
+  <detail>クロスアサルトを50回発動させた</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>未知なる力</name>
+  <detail>パンドラを50回発動させた</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>阿吽の呼吸</name>
+  <detail>クロスアーツを50回ヒットさせた</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>コンボの嵐</name>
+  <detail>クイックコンボを30回ヒットさせた</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>輝く光</name>
+  <detail>アシストジェムを30回発動させた</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>ヒートアップ！</name>
+  <detail>ブーストジェムを30回発動させた</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>疾風怒濤</name>
+  <detail>クロスアサルトフィニッシュを30回決めた</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>武力制圧</name>
+  <detail>パンドラフィニッシュを30回決めた</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>華麗なる幕切れ</name>
+  <detail>スーパーアーツフィニッシュを30回決めた</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>タッグ革命</name>
+  <detail>クロスアーツフィニッシュを30回決めた</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>会心の勝利！</name>
+  <detail>パーフェクトで30回勝利した</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>激闘の果てに</name>
+  <detail>アーケードモードをクリアした(難易度MEDIUM以上)</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>兵どもが夢の跡</name>
+  <detail>アーケードモードで５組のライバルに勝利した(難易度MEDIUM以上)</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>混乱の元凶</name>
+  <detail>アーケードモードで全てのボスに勝利した(難易度HARDEST)</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>トライアルの入門者</name>
+  <detail>トライアルモードを1問クリアした</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>トライアルの達人</name>
+  <detail>トライアルモードを10問クリアした</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>トライアルの超人</name>
+  <detail>トライアルモードを100問クリアした</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>大きな一歩</name>
+  <detail>チュートリアルモードを1問クリアした</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>大きな成長</name>
+  <detail>チュートリアルモードを全問クリアした</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>はじめての任務</name>
+  <detail>ミッションモードを1問クリアした</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>特殊任務のスペシャリスト</name>
+  <detail>ミッションモードを全問クリアした</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>修練の賜物</name>
+  <detail>トレーニングモードに3回行った</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>勝利への布石</name>
+  <detail>ジェムユニットをカスタマイズした</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>オレ色に染まれ！</name>
+  <detail>キャラクターカラーをカスタマイズした</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>オレの流儀</name>
+  <detail>称号をカスタマイズした</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>一言いわせて</name>
+  <detail>コメントをカスタマイズした</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>武人の道</name>
+  <detail>ネットワーク対戦を10試合した</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>道の分岐点</name>
+  <detail>ネットワーク対戦を30試合した</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>険しき道</name>
+  <detail>ネットワーク対戦を50試合した</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>終わりなき道</name>
+  <detail>ネットワーク対戦を100試合した</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>守の精神</name>
+  <detail>ネットワーク対戦で5勝した</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>破の精神</name>
+  <detail>ネットワーク対戦で10勝した</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>離の精神</name>
+  <detail>ネットワーク対戦で50勝した</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="G" pid="000">
+  <name>孤高の精神</name>
+  <detail>ネットワーク対戦で100勝した</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>初勝利！</name>
+  <detail>ランク マッチではじめて勝利した</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="S" pid="000">
+  <name>勝者の証</name>
+  <detail>ランク マッチではじめてクラスアップした</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="S" pid="000">
+  <name>名誉の証</name>
+  <detail>ランク マッチではじめてＣクラスになった</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="B" pid="000">
+  <name>長き戦いの始まり</name>
+  <detail>エンドレスバトルではじめて勝利した</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="B" pid="000">
+  <name>道場主</name>
+  <detail>エンドレスバトルのロビーを1回作成した</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="B" pid="000">
+  <name>リプレイヤー</name>
+  <detail>リプレイチャンネルでリプレイを3回再生した</detail>
+ </trophy>
+ <trophy id="044" hidden="no" ttype="B" pid="000">
+  <name>ストクロ伝道師</name>
+  <detail>マイチャンネルの配信モードで、3回ダウンロードされる</detail>
+ </trophy>
+ <trophy id="045" hidden="no" ttype="B" pid="000">
+  <name>恋は盲目</name>
+  <detail>キャラクターのバトル回数が30回を超えた</detail>
+ </trophy>
+ <trophy id="046" hidden="no" ttype="B" pid="000">
+  <name>いつでもかかってこい！</name>
+  <detail>アーケード待ちうけを10回行なった</detail>
+ </trophy>
+ <trophy id="047" hidden="no" ttype="B" pid="000">
+  <name>いらっしゃいませ</name>
+  <detail>ストアに行った</detail>
+ </trophy>
+ <trophy id="048" hidden="no" ttype="B" pid="000">
+  <name>十人十色</name>
+  <detail>バースト組手で10回連続勝利した</detail>
+ </trophy>
+ <trophy id="049" hidden="no" ttype="B" pid="000">
+  <name>ご近所付き合い</name>
+  <detail>キャラクターカラーでギフトを5回配信した</detail>
+ </trophy>
+ <trophy id="050" hidden="no" ttype="B" pid="000">
+  <name>シャッターチャンス</name>
+  <detail>ARギャラリーで写真を撮影した</detail>
+ </trophy>
+ <trophy id="051" hidden="no" ttype="B" pid="000">
+  <name>勝者の余裕</name>
+  <detail>K.O.モニュメントを手に入れた</detail>
+ </trophy>
+ <trophy id="052" hidden="no" ttype="B" pid="000">
+  <name>音速忍者</name>
+  <detail>サウンドギャラリーで3回再生した</detail>
+ </trophy>
+ <trophy id="053" hidden="no" ttype="S" pid="000">
+  <name>それぞれの物語</name>
+  <detail>グラフィックギャラリーをすべてアンロックした</detail>
+ </trophy>
+ <trophy id="054" hidden="no" ttype="B" pid="000">
+  <name>流行の最先端</name>
+  <detail>カジュアルスタイルに設定して対戦した</detail>
+ </trophy>
+ <trophy id="055" hidden="no" ttype="B" pid="000">
+  <name>かろやかなK.O.</name>
+  <detail>バトルタップを使用して対戦にK.O.勝利した</detail>
+ </trophy>
+ <trophy id="056" hidden="no" ttype="B" pid="000">
+  <name>友情の兆し</name>
+  <detail>アドホックモードで対戦をした</detail>
+ </trophy>
+ <trophy id="057" hidden="no" ttype="B" pid="000">
+  <name>オールスター</name>
+  <detail>すべてのキャラクターを使用した</detail>
+ </trophy>
+ <trophy id="058" hidden="no" ttype="B" pid="000">
+  <name>戦いはこれからだ！</name>
+  <detail>アーケードモードでタッグをスワップした</detail>
+ </trophy>
+ <trophy id="059" hidden="no" ttype="S" pid="000">
+  <name>刻まれし軌跡</name>
+  <detail>バースト組手で30回連続勝利した</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,64 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000a577f95c2835d9c816ff2510621476703b11e5279f95158cd328c9368a5e5296629bee554aa729bd248b472451708b1c5bdf05ab360b4a2e945130e47d76e23883a8abb7e392b31fd7a0469ea4585584a7af14f42142be83ae44aaf72fc904d2b040f0d36f0391f433504772beea6fa403758e177bcffc802a159405342b405afb6506d8f4ea93a9e52512ba3da13dd572b822b3-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR05642_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>俺たちに翼はない</title-name>
+ <title-detail>トロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>おめでとう！</name>
+  <detail>すべてのトロフィーを獲得しました。</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>俺たちに翼はない</name>
+  <detail>「俺たちに翼はない」をプレイ開始しました。</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="G" pid="000">
+  <name>そういう日もある</name>
+  <detail>「俺たちに翼はない　渡来明日香ルート」をクリアしました。</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="G" pid="000">
+  <name>永遠に一緒だからね</name>
+  <detail>「俺たちに翼はない　山科京ルート」をクリアしました。</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="G" pid="000">
+  <name>これが私のタマイズム</name>
+  <detail>「俺たちに翼はない　玉泉日和子ルート」をクリアしました。</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="G" pid="000">
+  <name>そして作業着ー</name>
+  <detail>「俺たちに翼はない　鳳鳴ルート」をクリアしました。</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="G" pid="000">
+  <name>だからちょおヤバイってー！</name>
+  <detail>「俺たちに翼はない　香田亜衣ルート」をクリアしました。</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="G" pid="000">
+  <name>タマちゃんのばかああああ！</name>
+  <detail>「俺たちに翼はない　林田美咲ルート」をクリアしました。</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="G" pid="000">
+  <name>ただいま、お兄ちゃんっ</name>
+  <detail>「俺たちに翼はない　羽田小鳩ルート」をクリアしました。</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="G" pid="000">
+  <name>俺たちに翼はないこともない</name>
+  <detail>「俺たちに翼はない　本編」をすべてクリアしました。</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="G" pid="000">
+  <name>渡来明日香の日常</name>
+  <detail>「俺たちに翼はない～prelude～　渡来明日香編」を終了しました。</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="G" pid="000">
+  <name>山科京の日常</name>
+  <detail>「俺たちに翼はない～prelude～　山科京編」を終了しました。</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="G" pid="000">
+  <name>林田美咲の日常</name>
+  <detail>「俺たちに翼はない～prelude～　林田美咲編」を終了しました。</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>軽部狩男の日常</name>
+  <detail>「俺たちに翼はない～prelude～　軽部狩男編」を終了しました。</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,168 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000d6c4f270f252086008082f1c209a5245bb7eec1614876e5cebf12adbfa3c14832115aba92924a9522c21724cff7f5b255bec6c208c24c157ae2427af5c69c723295096d717b0a0724b8ff483fbbb768051e4396997aaf717223f8de5f3754b187d08caa3016b743e24e210121a1b513d1d450428813e23a06ba7115322b0d12f6522fdec60fbedc09aaa2a90f16e4a21837f478c-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR07302_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>ペルソナ４ ダンシング・オールナイト</title-name>
+ <title-detail>ペルソナ４ ダンシング・オールナイト</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>ダンシング☆オールナイト</name>
+  <detail>全てのトロフィーを取得した</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>饗宴の始まり</name>
+  <detail>チャプター１をクリアした</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>サーカスはおしまい</name>
+  <detail>上杉たまみを助けた</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>今夜は楽しかったわ</name>
+  <detail>左山ともえを助けた</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>お片付けの時間</name>
+  <detail>右島すももを助けた</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>舞台は満員御礼</name>
+  <detail>中原のぞみを助けた</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>ばいばいクマ</name>
+  <detail>チャプター４をクリアした</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>女帝の落城</name>
+  <detail>落水鏡花を助けた</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="G" pid="000">
+  <name>ＧＯ！絆ダンサーズ</name>
+  <detail>ミクラタナノカミに伝えた</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="000">
+  <name>歴史の証人</name>
+  <detail>前日談を含む全てのイベントを見た</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="000">
+  <name>狂宴の始まり</name>
+  <detail>マーガレットが参戦した</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>さらなる高みへ</name>
+  <detail>最高難易度（ALL NIGHT）を解禁した</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>身だしなみ注意</name>
+  <detail>はじめてコスチュームを購入した</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>ベストドレッサー</name>
+  <detail>全コスチュームの半分を購入した</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="000">
+  <name>クローゼットいっぱいの夢</name>
+  <detail>全てのコスチュームを購入した</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>宝石商</name>
+  <detail>全てのアクセサリーを購入した</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>時価ネット依存症</name>
+  <detail>ショッピングで全てのアイテムを購入した</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>ネットのお得意様</name>
+  <detail>ショッピングで合計５０万Ｐ＄使った</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>あの感動をもう一度</name>
+  <detail>スコアからリプレイデータを見た</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>我は汝、汝は我</name>
+  <detail>データベースをコンプリートした</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>閉店ガラガラ</name>
+  <detail>曲の途中でステージが終了した</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>ようこそダンスフロアへ</name>
+  <detail>フリーダンスで１曲クリアした</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>パーティは終わらない</name>
+  <detail>フリーダンスで全曲クリアした</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>繋がりやすさＮＯ１</name>
+  <detail>いずれかの曲でフルコンボを決めた</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>マーべラスエンターテイナー</name>
+  <detail>いずれかの曲で最高評価（KING CRAZY）を獲得した</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="S" pid="000">
+  <name>ミス？何それおいしいの？</name>
+  <detail>いずれかの曲でひとつもミスを出さずにクリアした</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="S" pid="000">
+  <name>パーフェクトマン</name>
+  <detail>難易度HARD以上でノートの半分以上をパーフェクト判定でクリアした</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>己の記録を越えてゆけ</name>
+  <detail>自分のハイスコアを更新した</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>オシャレ伝道師</name>
+  <detail>コスチュームを変更してダンスを開始した</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>ちょい足しレシピ</name>
+  <detail>アクセサリーを付けてダンスを開始した</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>こだわりコーディネート</name>
+  <detail>全てのキャラでコスチュームを変更してダンスした</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="S" pid="000">
+  <name>ダンサーの星</name>
+  <detail>難易度を上げるアイテムを２つ以上同時に使用してダンスした</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>二人三脚</name>
+  <detail>コミュフィーバーを一度でも発生させた</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="G" pid="000">
+  <name>いつでも一緒</name>
+  <detail>コミュフィーバーを３０種類発生させた</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="S" pid="000">
+  <name>ナナコン上等</name>
+  <detail>コミュフィーバーを含む菜々子のダンスを全て発生させた</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>夢のアイドルユニット</name>
+  <detail>フリーダンスでりせとかなみを共演させた</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="S" pid="000">
+  <name>先輩かっこいい！</name>
+  <detail>鳴上とりせのコミュフィーバーを全て発生させた</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="S" pid="000">
+  <name>赤い女将と緑の成龍</name>
+  <detail>雪子と千枝のコミュフィーバーを全て発生させた</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="S" pid="000">
+  <name>ジュネスボンバー</name>
+  <detail>陽介とクマのコミュフィーバーを全て発生させた</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="S" pid="000">
+  <name>美女と野獣の狂演</name>
+  <detail>直斗と完二のコミュフィーバーを全て発生させた</detail>
+ </trophy>
+</trophyconf>

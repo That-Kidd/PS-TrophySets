@@ -1,0 +1,148 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000b93ad8974c424d09e57cc8209f5d162b9b4d6c25bdc7fe85cd5ab5f36af58826b2523c1f95813edcd725d64a784353296756ef7390e3a716e81f5a26989261ca91a5aad443e1e4848832c5e4dd7ff07731e63fab529016e2515880a4eb21792127f5190150c0b24e58450bd22788a9d094e72f38475d33fbf080376775d5ff70ee9a200191efd328aeaae12e893707436da52005-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR16648_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Asdivine Hearts II</title-name>
+ <title-detail>Trophy set for Asdivine Hearts II</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>The Savior</name>
+  <detail>Obtain all the trophies.</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>Beginning of an Adventure</name>
+  <detail>Watched the opening.</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>Ahoy!</name>
+  <detail>Obtained a ship.</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>To the Rescue!</name>
+  <detail>Made for the east entrance of Yolkai Hollow.</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>Disbanded</name>
+  <detail>Decided to persuade companions to work together.</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>Showdown!</name>
+  <detail>Resolved to take on the former deities.</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>The Great Battle!</name>
+  <detail>Determined to fight the Angel of Doom.</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>Memories of Asdivine</name>
+  <detail>Earned the Normal End.</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="G" pid="000">
+  <name>Asdivine Forevermore</name>
+  <detail>Earned the True End.</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="G" pid="000">
+  <name>Everyone Is Happy</name>
+  <detail>Earned the Happy End.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>Tourist</name>
+  <detail>Walked 5000 steps.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>Traveler</name>
+  <detail>Walked 50000 steps.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>Globetrotter</name>
+  <detail>Walked 100000 steps.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>Gold Digger</name>
+  <detail>Collected 50 treasure chests.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>Treasure Seeker</name>
+  <detail>Collected 100 treasure chests.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>Master Collector</name>
+  <detail>Collected all 280 treasure chests.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Combo Kid</name>
+  <detail>Achieved 10 consecutive hits.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Combo Hotshot</name>
+  <detail>Achieved 50 consecutive hits.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>Combo Pro</name>
+  <detail>Achieved 200 consecutive hits.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Nice Hit</name>
+  <detail>Dealt 10000+ damage in a single attack.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>Deadly Strike</name>
+  <detail>Dealt 100000+ damage in a single attack.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>Ender of Enders</name>
+  <detail>Dealt 999999 damage in a single attack.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>Hobbyist</name>
+  <detail>Synthesized a weapon to level 10.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>Forger</name>
+  <detail>Synthesized a weapon to level 100.</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>True Craftsman</name>
+  <detail>Synthesized a weapon to level 999.</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>Picker</name>
+  <detail>Harvested from a planter 10 times.</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="S" pid="000">
+  <name>Harvester</name>
+  <detail>Harvested from a planter 100 times.</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>Part-Timer</name>
+  <detail>Dispatched buddies 10 times.</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="S" pid="000">
+  <name>Businessman</name>
+  <detail>Dispatched buddies 100 times.</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="G" pid="000">
+  <name>Busybody</name>
+  <detail>Cleared all subquests.</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>Newbie</name>
+  <detail>Cleared the bronze cup at the battle arena.</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>Mighty Guy</name>
+  <detail>Cleared the silver cup at the battle arena.</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="S" pid="000">
+  <name>Champion</name>
+  <detail>Cleared the Gold cup at the battle arena.</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="G" pid="000">
+  <name>Arena Master</name>
+  <detail>Cleared the Maid Cup at the battle arena.</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="G" pid="000">
+  <name>Battle Expert</name>
+  <detail>Cleared the highest level at the secret battle arena.</detail>
+ </trophy>
+</trophyconf>

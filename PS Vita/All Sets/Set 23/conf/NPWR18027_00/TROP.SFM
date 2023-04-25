@@ -1,0 +1,88 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000009f1f7075252d45a8534a21e845803fb79d12edea6595c750a3622a0bb187973acd8bb46031d6abcc1a7bfca69f162549970783e0051dd30e5e87a2d6cb9cee52daacc9a1f5d192a519b19d81391b5d3ca17ad2ac1469bd52cbb14efb1d3db0bb8b9e8481fd182ad7941b4940456c9865046b0f7a9dd263532fcfb9706386a6ecaf9c1ed8641e366b0b66aa3c1222c596ab5ebc5-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR18027_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>アオナツライン</title-name>
+ <title-detail>『アオナツライン』トロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>アオナツライン</name>
+  <detail>全てのトロフィーを獲得した</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>3 to 4</name>
+  <detail>最初の選択肢を通過</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>4 to 5</name>
+  <detail>二回目の選択肢を通過</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="S" pid="000">
+  <name>せめて、夏が終わるまでは</name>
+  <detail>三回目の選択肢を通過</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="S" pid="000">
+  <name>向坂海希の憂鬱</name>
+  <detail>四回目の選択肢を通過</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="S" pid="000">
+  <name>あいつのいない一日</name>
+  <detail>五回目の選択肢を通過</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="000">
+  <name>悲しいこと言わないで</name>
+  <detail>六回目の選択肢を通過</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>線─ライン─のゆくえ</name>
+  <detail>共通章を読み終えた</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>戦線離脱</name>
+  <detail>海希ルートに入った</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>いまさら気付く恋心</name>
+  <detail>結ルートに入った</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>シミュレーション</name>
+  <detail>ことねルートに入った</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>あたしたちの未来は、</name>
+  <detail>グランドエンドに入った</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>さよならモラトリアム</name>
+  <detail>バッドエンドを読み終えた</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="G" pid="000">
+  <name>夏が、終わる</name>
+  <detail>海希ルートを読み終えた</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="G" pid="000">
+  <name>きみの望む未来へ</name>
+  <detail>結ルートを読み終えた</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="G" pid="000">
+  <name>奇跡のように響かせたい</name>
+  <detail>ことねルートを読み終えた</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="G" pid="000">
+  <name>グランドエンド</name>
+  <detail>グランドエンドを読み終えた</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="G" pid="000">
+  <name>ＢＧＭマスター</name>
+  <detail>全てのＢＧＭを聴いた</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="G" pid="000">
+  <name>ＣＧコレクター</name>
+  <detail>全てのＣＧを見た</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="G" pid="000">
+  <name>ＥＶＥＮＴエキスパート</name>
+  <detail>全てのイベントを読んだ</detail>
+ </trophy>
+</trophyconf>

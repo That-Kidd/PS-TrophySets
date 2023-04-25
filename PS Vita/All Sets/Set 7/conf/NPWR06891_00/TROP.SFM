@@ -1,0 +1,156 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000a34020f3933a460146eeb79354f31ff3f4e69c6b74ecc7c0cafa52b010d8d50d2a17c0093d8cffc05bd1745cfaa4306299e1e86047b1b1e98f5da705de9727d962d700a4c830dcce7c4a9d36df296d8d223795a0c072ab5a7518e960db0912c0b5e38409607ce0e49b17b029a83f0e49fe83255b2c5418c44998a515c4f93356c33c11c0bd93957fd64ca308646b12190806084d-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR06891_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>ソラユメ</title-name>
+ <title-detail>ソラユメのトロフィーセットです</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>ソラユメ</name>
+  <detail>全てのトロフィーを獲得した</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>夏の始まり</name>
+  <detail>ゲームを開始した</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>……俺は悪魔だ</name>
+  <detail>ルーエンに会った</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>美味かっただろ？</name>
+  <detail>ルーエンがお粥を作った</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>山瀬勇人君、１０点！</name>
+  <detail>山瀬と学校に行った</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>あんまりくっつくなよ</name>
+  <detail>山瀬とコーヒーカップに乗った</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>はい、功労賞です</name>
+  <detail>水窪とアイスを食べた</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>また、一緒に乗ろう</name>
+  <detail>水窪と観覧車に乗った</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>ちょっと待った</name>
+  <detail>天文部の部室へ行った</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="000">
+  <name>美味しかったよね～</name>
+  <detail>餘部とお茶会をした</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="000">
+  <name>朝峰涼志です。よろしく</name>
+  <detail>朝峰が転校して来た</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>これが空夢だったとしても……</name>
+  <detail>朝峰との永遠を望んだ</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="B" pid="000">
+  <name>……見ーつけた</name>
+  <detail>御剣を見つけた</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="000">
+  <name>今度は上手に食べないとね？</name>
+  <detail>御剣の手作りケーキを食べた</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="B" pid="000">
+  <name>夏の思い出</name>
+  <detail>みんなと海で遊んだ</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>お喚びかい？　主殿</name>
+  <detail>ケット・シーを召喚した</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>さぁ、ご命令を</name>
+  <detail>アガシオンを召喚した</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>……お喚びか、主殿</name>
+  <detail>ウァサゴを召喚した</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>ご用は何かしら？　主様</name>
+  <detail>ハルピュイアを召喚した</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>もうひとつの夏</name>
+  <detail>共通エンディングを見た</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>夏の終わり</name>
+  <detail>エンディングムービーを見た</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>ルーエン=エグランティーン</name>
+  <detail>ルーエンとエンディングを迎えた</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>ルーエンとの思い出</name>
+  <detail>ルーエンのイベント絵を全て解放した</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>山瀬勇人</name>
+  <detail>山瀬とエンディングを迎えた</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>山瀬との思い出</name>
+  <detail>山瀬のイベント絵を全て解放した</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="S" pid="000">
+  <name>水窪一真</name>
+  <detail>水窪とエンディングを迎えた</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="S" pid="000">
+  <name>水窪との思い出</name>
+  <detail>水窪のイベント絵を全て解放した</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="S" pid="000">
+  <name>餘部透</name>
+  <detail>餘部とエンディングを迎えた</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="S" pid="000">
+  <name>餘部との思い出</name>
+  <detail>餘部のイベント絵を全て解放した</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="S" pid="000">
+  <name>朝峰涼志</name>
+  <detail>朝峰とエンディングを迎えた</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="S" pid="000">
+  <name>朝峰との思い出</name>
+  <detail>朝峰のイベント絵を全て解放した</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="S" pid="000">
+  <name>御剣暁</name>
+  <detail>御剣とエンディングを迎えた</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="S" pid="000">
+  <name>御剣との思い出</name>
+  <detail>御剣のイベント絵を全て解放した</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="S" pid="000">
+  <name>その他の思い出</name>
+  <detail>その他のイベント絵を全て解放した</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="G" pid="000">
+  <name>文献収集家</name>
+  <detail>全てのシナリオを解放した</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="G" pid="000">
+  <name>絵画収集家</name>
+  <detail>全てのイベント絵を解放した</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="G" pid="000">
+  <name>骨董収集家</name>
+  <detail>全てのスペシャルを解放した</detail>
+ </trophy>
+</trophyconf>

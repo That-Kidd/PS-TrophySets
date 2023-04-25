@@ -1,0 +1,156 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000003a58e861d624f5f46ff5d02fb37a4971c81e56efb1a686786562ef8cb664af50daf7fa6ad4018f62c76a56e59408365fe9f3aab80f5c0169d2bb819e8d7355cde9ca356b451761db0079e43f08ffdc8a67669675184852abb6382b773b490ee42c49d3bc19af82376a8ace97be861181125061e96806efe2f46f145ebc3dab4e0af05a43ff03d82645387e0af80052894daa3e7b-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR10700_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Collar×Malice</title-name>
+ <title-detail>Collar×Maliceのトロフィーリストです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Collar×Malice</name>
+  <detail>全てのトロフィーを獲得した</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>はじまりの夜</name>
+  <detail>プロローグをクリアした</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>あなたがパートナー</name>
+  <detail>いずれかの個別ルートに入った</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>情報収集</name>
+  <detail>新宿署で情報収集した</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>現場百遍</name>
+  <detail>特定の場所を探索した</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>解明への糸口</name>
+  <detail>推理選択肢で正しい答えを導いた</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>迷宮入り</name>
+  <detail>推理選択肢で正しい答えを導けなかった</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>グッドコミュニケーション</name>
+  <detail>空気の読めるメールを返した</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>油断大敵</name>
+  <detail>初めてバッドエンドを見た</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>銃に宿る覚悟</name>
+  <detail>トリガーシステムで成功した</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>意志のない銃口</name>
+  <detail>トリガーシステムで失敗した</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>約束</name>
+  <detail>岡崎契の信頼を得た</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="B" pid="000">
+  <name>隣にある永遠</name>
+  <detail>岡崎契ルートをクリアした</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>相棒</name>
+  <detail>榎本峰雄の信頼を得た</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="B" pid="000">
+  <name>四葉のクローバー</name>
+  <detail>榎本峰雄ルートをクリアした</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>及第点</name>
+  <detail>笹塚尊の信頼を得た</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>幸せな飼い猫</name>
+  <detail>笹塚尊ルートをクリアした</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>知的好奇心</name>
+  <detail>白石景之の信頼を得た</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>消せない記憶</name>
+  <detail>白石景之ルートをクリアした</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>呪縛</name>
+  <detail>柳愛時の信頼を得た</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="S" pid="000">
+  <name>首輪の主</name>
+  <detail>黒幕の正体を暴いた</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="S" pid="000">
+  <name>夢見た景色</name>
+  <detail>柳愛時ルートをクリアした</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="S" pid="000">
+  <name>失った手のひら</name>
+  <detail>５つの悲恋ＥＮＤを見た</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="G" pid="000">
+  <name>哀しみの続く世界で</name>
+  <detail>冴木ＥＮＤをクリアした</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="000">
+  <name>９番目の断罪者</name>
+  <detail>緒方智樹の正義に触れた</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="B" pid="000">
+  <name>８番目の断罪者</name>
+  <detail>小林花子の狂愛に触れた</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>７番目の断罪者</name>
+  <detail>瀬良あきとの罪悪に触れた</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="B" pid="000">
+  <name>６番目の断罪者</name>
+  <detail>菅原理香の恐怖に触れた</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="B" pid="000">
+  <name>５番目の断罪者</name>
+  <detail>相田学の孤独に触れた</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="B" pid="000">
+  <name>４番目、３番目の断罪者</name>
+  <detail>宇野詩音、宇野鈴音の憎悪に触れた</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="B" pid="000">
+  <name>２番目の断罪者</name>
+  <detail>山条圭介の絶望に触れた</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="B" pid="000">
+  <name>始まりの断罪者</name>
+  <detail>御國れいの盲信に触れた</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="G" pid="000">
+  <name>共鳴する断罪者たち</name>
+  <detail>犯人たちの過去を垣間見た</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="G" pid="000">
+  <name>鮮やかな理想</name>
+  <detail>ギャラリーを全て開放した</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="G" pid="000">
+  <name>デザートを召し上がれ</name>
+  <detail>ボーナストラックを全て見た</detail>
+ </trophy>
+ <trophy id="035" hidden="yes" ttype="S" pid="000">
+  <name>カナデルミライ</name>
+  <detail>ＢＧＭを全て聴いた</detail>
+ </trophy>
+ <trophy id="036" hidden="yes" ttype="G" pid="000">
+  <name>可能性の果てに</name>
+  <detail>バッドを含むエンディングを全て見た</detail>
+ </trophy>
+</trophyconf>

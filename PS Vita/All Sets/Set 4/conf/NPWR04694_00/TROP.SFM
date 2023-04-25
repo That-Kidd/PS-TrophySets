@@ -1,0 +1,48 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000004b32066cd4ddb59c22337a921a9dc7d3475cd6759b53e4664f613aee43dd94f6f4a199e87043b562b0beff59b52c4812133c6a34b615ae84b657e9af418294d4e8f6c3295e54139734cf1b6d789cefccf2f4c6df0842f1e17eac8b2eca2492cdcd795d4469711c2367c8f27138e8e72fb5ffa4f3598e3cbf6807c0d28151b9d8b60022e0cdcdbbd46dcd0d716687b0adfcd01074-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR04694_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Sparkle</title-name>
+ <title-detail>Premium Action Puzzle Sparkle Trophies.</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Combo 5X</name>
+  <detail>Gained Combo 5X multiplier.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Chain 12X</name>
+  <detail>Gained Chain 12X multiplier.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Thousand Orbs</name>
+  <detail>Popped a thousand orbs.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Four Hours</name>
+  <detail>Played for four hours.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>200 Levels</name>
+  <detail>You've won 200 levels.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>2000 Matches</name>
+  <detail>You've made 2000 matches.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Hundred Pushers</name>
+  <detail>You've destroyed a hundred pushers.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="-1">
+  <name>Quest Completed</name>
+  <detail>You have completed your quest.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="-1">
+  <name>Quest Expert</name>
+  <detail>You have completed your quest on Expert difficulty.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="-1">
+  <name>Quest Master</name>
+  <detail>You have completed your quest on Master difficulty.</detail>
+ </trophy>
+</trophyconf>

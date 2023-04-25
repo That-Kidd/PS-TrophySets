@@ -1,0 +1,56 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000ebe8c5900a3926fb130ec96e41db0e70b6ad81e15d6983980248fa0691c093c4fd1c09aa0475bb3210ed5912b5571396f5da1c5ea1f955bfc8d8bd145c9312077bd30861634c811bdaf054888f0b014ae04403fd2ca1b679889e44cf3bd1d578b5a446381e7a79fd3c376c7e50d713f9f106d02d4d40d42d6093a8d77eefd41de1ff198d09816a02393041e9faed58174baea500-->
+<trophyconf version="1.1" platform="ps3,psp2" policy="small">
+ <npcommid>NPWR05066_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Luftrausers</title-name>
+ <title-detail>Trophies set for Luftrausers</title-detail>
+ <trophy id="000" hidden="no" ttype="G" pid="-1">
+  <name>YOU WERE RAISED ON THIS SUBMARINE FOR A REASON</name>
+  <detail>Take down a Blimp</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="-1">
+  <name>BIG SCIENCE</name>
+  <detail>Unlock all parts</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="-1">
+  <name>MASTER RAUSER</name>
+  <detail>Beat all missions and launch the [CLASSIFIED]</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="-1">
+  <name>EXPERT RAUSER</name>
+  <detail>Become a feared level 10 rauser pilot</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>SEA SUPERIORITY</name>
+  <detail>Sink a Battleship</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>AIR SUPERIORITY</name>
+  <detail>Outsmart an Ace</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>UNDERWATER SUPERIORITY</name>
+  <detail>Destroy a Submarine</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>SMALL SCIENCE</name>
+  <detail>Unlock a part</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="-1">
+  <name>WHAT DOES SFMT STAND FOR?</name>
+  <detail>Survive SFMT long enough to hear the end of the air alarm</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="-1">
+  <name>DONT MESS WITH THE RAUSER</name>
+  <detail>Defeat a Laser Ace</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="-1">
+  <name>SERIOUSLY, DONT MESS WITH THE RAUSER</name>
+  <detail>Sink an Acemarine</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="-1">
+  <name>SEEN IT ALL</name>
+  <detail>Pilot all 125 Rauser combinations</detail>
+ </trophy>
+</trophyconf>

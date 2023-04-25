@@ -1,0 +1,56 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000bffedd0c2309c3949fbe93abb589f8cfb819af4162c1cf25edb998a00bd69702216cf4385b6ba05ba57c9d46f1a6f8c8d10109f5d20a04a025fb6912ac91d54e1bc60c6abd9c9360e496ca447973f8c241f7c84b4d4c315ef22181c5352f6432c6094d7e5de408812b8243213ce74cb089ca2580250f39b2111c7ddfc24683e82742abb5116336d1c2241a6f5e2308f1b793de1f-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR09280_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Royal Defense</title-name>
+ <title-detail>Trophy set for Royal Defense</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Builder</name>
+  <detail>Build 50 towers</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Miner</name>
+  <detail>Build 50 mines</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Trader</name>
+  <detail>Sell 50 towers</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Magician</name>
+  <detail>Kill 500 enemies with spells</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Gunner</name>
+  <detail>Kill 1000 enemies</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Ruthless</name>
+  <detail>Kill 3 enemies with one spell</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Armorer</name>
+  <detail>Make a complete improvement for 50 towers on the levels</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="-1">
+  <name>Engineer</name>
+  <detail>Fully upgrade any tower in the store</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="-1">
+  <name>Architect</name>
+  <detail>Build 1000 towers</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="-1">
+  <name>Merchant</name>
+  <detail>Sell 500 towers</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="-1">
+  <name>Commander</name>
+  <detail>Kill 30,000 enemies</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="-1">
+  <name>Tactician</name>
+  <detail>Complete all levels to 3 stars</detail>
+ </trophy>
+</trophyconf>

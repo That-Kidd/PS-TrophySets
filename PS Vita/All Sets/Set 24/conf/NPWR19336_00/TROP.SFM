@@ -1,0 +1,92 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000700f76713f366b00d2c188d45c346ca77e2e183a6ebda387bfafd1b7144fbf44be5d40e28ccd2d567453b52c107416618b507fd4363369767b5aed7d5b88264bd880b46d604d8de1dbda579cc3fc4f7ae66605b9eefd8ac3324d333c3536a6e1f51662775c83505d8036b6e7651bbd19555cf65d01fe0c06c307c7205ce61da5b6190c88d918db75a50ce52a6611d1ec0104b6d2-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR19336_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Balthazar's Dreams</title-name>
+ <title-detail>All trophies</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>All trophies</name>
+  <detail>Unlocked all other trophies.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Spring-loaded dog</name>
+  <detail>Earn the badge of a true springdog! Jump 300 times to unlock!</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Use your instincts</name>
+  <detail>Get scared 50 times.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>Catzilla slayer</name>
+  <detail>Defeat Linux the Fat Cat.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>Kitty-destroyer</name>
+  <detail>Use the ball to eliminate 50 cats.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>Lost? Found!</name>
+  <detail>Navigate the forest maze.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>Territorial Canine</name>
+  <detail>Mark 50 hydrants or tree trunks!</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>Get high!</name>
+  <detail>Inhale 25 psychodelic fumes!</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>Unwavering resolve</name>
+  <detail>Nothing can stop you! Die 250 times to unlock!</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>Space bork</name>
+  <detail>Get to space!</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>Shake it</name>
+  <detail>Shake off 25 ticks.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>Spacebork Klingon</name>
+  <detail>Use your deadly bone to destroy 250 space objects.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>Finally got him</name>
+  <detail>Defeat the Mailman.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="000">
+  <name>No more EVIL</name>
+  <detail>Defeat the Evil Presence.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="000">
+  <name>The hero we need</name>
+  <detail>Complete the game.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="G" pid="000">
+  <name>Easter Dog</name>
+  <detail>Find the &gt; Easter Egg (hint: level one!)</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="G" pid="000">
+  <name>Advanced dog navigator</name>
+  <detail>Complete the game with fewer than 200 deaths.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="G" pid="000">
+  <name>Crazy dog</name>
+  <detail>Complete 75% of the game.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="G" pid="000">
+  <name>Expert dog navigator</name>
+  <detail>Complete 25% of the game.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="G" pid="000">
+  <name>Master dog navigator</name>
+  <detail>Complete the first level.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="G" pid="000">
+  <name>Immortal dog</name>
+  <detail>Complete 50% of the game.</detail>
+ </trophy>
+</trophyconf>

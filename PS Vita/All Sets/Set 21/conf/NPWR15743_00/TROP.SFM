@@ -1,0 +1,68 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000009864663b2f5e08f4ac22df8926727379c4db868856f958a1cbc9fe105e7e9ca7d935bfc4b42b4c82b75ee3d403c09d26c1a4e2f37729485d312b80c917844fd20fe500b6d9f9e19f2d3f3ab048b57354ebf9b014cbfcefca976a222ec47c6a32f53129ffd4569492884d4de412f61818826d1091a279dd1207447bd9cc057a6de3a8619e95504b4a4be2d3fc3e8071ad42d767a1-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR15743_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>セヴンデイズ あなたとすごす七日間</title-name>
+ <title-detail>セヴンデイズ あなたとすごす七日間のトロフィーです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>コンプリート</name>
+  <detail>全てのトロフィーを獲得</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="S" pid="000">
+  <name>おなかいっぱいです</name>
+  <detail>サクラを腕の中で見送った</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="G" pid="000">
+  <name>サクラ篇クリア</name>
+  <detail>サクラ篇を読み終えた</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="S" pid="000">
+  <name>恋人ごっこ</name>
+  <detail>コトハとの恋人ごっこをやり遂げた</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="G" pid="000">
+  <name>コトハ篇クリア</name>
+  <detail>コトハ篇を読み終えた</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="G" pid="000">
+  <name>マリ篇クリア</name>
+  <detail>マリ篇を読み終えた</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="G" pid="000">
+  <name>イチル篇クリア</name>
+  <detail>イチル篇を読み終えた</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>おやすみ</name>
+  <detail>シズクと添い寝した</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="G" pid="000">
+  <name>シズク篇クリア</name>
+  <detail>シズク篇を読み終えた</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>ふたりのしあわせ</name>
+  <detail>ネネと一緒になると約束した</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="G" pid="000">
+  <name>ネネ篇クリア</name>
+  <detail>ネネ篇を読み終えた</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="G" pid="000">
+  <name>千夜子篇クリア</name>
+  <detail>千夜子篇を読み終えた</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="G" pid="000">
+  <name>新しい可能性</name>
+  <detail>零を読み終えた</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="000">
+  <name>CGコンプリート</name>
+  <detail>CGモードをコンプリートした</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="000">
+  <name>Musicコンプリート</name>
+  <detail>Musicモードをコンプリートした</detail>
+ </trophy>
+</trophyconf>

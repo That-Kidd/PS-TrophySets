@@ -1,0 +1,220 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000007e44376ff0a1b2f398f9e5d635476e89d8a54b0e9af51318a181f3860b3d2aa3be669875d4b2f7d73e3daef1b4e8510c4e5a812bc4c1710fe330a9ac7fc0ffca96c27cc8a3e1d4ee754a7f612546818ca1ac70b97a672f81bb8bd6e9bf71281606ab3e3eae2d19c982986577386ed17b605492c556b9f0e7ff2f957d8c1a4f20ddb4b4812c5701237eef30534240655e122f15b3-->
+<trophyconf version="1.1" platform="psp2">
+ <npcommid>NPWR03201_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>orgarhythm</title-name>
+ <title-detail>trophy of orgarhythm</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>[orgarhythm] All Clear</name>
+  <detail>Obtained all other [orgarhythm] trophies.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Welcome to [orgarhythm]</name>
+  <detail>Began playing [orgarhythm].</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>First Tutorial</name>
+  <detail>Cleared tutorial for the first time.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Diligence</name>
+  <detail>Cleared all tutorials.</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>[Dark Beats] cleared!</name>
+  <detail>Cleared [Dark Beats].</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>[Flying Cannon] cleared!</name>
+  <detail>Cleared [Flying Cannon].</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>[Surface of the Wasteland] cleared!</name>
+  <detail>Cleared [Surface of the Wasteland].</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>[Squall] cleared!</name>
+  <detail>Cleared [Squall].</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>[Holy Oratorio] cleared!</name>
+  <detail>Cleared [Holy Oratorio].</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="000">
+  <name>[Nameless Goddess] cleared!</name>
+  <detail>Cleared [Nameless Goddess].</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="000">
+  <name>[Second Beat] cleared!</name>
+  <detail>Cleared [Second Beat].</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>[Cannon of Revenge] cleared!</name>
+  <detail>Cleared [Cannon of Revenge].</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="B" pid="000">
+  <name>[Dark Ballroom] cleared!</name>
+  <detail>Cleared [Dark Ballroom].</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="000">
+  <name>[Soaring Demons] cleared!</name>
+  <detail>Cleared [Soaring Demons].</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="B" pid="000">
+  <name>[Inspiration and Expiration] cleared!</name>
+  <detail>Cleared [Inspiration and Expiration].</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>[Bloody Battle] cleared!</name>
+  <detail>Cleared [Bloody Battle].</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>[Normal] difficulty level cleared!</name>
+  <detail>Cleared all in [Normal] difficulty.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>[Hard] difficulty level cleared!</name>
+  <detail>Cleared all in [Hard] difficulty.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>Zero Deaths</name>
+  <detail>Cleared a map without losing a single warrior.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>God Bless</name>
+  <detail>Used a support skill.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>Trails in the Heavens</name>
+  <detail>Drew a line through [Dragging].</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>Voltage Up</name>
+  <detail>Increased voltage rank.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>MAX Voltage</name>
+  <detail>Raised voltage rank to max level.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>Carnivorous</name>
+  <detail>Invoked [Attack] support skill 100 times.</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>God of Healing</name>
+  <detail>Invoked [Heal] support skill 100 times.</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>Conservative</name>
+  <detail>Invoked [Guard] support skill 100 times.</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>Stopper</name>
+  <detail>Invoked [Slow] support skill 100 times.</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>Marathon Runner</name>
+  <detail>God of Light movement distance passed 42.195km.</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="S" pid="000">
+  <name>Conductor of Many Orders</name>
+  <detail>[Dragging] length exceeded 100 miles.</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>Suite 10</name>
+  <detail>10 clears achieved.</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>Groove</name>
+  <detail>50 clears achieved.</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="S" pid="000">
+  <name>Eccentric</name>
+  <detail>100 clears achieved.</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>S-Hunter</name>
+  <detail>Achieved S-Rank 5 times.</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>Battlefield Musician</name>
+  <detail>Achieved S-Rank 10 times.</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="S" pid="000">
+  <name>Carnival Soldier</name>
+  <detail>Achieved S-Rank 20 times.</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="G" pid="000">
+  <name>Orgarhythmer</name>
+  <detail>Achieved S-Rank in all stages and on all difficulty levels.</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="S" pid="000">
+  <name>Universal</name>
+  <detail>Acquired all skills (excepting for DLC).</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>Standing Alone</name>
+  <detail>Cleared a map without using any support.</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>Striker</name>
+  <detail>Deployed 1,000 [Strike] troops.</detail>
+ </trophy>
+ <trophy id="039" hidden="yes" ttype="B" pid="000">
+  <name>Master of Archery</name>
+  <detail>Deployed 1,000 [Archer] troops.</detail>
+ </trophy>
+ <trophy id="040" hidden="yes" ttype="B" pid="000">
+  <name>Hail of Stones</name>
+  <detail>Deployed 1,000 [Catapult] troops.</detail>
+ </trophy>
+ <trophy id="041" hidden="yes" ttype="B" pid="000">
+  <name>Face of the Devil</name>
+  <detail>Deployed 1,000 [Sacrifice] troops.</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="B" pid="000">
+  <name>Dark Hunter</name>
+  <detail>Defeated 10,000 Dark Tribe warriors.</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="B" pid="000">
+  <name>Finding Friendly Faces</name>
+  <detail>Played in co-op mode.</detail>
+ </trophy>
+ <trophy id="044" hidden="no" ttype="B" pid="000">
+  <name>Comrade-in-Arms</name>
+  <detail>Cleared a map in co-op mode.</detail>
+ </trophy>
+ <trophy id="045" hidden="no" ttype="B" pid="000">
+  <name>Discord</name>
+  <detail>Acquired Game Over in co-op mode.</detail>
+ </trophy>
+ <trophy id="046" hidden="no" ttype="B" pid="000">
+  <name>Rival</name>
+  <detail>Played in versus mode.</detail>
+ </trophy>
+ <trophy id="047" hidden="no" ttype="B" pid="000">
+  <name>Winner</name>
+  <detail>Won in versus mode.</detail>
+ </trophy>
+ <trophy id="048" hidden="no" ttype="B" pid="000">
+  <name>Loser</name>
+  <detail>Lost in versus mode.</detail>
+ </trophy>
+ <trophy id="049" hidden="no" ttype="B" pid="000">
+  <name>Sound Director</name>
+  <detail>Altered the sound volume in-game.</detail>
+ </trophy>
+ <trophy id="050" hidden="no" ttype="B" pid="000">
+  <name>Cinema Enthusiast</name>
+  <detail>Played all movies.</detail>
+ </trophy>
+ <trophy id="051" hidden="yes" ttype="B" pid="000">
+  <name>Spirited Away</name>
+  <detail>Failed to inflict any damage to enemy with [Sacrifice] skill.</detail>
+ </trophy>
+ <trophy id="052" hidden="no" ttype="G" pid="000">
+  <name>No Sense of Rhythm</name>
+  <detail>Achieved 100 bad taps in a row.</detail>
+ </trophy>
+</trophyconf>

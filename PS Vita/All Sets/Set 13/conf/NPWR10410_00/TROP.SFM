@@ -1,0 +1,168 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000008bdeeb87ea141fc29ab7185175ecf15eeab567e73ba3648063fe36339c5058ca27cda89e0d68ce95ef0fd66826f20e39e430cf7b09fb8a16234f53ea897a5078d436f2c28c57b55b5eb45edbbc8723793c5d4120cfb036006e8dcf0f321e466649023de67c87a6a3093a9678ff42067ee3667ba5193279926ce4b75d9ee0e0ded81f7db5d9e597b0a8a4c56d5dcfcb8225fb3846-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR10410_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Shu</title-name>
+ <title-detail>Trophy set for Shu</title-detail>
+ <group id="001">
+  <name>World 6 Trophies</name>
+  <detail>Trophy set for Shu additional levels</detail>
+ </group>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Platinum Trophy</name>
+  <detail>Collect all trophies.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>The Journey Begins</name>
+  <detail>Complete a level.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Coasting Through</name>
+  <detail>Complete world 1.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Tree-mendous</name>
+  <detail>Complete world 2.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>Canyon Warrior</name>
+  <detail>Complete world 3</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>Whirlwind</name>
+  <detail>Beat one of Goo Shu's top times.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>Carer</name>
+  <detail>Save your first Babby.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>Guardian</name>
+  <detail>Save all Babbies in one world.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>Sapling</name>
+  <detail>Complete a level without dying.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>Sage</name>
+  <detail>Complete a world without dying.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>Bryn's Corner</name>
+  <detail>Visit all of Bryn's corners.</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>Faster Than Light</name>
+  <detail>Don't get struck by lightning.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>Sink or Swim</name>
+  <detail>Leap out of Okoro water at the last second.</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="000">
+  <name>Learn to Fly</name>
+  <detail>Glide for a combined 100 seconds.</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="B" pid="000">
+  <name>Just One More Go!</name>
+  <detail>Replay any level more than twice.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>Piece by Piece</name>
+  <detail>Collect a mural piece.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="G" pid="000">
+  <name>Historian</name>
+  <detail>Collect all mural pieces.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Challenge Accepted</name>
+  <detail>Set a time on all levels.</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>Don't Give up!</name>
+  <detail>Died more than 10 times on the same level.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Slow and Steady</name>
+  <detail>Take over 8 minutes to finish a level.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>Trick Shot</name>
+  <detail>Collect 20 butterflies without landing.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>Bull Fighter</name>
+  <detail>Ride the bull without dying.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>Think Fast!</name>
+  <detail>Avoid the airstream death trap in "Breathless at the Precipice".</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>Time Killer</name>
+  <detail>Get killed by a time slowed hazard.</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>Once More for Good Measure</name>
+  <detail>Smash through a pane of glass with Lombo in both directions.</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>Getting the Band Back Together</name>
+  <detail>Meet all villagers.</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="S" pid="000">
+  <name>Cool Ruinings</name>
+  <detail>Complete world 4.</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="S" pid="000">
+  <name>Saviour</name>
+  <detail>Save all Babbies</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="G" pid="000">
+  <name>Great Sage</name>
+  <detail>Obtain "No Deaths" badge for all levels.</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="S" pid="000">
+  <name>Entomologist</name>
+  <detail>Obtain gold butterfly tier on any level.</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="S" pid="000">
+  <name>Can't Catch Shu</name>
+  <detail>Outrun the storm without dying.</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="S" pid="000">
+  <name>Towering Over the Competition</name>
+  <detail>Beat Goo Shu's tower time.</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="S" pid="000">
+  <name>Freeze Frame Finish</name>
+  <detail>Slow down time and dash past the finish line.</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="S" pid="000">
+  <name>Hang Time</name>
+  <detail>Chain 3 airstreams in a row.</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="G" pid="000">
+  <name>At Journeys End</name>
+  <detail>Complete the game.</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="G" pid="000">
+  <name>Lord of the Butterflies</name>
+  <detail>Obtain all gold butterfly tiers.</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="G" pid="000">
+  <name>Give it your All</name>
+  <detail>Obtain 100% Medal on all levels.</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>Spelunker!</name>
+  <detail>Complete world 6</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="S" pid="-1" gid="001">
+  <name>Conquered the Caverns</name>
+  <detail>100% all world 6 levels</detail>
+ </trophy>
+</trophyconf>

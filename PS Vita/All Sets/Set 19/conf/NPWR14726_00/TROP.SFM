@@ -1,0 +1,100 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000004299db94763c31d716d83c3d5a1fee4042ffec1b685eab7cb3024723b629f08e5da3fb734f1fc9233921f1c63dbb3b98638ded78ab30fde3528f32bff4d366f6c752cea58e5e9de628b628c33ffa062206cd673d37ed18cbfd43f0266e0a3b9150fd75a31974d1af4316f3989115a608c313dd3e099dabcd984fc20bd894a2847c9a297e7db7c6bf0c96e41d2f45ff56559b297c-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR14726_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>7'scarlet</title-name>
+ <title-detail>7'scarlet的獎盃。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>奧音裡大師！</name>
+  <detail>獲得了所有的獎盃</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>迦具土日野的憂鬱</name>
+  <detail>進入迦具土日野路線</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>甘梨伊空的獻身</name>
+  <detail>進入甘梨伊空路線</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>櫛奈雫斗逢的傷心</name>
+  <detail>進入櫛奈雫斗逢路線</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>建比良宗介的決斷</name>
+  <detail>進入建比良宗介路線</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>叢雲結月的贖罪</name>
+  <detail>進入叢雲結月路線</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>櫛奈雫斗逢的真實</name>
+  <detail>進入櫛奈雫斗逢 真相篇路線</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>夜刀神花手的追思</name>
+  <detail>進入夜刀神花手路線</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>遙遠日子的笑容</name>
+  <detail>看完迦具土日野路線的Happy End</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>無盡的天空</name>
+  <detail>看完甘梨伊空路線的Happy End</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>LOVESICK</name>
+  <detail>看完櫛奈雫斗逢路線的Happy End</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>逐漸透過的立體繪畫</name>
+  <detail>看完建比良宗介路線的Happy End</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>抬頭仰望的夕月</name>
+  <detail>看完叢雲結月路線的Happy End</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>永遠持續的世界</name>
+  <detail>看完櫛奈雫斗逢 真相篇路線的Happy End</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>解放那笑容</name>
+  <detail>看完全部路線的Happy End</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="G" pid="000">
+  <name>稀有角色收藏者</name>
+  <detail>獲得了迦具土日野的全部CG</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="G" pid="000">
+  <name>料理研究家</name>
+  <detail>獲得了甘梨伊空的全部CG</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="G" pid="000">
+  <name>絕對的王牌</name>
+  <detail>獲得了櫛奈雫斗逢的全部CG</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="G" pid="000">
+  <name>醫學博士</name>
+  <detail>獲得了建比良宗介的全部CG</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="G" pid="000">
+  <name>理想的上司</name>
+  <detail>獲得了叢雲結月的全部CG</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="G" pid="000">
+  <name>記憶的寶箱</name>
+  <detail>獲得了夜刀神花手的全部CG</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="G" pid="000">
+  <name>FIN</name>
+  <detail>獲得了全部CG</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="G" pid="000">
+  <name>歡迎來到奧音裡禁忌俱樂部</name>
+  <detail>看過了所有的TIPS</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,184 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000e6194d3de69d8990a8c4789ae7ed3fb8154ded810e473e5d60a2086265b99e81ee850620a0f3c8d40b664702bca8b988939f56d4d094a8ec151b57eca1c9ff7ea348e2e394ba6419364f3edc2bcd0bc54831ff47b80289218794b63d2d2f08b798dfea75e9934a5fe32c23242004d725aba2565bd6c9a16740605063e5a548cbaab00340b3799f7a8f8c55eb2b66c8ccefc195ea-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR05830_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>フリーダムウォーズ®</title-name>
+ <title-detail>フリーダムウォーズ®のトロフィー</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>ようこそ、幸福の牢国都市パノプティコンへ</name>
+  <detail>全てのトロフィーを獲得した。</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>自由への第一歩</name>
+  <detail>権利解放申請を初めて行った。</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>第2情報位階権限取得</name>
+  <detail>第2情報位階権限取得考試をクリアし、第2情報位階権限を取得した。</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>第3情報位階権限取得</name>
+  <detail>第3情報位階権限取得考試をクリアし、第3情報位階権限を取得した。</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>第4情報位階権限取得</name>
+  <detail>第4情報位階権限取得考試をクリアし、第4情報位階権限を取得した。</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>第5情報位階権限取得</name>
+  <detail>第5情報位階権限取得考試をクリアし、第5情報位階権限を取得した。</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>第6情報位階権限取得</name>
+  <detail>第6情報位階権限取得考試をクリアし、第6情報位階権限を取得した。</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>第7情報位階権限取得</name>
+  <detail>第7情報位階権限取得考試をクリアし、第7情報位階権限を取得した。</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>第8情報位階権限取得</name>
+  <detail>第8情報位階権限取得考試をクリアし、第8情報位階権限を取得した。　　</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>懲役90万年に到達</name>
+  <detail>刑期を残り90万年にした。</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>懲役80万年に到達</name>
+  <detail>刑期を残り80万年にした。</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>懲役50万年に到達</name>
+  <detail>刑期を残り50万年にした。</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>全ては『変革』のために</name>
+  <detail>サイモンから提示された4つの道を全て経験した。</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>抑圧からの解放</name>
+  <detail>解放済み権利が101件を超えた。</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>社会不適合者</name>
+  <detail>初めて違反して刑期を加算された。</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>WE GAZE AT YOU</name>
+  <detail>違反行為を10回行った。</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>補助武装プラント自給生産者</name>
+  <detail>補助武装プラントにおいて戦闘用アイテムを初めて生産した。</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>医療補給プラント自給生産者</name>
+  <detail>医療補給プラントにおいて医療用アイテムを初めて生産した。</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>ブースタープラント自給生産者</name>
+  <detail>ブースタープラントにおいてブースターを初めて生産した。</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>武器プラント自給生産者</name>
+  <detail>武器プラントにおいて武器を初めて生産した。</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>最強のDIY</name>
+  <detail>いずれかの武器をレベル10まで強化した。</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>アクセサリにこめる想い</name>
+  <detail>アクセサリの見た目をカスタマイズしてロビーエリアに入った。</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>監視者ではなく協汎者として</name>
+  <detail>「アクセサリ改造申請」で、ボイスを新しく作成し、登録した。</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>荊とともに生きる</name>
+  <detail>荊質管制装備にまつわる権利を全て解放した。</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>新たなる仲間</name>
+  <detail>フェローカードを初めて受け取った。</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>自分へのご褒美に</name>
+  <detail>恩赦ポイントを利用して初めて買い物をした。</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>超shazだぜ！</name>
+  <detail>ソフトクリームを全種類コンプリートした。</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>仲間は見捨てない</name>
+  <detail>ボランティア中に倒れた同行者を10回以上助けた。</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>これが溶断だ！</name>
+  <detail>溶断を行ない、初めてアブダクターのパーツを破壊した。</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>バラバラにしてやる！</name>
+  <detail>一回のボランティア中に、溶断によるアブダクターのパーツ破壊を5回以上行った。</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>アブダクターコレクター</name>
+  <detail>破壊したアブダクターのパーツを回収し、50種類以上の資源を入手した。</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="S" pid="000">
+  <name>貢献第一</name>
+  <detail>参加任意のボランティアを全てクリアした。</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="S" pid="000">
+  <name>大地を駆ける虎</name>
+  <detail>オフライン状態で一度も倒れることなくコウシンを倒した。</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="S" pid="000">
+  <name>狂宴の大蜘蛛</name>
+  <detail>オフライン状態で一度も倒れることなくパラドクサを倒した。</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="G" pid="000">
+  <name>天空よりの使者</name>
+  <detail>オフライン状態で一度も倒れることなくディオーネを倒した。</detail>
+ </trophy>
+ <trophy id="035" hidden="yes" ttype="G" pid="000">
+  <name>混沌ノ来訪者</name>
+  <detail>オフライン状態で一度も倒れることなくペルタトゥルムもしくはオルタトゥルムを倒した。</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>レッツ貢献！</name>
+  <detail>「シ1－3号嚆矢作戦：市民奪還」以降のボランティアで市民を初めて護送機まで搬送した。</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>これぞ共闘だ！</name>
+  <detail>他プレイヤーと協力して、ボランティアを15回成功させた。</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>必ず取り戻す！</name>
+  <detail>自分のアクセサリがアブダクターに略奪された。</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="000">
+  <name>代わりはいないから</name>
+  <detail>アクセサリ奪還ボランティアを成功させた。</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="B" pid="000">
+  <name>幸福と自由と繁栄を求めて</name>
+  <detail>特殊ボランティアを15回成功させた。</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="B" pid="000">
+  <name>資源の無駄使い</name>
+  <detail>累計で9999発以上の弾丸を消費した。</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="B" pid="000">
+  <name>ちゃんと運んでくれよ！</name>
+  <detail>搬送中に市民を落としてしまった。</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="B" pid="000">
+  <name>最高の移動手段</name>
+  <detail>荊での累計移動距離が42.195kmを超えた。</detail>
+ </trophy>
+</trophyconf>

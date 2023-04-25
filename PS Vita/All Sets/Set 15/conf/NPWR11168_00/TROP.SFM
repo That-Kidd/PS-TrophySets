@@ -1,0 +1,160 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000a836f208ef4643710a9b113c6bb1d0b6e8ecd1ef5c3c91438eb19173959cfee8c0b62346f40871b65ef06d8481c6ac8291d75d100314fbed37f3c4575e133df6a68a21fd1719c40108906c804103ed3b19842fe7fa95132716ffb4cc349d8a52cf107fa56cdece6035917bbea9ef3be47e5faf681e9bbaa191abb65e2d0af651776a5a2bee683577dfb3f289f744d2a3079b4d00-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR11168_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>ZERO ESCAPE ９時間９人９の扉 善人シボウデス ダブルパック</title-name>
+ <title-detail>ZERO ESCAPE ９時間９人９の扉 善人シボウデス ダブルパックのトロフィーです</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>極限脱出</name>
+  <detail>全てのトロフィーを入手</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="G" pid="000">
+  <name>ヒッチハイク</name>
+  <detail>９時間９人９の扉にてメインシナリオを最後までクリア</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="S" pid="000">
+  <name>ゼロの敗北</name>
+  <detail>９時間９人９の扉にてエンディング【ゼロの敗北】を見た</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="S" pid="000">
+  <name>潜水艇</name>
+  <detail>９時間９人９の扉にてエンディング【潜水艇】を見た</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="S" pid="000">
+  <name>ナイフ</name>
+  <detail>９時間９人９の扉にてエンディング【ナイフ】を見た</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="S" pid="000">
+  <name>斧</name>
+  <detail>９時間９人９の扉にてエンディング【斧】を見た</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>未来への道筋</name>
+  <detail>９時間９人９の扉にて予告編をすべて入手した</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>脱出の記憶</name>
+  <detail>９時間９人９の扉にて脱出の記憶をすべて開放した</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>最後の問題</name>
+  <detail>９時間９人９の扉にて最後の問題を解いた</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>脱出中級者</name>
+  <detail>善人シボウデスにて脱出パートを８ステージクリアした</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>脱出上級者</name>
+  <detail>善人シボウデスにて脱出パートを１６ステージクリアした</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>脱出の才能</name>
+  <detail>善人シボウデスにて脱出パートを難易度HARDでクリアした</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="G" pid="000">
+  <name>脱出の天才</name>
+  <detail>善人シボウデスにて全ての脱出パートをHARDでクリアした</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>あなたは知りすぎてしまった</name>
+  <detail>善人シボウデスにてSECRETを全て入手した</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>収集癖</name>
+  <detail>善人シボウデスにてFILEを全て入手した</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>ファイとＫを救うには！？</name>
+  <detail>善人シボウデスにてロックNo.01を解除した</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>他殺ではない証拠とは！？</name>
+  <detail>善人シボウデスにてロックNo.02を解除した</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>死亡まであと５分！？</name>
+  <detail>善人シボウデスにてロックNo.03を解除した</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>抗ウイルス薬が足りない！？</name>
+  <detail>善人シボウデスにてロックNo.04を解除した</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>長い桁数の数字とは！？</name>
+  <detail>善人シボウデスにてロックNo.05を解除した</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="000">
+  <name>アリスはどこに！？</name>
+  <detail>善人シボウデスにてロックNo.06を解除した</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>爆弾を仕掛けたのは誰だ！？（A）</name>
+  <detail>善人シボウデスにてロックNo.07を解除した</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="B" pid="000">
+  <name>ファイを引き止めるには！？</name>
+  <detail>善人シボウデスにてロックNo.08を解除した</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>爆弾を仕掛けたのは誰だ！？（B）</name>
+  <detail>善人シボウデスにてロックNo.09を解除した</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="000">
+  <name>爆弾【00】はどこに！？</name>
+  <detail>善人シボウデスにてロックNo.10を解除した</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>ひとつ目の結末</name>
+  <detail>善人シボウデスにていずれかのエンディングを見た</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="S" pid="000">
+  <name>LUNA;END</name>
+  <detail>善人シボウデスにてLUNA;ENDを見た</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="S" pid="000">
+  <name>K;END</name>
+  <detail>善人シボウデスにてK;ENDを見た</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="S" pid="000">
+  <name>DIO;END</name>
+  <detail>善人シボウデスにてDIO;ENDを見た</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="S" pid="000">
+  <name>TENMYOUJI;END</name>
+  <detail>善人シボウデスにてTENMYOUJI;ENDを見た</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="S" pid="000">
+  <name>QUARK;END</name>
+  <detail>善人シボウデスにてQUARK;ENDを見た</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="S" pid="000">
+  <name>YOTSUBA;END</name>
+  <detail>善人シボウデスにてYOTSUBA;ENDを見た</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="S" pid="000">
+  <name>ALICE;END</name>
+  <detail>善人シボウデスにてALICE;ENDを見た</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="S" pid="000">
+  <name>SIGMA;END</name>
+  <detail>善人シボウデスにてSIGMA;ENDを見た</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="S" pid="000">
+  <name>PHI;END</name>
+  <detail>善人シボウデスにてPHI;ENDを見た</detail>
+ </trophy>
+ <trophy id="035" hidden="yes" ttype="S" pid="000">
+  <name>END or BEGINNING</name>
+  <detail>善人シボウデスにてEND or BEGINNINGを見た</detail>
+ </trophy>
+ <trophy id="036" hidden="yes" ttype="G" pid="000">
+  <name>ALTERNATIVE;END</name>
+  <detail>善人シボウデスにてALTERNATIVE;ENDを見た</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>不幸な結末</name>
+  <detail>善人シボウデスにてバッドエンドを初めて見た</detail>
+ </trophy>
+</trophyconf>

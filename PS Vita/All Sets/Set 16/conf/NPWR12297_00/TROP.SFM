@@ -1,0 +1,104 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000001c78a4d5203f51959e3211d5447de18aed80d02335d30a42952056d3d37b41869c90986378c39ec365fea42502040cfaf29c87b279ba4b614945a5fb6c8012576d44b5543fab187e33fdf3ffea8112268f1326fd90f3db789876754871aee89644ba2277e4762e4c47ec538167dfed74556ad9ac30dc270ed75ce556eed8db6b599390ad0a2205a1b9fc5ed565e9676957421322-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR12297_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>CHAOS;CHILD らぶchu☆chu!!</title-name>
+ <title-detail>CHAOS;CHILD らぶchu☆chu!!のトロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>らぶ・完璧主義者</name>
+  <detail>CHAOS;CHILD らぶchu☆chu!!をやりつくす</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>【プロローグ】</name>
+  <detail>プロローグをプレイした</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>優しいお姉さんタイプ</name>
+  <detail>来栖乃々編を発見した</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>生意気な後輩タイプ</name>
+  <detail>有村雛絵編を発見した</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>無口な後輩タイプ</name>
+  <detail>香月華編を発見した</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>妹みたいな後輩タイプ</name>
+  <detail>結衣・結人編を発見した</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>年下の幼馴染タイプ</name>
+  <detail>尾上世莉架編を発見した</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>【私らしく】</name>
+  <detail>来栖乃々編をクリアした</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>【このまま一緒に】</name>
+  <detail>有村雛絵編をクリアした</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>【……お揃い、かも】</name>
+  <detail>香月華編をクリアした</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>【二人のミルフィーユ】</name>
+  <detail>結衣・結人編をクリアした</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="G" pid="000">
+  <name>【愛とか恋とかそういったもの】</name>
+  <detail>尾上世莉架編をクリアした</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="G" pid="000">
+  <name>【尾上世莉架の夢】</name>
+  <detail>エピローグをクリアした</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>初めての妄想トリガー</name>
+  <detail>恐れずに妄想トリガーを引いてみた</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>ポジティブ人間よたび</name>
+  <detail>全てのポジティブ妄想を見た</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>ネガティブ人間よたび</name>
+  <detail>全てのネガティブ妄想を見た</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="G" pid="000">
+  <name>超誇大妄想家</name>
+  <detail>全ての妄想トリガーを引いた</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="G" pid="000">
+  <name>やっぱり僕は情強だ</name>
+  <detail>1度も間違えずに資料を貼った</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>妄想はしないんだ</name>
+  <detail>妄想を一度もせずにエンディングを迎えた</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>アッー!</name>
+  <detail>親友と添い遂げた</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="G" pid="000">
+  <name>彼女なんていらない</name>
+  <detail>親友と何度でも…</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="G" pid="000">
+  <name>CGコンプリート</name>
+  <detail>全てのイベントCGを見た</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="G" pid="000">
+  <name>Tipsコンプリート</name>
+  <detail>全てのTipsを読んだ</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="G" pid="000">
+  <name>Soundコンプリート</name>
+  <detail>全てのSoundを聴いた</detail>
+ </trophy>
+</trophyconf>

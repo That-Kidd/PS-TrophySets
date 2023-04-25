@@ -1,0 +1,140 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000a9cf8deba87c201e55e564516c164b7607fdaaf0b4afc7d241ecdba3cdae4f79d13eb5c10115c12c5e2d695bc29e478f90199516573af5424b5c6e364cec208c3d9d1c5cac9f63c3fe7d8c2939b8e52725f581b646a07e5c59c20c0ee3d1240bb04a448e44baed485bcb42554fec7c7ba6492329bda5a63d8fa95f882fe9c49483a32d440e8b91bd6c45f89ccc46ccb9cfa69dec-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR16029_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Fernz Gate</title-name>
+ <title-detail>Trophy set for Fernz Gate</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Your Adventure</name>
+  <detail>Obtained all trophies.</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>Where am I?</name>
+  <detail>Watched the opening.</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>Jail Break</name>
+  <detail>Rescued the captive resistance members.</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>Island in the Sky</name>
+  <detail>Traveled to the floating island in the sky.</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>Showdown!</name>
+  <detail>Fought the Overlord, Clangorrah.</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>The Great Battle!</name>
+  <detail>Fought Neo-Clangorrah.</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="000">
+  <name>A New Journey</name>
+  <detail>Earned the Normal End.</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="G" pid="000">
+  <name>Setting Out</name>
+  <detail>Earned True End 1.</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="G" pid="000">
+  <name>World Protector</name>
+  <detail>Earned True End 2.</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="G" pid="000">
+  <name>Beginning of a New Chapter</name>
+  <detail>Earned True End 3.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>Walker</name>
+  <detail>Walked 5000 steps.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>Jogger</name>
+  <detail>Walked 50000 steps.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>Marathoner</name>
+  <detail>Walked 100000 steps.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>Treasure Finder</name>
+  <detail>Collected 50 treasure chests.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>Treasure Collector</name>
+  <detail>Collected 100 treasure chests.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>Treasure Maniac</name>
+  <detail>Collected 300 treasure chests.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Combo Novice</name>
+  <detail>Achieved 10 consecutive hits.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Combo Intermediate</name>
+  <detail>Achieved 50 consecutive hits.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>Combo Professional</name>
+  <detail>Achieved 200 consecutive hits.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Striker</name>
+  <detail>Dealt 10000+ damage in a single attack.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>Destroyer</name>
+  <detail>Dealt 100000+ damage in a single attack.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>Annihilator</name>
+  <detail>Dealt 1000000+ damage in a single attack.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>Weapon Enthusiast</name>
+  <detail>Synthesized a weapon to level 10.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>Weapon Crafter</name>
+  <detail>Synthesized a weapon to level 100.</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>Weapon Expert</name>
+  <detail>Synthesized a weapon to level 999.</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>Hired Hand</name>
+  <detail>Harvested from a planter 10 times.</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>Part-Time Worker</name>
+  <detail>Dispatched buddies 10 times.</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="G" pid="000">
+  <name>Serviceman</name>
+  <detail>Cleared all subquests.</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>Amateur</name>
+  <detail>Cleared the Bronze Cup at the battle arena.</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>Contender</name>
+  <detail>Cleared the Silver Cup at the battle arena.</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>Warrior</name>
+  <detail>Cleared the Gold Cup at the battle arena.</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="S" pid="000">
+  <name>Champion</name>
+  <detail>Cleared the Maid Cup at the battle arena.</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="G" pid="000">
+  <name>Ultimate Champion</name>
+  <detail>Cleared the highest level at the secret battle arena.</detail>
+ </trophy>
+</trophyconf>

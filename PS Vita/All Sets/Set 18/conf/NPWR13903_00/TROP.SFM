@@ -1,0 +1,80 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000109c0656d1311fa5ecfb3d05d49740a037ddb51a323cc69e2a8c55f405de2f989a7e5880fe2d73c17b1ec622fe2c9d20a70f264f876728fecf8e198115466ca6f0893d4efdba1c3337ffd6d7400d2c91f5dbd76c36aea43202a2d134051ee6e48c10875c251aec12ca5d3efed10b959b2faec1ff0edbdc2162ffce0f835353fd1ae169a22d455fe765ec72168ee514e6d676311a-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR13903_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>桜花裁き 斬</title-name>
+ <title-detail>桜花裁き 斬 のトロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>桜花裁き 斬</name>
+  <detail>全てのトロフィーを取得しました</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>勲功コンプリート</name>
+  <detail>全ての勲功を取得しました</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>ＣＧコンプリート</name>
+  <detail>全てのＣＧを取得しました</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>全エンディング達成</name>
+  <detail>全てのエンディングを見ました</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>グランドエンディング達成</name>
+  <detail>グランドエンディングを見ました</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>理夢エンディング達成</name>
+  <detail>理夢のエンディングを見ました</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>桜エンディング達成</name>
+  <detail>桜のエンディングを見ました</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>小梅エンディング達成</name>
+  <detail>小梅のエンディングを見ました</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>沖田エンディング達成</name>
+  <detail>沖田のエンディングを見ました</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>土方エンディング達成</name>
+  <detail>土方のエンディングを見ました</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="G" pid="000">
+  <name>山南エンディング達成</name>
+  <detail>山南のエンディングを見ました</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>悪落ちエンディング達成</name>
+  <detail>悪落ちエンディングを見ました</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>バッドエンディング達成</name>
+  <detail>バッドエンディングを見ました</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>桜花騒乱・了</name>
+  <detail>桜花騒乱をクリアしました</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>膏火自煎・了</name>
+  <detail>膏火自煎をクリアしました</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>今是昨非・了</name>
+  <detail>今是昨非をクリアしました</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>至誠一貫・了</name>
+  <detail>至誠一貫をクリアしました</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>狂瀾怒涛・了</name>
+  <detail>狂瀾怒涛をクリアしました</detail>
+ </trophy>
+</trophyconf>

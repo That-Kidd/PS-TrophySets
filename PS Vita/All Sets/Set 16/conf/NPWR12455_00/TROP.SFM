@@ -1,0 +1,136 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000b3315bd5ca69022fe5f22effe5934f6e0d2d28a16a775aa4ce0d472640b983fb5313abb667bc7ca08b13cc53804d690e91bf79c75dc0adefa78f00df54f5b42108da189e26e47436f8c1de74f99076e4b24572ebb9e043b3bde7c9dfb455d50bd1897fa0df373c1f9fd3b5944e88c5a6923536e731216da065a9036a30ce6a4b51535bdf01eb9385dc6626f68cc997da2332c0fc-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR12455_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>GodWars</title-name>
+ <title-detail>GodWars　Trophy Set</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Mythology Scholar</name>
+  <detail>Obtained all other trophies.</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>Arbitrator of the Gods</name>
+  <detail>Cleared Chapter 4.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>Protector of Mizuho</name>
+  <detail>Cleared all requests.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>A Step Toward Peace</name>
+  <detail>Cleared a request for the first time.</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>Returned from Yomi</name>
+  <detail>Cleared Chapter 3.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>Master of Ceremonies</name>
+  <detail>Used a God Skill for the first time.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>Skill Master</name>
+  <detail>Maxed out all skill levels.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>Skill Guru</name>
+  <detail>Unlocked every skill.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>Epiphany</name>
+  <detail>Leveled up a skill for the first time.</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="000">
+  <name>Yasakani no Magatama</name>
+  <detail>Cleared Chapter 2.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>Sanctum Preacher</name>
+  <detail>Used a Holy Skill for the first time.</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>Yomi Visitor</name>
+  <detail>Cleared Chapter 1.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>Job Master</name>
+  <detail>Maxed out all job levels.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>Secret Skill Awakened</name>
+  <detail>Used a Secret Skill for the first time.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="000">
+  <name>Treasure Master</name>
+  <detail>Found all hidden treasures.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>Treasure Maniac</name>
+  <detail>Found 30 hidden treasures.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Treasure Hunter</name>
+  <detail>Found a hidden treasure for the first time.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="G" pid="000">
+  <name>Combat Master</name>
+  <detail>Maxed out all ally levels.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>Rabid Curiosity</name>
+  <detail>Obtained all treasures from wicker boxes.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Something Caught My Eye</name>
+  <detail>Obtained a treasure from a wicker box for the first time.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>Equipment Collector</name>
+  <detail>Collected all equipment.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>Equipment Seeker</name>
+  <detail>Collected 100 pieces of equipment.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>Welcome to Odd Jobs</name>
+  <detail>Went shopping for the first time.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>Job Guru</name>
+  <detail>Unlocked every job.</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>Million Leaves</name>
+  <detail>Collected 1,000,000 leaves.</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>Hundred Thousand Leaves</name>
+  <detail>Collected 100,000 leaves.</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="S" pid="000">
+  <name>Devout Worshiper</name>
+  <detail>Maxed out shrine levels.</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>Earnest Worshiper</name>
+  <detail>Increased the shrine level.</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>It Pays to Pray</name>
+  <detail>Made an offering at a shrine for the first time.</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="S" pid="000">
+  <name>Pacifier</name>
+  <detail>Cleared 30 requests.</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>Wish Granter</name>
+  <detail>Cleared 10 requests.</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>The People's Prayer</name>
+  <detail>Accepted a request for the first time.</detail>
+ </trophy>
+</trophyconf>

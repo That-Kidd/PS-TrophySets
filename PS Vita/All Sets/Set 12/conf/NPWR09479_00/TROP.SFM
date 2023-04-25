@@ -1,0 +1,56 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000008ab9a018993bafff6440b71ad461766f0bdf7c724d570174cd49d665bfc473196679567c745456af32255a095fce0570c20da1056c122686938c4290703228019ec5d7c321e6b6b3fdc73ef25f69b77dc9491d1dc8cf70dc6dc19a9d1da0597b489ada3c8d5404f070dca5fc37c97ba5e9169b25e41ca3c00b84c475b77dbb1c1fd779e4fa4f40c730369ef418f04a5872addd36-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="small">
+ <npcommid>NPWR09479_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>ぎゃるガンヴォルト</title-name>
+ <title-detail>ぎゃるガンヴォルトのトロフィーです</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>ボス撃破</name>
+  <detail>ボスを１体倒した</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>平和主義者</name>
+  <detail>１体も敵を倒さずにボスに到達した</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>ブルーバタフライ</name>
+  <detail>隠れキャラのチョウをゲットした</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>ガンヴォルトマスター</name>
+  <detail>ＧＶでエンディングを見た</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>えころマスター</name>
+  <detail>えころでエンディングを見た</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>ベックマスター</name>
+  <detail>ベックでエンディングを見た</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>ベストハンター</name>
+  <detail>１ステージ内で３万点を超えた</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>ライフセーバー</name>
+  <detail>残りプレイヤー数が９人以上になった</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="-1">
+  <name>無傷の勇者</name>
+  <detail>ノーダメージでボスを倒した</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="-1">
+  <name>フレンド</name>
+  <detail>１ステージ内で、えころで敵を１０回仲間にした</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="-1">
+  <name>コンボマスター</name>
+  <detail>コンボで×１．５０になった</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="-1">
+  <name>パーフェクト</name>
+  <detail>誰か１人のキャラで全９ステージをクリアした</detail>
+ </trophy>
+</trophyconf>

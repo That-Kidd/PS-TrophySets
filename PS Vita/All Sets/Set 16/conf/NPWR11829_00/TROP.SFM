@@ -1,0 +1,104 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000000957ee102d5950bb56a71910eb0868d06cde827d607f7bb86f290267e9b895a9e3e073c1b32f77caa41666f176c5d412fea4e7b111f618d765c3ccffdcedb89fdf07ad040881a38ed6b07d5b8847b65aa979372f4495027ee6e06892ecd8389898dd1ad3283b507c2c965912805bfc3c1110c1bdca821a3f387206a3f6237087e437d10ecc44c15a23ad9f4cb42586df4f0129b7-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR11829_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Lichtspeer</title-name>
+ <title-detail>Lichtspeer Trophies</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Platinum</name>
+  <detail>Platinum</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>100 tiros en la cabeza</name>
+  <detail>Consigue 100 tiros en la cabeza</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>1000 tiros en la cabeza</name>
+  <detail>Consigue 1000 tiros en la cabeza</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>10000 tiros en la cabeza</name>
+  <detail>Consigue 10000 tiros en la cabeza</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>100 enemigos muertos</name>
+  <detail>Mata a 100 enemigos</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>1000 enemigos muertos</name>
+  <detail>Mata a 1000 enemigos</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>10000 enemigos muertos</name>
+  <detail>Mata a 10000 enemigos</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>Enganchándome</name>
+  <detail>juega a Lichtspeer 5 horas</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>Se lo voy a contar a mis amigos</name>
+  <detail>juega a Lichtspeer 12 horas</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>El dios de Licht es real</name>
+  <detail>juega a Lichtspeer 100 horas</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>Con poder de Licht</name>
+  <detail>usa un poder de Licht por primera vez</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>Gasta LSD.</name>
+  <detail>compra el primer poder de Licht</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>Das arsenal</name>
+  <detail>compra todo lo que haya en la tienda de Licht</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="000">
+  <name>Derrochador</name>
+  <detail>compra todos los poderes de Licht</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>¿Qué?</name>
+  <detail>consigue tu primer artefacto</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>Más que suficiente</name>
+  <detail>consigue el artefacto Farspeer</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>Veo la Licht</name>
+  <detail>consigue el artefacto Veo la Licht</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>Súper Brillen</name>
+  <detail>consigue el artefacto Súper Brillen</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>Soy la caña</name>
+  <detail>completa el juego en dificultad Normal</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="000">
+  <name>Soy la caña y algo más</name>
+  <detail>completa el juego en dificultad Normal Plus</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="G" pid="000">
+  <name>Nervios de acero</name>
+  <detail>completa el juego en dificultad Rage Quit</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="G" pid="000">
+  <name>¡Ha sucedido! ¡Ha sucedido! ¡Ha sucedido!</name>
+  <detail>completa el juego en dificultad Rage Quit Plus</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="G" pid="000">
+  <name>Parpadea, parpadea</name>
+  <detail>consigue UBER resultados para todos los niveles en dificultad Normal</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="G" pid="000">
+  <name>Estuve en el infierno y he vuelto</name>
+  <detail>consigue UBER resultados para todos los niveles en dificultad Rage Quit</detail>
+ </trophy>
+</trophyconf>

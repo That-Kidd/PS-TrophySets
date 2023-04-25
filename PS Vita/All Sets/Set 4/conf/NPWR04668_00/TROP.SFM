@@ -1,0 +1,104 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000c2bf974f2ad886a3a725cf3f3b892a2c13af9c75c9b37099b98bfad7e7ae722e56cae2a9c32e0798caf396592e58d6642b050bf9e09f726c1b760c79f5af35fb0e9c27b1959b32ae57acd2afe9a58a6e694790c0b8451aa4b08e6517bcf268509d6bb98817e8648a5b8d1c64e849a4c9956e64558cde2341d387ba3fbe1f1174a1c716ebadcb5a7aa77fbb38894cac0a58bb38a0-->
+<trophyconf version="1.1" platform="psp2" policy="freemium">
+ <npcommid>NPWR04668_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>OPEN ME!™</title-name>
+ <title-detail>Conjunto de trofeos de Open Me!™</title-detail>
+ <group id="001">
+  <name>Paquete 01</name>
+  <detail>Paquete 01</detail>
+ </group>
+ <group id="002">
+  <name>Paquete 02</name>
+  <detail>Paquete 02</detail>
+ </group>
+ <group id="003">
+  <name>Paquete 03</name>
+  <detail>Paquete 03</detail>
+ </group>
+ <group id="004">
+  <name>Paquete 04</name>
+  <detail>Paquete 04</detail>
+ </group>
+ <group id="005">
+  <name>Paquete 05</name>
+  <detail>Paquete 05</detail>
+ </group>
+ <group id="006">
+  <name>Paquete 06</name>
+  <detail>Paquete 06</detail>
+ </group>
+ <group id="007">
+  <name>Paquete 07</name>
+  <detail>Paquete 07</detail>
+ </group>
+ <group id="008">
+  <name>Paquete 08</name>
+  <detail>Paquete 08</detail>
+ </group>
+ <group id="009">
+  <name>Paquete 09</name>
+  <detail>Paquete 09</detail>
+ </group>
+ <group id="010">
+  <name>Paquete 10</name>
+  <detail>Paquete 10</detail>
+ </group>
+ <group id="011">
+  <name>Paquete 11</name>
+  <detail>Paquete 11</detail>
+ </group>
+ <group id="012">
+  <name>Paquete 12</name>
+  <detail>Paquete 12</detail>
+ </group>
+ <trophy id="000" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>¡Abre la Caja del experto!</name>
+  <detail>Recupera la recompensa de la Caja del experto.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="-1" gid="002">
+  <name>¡Abre la caja para armar!</name>
+  <detail>Recupera la recompensa de la Caja para armar.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="-1" gid="003">
+  <name>¡Abre la Caja cucú!</name>
+  <detail>Recupera la recompensa de la Caja cucú.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1" gid="004">
+  <name>¡Abre la Caja de vigilancia múltiple!</name>
+  <detail>Recupera la recompensa de la Caja de vigilancia múltiple.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="-1" gid="005">
+  <name>¡Abre la Caja superinvisible!</name>
+  <detail>Recupera la recompensa de la Caja superinvisible.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1" gid="006">
+  <name>¡Abre la Caja con superbroches!</name>
+  <detail>Recupera la recompensa de la Caja con superbroches.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1" gid="007">
+  <name>¡Abre el Cajón de madera batallador!</name>
+  <detail>Recupera la recompensa del Cajón de madera batallador.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="-1" gid="008">
+  <name>¡Abre la Caja superabisagrada!</name>
+  <detail>Recupera la recompensa de la Caja superabisagrada.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="-1" gid="009">
+  <name>¡Abre la Caja de acero superengañosa!</name>
+  <detail>Recupera la recompensa de la Caja de acero superengañosa.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="-1" gid="010">
+  <name>¡Abre la Caja de dos pasos!</name>
+  <detail>Recupera la recompensa de la Caja de dos pasos.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="-1" gid="011">
+  <name>¡Abre la Caja eólica!</name>
+  <detail>Recupera la recompensa de la Caja eólica.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="-1" gid="012">
+  <name>¡Abre la Caja para armar...?!</name>
+  <detail>Recupera la recompensa de la Caja para armar...?. </detail>
+ </trophy>
+</trophyconf>

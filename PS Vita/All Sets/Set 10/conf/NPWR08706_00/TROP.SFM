@@ -1,0 +1,88 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000008bcb0c72faa450db66d1b7a583f9bf1dbef6f32b489b8c211eb6757989946e041ca5e5374f095101140b9646492727c9755f7dd71c0168aa4954eba69b11506d5dfd60560b41cf85a6a0d55359924aeb52e6761c0076dc8d2c65bb2d3aa6789f5b0ca3ee43bb928da26f585c710d5c29fa3bb8cccbbc9d854908342d91271e407a03e23647023c0f6a735fd7304185f766ca469f-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR08706_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Rugby World Cup 2015</title-name>
+ <title-detail>Rugby World Cup 2015</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Trophy Tackler</name>
+  <detail>Earn all Bronze, Silver and Gold Trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>First Try</name>
+  <detail>Score a try</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Break On Through</name>
+  <detail>Run and score a try directly after breaking out of a tackle, vs CPU (Hard)</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Bonus Worthy</name>
+  <detail>Score four tries in a match, vs CPU (Hard)</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>With The Breeze</name>
+  <detail>Score a penalty goal or conversion from 55+ metres, vs CPU (Hard)</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>Place Kick Perfection</name>
+  <detail>Score on 5 place kick attempts in a row during a match, vs CPU (Hard)</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>Big Touch Finder</name>
+  <detail>Punt into touch for a territorial gain of 50+ metres</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>Long Droppie</name>
+  <detail>Score a drop goal from 40+ metres</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>100 Metre Dash</name>
+  <detail>Score a try after running the ball directly from behind your own goal line</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>Best Behaviour</name>
+  <detail>Do not concede any penalty infringements in a match</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>Ruck Raider</name>
+  <detail>Win 5 ruck turnovers in a match, vs CPU (Hard)</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>Serious Rugger</name>
+  <detail>Win a match against an international team rated 90+, vs CPU (Hard)</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>Try Haul</name>
+  <detail>Score 10 tries in a match, vs CPU (Hard) (5 or 10 min halves)</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="000">
+  <name>Winning Streak</name>
+  <detail>Win 10 matches in a row, vs CPU (Hard)</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="000">
+  <name>World Champions</name>
+  <detail>Play through and win the RWC 2015 mode, vs CPU (Hard)</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="G" pid="000">
+  <name>Maximum Points</name>
+  <detail>Earn 20 pool stage points in the RWC 2015 mode, vs CPU (Hard)</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="G" pid="000">
+  <name>New Tries Record</name>
+  <detail>Score 9+ tries in the RWC 2015 mode with a rugby player, vs CPU (Hard)</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="G" pid="000">
+  <name>New Points Record</name>
+  <detail>Score 127+ points in the RWC 2015 mode with a rugby player, vs CPU (Hard)</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="G" pid="000">
+  <name>Customary</name>
+  <detail>Create and win a competition in Custom Cup featuring 20 teams or more</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>Serial Pest</name>
+  <detail>Get awarded two yellow and/or red cards in a match</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,76 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000b6b0b9ccab8cc8093d317b0f160231e39e77f0d26854e6f676d95dcdef518b9b7b1ed5e7f9d15f3b325bee8071edbe1f45f26e542ef8f2c76bfd04da6a05dc70c44c1a76a8b206e5df320b485c82950db8ad16f571999f0e9f5c5e7bef5e53a9bf1eba5091a691a35ae69dd22a00a5c6752c07c9008cd38bef6a2da3b68f3e611620e973c01170a128b5471400aecc208ad190b7-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR19615_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>金色ラブリッチェ</title-name>
+ <title-detail>『金色ラブリッチェ』トロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>金色ラブリッチェ</name>
+  <detail>全てのトロフィーを取得した</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>俺もそのどれかにするか</name>
+  <detail>最初の選択肢を選んだ</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>ゴールデンタイムだ</name>
+  <detail>PROLOGUEを読んだ</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>ふふふー、呼んでみただけデス</name>
+  <detail>シルヴィルートに入った</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>なになに。オーロが絢華っちに何かしたん？</name>
+  <detail>玲奈ルートに入った</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>学習方面ではもう少し慣れたほうがよいのでは？</name>
+  <detail>エルルートに入った</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>世界はいつも、こんなにも綺麗に黄昏ていく</name>
+  <detail>理亜ルートに入った</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>センパイ、今朝もお疲れさまでしたっ！</name>
+  <detail>茜ルートに入った</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>すべてがわたしのゴールデンタイムよ</name>
+  <detail>シルヴィルートをクリアした</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>なんだよー、照れるじゃん、ほめすぎかよー</name>
+  <detail>玲奈ルートをクリアした</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>あとは金色のメダルをいただくだけです</name>
+  <detail>エルルートをクリアした</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>ゴールデンタイムだから</name>
+  <detail>理亜ルートをクリアした</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>金色を目指して、わたしは走り続ける──！</name>
+  <detail>茜ルートをクリアした</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="G" pid="000">
+  <name>今日も、ステキな時間を奏でましょうね</name>
+  <detail>グランドフィナーレを見た</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="000">
+  <name>俺たちの時間は、いつだってゴールデンタイムなんだから</name>
+  <detail>全てのエンディングを見た</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="G" pid="000">
+  <name>今日を楽しく過ごすことが、未来すべての幸せ</name>
+  <detail>全てのイベントＣＧを見た</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="G" pid="000">
+  <name>せっかくですから一曲お願いできますかしら</name>
+  <detail>全ての音楽を聴いた</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,56 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000008422c5a7f45d32cae55ebe076668b55426e5f88c44a5f5c11d23d052c04b0d49c6c6672f78fe8775410825ce13245c99b45c751437428d84ba36c8e16e2e2dd328c16ca5197fa3ae1067dbb096a84f6b6e70e7f5d2895a8ccfb68ad9c6f609934ee96063e8919150614a88b1c9aa02d7b55950c060a129f8dcc0f709bda67725afe0e7b23bbe40aa4d8932cc0d65f7d0cc746e8a-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR20119_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Battle Rockets</title-name>
+ <title-detail>Get head-to-heady! Battle Rockets combines the SHMUP and Fighting genres into one compact experience! Take the fight outside, and challenge whoever you meet to a quick match...All on one handheld! Or, test your skills in one of eight single-player Challenges. Think you can rise to the top of the Console-tan hierarchy?</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Battle Rockets Diploma</name>
+  <detail>You've aced every test. Now, here's your certificate of completion!</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>Feeling Suri</name>
+  <detail>Complete the 1st Challenge in Battle Rockets' single-player mode.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>Maxed Out</name>
+  <detail>Complete the 2nd Challenge in Battle Rockets' single-player mode.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>Making a Miss</name>
+  <detail>Complete the 3rd Challenge in Battle Rockets' single-player mode.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>A Friend in Vee</name>
+  <detail>Complete the 4th Challenge in Battle Rockets' single-player mode.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>Just Nix the Plan</name>
+  <detail>Complete the 5th Challenge in Battle Rockets' single-player mode.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>Fura Flies</name>
+  <detail>Complete the 6th Challenge in Battle Rockets' single-player mode.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>Bonne Chance</name>
+  <detail>Complete the 7th Challenge in Battle Rockets' single-player mode.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>Obligatory Toots Trophy</name>
+  <detail>Complete the 8th Challenge in Battle Rockets' single-player mode.</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="G" pid="000">
+  <name>The Hero's Tourney</name>
+  <detail>Win every round in a Short Fuse match.</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="G" pid="000">
+  <name>Give Credit Where it's Due</name>
+  <detail>Watch the entire credits sequence, found in the settings of Battle Rockets.</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="G" pid="000">
+  <name>Guess I'll Tie</name>
+  <detail>End a multiplayer Battle Rockets match in a tie.</detail>
+ </trophy>
+</trophyconf>

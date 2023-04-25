@@ -1,0 +1,112 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000c29307e75f0fe263f882f8624cda6561a87da8da46385f45ca5080b14acaac9daeccac0e7bf4dc604951a05dbcc6df8a57544cd65a9fc071116c7aa948af27e53eb2db1e04ef37364d92baeb453c9664c3471c659f994c9882cfe2008923dd361c25a87efa57034457583a80cdbfd56a463b5800f3c1bc789a44487c6386e49ad169cd27a9247ea968f319610f903a865140e52b-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR08509_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>POSSESSION MAGENTA</title-name>
+ <title-detail>POSSESSION MAGENTAのトロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>POSSESSION MAGENTA</name>
+  <detail>全てのトロフィーを獲得した</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="G" pid="000">
+  <name>ENDコンプリート</name>
+  <detail>ＡＣＴ８の全てのエンドを見た</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="G" pid="000">
+  <name>結びあった二人の想い</name>
+  <detail>全てのベストエンドを見た</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="G" pid="000">
+  <name>理想郷の終焉</name>
+  <detail>全てのグッドエンドを見た</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="G" pid="000">
+  <name>マゼンタに染まる世界</name>
+  <detail>ＡＣＴ８の全てのバッドエンドを見た</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="S" pid="000">
+  <name>救えなかった思い</name>
+  <detail>ＡＣＴ２～７のバッドエンドを見た</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="000">
+  <name>光あふれる世界へ</name>
+  <detail>真相エンドを見た</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>幸せを奏でるために</name>
+  <detail>奏の全てのエンドを見た</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>最高の『ハッピーエンド』</name>
+  <detail>草太の全てのエンドを見た</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>僕だけのお姫様</name>
+  <detail>光介の全てのエンドを見た</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>オレ達らしい恋の一歩</name>
+  <detail>大河の全てのエンドを見た</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>甘くとろけるキスの味</name>
+  <detail>蘇の全てのエンドを見た</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>もう少し先の未来</name>
+  <detail>優一郎の全てのエンドを見た</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>ずっと大好きな親友</name>
+  <detail>綾女の全てのエンドを見た</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>奏CGコンプリート</name>
+  <detail>奏のCGを全てオープンした</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>草太CGコンプリート</name>
+  <detail>草太のCGを全てオープンした</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>光介CGコンプリート</name>
+  <detail>光介のCGを全てオープンした</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>大河CGコンプリート</name>
+  <detail>大河のCGを全てオープンした</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>蘇CGコンプリート</name>
+  <detail>蘇のCGを全てオープンした</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="000">
+  <name>優一郎CGコンプリート</name>
+  <detail>優一郎のCGを全てオープンした</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>共通CGコンプリート</name>
+  <detail>共通のCGを全てオープンした</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="G" pid="000">
+  <name>MEMORYコンプリート</name>
+  <detail>MEMORYを全てオープンした</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>MUSICコンプリート</name>
+  <detail>MUSICを全てオープンした</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>キャラうさねこコンプリート</name>
+  <detail>キャラうさねこを全てオープンした</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>うさねこコンプリート</name>
+  <detail>うさねこを全てオープンした</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="S" pid="000">
+  <name>カードコンプリート</name>
+  <detail>カードを全てオープンした</detail>
+ </trophy>
+</trophyconf>

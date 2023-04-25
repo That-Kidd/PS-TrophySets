@@ -1,0 +1,108 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000661828662345922fb3e72932f85924124acb31ac0ceada709d4d904bd762e556cb55cf2451733932f3793ef40ee5b9710f283b776fb16319631cb951a1ed8d5720b9b9226fc3482a837793d8df37b7499d3700c84cce5131102dea22923c564b3cf4f96a421cf833d9a04c2b0c0914038a2bbb00bf32dff3cfdc51439e5c4543ccc033baa6f4a9211812b911b6d52214636ff24d-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR08406_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>白衣性愛情依存症</title-name>
+ <title-detail>白衣性愛情依存症のトロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>白愛看護師試験合格</name>
+  <detail>すべてのトロフィーの解除を達成</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="G" pid="000">
+  <name>なおグッドエンドクリア</name>
+  <detail>なおグッドエンドをクリア</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="G" pid="000">
+  <name>いつきグッドエンドクリア</name>
+  <detail>いつきグッドエンドをクリア</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="G" pid="000">
+  <name>さくやグッドエンドクリア</name>
+  <detail>さくやグッドエンドをクリア</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="G" pid="000">
+  <name>かえでグッドエンドクリア</name>
+  <detail>かえでグッドエンドをクリア</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="G" pid="000">
+  <name>なおバッドエンドクリア</name>
+  <detail>なおバッドエンドをクリア</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="G" pid="000">
+  <name>いつきバッドエンドクリア</name>
+  <detail>いつきバッドエンドをクリア</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="G" pid="000">
+  <name>さくやバッドエンドクリア</name>
+  <detail>さくやバッドエンドをクリア</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="G" pid="000">
+  <name>かえでバッドエンドクリア</name>
+  <detail>かえでバッドエンドをクリア</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>放課後エンドクリア</name>
+  <detail>放課後エンドをクリア</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>なおを許す</name>
+  <detail>大事な選択肢で「許す」選択</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>いつきを信じず、抵抗する</name>
+  <detail>大事な選択肢で「抵抗する」選択</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>結婚するならさくや</name>
+  <detail>大事な選択肢で「さくや」選択</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>かえでに辞職願を渡さない</name>
+  <detail>大事な選択肢で「渡さない」選択</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="B" pid="000">
+  <name>ホームルーム終了</name>
+  <detail>プロローグクリア</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>一時限目終了</name>
+  <detail>一章クリア</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>二時限目終了</name>
+  <detail>二章クリア</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>三時限目終了</name>
+  <detail>三章クリア</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>見るだけならタダ</name>
+  <detail>謎の関西人売り子が出現</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>なおちゃんのワンピが一番！</name>
+  <detail>なおの水着を褒めた</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="000">
+  <name>せくしゃるばいおれんす！</name>
+  <detail>いつきの水着を褒めた</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>む、さくやさんの胸が一番！</name>
+  <detail>さくやの水着を褒めた</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="B" pid="000">
+  <name>自画自賛</name>
+  <detail>自分の水着を褒めた</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>あんたとぉぉぉ並んでぇ</name>
+  <detail>あすか、あんた坂熱唱</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="000">
+  <name>機攻豪華ドハデオーのテーマ！</name>
+  <detail>いつき、ドハデオー絶叫</detail>
+ </trophy>
+</trophyconf>

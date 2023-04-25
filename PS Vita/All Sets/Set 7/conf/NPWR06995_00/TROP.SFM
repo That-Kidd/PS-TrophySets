@@ -1,0 +1,40 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000f6c6db0864f2d2a507391064212fbbf3975956aba58d7221490646e06766986115956a1e56d07ee6b42cf41ba90f2d26589a87088e7d854eaa725ed7d6a9d902c13f826d70f7f218441a94156399400736616f5b894d5b233d8bc5dc5d60da6969f89b7218307eab8f3915701e18c492fa281b3689ae5ae3f83a138a6b4806b31889c6e20e7794c6c5491aa61566cf8dc36c61ef-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR06995_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>オセロ</title-name>
+ <title-detail>オセロ　 トロフィー</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>オセロはじめました</name>
+  <detail>対局を開始した</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>初めての勝利</name>
+  <detail>対局で初めて勝利した</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="-1">
+  <name>オセロ名人！</name>
+  <detail>対局で10回以上勝利した</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>オセロレベル：初級</name>
+  <detail>Lv.1～Lv.3をクリア</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>オセロレベル：中級</name>
+  <detail>Lv.4～Lv.7をクリア</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="-1">
+  <name>オセロレベル：上級</name>
+  <detail>Lv.8～Lv.11をクリア</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="-1">
+  <name>オセロレベル：超級</name>
+  <detail>Lv.12～Lv.14をクリア</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="-1">
+  <name>宇宙最強！</name>
+  <detail>Lv.1～Lv.14全ての難易度をクリアした</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,340 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000790537f0407270184366e4e7bb8249fa6a6aff965f4d3ea6601ab9f7c1fb5be921fdd36361f48db4cd2e570bf3006cf5e74eed41fbd1ee0fbe52601765db19162d748cc73c4a3fc6611f42837e4b720294d7b84fa9a201c8034ae7fe6627313ef32ee2368e5e16dfef5f02621774aff4aaf842e2a7b6913750e71844933f541258480a511e917adb3ad0456110c7ec36311b01c2-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR03030_00</npcommid>
+ <trophyset-version>01.08</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>シェルノサージュ～失われた星へ捧ぐ詩～</title-name>
+ <title-detail>シェルノサージュ～失われた星へ捧ぐ詩～&#x0a;のトロフィーデータです。</title-detail>
+ <group id="001">
+  <name>セカイパックvol.2　試練編第二幕</name>
+  <detail>セカイパックVol.2　試練編第二幕のトロフィーです。</detail>
+ </group>
+ <group id="002">
+  <name>コスチューム＆アクセサリー　リーベルドレス</name>
+  <detail>ダウンロードコンテンツ『コスチューム＆アクセサリー　リーベルドレス』のトロフィーです。</detail>
+ </group>
+ <group id="003">
+  <name>セカイパックvol.3　試練編第三幕</name>
+  <detail>セカイパックVol.3　試練編第三幕のトロフィーです。</detail>
+ </group>
+ <group id="004">
+  <name>コスチューム＆アクセサリー　動物みみセット？</name>
+  <detail>ダウンロードコンテンツ『コスチューム＆アクセサリー　動物みみセット？』のトロフィーです。</detail>
+ </group>
+ <group id="005">
+  <name>セカイパックvol.4　試練編最終幕</name>
+  <detail>セカイパックVol.4　試練編最終幕のトロフィーです。</detail>
+ </group>
+ <group id="006">
+  <name>コスチューム＆アクセサリー　月待灯</name>
+  <detail>ダウンロードコンテンツ『コスチューム＆アクセサリー　月待灯』のトロフィーです。</detail>
+ </group>
+ <group id="007">
+  <name>コスチューム＆アクセサリー　ファッションフェスタ&#x0a;</name>
+  <detail>ダウンロードコンテンツ『コスチューム＆アクセサリー　ファッションフェスタ』のトロフィーです。</detail>
+ </group>
+ <group id="008">
+  <name>セカイパックvol.5　崩壊編第一幕</name>
+  <detail>セカイパックvol.5　崩壊編第一幕のトロフィーです。</detail>
+ </group>
+ <group id="009">
+  <name>コスチューム＆アクセサリー　ブルーハミング</name>
+  <detail>ダウンロードコンテンツ『コスチューム＆アクセサリー　ブルーハミング』のトロフィーです。</detail>
+ </group>
+ <group id="010">
+  <name>セカイパックvol.6　崩壊編第二幕</name>
+  <detail>セカイパックvol.6　崩壊編第二幕のトロフィーです。</detail>
+ </group>
+ <group id="011">
+  <name>コスチューム＆アクセサリー　ブルーミングヤード</name>
+  <detail>ダウンロードコンテンツ『コスチューム＆アクセサリー　ブルーミングヤード』のトロフィーです。</detail>
+ </group>
+ <group id="012">
+  <name>セカイパックvol.7　崩壊編第三幕</name>
+  <detail>セカイパックvol.7　崩壊編第三幕のトロフィーです。</detail>
+ </group>
+ <group id="013">
+  <name>コスチューム＆アクセサリー　こんいろ水着</name>
+  <detail>ダウンロードコンテンツ『コスチューム＆アクセサリー　こんいろ水着』のトロフィーです。</detail>
+ </group>
+ <group id="014">
+  <name>セカイパックvol.8　崩壊編最終幕</name>
+  <detail>セカイパックvol.8　崩壊編最終幕のトロフィーです。</detail>
+ </group>
+ <group id="015">
+  <name>コスチューム＆アクセサリー　紫陽咲花</name>
+  <detail>ダウンロードコンテンツ『コスチューム＆アクセサリー　紫陽咲花』のトロフィーです。</detail>
+ </group>
+ <trophy id="000" hidden="yes" ttype="B" pid="-1">
+  <name>はじめまして！</name>
+  <detail>端末を通じてイオンとであった。</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="-1">
+  <name>初めての廃墟修復</name>
+  <detail>初めて廃墟修復を終えた。</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="-1">
+  <name>夢の中へ</name>
+  <detail>夢セカイの扉を開いた。</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="-1">
+  <name>共同作業？</name>
+  <detail>初めてアイテムを作った。</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="S" pid="-1">
+  <name>新生活開始！</name>
+  <detail>向こうの世界での過ごし方を学んだ。</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="G" pid="-1">
+  <name>万寿沙羅</name>
+  <detail>第一の扉で全ての記憶を覗いた。</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="-1">
+  <name>眠れない夜</name>
+  <detail>イオンをデートに誘った。</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="-1">
+  <name>怪しい雑貨屋さん</name>
+  <detail>ねりこから怪しいナニカをもらった。</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="-1">
+  <name>壁に耳あり</name>
+  <detail>イオンの寝言を聴いた。</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="-1">
+  <name>進展</name>
+  <detail>添い寝を許された。</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="-1">
+  <name>バストーク</name>
+  <detail>お風呂に入っているイオンと話した。</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="-1" gid="001">
+  <name>学校の思い出</name>
+  <detail>極秘文書を差し出してデートに行った。</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="B" pid="-1" gid="001">
+  <name>おしゃれアイテム？</name>
+  <detail>獅子狛夫婦を差し出してデートに行った。</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="-1" gid="001">
+  <name>自慢の一品</name>
+  <detail>コンパウンドケーキを差し出してデートに行った。</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="B" pid="-1" gid="001">
+  <name>お酒じゃないよ？</name>
+  <detail>白木ますを差し出してデートに行った。</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="-1" gid="001">
+  <name>コロン上陸</name>
+  <detail>夢ノ珠のことを思い出した。</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="S" pid="-1" gid="001">
+  <name>夢セカイの秘密</name>
+  <detail>ねりこからイオンの記憶について聞いた。</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="G" pid="-1" gid="001">
+  <name>夢ノ珠</name>
+  <detail>第二の扉の全ての記憶をのぞいた。</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="S" pid="-1" gid="002">
+  <name>御奉仕します！</name>
+  <detail>メイド服？のレシピをもらった。</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="-1" gid="003">
+  <name>イオンの天国</name>
+  <detail>エルリンクスを差し出してデートに行った。</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="-1" gid="003">
+  <name>恥ずかしくて……</name>
+  <detail>アラウンドフレイムを差し出してデートに行った。</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="-1" gid="003">
+  <name>色々な屋台</name>
+  <detail>きつねのお面を差し出してデートに行った。</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="B" pid="-1" gid="003">
+  <name>またあの場所へ</name>
+  <detail>何かを差し出して二回、もしくは三回目のデートに行った。</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="-1" gid="003">
+  <name>歓楽街</name>
+  <detail>プラネタリー・メゾンのことを思い出した。</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="S" pid="-1" gid="003">
+  <name>百聞は一見に如かず</name>
+  <detail>ねりことイオンの記憶について話した。</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="G" pid="-1" gid="003">
+  <name>プラネタリー・メゾン</name>
+  <detail>第三の扉の全ての記憶をのぞいた。</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="S" pid="-1" gid="004">
+  <name>人にして人にあらず</name>
+  <detail>動物みみセット？をもらった。</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="B" pid="-1" gid="005">
+  <name>夏の風物詩</name>
+  <detail>かき氷たろう君を差し出してデートに行った。</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="B" pid="-1" gid="005">
+  <name>温泉といえば……</name>
+  <detail>御当地温泉タオルを差し出してデートに行った。</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="B" pid="-1" gid="005">
+  <name>本物そっくり？</name>
+  <detail>アクアドームを差し出してデートに行った。</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="B" pid="-1" gid="005">
+  <name>期待と不安</name>
+  <detail>Ｔｚチューブカンパニーのことを思い出した。</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="B" pid="-1" gid="005">
+  <name>イオンの違和感</name>
+  <detail>ねりことイオンの性格について話した。</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="S" pid="-1" gid="005">
+  <name>ねりことレオン</name>
+  <detail>ねりことレオンについて話した。</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="G" pid="-1" gid="005">
+  <name>Ｔｚチューブカンパニー</name>
+  <detail>第四の扉の全ての記憶をのぞいた。</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="S" pid="-1" gid="006">
+  <name>儀礼用の衣装？</name>
+  <detail>チャイナ？のレシピをもらった。</detail>
+ </trophy>
+ <trophy id="035" hidden="yes" ttype="S" pid="-1" gid="007">
+  <name>ファンションフェスタ</name>
+  <detail>アンバサダーDLCの新規コスチュームのレシピ三種をイオンから受け取る</detail>
+ </trophy>
+ <trophy id="036" hidden="yes" ttype="B" pid="-1" gid="008">
+  <name>ずっと前にも……</name>
+  <detail>私立蓮明学院生徒手帳を差し出してデートに行った。</detail>
+ </trophy>
+ <trophy id="037" hidden="yes" ttype="B" pid="-1" gid="008">
+  <name>浴衣があれば完璧</name>
+  <detail>納涼うちわを差し出してデートに行った。</detail>
+ </trophy>
+ <trophy id="038" hidden="yes" ttype="B" pid="-1" gid="008">
+  <name>悪魔っ子シスター</name>
+  <detail>シスターメギドさんを差し出してデートに行った。</detail>
+ </trophy>
+ <trophy id="039" hidden="yes" ttype="B" pid="-1" gid="008">
+  <name>再会、そして胎動</name>
+  <detail>情報集約都市アルメティカのことを思い出した。</detail>
+ </trophy>
+ <trophy id="040" hidden="yes" ttype="B" pid="-1" gid="008">
+  <name>プライベートは大事</name>
+  <detail>ねりことアルメティカについて話した。</detail>
+ </trophy>
+ <trophy id="041" hidden="yes" ttype="S" pid="-1" gid="008">
+  <name>夢セカイの謎</name>
+  <detail>ねりこと夢セカイの謎について話した。</detail>
+ </trophy>
+ <trophy id="042" hidden="yes" ttype="G" pid="-1" gid="008">
+  <name>情報集約都市アルメティカ</name>
+  <detail>第五の扉の全ての記憶をのぞいた。</detail>
+ </trophy>
+ <trophy id="043" hidden="yes" ttype="S" pid="-1" gid="009">
+  <name>日曜大工</name>
+  <detail>作業着？のレシピをもらった。</detail>
+ </trophy>
+ <trophy id="044" hidden="yes" ttype="B" pid="-1" gid="010">
+  <name>知りたいけど……</name>
+  <detail>磁極式精神波記憶媒体を差し出してデートに行った。</detail>
+ </trophy>
+ <trophy id="045" hidden="yes" ttype="B" pid="-1" gid="010">
+  <name>巨大生物？</name>
+  <detail>大王イカの抱き枕を差し出してデートに行った。</detail>
+ </trophy>
+ <trophy id="046" hidden="yes" ttype="B" pid="-1" gid="010">
+  <name>十番勝負</name>
+  <detail>イオンに10回以上ジャンケンで勝利をした。</detail>
+ </trophy>
+ <trophy id="047" hidden="yes" ttype="B" pid="-1" gid="010">
+  <name>常世の楽園</name>
+  <detail>コロン・フォーシーズンのことを思い出した。</detail>
+ </trophy>
+ <trophy id="048" hidden="yes" ttype="B" pid="-1" gid="010">
+  <name>三人寄れば……</name>
+  <detail>イオンがいるときにねりこがやって来た。</detail>
+ </trophy>
+ <trophy id="049" hidden="yes" ttype="S" pid="-1" gid="010">
+  <name>ねりこの仕事？</name>
+  <detail>ねりこの仕事とシャールについて話した。</detail>
+ </trophy>
+ <trophy id="050" hidden="yes" ttype="G" pid="-1" gid="010">
+  <name>コロン・フォーシーズン</name>
+  <detail>第六の扉の全ての記憶をのぞいた。</detail>
+ </trophy>
+ <trophy id="051" hidden="yes" ttype="S" pid="-1" gid="011">
+  <name>春風と青春</name>
+  <detail>ブレザー？をもらった。</detail>
+ </trophy>
+ <trophy id="052" hidden="yes" ttype="B" pid="-1" gid="012">
+  <name>乙女の夢？</name>
+  <detail>ＤＸジャンボパフェを差し出してデートに行った。</detail>
+ </trophy>
+ <trophy id="053" hidden="yes" ttype="B" pid="-1" gid="012">
+  <name>神頼み</name>
+  <detail>ロザリオを差し出してデートに行った。</detail>
+ </trophy>
+ <trophy id="054" hidden="yes" ttype="B" pid="-1" gid="012">
+  <name>忘却の地</name>
+  <detail>ジェノミライのことを思い出した。</detail>
+ </trophy>
+ <trophy id="055" hidden="yes" ttype="B" pid="-1" gid="012">
+  <name>隠された真実</name>
+  <detail>イオンと一緒にカノンの生死について話した。</detail>
+ </trophy>
+ <trophy id="056" hidden="yes" ttype="B" pid="-1" gid="012">
+  <name>夢広がる宝箱</name>
+  <detail>ねりことマイクロクエーサーについて話した</detail>
+ </trophy>
+ <trophy id="057" hidden="yes" ttype="S" pid="-1" gid="012">
+  <name>明日への希望</name>
+  <detail>落ち込んでいたイオンが元気を取り戻した。</detail>
+ </trophy>
+ <trophy id="058" hidden="yes" ttype="G" pid="-1" gid="012">
+  <name>ジェノミライ</name>
+  <detail>第七の扉の全ての記憶をのぞいた。</detail>
+ </trophy>
+ <trophy id="059" hidden="yes" ttype="S" pid="-1" gid="013">
+  <name>男のロマン？</name>
+  <detail>普通の水着？をもらった。</detail>
+ </trophy>
+ <trophy id="060" hidden="yes" ttype="B" pid="-1" gid="014">
+  <name>お祭りの定番</name>
+  <detail>りんご飴を差し出してデートに行った。</detail>
+ </trophy>
+ <trophy id="061" hidden="yes" ttype="B" pid="-1" gid="014">
+  <name>海洋生物博士？</name>
+  <detail>海洋生物図鑑端末を差し出してデートに行った。</detail>
+ </trophy>
+ <trophy id="062" hidden="yes" ttype="B" pid="-1" gid="014">
+  <name>変革したセカイ</name>
+  <detail>地文大寺院のことを思い出した。</detail>
+ </trophy>
+ <trophy id="063" hidden="yes" ttype="B" pid="-1" gid="014">
+  <name>禁則事項</name>
+  <detail>ねりこにイオンのセカイについて尋ねた。</detail>
+ </trophy>
+ <trophy id="064" hidden="yes" ttype="B" pid="-1" gid="014">
+  <name>セカイの秘密</name>
+  <detail>イオンと一緒にねりこにセカイについて尋ねた。</detail>
+ </trophy>
+ <trophy id="065" hidden="yes" ttype="S" pid="-1" gid="014">
+  <name>退屈な日々</name>
+  <detail>何もすることがないねりこの愚痴を聞いた。</detail>
+ </trophy>
+ <trophy id="066" hidden="yes" ttype="G" pid="-1" gid="014">
+  <name>地文大寺院</name>
+  <detail>第八の扉の全ての記憶をのぞいた。</detail>
+ </trophy>
+ <trophy id="067" hidden="yes" ttype="S" pid="-1" gid="015">
+  <name>浴衣美人</name>
+  <detail>浴衣？をもらった。</detail>
+ </trophy>
+</trophyconf>

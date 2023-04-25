@@ -1,0 +1,168 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000545f2991c3ef33e500ae229c0c4ab162ad832bad6aa9c2872295010131707b92a343379775bb646e2b644c7f46103ea0d09bd7e75d36beab1bc3433fd0646ed8f13600a96035e01f2f53b4ba16cb4d0a7697f10f1e65844527bf6843ce4049ea6416c798b8c3dadbf073b7cea271937cd61fa2c84fc13f8f828a60091bfcd8fe3066e0f78c316238f455d5a1b637b53e0ed06725-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR07901_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>LOVELY×CATION 1&amp;2</title-name>
+ <title-detail>LOVELY×CATION 1&amp;2 のトロフィーセットです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>ずっと初恋の日々</name>
+  <detail>全てのトロフィーを獲得した</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="000">
+  <name>LOVELY×COLLECTION@1</name>
+  <detail>「LOVELY×CATION」のイベントCGを全て回収した</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>LOVELY×COLLECTION@2</name>
+  <detail>「LOVELY×CATION2」のイベントCGを全て回収した</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>アイテムハンター</name>
+  <detail>1と2どちらかのアイテムを全て取得した</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>アイテムマスター</name>
+  <detail>1と2両方のアイテムを全て取得した</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>癒し系アイドル</name>
+  <detail>由仁と恋人（？）になった</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>天真爛漫お嬢様</name>
+  <detail>優希と恋人になった</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>孤高の後輩ゲーマー</name>
+  <detail>綾と恋人になった</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>体育教師な女神様</name>
+  <detail>三朝と恋人になった</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>学園のミス・プリンス</name>
+  <detail>瀬良と恋人になった</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>由仁ルートクリア</name>
+  <detail>七沢由仁ルートをクリアした</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>優希ルートクリア</name>
+  <detail>天ヶ瀬優希ルートをクリアした</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>綾ルートクリア</name>
+  <detail>犬吠埼綾ルートをクリアした</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>三朝ルートクリア</name>
+  <detail>月岡三朝ルートをクリアした</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>瀬良ルートクリア</name>
+  <detail>黒川瀬良ルートをクリアした</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>ずっと引きこもりの日々</name>
+  <detail>L×C1ノーマルバッドエンドを見た</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>HAPPY END?</name>
+  <detail>由仁のバッドエンドを見た</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>元気系カノジョ</name>
+  <detail>姫と恋人になった</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>妹っぽい後輩スプリンター</name>
+  <detail>日向と恋人になった</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>寡黙で不思議な女の子</name>
+  <detail>星音と恋人になった</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>憧れの先輩</name>
+  <detail>和琴と恋人になった</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>姫ルートクリア</name>
+  <detail>成川姫ルートをクリアした</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>日向ルートクリア</name>
+  <detail>韮崎日向ルートをクリアした</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>星音ルートクリア</name>
+  <detail>吉野谷星音ルートをクリアした</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>和琴ルートクリア</name>
+  <detail>出水和琴ルートをクリアした</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="B" pid="000">
+  <name>もうずっと一人身の日々</name>
+  <detail>L×C2ノーマルバッドエンドを見た</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>HAPPY END??</name>
+  <detail>星音のバッドエンドを見た</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>脱・引きこもり</name>
+  <detail>優希との自由行動イベントで全ての行き先を訪れた</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="S" pid="000">
+  <name>すっかりアウトドア派</name>
+  <detail>優希との自由行動イベントを全て見た</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>水明市ビギナー</name>
+  <detail>星音との自由行動イベントで全ての行き先を訪れた</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="S" pid="000">
+  <name>水明市マスター</name>
+  <detail>星音との自由行動イベントを全て見た</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="S" pid="000">
+  <name>本当の恋人</name>
+  <detail>由仁と本当の恋人になった</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="S" pid="000">
+  <name>一人前のゲーマー</name>
+  <detail>綾とのゲーム勝負で引き分けた</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="S" pid="000">
+  <name>水着な女神様の誘い</name>
+  <detail>三朝に泳ぎに誘われた</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="S" pid="000">
+  <name>腹筋マスター</name>
+  <detail>瀬良との腹筋勝負で勝利した</detail>
+ </trophy>
+ <trophy id="035" hidden="yes" ttype="S" pid="000">
+  <name>勝者の権利</name>
+  <detail>何でも言うことを聞いてもらえる権利を使い、姫にキスをしてもらった</detail>
+ </trophy>
+ <trophy id="036" hidden="yes" ttype="S" pid="000">
+  <name>花を愛でる心</name>
+  <detail>杜若の球根を開花させた</detail>
+ </trophy>
+ <trophy id="037" hidden="yes" ttype="B" pid="000">
+  <name>貧乳が好きだ</name>
+  <detail>愛を叫んだ</detail>
+ </trophy>
+ <trophy id="038" hidden="yes" ttype="S" pid="000">
+  <name>貧乳が好きなんだ</name>
+  <detail>愛を貫いた</detail>
+ </trophy>
+ <trophy id="039" hidden="yes" ttype="S" pid="000">
+  <name>混浴好き</name>
+  <detail>あらゆる混浴を経験した</detail>
+ </trophy>
+</trophyconf>

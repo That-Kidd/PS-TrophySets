@@ -1,0 +1,60 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000000be712cc96308a496d5e5f72780d604cb0f225b3c03b1e107c5d82d6860ceb3b8bf1189c39be76ceb196b45a2952645936d1d27af56a9539d9e63734ee158e7e6df88d7dfa1ed95bf2ec5fea8b4d1d88eb84e28a68b3f48723fd939b8645ecf90c168968a2e81c85d88396d85dcac8ffee16f8f7491ac9c6d1ef1433069f350da1577d145001dd2533f14c1ec30f901be47be50e-->
+<trophyconf version="1.1" platform="ps3,psp2" policy="small">
+ <npcommid>NPWR04754_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>MsGerminator</title-name>
+ <title-detail>MsGerminator trophies</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Star Struck</name>
+  <detail>Collect all 3 Star Germs in 5 consecutive Campaign levels during one play session.  </detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Germ-A-Go-Round</name>
+  <detail>In a single shot, bounce a germ off of Deflectors and walls at least 12 times.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Cross Fire</name>
+  <detail>Activate both a Yellow and Orange Power Germ in a single shot.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Breaking The Ice</name>
+  <detail>Break the ice off of at least 10 germs in one level with 10 unique shots.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Into The Spike Again, Dear Germs</name>
+  <detail>In one level, have 10 germs you didn't shoot pop on Spikes.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Beam Me Up, Germy!</name>
+  <detail>Use a Warp Gate 5 times in a single Puzzle level.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Highly Contagious</name>
+  <detail>Get 20 or more Contagious Gummies on-screen at once in Arcade Mode.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>We Eat Contagions For Breakfast</name>
+  <detail>Have a Blue Power Germ consume at least 3 Contagious Gummies when activated.</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="-1">
+  <name>Blinky, Pinky, Inky, and Sue</name>
+  <detail>Absorb a Red, Pink, Yellow, and Orange germ with a Blue Power Germ.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>Ms. Cupid</name>
+  <detail>Activate a Pink Power Germ 12 times.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="-1">
+  <name>Campaign Queen</name>
+  <detail>Complete all 75 Levels of Campaign Mode, getting at least one star on each level.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="-1">
+  <name>Puzzle Queen</name>
+  <detail>Complete All 75 levels of Puzzle Mode, getting at least one star on each level.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="-1">
+  <name>Completionist</name>
+  <detail>Get all 450 stars in Campaign and Puzzle mode.</detail>
+ </trophy>
+</trophyconf>

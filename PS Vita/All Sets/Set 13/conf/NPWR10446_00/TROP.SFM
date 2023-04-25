@@ -1,0 +1,60 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000717afd53e013d4fa364270346f52c100fdcf4cd2891b014cbfe789c45fe3cf3133d8559a5f9a3c585ae4e3e63a39859950f301607dad69f86912d493ffe70deb94d527dc54c8d2a88f58d0d448c0fb46545f6520a481e39c8d10627d579fedd7c935648445c37bfb074f390a9e5eca820055394655a07ca65d77055ed572259fba7d12bcb455b753978205b2260a13c760eb0d53-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="small">
+ <npcommid>NPWR10446_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Corridor Z</title-name>
+ <title-detail>The trophy set of Corridor Z</title-detail>
+ <trophy id="000" hidden="yes" ttype="B" pid="-1">
+  <name>Fresh Meat</name>
+  <detail>Get bitten by zombies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Until Dawn</name>
+  <detail>Survive two days</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="-1">
+  <name>Fast Food</name>
+  <detail>Reach 1000 meters in a single run</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Braindead</name>
+  <detail>Kill 250 zombies</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Marathon</name>
+  <detail>Run 42195 meters</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Machine Gun</name>
+  <detail>Shot 5000 bullets</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Mass Creation</name>
+  <detail>Use 1000 objects</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="-1">
+  <name>Chief Executive Janitor</name>
+  <detail>Turn off the lights</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Overdosed</name>
+  <detail>Start with all perks equiped</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>Butler</name>
+  <detail>Open 100 doors</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="-1">
+  <name>Deadeye</name>
+  <detail>Get 1000 headshots</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="-1">
+  <name>Dear Diary</name>
+  <detail>Collect all pages of Jill's Diary</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="-1">
+  <name>Z-Man</name>
+  <detail>Collect all collectables</detail>
+ </trophy>
+</trophyconf>

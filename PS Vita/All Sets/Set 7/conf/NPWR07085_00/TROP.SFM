@@ -1,0 +1,208 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000ff7c0e72c69495080ce571d0d21e5101e7cc14344de3044c12f74d6ab6035801898d75afed767db46015b7a003e0969b27aac77a0701728d13ad428a069b197887ede0fafe8abd838793d4c6af4760bfa60ae9e682c74064aef284c3e2e7defad41b80def76f4738b9457693494178e87fe0ec3727e6da45890ef034a8d60545ba55b5ae32b237cb130d463d7401c1ebc26b4890-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR07085_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>IA/VT COLORFUL</title-name>
+ <title-detail>IA/VT COLORFUL</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>プラチナトロフィー</name>
+  <detail>全てのトロフィーを獲得する</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>WELCOME♪</name>
+  <detail>チュートリアルを達成</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>EASYオールプレイ</name>
+  <detail>EASYの楽曲をすべてプレイ</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>NORMALオールプレイ</name>
+  <detail>NORMALの楽曲をすべてプレイ</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>HARDオールプレイ</name>
+  <detail>HARDの楽曲をすべてプレイ</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>IAオールプレイ</name>
+  <detail>全難易度、全楽曲をすべてプレイした</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>初めてのパーフェクト</name>
+  <detail>曲や難易度を問わず、パーフェクトを達成</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>初めてのSランク</name>
+  <detail>曲や難易度を問わず、ランクS以上を取得</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>チェインビギナー</name>
+  <detail>曲や難易度を問わず、100以上チェインをつなげてプレイ</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>チェインプレイヤー</name>
+  <detail>曲や難易度を問わず、200以上チェインをつなげてプレイ</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>チェインマスター</name>
+  <detail>曲や難易度を問わず、300以上チェインをつなげてプレイ</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>最高難易度の始まり</name>
+  <detail>レベル10のリズムゲームを初めてプレイ</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>Sランクプレイヤー</name>
+  <detail>リズムゲームをプレイしてSランク以上を20個（チャート）達成した</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>Sランクアタッカー</name>
+  <detail>リズムゲームをプレイしてSランク以上を50個（チャート）達成した</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>Sランクマスター</name>
+  <detail>リズムゲームをプレイしてSランク以上を100個（チャート）達成した</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>クールマスター</name>
+  <detail>曲や難易度を問わず、クールを300回以上記録してプレイ</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>何度も何度も</name>
+  <detail>同じ曲でリトライを連続で5回行った</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>初ステップアップ</name>
+  <detail>ステップアッププレイのステップを1つクリアした</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>初マイリスト</name>
+  <detail>マイリストプレイで初めてリズムゲームをプレイした</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="000">
+  <name>オールSリスト</name>
+  <detail>マイリストプレイで1つのリストをオールS以上でプレイした</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>初デイリー</name>
+  <detail>デイリープレイで初めてリズムゲームをプレイした</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>デイリープレイヤー</name>
+  <detail>デイリープレイで4回リズムゲームをプレイした</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>ウィークリープレイ</name>
+  <detail>デイリープレイで7日間連続でリズムゲームをプレイした</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>初コーディネート</name>
+  <detail>初めて衣装を変更してプレイ</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>初リズムスキン</name>
+  <detail>初めてリズムスキンを変更して1曲通しでプレイした</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>初UIスキン</name>
+  <detail>初めてUIスキンを変更して1曲通しでプレイ</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>コーディネートビギナー</name>
+  <detail>5種以上の衣装でリズムゲームをプレイした</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>コーディネートプロ</name>
+  <detail>10種以上の衣装でリズムゲームをプレイした</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>コーディネートスペシャリスト</name>
+  <detail>20種以上の衣装でリズムゲームをプレイした</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="G" pid="000">
+  <name>コーディネートマスター</name>
+  <detail>すべての衣装でリズムゲームをプレイした</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="S" pid="000">
+  <name>コスチュームコンプリート</name>
+  <detail>すべての衣装が解放された</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>リズムスキンコンプリート</name>
+  <detail>すべてのリズムスキンが解放された</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>UIスキンコンプリート</name>
+  <detail>すべてのUIスキンが解放された</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>リズムスキンマスター</name>
+  <detail>すべてのリズムスキンでリズムゲームを1曲通しでプレイした</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>UIスキンマスター</name>
+  <detail>すべてのUIスキンでリズムゲームを1曲通しでプレイした</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>ボタン音マスター</name>
+  <detail>すべてのボタン音でリズムゲームをプレイした</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>カスタムファン</name>
+  <detail>リアルタイムステージの曲でスキンと衣装をすべて変更してのプレイを計5回行った</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="S" pid="000">
+  <name>パーフェクトアタッカー</name>
+  <detail>リズムゲームをプレイしてパーフェクトを40個（チャート）達成した</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="S" pid="000">
+  <name>パーフェクトマスター</name>
+  <detail>リズムゲームをプレイしてパーフェクトを100個（チャート）達成した</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="S" pid="000">
+  <name>オールパーフェクトリスト</name>
+  <detail>マイリストプレイで1つのリストをすべてパーフェクトでプレイした</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="B" pid="000">
+  <name>レベル10達成</name>
+  <detail>レベルが10以上に到達した</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="B" pid="000">
+  <name>レベル30達成</name>
+  <detail>レベルが30以上に到達した</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="S" pid="000">
+  <name>レベル50達成</name>
+  <detail>レベルが50以上に到達した</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="B" pid="000">
+  <name>スタートプレイヤー</name>
+  <detail>モード問わず、リズムゲームを5回プレイした</detail>
+ </trophy>
+ <trophy id="044" hidden="no" ttype="B" pid="000">
+  <name>ビギナープレイヤー</name>
+  <detail>モード問わず、リズムゲームを10回プレイした</detail>
+ </trophy>
+ <trophy id="045" hidden="no" ttype="B" pid="000">
+  <name>ノーマルプレイヤー</name>
+  <detail>モード問わず、リズムゲームを50回プレイした</detail>
+ </trophy>
+ <trophy id="046" hidden="no" ttype="S" pid="000">
+  <name>ベテランプレイヤー</name>
+  <detail>モード問わず、リズムゲームを100回プレイした</detail>
+ </trophy>
+ <trophy id="047" hidden="no" ttype="B" pid="000">
+  <name>気になる曲</name>
+  <detail>特定の曲を5回以上プレイ</detail>
+ </trophy>
+ <trophy id="048" hidden="no" ttype="B" pid="000">
+  <name>ヘビーローテーション</name>
+  <detail>特定の曲を10回以上プレイ</detail>
+ </trophy>
+ <trophy id="049" hidden="no" ttype="B" pid="000">
+  <name>マイフェイバリット</name>
+  <detail>特定の曲を20回以上プレイ</detail>
+ </trophy>
+</trophyconf>

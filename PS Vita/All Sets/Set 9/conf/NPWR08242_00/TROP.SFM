@@ -1,0 +1,144 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000df090e88f4075f49f056d7cecf67791d2e55f98d5fbad8bf00ab8d0255fd79795dd3d88cafffeec5303b8f6f45226b235ad742aa1e592da5c327d87220dd2f091cc221509378be0588138d62501e6deb925e2cc5879a17b0723b135f5911b918902de410ab8eaf64762e117181c0cfcd8c0d666798ea995e6cab1806ace8056c774b212aa125064c02e0572d6da696dd50e44257-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR08242_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>学園ヘヴン BOY'S LOVE SCRAMBLE! </title-name>
+ <title-detail>学園ヘヴン BOY'S LOVE SCRAMBLE!のトロフィーです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>コンプリート</name>
+  <detail>全てのトロフィーを獲得</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="S" pid="000">
+  <name>逃げるぞっ！</name>
+  <detail>丹羽ベストエンドを見た</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>お前もかっ！？</name>
+  <detail>丹羽グッドエンドを見た</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="S" pid="000">
+  <name>…黙れっ</name>
+  <detail>西園寺ベストエンドAを見た</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="S" pid="000">
+  <name>笑っていろ</name>
+  <detail>西園寺ベストエンドBを見た</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>有意義だろう</name>
+  <detail>西園寺グッドエンドを見た</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="000">
+  <name>嬉しいだろ</name>
+  <detail>中嶋ベストエンドを見た</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>仕込んでやる</name>
+  <detail>中嶋グッドエンドを見た</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>お試し期間</name>
+  <detail>七条ベストエンドを見た</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="000">
+  <name>親鳥廃業？</name>
+  <detail>七条グッドエンドを見た</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>僕の運命</name>
+  <detail>七条×西園寺エンドを見た</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>約束。</name>
+  <detail>遠藤ベストエンドを見た</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="B" pid="000">
+  <name>友達だろっ。</name>
+  <detail>遠藤グッドエンドAを見た</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="000">
+  <name>馬鹿野郎。</name>
+  <detail>遠藤グッドエンドBを見た</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>僕だけのハニー</name>
+  <detail>成瀬ベストエンドを見た</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>いじわるなハニー</name>
+  <detail>成瀬グッドエンドを見た</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="S" pid="000">
+  <name>…やっぱり嬉しい</name>
+  <detail>篠宮ベストエンドを見た</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>離れても…</name>
+  <detail>篠宮グッドエンドを見た</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="S" pid="000">
+  <name>離れへんでっ！</name>
+  <detail>滝ベストエンドを見た</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>コンビ結成や！</name>
+  <detail>滝グッドエンドを見た</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="S" pid="000">
+  <name>未来</name>
+  <detail>岩井ベストエンドを見た</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>別離</name>
+  <detail>岩井グッドエンドを見た</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="B" pid="000">
+  <name>失踪</name>
+  <detail>岩井バッドエンドを見た</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="S" pid="000">
+  <name>いけない関係？</name>
+  <detail>海野ベストエンドを見た</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="000">
+  <name>トノサマと一緒</name>
+  <detail>海野グッドエンドを見た</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="B" pid="000">
+  <name>大事なクラスメイト</name>
+  <detail>小澤兄弟と和解した</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>松岡先生の事情</name>
+  <detail>松岡先生の事情を知った</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="S" pid="000">
+  <name>可愛いモデル</name>
+  <detail>啓太がウェディングドレスを着た</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="S" pid="000">
+  <name>ＨＥＡＶＥＮ！！</name>
+  <detail>HEAVENシナリオをクリア</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="S" pid="000">
+  <name>新しい伝説</name>
+  <detail>おまけシナリオをクリア</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="G" pid="000">
+  <name>チューチューマスター</name>
+  <detail>ミニゲーム「チューチューゲッチュー」を自力でクリア</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="G" pid="000">
+  <name>クイズマスター</name>
+  <detail>ミニゲーム「ミニット・ショック」を自力でクリア</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="G" pid="000">
+  <name>CGコンプリート</name>
+  <detail>GALLERYが100％になった</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="G" pid="000">
+  <name>SCENEコンプリート</name>
+  <detail>SCENEが100％になった</detail>
+ </trophy>
+</trophyconf>

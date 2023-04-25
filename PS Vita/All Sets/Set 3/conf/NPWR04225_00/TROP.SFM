@@ -1,0 +1,56 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000fbe256a5244e36667ae0712d545278c5be190c2d07fb766871de5ca12e90e422f675f547f8026eb5c3f195eb896f9253cf5fa008baf7b23369ca3765dbc543fcf524a44d8e1edeeed549055fe14181b926119c2dc1f0e481a91db505436d3cc30374195900201e933a06806e95307bab25e194b6de91240290c3a2edb6b8db693d3cea1ee0d2f466b5c3ca8c4a201717d8fbf86d-->
+<trophyconf version="1.1" platform="ps3,psp2" policy="small">
+ <npcommid>NPWR04225_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Dragon Fantasy Book I</title-name>
+ <title-detail>Pure 8-bit RPG Love!</title-detail>
+ <trophy id="000" hidden="no" ttype="G" pid="-1">
+  <name>The Fantastical Dragon!</name>
+  <detail>Complete the main storyline in chapters 1, 2, and 3.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="-1">
+  <name>Ogden's Story</name>
+  <detail>Complete Chapter 1: Dragon Fantasy</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="-1">
+  <name>Anders' Story</name>
+  <detail>Complete Chapter 2: The Heir Unapparent</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="-1">
+  <name>Jerald's Story</name>
+  <detail>Complete Chapter 3: Operation Desert Plunder</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>High-tech Weaponry</name>
+  <detail>Receive the Woodsman's Finest Pokin' Stick</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Well Educated</name>
+  <detail>Read 30 Different Books in Ogden's Story.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>With a Little Help...</name>
+  <detail>As Anders, Recruit Punchy, Casty, and Serps at the Same Time</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Man of Shadows</name>
+  <detail>See How the Cave Troll Acquires the Rusty Helmet&#x0a;</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Fund Raising</name>
+  <detail>Have Jerald Pick-pocket 25 People&#x0a;</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>Treasure Hunter</name>
+  <detail>Find the Bandit Treasure Room in the Bandit Cave</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="-1">
+  <name>Intermission M</name>
+  <detail>Complete Intermission M: A Minecraft Story</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="-1">
+  <name>Gotta Catch a Few</name>
+  <detail>Have Woodsy Capture 4 Unique Monster Types</detail>
+ </trophy>
+</trophyconf>

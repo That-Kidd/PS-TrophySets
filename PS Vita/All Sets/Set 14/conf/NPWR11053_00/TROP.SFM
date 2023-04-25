@@ -1,0 +1,56 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000006f15cd34ffba612d50f89fa8c10daa2b17bca335ad9e76faaf2b36106acda0f4ed8f1d34ad8c8ca0da80182d7977408e105fb602ddd61f1a386a86e7d6fdfc0c2198b72d67a2a3a9fa6cf85be536061248d5bb56b52df7931775216f27f24989b4f7d30cbb532d2a4c8f956f273bd893a82e27f1db233d47772b06160e480dbbce57e97a7255c9817b56479eb369e03039daf184-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="small">
+ <npcommid>NPWR11053_00</npcommid>
+ <trophyset-version>01.02</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Hue</title-name>
+ <title-detail>Hue</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>A Yellow Streak</name>
+  <detail>Unlock yellow colour</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Back to the Fuchsia</name>
+  <detail>Unlock pink colour</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Like Clockwork</name>
+  <detail>Unlock orange colour</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Shrinking Violet</name>
+  <detail>Unlock purple colour</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Into the Limelight</name>
+  <detail>Unlock lime colour</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>In a Blue Moon</name>
+  <detail>Unlock blue colour</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Caught Red Handed</name>
+  <detail>Unlock red colour</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Aquacadabra</name>
+  <detail>Unlock aqua colour</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Showing True Colours</name>
+  <detail>Change colour for the first time</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="-1">
+  <name>With Flying Colours</name>
+  <detail>Complete the game</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="-1">
+  <name>Cyantific Apparatus</name>
+  <detail>Collect all the mysterious fun secret beakers</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="-1">
+  <name>Pigment of Your Imagination</name>
+  <detail>Make 5000 obstacles disappear</detail>
+ </trophy>
+</trophyconf>

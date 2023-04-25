@@ -1,0 +1,48 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000daa2fa2be1da8c33135cd2d04f60e3fee21dc776377a026014969639bd864be3a5611bbf83ba3ff4c87fb68df12eaf3388db7459b537d96c11f18526e6868ca7bea91313f96ee24a48af0e578cfbd3a3b1d45ff6ab02d6eebf584704aa2a617f24c5a959d184c00210e8fc7ca363f6efd6a5cbe5691a0194ed9c74c00e0df57d643fe3e01880595f94b855b7679c2c072f1661a9-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="small">
+ <npcommid>NPWR14054_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Gunhouse</title-name>
+ <title-detail>The Trophy set for Gunhouse!!</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>toothsome</name>
+  <detail>complete 3 objectives</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>half-step</name>
+  <detail>finish day 5</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>misdeeds</name>
+  <detail>complete 10 objectives</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>rambunctious</name>
+  <detail>complete 20 objectvies</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="-1">
+  <name>savior</name>
+  <detail>finish day 10</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="-1">
+  <name>blue skies</name>
+  <detail>complete 50 objectives</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="-1">
+  <name>Another Peter</name>
+  <detail>finish day 20</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="-1">
+  <name>like moths to flame</name>
+  <detail>complete 75 objectives</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="-1">
+  <name>Molytrols</name>
+  <detail>finish day 30</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="-1">
+  <name>too many guns</name>
+  <detail>finish day 100</detail>
+ </trophy>
+</trophyconf>

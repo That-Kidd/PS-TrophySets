@@ -1,0 +1,204 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000007b02916fe3f86a3f4038002f76fb78711604908a0b4c767405abf59d03b70d0ae08c3325f203c4edda08670704d6343f2c92a1312f62a99f23cc6624dd99ffa97bfb34e7cb620d09ab609ac10f5044748fe914db1a3c8983e329eb15277958d821b0d63ee5f55674e6ec3c2030405a36f0f8ada6f05b2bf7309c2140bedced1fd2c514560ac13578ace73fd8fbf5192ad3716ead-->
+<trophyconf version="1.1" platform="psp2">
+ <npcommid>NPWR02663_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>DYNASTY WARRIORS NEXT</title-name>
+ <title-detail>DYNASTY WARRIORS NEXT</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>True Warrior of the Three Kingdoms</name>
+  <detail>Obtained all trophies.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>New Recruit</name>
+  <detail>Created a save data file.</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="S" pid="000">
+  <name>Great Emperor</name>
+  <detail>Cleared all of the stages in the game.</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>Yellow Turban Rebellion</name>
+  <detail>Cleared the stage, "Yellow Turban Rebellion."</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>Anti-Dong Zhuo Coalition</name>
+  <detail>Cleared the stage, "Anti-Dong Zhuo Coalition."</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>Conqueror of Jiangdong</name>
+  <detail>Cleared the stage, "Conqueror of Jiangdong."</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>The Struggle for Power</name>
+  <detail>Cleared the stage, "The Struggle for Power."</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>The Three Visits</name>
+  <detail>Cleared the stage, "The Three Visits."</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>Battle of Chibi</name>
+  <detail>Cleared the stage, "Battle of Chibi."</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="000">
+  <name>The Kingdom in Three</name>
+  <detail>Cleared the stage, "The Kingdom in Three."</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="000">
+  <name>Quiet Ambition</name>
+  <detail>Cleared the stage, "Quiet Ambition."</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>The Tiger's Advance</name>
+  <detail>Cleared the stage, "The Tiger's Advance."</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="B" pid="000">
+  <name>A Man of Virtue</name>
+  <detail>Cleared the stage, "A Man of Virtue."</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="000">
+  <name>A Land United</name>
+  <detail>Cleared the stage, "A Land United."</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="B" pid="000">
+  <name>An Endless Quest</name>
+  <detail>Cleared the stage, "An Endless Quest."</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>The Journey Begins</name>
+  <detail>Completed a two forces map in Conquest Mode.</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>The Plot Thickens</name>
+  <detail>Completed a three forces map in Conquest Mode.</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>The Goal is Within Sight</name>
+  <detail>Completed a four forces map in Conquest Mode.</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>End of the Road</name>
+  <detail>Completed a five forces map in Conquest Mode.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>The Path of Ambition</name>
+  <detail>Cleared the Conquest Mode a total of 5 times.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>Ambition Personified</name>
+  <detail>Cleared the Conquest Mode a total of 50 times.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>Say Cheese</name>
+  <detail>Took a picture using the Musou Snapshot feature of the Gala Mode.</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="B" pid="000">
+  <name>Jack of All Trades</name>
+  <detail>Completed Steeplechase, Bastion, Marksman and Calligrapher within the Gala Mode.</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>Coalition Leader</name>
+  <detail>Completed all of the battles within the Coalition Mode.</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="G" pid="000">
+  <name>Card Collector</name>
+  <detail>Obtained all of the available Officer Cards.</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="S" pid="000">
+  <name>Weapons Collector</name>
+  <detail>Obtained all of the available weapons.</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>Equipment Collector</name>
+  <detail>Obtained all of the available growth items.</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>Armor Collector</name>
+  <detail>Obtained all of the available armor.</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>Orb Collector</name>
+  <detail>Obtained all of the available orbs.</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>Movie Collector</name>
+  <detail>Viewed all of the movies in the game.</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="S" pid="000">
+  <name>The Great Creator</name>
+  <detail>Obtained all of the available Edit Character parts.</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>Character Collector</name>
+  <detail>Created 10 Edit Characters.</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>Master of the Kingdom</name>
+  <detail>Earned 100,000 Exp.</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>Master of the Realm</name>
+  <detail>Earned 500,000 Exp.</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="S" pid="000">
+  <name>Master of the Land</name>
+  <detail>Earned 1,000,000 Exp.</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="G" pid="000">
+  <name>Family Ties</name>
+  <detail>Formed a sworn oath with all of the officers.</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="G" pid="000">
+  <name>Master Matchmaker</name>
+  <detail>Formed a marriage pact with all of the officers.</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>Friends to the End</name>
+  <detail>Formed a sworn oath with another officer.</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>An Everlasting Love</name>
+  <detail>Formed a marriage pact with another officer.</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="000">
+  <name>Benevolent Ruler</name>
+  <detail>Achieved the best possible Governance Rating.</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="B" pid="000">
+  <name>Malevolent Ruler</name>
+  <detail>Achieved the worst possible Governance Rating.</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="S" pid="000">
+  <name>The God of War</name>
+  <detail>Defeated more than 100,000 enemies.</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="B" pid="000">
+  <name>Army of One</name>
+  <detail>Defeated 1,000 enemies in one battle.</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="B" pid="000">
+  <name>Unrivaled Warrior</name>
+  <detail>Defeated 3,000 enemies in one battle.</detail>
+ </trophy>
+ <trophy id="044" hidden="no" ttype="B" pid="000">
+  <name>Untouchable</name>
+  <detail>Completed a battle in either Campaign Mode or Conquest Mode without taking any damage.</detail>
+ </trophy>
+ <trophy id="045" hidden="no" ttype="B" pid="000">
+  <name>Combo Master</name>
+  <detail>Completed a 500 hit combo.</detail>
+ </trophy>
+ <trophy id="046" hidden="no" ttype="B" pid="000">
+  <name>You Can Pursue Lu Bu</name>
+  <detail>Defeated Lu Bu in the Campaign Mode.</detail>
+ </trophy>
+ <trophy id="047" hidden="no" ttype="B" pid="000">
+  <name>Seasoned Veteran</name>
+  <detail>Successfully completed all of the Sudden Encounters.</detail>
+ </trophy>
+ <trophy id="048" hidden="no" ttype="S" pid="000">
+  <name>Eyes in the Back of Your Head</name>
+  <detail>Successfully completed all of the Sudden Encounters with the best possible rating.</detail>
+ </trophy>
+</trophyconf>

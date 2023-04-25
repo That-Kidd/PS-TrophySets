@@ -1,0 +1,132 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000f60193e4f1cfec3ff03d9451812a08eb583e592315b289251910fb6ede0988a1a26e3d39064a713dc3f9661c3679218832934a9fbf5575b7e1c775849f66bce9eae360e90e886664ea07131e61cfce8bb69ffb84c049bdf06fc6733f1b61c38881cb23dab5d21b4330cc278e7172c144421ec12e4caa845be9798dc378217e455d0b53d400b21327a47117a6beaf77d759823637-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR12260_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>MARGINAL#4 ROAD TO GALAXY</title-name>
+ <title-detail>MARGINAL#4 ROAD TO GALAXYのトロフィーリストです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>喜んで！！</name>
+  <detail>全てのトロフィーを獲得した。銀河の果てまでキス一丁！！</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>みんなと一緒に頑張ろう！</name>
+  <detail>プロローグをクリアした。</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>ピタ★フェスへの第一歩！</name>
+  <detail>リズムゲームを初クリアした。</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>ピタフェス成功！</name>
+  <detail>ノーマルEDをクリアした。</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>銀河の果てまで</name>
+  <detail>マジフォーEDをクリアした。</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>荒れ狂うシューティングスター</name>
+  <detail>アトムEDをクリアした。</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>静かに輝く一等星</name>
+  <detail>ルイEDをクリアした。</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>優美でクレイジーなジェミニ</name>
+  <detail>エルEDをクリアした。</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>アーティスティックなジェミニ</name>
+  <detail>アールEDをクリアした。</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="000">
+  <name>太陽から月まで</name>
+  <detail>ラグポEDをクリアした。</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="000">
+  <name>夜空に光り輝く月の王子</name>
+  <detail>シャイEDをクリアした。</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>星に光を与える太陽の王子</name>
+  <detail>キラEDをクリアした。</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="B" pid="000">
+  <name>若き一角獣</name>
+  <detail>ユニコEDをクリアした。</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="000">
+  <name>悪魔すら見惚れる一角獣</name>
+  <detail>ツバサEDをクリアした。</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="B" pid="000">
+  <name>神出鬼没、謎の一角獣</name>
+  <detail>アルトEDをクリアした。</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>心麗しき純白の一角獣</name>
+  <detail>テルマEDをクリアした。</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>マジフォコンプリート！</name>
+  <detail>マジフォーの画像を全て解放した。</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>ラグポコンプリート！</name>
+  <detail>ラグポの画像を全て解放した。</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>ユニココンプリート！</name>
+  <detail>ユニコの画像を全て解放した。</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="000">
+  <name>ボーナスコンプリート！</name>
+  <detail>ボーナスシナリオを全て解放した。</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>リザルトコンプリート！</name>
+  <detail>リザルトシナリオを全て解放した。</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>メインシナリオコンプリート！</name>
+  <detail>全てのグループのメインシナリオを見た。</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="S" pid="000">
+  <name>STAR CLUSTER</name>
+  <detail>マジフォーの楽曲を全て解放した。</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="S" pid="000">
+  <name>LAGJULIET</name>
+  <detail>ラグポの楽曲を全て解放した。</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="S" pid="000">
+  <name>UNIMATE</name>
+  <detail>ユニコの楽曲を全て解放した。</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="G" pid="000">
+  <name>ピタゴラス★オールスター</name>
+  <detail>楽曲を全て解放した。</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="G" pid="000">
+  <name>ROAD TO GALAXY</name>
+  <detail>GALAXYを全曲プレイした。</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="G" pid="000">
+  <name>SUPER MULTI MANAGER</name>
+  <detail>すべてのシナリオを見た。</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="G" pid="000">
+  <name>PERFECT MANAGER</name>
+  <detail>すべてのEDを見た。</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="G" pid="000">
+  <name>CG COMPLETE！</name>
+  <detail>すべてのCGを見た。</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="G" pid="000">
+  <name>FULL COMPLETE！！</name>
+  <detail>フルコンプ画像を取得した。</detail>
+ </trophy>
+</trophyconf>

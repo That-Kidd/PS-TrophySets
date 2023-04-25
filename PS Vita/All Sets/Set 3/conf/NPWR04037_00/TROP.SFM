@@ -1,0 +1,164 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000173892b07413579a2b64eb076c5131a38640131b4da53c3e252f6df4187fe079a1716accb48683c49baf19011007a2505280f67dd1e33a8f3d9f6e2bb3854c9e8af85c6fe3c09990ce550a05a0bdd84c4c76aa6f983bb0531f597dba7bbe8bf9ab5980c25d7b1cc93bf8b8350be5bc6367fd3425a673a0511fd067f2b350d47afe86fcd3a982d934e13f71f3a8f50e0304c35be2-->
+<trophyconf version="1.1" platform="psp2">
+ <npcommid>NPWR04037_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>実況パワフルプロ野球２０１２決定版</title-name>
+ <title-detail>パワプロ２０１２決定版のトロフィーセットです</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>ミスターパワプロ</name>
+  <detail>全てのトロフィーを獲得した</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>ペナントの達人</name>
+  <detail>ペナントモードで１０年連続日本一</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>黄金時代</name>
+  <detail>ペナントモードで５年連続リーグ優勝した</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>ペナントマスター</name>
+  <detail>ペナントモードで２０年プレイした</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>連勝街道！</name>
+  <detail>ペナントモードで１０連勝した</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>リーグ優勝！</name>
+  <detail>ペナントモードでリーグ優勝した</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>祝！日本一</name>
+  <detail>ペナントモードで日本一に輝いた</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>絶対的エース</name>
+  <detail>ペナントモードで２０勝以上の投手を出した</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>最多安打記録更新</name>
+  <detail>ペナントモードで２１５安打以上の選手を出した</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>本塁打記録更新</name>
+  <detail>ペナントモードで５６本塁打以上の選手を出した</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>投手王国</name>
+  <detail>ペナントモードで１０勝以上の投手を５人以上出した</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>最強打線</name>
+  <detail>ペナントモードで３０本塁打以上を５人以上出した</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>スター軍団</name>
+  <detail>ペナントモードでオールスター戦に５人以上選ばれた</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>メダルコレクター</name>
+  <detail>ペナントモードでメダルを５０％以上獲得した</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>通信対戦３０試合記念</name>
+  <detail>通信対戦モードのフレンド＆だれかと対戦で３０試合した</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>通信対戦１０試合記念</name>
+  <detail>通信対戦モードのフレンド＆だれかと対戦で１０試合した</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>祝！通信対戦初勝利</name>
+  <detail>通信対戦モードのだれかと対戦で１勝した</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="G" pid="000">
+  <name>完全燃焼</name>
+  <detail>マイライフモードで２０年プレイし、引退した</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>三冠王</name>
+  <detail>マイライフモードで三冠王になった</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="000">
+  <name>投手四冠</name>
+  <detail>マイライフモードで投手の四冠獲得を達成した</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>あこがれのオールスター</name>
+  <detail>マイライフモードでオールスター戦に出場した</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>コーチ就任</name>
+  <detail>マイライフモードでコーチ兼任の打診を受けた</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>夢の大豪邸</name>
+  <detail>マイライフモードで豪邸を購入した</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>ハッピー・ウェディング！</name>
+  <detail>マイライフモードで結婚した</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>１億円プレイヤー</name>
+  <detail>マイライフモードで年俸１億円達成した</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>晴れてレギュラー</name>
+  <detail>マイライフモードでレギュラーの座をつかんだ</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>タッグ結成！</name>
+  <detail>マイライフモードでタッグが発動した</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="G" pid="000">
+  <name>育成マスター</name>
+  <detail>サクセスモードで２００人育成した</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="G" pid="000">
+  <name>オールＡ野手</name>
+  <detail>サクセスモードで能力オールＡの野手を作成した</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="G" pid="000">
+  <name>スーパーエース</name>
+  <detail>サクセスモードでスーパーエース級の投手を作成した</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>パワフル大学　育成マシン</name>
+  <detail>サクセスモードのパワフル大学で選手を１０人以上作成した</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>満通万教育大学　育成マシン</name>
+  <detail>サクセスモードの満通万教育大学で選手を１０人作成した</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>西強大学　育成マシン</name>
+  <detail>サクセスモードの西強大学で選手を１０人作成した</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>めちゃモテ球児</name>
+  <detail>サクセスモードの大学野球編でアノ方をのぞいて全ての彼女候補の女の子と愛を成就させた</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>Ｓランカー現る</name>
+  <detail>サクセスモードでＳランクの基本能力を持つ選手を作成した</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>サクサクセス　全ステージ制覇</name>
+  <detail>サクセスモードのサクサクセスを全ステージクリアした</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>サクサクセス　育成キング</name>
+  <detail>サクセスモードのサクサクセスで選手を３０人作成した</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="S" pid="000">
+  <name>パワファーム開拓者</name>
+  <detail>サクセスモードのパワファームで全ランクのチームに勝利した</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="S" pid="000">
+  <name>ワイワイパワファーム</name>
+  <detail>サクセスモードでパワファーム住人４０人を達成した</detail>
+ </trophy>
+</trophyconf>

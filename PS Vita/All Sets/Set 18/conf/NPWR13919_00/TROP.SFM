@@ -1,0 +1,92 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000bfcf7f5146c9c429f1107c03ee1ffdd1eb88782d24dec456b13c2aa8fbf7a6f009a30ec72cd3175e59a315cd5bd70d261288d3f05f73cbb3f15d177e88c672be30fb5c0af68d60e961377c088ffc766cad6e725edd3bccc1cf6c2052c3f990bc33a8b49f7eccf787e2ba3f377cb84375e5587b8308a6faaab0ba0d8fec175dbda73f871400e103da961541418c3223cf4a3c14dc-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR13919_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Chasm</title-name>
+ <title-detail>Main Chasm trophy set.</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Lightbringer</name>
+  <detail>You have fulfilled the prophecy of the Watchers.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Warrior</name>
+  <detail>Defeat 100 enemies.</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>Wendigo</name>
+  <detail>Defeat the Wendigo.</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>Bone Worm</name>
+  <detail>Defeat the Bone Worm.</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>Titan</name>
+  <detail>Defeat the Titan.</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>King Trell</name>
+  <detail>Defeat King Trell.</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>Shaman</name>
+  <detail>Defeat the Shaman.</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>Ulak</name>
+  <detail>Defeat Ulak.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>Monster Slayer</name>
+  <detail>Defeat 1,000 enemies.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>Big Spender</name>
+  <detail>Spend 5,000 gold.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>Bookworm</name>
+  <detail>Find all the Journal Entries in the game.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>Superhero</name>
+  <detail>Find all the Powerups in the game.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>Crate Buster</name>
+  <detail>Break all the crates in the game.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="000">
+  <name>Guildean Knight</name>
+  <detail>Complete the game on Hard difficulty.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="000">
+  <name>Mere Mortal</name>
+  <detail>Complete the game as a Mortal.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="G" pid="000">
+  <name>Gladiator</name>
+  <detail>Become the Arena champion.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="G" pid="000">
+  <name>Socialite</name>
+  <detail>Rescue all the missing villagers.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="G" pid="000">
+  <name>Good Samaritan</name>
+  <detail>Complete all villager sidequests.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="G" pid="000">
+  <name>Explorer</name>
+  <detail>Explore 100% of the map.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="G" pid="000">
+  <name>Zoologist</name>
+  <detail>Unlock all the Bestiary entries.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="G" pid="000">
+  <name>Prizefighter</name>
+  <detail>Defeat a boss without getting hit.</detail>
+ </trophy>
+</trophyconf>

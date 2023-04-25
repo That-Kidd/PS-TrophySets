@@ -1,0 +1,56 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000007b8943fac07708c74a535f555b1df606b12a7c46af39f7f8087d47606c7f26da1c46c1fd38ab3c4c429d58fd3663487faf7502d48d1917235baaed84c05ab6969b81b399738830d247ffc8c7868bf60491dfb20581ee333333c56f58d0bb57c96c3c37b2a75123272f082fe6f807002860e60252a80499a56c892ab27662aa73ca2b7aaca8996ba4a30973ae7db99655fbbdd9d0-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR06912_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Panda Run</title-name>
+ <title-detail>Panda Run</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Out of the way!</name>
+  <detail>Hit 50 snowmen</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Yummy!</name>
+  <detail>Pick up 50 food bonuses</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Stuntman</name>
+  <detail>Perform 100 tricks</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Shiny Things</name>
+  <detail>Gather 1000 coins</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Star Fever</name>
+  <detail>Collect 1000 stars</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>High Roller</name>
+  <detail>Jump high 100 times</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Astronomer</name>
+  <detail>Collect 100 stars while flying the rocket</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="-1">
+  <name>Missile Strike</name>
+  <detail>Hit 20 snowmen while flying the rocket</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="-1">
+  <name>Quick Money</name>
+  <detail>Collect 300 coins while flying the rocket</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="-1">
+  <name>Ice Statue</name>
+  <detail>Freeze on level 8</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="-1">
+  <name>Board Journey</name>
+  <detail>Get to level 8</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="-1">
+  <name>Popular Panda</name>
+  <detail>Get 1400000 points</detail>
+ </trophy>
+</trophyconf>

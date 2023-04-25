@@ -1,0 +1,88 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000570b5e8b2f654225185ca0b69387274b5b6841c749d9e6679ae18ed2ff290036135feb216922c25196ce37f69ef28e53331c0c8b915529755baa1e0c6d78efbad64cc10c8511a4d74ac43f8505773dadc0aba6b17523782b60991ab843dcf4c58de550c7568d9c378bfaa67b3c9c3a5b36cfa2d7632f16aaafe472f80e243d4c8c2399a8a9e05c86253bfdd0c1eb2e19f47c3283-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR09340_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Farming Simulator 16</title-name>
+ <title-detail>Farming Simulator 16 Trophies</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>SEEN IT ALL</name>
+  <detail>You unlocked all the trophies.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>NOUVEAU RICHE</name>
+  <detail>Your account has reached more than 1 million.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>WELL HEELED</name>
+  <detail>There is more than 5 million in your account.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>POTS OF GOLD</name>
+  <detail>Your wealth has exceeded 10 million.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>TRUCKER</name>
+  <detail>You have covered more than 5 km with vehicles.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>MOBILE FARMER</name>
+  <detail>You have covered more than 50 km with vehicles.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>VERY FREQUENT DRIVER</name>
+  <detail>You have covered more than 200 km with vehicles.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>PEASANT</name>
+  <detail>You have harvested more than 1 hectare.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>FRUITS OF YOUR LABOR</name>
+  <detail>You have harvested more than 10 hectares.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>HARVEST KING</name>
+  <detail>You have harvested more than 100 hectares.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>GREEN THUMB</name>
+  <detail>You have sown more than 1 hectare.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>SOWER</name>
+  <detail>You have sown more than 10 hectares.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>MASS PRODUCTION</name>
+  <detail>You have sown more than 100 hectares.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>LUMBERJACK</name>
+  <detail>You have cut down more than 10 trees.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>WOODSMAN</name>
+  <detail>You have cut down more than 50 trees.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="G" pid="000">
+  <name>MASTER OF THE FOREST</name>
+  <detail>You have cut down more than 200 trees.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="G" pid="000">
+  <name>GREEN POWER</name>
+  <detail>You have completely filled one plant silo.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="G" pid="000">
+  <name>BIO TRANSMUTATION</name>
+  <detail>You have completely filled all plant silos at the same time.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="G" pid="000">
+  <name>MILKMAN</name>
+  <detail>You have sold more than 30000 litres of milk.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="G" pid="000">
+  <name>WEAVER</name>
+  <detail>You have sold more than 24000 kg of wool.</detail>
+ </trophy>
+</trophyconf>

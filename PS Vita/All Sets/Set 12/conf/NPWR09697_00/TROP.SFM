@@ -1,0 +1,56 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000f6b666f3d2c5e0de37a9a868b7d9f5f6b571f93dbfa6c264ce379ee1eca021235f195187280ab84bcf02f53c3dce8f2fd9e3cf6345a92449c879007d8e1df3e704d00b47ab3d2c572f3b8175ec5164571aa8aa584cfaf11a2ee1a771d20313627c51f2e8f9bcf2176321556ba7dda56208f2c172452fce142df054e13d19edf730895ad1f13e3cbfb91254f135337415b7ca18b9-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="small">
+ <npcommid>NPWR09697_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>The Sun and Moon</title-name>
+ <title-detail>Trophy kit for "The Sun and Moon"</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>System One</name>
+  <detail>Beat every level in the first system</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>System Two</name>
+  <detail>Beat every level in the second system</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>System Three</name>
+  <detail>Beat every level in the third system</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>System Four</name>
+  <detail>Beat every level in the fourth system</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>System Five</name>
+  <detail>Beat every level in the fifth system</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>System Six</name>
+  <detail>Beat every level in the sixth system</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>System Seven</name>
+  <detail>Beat every level in the seventh system</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="-1">
+  <name>System Eight</name>
+  <detail>Beat every level in the eighth system</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="-1">
+  <name>System Nine</name>
+  <detail>Beat every level in the ninth system</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="-1">
+  <name>System Ten</name>
+  <detail>Beat every level in the tenth system</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="-1">
+  <name>Full Moon</name>
+  <detail>Obtain 100 full moon medals</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="-1">
+  <name>Sun</name>
+  <detail>Obtain 100 sun medals</detail>
+ </trophy>
+</trophyconf>

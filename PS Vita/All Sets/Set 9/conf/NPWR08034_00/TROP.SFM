@@ -1,0 +1,112 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000000d9bfa6191e57da2046c12ceee65136c9adcddda00260f61aa8770f695eacdeab5f25b772e64fc31b54c82c08dc4511bb9be96aab0101b3d8ad3b6b5e0d80bf9698bae6f14d3b26be216ee7861026d06af7f560c93cb9cab30c843bb3e0f30a63cccac4d1a79c7f54d28af5257b8a03f5bd38f11fa516ac39714e1309ed60cc884fc2349a3187a90e930e30b80950b984804eadb-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR08034_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Justy×Nasty ～魔王はじめました～</title-name>
+ <title-detail>Justy×Nasty ～魔王はじめました～ のトロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>オールクリア</name>
+  <detail>全てのトロフィーを獲得しました</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="000">
+  <name>ゲームクリア</name>
+  <detail>初めてゲームをクリアしました</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>真奈エンドクリア</name>
+  <detail>真奈ルートをクリアしました</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>霧江エンドクリア</name>
+  <detail>霧江ルートをクリアしました</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>みかるエンドクリア</name>
+  <detail>みかるルートをクリアしました</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>響エンドクリア</name>
+  <detail>響ルートをクリアしました</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>果林エンドクリア</name>
+  <detail>果林ルートをクリアしました</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>真奈CGコンプリート</name>
+  <detail>真奈のCGを全てオープンしました</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>霧江CGコンプリート</name>
+  <detail>霧江のCGを全てオープンしました</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>みかるCGコンプリート</name>
+  <detail>みかるのCGを全てオープンしました</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>響CGコンプリート</name>
+  <detail>響のCGを全てオープンしました</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>果林CGコンプリート</name>
+  <detail>果林のCGを全てオープンしました</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>SDCGコンプリート</name>
+  <detail>SDCGを全てオープンしました</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="G" pid="000">
+  <name>ALLCGコンプリート</name>
+  <detail>全てのCGをオープンしました</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="B" pid="000">
+  <name>真奈の胸くらい</name>
+  <detail>あなたは真奈の胸をターゲットに収めました</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>霧江の胸くらい</name>
+  <detail>あなたは霧江の胸をターゲットに収めました</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>みかるの胸くらい</name>
+  <detail>あなたはみかるの胸をターゲットに収めました</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>響の胸くらい</name>
+  <detail>あなたは響の胸をターゲットに収めました</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>果林先輩の胸くらい</name>
+  <detail>あなたは果林の胸をターゲットに収めました</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>真奈と恋する日々</name>
+  <detail>真奈が恋人になりました</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="000">
+  <name>霧江と恋する日々</name>
+  <detail>霧江が恋人になりました</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>みかると恋する日々</name>
+  <detail>みかるが恋人になりました</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="B" pid="000">
+  <name>響と恋する日々</name>
+  <detail>響が恋人になりました</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>果林先輩と恋する日々</name>
+  <detail>果林が恋人になりました</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="G" pid="000">
+  <name>Ｑ＆Ａコンプリート</name>
+  <detail>全てのＱ＆Ａアイキャッチを視聴しました</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="S" pid="000">
+  <name>ボイス収集家</name>
+  <detail>ボイス鑑賞の全リストにボイスをセーブしました</detail>
+ </trophy>
+</trophyconf>

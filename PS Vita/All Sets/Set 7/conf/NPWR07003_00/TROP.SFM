@@ -1,0 +1,44 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000d98afb48de06c8aea1ddc745664697a2e4bde45c9c064635dff8017d16e37f36275aac4d96514cdbad2c8f95d3807e69922eb1852fa005a6edb68f69c1475adee678eef3bf14605d828b0a73ab2b8dee76508b98e176759fcd67e7d47525c984d69f6b2c13f77d6444598c178182a61520c0a8d33d28fb6af54ab68081dbce59688052955d47a8d51573424717f76a65ea01a3bc-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR07003_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Skeleton Rider</title-name>
+ <title-detail>Skeleton Rider Set</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Starting Out</name>
+  <detail>Finish first two levels.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="-1">
+  <name>World 1</name>
+  <detail>Finish first cup.</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="-1">
+  <name>Skull Breaker</name>
+  <detail>Hit yor head 50 times.</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="-1">
+  <name>One More Time</name>
+  <detail>100 Restarts.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="-1">
+  <name>World 2</name>
+  <detail>Finish second cup.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="-1">
+  <name>World 3</name>
+  <detail>Complete third cup.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="-1">
+  <name>World 4</name>
+  <detail>Complete fourth cup.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="-1">
+  <name>Master Skeleton</name>
+  <detail>Complete the game.</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="-1">
+  <name>Smooth Rock</name>
+  <detail>Complete first track in 'Rocks' cup without falling.</detail>
+ </trophy>
+</trophyconf>

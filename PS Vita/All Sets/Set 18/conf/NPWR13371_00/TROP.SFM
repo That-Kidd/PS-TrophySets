@@ -1,0 +1,104 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000006510debce081ad821815c1eab893600ab223421e0313c378631c33b0971c54f72518cce2d3802f4794e2ffc085a984f1f24f1be4920de5a3bb262bf4990d2be9caf1b24fabe69006b56b71653586c93cbb6f073f8e92b692965b86be5dc12bc31bb80a6450e7529540762cb4506ae6552081b9c5d48d1400174c7f6d1044acf3e8e0cd194bdd549357518b473077afc680af3659-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR13371_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>帝國カレイド -革命の輪舞曲-</title-name>
+ <title-detail>帝國カレイド -革命の輪舞曲- トロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>―革命の輪舞曲―</name>
+  <detail>全てのトロフィーを取得しました</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>CGコンプリート</name>
+  <detail>全てのCGを取得しました</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>BGM鑑賞コンプリート</name>
+  <detail>全てのBGMを取得しました</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>回想コンプリート</name>
+  <detail>全てのシーン回想を取得しました</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>プロフィールコンプリート</name>
+  <detail>プロフィールのおまけをすべて取得しました</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>エンディングコンプリート</name>
+  <detail>エンディングを全て見ました</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>後日談コンプリート</name>
+  <detail>各キャラクターの後日談を全て見ました</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>Special Storyコンプリート</name>
+  <detail>各キャラクターのSpecial Storyを全て見ました</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>桐己エンドコンプリート</name>
+  <detail>桐己のエンディングを全て見ました</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>螢エンドコンプリート</name>
+  <detail>螢のエンディングを全て見ました</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>皇一朗エンドコンプリート</name>
+  <detail>皇一朗のエンディングを全て見ました</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>景光エンドコンプリート</name>
+  <detail>景光のエンディングを全て見ました</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>奏嗣エンドコンプリート</name>
+  <detail>奏嗣のエンディングを全て見ました</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>プロローグクリア</name>
+  <detail>プロローグを見ました</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="B" pid="000">
+  <name>桐己・ノーマルエンドクリア</name>
+  <detail>もし、また出会えたら……今度こそ、オレは、あんたのことを</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>桐己・ハッピーエンドクリア</name>
+  <detail>あんたのこと絶対、幸せにするから</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>螢・ノーマルエンドクリア</name>
+  <detail>『水月を誰かに贈るのは、特別な意味を持つんだ』</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>螢・ハッピーエンドクリア</name>
+  <detail>……もう、絶対に離れない。覚悟しておけよ？</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>皇一朗・ノーマルエンドクリア</name>
+  <detail>『俺の役目は、終わった』</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>皇一朗・ハッピーエンドクリア</name>
+  <detail>これからも、俺がお前を守る</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="000">
+  <name>景光・ノーマルエンドクリア</name>
+  <detail>奏嗣が愛した国は、もうどこにも存在しない</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>景光・ハッピーエンドクリア</name>
+  <detail>あの日の約束に誓って君を守ってみせる。だから、ずっと僕の隣にいてほしい</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="B" pid="000">
+  <name>奏嗣・ノーマルエンドクリア</name>
+  <detail>……愛しているよ。これまでも、これからも、永遠に</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>奏嗣・ハッピーエンドクリア</name>
+  <detail>『……みんな、いつまでもいつまでもしあわせにくらしました』</detail>
+ </trophy>
+</trophyconf>

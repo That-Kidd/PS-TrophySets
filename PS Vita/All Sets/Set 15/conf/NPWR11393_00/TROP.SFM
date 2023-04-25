@@ -1,0 +1,76 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000552eeb6d8fa143c1e5b3af6d34f93c3d070b3d6f1f2a4557889244dc7ee1a49a96a1ac709f70250c7ba753fd63bd9d231222ecad4420e5f01fb0243b6444f3f42ab18a017fdc2005f22af99fcdd501945f631ab7baf9ee46648beee1c6743446bb35619cb4a89c82051c2b2a61458a5a67bd5b02a25ac716137940e3a1462de16facf63903c7d62618e8e7bdf6b5d8b863086140-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR11393_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>星織ユメミライ Converted Edition</title-name>
+ <title-detail>星織ユメミライ Converted Edition のトロフィーです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>コンプリート</name>
+  <detail>全てのトロフィーを獲得</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="S" pid="000">
+  <name>Star Link</name>
+  <detail>逢坂そらスクール編クリア</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="G" pid="000">
+  <name>星に願いを</name>
+  <detail>逢坂そらアフター編クリア</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="S" pid="000">
+  <name>確かな願い</name>
+  <detail>篠崎真里花スクール編クリア</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="G" pid="000">
+  <name>流れ星の約束</name>
+  <detail>篠崎真里花アフター編クリア</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="S" pid="000">
+  <name>想いの力</name>
+  <detail>瀬川夏希スクール編クリア</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="G" pid="000">
+  <name>「幸せ」</name>
+  <detail>瀬川夏希アフター編クリア</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>さーかなやー！</name>
+  <detail>沖原美砂スクール編クリア</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="G" pid="000">
+  <name>魚たちの祝福</name>
+  <detail>沖原美砂アフター編クリア</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>２人のミライへ</name>
+  <detail>鳴沢律佳スクール編クリア</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="G" pid="000">
+  <name>私の世界</name>
+  <detail>鳴沢律佳アフター編クリア</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>別々の道</name>
+  <detail>雪村透子スクール編バッドエンドを見た</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>もう１人じゃない</name>
+  <detail>雪村透子スクール編クリア</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="G" pid="000">
+  <name>しあわせの場所</name>
+  <detail>雪村透子アフター編クリア</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="G" pid="000">
+  <name>星織ユメミライ</name>
+  <detail>全ヒロインのアフター編をクリア</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="G" pid="000">
+  <name>CGコンプリート</name>
+  <detail>CG鑑賞をコンプリート</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="G" pid="000">
+  <name>サウンドコンプリート</name>
+  <detail>サウンド鑑賞をコンプリート</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,68 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000cdffb24e7a2daf74fa3d20b808c8597d49d4b00b054eb8309fcee4ccad4944ab15d4f573d59df8e24d23eac14e45c7bb079685a2f56c0b7900229c68cd3b44987e96f878d5ff3e7c275c69c79ba916118f9aecace21e4be84aa629dd61b6357e9fc46621d749825d29c3fb1e938b03c88bf9bfba57c7d3df44c6b9fa3ca82a398ae62041a66f2b592bcd0953de0d6eace7df207b-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR04721_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Total Recoil</title-name>
+ <title-detail>Total Recoil Trophies</title-detail>
+ <trophy id="000" hidden="no" ttype="G" pid="-1">
+  <name>General of the Army</name>
+  <detail>Reach the rank of General of the Army.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="-1">
+  <name>Annihilator</name>
+  <detail>Reach 10000 kills in total.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Outstanding</name>
+  <detail>Achieve an "Outstanding" kill combo 100 times.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Prestige</name>
+  <detail>Reach the rank of General of the Army for a second time.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Kindling</name>
+  <detail>Blow up 5000 wooden crates.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Booby Trap</name>
+  <detail>Blow up 1500 red barrels.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>To The Max!</name>
+  <detail>Upgrade any weapon, killstreak or item to the max.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Invincible</name>
+  <detail>Use 20 Invincibility power ups on yourself.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Shield</name>
+  <detail>Use 30 Shields to protect yourself.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>Medic</name>
+  <detail>Use 50 Medipacks to heal yourself.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>Clay Pigeon Shoot</name>
+  <detail>Shoot down 20 flying planes.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="-1">
+  <name>Quatro Pounder</name>
+  <detail>Destroy 5 of the big track quatro pounder tanks</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="-1">
+  <name>Swiss Army Soldier</name>
+  <detail>Buy all of the weapons.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="-1">
+  <name>Gun Aficionado</name>
+  <detail>Upgrade any weapon for the first time.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="-1">
+  <name>Earn your stripes </name>
+  <detail>Complete the Boot Camp tutorial mission.</detail>
+ </trophy>
+</trophyconf>

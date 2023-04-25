@@ -1,0 +1,144 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000c5902274610ac36ef5348e034171fbda8b56071f9996f0fb09b2c51aa15dd85428aefcac986ae5adea8275178b1454256520eb895a03281ed0f9a8dde61f9a96cff276471ff5d2b04bbcffe6545372addd369bcf9bcc1fe347961e15f8547783214aa55d8d6022d4782c72a4c26aa1e425894e66767efe47fbec00361f56ab347225ddeae9723c1a031c3d46bfefb689ef04b632-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR09050_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>ゆのはなSpRING！</title-name>
+ <title-detail>『ゆのはなSpRING！』トロフィーリスト</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>完全無欠の若女将</name>
+  <detail>全てのトロフィーを獲得した。これであなたも名実ともに福寿楼の若女将！</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>就任！　臨時若女将</name>
+  <detail>プロローグをクリアした。今日からあなたが若女将！</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>初めてのお客様</name>
+  <detail>１章をクリアした。縁と浮世は末を待て。</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>家族の絆</name>
+  <detail>２章をクリアした。親思う心にまさる親心。</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>追憶</name>
+  <detail>３章をクリアした。古事は今を知る所以。</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>訳有りなお客様</name>
+  <detail>４章をクリアした。疑いは暗中の人影。</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>浮気性</name>
+  <detail>ノーマルＥＤをクリアした。八方美人の見た夢。</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>一世一代のプロポーズ</name>
+  <detail>金太郎ＥＤ１をクリアした。オトコ金太郎、一生の願い。</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>俺の隣で</name>
+  <detail>宏太ＥＤ１をクリアした。流れ星の祝福。</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="000">
+  <name>めでたし、めでたし？</name>
+  <detail>高平ＥＤ１をクリアした。波乱に満ちた幕開け。</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="000">
+  <name>再会した恋人</name>
+  <detail>直昌ＥＤ１をクリアした。あなたと過ごす未来。</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>リクエストをひとつ</name>
+  <detail>梅ノ介ＥＤ１をクリアした。肝心の答え。</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="B" pid="000">
+  <name>ただいま</name>
+  <detail>金太郎ＥＤ２をクリアした。桜舞う中で。</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="000">
+  <name>彼氏は意外と甘えんぼ</name>
+  <detail>宏太ＥＤ２をクリアした。支え合うふたり。</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="B" pid="000">
+  <name>交わした握手</name>
+  <detail>高平ＥＤ２をクリアした。新たな一歩。</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>迎えに来た王子様</name>
+  <detail>直昌ＥＤ２をクリアした。宣戦布告。</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>独占欲</name>
+  <detail>梅ノ介ＥＤ２をクリアした。すべてはここから。</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="S" pid="000">
+  <name>片桐金太郎コンプリート！</name>
+  <detail>金太郎の画像を全て開放した。</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="S" pid="000">
+  <name>佐伯宏太コンプリート！</name>
+  <detail>宏太の画像を全て開放した。</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="S" pid="000">
+  <name>泉高平コンプリート！</name>
+  <detail>高平の画像を全て開放した。</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="S" pid="000">
+  <name>葛城直昌コンプリート！</name>
+  <detail>直昌の画像を全て開放した。</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="S" pid="000">
+  <name>香賀梅ノ介コンプリート！</name>
+  <detail>梅ノ介の画像を全て開放した。</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="S" pid="000">
+  <name>最強幼馴染</name>
+  <detail>金太郎の全ＥＤを見た。</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="S" pid="000">
+  <name>頼れる板前</name>
+  <detail>宏太の全ＥＤを見た。</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="S" pid="000">
+  <name>彩川のロミジュリ</name>
+  <detail>高平の全ＥＤを見た。</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="S" pid="000">
+  <name>現代のシンデレラ</name>
+  <detail>直昌の全ＥＤを見た。</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="S" pid="000">
+  <name>ずるい大人</name>
+  <detail>梅ノ介の全ＥＤを見た。</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="S" pid="000">
+  <name>新進気鋭の若女将</name>
+  <detail>すべてのキャラのＥＤ１を見た。</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="S" pid="000">
+  <name>夢追い人</name>
+  <detail>すべてのキャラのＥＤ２を見た。</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="G" pid="000">
+  <name>海千山千の若女将</name>
+  <detail>すべてのＥＤを見た。</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="G" pid="000">
+  <name>マップイベントコンプリート！</name>
+  <detail>すべてのマップイベントを見た。</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="G" pid="000">
+  <name>ＣＧコンプリート！</name>
+  <detail>すべてのＣＧを見た。</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="G" pid="000">
+  <name>甘い生活</name>
+  <detail>おまけイベントを全て見た。</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="G" pid="000">
+  <name>ゆのはなマスター</name>
+  <detail>フルコンプ画像をオープンした。</detail>
+ </trophy>
+</trophyconf>

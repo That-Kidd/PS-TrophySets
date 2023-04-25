@@ -1,0 +1,124 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000c714e439917a47d03a874c7f41d0dbbbb0bbd4a5c59e27f20ce5ab53710dcf84f9b33aed8f4dbb0e152d472687ef9b53dd349bcdd604031daef06a38a6723c86fb5dcddab985d439bc15e666a24cfa8fbc1c118716f8cb25db69b4ffcb62d07a7bf11a86a510cd1a32c5eefa15b4326210c039d87c7e4b5465182099b501a347d7a4a4bdbbc335e7995dadc5253cda150c826d7d-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR04005_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>トトリのアトリエ Ｐｌｕｓ&#x0a;～アーランドの錬金術士２～</title-name>
+ <title-detail>トトリのアトリエ Ｐｌｕｓ のトロフィーパックです</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>全トロフィー取得</name>
+  <detail>全てのトロフィーを取得した。</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>日常風景</name>
+  <detail>オープニングのイベントを見た。</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>怪力お姉さん</name>
+  <detail>メルヴィアとの出会いイベントを見た。</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>閃光のように</name>
+  <detail>アーランドへ行く途中、謎の人に助けてもらった。</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>お嬢様の口ゲンカ</name>
+  <detail>クーデリアと女の子のケンカイベントを見た。</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>予想外の大物！</name>
+  <detail>ロロナとの再会イベントを見た。</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>大量発生！</name>
+  <detail>ちむ誕生のイベントを見た。</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="G" pid="000">
+  <name>悲しみの再会</name>
+  <detail>母親の行方を知るイベントを見た。</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>ぬいぐるみでした</name>
+  <detail>パメラが幽霊だと分かるイベントを見た。</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>昔馴染みの四人</name>
+  <detail>イクセルのお店でロロナ達が歓談しているイベントを見た。</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>酒乱伝説再び</name>
+  <detail>酔ったティファナに絡まれるイベントを見た。</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="G" pid="000">
+  <name>フェスティバル</name>
+  <detail>水着コンテストを無事開催した。</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>まだまだ子供</name>
+  <detail>ツェツィにぎゅーってしてもらうイベントを見た。</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>オレが守る！</name>
+  <detail>ジーノの最強技取得イベントを見た。</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>油断</name>
+  <detail>メルヴィアとツェツィが窮地に陥るイベントを見た。</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="S" pid="000">
+  <name>貴族として</name>
+  <detail>ミミに励ましてもらうイベントを見た。</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="S" pid="000">
+  <name>マクヴェリオン爆誕！</name>
+  <detail>マクヴェリオン発進のイベントを見た。</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="S" pid="000">
+  <name>これがぬし？</name>
+  <detail>ぬしを釣り上げるイベントを見た。</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>ノーマルエンド</name>
+  <detail>ノーマルエンディングを見た。</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>バッドエンド</name>
+  <detail>バッドエンディングを見た。</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="S" pid="000">
+  <name>二つの師弟関係</name>
+  <detail>ジーノエンディングを見た。</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="S" pid="000">
+  <name>約束を果たしに</name>
+  <detail>メルヴィアエンディングを見た。</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="S" pid="000">
+  <name>二人の最強冒険者</name>
+  <detail>ミミエンディングを見た。</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="S" pid="000">
+  <name>天才科学者の新たな旅立ち</name>
+  <detail>マークエンディングを見た。</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="S" pid="000">
+  <name>先生はどっち！？</name>
+  <detail>ロロナエンディングを見た。</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="S" pid="000">
+  <name>女二人に囲まれて</name>
+  <detail>ステルクエンディングを見た。</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="S" pid="000">
+  <name>最強のお仕事集団</name>
+  <detail>ちむエンディングを見た。</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="G" pid="000">
+  <name>錬金料理のお店</name>
+  <detail>酒と料理のお店を開くエンディングを見た。</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="G" pid="000">
+  <name>トゥルーエンド</name>
+  <detail>トゥルーエンディングを見た。</detail>
+ </trophy>
+</trophyconf>

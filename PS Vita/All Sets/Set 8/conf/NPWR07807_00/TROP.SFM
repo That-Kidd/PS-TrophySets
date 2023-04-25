@@ -1,0 +1,216 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000006676fc6c5735090957beee92bdfe7365967677aa82043d45ad11452c5d07ce197cc02c618d97853ecb1db3189ad559f28a580989210eea1573d6255d98eb5a91f6e4d450d5d52a9ea317fdcc77c45e668428ea81bb5203f0bc928023968d80948bd25b7629175a2b1b0dcec82df049f2de28271abfd3a565229adb589ec996ada5c77ce0558837311a2246092898595962fcee8c-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR07807_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Wizardry 囚われし亡霊の街　Scenario1</title-name>
+ <title-detail>Wizardry 囚われし亡霊の街　Scenario1のトロフィーセットです。</title-detail>
+ <group id="001">
+  <name>Wizardry 囚われし亡霊の街　Scenario2</name>
+  <detail>Wizardry 囚われし亡霊の街　Scenario2のトロフィーセットです。</detail>
+ </group>
+ <group id="002">
+  <name>Wizardry 囚われし亡霊の街　Scenario3</name>
+  <detail>Wizardry 囚われし亡霊の街　Scenario3のトロフィーセットです。</detail>
+ </group>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>１００％クリア</name>
+  <detail>全部のトロフィーを取得すると、このプラチナトロフィーが自動的にアンロックされます</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>駆け出しの御用聞き</name>
+  <detail>合計撃破数 750匹</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>町の用心棒</name>
+  <detail>合計撃破数 3,000匹</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>熱心な賞金稼ぎ</name>
+  <detail>合計撃破数 5,000匹</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>熟練した冒険家</name>
+  <detail>合計撃破数 15,000匹</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>練達なる撃墜王</name>
+  <detail>合計撃破数 30,000匹</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="000">
+  <name>天駆ける迷宮王</name>
+  <detail>合計撃破数 45,000匹</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="G" pid="000">
+  <name>全てを無に出来るモノ。</name>
+  <detail>合計撃破数 59,630匹</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>道を見失った者</name>
+  <detail>サイラスENDを確認</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>全てを変える者</name>
+  <detail>カーマインENDを確認</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>流れに乗る者</name>
+  <detail>ベアトリクスENDを確認</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>大局を見通す者</name>
+  <detail>全ENDを確認</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>合計プレイ時間・5時間達成</name>
+  <detail>合計プレイ時間 5時間</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>合計プレイ時間・50時間達成</name>
+  <detail>合計プレイ時間 50時間</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>合計プレイ時間・100時間達成</name>
+  <detail>合計プレイ時間 100時間</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="S" pid="000">
+  <name>合計プレイ時間・200時間達成</name>
+  <detail>合計プレイ時間 200時間</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="S" pid="000">
+  <name>合計プレイ時間・300時間達成</name>
+  <detail>合計プレイ時間 300時間</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="G" pid="000">
+  <name>合計プレイ時間・500時間達成</name>
+  <detail>合計プレイ時間 500時間</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>良き友を持つ者</name>
+  <detail>基本５種族のキャラを保有</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>頼もしい仲間を持つ者</name>
+  <detail>LV30以上のキャラを保有</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>剛腕を知る者</name>
+  <detail>LV50以上のキャラを保有した経験あり</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>無欲な収集家</name>
+  <detail>獲得アイテムの種類30種類以上</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>収集家を自覚した冒険家</name>
+  <detail>獲得アイテムの種類70種類以上</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="S" pid="000">
+  <name>果て無き収集家</name>
+  <detail>獲得アイテムの種類100種類以上</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="G" pid="000">
+  <name>飽くなき探求者</name>
+  <detail>獲得アイテムの種類150種類以上</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>1万Gold取得達成</name>
+  <detail>所持金 10,000Gold</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>100万Gold取得達成</name>
+  <detail>所持金 1,000,000Gold</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="S" pid="000">
+  <name>300万Gold取得達成</name>
+  <detail>所持金 3,000,000Gold</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="G" pid="000">
+  <name>3000万Gold取得達成</name>
+  <detail>所持金 30,000,000Gold</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>霧に分け入った迷い人</name>
+  <detail>ボーフォンケルク 踏破率100%</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>闇を求めた迷い人</name>
+  <detail>デ・ブーレ迷宮 踏破率100%</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>街を知り始めた迷い人</name>
+  <detail>マシネ・トヘト 踏破率50%</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="S" pid="000">
+  <name>真実に触れた迷い人</name>
+  <detail>アウダークルク迷宮 踏破率100%</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="G" pid="000">
+  <name>全ての始まりに関わる者</name>
+  <detail>迷宮踏破トロフィー全取得</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>深淵を覗きし者</name>
+  <detail>魔神の存在証明クエストをクリア</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>苦心惨憺の末に</name>
+  <detail>卑怯者になりたくない！クエストをクリア</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>深淵の門に近づく者</name>
+  <detail>封印のありかクエストをクリア</detail>
+ </trophy>
+ <trophy id="037" hidden="yes" ttype="S" pid="-1" gid="001">
+  <name>悲しき亡霊を鎮める者</name>
+  <detail>シナリオ２用・シナリオトロフィー全獲得</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>霧を克服した迷い人</name>
+  <detail>ディースメン迷宮 ＭＡＰの踏破</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>闇を退けた迷い人</name>
+  <detail>スターツェン迷宮ＭＡＰの踏破</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>灯を照らす迷い人</name>
+  <detail>ウォーテリングＭＡＰの踏破</detail>
+ </trophy>
+ <trophy id="041" hidden="yes" ttype="S" pid="-1" gid="001">
+  <name>亡霊街の番人</name>
+  <detail>シナリオ２用・迷宮踏破トロフィー全取得</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="B" pid="-1" gid="002">
+  <name>異形と語らう者</name>
+  <detail>レディ・マルバスの依頼クエストをクリア</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="B" pid="-1" gid="002">
+  <name>仲間を思いし者</name>
+  <detail>亡霊の街を救うためにクエストをクリア</detail>
+ </trophy>
+ <trophy id="044" hidden="no" ttype="B" pid="-1" gid="002">
+  <name>深淵を深淵とした者</name>
+  <detail>全てを解放した為に。クエストをクリア</detail>
+ </trophy>
+ <trophy id="045" hidden="yes" ttype="S" pid="-1" gid="002">
+  <name>破邪顕正を成した者</name>
+  <detail>シナリオ３用・シナリオトロフィー全獲得&#x0a;</detail>
+ </trophy>
+ <trophy id="046" hidden="no" ttype="B" pid="-1" gid="002">
+  <name>新たなる道を探す者</name>
+  <detail>ストラージュＭＡＰの踏破</detail>
+ </trophy>
+ <trophy id="047" hidden="no" ttype="B" pid="-1" gid="002">
+  <name>霧を暴いた者</name>
+  <detail>グラハム・ルーツェＭＡＰの踏破&#x0a;</detail>
+ </trophy>
+ <trophy id="048" hidden="no" ttype="B" pid="-1" gid="002">
+  <name>闇を払いし者</name>
+  <detail>グラハム迷宮ＭＡＰの踏破&#x0a;</detail>
+ </trophy>
+ <trophy id="049" hidden="yes" ttype="S" pid="-1" gid="002">
+  <name>亡霊の全てを知る者</name>
+  <detail>シナリオ３用・迷宮踏破トロフィー全取得</detail>
+ </trophy>
+</trophyconf>

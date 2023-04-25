@@ -1,0 +1,148 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000120ae4b32984c37f0d5602b7cb703862ebfa6a563a7727bd2892b55a5de564804a8300c2b63ca95c07d90a5b4b64d6f7d9d6f27a591f6a085753c5a07a30568eb365a2ea305ef7d11fe170fb9ba73fb6088b5613383e354be7499d953439b988bc9c658ee548cf601d9d56640519789885282551f2115a23af5e126d56cc60104a24829225f165aa4d5f76162cde424ab4852e7b-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR12566_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>緋色の欠片 ～おもいいろの記憶～</title-name>
+ <title-detail>トロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>玉依姫を継ぐ者</name>
+  <detail>全てのトロフィーを獲得した</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>季封村にて</name>
+  <detail>「緋色の欠片」の序章をクリアした</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>玉依姫と守護者</name>
+  <detail>「緋色の欠片」の一章をクリアした</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>現れる敵</name>
+  <detail>「緋色の欠片」の二章をクリアした</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>封印を守る者</name>
+  <detail>「緋色の欠片」の三章をクリアした</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>いってきます</name>
+  <detail>「緋色の欠片」の鬼崎拓磨ルートをクリアした</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>おかえり</name>
+  <detail>「緋色の欠片」の鴉取真弘ルートをクリアした</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>二人の旅立ち</name>
+  <detail>「緋色の欠片」の孤邑祐一ルートをクリアした</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>縁側でお茶を</name>
+  <detail>「緋色の欠片」の大蛇卓ルートをクリアした</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>玉依姫のそれから</name>
+  <detail>「緋色の欠片」の犬戒慎司ルートをクリアした</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>俺だけの場所</name>
+  <detail>「緋色の欠片」の狗谷遼ルートをクリアした</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>俺が一生、守ってやる</name>
+  <detail>「あの空の下で」の鬼崎拓磨ルートを好感度最大でクリアした</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>新婚旅行みたいだね</name>
+  <detail>「あの空の下で」の鴉取真弘ルートを好感度最大でクリアした</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>永遠に変わらぬ気持ち</name>
+  <detail>「あの空の下で」の狐邑祐一ルートを好感度最大でクリアした</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>あなたを幸せにします</name>
+  <detail>「あの空の下で」の大蛇卓ルートを好感度最大でクリアした</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>いつでも、あなたのそばに</name>
+  <detail>「あの空の下で」の犬戒慎司ルートを好感度最大でクリアした</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>おまえだけの守護者</name>
+  <detail>「あの空の下で」の狗谷遼ルートを好感度最大でクリアした</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>拓磨との思い出</name>
+  <detail>鬼崎拓磨のイベントCGをコンプリートした</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>真弘先輩との記憶</name>
+  <detail>鴉取真弘のイベントCGをコンプリートした</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="000">
+  <name>祐一先輩を思い出して</name>
+  <detail>狐邑祐一のイベントCGをコンプリートした</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>卓さんと私</name>
+  <detail>大蛇卓のイベントCGをコンプリートした</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>慎司君がいっぱい</name>
+  <detail>犬戒慎司のイベントCGをコンプリートした</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>遼のあれこれ</name>
+  <detail>狗谷遼のイベントCGをコンプリートした</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>大事な宝物</name>
+  <detail>その他のイベントCGをコンプリートした</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>おもいいろの思い出</name>
+  <detail>あかねいろの追憶を全てオープンした</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="S" pid="000">
+  <name>拓磨の全てがここに</name>
+  <detail>カルトクイズ拓磨のレベル１～５を全てクリアした</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="S" pid="000">
+  <name>真弘先輩は私のもの</name>
+  <detail>カルトクイズ真弘のレベル１～５を全てクリアした</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="S" pid="000">
+  <name>祐一先輩は任せて</name>
+  <detail>カルトクイズ祐一のレベル１～５を全てクリアした</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="S" pid="000">
+  <name>卓さんの表も裏も</name>
+  <detail>カルトクイズ卓のレベル１～５を全てクリアした</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="S" pid="000">
+  <name>慎司君の秘密を暴け</name>
+  <detail>カルトクイズ慎司のレベル１～５を全てクリアした</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="S" pid="000">
+  <name>セクハラキング遼の全て</name>
+  <detail>カルトクイズ遼のレベル１～５を全てクリアした</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="G" pid="000">
+  <name>クイズ王ですね！</name>
+  <detail>全キャラクターのカルトクイズをクリアした</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="G" pid="000">
+  <name>外典、制覇しました！</name>
+  <detail>玉依姫外典を全てオープンした</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="G" pid="000">
+  <name>おみくじはいつも胸の中に</name>
+  <detail>全てのおみくじCGを解放した</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="G" pid="000">
+  <name>たいへんよくできました</name>
+  <detail>全てのイベントCGを解放した</detail>
+ </trophy>
+</trophyconf>

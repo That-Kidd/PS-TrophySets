@@ -1,0 +1,176 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000044c02a35276eeaa200cca5c1139efab128c2853d93439ba83f9c0714dea4731a3aa9a7523452f4133be03e56c4edca52d156b61f7dd7a7f881977906d496df9c8db0bb23529f8a1fec24d799122734bd1dc4d6d13201861af6646e9f03f2df33ba10c5243b86fc73c50c7ae43bc791b655f735bbcd3b019e0c434cae5d181b24c55f4edda723ff8b3c088a1c703ed96aac9c6904-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR09548_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>蒼の彼方のフォーリズム</title-name>
+ <title-detail>蒼の彼方のフォーリズム</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>彼方の向こうに、何かが見える</name>
+  <detail>全てのトロフィーを取得しました。</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>CGコンプリート</name>
+  <detail>全てのCGをオープンしました。</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>REPLAYコンプリート</name>
+  <detail>全てのREPLAYをオープンしました。</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>MOVIEコンプリート</name>
+  <detail>全てのムービーをオープンしました。</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="G" pid="000">
+  <name>彼方の向こうに</name>
+  <detail>グランドエンディングを見ました。</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>飛び方を、教えて下さい</name>
+  <detail>第一話をクリアしました。</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>空の上のサーカス</name>
+  <detail>第二話をクリアしました。</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>好敵手たち</name>
+  <detail>第三話をクリアしました。</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>わたしだって、戦いたい</name>
+  <detail>第四話をクリアしました。</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="000">
+  <name>嵐の前の</name>
+  <detail>第五話をクリアしました。</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="000">
+  <name>決戦、そして</name>
+  <detail>第六話をクリアしました。</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>空を飛ぶ夢</name>
+  <detail>明日香ルート第七話をクリアしました。</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>蒼の彼方へ</name>
+  <detail>明日香ルートをクリアしました。</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="000">
+  <name>あたし、FCをやめるから</name>
+  <detail>みさきルート第七話をクリアしました。</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>届けたい気持ち</name>
+  <detail>みさきルートをクリアしました。</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>小さくても勇気</name>
+  <detail>真白ルート第七話をクリアしました。</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="S" pid="000">
+  <name>ありがと、先輩</name>
+  <detail>真白ルートをクリアしました。</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>強がる優等生</name>
+  <detail>莉佳ルート第七話をクリアしました。</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="S" pid="000">
+  <name>変わらないもの</name>
+  <detail>莉佳ルートをクリアしました。</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>元気よく行きましょう！</name>
+  <detail>明日香に起こしてもらいました。</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>おはようにゃん！</name>
+  <detail>みさきに起こしてもらいました。</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>ちょっと見直しちゃいました</name>
+  <detail>真白に起こしてもらいました。</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>それじゃ行ってらっしゃい！</name>
+  <detail>莉佳に起こしてもらいました。</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>天然ストレート飛行少女</name>
+  <detail>倉科明日香が登場しました。</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="000">
+  <name>完全フリーダム浮遊女子</name>
+  <detail>鳶沢みさきが登場しました。</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="B" pid="000">
+  <name>先輩大好きゲーム好き小動物</name>
+  <detail>有坂真白が登場しました。</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>部活も勉強もしっかり優等生</name>
+  <detail>市ノ瀬莉佳が登場しました。</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="B" pid="000">
+  <name>久奈浜FC部顧問</name>
+  <detail>各務葵が登場しました。</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="B" pid="000">
+  <name>「勝てない」部長</name>
+  <detail>青柳紫苑が登場しました。</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="B" pid="000">
+  <name>久奈浜マネージャー</name>
+  <detail>青柳窓果が登場しました。</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="B" pid="000">
+  <name>飄々とした店主</name>
+  <detail>白瀬隼人が登場しました。</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="B" pid="000">
+  <name>あの子誰だっけ？</name>
+  <detail>白瀬みなもが登場しました。</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="B" pid="000">
+  <name>最強選手</name>
+  <detail>真藤一成が登場しました。</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="B" pid="000">
+  <name>自称お嬢様</name>
+  <detail>佐藤院麗子が登場しました。</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="B" pid="000">
+  <name>暴走気味放送部員</name>
+  <detail>保坂実里が登場しました。</detail>
+ </trophy>
+ <trophy id="035" hidden="yes" ttype="B" pid="000">
+  <name>いつもおっとりニコニコ</name>
+  <detail>有坂牡丹が登場しました。</detail>
+ </trophy>
+ <trophy id="036" hidden="yes" ttype="B" pid="000">
+  <name>謎に包まれたFC選手</name>
+  <detail>乾沙希が登場しました。</detail>
+ </trophy>
+ <trophy id="037" hidden="yes" ttype="B" pid="000">
+  <name>本物のお嬢様</name>
+  <detail>イリーナ・アヴァロンが登場しました。</detail>
+ </trophy>
+ <trophy id="038" hidden="yes" ttype="B" pid="000">
+  <name>あっち側の「お姉さま」</name>
+  <detail>我如古繭が登場しました。</detail>
+ </trophy>
+ <trophy id="039" hidden="yes" ttype="B" pid="000">
+  <name>あっち側の「妹」</name>
+  <detail>虎魚有梨華が登場しました。</detail>
+ </trophy>
+ <trophy id="040" hidden="yes" ttype="B" pid="000">
+  <name>謎のスカイウォーカー</name>
+  <detail>覆面選手が登場しました。</detail>
+ </trophy>
+ <trophy id="041" hidden="yes" ttype="B" pid="000">
+  <name>目的不明＆理由不明</name>
+  <detail>黒渕霞が登場しました。</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,168 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000e067bb83f8d20035d9133a77892deb1d34a8aff4220124fb42fb91f9b7c043db97f653932e82ac0e3938e7b7b1f79e4bb21706a0e50fe6ecb9f45ef497506ddcbf0e25ed96388e42b502a7c2a0d148584faa02cb6cd2ab601c7f221da595167bd70a91ff6b9199dd30b9df5c89c8e307dec840e9cb9912df4181dd84677df4720627aa15396024fd15c7826b926b7de34635c878-->
+<trophyconf version="1.1" platform="ps3,psp2,ps4" policy="large">
+ <npcommid>NPWR11535_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>ベルセルク無双</title-name>
+ <title-detail>ベルセルク無双のトロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>真のベルセルク無双</name>
+  <detail>全てのトロフィーを獲得した</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>開戦</name>
+  <detail>ストーリーモード「プロローグ」をクリアした</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>切り込み隊長</name>
+  <detail>ストーリーモード「黄金時代篇 第一部」をクリアした</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>決別</name>
+  <detail>ストーリーモード「黄金時代篇 第二部」をクリアした</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>踠く者</name>
+  <detail>ストーリーモード「黄金時代篇 第三部」をクリアした</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>黒い剣士</name>
+  <detail>ストーリーモード「黒い剣士篇」をクリアした</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>光の鷹</name>
+  <detail>ストーリーモード「断罪篇」をクリアした</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>船出</name>
+  <detail>ストーリーモード「千年帝国の鷹篇」をクリアした</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>深淵を欲す者</name>
+  <detail>無限蝕モードの２５層を突破した</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="000">
+  <name>深淵を目指す者</name>
+  <detail>無限蝕モードの５０層を突破した</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>深淵を覗く者</name>
+  <detail>無限蝕モードの７５層を突破した</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>深淵を超えし者</name>
+  <detail>無限蝕モードの１００層を突破した</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>望みに応えし者</name>
+  <detail>無限蝕モードの渇望を５０％以上クリアした</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="000">
+  <name>求められし者</name>
+  <detail>無限蝕モードの渇望を１００％クリアした</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>剣を極めし者</name>
+  <detail>１人のキャラクターが最大レベルに到達した</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>因果を極めし者</name>
+  <detail>すべてのイベントを収集した</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>旋律を極めし者</name>
+  <detail>すべてのＢＧＭを収集した</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>装飾を極めし者</name>
+  <detail>アクセサリを全種類収集した</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>道具を極めし者</name>
+  <detail>携帯アイテムを全種類収集した</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="000">
+  <name>軍馬を極めし者</name>
+  <detail>軍馬を全種類収集した</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>鍵を揃えし者</name>
+  <detail>初めて名シーンが完成した</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>すべての鍵を揃えし者</name>
+  <detail>すべての名シーンが完成した</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>解放者</name>
+  <detail>ギャラリーの達成率が２５％以上に到達した</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="G" pid="000">
+  <name>真の解放者</name>
+  <detail>ギャラリーの達成率が１００％に到達した</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>百人斬り</name>
+  <detail>１回の狂乱モード中に敵を１００撃破した</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>千人斬り</name>
+  <detail>１回の戦闘中に敵を１０００撃破した</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="S" pid="000">
+  <name>万人斬り</name>
+  <detail>斬潰撃破数が累計１万を突破した</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="S" pid="000">
+  <name>十万人斬り</name>
+  <detail>総撃破数が累計１０万を突破した</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>勝鬨</name>
+  <detail>すべてのプレイアブルキャラクターで戦闘に勝利した</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="S" pid="000">
+  <name>復讐者</name>
+  <detail>ガッツで大型使徒をすべて撃破した</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="S" pid="000">
+  <name>使徒の主</name>
+  <detail>グリフィスで大型使徒をすべて撃破した</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>女戦士</name>
+  <detail>キャスカで１回の戦闘中に１０００撃破を達成した</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>不器用者</name>
+  <detail>ジュドーで苦戦するキャスカを１回救援した</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>従者</name>
+  <detail>セルピコで苦戦するファルネーゼを１回救援した</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>見習い魔女</name>
+  <detail>シールケで１回の戦闘中にゴーレムを１０体召喚した</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>不死者</name>
+  <detail>ゾッドで１回の戦闘中に３回変身した</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>エンジョイ＆エキサイティング</name>
+  <detail>ワイアルドで１回の戦闘中に１０００撃破を達成した</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>エルフ次元流門下生</name>
+  <detail>ベッチーキャッチで１点以上獲得した</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>エルフ次元流免許皆伝</name>
+  <detail>パックとともに５０回以上戦闘に勝利した</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="G" pid="000">
+  <name>狂戦士</name>
+  <detail>難易度「ＨＥＬＬ」ですべての大型使徒を撃破した</detail>
+ </trophy>
+</trophyconf>

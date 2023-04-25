@@ -1,0 +1,56 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000f332de5d0f6b2fa0c6245af7373930d5b036b0ca1c60a5a1ec044a061f75f5c7054925136e9583cbac403c893cdc75ea3dbe42659469d701d4a10e3453f821863cbae18a10214290ccbf985dfb4f5b57bd956dabc873b50958595e693ac6f5ccfbf13b2a75293a7749ccacc8e688dffb51bf3aa7faafa04588c6c3d3bbf7ce46cf0b934d8e86397992105c445a0d57d7d1c855b2-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR14205_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>36 Fragments of Midnight</title-name>
+ <title-detail>36 Fragments of Midnight&#x0a;</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Platinum Midnight</name>
+  <detail>Become a master collector</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>The greatest gift</name>
+  <detail>Get 36 fragments</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>Only the half left</name>
+  <detail>Get 18 fragments</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>The fastest one</name>
+  <detail>Get 36 fragments in less than 6 Min</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>Stunned</name>
+  <detail>Die by a laser</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>Cut in half</name>
+  <detail>Die by a saw</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>Squared unicorn</name>
+  <detail>Die by a spike</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>At least you tried</name>
+  <detail>Die with only 1 fragment</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>So close</name>
+  <detail>Die with 35 fragments</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>That IS bad luck</name>
+  <detail>Die with 36 fragments</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>Super fast</name>
+  <detail>Get 36 fragments in less than 10 Min</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>Baby steps</name>
+  <detail>Get 1 fragment</detail>
+ </trophy>
+</trophyconf>

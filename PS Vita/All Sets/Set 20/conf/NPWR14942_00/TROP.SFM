@@ -1,0 +1,104 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000b66e0ef07c99b83e54dae0690d75a715f4948b05c5bd46d4506309a4e2b9816d2d91e8692ec385302b13c51e99629bcb31bf74bb621cfab6182231a000ff0eb00983e9ab899793da36d51050b5908104643cc0640c48a568901a0f424a3f9a3b3ed63da33cdcfd2830224f03c4b129e9d83274b245e00c6b4c16bc95397327c1a253336349e2c81aa3729ddc554eb9e035fba7cf-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR14942_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Super Skull Smash Go! 2 Turbo</title-name>
+ <title-detail>Momento Mori</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Kingdom of Bones</name>
+  <detail>Get all trophies in the Kingdom of Bones.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>No King Around</name>
+  <detail>Install a new regime.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>King Me</name>
+  <detail>Long live the new king.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>Golden Fish</name>
+  <detail>Find the golden fish, sponsored by Rob.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>Too Much Dill</name>
+  <detail>Satisfy Dan's hunger for pickles.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>Sock to Meet You</name>
+  <detail>Put a sock on a zombie.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>Barry's Coin</name>
+  <detail>Appease Barry by finding his coin.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>Pies for the memory</name>
+  <detail>Make a zombie fall in a pit.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>Armaments</name>
+  <detail>Consult the book of armaments.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>The McKirk</name>
+  <detail>Make yourself a trendy and delicious drink/meal.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>Ghost Bouncer</name>
+  <detail>Bounce on a ghost 100 times.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>Vampire Squisher</name>
+  <detail>Squish 100 vampires.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>Zombie Basher</name>
+  <detail>Bash 100 zombies.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>Skelly Smasher</name>
+  <detail>Jump on 100 skeletons.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>Skull Smasher</name>
+  <detail>Smash 100 skulls.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>Puzzle Doer</name>
+  <detail>Complete all the puzzle levels.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Gem Collector</name>
+  <detail>Collect all the gems.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="G" pid="000">
+  <name>Super Skull Smasher</name>
+  <detail>Smash every skull.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="G" pid="000">
+  <name>Coin Master</name>
+  <detail>Collect every coin in the kingdom.</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="S" pid="000">
+  <name>Only in a replay</name>
+  <detail>Defeat the robot skeleton GAMMA.</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="S" pid="000">
+  <name>I've seen you before</name>
+  <detail>Defeat the robot skeleton BETA.</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="S" pid="000">
+  <name>I'll be back</name>
+  <detail>Defeat the robot skeleton ALPHA.</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="G" pid="000">
+  <name>A Farewell to Skulls</name>
+  <detail>Defeat Evil King again.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="G" pid="000">
+  <name>Skulls To Meet You</name>
+  <detail>Defeat Evil King.</detail>
+ </trophy>
+</trophyconf>

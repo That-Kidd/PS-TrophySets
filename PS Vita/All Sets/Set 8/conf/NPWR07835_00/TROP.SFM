@@ -1,0 +1,152 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000031fa0bb1aac9bedbcbcd71c791d0daca5166f5249ed63bfed35fb8c7ce63783b6ecf0187e585d43d4c00b093bce0b69e2c06387fbaa753da9605a88fb2c1ed5c9e7734541c2a936aa838a6e0dd955a84cdfd7f64f631bc31867c4818ca7ae8ee27163a52d7f0430581498b97c255c0bba9307e3dd204e233eb8fbdc0a7325439791acd4bb8a72ec783d79a4de52e4d5566dab7ae-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR07835_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>魔壊神トリリオン</title-name>
+ <title-detail>魔壊神トリリオンのトロフィーです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>全てを超越せし大魔王</name>
+  <detail>全てのトロフィーを獲得した！</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="G" pid="000">
+  <name>みんなと仲良く！</name>
+  <detail>全員のラブラブエンドを見た！</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="G" pid="000">
+  <name>魔王トレーナー</name>
+  <detail>最初の魔王３人でトリリオンを撃破した！</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="G" pid="000">
+  <name>飽くなき挑戦者</name>
+  <detail>チャレンジモードをクリアした！</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="G" pid="000">
+  <name>魔界の理解者</name>
+  <detail>真・エンディングを見た！</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="S" pid="000">
+  <name>歴史を継ぐ者</name>
+  <detail>２周目のプレイを開始した！</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="000">
+  <name>みんなで温泉！</name>
+  <detail>全員の温泉イベントを見た！</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>大ダメージ！</name>
+  <detail>１撃で１００億のダメージを出した！</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>継がれる想い</name>
+  <detail>累計想いポイントが１０億を超えた！</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>トリリオン巨人形態撃破！</name>
+  <detail>トリリオン巨人形態を撃破した！</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>トリリオン邪竜形態撃破！</name>
+  <detail>トリリオン邪竜形態を撃破した！&#x0a;</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>トリリオン最終形態撃破！</name>
+  <detail>トリリオン最終形態を撃破した！</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>生命の煌き</name>
+  <detail>死に様スキルを全て使った！</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>一撃必殺！</name>
+  <detail>モクジンを１撃で倒した！</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>パッシブスキルコレクター</name>
+  <detail>パッシブスキルをいっぱい覚えた！</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>アクティブスキルコレクター</name>
+  <detail>アクティブスキルをいっぱい覚えた！</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="S" pid="000">
+  <name>最高の贈り物</name>
+  <detail>最も喜ぶプレゼントを渡した！</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="S" pid="000">
+  <name>プレゼントコレクター</name>
+  <detail>プレゼント図鑑をいっぱい埋めた！</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>魔刻印を刻みし者</name>
+  <detail>魔刻印スロットを全て開放した！</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>初めての外装破壊</name>
+  <detail>トリリオンの外装を破壊した！</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>武器を愛せし者</name>
+  <detail>武器を＋３０まで強化した！</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>魔鍛冶屋の常連</name>
+  <detail>武器を＋１０まで強化した！</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>お金大好き！</name>
+  <detail>１０万Ｇ貯めた！</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>スキル大好き！</name>
+  <detail>レベルアップするスキルのレベルを最高まで上げた！</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="000">
+  <name>魔王と共に歩む者</name>
+  <detail>親密度がＭＡＸになった！</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="B" pid="000">
+  <name>特別な修錬</name>
+  <detail>修錬「聖幻術・奇跡顕現」が開放された！</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>初めての修錬</name>
+  <detail>初めて修錬を行った！</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>初めてのFEVER！</name>
+  <detail>初めてFEVERが起こった！</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>初めての倍返し</name>
+  <detail>初めて倍返しが起こった！</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>初めての交流</name>
+  <detail>初めて交流を行った！</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>初めての号令</name>
+  <detail>初めて号令を行った！</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>初めての能力アップ</name>
+  <detail>初めて能力アップを行った！</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>初めての強化</name>
+  <detail>初めて武器の強化かスロット開放を行った！</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>初めてのプレゼント</name>
+  <detail>初めてプレゼントを渡した！</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>初めての撤退</name>
+  <detail>初めて撤退を行った！</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>初めての千刃の谷</name>
+  <detail>初めて千刃の谷に挑戦した！</detail>
+ </trophy>
+</trophyconf>

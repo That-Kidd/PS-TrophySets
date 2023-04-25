@@ -1,0 +1,176 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000770664095b30f42bf60c1d75dd010ed645dbec4aa310ab9b9956ba2ee18f9d4d737063966e3b2754de1b0311fab4c0e4de6a5908cb9cfcccde6ab74b6d41347cb0deb0e423b628240726677a97752dfcdc9c215bf513e7ccaa73f40dddb44c55e9d2b20e1886597ac92ec7037b591bde05d6df41745a9e389b7cf14e5f75ea45219bf631acb60663aa4c28575c25bdfd7d1a5547-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR11806_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>遙かなる時空の中で６ 幻燈ロンド</title-name>
+ <title-detail>遙かなる時空の中で６ 幻燈ロンドのトロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>伝説ノ神子</name>
+  <detail>すべてのトロフィーを獲得した</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>約束ノ会</name>
+  <detail>序章を終えた</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>復興ノ祭</name>
+  <detail>第一章を終えた</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>自働人形、来タル</name>
+  <detail>第二章を終えた</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>巡ル歯車</name>
+  <detail>第三章を終えた</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>神子トシテ</name>
+  <detail>第四章を終えた</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>運命ハ加速スル</name>
+  <detail>第五章を終えた</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>選択ノ時</name>
+  <detail>通常エンドを見た</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>未来ヲ包ムモノ</name>
+  <detail>有馬エンドを見た</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>夢ノ港</name>
+  <detail>ダリウスエンドを見た</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>廻ル恋ト夢</name>
+  <detail>コハクエンドを見た</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>根付ク愛</name>
+  <detail>秋兵エンドを見た</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>彷徨ウ星々</name>
+  <detail>ルードエンドを見た</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>フタリノ眼</name>
+  <detail>虎エンドを見た</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>希求</name>
+  <detail>九段エンドを見た</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>胸ニ宿ル正義</name>
+  <detail>村雨エンドを見た</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>命捧ゲテ</name>
+  <detail>萬エンドを見た</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="G" pid="000">
+  <name>新タナ幕開ケ</name>
+  <detail>大団円エンドを見た</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>主人公最終進化</name>
+  <detail>主人公の札を最終段階まで進化させた</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>有馬最終進化</name>
+  <detail>有馬の札を最終段階まで進化させた</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>ダリウス最終進化</name>
+  <detail>ダリウスの札を最終段階まで進化させた</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>コハク最終進化</name>
+  <detail>コハクの札を最終段階まで進化させた</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>秋兵最終進化</name>
+  <detail>秋兵の札を最終段階まで進化させた</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>ルード最終進化</name>
+  <detail>ルードの札を最終段階まで進化させた</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>虎最終進化</name>
+  <detail>虎の札を最終段階まで進化させた</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>九段最終進化</name>
+  <detail>九段の札を最終段階まで進化させた</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>村雨最終進化</name>
+  <detail>村雨の札を最終段階まで進化させた</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>萬最終進化</name>
+  <detail>萬の札を最終段階まで進化させた</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>四幻一燈討伐</name>
+  <detail>四幻一燈を倒した</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>桜花精討伐</name>
+  <detail>桜花精を倒した</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>彭侯討伐</name>
+  <detail>彭侯を倒した</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>羅刹女討伐</name>
+  <detail>羅刹女を倒した</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>猪魂討伐</name>
+  <detail>猪魂を倒した</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>鉄鼠討伐</name>
+  <detail>鉄鼠を倒した</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>人頭馬討伐</name>
+  <detail>人頭馬を倒した</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>滝夜叉討伐</name>
+  <detail>滝夜叉を倒した</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>巫蠱討伐</name>
+  <detail>巫蠱を倒した</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="S" pid="000">
+  <name>黒麒麟討伐</name>
+  <detail>黒麒麟を倒した</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="S" pid="000">
+  <name>知識ヲ極メシ者</name>
+  <detail>豆辞典をすべて収集した</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="S" pid="000">
+  <name>奥義ヲ極メシ者</name>
+  <detail>奥義をすべて習得した</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="G" pid="000">
+  <name>進化ヲ極メシ者</name>
+  <detail>最終進化札をすべて収集した</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="G" pid="000">
+  <name>時空ヲ旅スル者</name>
+  <detail>回想録をすべて収集した</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,96 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000acbe5b22ee4ee9a57a46277d38289b31f5034e0a684b3e2781ab7315f560f227797db6c79008cb36c52938d745c9ff6c09ed154c8cabe91b6ac7c388c54ec504d1c9cba622481b85fd566b38a24cd90fa0a7bf0f7a695df5423398f88ec1c833e4e600736b2bfb5071fa85e41f009eaac2672a612c10227b6d1a50d22db56fe10f2af368a6368d35a567dbc20368338d159a61ee-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR13660_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>NeverEnd</title-name>
+ <title-detail>NeverEnd</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>NeverEnd Platinum</name>
+  <detail>All NeverEnd trophies achieved!</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>First Blood</name>
+  <detail>Kill your first enemy</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Shopper</name>
+  <detail>Buy your first item</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Respawn</name>
+  <detail>First death</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>MiniBoss Slayer</name>
+  <detail>Kill your first mini boss</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>Costumer</name>
+  <detail>Buy all items</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>Halfway</name>
+  <detail>Finish the second quest</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>MiniBoss Slayer 2</name>
+  <detail>Kill every mini boss in one run</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>Regualr Costumer</name>
+  <detail>Collect all hats</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="G" pid="000">
+  <name>Konami code</name>
+  <detail>Secret Trophy</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>Boss Slayer</name>
+  <detail>Beat the game</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>Top 1%</name>
+  <detail>Complete the game with the stick</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>Kill the dummy</name>
+  <detail>Secret Trophy</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>Wizard Hat</name>
+  <detail>Find one elemental sword</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>Cap</name>
+  <detail>Walk through 100 rooms in one run</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>Sonic Hat</name>
+  <detail>Die in the first 10 seconds</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>Luffsen</name>
+  <detail>Buy a Bow and a Rod in one run</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="G" pid="000">
+  <name>Ranger Hat</name>
+  <detail>Kill 50 enemies with the bow</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>Beanie</name>
+  <detail>Finish the first quest</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="G" pid="000">
+  <name>Top Hat</name>
+  <detail>Get 20c in one run without the Rod</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="G" pid="000">
+  <name>Cardboard Box</name>
+  <detail>Walk into a room with 6 Zomborgs</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="G" pid="000">
+  <name>Boss Hat</name>
+  <detail>Kill the final Boss</detail>
+ </trophy>
+</trophyconf>

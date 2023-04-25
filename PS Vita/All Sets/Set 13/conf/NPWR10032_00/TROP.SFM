@@ -1,0 +1,216 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000125daa6f63fd6eb7f4ab12df5413cf464b2ab7cfa8fce0104b6c125e4d18e88f844881c9926dfb7388a90dedf867ab8f03482418ca3f7c965a85c858e688194d807a8a22ea40fc9b20a3dd9401cb7bfc22011fb9d1a50dbd83420352d5b587bff9b86c8e1323589b4c5612dd9b827aa74de716c0116c2bb62b288c2d800c002e855853730dc60ab9d798b98e283f7e809d284d4b-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR10032_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>サガ スカーレット グレイス</title-name>
+ <title-detail>サガ スカーレット グレイス</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>パーフェクトブリンガー</name>
+  <detail>全てのトロフィーを獲得した証</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>四つの軌道</name>
+  <detail>四人の主人公を使用しクリアした&#x0a;&#x0a;</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>ユラニウス・ウルピナの成長</name>
+  <detail>ウルピナでゲームをクリアした</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>レオナルドの探求</name>
+  <detail>レオナルドでゲームをクリアした</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>タリアの究明</name>
+  <detail>タリアでゲームをクリアした</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>バルマンテの断罪</name>
+  <detail>バルマンテでゲームをクリアした</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>仲間は多い方がいい</name>
+  <detail>仲間にできるすべての者を仲間にした</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>新たなる出会い</name>
+  <detail>初めて仲間がパーティに参加した</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>ユラニウス家の令嬢</name>
+  <detail>ウルピナを仲間にした</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="000">
+  <name>夢見る男</name>
+  <detail>レオナルドを仲間にした</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="000">
+  <name>魔女の血統</name>
+  <detail>タリアを仲間にした</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>首を洗って待て</name>
+  <detail>バルマンテを仲間にした</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="B" pid="000">
+  <name>草原の王</name>
+  <detail>エイディルを仲間にした</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="000">
+  <name>毒蛇の牙</name>
+  <detail>パルム侯を仲間にした</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="B" pid="000">
+  <name>最果ての狩人</name>
+  <detail>ティシサックを仲間にした</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>忠実なる門番</name>
+  <detail>カーンを仲間にした</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>二つの魂を操って</name>
+  <detail>ウルピナが二刀流を開眼した</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>壊れざるもの</name>
+  <detail>イムホキエルダムが崩壊した</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>火の山へ</name>
+  <detail>火山が噴火した</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>不吉な予感</name>
+  <detail>塔が倒壊した</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="000">
+  <name>UMA</name>
+  <detail>幻の動物ツチノコを捕えた</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>想いを心に刻んで</name>
+  <detail>アントニウスが死んでしまった</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="B" pid="000">
+  <name>何も出来なかった</name>
+  <detail>太后が死んでしまった</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>勇敢なのか無謀なのか</name>
+  <detail>野イチゴを五個食べた</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="000">
+  <name>栄光の大空へ</name>
+  <detail>空を飛んでみた</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="S" pid="000">
+  <name>君が、最強だ</name>
+  <detail>最強のファイアブリンガーを倒した</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>これからはおまえが武神だ</name>
+  <detail>マリガン神を倒した</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="B" pid="000">
+  <name>これからはあなたが魔神よ</name>
+  <detail>ヴァッハ神を倒した</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="B" pid="000">
+  <name>最速の証明</name>
+  <detail>１ターンで勝利した&#x0a;&#x0a;</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>心を一つに</name>
+  <detail>五人による連撃を成立させた&#x0a;</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>フィーバータイム</name>
+  <detail>１ターンで５回連撃が発動した&#x0a;</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>歴戦の勇者</name>
+  <detail>１００種の敵と戦った&#x0a;</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>殿堂入り</name>
+  <detail>１００回戦闘に勝利した</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>絆を力に</name>
+  <detail>１００回連撃が発動した</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>星神に愛されし者</name>
+  <detail>１００回恩寵が発動した</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>割り込みは、ダメ！</name>
+  <detail>５０回インタラプト技が発動した</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>蝶の舞、蜂の一撃</name>
+  <detail>５０回カウンター技が発動した</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="S" pid="000">
+  <name>もうやる事がありません！</name>
+  <detail>すべての技を使った</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="S" pid="000">
+  <name>誉めてくれてもいいんだぞ</name>
+  <detail>すべての術を使った</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="000">
+  <name>星神に仕える者</name>
+  <detail>すべての恩寵を発生させた</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="B" pid="000">
+  <name>最高の戦術家</name>
+  <detail>すべての陣形で戦って勝利した</detail>
+ </trophy>
+ <trophy id="041" hidden="yes" ttype="B" pid="000">
+  <name>まだ一つ目だ</name>
+  <detail>ひとつの技を究めた&#x0a;</detail>
+ </trophy>
+ <trophy id="042" hidden="yes" ttype="B" pid="000">
+  <name>やったね極めたよ</name>
+  <detail>ひとつの術を究めた</detail>
+ </trophy>
+ <trophy id="043" hidden="yes" ttype="B" pid="000">
+  <name>壮大なる道草</name>
+  <detail>すべての特産品と名産品を入手した</detail>
+ </trophy>
+ <trophy id="044" hidden="yes" ttype="B" pid="000">
+  <name>念願の火の武器</name>
+  <detail>火の五行武器を獲得&#x0a;</detail>
+ </trophy>
+ <trophy id="045" hidden="yes" ttype="B" pid="000">
+  <name>念願の水の武器</name>
+  <detail>水の五行武器を獲得</detail>
+ </trophy>
+ <trophy id="046" hidden="yes" ttype="B" pid="000">
+  <name>念願の土の武器</name>
+  <detail>土の五行武器を獲得</detail>
+ </trophy>
+ <trophy id="047" hidden="yes" ttype="B" pid="000">
+  <name>念願の金の武器</name>
+  <detail>金の五行武器を獲得</detail>
+ </trophy>
+ <trophy id="048" hidden="yes" ttype="B" pid="000">
+  <name>念願の木の武器</name>
+  <detail>木の五行武器を獲得</detail>
+ </trophy>
+ <trophy id="049" hidden="no" ttype="S" pid="000">
+  <name>武器マニアかな、もしかして</name>
+  <detail>５０種の武器を入手した</detail>
+ </trophy>
+ <trophy id="050" hidden="no" ttype="S" pid="000">
+  <name>そこまで防具で固めんでも</name>
+  <detail>５０種の防具を入手した</detail>
+ </trophy>
+ <trophy id="051" hidden="yes" ttype="B" pid="000">
+  <name>もっと歩きたかった</name>
+  <detail>エリアをすべて踏破した</detail>
+ </trophy>
+</trophyconf>

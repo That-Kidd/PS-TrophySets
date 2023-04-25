@@ -1,0 +1,48 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000005ea01cfb51da6aa81e118200f1d52ed4c29d9a2822af31b1ee41cd744f9498405c9224c2a4fff25e6af10fffbcbb612a9c7a3407edae8dc034fe4aafa0ad5ed523388332eb4da9fa8b5b2eafb5c84d415846a5eba2e060b1193f7b9069fdf1d8b66f307ca22d0a3f9f5a699ebd7b1c2720236833187820ddb2a1ec3ae6f7d820025cf22fed99fba708c3aa0df8f33043a6587d0f-->
+<trophyconf version="1.1" platform="psp2">
+ <npcommid>NPWR01874_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>TOP DARTS™</title-name>
+ <title-detail>Do you have what it takes to be Top of Your Game with TOP DARTS™!</title-detail>
+ <trophy id="000" hidden="no" ttype="G" pid="-1">
+  <name>League Beater</name>
+  <detail>Placed top of world class league</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="-1">
+  <name>TOP DARTS™!</name>
+  <detail>Medal darts for all games (any difficulty)</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="-1">
+  <name>Fully Stacked</name>
+  <detail>Completed Level 20 of Stack-Up</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>All Rounder</name>
+  <detail>Played through all games (result irrelevant)</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>180!</name>
+  <detail>Scored 180 with three darts during any Classic x01 game</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>First Dart</name>
+  <detail>Earned one medal dart (any game)</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>First Win</name>
+  <detail>Won first game</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Global Player</name>
+  <detail>Played every venue</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Your Dart</name>
+  <detail>Designed a dart</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>Snapper</name>
+  <detail>Captured image for avatar or photo board, or used video board</detail>
+ </trophy>
+</trophyconf>

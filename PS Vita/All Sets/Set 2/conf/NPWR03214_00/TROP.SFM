@@ -1,0 +1,136 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000ea80c5abffbcd5b30342f5045d24c612d0580db976a4c28832d5d3b57ac970d45a604e6118c51569c262ce33b9116e3446e72c844c5843ceacae4d85a3b819763a9dacacda658b75a6914301e63e949ccc98128875ebe71e96aa84bf7c14cb85756f666feb6d8d82783e242a511d9db9c400fac29604d816c19a1c8a63830e445a72abca401b6330ea102297a625b11c2e91b793-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR03214_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>城堡风暴</title-name>
+ <title-detail>城堡风暴 奖杯</title-detail>
+ <group id="001">
+  <name>从追放者变为救济者</name>
+  <detail>从追放者变为救济者奖杯</detail>
+ </group>
+ <group id="002">
+  <name>女帝</name>
+  <detail>女帝奖杯</detail>
+ </group>
+ <trophy id="000" hidden="no" ttype="G" pid="-1">
+  <name>满天星</name>
+  <detail>获得全部的星星，&#x0a;战役模式完成率达到100%。</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="-1">
+  <name>永远的和平？</name>
+  <detail>通关战役模式。</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="-1">
+  <name>升～～级</name>
+  <detail>在任意模式中，将士兵、发射物、魔法或奖励房间升级至最高等级。</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>宝石小偷</name>
+  <detail>在战役模式中解锁“驴子岛”。</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>挡路巨岩</name>
+  <detail>在战役模式中解锁“山岳小径”。</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>锤子满天飞</name>
+  <detail>在战役模式中解锁“诺斯海姆”。</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>屠龙者</name>
+  <detail>在任意模式中，用英雄打倒龙。</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>巨魔猎人</name>
+  <detail>在任意模式中，用英雄打倒巨魔。</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>控制场面</name>
+  <detail>完成5人以上的多重击倒。</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>纷纷倒下</name>
+  <detail>完成10人以上的连续击倒奖励。</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>大肆破坏</name>
+  <detail>用1发发射物破坏敌人3间房间。</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="-1">
+  <name>枪林枪雨</name>
+  <detail>在疯狂射击中发射30发以上的标枪。</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="-1">
+  <name>10次精准射击</name>
+  <detail>成功连续完成10次精准射击击倒。</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="-1">
+  <name>注意头上</name>
+  <detail>在任意模式中，利用敌方城堡的坠落物打倒一名敌人。</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>龙生龙，凤生凤</name>
+  <detail>已作为神秘骑士在国王杯锦标赛中获胜了。</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>白马王子</name>
+  <detail>在辉耀森林阻止全部攻击者。</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>营救公主大作战</name>
+  <detail>将公主从石之冠城市中救出。</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>城堡风暴航空国际线</name>
+  <detail>占领王家飞行场，准备飞往维京之地。</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>确保着陆地点</name>
+  <detail>压制维京之地的飞空艇起降所。</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="-1" gid="001">
+  <name>魔兽猎人</name>
+  <detail>打倒守护布拉特加德的魔兽。</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="-1" gid="001">
+  <name>王家的复兴</name>
+  <detail>打倒近卫兵战役的最终头目。</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="-1" gid="001">
+  <name>超级巨星</name>
+  <detail>获得近卫兵战役的全部星星。</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="-1" gid="002">
+  <name>救赎者</name>
+  <detail>冲破维京之地的禁锢。</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="-1" gid="002">
+  <name>这里是我的城镇！</name>
+  <detail>解放诺斯海姆。</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="-1" gid="002">
+  <name>投斧女子冠军</name>
+  <detail>在斗技场证明自己是出色的队长。</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="-1" gid="002">
+  <name>不速之客</name>
+  <detail>压制王家飞行场。</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="-1" gid="002">
+  <name>丢了王国的老人</name>
+  <detail>确保埃德加国王的安全。</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="S" pid="-1" gid="002">
+  <name>背叛者的宿命</name>
+  <detail>在石之冠打倒背叛者的军队。</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="S" pid="-1" gid="002">
+  <name>为了父亲</name>
+  <detail>打倒精英维京人战役的最终头目。</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="S" pid="-1" gid="002">
+  <name>百万星星</name>
+  <detail>获得精英维京人战役全部的星星。</detail>
+ </trophy>
+</trophyconf>

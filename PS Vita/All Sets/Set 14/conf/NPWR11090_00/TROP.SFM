@@ -1,0 +1,84 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000007ee149250d0abd03ff79c0bc8abcf10abc56362fc541ec74cbaa71a8c6420e00e0bd5e0aebfeab63142ab0917036b7c5cf87e9491bd4af07d24b7e9bc32f4e3efed90d1fa1117726daf269fa958ac8f3f3aa9375b6bfff072a700a9b0caed5612e55b2ac8892937e1649fdec5204d918e219d92d86de80846a855bf9986d68fdc284cff24f3214a6edde95f29e60e48b8652fa6a-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR11090_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>君を仰ぎ乙女は姫に</title-name>
+ <title-detail>『君を仰ぎ乙女は姫に』トロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>――今年の緑風祭の主役は君だ</name>
+  <detail>『君を仰ぎ乙女は姫に』を全てプレイしていただき、ありがとうございました</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>初選択</name>
+  <detail>最初の選択肢を選ぶ</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>プロフィールコレクター</name>
+  <detail>全員の自己紹介を見る</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="G" pid="000">
+  <name>ＣＧコレクター</name>
+  <detail>全てのイベントＣＧを見た</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="G" pid="000">
+  <name>ＢＧＭコレクター</name>
+  <detail>全てのＢＧＭを聴いた</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="S" pid="000">
+  <name>舞輝ルート</name>
+  <detail>舞輝ルートに入った</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="000">
+  <name>瞳ルート</name>
+  <detail>瞳ルートに入った</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>あやめルート</name>
+  <detail>あやめルートに入った</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>凛ルート</name>
+  <detail>凛ルートに入った</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>華菜ルート</name>
+  <detail>華菜ルートに入った</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>ノーマルルート</name>
+  <detail>ノーマルルートに入った</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>ＥＸルート</name>
+  <detail>ＥＸルートに入った</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="G" pid="000">
+  <name>聡君……！　またねっ……♪</name>
+  <detail>舞輝ルートを最後まで読んだ</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="G" pid="000">
+  <name>瞳はもう、幸せでいっぱいです…って…</name>
+  <detail>瞳ルートを最後まで読んだ</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="G" pid="000">
+  <name>あたしたちだから見つけられる幸せ、探していこうねっ</name>
+  <detail>あやめルートを最後まで読んだ</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="G" pid="000">
+  <name>大好きだよ……聡！</name>
+  <detail>凛ルートを最後まで読んだ</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="G" pid="000">
+  <name>愛しているぞ……聡！</name>
+  <detail>華菜ルートを最後まで読んだ</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="G" pid="000">
+  <name>俺の一番大切な家族が暮らす、この家を、な</name>
+  <detail>ノーマルルートを最後まで読んだ</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="G" pid="000">
+  <name>――その結末が、ハッピーエンドでありますように</name>
+  <detail>ＥＸルートを最後まで読んだ</detail>
+ </trophy>
+</trophyconf>

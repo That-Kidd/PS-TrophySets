@@ -1,0 +1,52 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000002f9a095c80400da38f9fe81928dd4073e9707016a2caa458f148ec6135a3935ea1e40914093edc6cbdef52c7c5996135f720eabad6fa1e73eb586c8d12b492a5587f403cad7ece2ad108af030c08b42058f7008e9a82b28a0c3c4d84b0ed7e57b87ce07895ad149c902025debd3e0f5c32362811600ea18e0f57a422f87177d48927d5f750a8ee66db0f2bf1db010f6d693b9e37-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR05633_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Murasaki Baby™</title-name>
+ <title-detail>Murasaki Baby™</title-detail>
+ <trophy id="000" hidden="yes" ttype="B" pid="-1">
+  <name>…Mommy?</name>
+  <detail>Complete the Prologue</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="-1">
+  <name>He wants to be left alone…</name>
+  <detail>Look at all the pictures in Tentacle Boy's home</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="S" pid="-1">
+  <name>You're free, Tentacle Boy!</name>
+  <detail>Free Tentacle Boy from his Tentacle Mask</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="-1">
+  <name>He was eaten alive!</name>
+  <detail>Look at all the pictures in Bunny Boy's home</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="S" pid="-1">
+  <name>You're free, Bunny Boy!</name>
+  <detail>Free Bunny Boy from the Giant Bunny</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="-1">
+  <name>She's a slave of her pretty hair!</name>
+  <detail>Look at all the pictures in Perm Girl's cave</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="-1">
+  <name>You're free, Perm Girl!</name>
+  <detail>Free Perm Girl from her hellish hair</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="-1">
+  <name>They can't get along…</name>
+  <detail>Unveil and look at all the pictures in the Twisted Twins' home</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="-1">
+  <name>You're free, Twisted Twins!</name>
+  <detail>Free the Twisted Twins by separating them</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="-1">
+  <name>…Mommy!</name>
+  <detail>Meet your Mommy</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="G" pid="-1">
+  <name>Murasaki Baby™</name>
+  <detail>Listen to the Murasaki Song</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,36 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000004872cefa5763a3526bf3674fd8629817b8ecc4f625c059f37d874353ff95b04d0fc04642a2c86355d46aebc1dd30b6035d6eb2dd4ee4d42423a7a82ed5278d03bf4a2bb5c8676f46b0efc966fa601bce5db32ea4076737988192a881b1cafe783b548efe12b77a80d8b9aca10c5a8b1a4ec136f4bd375cd3cd0d549330147146022590d811a2a33dd5f649380d672fcba0d27ac6-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR04075_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>天使憑きの少女</title-name>
+ <title-detail>『天使憑きの少女』トロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="S" pid="-1">
+  <name>第一章終了</name>
+  <detail>第一章が終了しました。</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="-1">
+  <name>第二章終了</name>
+  <detail>第二章が終了しました。</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="-1">
+  <name>第三章終了</name>
+  <detail>第三章が終了しました。</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="-1">
+  <name>第四章終了</name>
+  <detail>第四章が終了しました。</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="-1">
+  <name>通常ルート終了</name>
+  <detail>通常ルートが終了しました。</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>おまけシナリオ終了</name>
+  <detail>おまけシナリオが終了しました。</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="-1">
+  <name>並行ルート終了</name>
+  <detail>並行ルートが終了しました。</detail>
+ </trophy>
+</trophyconf>

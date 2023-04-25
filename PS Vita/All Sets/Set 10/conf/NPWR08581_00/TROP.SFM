@@ -1,0 +1,128 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000b3efbabc9f873dd21caefb9b0d83ea33546cb2aab042af4dddf228bb7bad55828a24a0620d3db01ba436b2bf3f61cd24e9be39be3d2e70410825d9313e108590ca67b657c97f00c889ba051c454a6531dde9e352f3f7ca05b1fa61d0fca8598b126e1ef8ebbf41dccdf1a82517a933dd5ebdfe0a639013f4c0e4ab466d739bd94a23fd3462692e9c45e5efcd6b83f1767ef27dbf-->
+<trophyconf version="1.1" platform="ps3,psp2,ps4" policy="large">
+ <npcommid>NPWR08581_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>ローグ・レガシー</title-name>
+ <title-detail>ローグ・レガシーのトロフィーセットです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>仕事恐怖症</name>
+  <detail>これ以外のトロフィーをすべて取得する</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>不完全恐怖症</name>
+  <detail>特性をもたない英雄を選択する</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>黄金愛好症</name>
+  <detail>金の宝箱を初めて開ける</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>重量恐怖症</name>
+  <detail>隠しクラスを最低1回使う</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>書物愛好症</name>
+  <detail>日記の最後のページを読む</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>生命恐怖症</name>
+  <detail>20回以上死亡する</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>変化愛好症</name>
+  <detail>ルーンのスロットすべてにルーンを装備する</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>道化愛好症</name>
+  <detail>ピエロのミニゲームのどちらかをクリアする</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>決断恐怖症</name>
+  <detail>屋敷ですべてのスキルを1ポイント以上習得する</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>破棄恐怖症</name>
+  <detail>設計図をすべて発見する（購入しなくてもいい）</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>知識愛好症</name>
+  <detail>ルーンをすべて発見する（購入しなくてもいい）</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>裸体恐怖症</name>
+  <detail>アイテムのスロットすべてにアイテムを装備する</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>財産恐怖症</name>
+  <detail>レベル50に到達する</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>魔法愛好症</name>
+  <detail>占い師のルーンを初めて発見する</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>睡眠恐怖症</name>
+  <detail>ゲームを20時間プレイする</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>眼球恐怖症</name>
+  <detail>ヘムシン城のボスを倒す</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>幽霊恐怖症</name>
+  <detail>アブハジアの森のボスを倒す</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="S" pid="000">
+  <name>火炎恐怖症</name>
+  <detail>マヤの塔のボスを倒す</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="S" pid="000">
+  <name>粘液恐怖症</name>
+  <detail>闇の領域のボスを倒す</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="G" pid="000">
+  <name>父親恐怖症</name>
+  <detail>ラスボスを倒す</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>動物恐怖症</name>
+  <detail>ミニボスを全員倒す</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="G" pid="000">
+  <name>双児恐怖症</name>
+  <detail>ゲームの2周目もクリアする</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="G" pid="000">
+  <name>親戚恐怖症</name>
+  <detail>兄弟で襲ってくるボスを倒す</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="S" pid="000">
+  <name>化学恐怖症</name>
+  <detail>商標登録済みの化合物を倒す</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="S" pid="000">
+  <name>骨子恐怖症</name>
+  <detail>4代目を倒す</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="S" pid="000">
+  <name>盲目恐怖症</name>
+  <detail>ドッペルゲンガーを倒す</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="S" pid="000">
+  <name>天体恐怖症</name>
+  <detail>小惑星群を倒す</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="G" pid="000">
+  <name>嘲笑愛好症</name>
+  <detail>裏切り者をあざ笑う</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="G" pid="000">
+  <name>死亡恐怖症</name>
+  <detail>アーキテクトを一度も使わずに死亡回数15回以内でゲームをクリアする</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="B" pid="000">
+  <name>ニワトリ恐怖症</name>
+  <detail>ニワトリを殺す</detail>
+ </trophy>
+</trophyconf>

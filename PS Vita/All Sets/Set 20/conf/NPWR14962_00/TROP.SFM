@@ -1,0 +1,164 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000007e64725042a144e2ccaf1d04922b60318696d01dc51a4cf68b0e1a0e100e872e9a2921e3aa14f2fecd1c4141ca6b4d9481716ed5f2d17a0643e7ecedf2af17c943ba254c785ce62e9434e733a8dd91b76ab83c9917ba8deea4f118cff3b9dc1dc9e3978b92f9fb866d195fe42d4613a3810f39fc573bc3fc46b0b6888f61d9f3e58a01d43bf9d0464400cc40df0ce832dcc0ee45-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR14962_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>魔法電腦戰機</title-name>
+ <title-detail>是魔法電腦戰機的獎盃套組</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>全通關</name>
+  <detail>已取得所有魔法電腦戰機的獎盃。</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>第一章　劇情通關</name>
+  <detail>STORY FIRST主線通關。</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>第二章　劇情通關</name>
+  <detail>STORY SECOND主線通關。</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>第三章　劇情通關</name>
+  <detail>STORY THIRD主線通關。</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>第四章　劇情通關</name>
+  <detail>STORY FOURTH主線通關。</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>第五章　劇情通關</name>
+  <detail>STORY FIFTH主線通關。</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>背景　蒐集完成</name>
+  <detail>個人卡片的背景已全數獲得。</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>稱號　蒐集完成</name>
+  <detail>個人卡片的稱號已全數獲得。</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>勛章　蒐集完成</name>
+  <detail>個人卡片的勛章已全數獲得。</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>重播　播放</name>
+  <detail>播放5次重播影片。</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>Thank you for playing</name>
+  <detail>啟動時間超過10小時。</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>有錢人</name>
+  <detail>獲得300000資源。</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>Virtual-On專家</name>
+  <detail>玩家等級超過20。</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="000">
+  <name>Virtual-On大師</name>
+  <detail>玩家等級超過50。</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>訓練　遊玩</name>
+  <detail>遊玩了TRAINING。</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>網路連線專家</name>
+  <detail>累積3000點等級點數。</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>任務專家</name>
+  <detail>獲得30000點任務分數。</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Voost・Weapon　大師</name>
+  <detail>已使用Voost・Weapon超過100次。</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>大量點數</name>
+  <detail>在戰鬥中累積獲得500點。</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>過度的殺傷力</name>
+  <detail>使敵人Wrecked取得1回合勝利。</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>完全比賽</name>
+  <detail>已達成在1回合內不被對手得到點數並獲得勝利。</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>完美勝利</name>
+  <detail>在RANK MATCH中擊破敵方取得1回合勝利。</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>逆轉勝利</name>
+  <detail>在RANK MATCH中HP比敵方低的狀態下以點數積分取勝。</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>網路連線新手</name>
+  <detail>在PLAYER ROOM進行10次戰鬥。</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>網路連線老手</name>
+  <detail>在PLAYER ROOM進行50次戰鬥。</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>協力遊玩</name>
+  <detail>遊玩了5次協力任務。</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>排名戰　初嚐勝果</name>
+  <detail>在RANK MATCH中獲得1次戰鬥勝利。</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="S" pid="000">
+  <name>排名戰　熟練者</name>
+  <detail>在RANK MATCH中獲得10次戰鬥勝利</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>標準戰鬥　高分</name>
+  <detail>已在任務的標準戰鬥中不受損傷就通關。</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>挑戰戰鬥　高分</name>
+  <detail>已在任務的挑戰戰鬥中一次也沒讓對手取得回合勝利就通關。</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>殊死戰模式　高分</name>
+  <detail>已在任務的殊死戰模式中不受損傷就破壞敵方。</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>隨機鏡像戰鬥　高分</name>
+  <detail>已在任務的隨機鏡像戰鬥中於倒數60秒內通關。</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>街機戰鬥　高分</name>
+  <detail>已在任務的街機戰鬥中以不進行調校的狀態下通關。</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>BOSS戰　高分</name>
+  <detail>已在任務的BOSS戰中不進行中途維修就通關。</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>毀滅模式　高分</name>
+  <detail>已在任務的毀滅模式中於30計數之內通關所有WAVE。</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>爆裂・代碼　高分</name>
+  <detail>在協力任務的爆裂・代碼中於不讓對手得分的狀態下通關。</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>致命攻擊　高分</name>
+  <detail>在MISSION的致命攻擊中於時間截止前存活的狀態下通關。</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="S" pid="000">
+  <name>任務　全通關</name>
+  <detail>單人任務與協力任務全部通關。</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="G" pid="000">
+  <name>任務　全達成</name>
+  <detail>所有任務皆以S等級通關。</detail>
+ </trophy>
+</trophyconf>

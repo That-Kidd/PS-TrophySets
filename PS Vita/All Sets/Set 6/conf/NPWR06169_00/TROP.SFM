@@ -1,0 +1,164 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000075c8865f753280b7a0d7fe031a5ccc2f46675b42b999865d69e3f6c5908c1bb4ac696534a84942f24b59a94f656c850dd30d36c8620339f77dc4ce57b7271ba02fc9244b40fba79282784a3499c22956e2fb6682e3cd5f544e993d13088026844dc738b3c3941c64ed06df0b621dbc26f5833323f52ab6452784fbb7118ce9e452e93dcf7b628efb4205e112b57b51f7fbf974ea-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR06169_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>신차원아이돌 넵튠 PP</title-name>
+ <title-detail>신차원아이돌 넵튠 PP</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>퍼펙트 프로듀서</name>
+  <detail>모든 트로피를 획득했습니다.</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="G" pid="000">
+  <name>넵튠 마스터</name>
+  <detail>넵튠의 이벤트를 컴플리트했습니다.&#x0a;「나의 이벤트를 컴플리트한 것 같군……! 허나 곧 제2, 제3의 숨겨진 이벤트가……!&#x0a; 또 나오고 그러진 않아, 미안.&#x0a; 넌 끝까지 해낸 거야. 수고했어! 정말 고마워!!」</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="G" pid="000">
+  <name>느와르 마스터</name>
+  <detail>느와르의 이벤트를 컴플리트했습니다.&#x0a;「흐, 흥. 열심히 했나 보네.&#x0a; 조금은 인정해줄 수도 있어. …조금뿐이니까! 착각하진 말아줘」</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="G" pid="000">
+  <name>블랑 마스터</name>
+  <detail>블랑의 이벤트를 컴플리트했습니다.&#x0a;「덕분에 내 이벤트도 컴플리트네. 네가 이렇게 유능한 줄은 몰랐어. 르위의 차기 교주로도 생각해둘게」</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="G" pid="000">
+  <name>벨 마스터</name>
+  <detail>벨의 이벤트를 컴플리트했습니다.&#x0a;「이렇게까지 게임을 즐겨주셔서 감개무량이에요.&#x0a; 긴 시간이었지만, 만족하셨나요?&#x0a; 앞으로도 잘 부탁드리겠어요. 자·기·야♪」</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="S" pid="000">
+  <name>REAL 플라네튠</name>
+  <detail>넵튠의 TRUE 엔딩을 봤습니다.&#x0a;「아침밥은 마음에 들었어?」</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="000">
+  <name>REAL 라스테이션</name>
+  <detail>느와르의 TRUE 엔딩을 봤습니다.&#x0a;「키스 마크가 생겨있네」</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>REAL 르위</name>
+  <detail>블랑의 TRUE 엔딩을 봤습니다.&#x0a;「대답을 기다릴게」</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>REAL 린박스</name>
+  <detail>벨의 TRUE 엔딩을 봤습니다.&#x0a;「오늘은 어디로 갈까요?」</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>러브러브 넵튠</name>
+  <detail>넵튠과의 애정도가 MAX가 되었습니다.&#x0a;「우웃, 가슴이 두근거리기 시작했어……!」</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>사랑해줘 느와르</name>
+  <detail>느와르와의 애정도가 MAX가 되었습니다.&#x0a;「……뭘까, 이 기분……」</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>사랑하는 블랑</name>
+  <detail>블랑과의 애정도가 MAX가 되었습니다.&#x0a;「나, 얼굴이 빨개. 열이라도 있는 걸까……」</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>푹 빠진 벨</name>
+  <detail>벨과의 애정도가 MAX가 되었습니다.&#x0a;「설마 현실의 사랑에 빠져버리다니……!」</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>깨작깨작 넵튠</name>
+  <detail>넵튠의 GOOD 엔딩을 봤습니다.&#x0a;「GOOD 엔딩 도달 축하해―! 앞으로도 즐겨줘!」</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>그럭저럭 느와르</name>
+  <detail>느와르의 GOOD 엔딩을 봤습니다.&#x0a;「결말은 또 있어. 당신의 눈으로 확인해줘」</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="S" pid="000">
+  <name>고만고만 블랑</name>
+  <detail>블랑의 GOOD 엔딩을 봤습니다.&#x0a;「일단은 합격점이라고 할 수 있겠네. 여기서 만족해선 안 돼」</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="S" pid="000">
+  <name>그냥저냥 벨</name>
+  <detail>벨의 GOOD 엔딩을 봤습니다.&#x0a;「수고하셨습니다! 앞으로도 잘 부탁해요!」</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>대실망 넵튠</name>
+  <detail>넵튠의 BAD 엔딩을 봤습니다.&#x0a;「뭐, 이런 거겠지. 어쩔 수 없네……」</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>흐리멍덩 느와르</name>
+  <detail>느와르의 BAD 엔딩을 봤습니다.&#x0a;「내 말을 안 들으니까 이렇게 돼버리는 거야!」</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>부글부글 블랑</name>
+  <detail>블랑의 BAD 엔딩을 봤습니다.&#x0a;「이제 됐어. 당분간 내버려둬」</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="000">
+  <name>축 처진 벨</name>
+  <detail>벨의 BAD 엔딩을 봤습니다.&#x0a;「사람에겐 적성이란 게 있는 거군요……」</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>넵튠 기동</name>
+  <detail>게임 스타트!</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>잘나가는 아이돌</name>
+  <detail>곡이 1위로 차트에 올라갔습니다.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>네가 No.1이다</name>
+  <detail>쉐어 1위가 되었습니다.</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>아이돌이랍니다</name>
+  <detail>처음으로 영업 활동을 했습니다.</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>원투!</name>
+  <detail>처음으로 레슨을 했습니다.</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>퍼스트 라이브</name>
+  <detail>처음으로 라이브를 했습니다.</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>이사</name>
+  <detail>사무소를 이전했습니다.</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>잘하고 있지?</name>
+  <detail>놀러 갔습니다.</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>여신후보생 등장!</name>
+  <detail>동생들에게 맞았습니다.</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>아이돌의 벽</name>
+  <detail>시련을 극복할 수 있을 것인가…….</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>코디네이터</name>
+  <detail>모든 코스튬과 액세서리를 입수했습니다.</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>MIRAINFINITY♪</name>
+  <detail>모든 곡을 마스터했습니다.</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>여신 듀오 탄생</name>
+  <detail>처음으로 듀오를 결성했습니다.</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>여신 트리오 탄생</name>
+  <detail>처음으로 트리오를 결성했습니다.</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>챌린저 혼</name>
+  <detail>라이브를 50회 했습니다.</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>라이브의 달인</name>
+  <detail>라이브에서 최고 랭크를 획득했습니다.</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>캐릭터를 처음 터치☆</name>
+  <detail>캐릭터를 처음 터치했습니다.</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>다시 만났어요</name>
+  <detail>뷰어모드에서 모든 캐릭터를 등장시켰습니다.</detail>
+ </trophy>
+</trophyconf>

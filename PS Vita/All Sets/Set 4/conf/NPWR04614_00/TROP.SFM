@@ -1,0 +1,92 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000203ca68b83efbdd2ca1aa5f7384f74c782fb1fc29810fc8b0dedcdcf988ef5d4c6363465db0d849ab289562944447faf08abe7f4911f1748474450055faca5d6b6024712a2c279b8b04312695a0c7c3783edea8b04d612bc3005d00ab338b46df9eae918feeb9cb7232d92a93f25ddb83e01f813350200e397f528d72fc765b62ad9ed4e77dec920b467b47ff385068e0f0ae593-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR04614_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Legends of War</title-name>
+ <title-detail>Trophies of Legends of War</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Legend of War</name>
+  <detail>Complete all trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>New recruit!</name>
+  <detail>Complete tutorial</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>First blood!</name>
+  <detail>Complete first mission (Campaign Mode)</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Specialist Infantry</name>
+  <detail>Recruit first bazooka (Campaign Mode)</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>Retrained!</name>
+  <detail>Make first upgrade (Campaign Mode)</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>Armored support</name>
+  <detail>Recruit first tank (Campaign Mode)</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>Destroyer!</name>
+  <detail>Destroy 50 German units (Campaign Mode)</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>Battle Hardened Recruit</name>
+  <detail>Complete first operation (Campaign Mode)</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>Skilled warrior</name>
+  <detail>Complete second operation (Campaign Mode)</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>Assassin!</name>
+  <detail>Kill 15 German soldiers with knife (Campaign Mode)</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>Heroic</name>
+  <detail>Get 5 heroic victories (Campaign Mode)</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>Their worst nightmare!</name>
+  <detail>Destroy 100 German units (Campaign Mode)</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>Air Support</name>
+  <detail>Recruit first aircraft (Campaign Mode)</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="000">
+  <name>Inspirational General</name>
+  <detail>Max out any of Patton's Skills (Campaign Mode)</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="000">
+  <name>Full army!</name>
+  <detail>Complete the Third Army (Campaign Mode)</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="G" pid="000">
+  <name>Combat veteran</name>
+  <detail>Complete third operation (Campaign Mode)</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="G" pid="000">
+  <name>War Hero</name>
+  <detail>Destroy 200 German units (Campaign Mode)</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="G" pid="000">
+  <name>Weapons Tech</name>
+  <detail>Unlock all types of units (Campaign Mode)</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="G" pid="000">
+  <name>Victory!</name>
+  <detail>Complete the game (Campaign Mode)</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="G" pid="000">
+  <name>Heroic Leader</name>
+  <detail>Get 10 heroic victories (Campaign Mode)</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="G" pid="000">
+  <name>Supreme commander</name>
+  <detail>Complete fourth operation without casualties (Campaign Mode)</detail>
+ </trophy>
+</trophyconf>

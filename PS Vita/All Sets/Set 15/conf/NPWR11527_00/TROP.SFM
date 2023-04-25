@@ -1,0 +1,184 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000004ee53533d9061144e60c9796c6818152a33107d26676e33e57289390dc76a45263b864663176d1172e5baf063f603fdba31d96eaabd4ceb4a72d73b92aa11e5b3c9f33484cb22ef26e8f5c5efffd8931d63966f0271e38bc16bfa187a93e8dc697e343528e1cd1ebd4121fb7a2e781915574e368d2af6caf2996000afd62c7bf4c56197672dfee52ab958f9c26d60f2f2572c936-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR11527_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>プリンセスは金の亡者</title-name>
+ <title-detail>プリンセスは金の亡者のトロフィーセットです</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>プリンセスは金の亡者</name>
+  <detail>[到達]全てのトロフィーを入手</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>幹部A、お城の鳥ドラゴン</name>
+  <detail>[シナリオ]ホークラゴンを撃破した</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>幹部B、森の子育て蛇人</name>
+  <detail>[シナリオ]ナーガキングを撃破した</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>幹部C、冷窟の出世頭</name>
+  <detail>[シナリオ]ウーズを撃破した</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>幹部D、炎窟の大蛇</name>
+  <detail>[シナリオ]ウロドロスを撃破した&#x0a;</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>大幹部、爆弾魔</name>
+  <detail>[シナリオ]ドラゴンボマーを撃破した</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>お頭ドラゴローン</name>
+  <detail>[シナリオ]ドラゴローンを撃破した</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>銭からの離反</name>
+  <detail>[シナリオ]銭神を撃破した</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>怒れる銭のカミさん</name>
+  <detail>[シナリオ]カミさんを撃破した</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>おわりのはじまり</name>
+  <detail>[シナリオ]エンディングを見る</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>王国大復活！</name>
+  <detail>[シナリオ]王国民1000匹以上でエンディングを見る</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>プリンセスの黄金道・完</name>
+  <detail>[シナリオ]ゴールドダンジョンクリア</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>ジャイアントキリングしたったわー</name>
+  <detail>[テクニック]初めてのLサイズモンスターを倒した</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>金で心も買えますわ！</name>
+  <detail>[テクニック]初めてのLサイズモンスターの買収に成功</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>黄金色のお菓子どす</name>
+  <detail>[テクニック]初めてのMサイズモンスターの買収に成功</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>ワシにとっちゃ端金やで</name>
+  <detail>[テクニック]初めてのSサイズモンスターの買収に成功</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>人生最後に物言うんは金ですわ</name>
+  <detail>[テクニック]初めての銭奇跡発動</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>奇跡も金次第ってことやね！！</name>
+  <detail>[テクニック]全ての銭奇跡系統を発動させた</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>流石お嬢はん！コンボ達成やー</name>
+  <detail>[テクニック]プリンセスで30ブレイク達成</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="000">
+  <name>ウチのコンボもイケてるやろ？</name>
+  <detail>[テクニック]イザベラで30ブレイク達成</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>竜は転がしてなんぼや！</name>
+  <detail>[討伐]竜系モンスターを100体倒した</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>ハイパーカルシウムタイムや</name>
+  <detail>[討伐]アンデット系モンスターを100体倒した</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>人ちゃうで、ただのモンスターやで</name>
+  <detail>[討伐]人型系モンスターを100体倒した</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>なんぼでもムシったるど</name>
+  <detail>[討伐]植物系モンスターを100体倒した</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>懐かん獣はいてもうたれ</name>
+  <detail>[討伐]獣系モンスターを100体倒した</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>飛んで火に居る～やな！</name>
+  <detail>[討伐]昆虫系モンスターを100体倒した</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>合計100トン</name>
+  <detail>[討伐]ファットラゴンを25体撃破&#x0a;</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>鎧剥いて質入れたるで</name>
+  <detail>[討伐]鎧竜剣士を25体撃破&#x0a;</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>お前ら図体だけやん</name>
+  <detail>[討伐]ドラゴンゾンビを25体撃破&#x0a;</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>銭は天下のまわりもん</name>
+  <detail>[収集]王国資産総額10000000達成</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>銭の魔力にドラゴンもイチコロや</name>
+  <detail>[収集]竜系モンスターを50体買収に成功</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>地獄の沙汰も金次第</name>
+  <detail>[収集]アンデット系モンスターを50体買収に成功</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>人間は簡単やからな</name>
+  <detail>[収集]人型系モンスターを50体買収に成功</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>金でコヤシ買うんかい</name>
+  <detail>[収集]植物系モンスターを50体買収に成功</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>銭さえあれば虎も犬コロ同然やで</name>
+  <detail>[収集]獣系モンスターを50体買収に成功</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>これがホンマのコガネムシや</name>
+  <detail>[収集]昆虫系モンスターを50体買収に成功</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>鬼に金棒</name>
+  <detail>[収集]全ての武具を入手</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="S" pid="000">
+  <name>宝は全てお嬢はんのもんや</name>
+  <detail>[収集]宝箱から全ての銭神像を入手</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="S" pid="000">
+  <name>この世の全てがお嬢はんの子分ですわ</name>
+  <detail>[収集]全種類のモンスターを買収に成功</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="S" pid="000">
+  <name>お前の物もお嬢はんのもんや</name>
+  <detail>[収集]全レリックの買収に成功</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="S" pid="000">
+  <name>銭神はんのありがたい像でっせ</name>
+  <detail>[収集]王国工房で全種類の銭神像を作成する</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="B" pid="000">
+  <name>今日から超お嬢はんや</name>
+  <detail>[強化]初めてのスキル取得</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="B" pid="000">
+  <name>もう超超お嬢はんやで</name>
+  <detail>[強化]プリンセスを最大まで強化した</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="B" pid="000">
+  <name>超イザベラはんでんな</name>
+  <detail>[強化]イザベラを最大まで強化した</detail>
+ </trophy>
+</trophyconf>

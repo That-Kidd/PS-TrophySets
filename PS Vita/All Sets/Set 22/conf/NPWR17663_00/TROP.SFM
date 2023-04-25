@@ -1,0 +1,56 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000001251cee6caa5bc0c521ce2c3450fc1a7e837562b3680a5fc7664c87b3019d07712c78de396a832418d6d866238082cfbc196d05978adc4b2ce436eb0a6738646f79793d0899749255479ee8731bc919e57df9860a64df8cef0a0c7715619a8b32e5f6df073b6b9d99fb5ada511a2d8e78f0a114f399bf1b8109212b1194bd1169c8eb3cf1aa7f5740bdb2ce0ae8a5f41d760d29-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR17663_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>A Winter's Daydream</title-name>
+ <title-detail>A Winter's Daydream</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>A Winter's Daydream Platinum</name>
+  <detail>Good job! Completed all tasks!</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>Start of a journey</name>
+  <detail>Return home</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>Present for you</name>
+  <detail>Receive a gift from your little sister</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>Magical transformation</name>
+  <detail>Witness something incredible</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>Sweet treat</name>
+  <detail>Watch your grandmother sample a cute dessert</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>Frozen tears</name>
+  <detail>When things don't go according to plan...</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>Two hearts beating</name>
+  <detail>Preside over a tearful reunion</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>Fit for a princess</name>
+  <detail>Repair your relationship with your little sister</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>Bus ride</name>
+  <detail>Take a bus ride</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>Antiques shop</name>
+  <detail>Visit antiques shop</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>Credits</name>
+  <detail>Got to the credits</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>End of the story</name>
+  <detail>Finish reading</detail>
+ </trophy>
+</trophyconf>

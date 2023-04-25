@@ -1,0 +1,108 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000003f888e5ea83a67d027613f83b16223f29a2f735e4ba0b6b68702964bc38765223da440573f3503d6a2f77b546fe4bc6bd3cc99b9aa2c6ea0e45ff7006f62976e54ebd25108e050cd7e16abb87375c63a9684a9fa2fbd6e376d48e769bf2f37b616542c1e89bf35f05eac345989fa2c15a6b65637a4f089c40c9f5d428825deaaf951c36d41ee045462f68c2ff5a3865118caa157-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR06108_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>htoL#NiQ -ホタルノニッキ-</title-name>
+ <title-detail>htoL#NiQ ‐ホタルノニッキ‐のトロフィーセットです</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>プラチナトロフィー</name>
+  <detail>全てのトロフィーを取得した！&#x0a;おめでとう！！</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>チャプター1クリア</name>
+  <detail>チャプター1をクリアした</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="S" pid="000">
+  <name>チャプター2クリア</name>
+  <detail>チャプター2をクリアした</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="S" pid="000">
+  <name>チャプター3クリア</name>
+  <detail>チャプター3をクリアした</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="S" pid="000">
+  <name>チャプター4クリア</name>
+  <detail>チャプター4をクリアした</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="G" pid="000">
+  <name>ミオンのおしおき</name>
+  <detail>ゲームをクリアした</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="G" pid="000">
+  <name>逃走のプロ</name>
+  <detail>1-BOSSをステージ開始から一度も死亡せずクリア</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="G" pid="000">
+  <name>危険な餌やり</name>
+  <detail>2-BOSSを爆薬の爆発回数3回以内でクリア</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="G" pid="000">
+  <name>ごはんはおあずけ</name>
+  <detail>3-BOSSに一度も再生させずにクリア</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="G" pid="000">
+  <name>運も実力のうち？</name>
+  <detail>4-BOSSのクイズに全問正解</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="G" pid="000">
+  <name>メモリーズ</name>
+  <detail>全ての記憶のカケラを集める</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>他にやることないもん</name>
+  <detail>1-1を1分20秒以内にクリア</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>好奇心はネコを殺す</name>
+  <detail>1-2の廃液に触れてみる</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>思い出の品…？</name>
+  <detail>1-3でぬいぐるみを全て集めてからクリア</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>頭脳派</name>
+  <detail>2-1をレバーの操作回数4回以内でクリア</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>お急ぎですか？</name>
+  <detail>2-2で迷路地帯をスイッチを踏んでから60秒以内で突破</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>精神統一</name>
+  <detail>2-3でホタルが通る迷路地帯を2分10秒以内に突破</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>ふわふわ空中散歩</name>
+  <detail>3-1前半の空中浮遊地帯を一度も着地せずに突破</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>ロマンチスト</name>
+  <detail>3-2で月を眺める</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>これで我慢してね</name>
+  <detail>3-3でカゲオオハシにタネを食わせる</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>頭脳派2</name>
+  <detail>4-1を扉を開ける回数18回以内でクリア</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>ザコキラー</name>
+  <detail>4-2を動くリフト地帯のカゲザコを全て倒してクリア</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>土管の主</name>
+  <detail>4-3を全ての土管を通過したことがある状態でクリア</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>不屈の精神</name>
+  <detail>10回死亡した</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="S" pid="000">
+  <name>不屈の魂</name>
+  <detail>100回死亡した</detail>
+ </trophy>
+</trophyconf>

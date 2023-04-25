@@ -1,0 +1,68 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000e0545a479f320d4bccf2cee79acd9202fab40a17b2b89aa452fba0ac767c7ab4bed4fa61c3bf0d5b6e48a1e3c1d1a1da511e9ea71ddbbb40ace1f11dd13bb7c290ad4de5c6386472ec4b43bf952b97ddf2c8f5bf99f17cb858e2c86d7299a343bf38535e796caa7e8f3f07a092bc13b2a01c5b1725cd83892dc0241a3481968eb0bc159632f296ce55dbd6dd6a74ff62a9fbdaa2-->
+<trophyconf version="1.1" platform="psp2">
+ <npcommid>NPWR01851_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>StarDrone Extreme</title-name>
+ <title-detail>The shining trophies galore!</title-detail>
+ <trophy id="000" hidden="no" ttype="G" pid="-1">
+  <name>Medalist</name>
+  <detail>Got awarded with at least one medal on every level.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>First blood!</name>
+  <detail>Destroyed an enemy Creeper for the first time.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Vibemaster destroyer</name>
+  <detail>Destroyed the Vibemaster boss.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Rocket Kill!</name>
+  <detail>Destroyed any enemy with a rocket.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Turret destroyer</name>
+  <detail>Destroyed a G-noid's turret.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Raging drone!</name>
+  <detail>Wiped out 10 enemies in Comet Rush mode.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Passed 10 levels!</name>
+  <detail>Passed 10 levels!</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Passed 20 levels!</name>
+  <detail>Passed 20 levels!</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Passed 30 levels!</name>
+  <detail>Passed 30 levels!</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>Passed 40 levels!</name>
+  <detail>Passed 40 levels!</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="-1">
+  <name>Game Finished!</name>
+  <detail>Passed all game levels!</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="-1">
+  <name>Lost in space..</name>
+  <detail>Lost in space 3 times...</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="B" pid="-1">
+  <name>I got the powah!</name>
+  <detail>Used every power-up: Berserk, Magnet and Invisibility.</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="-1">
+  <name>Epic fail!</name>
+  <detail>Failed to complete a level in 20 attempts.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="-1">
+  <name>New Hope</name>
+  <detail>Let's rock!</detail>
+ </trophy>
+</trophyconf>

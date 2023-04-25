@@ -1,0 +1,48 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000a1ecab474ec674345016e0ade58021a04f8fe8e65f66bb2235bb569b18dbae8ce6086606562cb6d56c5fb2675bd89a6bd885dbe67f15503ac682aa9290b7b9c4b9ee79fa3e503a74b735b44acb5822fb8758cf285fd40c100cf1f6d204fe538c523d4d60c8847c7b3520f287fa6c31ff02d105038b64fdfb6a06d07195d68a38ffffc3593b84f3570d743d089bf5e12ff7e1fad7-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="small">
+ <npcommid>NPWR13112_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Active Soccer 2 DX</title-name>
+ <title-detail>Active Soccer 2 DX</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Kick Off!</name>
+  <detail>Play first match</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="-1">
+  <name>Active Soccer 2 DX addicted</name>
+  <detail>Play at least 50 match</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="-1">
+  <name>Top scorer</name>
+  <detail>Score at least 100 goals!</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="-1">
+  <name>Active Soccer 2 DX Master</name>
+  <detail>Win at least 50 match!</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Hat trick!</name>
+  <detail>Score at least 3 goals in a match</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="-1">
+  <name>Show time</name>
+  <detail>Score one overhead kick goal</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>The wall</name>
+  <detail>Do not concede a goal in a match</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Fair play!</name>
+  <detail>Do not commit fouls in a match</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>The manager</name>
+  <detail>Start a career</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="-1">
+  <name>The champion</name>
+  <detail>Win a trophy in career mode</detail>
+ </trophy>
+</trophyconf>

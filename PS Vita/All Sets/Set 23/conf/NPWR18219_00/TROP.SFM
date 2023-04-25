@@ -1,0 +1,96 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000042a5e8533fc15ee6e0d2b0a45e9f81a5d44820a4c4e72a232b2ec020369541f8f13a0d35e47880497e6a1dc9f68f76c04fb98b655d9869e7a0eeb35c7790d5e93182391a3e40a48effd89e0e769dc4099aafdc847e477196fda0a2ec44769bd1647906857a0b2ee4c4b5351c6f5022e4abfe1ff3bfdf7ee789cfe9a1b9abc2dd91987a4af163c22aa8900ed2cd9a73e7fdf7662c-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR18219_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Warlock's Tower</title-name>
+ <title-detail>Warlock's Tower</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Platinum mailman</name>
+  <detail>Get all the trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Talked to the Warlock</name>
+  <detail>Talk to the Evil Warlock for the first time</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Talked to Jess</name>
+  <detail>Talk to Jess for the first time</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Reached the Factory</name>
+  <detail>Reach the game's second world</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>Reached the Warehouse</name>
+  <detail>Reach the game's third world</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>Reached the Library</name>
+  <detail>Reach the game's fourth world</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>Reached the Chambers</name>
+  <detail>Reach the game's last world</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>Talked to the Hero</name>
+  <detail>Talk to Lenda do Herói's Hero</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>Talked to Todd Torial</name>
+  <detail>Talk to Puzzle Depot's Todd Torial</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>Talked to Racketboy</name>
+  <detail>Talk to the Racketboy himself</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>Talked to Rubick</name>
+  <detail>Talk to Möira's Rubick</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>Talked to Kim</name>
+  <detail>Talk to Keen's Kim</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>Got the Magic Flag</name>
+  <detail>Get the Magic Flag artifact</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>Met the Zombie</name>
+  <detail>Play a stage where there's a Zombie</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>Met the Slime</name>
+  <detail>Play a stage where there's a Slime</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="G" pid="000">
+  <name>Met the Fleye</name>
+  <detail>Play a stage where there's a Fleye</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="G" pid="000">
+  <name>Completed the Dungeon</name>
+  <detail>Beat all Dungeon stages</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="G" pid="000">
+  <name>Completed the Factory</name>
+  <detail>Beat all Factory stages</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="G" pid="000">
+  <name>Completed the Warehouse</name>
+  <detail>Beat all Warehouse stages</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="G" pid="000">
+  <name>Completed the Library</name>
+  <detail>Beat all Library stages</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="G" pid="000">
+  <name>Completed the Chambers</name>
+  <detail>Beat all Chambers stages</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="G" pid="000">
+  <name>Beat the Game</name>
+  <detail>Finish the game</detail>
+ </trophy>
+</trophyconf>

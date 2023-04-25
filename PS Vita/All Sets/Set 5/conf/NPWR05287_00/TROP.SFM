@@ -1,0 +1,44 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000067a0763c1d906a8d4ae5cf79a3abef889cb0567b330d540ba3fa6abc85fc0b9a0cd8765fc52c0edacb6e49f3d31f9207aa5e2fea5cd93bfe5df24daba50759cf6f163fb7b4d61e60439d7d0a733e8219fdec5c95fc38cf4f360937b0990cb715b6513c9f45491bab8d31e1a468acf3de99867525f4bf3ee08240bdf645b71d4869a87f8ac2db4942ed7282b278fc60aace8946e7-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="small">
+ <npcommid>NPWR05287_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Blast 'Em Bunnies</title-name>
+ <title-detail>Blast 'Em Bunnies</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Craftyshot</name>
+  <detail>Destroy a Blocker's shield then shoot its bomb.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Keepin' it cool</name>
+  <detail>Last 2 minutes without your weapon overheating.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Getting my fix</name>
+  <detail>Complete 10 Normal Missions.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>That's Normal?</name>
+  <detail>Pass Survival: Normal Mode</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Ouch they hurt!</name>
+  <detail>Die from a final hit from each bunny type.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="-1">
+  <name>All Nighter</name>
+  <detail>Last 6 minutes without dying.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="-1">
+  <name>Workin' 9-5</name>
+  <detail>Complete 10 Daily Missions.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="-1">
+  <name>A &lt;3 supreme!</name>
+  <detail>Purchase all the hearts.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="-1">
+  <name>Survivor!</name>
+  <detail>Survive 30 Very Hard Mode Waves.</detail>
+ </trophy>
+</trophyconf>

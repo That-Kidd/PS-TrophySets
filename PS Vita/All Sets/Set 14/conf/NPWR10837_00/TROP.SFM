@@ -1,0 +1,80 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000003b571cd3ad3ecd8eb1346b7858d716986e98ee048e8db182b3da130b4d5233a1cb398b8a731009b81c583ab9605d6667821a6945c74dd944d0f799c2eba576cc3722d1199fd50f415c0d8cb869ade6fdf0cf8b6a2f5a8ae9bb48c69a86722a91a51e8a9f90c29a5ac7e8ba4fc9b5be6a10a45597d1e8089acdc38e567b979463c7e60efa0529d9eaaa6bab6d4bbc7ac24777f4be-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR10837_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Gem Smashers™</title-name>
+ <title-detail>Trophy Set for Gem Smashers™</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Gem Smashers Lover</name>
+  <detail>Obtained all trophies.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>Gem Smasher Extraordinaire</name>
+  <detail>Complete the single player story mode and save the world.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>That was quick</name>
+  <detail>Clear a level in 20 seconds or less.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>Flawless Victory!</name>
+  <detail>Defeat a boss without losing a single life!</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>Gold digger</name>
+  <detail>Find the crown bonus in the treasure chest.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>The same but different</name>
+  <detail>Clear the respective starting zone using each character.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>Carrot King</name>
+  <detail>Pickup 25 carrots found underneath breakable blocks.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>5x Combo Master</name>
+  <detail>Smash 5 gems in a row.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>10x Combo Master</name>
+  <detail>Smash 10 or more gems in a row.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>Bonus Master</name>
+  <detail>Collect 10 or more bonuses in a single level.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>Stay away from Bonuses</name>
+  <detail>Try not to collect bonuses in a level.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>Survivor</name>
+  <detail>Don't lose any life for 3 levels.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>No speed up needed</name>
+  <detail>Don't use the speed up against a boss.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="000">
+  <name>Rocks destroyer</name>
+  <detail>Destroy 100 rocks.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>Your first gem</name>
+  <detail>Smash the first gem.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="G" pid="000">
+  <name>Gem Smasher master</name>
+  <detail>Smash 200 gems.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>Inverse champion</name>
+  <detail>Destroy 5 gems with inverted controls.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="G" pid="000">
+  <name>Color changer</name>
+  <detail>Change color 200 times.</detail>
+ </trophy>
+</trophyconf>

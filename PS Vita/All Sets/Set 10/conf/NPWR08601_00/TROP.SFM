@@ -1,0 +1,156 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000009a6c482ecb3f5a1281a3a269b1fb8c717ba46f7ab789518b8672083f2132d7055657e36adb47bff1cf4e5e6dc42da6bcbce8bf707a5230b140acf14da85363dd19c48d29e506a02def49402b5f44384617f452960d43b616a9b072f2ed6ad154d0413c5d24c44c66bf58f985afa919ef905bb962ab21b241edd6135d5720e45d99b6cda5017454400dc49b211375b8f8437a76f3-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR08601_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>カエル畑 ＤＥ つかまえて・夏　千木良参戦！</title-name>
+ <title-detail>カエル畑 ＤＥ つかまえて・夏のトロフィーセットです</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>カエル畑ＤＥつかまえて☆彡・夏</name>
+  <detail>全てのトロフィーを獲得した</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>おいでませ月宿☆彡・夏</name>
+  <detail>ゲームを開始した</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>アフターストーリを読んでみた☆彡・夏</name>
+  <detail>誰か１人のアフターストーリーをクリア</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>葉村椋人をやっつけた☆彡・夏</name>
+  <detail>ブラックジャックとポーカーの両方で葉村と対戦して勝利をした</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>空閑正臣をやっつけた☆彡・夏</name>
+  <detail>ブラックジャックとポーカーの両方で空閑と対戦して勝利をした</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>広瀬優希をやっつけた☆彡・夏</name>
+  <detail>ブラックジャックとポーカーの両方で広瀬と対戦して勝利をした</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>法月蓮をやっつけた☆彡・夏</name>
+  <detail>ブラックジャックとポーカーの両方で法月と対戦して勝利をした</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>米原美咲をやっつけた☆彡・夏</name>
+  <detail>ブラックジャックとポーカーの両方で米原と対戦して勝利をした</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>戸神明杜をやっつけた☆彡・夏</name>
+  <detail>ブラックジャックとポーカーの両方で戸神と対戦して勝利をした</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="000">
+  <name>千木良工をやっつけた☆彡・夏</name>
+  <detail>ブラックジャックとポーカーの両方で千木良と対戦して勝利をした</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="000">
+  <name>小田島創一をやっつけた☆彡・夏</name>
+  <detail>ブラックジャックとポーカーの両方で小田島と対戦して勝利をした</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>水城一陽をやっつけた☆彡・夏</name>
+  <detail>ブラックジャックとポーカーの両方で一陽と対戦して勝利をした</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="B" pid="000">
+  <name>兼子佐希子をやっつけた☆彡・夏</name>
+  <detail>ブラックジャックとポーカーの両方で佐希子と対戦して勝利をした</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="000">
+  <name>川奈芳子をやっつけた☆彡・夏</name>
+  <detail>ブラックジャックとポーカーの両方で芳子と対戦して勝利をした</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="B" pid="000">
+  <name>十九波十夜をやっつけた☆彡・夏</name>
+  <detail>ブラックジャックとポーカーの両方で十九波と対戦して勝利をした</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>ブラックジャックで連勝中！☆彡・夏</name>
+  <detail>ブラックジャックで一回の対戦で5連勝をした</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>ブラックジャックをやってみて☆彡・夏</name>
+  <detail>ブラックジャックで通算10戦勝利をした</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>ブラックジャックで奇跡が起きた！☆彡・夏</name>
+  <detail>ブラックジャックで手持ちのカードが5枚以上で勝利した</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>ポーカーゲームで連勝中！☆彡・夏</name>
+  <detail>ポーカーで対戦で一回の対戦で5連勝をした</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>ポーカーゲームをやってみて☆彡・夏</name>
+  <detail>ポーカーで通算10戦勝利をした</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>ポーカーゲームの達人さん☆彡・夏</name>
+  <detail>ポーカーでスリーカード以上の役を通算で50回以上作った</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>がんばる掃除屋さん☆彡・夏</name>
+  <detail>パズルゲームでいずれかのゴミを100個以上消した</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>一流の掃除屋さん☆彡・夏</name>
+  <detail>パズルゲームでレベルが15に到達した</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>超一流の掃除屋さん☆彡・夏</name>
+  <detail>パズルゲームでレベルが20に到達した</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="000">
+  <name>音楽鑑賞してみました☆彡・夏</name>
+  <detail>おまけの音楽鑑賞画面でBGMを再生した</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="S" pid="000">
+  <name>葉村椋人をつかまえて☆彡・夏</name>
+  <detail>【アナザーストーリー】で葉村とエンディングを迎えた</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="S" pid="000">
+  <name>空閑正臣をつかまえて☆彡・夏</name>
+  <detail>【アナザーストーリー】で空閑とエンディングを迎えた</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="S" pid="000">
+  <name>広瀬優希をつかまえて☆彡・夏</name>
+  <detail>【アナザーストーリー】で広瀬とエンディングを迎えた</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="S" pid="000">
+  <name>法月蓮をつかまえて☆彡・夏</name>
+  <detail>【アナザーストーリー】で法月とエンディングを迎えた</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="S" pid="000">
+  <name>米原美咲をつかまえて☆彡・夏</name>
+  <detail>【アナザーストーリー】で米原とエンディングを迎えた</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="S" pid="000">
+  <name>戸神明杜をつかまえて☆彡・夏</name>
+  <detail>【アナザーストーリー】で戸神とエンディングを迎えた</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="S" pid="000">
+  <name>千木良工をつかまえて☆彡・夏</name>
+  <detail>【アナザーストーリー】で千木良とエンディングを迎えた</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="S" pid="000">
+  <name>真相ルートを知り終えて☆彡・夏</name>
+  <detail>【真相ルート】解放後、【異類婚姻譚】をクリアした</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="S" pid="000">
+  <name>大円談ルートを知り終えて☆彡・夏</name>
+  <detail>【真相ルート】解放後、【大団円】をクリアした</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="G" pid="000">
+  <name>全てのシナリオを解放したよ☆彡・夏</name>
+  <detail>全てのシナリオを解放</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="G" pid="000">
+  <name>全てのイベント絵を解放したよ☆彡・夏</name>
+  <detail>全てのイベント絵を解放</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="G" pid="000">
+  <name>全てのスペシャルを解放したよ☆彡・夏</name>
+  <detail>全てのスペシャルを解放</detail>
+ </trophy>
+</trophyconf>

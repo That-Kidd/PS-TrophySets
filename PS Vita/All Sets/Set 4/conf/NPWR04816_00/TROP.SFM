@@ -1,0 +1,40 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000004c4f2606faf494b71e822b1e02f38bedd4305ef882cfc7f4f5594b3b593758024155ff2c828e91a78527ae6b68e14531c27bfaeb45ce292c5de5401f7048059fcb167291140e1a4be834e705ad934e1a85dbeb6172650e8c238d37a76573d8a9dfc6e59f4247f2baa77fecf74e12a226c98e2881427b30de8c9420cb462d7d375dfd2f717839acb05ea941b26d58d1859f48296-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR04816_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>ホチキス</title-name>
+ <title-detail>『ホチキス』トロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>芦川ゆきの開始</name>
+  <detail>『芦川ゆきの』ルートに入りました。</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>住吉奈々開始</name>
+  <detail>『住吉奈々』ルートに入りました。</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>春日野三咲開始</name>
+  <detail>『春日野三咲』ルートに入りました。</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>御影しずく開始</name>
+  <detail>『御影しずく』ルートに入りました。</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="-1">
+  <name>芦川ゆきの終了</name>
+  <detail>『芦川ゆきの』ルートが終了しました。</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="-1">
+  <name>住吉奈々終了</name>
+  <detail>『住吉奈々』ルートが終了しました。</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="-1">
+  <name>春日野三咲終了</name>
+  <detail>『春日野三咲』ルートが終了しました。</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="-1">
+  <name>御影しずく終了</name>
+  <detail>『御影しずく』ルートが終了しました。</detail>
+ </trophy>
+</trophyconf>

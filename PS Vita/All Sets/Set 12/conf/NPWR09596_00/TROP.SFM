@@ -1,0 +1,80 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000079f6653c924d35c841ddad335e9df2227157c8752625dcedc188645326911f40bef9cf8c623a2b99ed52350aa7d081c19dae4032c43ff9e0051808965a248c10f355924763f3e903c0342601edf0a0e5b4dc2a44395f15ab4dda72e5bb0a5bb4c7f080ec82f1f4794edbd0ed0181ffcb59d835c6d7caf5954cbf6f0eb7f72d473214815f06aa3b2619943275f7ce50e185fe20e9-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR09596_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Attractio</title-name>
+ <title-detail>Attractio</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Martian After All</name>
+  <detail>Complete All Attractio Levels</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="-1">
+  <name>Attractio Champion</name>
+  <detail>Complete Attractio</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Enthusiastic Runner</name>
+  <detail>Complete all challenge levels in at least bronze ranking</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Almost Fast Enough</name>
+  <detail>Complete all challenge levels in at least silver ranking</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="-1">
+  <name>Gravity Bolt</name>
+  <detail>Complete all challenge levels with a gold ranking</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Not a Test Chamber</name>
+  <detail>Died 50 times</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Broken Legs</name>
+  <detail>Died 50 times by falling</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Gravity Shifter</name>
+  <detail>Change your gravity 200 times</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Box worst enemies</name>
+  <detail>Destroy a box with the door and acid</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>New Toys</name>
+  <detail>Complete tutorials</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>Teamwork</name>
+  <detail>Complete co-op levels</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="-1">
+  <name>Careful with the camera!</name>
+  <detail>Shoot the flying camera</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="-1">
+  <name>Attractio addict</name>
+  <detail>Play 15 hours</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="-1">
+  <name>Box rider</name>
+  <detail>Move at high speed above a box</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="-1">
+  <name>Mortal Curiosity</name>
+  <detail>Kill the other contestant in the orange levels</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="-1">
+  <name>Gravity Guardian Master</name>
+  <detail>Complete reactor level without dying once</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="-1">
+  <name>Bridge veteran</name>
+  <detail>Complete Bridge level without using any checkpoint</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="-1">
+  <name>E-note hunter</name>
+  <detail>Find all e-notes</detail>
+ </trophy>
+</trophyconf>

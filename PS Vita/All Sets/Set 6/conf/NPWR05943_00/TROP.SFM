@@ -1,0 +1,176 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000473d06bf0c39a3cf640b3d48d47c05d49d1ab3ba9823dac581ebe80a6b3061041b196feb7df35985bf8332eeb6f6f946eac6b17bf33b963177fefd7336de96f6091ed6a9969bbc1fb4dace3f7ea738c3f67eb5574708996233c9e51d0586fa689241bc5af028ff386f2ed638ba1fffad9aa8dcd3b8dfe60a71fc5fdbf1a503c00ed944823577512101c047141de68a83948fcd6c-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR05943_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>STEINS;GATE</title-name>
+ <title-detail>STEINS;GATE의 트로피 세트</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>모든 트로피를 획득</name>
+  <detail>모든 트로피를 입수 하였다.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>슈타인즈 게이트의 선택</name>
+  <detail>STEINS;GATE 한국어판을 시작했다.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>시작과 끝의 프롤로그</name>
+  <detail>프롤로그 완료</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>시간도약의 파라노이아</name>
+  <detail>Chapter1 완료</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>공리방황의 랑데뷰</name>
+  <detail>Chapter2 완료</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>접익의 다이버젠스</name>
+  <detail>Chapter3 완료</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>몽환의 호메오스테이시스</name>
+  <detail>Chapter4 완료</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>시공경계의 도그마</name>
+  <detail>Chapter5 완료</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>형이상의 네크로시스</name>
+  <detail>Chapter6 완료</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>허상왜곡의 컴플렉스</name>
+  <detail>Chapter7 완료</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>자기상사의 안드로지너스</name>
+  <detail>Chapter8 완료</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>무한연쇄의 아포토시스</name>
+  <detail>Chapter9 완료</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>경계면상의 슈타인즈 게이트</name>
+  <detail>슈타인즈 게이트에 도달했다.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>천재소녀의 멜랑꼴리</name>
+  <detail>크리스와 메일을 통해서 친해졌다.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>인과율의 멜트</name>
+  <detail>크리스의 엔딩을 보았다.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>투명의 스타더스트</name>
+  <detail>마유리의 엔딩을 보았다.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>불가역의 리부트</name>
+  <detail>스즈하의 엔딩을 보았다.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>배덕과 재생의 링크</name>
+  <detail>루카의 엔딩을 보았다.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>분리상실의 자메뷰</name>
+  <detail>페이리스의 엔딩을 보았다.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="G" pid="000">
+  <name>모든 세계선 컴플리트</name>
+  <detail>모든 엔딩을 보았다.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>CG의 달성률 25%</name>
+  <detail>CG를 25% 보았다.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>CG의 달성률 50%</name>
+  <detail>CG를 50% 보았다.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>CG의 달성률 75%</name>
+  <detail>CG를 75% 보았다.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>CG의 달성률 100%</name>
+  <detail>모든 CG를 보았다.</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>자아의 메모리즈</name>
+  <detail>【폰 트리거】송신 기록을 한번이라도 보았다.</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>타아의 메모리즈</name>
+  <detail>【폰 트리거】착신 이력에서 한번이라도 메일을 참조했다.</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>공명의 리액션</name>
+  <detail>【폰 트리거】누군가로부터의 메일에 답장을 했다.</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>망각의 메시지</name>
+  <detail>【폰 트리거】1통이라도 누군가의 메일을 읽지않은 채로 게임을 클리어했다.</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>투영의 비전</name>
+  <detail>【폰 트리거】대기화면의 벽지를 변경했다.</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>처음의 소리</name>
+  <detail>【폰 트리거】착신 멜로디를 변경했다.</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>완전고립의 아이덴티티</name>
+  <detail>【폰 트리거】누군가에게서 온 전화를 무시했다.(부재중인 척 했다.)</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="S" pid="000">
+  <name>라이넷의 히어로</name>
+  <detail>【폰 트리거】라이넷의 줄거리 13화 분을 완성.</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="S" pid="000">
+  <name>유행종언의 개구링</name>
+  <detail>【폰 트리거】개굴개구링 대기화면 벽지를 완성.</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="S" pid="000">
+  <name>혼돈의 시</name>
+  <detail>【폰 트리거】혼돈된 머리로 부터 흘러 들어오는 착신용 노래 4곡을 전부 모은다.</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="S" pid="000">
+  <name>라이넷의 마스코트</name>
+  <detail>【폰 트리거】2종류의 우파 대기화면 벽지를 획득.</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="S" pid="000">
+  <name>혼돈의 공주들</name>
+  <detail>【폰 트리거】혼돈된 머리로 부터 3종류의 캐릭터 대기화면 벽지를 획득.</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>불연속성의 쿠오리아</name>
+  <detail>【폰 트리거】크리스로부터 컵라면을 사와달라는 메일을 2회 연속 받는다.</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>흑역사의 패션</name>
+  <detail>【폰 트리거】마유리로부터 「코스 제작을 시작한 계기」에 대한 메일을 받았다.</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>여전사의 프라이드</name>
+  <detail>【폰 트리거】스즈하로부터 「격투기」에 대한 메일을 받았다.</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="000">
+  <name>포학의 시스터</name>
+  <detail>【폰 트리거】루카로부터 「누나」에 대한 메일을 받았다.</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="B" pid="000">
+  <name>고양이의 티타임</name>
+  <detail>【폰 트리거】페이리스로부터 「홍차」에 대한 메일을 받았다.</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="S" pid="000">
+  <name>홈런 급의 서투름</name>
+  <detail>전화렌지(가칭)의 타이머 설정을 10회 실수했다.(누계)</detail>
+ </trophy>
+</trophyconf>

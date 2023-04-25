@@ -1,0 +1,92 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000b19643e1e29c57b898e825a9ac9f34c15a133e926c6e4adec8cd3cdbdf6f31315d3ce670fa3d40ead6be667ef804d467118a342c798bd3188da40f564b3c1068ab67fb83b6174dd7fade15d237fdbc6e7a4b115112099555ca274fa77ea2ac6c7a37b0b55ecba1768a6548fe64393bddddf9c4c464d48af44c4cd2cb21e0db7783bdb167b8785d1a4c690c1f4a8cf5308535f9e4-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR18588_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>軍靴をはいた猫</title-name>
+ <title-detail>軍靴をはいた猫のトロフィーです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>コンプリート</name>
+  <detail>全てのトロフィーを獲得</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>病めるときも、健やかなるときも、ずっとお側に</name>
+  <detail>ユズBadEnd「病めるときも、健やかなるときも、ずっとお側に」クリア</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>貴方のことが好きだった</name>
+  <detail>ユズBadEnd「貴方のことが好きだった」クリア</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="G" pid="000">
+  <name>有言実行</name>
+  <detail>ユズGoodEnd「有言実行」クリア</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>儚い恋</name>
+  <detail>くーにゃんBadEnd「儚い恋」クリア</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>後悔</name>
+  <detail>くーにゃんBadEnd「後悔」クリア</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="G" pid="000">
+  <name>キスで目覚めるお姫様</name>
+  <detail>くーにゃんGoodEnd「キスで目覚めるお姫様」クリア</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>私の代わりに……</name>
+  <detail>コタロウBadEnd「私の代わりに……」クリア</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>空しい結末</name>
+  <detail>コタロウNormalEnd「空しい結末」クリア</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="G" pid="000">
+  <name>結婚指輪をお前に</name>
+  <detail>コタロウGoodEnd「結婚指輪をお前に」クリア</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="G" pid="000">
+  <name>ハクとセキは如何にしてコタロウの従者になったのか</name>
+  <detail>追想「ハクとセキは如何にしてコタロウの従者になったのか」クリア</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>同じ穴の狢</name>
+  <detail>シェドBadEnd「同じ穴の狢」クリア</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="B" pid="000">
+  <name>姫さんなりの復讐</name>
+  <detail>シェドBadEnd「姫さんなりの復讐」クリア</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="G" pid="000">
+  <name>拾えなかった猫</name>
+  <detail>シェドGoodEnd「拾えなかった猫」クリア</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="B" pid="000">
+  <name>水平線上の帝国船</name>
+  <detail>インクNormalEnd「水平線上の帝国船」クリア</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="G" pid="000">
+  <name>12時の恋猫</name>
+  <detail>キティGoodEnd「12時の恋猫」クリア</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>悪夢のような未来</name>
+  <detail>真相BadEnd「悪夢のような未来」クリア</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="G" pid="000">
+  <name>猫たちの未来</name>
+  <detail>真相TrueEnd「猫たちの未来」クリア</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="G" pid="000">
+  <name>オッドアイの白猫</name>
+  <detail>真相TrueEnd「オッドアイの白猫」クリア</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="G" pid="000">
+  <name>「画廊」コンプリート</name>
+  <detail>「画廊」をコンプリートした</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="G" pid="000">
+  <name>「音楽」コンプリート</name>
+  <detail>「音楽」をコンプリートした</detail>
+ </trophy>
+</trophyconf>

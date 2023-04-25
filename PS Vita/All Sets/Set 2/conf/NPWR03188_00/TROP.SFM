@@ -1,0 +1,132 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000020dfc418fadb7d9ff07fa60eda3c5595ba131bc93f351994f178083b5defa3ff8f41b6e220fde63b6107991dc4b20f1592f004b624b5aece28c0b4263e801968b419f95ba9dee7393b73e1ceaec6ec475f8301cbc8b712b060ff422e6a9a30714bf9f3bcf4489fdcc891d1cdf0900e3b45a7c7ff6d22e98d334af2897186a5e997a49dee57fee07e66972491ae396edf12ca41f0-->
+<trophyconf version="1.1" platform="psp2">
+ <npcommid>NPWR03188_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>FISH ON NEXT</title-name>
+ <title-detail>FISH ON NEXT トロフィーリスト</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>みんなでFISH ON！！</name>
+  <detail>全てのトロフィーを獲得した。</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>完全制覇！！</name>
+  <detail>チャレンジモードで多くの★を獲得した。</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>更なる難関に挑め！</name>
+  <detail>チャレンジモードで多くのコースをクリアした。</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>チャレンジ前半戦終了！</name>
+  <detail>チャレンジモードで半分のコースをクリアした。</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>最初の難関に挑む！</name>
+  <detail>チャレンジモードを初めてプレイした。</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>爆釣元気娘！</name>
+  <detail>チャレンジモードでジェイミーを5回使用した。</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>爆釣野郎！</name>
+  <detail>チャレンジモードでリュウジを5回使用した。</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>爆釣お姉さん！</name>
+  <detail>チャレンジモードでカノを5回使用した。</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>爆釣魔法少女見習い！</name>
+  <detail>チャレンジモードでアイを5回使用した。</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>な、なんて重さなんだ･･･</name>
+  <detail>チャレンジモードの魚の総重量が1000000gを超えた。</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>いい重さだ！</name>
+  <detail>チャレンジモードの魚の総重量が100000gを超えた。</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>なかなかの重さだ！</name>
+  <detail>チャレンジモードの魚の総重量が10000gを超えた。</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>な、なんて数なんだ･･･</name>
+  <detail>チャレンジモードの魚の総釣り上げ数が500匹を超えた。</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>いい数だ！</name>
+  <detail>チャレンジモードの魚の総釣り上げ数が250匹を超えた。</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>なかなかの数だ！</name>
+  <detail>チャレンジモードの魚の総釣り上げ数が50匹を超えた。</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>ランカーマスター！</name>
+  <detail>チャレンジモードでスーパービッグを20匹釣り上げた。</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>ランカーキラー！</name>
+  <detail>チャレンジモードでスーパービッグを10匹釣り上げた。</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>ランカーデビュー！</name>
+  <detail>チャレンジモードで初めてスーパービッグを釣り上げた。</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>魚のことは任せてもらおう！</name>
+  <detail>チャレンジモードで全ての魚種を釣り上げた。</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="G" pid="000">
+  <name>愛と夢と情熱と勇気</name>
+  <detail>ワールドツアーモードを全てのキャラクターでクリアした。</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>あの人と肩を並べて･･･</name>
+  <detail>ワールドツアーモードをジェイミーでクリアした。</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>憧れからの参戦！</name>
+  <detail>ワールドツアーモードをジェイミーではじめた。</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>俺の戦いはこれからだ！！</name>
+  <detail>ワールドツアーモードをリュウジでクリアした。</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>目指せ父の背中！！</name>
+  <detail>ワールドツアーモードをリュウジではじめた。</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>さらなる栄光を目指して･･･</name>
+  <detail>ワールドツアーモードをカノでクリアした。</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>世界一への挑戦！</name>
+  <detail>ワールドツアーモードをカノではじめた。</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="S" pid="000">
+  <name>釣りと魔法で世界を救います！</name>
+  <detail>ワールドツアーモードをアイでクリアした。</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>私、魔法少女を目指してます！</name>
+  <detail>ワールドツアーモードをアイではじめた。</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="G" pid="000">
+  <name>全てのルアーをこの手に！</name>
+  <detail>多くのルアーを入手した。</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="S" pid="000">
+  <name>ルアー収集折り返し地点</name>
+  <detail>半分のルアーを入手した。</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>ルアー集め始めました</name>
+  <detail>初めてルアーを入手した。</detail>
+ </trophy>
+</trophyconf>

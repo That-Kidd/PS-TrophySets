@@ -1,0 +1,52 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000de438b37236571336435eb572ee08d62828a0a3d05ee4c9e516c185f07737847adfbe11d35fcb37bf9829b621640c16cb696d944c1c14a2ccb2d5289182e5bdf93ddff29e140fa5e9c08b4d5d8082c747dd3010db4700aa86609db84f87ee94ca441abfe65d4bb4f0f26d7ed46e44b2c7dcf2795a1f0b2d3decca9305d8d502dcd3fc9f14b57f8eba4c93482898f5194a7fb6768-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR04451_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Real Boxing™</title-name>
+ <title-detail>Real Boxing™</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Master the basics</name>
+  <detail>Complete the tutorial.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>First blood</name>
+  <detail>Win your first fight.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Rising star</name>
+  <detail>Win the Roosters' Tournament.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Silver bullet</name>
+  <detail>Win the Night of the Champions.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="-1">
+  <name>On the top of the world</name>
+  <detail>Win the Boxing Legends.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Feel the power</name>
+  <detail>Fully train your character.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Stepping into the game</name>
+  <detail>Win your first fight by KO.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="-1">
+  <name>Untouchable</name>
+  <detail>Win a fight and don't get hit.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="-1">
+  <name>Demigod</name>
+  <detail>Win 50 fights.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="-1">
+  <name>C-c-c-counter</name>
+  <detail>Perform 100 counterattacks.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="-1">
+  <name>All belts, no knockdown</name>
+  <detail>Earn all belts and don't get a single knockdown in process.</detail>
+ </trophy>
+</trophyconf>

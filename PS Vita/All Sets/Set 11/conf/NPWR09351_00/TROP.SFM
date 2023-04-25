@@ -1,0 +1,56 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000b710c1ab450c1dabd1f53451d6880eb90fd1888835e982cf567965afd4aed22fb278610b4b87cf56af66486413de710a33f4dfd60be4330805a44fa330a84bd5cc1d9dd3b494c3cee98fb94558aa2133bd01af6502fec0f3df1fe3336df99b293295deb4db5b51ad87cef4c49ea9f58a954d460a13aa6571d372866a3d0ab03afd134bb01d5a36140c212007e958f3bc805f4d9c-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR09351_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Gem Legends</title-name>
+ <title-detail>Trophy set for Gem Legends</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Big bang</name>
+  <detail>Simultaneously detonate 5 bombs at any level</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Squad</name>
+  <detail>Destroy 4 stones with explosion</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Faster than wind</name>
+  <detail>Complete main goal in 5 turns</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>More bonuses!</name>
+  <detail>Use 5 purchased for gold bonuses on a single level</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>No barriers</name>
+  <detail>Remove 500 tiles</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Irrepressible</name>
+  <detail>Remove 500 stones</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Traveler</name>
+  <detail>Collect 20,000 points on any level</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="-1">
+  <name>Jeweler</name>
+  <detail>Lower 20 diamonds on levels with mechanics "Lower diamond"</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="-1">
+  <name>Goldsmith</name>
+  <detail>Lower 3 diamons simultaneously on levels with mechanics "Lower diamond"</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="-1">
+  <name>Tactician</name>
+  <detail>Match 10 chips of the same color</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="-1">
+  <name>In the pursuit of success</name>
+  <detail>Activate 3 super bombs at any level</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="-1">
+  <name>Grandmaster</name>
+  <detail>Complete all levels with the best result</detail>
+ </trophy>
+</trophyconf>

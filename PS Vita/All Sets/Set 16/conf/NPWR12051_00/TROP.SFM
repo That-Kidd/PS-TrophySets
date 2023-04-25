@@ -1,0 +1,112 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000008fe9093d81d819408a587c353c5555ede16cb60704c1e1487127593a94074148eba8dd8f077b584593d3eabd4eef81da0a9ca4245f305225e7bc5e007e8fcaae5b367614f8bd5f557c3d4c76f61ffe1c7334a68e2c1afcc459ebf1f451b7184052f388037eb1ddacdd167823b1ba3fbf6de3920becc4010e4535a20c0fa833821754068ce92aed723e6184bacb67c3aa56ebc7f8-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR12051_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>FLOWERS秋篇</title-name>
+ <title-detail>FLOWERS秋篇のトロフィーです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>コンプリート</name>
+  <detail>全てのトロフィーを獲得</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>焼き芋！</name>
+  <detail>沙沙貴姉妹と焼き芋を食べた</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>自慢の友人たち</name>
+  <detail>立花と蘇芳のお茶会に行った</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>秋の星空</name>
+  <detail>ネリネとシェイプシフターについて調べた</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>深夜の怪奇スポット巡り</name>
+  <detail>えりか・千鳥とシェイプシフターについて調べた</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>親友を気遣っての看病</name>
+  <detail>ネリネの看病をした</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>秋の実り</name>
+  <detail>林檎と野菜の収穫をした</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>彼女らの寝顔</name>
+  <detail>沙沙貴姉妹とウェンディゴの捜索を行った</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>断るわけないじゃないですか</name>
+  <detail>えりか・千鳥とウェンディゴ退治に行った</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="000">
+  <name>変わらぬ親友の姿</name>
+  <detail>ネリネと鐘楼のルーガルー事件を調べた</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="000">
+  <name>学院の事情通</name>
+  <detail>苺と鐘楼のルーガルー事件を調べた</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>“寄宿舎のシェイプシフター”</name>
+  <detail>chapter2の推理パートをクリア</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>“森を彷徨うウェンディゴ”</name>
+  <detail>chapter4の推理パートをクリア</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>“鐘楼のルーガルー”</name>
+  <detail>chapter5の推理パートをクリア</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="B" pid="000">
+  <name>強く射す残日</name>
+  <detail>BADEND01を見た</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>よくなんてない</name>
+  <detail>BADEND02を見た</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>長い謹慎</name>
+  <detail>BADEND03を見た</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>赦せないな</name>
+  <detail>BADEND04を見た</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="G" pid="000">
+  <name>ずっと一緒</name>
+  <detail>双子ENDを見た</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="G" pid="000">
+  <name>確かな痛み</name>
+  <detail>林檎ENDを見た</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="G" pid="000">
+  <name>忘れることなんて出来ない</name>
+  <detail>ネリネENDを見た</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="G" pid="000">
+  <name>出逢った時からの想い</name>
+  <detail>TrueEndを見た</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="G" pid="000">
+  <name>もう一つの鍵</name>
+  <detail>EXTRA 蘇芳視点を見た</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="G" pid="000">
+  <name>GRAPHICコンプリート</name>
+  <detail>GRAPHICをコンプリート</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="G" pid="000">
+  <name>MUSICコンプリート</name>
+  <detail>MUSICをコンプリート</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="G" pid="000">
+  <name>ENDLISTコンプリート</name>
+  <detail>ENDLISTをコンプリート</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,136 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000ac08f16b6aca32d4a800ef0316708fc0a6df8a2ebd3f1deda078776aab2363f2ff393ed11e8e448363eec2f0c871785622500db7407ba705549db4c322d5666a978e9fec21e41c603e1f3b096d817885b28c34d909330e1374c6be3c9a60f5dbc7fa7d36126646accdd8a5b894cc56ea8570658ea137050adef51893071d74bc9dcbfa350626d3c17685fb7a6f3dd19e18e98f76-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR20490_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>XENO CRISIS</title-name>
+ <title-detail>XENO CRISIS TROPHY SET</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>XENO CRISIS</name>
+  <detail>UNLOCK ALL TROPHIES</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>PERIMETER CLEARED</name>
+  <detail>COMPLETE THE PERIMETER AREA</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>FACILITY CLEARED</name>
+  <detail>COMPLETE THE FACILITY AREA</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>DUNES CLEARED</name>
+  <detail>COMPLETE THE DUNES AREA</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>NEST CLEARED</name>
+  <detail>COMPLETE THE NEST AREA</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>FOREST CLEARED</name>
+  <detail>COMPLETE THE FOREST AREA</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>LAB CLEARED</name>
+  <detail>COMPLETE THE LAB AREA</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>100 KILLS</name>
+  <detail>KILL 100 ENEMIES IN A SINGLE GAME</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>500 KILLS</name>
+  <detail>KILL 500 ENEMIES IN A SINGLE GAME</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>1000 KILLS</name>
+  <detail>KILL 1000 ENEMIES IN A SINGLE GAME</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>100 DOG TAGS</name>
+  <detail>AMASS 100 DOG TAGS IN A SINGLE GAME</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>200 DOG TAGS</name>
+  <detail>AMASS 200 DOG TAGS IN A SINGLE GAME</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>NO-ONE LEFT BEHIND</name>
+  <detail>RESCUE ALL HOSTAGES IN A SINGLE GAME</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>PERIMETER S RANK</name>
+  <detail>ACHIEVE AN S RANK ON THE PERIMETER AREA</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>FACILITY S RANK</name>
+  <detail>ACHIEVE AN S RANK ON THE FACILITY AREA</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>DUNES S RANK</name>
+  <detail>ACHIEVE AN S RANK IN THE DUNES</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>NEST S RANK</name>
+  <detail>ACHIEVE AN S RANK IN THE NEST</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>FOREST S RANK</name>
+  <detail>ACHIEVE AN S RANK IN THE FOREST</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>LAB S RANK</name>
+  <detail>ACHIEVE AN S RANK IN THE LAB</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="G" pid="000">
+  <name>HQ S RANK</name>
+  <detail>ACHIEVE AN S RANK IN THE HQ</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>CAKEWALK</name>
+  <detail>COMPLETE THE GAME ON 'EASY'</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="G" pid="000">
+  <name>HARD CORPS</name>
+  <detail>COMPLETE THE GAME ON 'HARD'</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="G" pid="000">
+  <name>HAPPY ENDING</name>
+  <detail>COMPLETE THE GAME AND RECEIVE THE GOOD ENDING</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>XENOCIDE</name>
+  <detail>KILL 5 ENEMIES OR MORE WITH A SINGLE EXPLOSION</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>MAXED OUT</name>
+  <detail>MAX OUT ALL OF YOUR STATS</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="S" pid="000">
+  <name>TOO CLOSE FOR COMFORT</name>
+  <detail>KILL 100 ENEMIES WITH YOUR MELEE ATTACK IN A SINGLE GAME</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>STAY ON YOUR FEET</name>
+  <detail>COMPLETE AN AREA WITHOUT ROLLING</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>WANDERER</name>
+  <detail>VISIT EVERY ROOM IN THE GAME</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="G" pid="000">
+  <name>HEAD RUSH</name>
+  <detail>COMPLETE BOSS RUSH MODE</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>AD INFINITUM</name>
+  <detail>KILL 2500 ENEMIES WHEN PLAYING INFINITE MODE</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="S" pid="000">
+  <name>BOSSING IT</name>
+  <detail>DEFEAT ANY BOSS WITHOUT TAKING A HIT</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="G" pid="000">
+  <name>MILLIONAIRE</name>
+  <detail>SCORE A MILLION POINTS OR MORE</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,120 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000e4945ee59920019b3ce349f4ae23d471db310cd6c612d213006538f775a3f100f000fadf4613a88cf4aba2bbe70e451ea463361196b6d0954693be5a18a5dba572934096e7fa149c874975b13dc09a64a33668322282093fd154a870e77aa1ec004a9ccfcbe1c58f297c90db952673f578f8bead0786ad53dea42e3746f7a8d359c1747057bc8fc18c5c6c452776b5bc46aa3d8b-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR10134_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>요마와리: 떠도는 밤</title-name>
+ <title-detail>요마와리: 떠도는 밤의 트로피 세트입니다.</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>떠도는 밤</name>
+  <detail>모든 트로피를 획득했다&#x0a;</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>황혼</name>
+  <detail>오프닝을 완료했다&#x0a;</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>유시</name>
+  <detail>1장을 클리어했다&#x0a;</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>술시</name>
+  <detail>2장을 클리어했다&#x0a;</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>해시</name>
+  <detail>3장을 클리어했다&#x0a;</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>자시</name>
+  <detail>4장을 클리어했다&#x0a;</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>축시</name>
+  <detail>5장을 클리어했다</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>인시</name>
+  <detail>6장을 클리어했다&#x0a;</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>묘시</name>
+  <detail>7장을 클리어했다&#x0a;</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>기나긴 밤</name>
+  <detail>50시간 동안 플레이했다&#x0a;</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>깜깜한 밤</name>
+  <detail>손전등을 끈 상태로 10분간 플레이했다&#x0a;</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>불굴의 소녀</name>
+  <detail>언니를 찾다가 사망한 횟수가 30회를 돌파했다&#x0a;</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>숨바꼭질</name>
+  <detail>귀신을 피해 숨은 횟수가 50회를 돌파했다&#x0a;</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>공양</name>
+  <detail>지장보살님에게 공양한 횟수가 50회를 돌파했다&#x0a;</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>우리집</name>
+  <detail>집에서 15분간 휴식을 취했다&#x0a;</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>깡통차기</name>
+  <detail>깡통을 50회 걷어찼다&#x0a;</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>물색</name>
+  <detail>20개의 쓰레기 봉투를 조사해봤다&#x0a;</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>고양이</name>
+  <detail>고양이에게 먹을 것을 주었다&#x0a;&#x0a;</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>괴물 고양이</name>
+  <detail>커다란 방울을 주웠다&#x0a;&#x0a;&#x0a;</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>울 언니</name>
+  <detail>언니에게 12번 이상 말을 걸었다&#x0a;&#x0a;</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>술래잡기</name>
+  <detail>야경꾼 아저씨한테 붙잡혔다&#x0a;</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>상장</name>
+  <detail>트로피를 주웠다&#x0a;</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="G" pid="000">
+  <name>땅의 신</name>
+  <detail>괴물도마뱀을 발견했다</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="G" pid="000">
+  <name>추억</name>
+  <detail>집에 있는 아이템을 모두 수집했다</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="G" pid="000">
+  <name>공작</name>
+  <detail>라디오를 완성했다</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="G" pid="000">
+  <name>탐험</name>
+  <detail>퍼즐을 완성했다</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="S" pid="000">
+  <name>모험</name>
+  <detail>사용 가능한 아이템을 모두 수집했다</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="G" pid="000">
+  <name>수집</name>
+  <detail>모든 아이템을 수집했다</detail>
+ </trophy>
+</trophyconf>

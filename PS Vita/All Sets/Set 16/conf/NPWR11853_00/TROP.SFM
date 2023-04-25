@@ -1,0 +1,96 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000003e52edc6cbf8d1f9faa1708a99721fb6e2a6f3f54bd53d4f811243287767ceed9b67b571382d44de5245192e2c2becb5389e05133364ba520397a782a75654556c6aec6f8e1ca43af21898fa0ac8d9e693270c42b702fdb16f40114b4b9989ba48b01f373c9db7f3ef8ab327801af1f652feb5c1dde115c36264f93e3c1d7c94d494541cd3a27a1d6ef7327deb9c33ce44a6ec39-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR11853_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>萌え萌え２次大戦（略）３</title-name>
+ <title-detail>萌え萌え２次大戦（略）３のトロフィーです。&#x0a;全獲得まで頑張ろう！</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>遊んでくれてありがとう！！</name>
+  <detail>全てのトロフィーを獲得する</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>はじめての出撃</name>
+  <detail>いずれかのシナリオでマップを一つクリアする</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>日本ルートクリア</name>
+  <detail>日本ルートのシナリオをクリアする</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>連合ルートクリア</name>
+  <detail>連合ルートのシナリオをクリアする</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>ドイツルートクリア</name>
+  <detail>ドイツルートのシナリオをクリアする</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>記念写真</name>
+  <detail>CG達成率が２５％以上になる</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>戦場のアルバム</name>
+  <detail>CG達成率が５０％以上になる</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>完成したアルバム</name>
+  <detail>CG達成率が１００％になる</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>鯖威張るなのだ！？</name>
+  <detail>サバイバルモードで１０マップ目をクリアする</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="G" pid="000">
+  <name>いのーせいぞんたい！</name>
+  <detail>サバイバルモードで全てのマップをクリアする</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>乙女の観測者（ストーカー）</name>
+  <detail>全ての乙女図鑑を収集する</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>エース・オブ・エース</name>
+  <detail>いずれかの鋼の乙女一体のレベルをMAXにする</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>縛り～Mの目覚め～</name>
+  <detail>カスタマイズのスキル変更で「負け癖」「弱気」を取得する</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="000">
+  <name>整備長は大変（変態）ですね</name>
+  <detail>全ての修理パートを収集する</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="000">
+  <name>股間に入電！</name>
+  <detail>戦績Aでクリア後、一度もミスなく修理パートで三人を完全修理</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>女になんて興味ないね！</name>
+  <detail>修理パートをスキップする</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="G" pid="000">
+  <name>全力全開！</name>
+  <detail>難関でいずれかのルートをクリアする</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>おまわりさん、こっちです！</name>
+  <detail>修理パートで破損状況を悪化させる</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>あきらめたらそこで……</name>
+  <detail>SLGパートでゲームオーバー後、リトライで再挑戦する</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>カスタマイズはじめました</name>
+  <detail>カスタムポイントを消費し、はじめて強化する</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>私だけの鋼の乙女</name>
+  <detail>強化に使ったカスタムポイントが累計5000以上になる</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="G" pid="000">
+  <name>魔改造</name>
+  <detail>強化に使ったカスタムポイントが累計8000以上になる</detail>
+ </trophy>
+</trophyconf>

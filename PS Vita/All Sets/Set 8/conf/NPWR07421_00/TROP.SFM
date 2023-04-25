@@ -1,0 +1,56 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000007d3e067da6c58619386c6ad72e6e5ddbddc1236f386af53a8e8f776f267c9977f214455464f16a54189b09f446bf938f6c31712be95b3e3ab9fdccf5daf611400f494129ea48d6e182d112f37390ccb1d983067f07f8a75431c2aca4ee49cd5315fa416e645bef0addf45b5f48dbad2ea379c2a1264320475017824826b60f6e07d8906d0cc040ab62f6081626a1e0fd3c68b1c4-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="small">
+ <npcommid>NPWR07421_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Rollers of the Realm</title-name>
+ <title-detail>Rollers of the Realm</title-detail>
+ <trophy id="000" hidden="no" ttype="S" pid="-1">
+  <name>Rolling in it!</name>
+  <detail>Collect 100,000 Gold</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="-1">
+  <name>Steam-rollers</name>
+  <detail>Hit Experience Level 10</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="-1">
+  <name>You've got balls</name>
+  <detail>Finish Campaign Mode</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Time rolls on...</name>
+  <detail>Play for 600 minutes</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Gone Ball-istic</name>
+  <detail>Deal 10000 Damage in Campaign Mode</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="-1">
+  <name>Stacked!</name>
+  <detail>Collect all Upgrades in Campaign Mode</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Ball-sy</name>
+  <detail>Allow party members to fall to their deaths 100 times.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Pit Fight Wizard</name>
+  <detail>Get a score of 5,000 gold in the Pit Fight Arena.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Woodland Raid Wizard</name>
+  <detail>Get a score of 10,000 gold in the Woodland Raid Arena.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>Tower Climb Wizard</name>
+  <detail>Get a score of 150 in the Tower Climb Arena.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>Gold Rush Wizard</name>
+  <detail>Get a score of 5,000 gold in the Gold Rush Arena.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="-1">
+  <name>Catacombs Wizard</name>
+  <detail>Get a score of 8,000 in the Catacombs Arena.</detail>
+ </trophy>
+</trophyconf>

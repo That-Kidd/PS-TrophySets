@@ -1,0 +1,64 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000fb95ffcb0f51b0a17793fd51c41acf218820a5084fa8a3d9ec366ca6235d5e56bd22ede3232fe38be9dbcce9269848024c50e40ca974a61bd4f03a786f9c8ee2c8ff7c18f27001952110fbcbce6c6cad090f7cf52399f6321881450b1f5950e5ac7fd1ae172e558904d9242cea464e31a9bd03bdb82c1f713eba0534edd088447c3e1093190c8dd5aed5aefa73c1ed78e17a4686-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR08652_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>クロガネ回姫雀のトロフィー</title-name>
+ <title-detail>クロガネ回姫雀のトロフィーです。</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>ゲームスタート</name>
+  <detail>ゲームをスタートした。</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>正宗で１位</name>
+  <detail>プレイヤーキャラを正宗にして１位で上がった。</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>伏姫で１位</name>
+  <detail>プレイヤーキャラを伏姫にして１位で上がった。</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>天国で１位</name>
+  <detail>プレイヤーキャラを天国にして１位で上がった。</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>虎鉄で１位</name>
+  <detail>プレイヤーキャラを虎鉄にして１位で上がった。</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>玉鋼で１位</name>
+  <detail>プレイヤーキャラを玉鋼にして１位で上がった。</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>国綱で１位</name>
+  <detail>プレイヤーキャラを国綱にして１位で上がった。</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>平で１位</name>
+  <detail>プレイヤーキャラを平にして１位で上がった。</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>一期で１位</name>
+  <detail>プレイヤーキャラを一期にして１位で上がった。</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>ミカサで１位</name>
+  <detail>プレイヤーキャラをミカサにして１位で上がった。</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>摩耶で１位</name>
+  <detail>プレイヤーキャラを摩耶にして１位で上がった。</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="-1">
+  <name>雷で１位</name>
+  <detail>プレイヤーキャラを雷にして１位で上がった。</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="-1">
+  <name>全てのキャラを使用</name>
+  <detail>全てのキャラをプレイヤー使用した。</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="-1">
+  <name>全ての壁紙入手</name>
+  <detail>全ての壁紙を入手した。</detail>
+ </trophy>
+</trophyconf>

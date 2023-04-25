@@ -1,0 +1,156 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000a7e5a03dd94c5f94ad2d5d2888bd4ac584a71a1c10a10fe0d354538dc78ce0705c9e46b3348e6333326fd1e6ccdf66e82182e9efaaffd50844a5e6545bb3e16681afd09b8bf6a42a144568e0f6e8de11416c45c9069aaaacdc90519bf0b77ce85d52d44daa7c673dc9f30398f131292477eba0cee0975231df65f800f1c27eaa5ae06fa931ce7c219c3d50a4869e8405d1adeebe-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR04013_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Oddworld: Stranger's Wrath HD</title-name>
+ <title-detail>Oddworld Stranger's Wrath HD Trophies</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Shiny Moolah</name>
+  <detail>Get all other Trophies.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Bag Blisterz Booty</name>
+  <detail>Bounty Blisterz Booty</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Starting the Journey</name>
+  <detail>Complete the tutorial</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Wash my hands of this mess</name>
+  <detail>Bounty Filthy Hands Floyd</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>Clean the Water</name>
+  <detail>Bounty Looten Duke</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>Spank that booty!</name>
+  <detail>Bounty Boilz Booty</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>Dumb it down</name>
+  <detail>Rescue Eugene Ius</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>Don’t be talkin’ ‘bout ma mama</name>
+  <detail>Bounty Jo’ Mamma</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>Go Organic</name>
+  <detail>Bounty Meagly McGraw</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>Junkyard Challenge</name>
+  <detail>Bounty Packrat Palooka</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>Mine your business!</name>
+  <detail>Bounty X’plosives McGee</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>The Sleg Avenger!</name>
+  <detail>Bounty Lefty Lugnutz</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>You scratch my back</name>
+  <detail>Bounty Elboze Freely</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>Too Much Fuzzle Pie</name>
+  <detail>Bounty Fatty McBoomBoom</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>You know too much</name>
+  <detail>Take out D. Caste Raider</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>Giving a Leg Up</name>
+  <detail>Get to Last Legs.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Dam Sekto!</name>
+  <detail>Enter the Lower Dam.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Elevate yourself</name>
+  <detail>Take out a Gloktigi.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>Regain that spring in your step</name>
+  <detail>Reach the Upper Dam.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="000">
+  <name>Now there’s two?</name>
+  <detail>Take out Sekto’s personal bodyguards.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="G" pid="000">
+  <name>Smack down Sekto!</name>
+  <detail>Defeat Sekto.</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="S" pid="000">
+  <name>Hidden What?!</name>
+  <detail>Find the Black Market.</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="S" pid="000">
+  <name>Grubb Idol</name>
+  <detail>Find the hidden Grubb Idol</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>Dirty Water</name>
+  <detail>Find the hidden entrance into the Wolvark Barracks</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>Back in the Village</name>
+  <detail>Defeat the Wolvark attackers in the Native Village&#x0a;</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="S" pid="000">
+  <name>Get 'em</name>
+  <detail>Bounty 250 Outlaws</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="G" pid="000">
+  <name>Get 'em goooooood!</name>
+  <detail>Bounty 250 Outlaws alive.</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="B" pid="000">
+  <name>Too Big For Your Bridges</name>
+  <detail>Leap the broken bridge!</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="G" pid="000">
+  <name>Mo Moolah</name>
+  <detail>Have 20,000 Moolah when you take the barge to Doc’s Mongo Retreat.</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>Go with the Flo. . .</name>
+  <detail>Find a hidden bottle of medicine.</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="S" pid="000">
+  <name>Crystal Mess</name>
+  <detail>Collect 25 orange crystals.</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="S" pid="000">
+  <name>Finders, Filchers</name>
+  <detail>Collect 40 Moolah chests.</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="G" pid="000">
+  <name>Free the Meat</name>
+  <detail>Destroy the 10 hidden barrels.</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>Slakker Clakker</name>
+  <detail>Finish the game on Easy</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="S" pid="000">
+  <name>Stranger Danger</name>
+  <detail>Finish the game on Normal</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="G" pid="000">
+  <name>Sekto Suicide</name>
+  <detail>Finish the game on Hard</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>Farmer Harmer</name>
+  <detail>Kill Farmer Beeks</detail>
+ </trophy>
+</trophyconf>

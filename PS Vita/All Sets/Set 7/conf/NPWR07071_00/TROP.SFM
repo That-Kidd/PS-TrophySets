@@ -1,0 +1,76 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000c7ff6c3f2daeea08a4c39e595cace3e70a959c7c418bebb2b74ac29752977e750957cf9a3f72b5a70bd2ef22e30e9d303406b1a1c3bfb32b96a326005554eda6453ea5398417db6987c495321257ba37f37a478ba2c10fe037701fe78fd6807abe60ce951e156e510e748c0282fbf367424ec7dee0e3db1bcd7b61c8ae836618d1f9615c634819f8d842ac1ae3b94ed049b03e99-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR07071_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>クロガネ回姫譚 トロフィー</title-name>
+ <title-detail>このトロフィーは「クロガネ回姫譚 -閃夜一夜-」のトロフィーです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>全てのトロフィー入手</name>
+  <detail>全てのトロフィーを入手した</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="000">
+  <name>ゲームスタート</name>
+  <detail>ゲームをスタートした</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>プロローグクリア</name>
+  <detail>プロローグをクリアした</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>伏姫ルートスタート</name>
+  <detail>伏姫ルートをスタートした</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>伏姫ルートクリア</name>
+  <detail>伏姫ルートをクリアした</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>天国ルートスタート</name>
+  <detail>天国ルートをスタートした</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>天国ルートクリア</name>
+  <detail>天国ルートをクリアした</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>虎鉄ルートスタート</name>
+  <detail>虎鉄ルートをスタートした</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>虎鉄ルートクリア</name>
+  <detail>虎鉄ルートをクリアした</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>玉鋼ルートスタート</name>
+  <detail>玉鋼ルートをスタートした</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>玉鋼ルートクリア</name>
+  <detail>玉鋼ルートをクリアした</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>回姫譚ルートスタート</name>
+  <detail>回姫譚ルートをスタートした</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>回姫譚ルートクリア</name>
+  <detail>回姫譚ルートをクリアした</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>用語編コンプリート</name>
+  <detail>「黒金班活動要項」の用語編をコンプリートした</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="000">
+  <name>状況編コンプリート</name>
+  <detail>「黒金班活動要項」の状況編コンプリートした</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="G" pid="000">
+  <name>画像編コンプリート</name>
+  <detail>「黒金班活動要項」の画像編をコンプリートした</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="G" pid="000">
+  <name>オールクリア</name>
+  <detail>全てのルートをクリアした</detail>
+ </trophy>
+</trophyconf>

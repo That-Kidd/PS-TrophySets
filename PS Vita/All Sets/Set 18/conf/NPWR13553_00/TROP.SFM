@@ -1,0 +1,56 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000fab618a121b1154931517d81a1e4ac588f0b416495e6b11c5a31d654c231f5115e3869f5061c459b4d49f90e7ef72d6cacb0355612785361d98595c2b8e320d4ebc1ecbc2e37b8a182ce0397d29016d84ba91946ef01d29ccedd87be12b5153982218c8e4a0ecf569189c11fad34ff870e7eb0844ebf0a4f90916ddc1318763cabd7d6f5908f952bab67998859d9f66a9251846a-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR13553_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>グリザイアの果実 -SIDE EPISODE-</title-name>
+ <title-detail>グリザイアの果実 -SIDE EPISODE-のトロフィーです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>コンプリート</name>
+  <detail>全てのトロフィーを獲得</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="G" pid="000">
+  <name>グリザイアの有閑</name>
+  <detail>「グリザイアの有閑」を最後まで読んだ</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="G" pid="000">
+  <name>グリザイアの残光</name>
+  <detail>「グリザイアの残光」を最後まで読んだ</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="G" pid="000">
+  <name>グリザイアの旋律</name>
+  <detail>「グリザイアの旋律」を最後まで読んだ</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="G" pid="000">
+  <name>サイドエピソード・コンプリート</name>
+  <detail>サイドエピソード３作を最後まで読んだ</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="G" pid="000">
+  <name>ある日のグリザイア島</name>
+  <detail>「おまけ」エピソードを最後まで読んだ</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>「グリザイアの有閑」CG100%達成</name>
+  <detail>「グリザイアの有閑」のCGギャラリー100%達成</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>「グリザイアの残光」CG100%達成</name>
+  <detail>「グリザイアの残光」のCGギャラリー100%達成</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>「グリザイアの旋律」CG100%達成</name>
+  <detail>「グリザイアの旋律」のCGギャラリー100%達成</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>BGMコンプリート</name>
+  <detail>BGM鑑賞をコンプリート</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>壁紙コンプリート</name>
+  <detail>壁紙集をコンプリート</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>ボイスコレクター</name>
+  <detail>ボイスコレクションでプレイリストを作成した</detail>
+ </trophy>
+</trophyconf>

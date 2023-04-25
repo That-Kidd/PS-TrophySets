@@ -1,0 +1,44 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000fc1ffe9c51ee31278296dcecf5626fc3e53a4477af99161a16f925bb4a73422a1d5913d7d3b094a870594afed26212b4f94a7bf7db9449ce12c65d38d64e83ec719e7bcbda2130cef25caf44aaa8050f0bccc3d5aeb45ea7da50b0cfc17e1687ec303ba5b7d1b1b31ccfd90475d0afdc2c3e2f1f67ec568cf1180cd419c74f6a14fafd9ce8ef3497acfc28cd5c5ebedf9631cf36-->
+<trophyconf version="1.1" platform="psp2">
+ <npcommid>NPWR03379_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Sudoku by Nikoli V</title-name>
+ <title-detail>The "Sudoku by Nikoli V" trophy pack. &#x0a;Complete all puzzles to get every trophy!</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Rome wasn't built in a day</name>
+  <detail>Complete one puzzle 5 times</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Better safe than sorry</name>
+  <detail>View all puzzle guides</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Sometimes you just have to give up</name>
+  <detail>Quit more than 50 puzzles</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Time flies when you're having fun</name>
+  <detail>Exceed 24 hours total play time</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>One step forward, two steps back</name>
+  <detail>UNDO 100 times</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="-1">
+  <name>Slow and steady wins the race</name>
+  <detail>Complete a puzzle</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="-1">
+  <name>All men are created equal</name>
+  <detail>Complete 12 puzzles in a row on shuffle with all puzzles selected</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="-1">
+  <name>What one likes, one will do well</name>
+  <detail>Beat the advanced target time for every puzzle</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="-1">
+  <name>Where there's a will, there's a way</name>
+  <detail>Complete all puzzles</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,72 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000047376156997a59913d506c0f943c948ec24b5fd08669a23578c2749a1d5aa7a77cdf676de8abcde87463d0bc1f81c136c7f4256c9bba22c211721c53ca39a2b01aca4c9ac07b52504dcb0c7ad72bcb7dd5b6cae1b8cec3b0e67c3a938c7994ef9bb02f40abd80ccf0570b62c50110a8f86b8a1f74fc6c65963961f35c2261efa8cca78e24dc9fc1d309445e67fa5f4ff0cd92d94-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR20047_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Thunder Paw</title-name>
+ <title-detail>Thunder Paw</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Platinum Paw</name>
+  <detail>Get all the trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="000">
+  <name>A Big Explosion</name>
+  <detail>Start the game.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>Secret Box 1</name>
+  <detail>Find the Hidden Box on Level 1.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>Secret Box 2</name>
+  <detail>Find the Hidden Box on Level 2.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>Secret Box 3</name>
+  <detail>Find the Hidden Box on Level 3.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>Secret Box 4</name>
+  <detail>Find the Hidden Box on Level 4.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>Secret Box 5</name>
+  <detail>Find the Hidden Box on Level 5.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>Secret Box 6</name>
+  <detail>Find the Hidden Box on Level 6.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>Secret Box 7</name>
+  <detail>Find the Hidden Box on Level 7.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>Secret Box 8</name>
+  <detail>Find the Hidden Box on Level 8.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>Secret Box 9</name>
+  <detail>Find the Hidden Box on Level 9.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>Secret Box 10</name>
+  <detail>Find the Hidden Box on Level 10.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>Secret Box 11</name>
+  <detail>Find the Hidden Box on Level 11.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="000">
+  <name>Secret Box 12</name>
+  <detail>Find the Hidden Box on Level 12.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="000">
+  <name>The Monkey</name>
+  <detail>Defeat the 1st boss.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="G" pid="000">
+  <name>The Fox</name>
+  <detail>Defeat the 2nd boss.</detail>
+ </trophy>
+</trophyconf>

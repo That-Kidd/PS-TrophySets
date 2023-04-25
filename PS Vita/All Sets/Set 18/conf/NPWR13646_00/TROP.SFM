@@ -1,0 +1,116 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000d87d3f4b73a0d41b61e1795fb8d07373d008a7ff94ddcc3bd69e74980a4ffdd23bb1882400804cd093a19bb64ec0a0eb6fe3979b9ca66709cae5e1d003c3ced53a2613e905c4e7ab060329f7a1cb3b3349669a890a7fbb50a08b9a620fc47ca88d9c1f1620c3f598d73937f8a2f5db128f5450c1ca0c7a28212ef40b54cd3e5e2d7cb4c82bbb51fef211d3ced2ec2f55973a36c3-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR13646_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Defender's Quest: Valley of the Forgotten DX</title-name>
+ <title-detail>Achievements for Defender's Quest: Valley of the Forgotten DX</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Ultra Completionist</name>
+  <detail>Earn all gold, silver, and bronze trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Intro to Library Science</name>
+  <detail>Level your Librarian up to LVL 10</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Intermediate Librariology</name>
+  <detail>Level your Librarian up to LVL 25</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>Advanced Librarophysics</name>
+  <detail>Level your Librarian up to LVL 40</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>Elite Libraromancy</name>
+  <detail>Level your Librarian up to LVL 60</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>My Own Personal Army</name>
+  <detail>Unlock all 6 character classes (not counting Librarian)</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>Completionist</name>
+  <detail>Earn 201 Blue Stars</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>Super Completionist</name>
+  <detail>Earn 201 Gold Stars</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>Swiss Army Sword</name>
+  <detail>Earn all the unique weapons in the standard game</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>Swiss Army Breastplate</name>
+  <detail>Earn all the unique armor in the standard game</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>Big Box o' Killing-Stuff</name>
+  <detail>Upgrade all the unique weapons in new game+</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>Big Box o' Not-Dying</name>
+  <detail>Upgrade all the unique armor in new game+</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>Book Worm</name>
+  <detail>Earn all the books from bonus challenges in the standard game</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>Book Dragon</name>
+  <detail>Earn all the books from bonus challenges in new game+</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>Endurance</name>
+  <detail>Reach wave 100 on Endless Challenge 2 in the standard game</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>You get a Gold Star!</name>
+  <detail>Beat any level on Extreme.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>A Winner is You!</name>
+  <detail>Complete the standard game</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="G" pid="000">
+  <name>A Winner+ is You!</name>
+  <detail>Complete the game in new game+</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>Sheep Slayer</name>
+  <detail>Defeat the Super Sheep in the standard game</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="000">
+  <name>No Loose Ends</name>
+  <detail>Beat all side quests in new game+</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>Mad Skills</name>
+  <detail>Unlock a level 20 skill</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>I've Got the Power!</name>
+  <detail>In battle, boost a character to the max boost level</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>Hero Mode</name>
+  <detail>Beat the standard game without any generic recruits</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="G" pid="000">
+  <name>Hero Mode+</name>
+  <detail>Beat the game in new game+ without any generic recruits</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="G" pid="000">
+  <name>Hero Mode++</name>
+  <detail>Earn 180 gold stars without any generic recruits</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="G" pid="000">
+  <name>Marathon</name>
+  <detail>Reach wave 100 on Endless Challenge 2 in new game+</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="G" pid="000">
+  <name>Ultra Sheep Slayer</name>
+  <detail>Defeat the Super Sheep in new game+</detail>
+ </trophy>
+</trophyconf>

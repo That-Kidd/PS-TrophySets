@@ -1,0 +1,208 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000003115059312516e0eb95c8845bbdb5b90871fd85b8f5df0a3a85b3c2c55c6bd97197108df8e857161b5525bc834d965f1fad30d793a0f52d56d54e0a99ad391b552622ba97925182fdf97b9078c221bd38a11111f42943843efb3707ebaee7bdb3f23c98499a5a92958e3db106b2cbb8f68d37d601fc780facc45210f5901c1a6bb6d206f8b1db613a6d9fc2470ac695ab40ff849-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR09006_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>ROBOTICS;NOTES ELITE</title-name>
+ <title-detail>( ・｀ω・)-○))～～～～～～～Ю☆건배럴 앙크 스트라이커! </title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>사랑과 정의의 완벽주의자</name>
+  <detail>ROBOTICS;NOTES ELITE의 모든 트로피를 획득했다.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>타네가시마에 어서 와!</name>
+  <detail>ROBOTICS;NOTES ELITE를 시작했다.</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>꿈과 희망과 로망이 있어야</name>
+  <detail>PHASE 01에 돌입했다.</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>다 함께 정의의 거대로봇을 만들자</name>
+  <detail>PHASE 02에 돌입했다.</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>꿈이 끝나버리면 외롭잖아</name>
+  <detail>PHASE 03에 돌입했다</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>피와 땀과 눈물의 결정체니까</name>
+  <detail>PHASE 04에 돌입했다.</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>우리들이니까 만들 수 있는 로봇을</name>
+  <detail>PHASE 05에 돌입했다.</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>어딘가 하나라도 좋아하게 될 때까지</name>
+  <detail>PHASE 06에 돌입했다.</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>뭐야, 이 미쳐버린 세계는</name>
+  <detail>PHASE 07에 돌입했다.</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="000">
+  <name>네게 꿈을 보여줄게</name>
+  <detail>PHASE 08에 돌입했다,</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="000">
+  <name>거대로봇이 정말 좋아요</name>
+  <detail>PHASE 09에 돌입했다.</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>가슴을 쭉 펴고 이 애를 움직이게 해야지</name>
+  <detail>PHASE 10에 돌입했다.</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="B" pid="000">
+  <name>꿈 따위, 갖는 게 아니었어</name>
+  <detail>PHASE 11에 돌입했다.</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="000">
+  <name>이제부터 우리들의 게임이야</name>
+  <detail>PHASE 12에 돌입했다.</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>앞으로도 잘 부탁해</name>
+  <detail>쥰나와의 엔딩을 본다.</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="S" pid="000">
+  <name>내가 할 수 있는 걸 할 거야</name>
+  <detail>프라우와의 엔딩을 본다.</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="S" pid="000">
+  <name>메리 크리스마스</name>
+  <detail>아이리와의 엔딩을 본다.</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="S" pid="000">
+  <name>오늘로 여름도 끝이려나</name>
+  <detail>나에와의 엔딩을 본다.</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="G" pid="000">
+  <name>모두의 미소를 지켰어</name>
+  <detail>아키호와의 엔딩을 본다.</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>『보이지 않는 지배자』를 여기, 고발한다</name>
+  <detail>키미지마 레포트를 세 개 발견한다.</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="000">
+  <name>모든 내용을 모아준 그대에게 감사를</name>
+  <detail>키미지마 레포트를 전부 발견한다.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>이걸로 당신도 지오태그 초보자</name>
+  <detail>처음으로 지오태그를 확인한다.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>이걸로 당신도 지오태그 매니아</name>
+  <detail>지오태그 30개를 발견한다.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>이걸로 당신도 지오태그 숙련가</name>
+  <detail>지오태그 50개를 발견한다.</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>이걸로 당신도 지오태그 마스터</name>
+  <detail>지오태그 70개를 발견한다.</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>이걸로 당신도 트위포계 데뷰</name>
+  <detail>처음으로 트위포에 답장을 보낸다.</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>이걸로 당신도 트위포계 루키</name>
+  <detail>트위포 답장을 25회 보낸다.</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>이걸로 당신도 트위포계 베테랑</name>
+  <detail>트위포 답장을 50회 보낸다.</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>이걸로 당신도 트위포계 엘리트</name>
+  <detail>트위포 답장을 100회 보낸다.</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>당신은 여기 있어</name>
+  <detail>deluoode map을 열어 현재 위치를 확인한다.</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>저언혀 못 찾겠네요오~♪</name>
+  <detail>키미지마 레포트를 찾는 도중, 10군데의 장소를 빙빙 돈다.</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="S" pid="000">
+  <name>나에게 적수란 없다</name>
+  <detail>모든 킬배럴 대전에서 승리한다. (합계)</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>지금 건 워밍업일 뿐이다</name>
+  <detail>킬배럴 대전에서 패배한다</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>UMISHO가~! 끝냈다~!!</name>
+  <detail>랭킹전에서 실수 없이 킬배럴 커맨드 입력에 성공한다.</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>있을 법한 일이라구</name>
+  <detail>ROBO-ONE 예선 1회전에서 실수 없이 커맨드 입력에 성공한다.</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>역시 시시한 게임이었어</name>
+  <detail>ROBO-ONE 결승전에서 실수 없이 커맨드 입력에 성공한다.</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>내가 최강이다</name>
+  <detail>최종결전에서 실수 없이 승리한다.</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>로봇부 활동일지 1</name>
+  <detail>CG 회수율 25%</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>로봇부 활동일지 2</name>
+  <detail>CG 회수율 50%</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="000">
+  <name>로봇부 활동일지 3</name>
+  <detail>CG 회수율 75%</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="G" pid="000">
+  <name>로봇부 활동일지 4</name>
+  <detail>CG 회수율 100%</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="B" pid="000">
+  <name>공부라니 왠지 싫은데</name>
+  <detail>처음으로 TIPS 항목을 본다.</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="G" pid="000">
+  <name>이걸로 시험도 문제없어</name>
+  <detail>TIPS 항목을 모두 열람했다.</detail>
+ </trophy>
+ <trophy id="043" hidden="yes" ttype="B" pid="000">
+  <name>하커가 아니라 해커라구, 상생</name>
+  <detail>DaSH와 친구가 된다.</detail>
+ </trophy>
+ <trophy id="044" hidden="yes" ttype="B" pid="000">
+  <name>사, 삼차원에는 흥미 없다구... 후히히</name>
+  <detail>질풍신뢰의 나이트하르트와 친구가 된다.</detail>
+ </trophy>
+ <trophy id="045" hidden="yes" ttype="B" pid="000">
+  <name>조수가 아니라고 했잖아!</name>
+  <detail>밤오반과 에네르기파와 친구가 된다.</detail>
+ </trophy>
+ <trophy id="046" hidden="yes" ttype="B" pid="000">
+  <name>오, 오스…！</name>
+  <detail>PHASE 06로 가는 루트를 발견했다.</detail>
+ </trophy>
+ <trophy id="047" hidden="yes" ttype="B" pid="000">
+  <name>듀후후…</name>
+  <detail>PHASE 07로 가는 루트를 발견했다.</detail>
+ </trophy>
+ <trophy id="048" hidden="yes" ttype="B" pid="000">
+  <name>삐삐~뿌우~</name>
+  <detail>PHASE 08로 가는 루트를 발견했다.</detail>
+ </trophy>
+ <trophy id="049" hidden="yes" ttype="S" pid="000">
+  <name>번쩍~！</name>
+  <detail>PHASE 09로 가는 루트를 발견했다.</detail>
+ </trophy>
+</trophyconf>

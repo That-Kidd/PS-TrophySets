@@ -1,0 +1,160 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000007efc575a07ec7ab72d94964c587e48aa457c3048c9867d9ab2c1eb8329f41c0f8a9e6cbbedeaecc6d6c43a5a87b4cf6689b2734f4a4099f4c71e4fcdedc5d518fa9e3a80565d5306e46a722a063276af3954f2a1192ef0d957f4c3ea6b1433f8f2487571e1904575c6189c0135f6d2952353dff197f4178950460334b6a48e3c4dffb21886ffc3e38af1f67dcaf0271fd6faa9dc-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR11949_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>双星の陰陽師</title-name>
+ <title-detail>双星の陰陽師のトロフィーです</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>真の陰陽師</name>
+  <detail>全てのトロフィーを獲得した</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>新たなる戦い</name>
+  <detail>最初のバトルで勝利した</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>怒りの力</name>
+  <detail>バトルで怒力ゲージを使用して勝利した</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>レゾナンス</name>
+  <detail>バトルで双星陰陽術を使用して勝利した</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>バックアップ</name>
+  <detail>バトルで誰かをかばって勝利した</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>２人の共同作業</name>
+  <detail>バトルで誰かと双星超コンボを行って勝利した</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>新米陰陽師</name>
+  <detail>ろくろのレベルが１０になった</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>中堅陰陽師</name>
+  <detail>ろくろのレベルが５０になった</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="G" pid="000">
+  <name>熟練陰陽師</name>
+  <detail>ろくろのレベルが９９になった</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="000">
+  <name>ケガレ討伐初級</name>
+  <detail>ケガレを累計１０体以上祓って勝利した</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>ケガレ討伐中級</name>
+  <detail>ケガレを累計１００体以上祓って勝利した</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="G" pid="000">
+  <name>ケガレ討伐上級</name>
+  <detail>ケガレを累計３００体以上祓って勝利した</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="B" pid="000">
+  <name>神威との対決</name>
+  <detail>神威と戦って勝利した</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>神威との再戦</name>
+  <detail>神威と再戦して勝利した</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="G" pid="000">
+  <name>神威との最終戦</name>
+  <detail>神威との最終戦に勝利した</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="G" pid="000">
+  <name>因縁の戦い</name>
+  <detail>悠斗と戦って勝利した</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="S" pid="000">
+  <name>すばるの参戦</name>
+  <detail>御幣島すばるを仲間にした</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="S" pid="000">
+  <name>勘久郎の参戦</name>
+  <detail>水度坂勘久郎を仲間にした</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="S" pid="000">
+  <name>憲剛の参戦</name>
+  <detail>雲林院憲剛を仲間にした</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>１日目経過</name>
+  <detail>１日目をクリアした</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>２日目経過</name>
+  <detail>２日目をクリアした</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>３日目経過</name>
+  <detail>３日目をクリアした</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>４日目経過</name>
+  <detail>４日目をクリアした</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>５日目経過</name>
+  <detail>５日目をクリアした</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>６日目経過</name>
+  <detail>６日目をクリアした</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>７日目経過</name>
+  <detail>７日目をクリアした</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>８日目経過</name>
+  <detail>８日目をクリアした</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>９日目経過</name>
+  <detail>９日目をクリアした</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="S" pid="000">
+  <name>１０日目経過</name>
+  <detail>メインシナリオを全てクリアした</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="B" pid="000">
+  <name>紅緒と共に</name>
+  <detail>紅緒と最良の関係を築いた</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="B" pid="000">
+  <name>繭良と共に</name>
+  <detail>繭良と最良の関係を築いた</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="B" pid="000">
+  <name>藍と共に</name>
+  <detail>藍と最良の関係を築いた</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="B" pid="000">
+  <name>璃睦と共に</name>
+  <detail>璃睦と最良の関係を築いた</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="B" pid="000">
+  <name>蘭と共に</name>
+  <detail>蘭と最良の関係を築いた</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="B" pid="000">
+  <name>孤独の一番星</name>
+  <detail>誰とも最良の関係を築く事ができなかった</detail>
+ </trophy>
+ <trophy id="035" hidden="yes" ttype="B" pid="000">
+  <name>タッチの初心者</name>
+  <detail>タッチイベントを１回成功させた</detail>
+ </trophy>
+ <trophy id="036" hidden="yes" ttype="S" pid="000">
+  <name>タッチの中級者</name>
+  <detail>タッチイベントを３回成功させた</detail>
+ </trophy>
+ <trophy id="037" hidden="yes" ttype="G" pid="000">
+  <name>タッチの上級者</name>
+  <detail>タッチイベントを全て成功させた</detail>
+ </trophy>
+</trophyconf>

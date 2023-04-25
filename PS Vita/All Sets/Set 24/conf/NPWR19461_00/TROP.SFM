@@ -1,0 +1,84 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000005ca085c6aec24afa5854669e59ed370d40eb36c5b92b5757ecfb737f537e4cf3e03fb0c321160a29242c81c4b7c063e9d8d9802384bb81c1d579b6fb96bb6cf79af0bfaca7c4b8be8a60935ad1323527abfb6decdb1e31052d3d368a51a40cb60e4a86dc552de8d809333c20e87c91b597104b83fa50a5409c03fb34c0184a96ab235fd62ba9cbb3b7bb3a1288c8522b13276f39-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR19461_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Active Neurons - Puzzle game</title-name>
+ <title-detail>Active Neurons - Puzzle game</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Active Neurons Platinum</name>
+  <detail>Good job! Completed all tasks!</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>White neuron</name>
+  <detail>Charge the first neuron</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>Blue neuron</name>
+  <detail>Charge the second neuron</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>Yellow neuron</name>
+  <detail>Charge the third neuron</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>Sea neuron</name>
+  <detail>Charge the fourth neuron</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>Pink neuron</name>
+  <detail>Charge the fifth neuron</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>Purple neuron</name>
+  <detail>Charge the sixth neuron</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>Green neuron</name>
+  <detail>Charge the seventh neuron</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>Super neuron</name>
+  <detail>Charge the eighth neuron</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>Brain</name>
+  <detail>Charge the brain</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>Hazard</name>
+  <detail>Destroy the dangerous square</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>Dynamic Hazard</name>
+  <detail>Destroy the moving dangerous square</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>Door</name>
+  <detail>Open the door</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>Dangerous door</name>
+  <detail>Open the dangerous door</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>Teleport</name>
+  <detail>Teleporting</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>Glass wall</name>
+  <detail>Smash not a dangerous object</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>Inertia</name>
+  <detail>Push inert object</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>Inert teleport</name>
+  <detail>Teleport inert object</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>Help</name>
+  <detail>Use the solution</detail>
+ </trophy>
+</trophyconf>

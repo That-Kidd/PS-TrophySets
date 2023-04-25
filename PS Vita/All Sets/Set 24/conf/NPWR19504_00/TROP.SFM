@@ -1,0 +1,84 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000008f50e29c340da5c6fb757150d8b4fb8e352f811aa77869561633b518d5f8dbbb98db802a560e2fbd8e95230fa9b5acae3e4b2a1390044671448058d23a1e7764705b08ebadeeae790d05e3a974c0c653d45a2ba5cca3bcec2c9fa3e9b2765400c6bbc3030803bade072c6aa442505577763afbd8dc335be114a3b2f9becbfa6953b690c9e1e2f219a0738c819cbaee22ccd52844-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR19504_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>ラブクリア</title-name>
+ <title-detail>『ラブクリア』トロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>ラブクリア</name>
+  <detail>全てのトロフィーを獲得した</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>ノミカに参加</name>
+  <detail>「天体宮への誘い」を読み終えた</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>夏休み到来</name>
+  <detail>「僕の夏休み」を読み終えた</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>みんなで海遊び</name>
+  <detail>「出発、海水浴！」を読み終えた</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>ホタルを見た</name>
+  <detail>「ホタルの光に」を読み終えた</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="S" pid="000">
+  <name>台風</name>
+  <detail>「予期せぬ波乱」を読み終えた</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="000">
+  <name>先輩、ごめんなさい！</name>
+  <detail>ひまりルートに入った</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>初めて二人で出かけて</name>
+  <detail>律ルートに入った</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>お前を変えてやる</name>
+  <detail>英梨ルートに入った</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>小羽の秘密</name>
+  <detail>小羽ルートに入った</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="G" pid="000">
+  <name>星空の下で</name>
+  <detail>ノーマルエンドを見た</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="G" pid="000">
+  <name>失恋マスター</name>
+  <detail>失恋モノローグを全て見た</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="G" pid="000">
+  <name>きみとまた</name>
+  <detail>ひまりルートを読み終えた</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="G" pid="000">
+  <name>幸せだね</name>
+  <detail>律ルートを読み終えた</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="G" pid="000">
+  <name>永遠の誓い</name>
+  <detail>英梨ルートを読み終えた</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="G" pid="000">
+  <name>幸せな毎日</name>
+  <detail>小羽ルートを読み終えた</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="G" pid="000">
+  <name>ＢＧＭマスター</name>
+  <detail>全てのＢＧＭを聴いた</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="G" pid="000">
+  <name>ＣＧコレクター</name>
+  <detail>全てのＣＧを見た</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="G" pid="000">
+  <name>ＥＶＥＮＴエキスパート</name>
+  <detail>全てのイベントを読んだ</detail>
+ </trophy>
+</trophyconf>

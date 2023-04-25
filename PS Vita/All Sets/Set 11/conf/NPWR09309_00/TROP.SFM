@@ -1,0 +1,104 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000f6d8357410a73f970f096cb584909d863dfe31429bae189135ee0c07f18321c7bc6179b1878cfe3da0c5208197b33b4cdd1a9d13c858fa7ce4ba07272773271cb3d61d2e8078d851831b32c56233ca23d9466da9c48488a12358193e64b011bc1a2b7394302b7a4533c6cac0c5ad8ee43804ad1c4a0ec4eb0396c9b9c6b74bb42b6f2b565024cf1e16e2757865746ebc0cf5b670-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR09309_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>帝国海軍恋慕情～明治横須賀行進曲～</title-name>
+ <title-detail>帝国海軍恋慕情～明治横須賀行進曲～&#x0a;のトロフィーデータです</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>帝国海軍恋慕情</name>
+  <detail>全てのトロフィーを獲得した</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="S" pid="000">
+  <name>新米諜報員</name>
+  <detail>初めてハッピーエンドを見た</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="G" pid="000">
+  <name>一人前の諜報員</name>
+  <detail>全てのエンディングを見た</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="G" pid="000">
+  <name>深山エンドコンプリート</name>
+  <detail>深山ルートの全てのエンディングを見た</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="S" pid="000">
+  <name>幸福な瞬間</name>
+  <detail>深山ルートのハッピーエンドを見た</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>笑顔の別れ</name>
+  <detail>深山ルートのノーマルエンドを見た</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="G" pid="000">
+  <name>平塚エンドコンプリート</name>
+  <detail>平塚ルートの全てのエンディングを見た</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>桜の花舞う夜に</name>
+  <detail>平塚ルートのハッピーエンドを見た</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>この白い雪の国で</name>
+  <detail>平塚ルートのノーマルエンドを見た</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="G" pid="000">
+  <name>伊予部エンドコンプリート</name>
+  <detail>伊予部ルートの全てのエンディングを見た</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>幸福のさえずり</name>
+  <detail>伊予部ルートのハッピーエンドを見た</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>もうひとつの未来</name>
+  <detail>伊予部ルートのノーマルエンドを見た</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="G" pid="000">
+  <name>原エンドコンプリート</name>
+  <detail>原ルートの全てのエンディングを見た</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>チャペルでの誓い</name>
+  <detail>原ルートのハッピーエンドを見た</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="B" pid="000">
+  <name>新しい空の下</name>
+  <detail>原ルートのノーマルエンドを見た</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="G" pid="000">
+  <name>小宮山エンドコンプリート</name>
+  <detail>小宮山ルートの全てのエンディングを見た</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="S" pid="000">
+  <name>心の扉を開けて</name>
+  <detail>小宮山ルートのハッピーエンドを見た</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>新しい一歩</name>
+  <detail>小宮山ルートのノーマルエンドを見た</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>深山との思い出</name>
+  <detail>深山のイベントCGを全てオープンした</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="000">
+  <name>平塚との思い出</name>
+  <detail>平塚のイベントCGを全てオープンした</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>伊予部との思い出</name>
+  <detail>伊予部のイベントCGを全てオープンした</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>原との思い出</name>
+  <detail>原のイベントCGを全てオープンした</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>小宮山との思い出</name>
+  <detail>小宮山のイベントCGを全てオープンした</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>軍楽隊の思い出</name>
+  <detail>共通のCGを全てオープンした</detail>
+ </trophy>
+</trophyconf>

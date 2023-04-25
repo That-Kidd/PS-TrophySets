@@ -1,0 +1,144 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000844f5053add1e4bfb15af13d1e0f24a884dbd27054baf0381a6bb33ecced0b1a17b2fca48a672f60068dd1e1bdce0d877427fb3747f72a42afefd62e4c451cee69433c0f76d7d65ebd8bb3cc0d0e142502bee59da564da3c0a8da67533f6bc8ee4046e5aae7dfbbc833132bc0fddafd77bf92110eefdb282822ad34f07107efa5655bdc5fe0e4c70190a1484164702359d347bb1-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR09394_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>薔薇に隠されしヴェリテ</title-name>
+ <title-detail>薔薇に隠されしヴェリテのトロフィーです</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>薔薇に隠されしヴェリテ</name>
+  <detail>全てのトロフィーを獲得</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>最大のラ・ジュスティス</name>
+  <detail>ラ・ジュスティスの値が100になった</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>険しきデフィ</name>
+  <detail>クエストコンプリート</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>メモワールを並べて</name>
+  <detail>イベントCGコンプリート</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>トゥージュール・アムール</name>
+  <detail>全攻略キャラクターの全エンドを見た</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>最大のコネサンス</name>
+  <detail>知識力が100以上になった</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>エトルタ</name>
+  <detail>ルイ16世のスペシャルエンドを見た</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>プルヴィオーズ</name>
+  <detail>ルイ16世の史実エンドを見た</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>ウップランド</name>
+  <detail>フェルゼンのスペシャルエンドを見た</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>メジドール</name>
+  <detail>フェルゼンの史実エンドを見た</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>レーヴ</name>
+  <detail>ラファイエットのスペシャルエンドを見た</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>プレリアル</name>
+  <detail>ラファイエットの史実エンドを見た</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>ノートルダム</name>
+  <detail>ロベスピエールのスペシャルエンドを見た</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>テルミドール</name>
+  <detail>ロベスピエールの史実エンドを見た</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>アルカンシエル</name>
+  <detail>ダントンのスペシャルエンドを見た</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>ジェルミナル</name>
+  <detail>ダントンの史実エンドを見た</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="S" pid="000">
+  <name>エスポワール</name>
+  <detail>ロゼールのスペシャルエンドを見た</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="S" pid="000">
+  <name>スヴニール</name>
+  <detail>ロゼールのエンドを見た</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>コワフュールを豪華に</name>
+  <detail>髪飾りを見付けた</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>コマン・ム・ヴァテル？</name>
+  <detail>衣装替えを行った</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>ミロワール大通り</name>
+  <detail>鏡の回廊に入った</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>ドーファンのくつろぎ</name>
+  <detail>王太子の部屋に入った</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>欲張りネットワユーズ</name>
+  <detail>ホテルの掃除を行った</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>ヌヴォー・モンド</name>
+  <detail>本を読んだ</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>メルシー・ボクゥ～！</name>
+  <detail>雑貨屋で買い物をした</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>フランスを知る為に</name>
+  <detail>クエストをクリアした</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>シャンブル・デュ・ロイ</name>
+  <detail>国王の部屋に入った</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>シャンブル・ド・ラ・レーヌ</name>
+  <detail>王妃の部屋に入った</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>お喋りカフェテリア</name>
+  <detail>カフェの掃除を行った</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>集いしヴァンルージュ</name>
+  <detail>酒場の掃除を行った</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>ル・アモーのソレイユ</name>
+  <detail>王妃の村里に入った</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>プチ・トリアノンへ</name>
+  <detail>プチ・トリアノンに入った</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="B" pid="000">
+  <name>エルミタージュ</name>
+  <detail>隠し部屋を見付けた</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="B" pid="000">
+  <name>秘密のサンティエ</name>
+  <detail>隠し通路を見付けた</detail>
+ </trophy>
+</trophyconf>

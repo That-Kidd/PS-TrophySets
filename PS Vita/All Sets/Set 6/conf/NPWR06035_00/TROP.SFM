@@ -1,0 +1,172 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000008740312f168677c99f09f651df42c6d2e5a17f2da843543123228bc30624fb1d9158e957fe6b14df182360a2c3efc565a69dc3cd64ac7f5328324f2247d54c231f694bf53099502f0e576fb715e075762d4a813e6b4401ff2c411583a7c26d5f8ef069ceb78b0b804250db661c6d47c002e8c9c85c084d2096cc7cf1cfb10c393d542cdaf3ba0bc8ed8cfc6087c589dabb0ee0bc-->
+<trophyconf version="1.1" platform="ps3,psp2" policy="large">
+ <npcommid>NPWR06035_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Deception IV: Blood Ties</title-name>
+ <title-detail>Deception IV: Blood Ties Trophy Set</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Trap Master</name>
+  <detail>Acquire all trophies.</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>Devil's Daughter</name>
+  <detail>Clear chapter one in Story Mode.</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>Castle Conqueror</name>
+  <detail>Clear chapter three in Story Mode.</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>Factory Finisher</name>
+  <detail>Clear chapter six in Story Mode.</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>Amusement Park Survivor</name>
+  <detail>Clear chapter nine in Story Mode.</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>Dark Deceiver</name>
+  <detail>Clear Story Mode.</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="000">
+  <name>Dark Side Princess</name>
+  <detail>Watch all story endings.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>Naughty Girl</name>
+  <detail>Clear a Mission.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>Wayward Woman</name>
+  <detail>Clear ten or more Missions.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>The Devil Herself</name>
+  <detail>Clear all the Missions.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>The All-Knowing One</name>
+  <detail>Complete the Enemy List.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>Annihilator</name>
+  <detail>Defeat all the enemy characters which appear in Story Mode.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>Destroyer</name>
+  <detail>Perform an armor break.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>Ultimate Destroyer</name>
+  <detail>Perform an armor break on all characters who are wearing breakable armor.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>Trap Collector</name>
+  <detail>Acquire all traps.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="G" pid="000">
+  <name>Obsessive Collector</name>
+  <detail>Upgrade all traps.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Skill Collector</name>
+  <detail>Acquire all abilities.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Gadget Lover</name>
+  <detail>Use a trapmobile.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>Super Gadget Lover</name>
+  <detail>Use all trapmobiles.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Executioner</name>
+  <detail>View a Death by Trapmobile.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>Eternal Executional</name>
+  <detail>View all Deaths by Trapmobile.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>Reliable Worker</name>
+  <detail>Fulfill a Daemon Request.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="G" pid="000">
+  <name>Workaholic</name>
+  <detail>Fulfill all Daemon Requests.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>Quest Clearer</name>
+  <detail>Clear a quest you have downloaded in Cross-Quest mode.</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>Super Quest Clearer</name>
+  <detail>Clear ten quests you have downloaded in Cross-Quest mode.</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>Quest Creator</name>
+  <detail>Upload a quest you have created in Cross-Quest mode.</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="S" pid="000">
+  <name>Super Quest Creator</name>
+  <detail>Upload ten quests you have created in Cross-Quest mode.</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>Stage Trap Enthusiast</name>
+  <detail>Use a stage trap.</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="G" pid="000">
+  <name>Stage Trap Master</name>
+  <detail>Use all stage traps.</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>100 Souls Claimed</name>
+  <detail>Kill a total of 100 enemies.</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="S" pid="000">
+  <name>1,000 Souls Claimed</name>
+  <detail>Kill a total of 1,000 enemies.</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>Ten-Streak</name>
+  <detail>Score a 10+ hit combo.</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="S" pid="000">
+  <name>Fifteen-Streak</name>
+  <detail>Score a 15+ hit combo.</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>Jailor</name>
+  <detail>Capture an enemy.</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>Voyeur</name>
+  <detail>Download a replay.</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>Filmmaker</name>
+  <detail>Upload a replay.</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="S" pid="000">
+  <name>Elaborate Expert</name>
+  <detail>Earn at least 999,999 Elaborate Exp.</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="S" pid="000">
+  <name>Sadistic Expert</name>
+  <detail>Earn at least 999,999 Sadistic Exp.</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="S" pid="000">
+  <name>Humiliating Expert</name>
+  <detail>Earn at least 999,999 Humiliating Exp.</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="S" pid="000">
+  <name>Big Earner</name>
+  <detail>Earn more than 700,000 Warl in total.</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="S" pid="000">
+  <name>Ark Master</name>
+  <detail>Earn more than 2,000,000 Ark in total.</detail>
+ </trophy>
+</trophyconf>

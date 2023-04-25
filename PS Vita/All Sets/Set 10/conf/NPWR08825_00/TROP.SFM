@@ -1,0 +1,56 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000064bfc8d84912b0a5a783ef7be3ffd89a78155272699bd5cffb141d4cd44cd782da617475ab7da338726cbc8e3c66244c044b6dd8b875ce1e67ac34c47be697c08990684cd3ee0c6db20426d42bff6e35fa5fbd038e7f44df3669be6fd405c51ccf0e8b7fe0fea2f24232d0cde885429ce8bac047948a8e7ed8623cf91ade63a8d502f6a9d96576f58e8eb7b20ae59d33fd03bae6-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR08825_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Medieval Defenders</title-name>
+ <title-detail>The trophy set of Medieval Defenders</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Worker</name>
+  <detail>Build 50 towers</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>General</name>
+  <detail>Kill 1,000 enemies</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Furious</name>
+  <detail>Manually send 100 waves of enemies</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Seller</name>
+  <detail>Sell 30 towers</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Head Hunter</name>
+  <detail>Earn 100,000 coins</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Merlin</name>
+  <detail>Kill 500 enemies with spells</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>In the balance</name>
+  <detail>Complete level when your castle has 1 HP</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="-1">
+  <name>Builder</name>
+  <detail>Build 1,000 towers</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="-1">
+  <name>Meat-grinder</name>
+  <detail>Kill 50,000 enemies</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="-1">
+  <name>Innovator</name>
+  <detail>Fully upgrade 200 towers</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="-1">
+  <name>Tycoon</name>
+  <detail>Sell 500 towers</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="-1">
+  <name>Faithful payment</name>
+  <detail>Complete all levels with 3 stars</detail>
+ </trophy>
+</trophyconf>

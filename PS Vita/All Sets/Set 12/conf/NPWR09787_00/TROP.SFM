@@ -1,0 +1,112 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000082c144ef96483bc70ea046a8a5bf62a7d2ac0f9dc9c8bf6f031f648fa6162613cf89d7736ce0d17ed196707f97392916f6bc0307e356b9100a0f8d2befcc7ec61b78da8728436813858164495edb024a15c5886749869887b8bc9fed0c276a137fe172bb4cd1ebe69ca74d03e43f3d6302084fd2da054fe3a08425d4cfa986f25fc00b0f35476ff413906868f8ff5118d2a65aca-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR09787_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Handball 16</title-name>
+ <title-detail>Handball 16</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Uncontested master</name>
+  <detail>All trophies have been unlocked.&#x0a;&#x0a;</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Team spirit</name>
+  <detail>Complete 50 passes in a match.&#x0a;</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Reflexes!</name>
+  <detail>Stop a 7-metre throw for the first time.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Psychological warfare</name>
+  <detail>Score on a 7-metre throw for the first time.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>Shoot like a pro</name>
+  <detail>Score a goal with a spin shot for the first time.&#x0a;</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>Neither winner nor loser</name>
+  <detail>Draw a match.&#x0a;</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>Not nice!</name>
+  <detail>Commit a foul by pushing an opponent.&#x0a;</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>What's yours is mine!</name>
+  <detail>Intercept a ball for the first time.&#x0a;</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>Professional calling</name>
+  <detail>Start a career.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>First victory</name>
+  <detail>Win a match for the first time.&#x0a;</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>Welcome to the match!</name>
+  <detail>Play your first match.&#x0a;</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>Strategists</name>
+  <detail>Activate a tactic at each position in a match.&#x0a;</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>Thief</name>
+  <detail>Intercept the ball 5 times in a match.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>The Wall</name>
+  <detail>Block 5 shots in a match.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>I'm no longer a rookie</name>
+  <detail>Finish your first season in any mode.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>Unstoppable</name>
+  <detail>Score 5 goals in a row.&#x0a;</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>Surge</name>
+  <detail>Maximize a skill.&#x0a;</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>Almost a master</name>
+  <detail>Maximize half of your skills.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>Invincible</name>
+  <detail>Lead the match from start to finish.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="000">
+  <name>Spectacular come-back</name>
+  <detail>Regain the lead in the second half.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="G" pid="000">
+  <name>Fair play</name>
+  <detail>Don't commit an offense foul during a team match.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="G" pid="000">
+  <name>Crushing victory</name>
+  <detail>Win a match by 10 goals.&#x0a;</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="G" pid="000">
+  <name>The thrill of the challenge</name>
+  <detail>Finish all the challenges.&#x0a;</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="G" pid="000">
+  <name>Gold medal</name>
+  <detail>Win a season in any mode.&#x0a;</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="G" pid="000">
+  <name>Celebrity</name>
+  <detail>Be recruited by a 4-star team.&#x0a;</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="G" pid="000">
+  <name>Best player in the world</name>
+  <detail>Raise all of your skills as far as possible.&#x0a;</detail>
+ </trophy>
+</trophyconf>

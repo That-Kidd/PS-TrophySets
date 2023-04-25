@@ -1,0 +1,92 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000006a0a7ada9e1f8835eb93f8d4c71185d84115f3e292010d1f8113fcbeeae9402a12d45c71a4567a455ea5a6a5bb15b3aab89bbf6849535b6e7577ad0a872c15364b657f3b636dc10178da75d0701f704897662d5a587ecd887e298cc5254471b28e1cd6386b37c7d8406dace9c0c3326c07d32c7a0b4e00c7d1cbd04def187e739fe5bb4145063ef7437149170715e934ac64c51-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR14297_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Super Hydorah</title-name>
+ <title-detail>Trophy set for Super Hydorah</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Legendary pilot</name>
+  <detail>Get all trophies!</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Escaping astronaut</name>
+  <detail>Find an escaping astronaut.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>Shining giant egg</name>
+  <detail>Find a giant green egg.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>Real pink elephant</name>
+  <detail>Find a pink elephant.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>Jumping flower</name>
+  <detail>Find a jumping flower.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>Moon stone</name>
+  <detail>Find a floating blue stone.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>Chest of Grialia</name>
+  <detail>Find the chest of Grialia.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>Bad ending</name>
+  <detail>Destroy Hydorah.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>Good ending</name>
+  <detail>Destroy Hydorah and all his seeds.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>Hero ending</name>
+  <detail>Destroy Hydorah and all his seeds using no continues.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>All secrets</name>
+  <detail>Find all hidden secrets in the game.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>Private</name>
+  <detail>Complete a mission with a score of 50000 points or more.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>1st Private</name>
+  <detail>Complete a mission with a score of 100000 points or more.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>Corporal</name>
+  <detail>Complete a mission with a score of 150000 points or more.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>1st Corporal</name>
+  <detail>Complete a mission with a score of 200000 points or more.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>Sergeant</name>
+  <detail>Complete a mission with a score of 250000 points or more.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>1st Sergeant</name>
+  <detail>Complete a mission with a score of 300000 points or more.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>Brigadier</name>
+  <detail>Complete a mission with a score of 350000 points or more.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="G" pid="000">
+  <name>2nd Lieutenant</name>
+  <detail>Complete a mission with a score of 400000 points or more.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="G" pid="000">
+  <name>Lieutenant</name>
+  <detail>Complete a mission with a score of 450000 points or more.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="G" pid="000">
+  <name>Captain</name>
+  <detail>Complete a mission with a score of 500000 points or more.</detail>
+ </trophy>
+</trophyconf>

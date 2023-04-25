@@ -1,0 +1,128 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000002b1c22bb4539ff4f169c18c11405972e133f810747752a8a31cad92c8c55aaf2c0be55cf042928f585dd8ad16230565eabb7aaf34ae9a86ce568998f67088c32aadaee44ac7e941e24c87d94f0ae016544f326160caf714d28f3eab459e7bff603b82230aeda970a29ba0138c038b388319bc2a7621f4625e62f647a481b7986841da86c7880ea765f1098ab1d9df8e15288be87-->
+<trophyconf version="1.1" platform="ps3,psp2" policy="large">
+ <npcommid>NPWR05661_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>IS＜インフィニット・ストラトス＞2&#x0a;イグニッション・ハーツ</title-name>
+ <title-detail>IS＜インフィニット・ストラトス＞2&#x0a;イグニッション・ハーツ&#x0a;トロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>イグニッション・ハーツ</name>
+  <detail>すべてのトロフィーを解除達成！</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="G" pid="000">
+  <name>オープン・ユア・ハート</name>
+  <detail>７ヒロインをクリアー</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="G" pid="000">
+  <name>シンデレラ・ヒール</name>
+  <detail>５ヒロインをクリアー</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="G" pid="000">
+  <name>一夏の想いで</name>
+  <detail>１ヒロインをクリアー</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>ラブリー・スタイル</name>
+  <detail>CGギャラリーをコンプリート</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>ザ・シークレット・ベース</name>
+  <detail>シーンギャラリーをコンプリート</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>透色和音</name>
+  <detail>BGMギャラリーをコンプリート</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>「篠ノ之箒」エンド</name>
+  <detail>「篠ノ之箒」ルートをクリア</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>「セシリア・オルコット」エンド</name>
+  <detail>「セシリア・オルコット」ルートをクリア</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>「凰鈴音」エンド</name>
+  <detail>「凰鈴音」ルートをクリア</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>「シャルロット・デュノア」エンド</name>
+  <detail>「シャルロット・デュノア」ルートをクリア</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>「ラウラ・ボーデヴィッヒ」エンド</name>
+  <detail>「ラウラ・ボーデヴィッヒ」ルートをクリア</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>「更識楯無」エンド</name>
+  <detail>「更識楯無」ルートをクリア</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>「更識簪」エンド</name>
+  <detail>「更識簪」ルートをクリア</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="B" pid="000">
+  <name>ご褒美イベント</name>
+  <detail>初めてご褒美イベントを見た</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>パッションイベント</name>
+  <detail>初めてパッションイベントを見た</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>１ｓｔＤＡＹ</name>
+  <detail>共通ルート１日目をクリア</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>２ｎｄＤＡＹ</name>
+  <detail>共通ルート２日目をクリア</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>３ｒｄＤＡＹ</name>
+  <detail>共通ルート３日目をクリア</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>４ｔｈＤＡＹ</name>
+  <detail>共通ルート４日目をクリア</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="000">
+  <name>５ｔｈＤＡＹ</name>
+  <detail>共通ルート５日目をクリア</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>６ｔｈＤＡＹ</name>
+  <detail>共通ルート６日目をクリア</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="B" pid="000">
+  <name>７ｔｈＤＡＹ</name>
+  <detail>共通ルート７日目をクリア</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>絢爛舞踏</name>
+  <detail>「篠ノ之箒」のパッションイベントを初めて見た</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="000">
+  <name>ブルー・ティアーズ</name>
+  <detail>「セシリア・オルコット」のパッションイベントを初めて見た</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="B" pid="000">
+  <name>双天牙月</name>
+  <detail>「凰鈴音」のパッションイベントを初めて見た</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>高速切替</name>
+  <detail>「シャルロット・デュノア」のパッションイベントを初めて見た</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="B" pid="000">
+  <name>VTシステム</name>
+  <detail>「ラウラ・ボーデヴィッヒ」のパッションイベントを初めて見た</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="B" pid="000">
+  <name>クリア・パッション</name>
+  <detail>「更識楯無」のパッションイベントを初めて見た</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="B" pid="000">
+  <name>春雷</name>
+  <detail>「更識簪」のパッションイベントを初めて見た</detail>
+ </trophy>
+</trophyconf>

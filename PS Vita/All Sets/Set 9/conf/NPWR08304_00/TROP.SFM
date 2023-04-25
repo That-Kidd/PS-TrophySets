@@ -1,0 +1,120 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000009e7c68e44727a57a6fda8276e92f22efb7f3f1fdb2de259942bc2ae246de29c449dfdb4d28117a9adda973ec32b15a82b79ea3f964a1d52079c0f108386a458fa701aa2af156a015db8d45a4e5e552dd2513b50fe4e5cf6810221dd417e45e31964e5f3e1ab0b2b99e083b97b293bf4343aa0f09de2569b017e5df4d7a33fba0c23fcffd34f7237bdd360733713b939b379e2d33-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR08304_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Titan Souls</title-name>
+ <title-detail>Trophy pack for Titan Souls</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Ascension</name>
+  <detail>Collect all Trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Out of the Frying Pan...</name>
+  <detail>Open the first sealed gate</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>...Into the Fire</name>
+  <detail>Open the second sealed gate</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>First Blood</name>
+  <detail>Slay a Titan</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>Laser Eye Surgery</name>
+  <detail>Kill the eye cube while pulling back the arrow</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>Drug Trial</name>
+  <detail>Succumb to the effect of spores for 30 seconds total</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>Demo Man</name>
+  <detail>Kill the knight after destroying all pillars</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>COME AT ME BRO</name>
+  <detail>Kill the rolling Titan in under 5 seconds</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>Leak Spin</name>
+  <detail>Kill the skull Titan as it spins</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>Beating the Yeti</name>
+  <detail>Finish in under 10 seconds...</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>Titanic</name>
+  <detail>Destroy all icebergs</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>A Collision of Souls</name>
+  <detail>Knock yourself out in the battle for the Titan Soul</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>Shadow of the Giant</name>
+  <detail>Kill the broken statue Titan while pulling back the arrow</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>Slimeball</name>
+  <detail>Kill the sludge Titan with no more possible divisions</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>Short Back and Sides</name>
+  <detail>Cut all the vines off the plant Titan</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>Dental Plan</name>
+  <detail>Remove all teeth from the mountain Titan then kill it</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>The Switch</name>
+  <detail>Trigger the Guardian's switches with the opposite hands and kill it</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>Bomber Titan</name>
+  <detail>Drop a bomb on the lava blob Titan's head</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>Titan Soul</name>
+  <detail>Beat the game</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="000">
+  <name>Ca$h Mon£y</name>
+  <detail>Produce 50 coins in the chest fight</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>Brain Freeze</name>
+  <detail>Kill the brain with a flaming arrow</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="G" pid="000">
+  <name>Iron Titan</name>
+  <detail>Beat the game in Iron Mode with Hard Mode active</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="G" pid="000">
+  <name>TRUTH</name>
+  <detail>See the Truth</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="G" pid="000">
+  <name>New Game+</name>
+  <detail>Beat the game in Hard Mode</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="G" pid="000">
+  <name>Aerodynamics</name>
+  <detail>Beat the game in under 20 minutes</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="G" pid="000">
+  <name>Iron Human</name>
+  <detail>Beat the game in Iron Mode</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="G" pid="000">
+  <name>Hard Bizkit</name>
+  <detail>Beat the game without rolling rolling rolling (in No Roll mode)</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="G" pid="000">
+  <name>Iron God</name>
+  <detail>Slay all Titans in Iron Mode</detail>
+ </trophy>
+</trophyconf>

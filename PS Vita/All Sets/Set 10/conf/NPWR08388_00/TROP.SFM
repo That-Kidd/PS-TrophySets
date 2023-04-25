@@ -1,0 +1,208 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000cef9d87f5cd4b331aa92d6171da479e25827c5924dab079b300f7389cce4e8648a6a0e2dfda9d262a393179c817bd857ff1bdf5f0d8bfee55711aa94d29af8f56b3a6141c5decc94ded056c045b9a9c440dec67a60e3879823df0e1b967366fb8e89448fa27b0697f43e968485f47e2a71e877cb8a23ef5526e24f5410b1d2e89dfdc38b6951b6b22234811d534a0ed7ed03cccd-->
+<trophyconf version="1.1" platform="ps3,psp2,ps4" policy="large">
+ <npcommid>NPWR08388_00</npcommid>
+ <trophyset-version>01.06</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Shovel Knight: Treasure Trove</title-name>
+ <title-detail>Shovel Knight: Treasure Trove Trophies</title-detail>
+ <group id="001">
+  <name>Plague of Shadows</name>
+  <detail>Plague of Shadows Trophies</detail>
+ </group>
+ <group id="002">
+  <name>Specter of Torment</name>
+  <detail>Specter of Torment Trophies</detail>
+ </group>
+ <group id="003">
+  <name>King of Cards</name>
+  <detail>King of Cards Trophies</detail>
+ </group>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Shovel Justice</name>
+  <detail>Earn all other Trophies.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="000">
+  <name>Victory!</name>
+  <detail>Finish the game.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>Music Lover</name>
+  <detail>Obtain and return all song scrolls.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Decked Out</name>
+  <detail>Purchase or unlock all relics, equipment, and upgrades.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>Relic Roundtable</name>
+  <detail>Defeat an enemy by using each relic.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>Nice Hat...</name>
+  <detail>Help out all the moochers in the fancy shop.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>Reflect Lord</name>
+  <detail>Hit enemies with a reflected projectile 30 times.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>Again!</name>
+  <detail>Finish New Game Plus.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>Hall Champion</name>
+  <detail>Solve the woes of the Hall of Champions.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>Well Met</name>
+  <detail>Defeat all of the wandering travelers.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>Halfway</name>
+  <detail>Defeat 4 of the Order of No Quarter.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>No Damage!</name>
+  <detail>Finish any Stage without taking damage.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>Impossible!</name>
+  <detail>Finish the game without dying.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="000">
+  <name>Penny Pincher</name>
+  <detail>Finish the game without spending any money.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="000">
+  <name>Perfect Platformer</name>
+  <detail>Finish the game without falling into a bottomless pit.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="G" pid="000">
+  <name>Checkpointless</name>
+  <detail>Destroy every possible checkpoint in the game.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Flare Wander</name>
+  <detail>Defeat an enemy with the Flare Wand from more than 25 blocks away.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Another Dimension</name>
+  <detail>Collect 2000 worth of gold lying on spikes, while using the Phase Locket.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>Super Sphere</name>
+  <detail>Destroy 5 enemies within 5 seconds using Chaos Spheres.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Knuckle Down</name>
+  <detail>Hang in the air for more than 4 seconds using the Dust Knuckles.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>Reflected Riches</name>
+  <detail>Bounce the same Alchemy Coin 5 times in a row.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>Arc of Iron</name>
+  <detail>Defeat 3 enemies with one Throwing Anchor.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>Flying Feat</name>
+  <detail>Defeat 3 enemies using the Propeller Dagger without touching the ground.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>Boom!</name>
+  <detail>Defeat 5 foes at once using the War Horn.</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>Clearing a Path</name>
+  <detail>Run over 5 enemies using the same Mobile Gear.</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>I'm Alive!</name>
+  <detail>Finish any stage without dying.</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="G" pid="000">
+  <name>True Shovelry</name>
+  <detail>Beat the game without collecting any relics.</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="G" pid="000">
+  <name>Hurry Up!</name>
+  <detail>Finish the game within 1 hour and 30 minutes.</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>Order of Hoarders</name>
+  <detail>Have 50000 gold on hand.</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>Get the Point</name>
+  <detail>Destroy all checkpoints and finish a single stage.</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>Untouched</name>
+  <detail>Emerge unscathed from a battle with any Knight of the Order of No Quarter.</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>Shovel Economy</name>
+  <detail>Finish a level and swing the Shovel Blade fewer than 20 times.</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>On a Diet</name>
+  <detail>Finish a level without eating any food.</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>Sparker</name>
+  <detail>Finish off any boss using the Ground Spark technique.</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>You're Fired</name>
+  <detail>Finish off the Black Knight with a reflected shot.</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>Juggler</name>
+  <detail>Impress Mona with your skills.</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>Dirt Poor</name>
+  <detail>Don't collect any gold for an entire Order of No Quarter stage.</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>Hooper</name>
+  <detail>Bounce on the Hoop Kid's hoop for 5 seconds.</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>Victory!</name>
+  <detail>Finish the game as Plague Knight.</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="S" pid="-1" gid="001">
+  <name>Master Alchemist</name>
+  <detail>Achieve all Plague Knight Feats.</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="B" pid="-1" gid="002">
+  <name>Victory!</name>
+  <detail>Finish the game as Specter Knight.</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="S" pid="-1" gid="002">
+  <name>Reaper of Renown</name>
+  <detail>Achieve all Specter Knight Feats.</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="S" pid="-1" gid="003">
+  <name>Victory!</name>
+  <detail>Finish the game as King Knight.</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="S" pid="-1" gid="003">
+  <name>Merit Badge</name>
+  <detail>Collect all Merit Medals.</detail>
+ </trophy>
+ <trophy id="044" hidden="no" ttype="B" pid="-1" gid="003">
+  <name>Cartography King</name>
+  <detail>Find and complete all stages and stage paths, and defeat all wandering travelers.</detail>
+ </trophy>
+ <trophy id="045" hidden="no" ttype="S" pid="-1" gid="003">
+  <name>Card Completionist</name>
+  <detail>Obtain all Joustus cards.</detail>
+ </trophy>
+ <trophy id="046" hidden="no" ttype="G" pid="-1" gid="003">
+  <name>King Regnant</name>
+  <detail>Achieve all King Knight Feats.</detail>
+ </trophy>
+</trophyconf>

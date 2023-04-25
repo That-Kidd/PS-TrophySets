@@ -1,0 +1,152 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000007b4f1b50c2fd930b22753facbae936ae5b6f9c59a40eb3b800bfee63e4cd9c3a7c11b01d05c0171b13218b2b6e4a2663eeb16670fe1ee8bafb9a17b6241bb6a2dc48e50e5be0649091550a6fe9373c4031d9b52c85185a7a85cb2272305f7c265a5524e84184a6b12cd61d4dab1a8198976072b6af46fe38081fd2cfbb2fd90e85d0d78fd5afc0cff978d231574cb7a388e5a14e-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR05951_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>LOST DIMENSION</title-name>
+ <title-detail>LOST DIMENSION</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>オール・コンプリート</name>
+  <detail>全てのトロフィーを取得した</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>強いられた投票</name>
+  <detail>第1階層をクリア</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>淘汰された文明の記憶</name>
+  <detail>第2階層をクリア</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>仄暗き鉄の空洞</name>
+  <detail>第3階層をクリア</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="S" pid="000">
+  <name>滅びを忘れた陵墓</name>
+  <detail>第4階層をクリア</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="S" pid="000">
+  <name>世界の狭間にある矛盾</name>
+  <detail>最終階層をクリア</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>ヒメノとの絆</name>
+  <detail>ヒメノとの絆を深めた</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>トウヤとの絆</name>
+  <detail>トウヤとの絆を深めた</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>マナとの絆</name>
+  <detail>マナとの絆を深めた</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>ナギとの絆</name>
+  <detail>ナギとの絆を深めた</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>ソウジロウとの絆</name>
+  <detail>ソウジロウとの絆を深めた</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>ゼンジとの絆</name>
+  <detail>ゼンジとの絆を深めた</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>マルコとの絆</name>
+  <detail>マルコとの絆を深めた</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>ヨウコとの絆</name>
+  <detail>ヨウコとの絆を深めた</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>アギトとの絆</name>
+  <detail>アギトとの絆を深めた</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>ジョージとの絆</name>
+  <detail>ジョージとの絆を深めた</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="G" pid="000">
+  <name>選ばれた可能性</name>
+  <detail>真のエンディングを見た</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="S" pid="000">
+  <name>すべてを見通す眼</name>
+  <detail>裏切り者だけをジャッジしてクリアした</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="G" pid="000">
+  <name>真なる力の打倒</name>
+  <detail>ジ・エンドの真の力を引きだし、打倒した</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>戦いの始まり</name>
+  <detail>初めてクエストをクリアした</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="G" pid="000">
+  <name>任務完遂</name>
+  <detail>全てのクエストをクリアした</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>開放された力</name>
+  <detail>ギフトを一つ開放した</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="S" pid="000">
+  <name>完全なる覚醒</name>
+  <detail>任意のキャラのギフトを全て開放した</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>力を合わせて</name>
+  <detail>仲間と協力して合計２０回敵を倒した</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>高評価</name>
+  <detail>戦闘評価でSをとった</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="G" pid="000">
+  <name>完璧な指揮</name>
+  <detail>全てのクエストの戦闘評価でSを獲得した</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>葛藤の霧、降り止まぬ嘘</name>
+  <detail>ディープヴィジョンを成功させた</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>託された一手</name>
+  <detail>リファーを30回使用した</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>真実の欠片は塔の片隅に</name>
+  <detail>TIPSファイルを発見した</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="S" pid="000">
+  <name>封印された真実</name>
+  <detail>TIPSを全て集めた&#x0a;</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="B" pid="000">
+  <name>一網打尽</name>
+  <detail>敵を５体一度に撃破した&#x0a;</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="B" pid="000">
+  <name>六重奏の恍惚を</name>
+  <detail>５人での援護を達成した</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="B" pid="000">
+  <name>戦場を駆ける</name>
+  <detail>短いターン数でステージをクリアした</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>力の暴走</name>
+  <detail>暴走キャラで敵を倒した</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>エネルギーの物質化</name>
+  <detail>ジェネレーターで初めて武器を生成した</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>叛逆者候補</name>
+  <detail>ヴィジョン履歴画面で誰かに赤い目印をつけた</detail>
+ </trophy>
+</trophyconf>

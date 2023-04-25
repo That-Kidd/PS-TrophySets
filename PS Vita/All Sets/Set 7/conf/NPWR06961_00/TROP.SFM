@@ -1,0 +1,92 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000005f10d02061f9b1f16d8d9426a1835e6cc45cbae8812ce0775cbb476a1fe717e1a17d58ef4942156514d8f522426d660026ad210dfb624aef0c58ddd025558afe2f4e31f111b0516c3acfc4d934c3abb2616c059d2f38039bf5af893cdad03188e409db5d5170321f6ae5e57dc7420e07d900abf419230a449fa0d7a8fed39d666be09ff5e65e5ff1c20dcd75b0bd69d009f579d1-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR06961_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>キスベル</title-name>
+ <title-detail>『キスベル』トロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>コンプリート</name>
+  <detail>『キスベル』を全てプレイしていただき、ありがとうございました。</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="000">
+  <name>ゲーム開始</name>
+  <detail>ゲームを開始しました。</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>Ａｃｔ．１開始</name>
+  <detail>『共通　Ａｃｔ．１』に入りました。</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>Ａｃｔ．２開始</name>
+  <detail>『共通　Ａｃｔ．２』に入りました。</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>Ａｃｔ．３開始</name>
+  <detail>『共通　Ａｃｔ．３』に入りました。</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>高幡ちはる開始</name>
+  <detail>『高幡ちはる』ルートに入りました。</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>長津田夕美開始</name>
+  <detail>『長津田夕美』ルートに入りました。</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>梶矢彩乃開始</name>
+  <detail>『梶矢彩乃』ルートに入りました。</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>宮前エリ開始</name>
+  <detail>『宮前エリ』ルートに入りました。</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>月見若菜開始</name>
+  <detail>『月見若菜』ルートに入りました。</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>渋谷みつば開始</name>
+  <detail>『渋谷みつば』ルートに入りました。&#x0a;</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>高幡ちはる終了</name>
+  <detail>『高幡ちはる』ルートが終了しました。&#x0a;</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>長津田夕美終了</name>
+  <detail>『長津田夕美』ルートが終了しました。</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="000">
+  <name>梶矢彩乃終了</name>
+  <detail>『梶矢彩乃』ルートが終了しました。</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="000">
+  <name>宮前エリ終了</name>
+  <detail>『宮前エリ』ルートが終了しました。</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="G" pid="000">
+  <name>月見若菜終了</name>
+  <detail>『月見若菜』ルートが終了しました。</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="G" pid="000">
+  <name>渋谷みつば終了</name>
+  <detail>『渋谷みつば』ルートが終了しました。</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="S" pid="000">
+  <name>ちはる・ウェディング終了</name>
+  <detail>『ちはる・ウェディング』が終了しました。</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="S" pid="000">
+  <name>夕美・ウェディング終了</name>
+  <detail>『夕美・ウェディング』が終了しました。</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="S" pid="000">
+  <name>彩乃・ウェディング終了</name>
+  <detail>『彩乃・ウェディング』が終了しました。</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="S" pid="000">
+  <name>エリ・ウェディング終了</name>
+  <detail>『エリ・ウェディング』が終了しました。</detail>
+ </trophy>
+</trophyconf>

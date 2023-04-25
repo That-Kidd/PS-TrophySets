@@ -1,0 +1,84 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000004ab8d0fc48f268f21ab6543da3f0c1366ddd35be13aa472e16bf656418e251829be75ba74df940e573067ff2941a03202e98537210eb16761691d926478f34708c7c541feabd9c7fbaacd38e29353643fba3b03fe824bbe637ec3900830243fa84ad5976ab54cbe465f5e009ef62eb5b4d2b8fa49b623885b43a9d26bacd3d70ca81e3fb8942822293d0480de23ddbc3e9050ece-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR17526_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Furwind</title-name>
+ <title-detail>Furwind</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Knowing the whole world</name>
+  <detail>Complete 100% of the game</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>I can start from here</name>
+  <detail>Activate a checkpoint and start your journey</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>Compulsive buyer</name>
+  <detail>Buy all shop upgrades</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>The essence of the fallen</name>
+  <detail>Defeat the first boss</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>The end of the evil ancestor?</name>
+  <detail>Defeat the second boss</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>The true end of Darhûn</name>
+  <detail>Defeat the last boss</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>Traveller fox</name>
+  <detail>Complete all levels</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>King of challenges</name>
+  <detail>Complete all challenges</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>All our brothers came back!</name>
+  <detail>Rescue all prisoners</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>Swallowed by the darkness</name>
+  <detail>Run out of fireflies</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>Smells like scorched fox</name>
+  <detail>Fall into lava</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>The great grenadier</name>
+  <detail>Kill three enemies at the same time with a seedbomb</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>A rich in a forest</name>
+  <detail>Accumulate more than 777 gems</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="000">
+  <name>Hunting Queen forest sprite</name>
+  <detail>Search and catch the queen forest sprite</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="000">
+  <name>Hunting Queen cave sprite</name>
+  <detail>Search and catch the queen cave sprite</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="G" pid="000">
+  <name>Hunting Queen tower sprite</name>
+  <detail>Search and catch the queen tower sprite</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="S" pid="000">
+  <name>Shaklu Blessings</name>
+  <detail>Get the power to fly</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="S" pid="000">
+  <name>Koljin Blessings</name>
+  <detail>Get the healing power</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="S" pid="000">
+  <name>Torgha Blessings</name>
+  <detail>Get the wildfire power</detail>
+ </trophy>
+</trophyconf>

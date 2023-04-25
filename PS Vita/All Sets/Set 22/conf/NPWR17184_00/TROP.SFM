@@ -1,0 +1,232 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000e23e69c8bcce1ce7119731df238afe8d97569383c57eb95a8b927803bb6e41e05cc34e63814953a58d9e7270d72ba7f8af0a2e0ce86cdcb46dc2d0cafcacf04828048ccc8e725a81b31b500dc0d53ff9d232f3f642e02f7dd0ddd792b9c04f84b624b05df204a22a9caecac213ce02e0fc7ffe6e896785cf0687f9d85a3e25d47a6d7a2cb658221a13e3a60a0bfe35986569cffd-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR17184_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Block-a-Pix Deluxe</title-name>
+ <title-detail>The trophy set of Block-a-Pix Deluxe</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Block Wise</name>
+  <detail>Collect all the trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="000">
+  <name>Chock-a-block 1</name>
+  <detail>Solve all the puzzles on page 1</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>Chock-a-block 2</name>
+  <detail>Solve all the puzzles on page 2</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>Chock-a-block 3</name>
+  <detail>Solve all the puzzles on page 3</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>Chock-a-block 4</name>
+  <detail>Solve all the puzzles on page 4</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>Chock-a-block 5</name>
+  <detail>Solve all the puzzles on page 5</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>Chock-a-block 6</name>
+  <detail>Solve all the puzzles on page 6</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>Chock-a-block 7</name>
+  <detail>Solve all the puzzles on page 7</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>Chock-a-block 8</name>
+  <detail>Solve all the puzzles on page 8</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>Blocksmith</name>
+  <detail>Earn a medal for any 65x100 puzzle</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>Love on the Blocks</name>
+  <detail>Solve the puzzle 'Love'</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>Block Head</name>
+  <detail>Solve the puzzle 'Girl'</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>Block Coffee</name>
+  <detail>Solve the puzzle 'Coffee'</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>Block Garden</name>
+  <detail>Solve the puzzle 'Flowers'</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>School of Block</name>
+  <detail>Solve the puzzle 'Teacher'</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>Building Blocks</name>
+  <detail>Solve the puzzle 'Bricklaying'</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Volcanic Block</name>
+  <detail>Solve the puzzle 'Volcano'</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Block Cherry</name>
+  <detail>Solve the puzzle 'Cherries'</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>Sitting on the Block of the Bay</name>
+  <detail>Solve the puzzle 'Harbor'</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Block Music</name>
+  <detail>Solve the puzzle 'Cello'</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>Mental Block</name>
+  <detail>Solve the puzzle 'Exam'</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>Goldiblocks</name>
+  <detail>Solve the puzzle 'Sunglasses'</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>Block Mirror</name>
+  <detail>Solve the puzzle 'Mirror'</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>Sherblock Holmes</name>
+  <detail>Solve the puzzle 'Detective'</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>Blockbuster</name>
+  <detail>Solve the puzzle 'At the Movies'</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>Writer's Block</name>
+  <detail>Solve the puzzle 'Writing Desk'</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>New Kid on the Block</name>
+  <detail>Solve the puzzle 'Holding Hands'</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>Block Paper Scissors</name>
+  <detail>Solve the puzzle 'Rock Paper Scissors'</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>Block Tactics</name>
+  <detail>Solve the puzzle 'Chess'</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>Block Tie</name>
+  <detail>Solve the puzzle 'Gentleman'</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>Block Market</name>
+  <detail>Solve the puzzle 'Market'</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>Block Ops</name>
+  <detail>Solve the puzzle 'Surgeon'</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>Block Climber</name>
+  <detail>Solve the puzzle 'Climber'</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>Block Magic</name>
+  <detail>Solve the puzzle 'Magician'</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>Do You Smell What the Block Is Cooking?</name>
+  <detail>Solve the puzzle 'Chef'</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>Block Sea</name>
+  <detail>Solve the puzzle 'Sunrise'</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>Block Panther</name>
+  <detail>Solve the puzzle 'Panther'</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>Block Ice</name>
+  <detail>Solve the puzzle 'Ice Cruise'</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>Block Turtle</name>
+  <detail>Solve the puzzle 'Sea Turtles'</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="000">
+  <name>Block Forest</name>
+  <detail>Solve the puzzle 'Forest'</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="B" pid="000">
+  <name>Blocker Spaniel</name>
+  <detail>Solve the puzzle 'Cocker Spaniel'</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="B" pid="000">
+  <name>Block Tower</name>
+  <detail>Solve the puzzle 'Eiffel Tower'</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="B" pid="000">
+  <name>Block-a-Doodle-Doo</name>
+  <detail>Solve the puzzle 'Hens'</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="B" pid="000">
+  <name>Block Party</name>
+  <detail>Solve the puzzle 'Dancing'</detail>
+ </trophy>
+ <trophy id="044" hidden="no" ttype="B" pid="000">
+  <name>Block Lobster</name>
+  <detail>Solve the puzzle 'Lobster'</detail>
+ </trophy>
+ <trophy id="045" hidden="no" ttype="B" pid="000">
+  <name>City Block</name>
+  <detail>Solve the puzzle 'New York Skyline'</detail>
+ </trophy>
+ <trophy id="046" hidden="no" ttype="B" pid="000">
+  <name>Block Swan</name>
+  <detail>Solve the puzzle 'Swans'</detail>
+ </trophy>
+ <trophy id="047" hidden="no" ttype="B" pid="000">
+  <name>Block Capital</name>
+  <detail>Solve the puzzle 'Rio de Janeiro'</detail>
+ </trophy>
+ <trophy id="048" hidden="no" ttype="B" pid="000">
+  <name>Block Opera</name>
+  <detail>Solve the puzzle 'Serenade'</detail>
+ </trophy>
+ <trophy id="049" hidden="no" ttype="B" pid="000">
+  <name>Block Whale</name>
+  <detail>Solve the puzzle 'Aquarium'</detail>
+ </trophy>
+ <trophy id="050" hidden="no" ttype="B" pid="000">
+  <name>Block Waves</name>
+  <detail>Solve the puzzle 'Surfing'</detail>
+ </trophy>
+ <trophy id="051" hidden="no" ttype="B" pid="000">
+  <name>Block Stars</name>
+  <detail>Solve the puzzle 'Good night'</detail>
+ </trophy>
+ <trophy id="052" hidden="no" ttype="B" pid="000">
+  <name>Road Block</name>
+  <detail>Solve the puzzle 'The Open Road'</detail>
+ </trophy>
+ <trophy id="053" hidden="no" ttype="B" pid="000">
+  <name>Glam Block</name>
+  <detail>Solve the puzzle 'Lips'</detail>
+ </trophy>
+ <trophy id="054" hidden="no" ttype="B" pid="000">
+  <name>Block of Seagulls</name>
+  <detail>Solve the puzzle 'Seagulls'</detail>
+ </trophy>
+ <trophy id="055" hidden="no" ttype="B" pid="000">
+  <name>Block Sheep</name>
+  <detail>Solve the puzzle 'Pet Sheep'</detail>
+ </trophy>
+</trophyconf>

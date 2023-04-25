@@ -1,0 +1,212 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000f32e782556331e2800f596e54cdd20524e2bf36f27f5c35716f9208859a715269f8f16db6c28b04d4781d63488ded0beacadcc3a7c5a88f5707e95f4a48d9f0a32a942f605338548f21dfef5f24eb7b903bb9f8fa2e416422632f2728dfab33d2dc260fb3b6247b49714c76bba9a8d7f6c9919d4d30d8f504d426a6475843a573d63485b5b05e72d53b18e7d0c8cfbd9990a1449-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR13709_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Ys VIII -Lacrimosa of DANA-</title-name>
+ <title-detail>Ys VIII -Lacrimosa of DANA-</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Extraordinary Adventurer</name>
+  <detail>Proof that you thoroughly read "Periplus of the Gaete Sea," written by Adol Christin.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>Completed Map</name>
+  <detail>Completed the map of the Isle of Seiren.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>Item Collector</name>
+  <detail>Achieved 100% Item Collection Rate.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>Treasure Hunter</name>
+  <detail>Achieved 100% Treasure Discovery Rate.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>Reliable Adviser</name>
+  <detail>Uncovered all entries in the [People] section of the Journal.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>Deserted Island Chef</name>
+  <detail>Uncovered all entries in the [Cook] section of the Journal.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>Skilled Angler</name>
+  <detail>Uncovered all entries in the [Fish] section of the Journal.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>Monster Expert</name>
+  <detail>Uncovered all entries in the [Monster] section of the Journal. (Except Primitive Fish)</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>Material Researcher</name>
+  <detail>Uncovered all entries in the [Materials and Ingredients] section of the Journal.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>Distant Exploration</name>
+  <detail>Traveled a total distance of 400 krimelye.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>Romantic Explorer</name>
+  <detail>Achieved 100% Location Point Discovery Rate.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>Lively Village</name>
+  <detail>Brought all survivors to Castaway Village.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>Solid Village</name>
+  <detail>Built all Castaway Village Enhancements.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>Precise Orders</name>
+  <detail>Cleared all Castaway Village Quests.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>Star of Castaway Village</name>
+  <detail>Achieved 100% Approval Rate.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>Professional Enhancement Artisan</name>
+  <detail>Enhanced a weapon to Lv. Max.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Splendid Synthesist</name>
+  <detail>Synthesized all weapons.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Triple Eight</name>
+  <detail>Obtained 888 units of a single item.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>Beast Buster</name>
+  <detail>Defeated 2000 or more monsters.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Dino Slayer</name>
+  <detail>Defeated 100 dragon-type Ancient Species.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>Skill Finisher</name>
+  <detail>Performed a Skill Finish 1000 times.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>Grand Breaker</name>
+  <detail>Activated 1000 Breaks.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>Flash Guarder</name>
+  <detail>Activated 100 Flash Guards.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>Flash Mover</name>
+  <detail>Activated 100 Flash Moves.</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>EXTRA Master</name>
+  <detail>Activated 100 EXTRA Skills.</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>Elegant Interception</name>
+  <detail>Achieved an S Rank for an Interception.</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>Historic Interceptor</name>
+  <detail>Cleared all Interceptions.</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>Bliss Artisan</name>
+  <detail>Reached Lv. MAX for all skills.</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>Red-Haired Adventurer</name>
+  <detail>Explored thoroughly with Adol.</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>Proud Noblewoman</name>
+  <detail>Explored thoroughly with Laxia.</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>Openhearted Fisherman</name>
+  <detail>Explored thoroughly with Sahad.</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>Lonely Transporter</name>
+  <detail>Explored thoroughly with Hummel.</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>Hard-Working Wild Girl</name>
+  <detail>Explored thoroughly with Ricotta.</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="B" pid="000">
+  <name>Kind Tomboy</name>
+  <detail>Explored thoroughly with Dana.</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="B" pid="000">
+  <name>Prosperous Kingdom</name>
+  <detail>Cleared all Eternia Quests.</detail>
+ </trophy>
+ <trophy id="035" hidden="yes" ttype="B" pid="000">
+  <name>Roaring Hero</name>
+  <detail>Achieved a Reputation of over 200.</detail>
+ </trophy>
+ <trophy id="036" hidden="yes" ttype="B" pid="000">
+  <name>Silence Breaker</name>
+  <detail>Defeated Mephorashmoo at the &lt;Silent Tower&gt;.</detail>
+ </trophy>
+ <trophy id="037" hidden="yes" ttype="S" pid="000">
+  <name>Nightmare Surpasser</name>
+  <detail>Saw the true ending at Nightmare difficulty or higher.</detail>
+ </trophy>
+ <trophy id="038" hidden="yes" ttype="B" pid="000">
+  <name>New Adventure</name>
+  <detail>Started a new adventure.</detail>
+ </trophy>
+ <trophy id="039" hidden="yes" ttype="B" pid="000">
+  <name>Night on the Gaete Sea</name>
+  <detail>Cleared Prologue - "Night on the Gaete Sea".</detail>
+ </trophy>
+ <trophy id="040" hidden="yes" ttype="B" pid="000">
+  <name>The Isle of Seiren</name>
+  <detail>Cleared Chapter 1 - "The Isle of Seiren".</detail>
+ </trophy>
+ <trophy id="041" hidden="yes" ttype="B" pid="000">
+  <name>Coral Reef Forest</name>
+  <detail>Cleared the &lt;Raised Coral Forest&gt;.</detail>
+ </trophy>
+ <trophy id="042" hidden="yes" ttype="B" pid="000">
+  <name>Dark Eroded Valley</name>
+  <detail>Cleared the &lt;Eroded Valley&gt;.</detail>
+ </trophy>
+ <trophy id="043" hidden="yes" ttype="B" pid="000">
+  <name>The Castaway Banquet</name>
+  <detail>Cleared Chapter 2 - "The Castaway Banquet".</detail>
+ </trophy>
+ <trophy id="044" hidden="yes" ttype="S" pid="000">
+  <name>Surpassing Gendarme</name>
+  <detail>Cleared Chapter 3 - "Surpassing Gendarme".</detail>
+ </trophy>
+ <trophy id="045" hidden="yes" ttype="B" pid="000">
+  <name>The Lost World</name>
+  <detail>Cleared Chapter 4 - "The Lost World".</detail>
+ </trophy>
+ <trophy id="046" hidden="yes" ttype="B" pid="000">
+  <name>Ancient Tilted Tower</name>
+  <detail>Cleared &lt;Baha Tower&gt;.</detail>
+ </trophy>
+ <trophy id="047" hidden="yes" ttype="S" pid="000">
+  <name>Fulfilled Ambition</name>
+  <detail>Defeated your nemesis, Okeanos.</detail>
+ </trophy>
+ <trophy id="048" hidden="yes" ttype="B" pid="000">
+  <name>Maiden of the Great Tree</name>
+  <detail>Cleared Chapter 5 - "Maiden of the Great Tree".</detail>
+ </trophy>
+ <trophy id="049" hidden="yes" ttype="B" pid="000">
+  <name>Lacrimosa of the Distant Sea</name>
+  <detail>Cleared Chapter 6 - "Lacrimosa of the Distant Sea".</detail>
+ </trophy>
+ <trophy id="050" hidden="yes" ttype="G" pid="000">
+  <name>End of the Blue Waves</name>
+  <detail>Cleared Epilogue - "End of the Blue Waves" and saw the true ending.</detail>
+ </trophy>
+</trophyconf>

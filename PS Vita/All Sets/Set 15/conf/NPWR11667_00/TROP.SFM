@@ -1,0 +1,140 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000e4e3bb23fbab0d3c63907cd3b1ce9df279a31f491bfa79773499e95851c4deb1988f6eed68337f6d67f9c0d64bfd5ee6295788bcd3904cb139ce33d4614ccd74d447a29ca85f8dedc0b4238ee41c4183496926a780668e12a30652ff16adaa3d6a038ede5906af869e55beac88d4fa10ca1fc1093df0d67092bf331adfaaa8b2c83a12ef48b672bd225c7bdd8b616e26b8dcb15d-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR11667_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>DESIRE remaster ver.</title-name>
+ <title-detail>DESIRE remaster ver.のトロフィーです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>全てのトロフィー入手</name>
+  <detail>全てのトロフィー入手した</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="000">
+  <name>デザイア探索開始</name>
+  <detail>アルが移動を開始した</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>アルバート編：１日目クリア</name>
+  <detail>アルバート編で１日目をクリアした</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>アルバート編：２日目クリア</name>
+  <detail>アルバート編で２日目をクリアした</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>アルバート編：３日目クリア</name>
+  <detail>アルバート編で３日目をクリアした</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="G" pid="000">
+  <name>アルバート編：クリア</name>
+  <detail>アルバート編をクリアした</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>マコト編：１日目クリア</name>
+  <detail>マコト編で１日目をクリアした</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>マコト編：２日目クリア</name>
+  <detail>マコト編で２日目をクリアした</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>マコト編：３日目クリア</name>
+  <detail>マコト編で３日目をクリアした</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="G" pid="000">
+  <name>マコト編：クリア</name>
+  <detail>マコト編をクリアした</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="G" pid="000">
+  <name>マルチナ編：クリア</name>
+  <detail>マルチナ編をクリアした</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="G" pid="000">
+  <name>？？？編：クリア</name>
+  <detail>？？？編をクリアした</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="G" pid="000">
+  <name>オールクリア</name>
+  <detail>全てのシナリオをクリアした</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="000">
+  <name>クラクラクラ</name>
+  <detail>研究所前で「のぼる⇒頭に血」を選択した</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="B" pid="000">
+  <name>天までとどけ</name>
+  <detail>研究所前で「のぼる⇒天」を選択した</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>節電中</name>
+  <detail>ホールで「見る・調べる⇒ライト」を選択した</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>受信中</name>
+  <detail>ホールで「話す⇒近くの人／上を向いている人」を選択した</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>むー</name>
+  <detail>ホールで「話す⇒エレベータ前の人」を選択した</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>連れ便</name>
+  <detail>ラウンジでカイルと会話中「移動する⇒逃げる」を選択した</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>ばーろー</name>
+  <detail>アルの部屋で「あびる⇒酒」を選択した</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="000">
+  <name>ばふっばふっ</name>
+  <detail>アルの部屋でクリスが来た時「だく⇒マクラ」を選択した</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>人生に飽きたなら</name>
+  <detail>浜辺で「移動する⇒海の中」を何度か選択した</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="B" pid="000">
+  <name>参考記録</name>
+  <detail>飛行場で「走る⇒全力疾走」を選択した</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>だらだらだら</name>
+  <detail>飛行場(夕)で「走る⇒だらだらと」を選択した</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="000">
+  <name>きびきびきび</name>
+  <detail>飛行場(夕)で「走る⇒きびきびと」を選択した</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="B" pid="000">
+  <name>声にならない</name>
+  <detail>宿舎前で「叫ぶ⇒小声で」を選択した</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>ビールっ腹</name>
+  <detail>宿舎前(夜)で「さけぶ⇒とり」を選択した</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="B" pid="000">
+  <name>ナニって何</name>
+  <detail>誰もいない教授の部屋で「使う⇒ナニ」を選択した</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="B" pid="000">
+  <name>ボンバーウーマン</name>
+  <detail>シルビアの部屋で「聞く⇒バストサイズ」を選択した</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="B" pid="000">
+  <name>くだをまく</name>
+  <detail>レイコの部屋に呼ばれた時「抱く⇒酒瓶」を選択した</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="B" pid="000">
+  <name>鼻下６０センチ</name>
+  <detail>カズミの部屋に行った時「見る⇒足」を何度か選択した</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="B" pid="000">
+  <name>整理整頓</name>
+  <detail>誰もいないマコトの部屋で「散らかす⇒繊細に」を選択した</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="B" pid="000">
+  <name>トレンディー</name>
+  <detail>装置暴走後の浜辺で「釣る⇒浜辺のギャル」を選択した</detail>
+ </trophy>
+</trophyconf>

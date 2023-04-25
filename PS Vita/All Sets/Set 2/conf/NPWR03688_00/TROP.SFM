@@ -1,0 +1,56 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000004ebc7899d4260ba2cdd057843429ba52d6ac0b3604bb259f2b437ce103cf13d3aa653c5c88b0e9bbca66b6beb8f20d5253b2da8ce37633d71d9ee9c9b9231ae9015095349b4c0ea56cbd338c32706a5ef55a83b723b4b9738fd79f3489a355075949121b06f3e67cc8fb3900987897ea33acb9809a9374a72c9443502fe8e79e3d7582e51b6ebfb0356a080093c38ffa017de688-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR03688_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Table Mini Golf</title-name>
+ <title-detail>The Trophies available in Table Mini Golf.</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Greenhorn</name>
+  <detail>Win an Elimination Tournament with a score of Par or lower on each hole.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>One is all you need</name>
+  <detail>Score a Hole-in-One (Single Player only).</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Challenge Accepted</name>
+  <detail>Complete all challenges for a single hole within the game (Single Player only).</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Expendiballs</name>
+  <detail>Destroy 100 balls (Single Player only).</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Chain Reaction</name>
+  <detail>Create a chain reaction between at least 3 cannon objects (Single Player only).</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Half Way There</name>
+  <detail>Reach Level 15.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Putting for Points</name>
+  <detail>Earn 10,000 points in a single hole (Single Player only).</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="-1">
+  <name>Horriball</name>
+  <detail>Win both Horror Elimination Tournaments.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="-1">
+  <name>Captain Hook-Shot</name>
+  <detail>Win both Pirate Elimination Tournaments.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="-1">
+  <name>Prestige Golfer</name>
+  <detail>Reach Level 30.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="-1">
+  <name>The Challenger</name>
+  <detail>Complete all the challenges for a single course.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="-1">
+  <name>I Have This Condition</name>
+  <detail>Unlock all mementos and complete level 30.</detail>
+ </trophy>
+</trophyconf>

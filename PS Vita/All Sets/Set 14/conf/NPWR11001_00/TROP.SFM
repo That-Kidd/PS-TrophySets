@@ -1,0 +1,96 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000094d7d4127adfa0c2106b7480694f97c33f41c61d66368dc87f04b3617ef7a031917fd3f3d75e2a6a7216c957721b20f4a1bc466770fa37127078aeda13181fad5d85b4d6223a2126c3e1faafedfa15cabe3f4783b6ad93829ed16344f748da0887cdd2ad56e5591ee070f30ebfaf54b5ecb053ea87587590534e363ab2ba6d8b6ee5d3e8c3ab812fd8176902572f29a61ab490e7-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR11001_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>明治東亰恋伽 Full Moon</title-name>
+ <title-detail>明治東亰恋伽 Full Moon のトロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>オールコンプリート</name>
+  <detail>全てのトロフィーを獲得</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="G" pid="000">
+  <name>永遠ノ答</name>
+  <detail>鴎外明治エンド「永遠ノ答」読了</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="S" pid="000">
+  <name>ツナガル言葉</name>
+  <detail>鴎外現代エンド「ツナガル言葉」読了</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="G" pid="000">
+  <name>マダ見ヌ世界ヘ</name>
+  <detail>春草明治エンド「マダ見ヌ世界ヘ」読了</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="S" pid="000">
+  <name>瞳ニ映ル未来</name>
+  <detail>春草現代エンド「瞳ニ映ル未来」読了</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>アゥフ・ヴィーダーゼーン</name>
+  <detail>鴎外・春草共通エンド「アゥフ・ヴィーダーゼーン」読了</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="G" pid="000">
+  <name>未来ノ約束</name>
+  <detail>音二郎明治エンド「未来ノ約束」読了</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>明日ヘノ舞台</name>
+  <detail>音二郎現代エンド「明日ヘノ舞台」読了</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="G" pid="000">
+  <name>鏡花水月</name>
+  <detail>鏡花明治エンド「鏡花水月」読了</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>言葉ノ続キ</name>
+  <detail>鏡花現代エンド「言葉ノ続キ」読了</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="000">
+  <name>黄昏ヲ過ギテ</name>
+  <detail>音二郎・鏡花共通エンド「黄昏ヲ過ギテ」読了</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="G" pid="000">
+  <name>コノ道ヲ二人デ </name>
+  <detail>藤田明治エンド「コノ道ヲ二人デ」読了</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>遠イ明日デ</name>
+  <detail>藤田現代エンド「遠イ明日デ」読了</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="G" pid="000">
+  <name>葬ラレタ秘密</name>
+  <detail>八雲明治エンド「葬ラレタ秘密」読了</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>妖精ノ国</name>
+  <detail>八雲現代エンド「妖精ノ国」読了</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>夜明ケ見タ夢</name>
+  <detail>八雲・藤田共通エンド「夜明ケ見タ夢」読了</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="G" pid="000">
+  <name>此処ニ或ル幸セ</name>
+  <detail>チャーリー明治エンド「此処ニ或ル幸セ」読了</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="S" pid="000">
+  <name>サヨナラノ向コウ</name>
+  <detail>チャーリー現代エンド「サヨナラノ向コウ」読了</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>君ガ僕ヲ忘レテモ</name>
+  <detail>チャーリーエンド「君ガ僕ヲ忘レテモ」読了</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="G" pid="000">
+  <name>未来ヲ描ク</name>
+  <detail>桃介明治エンド「未来ヲ描ク」読了</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="S" pid="000">
+  <name>私ノ光</name>
+  <detail>桃介現代エンド「私ノ光」読了</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>空想ノ世界デ</name>
+  <detail>桃介エンド「空想ノ世界デ」読了</detail>
+ </trophy>
+</trophyconf>

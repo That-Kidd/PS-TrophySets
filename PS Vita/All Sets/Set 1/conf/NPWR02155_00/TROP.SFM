@@ -1,0 +1,232 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000005d096e564aac95027a2e4de32d0a8c2f73e4942e5ebf0d7a7c60961ea99e51a18102cc556de2bba8884659d94875ca94afc64b60e86bf7eb29fb607887164fa409f87ad2249163014773523830929d0d1d372274ba05ab4dec5d051de0e5ea850fdcdbb41f09649b52ef3049bc4baf018ab8ccb221ba9f8aecd799d899352ce12502f8628dbe7b9865784ce4cc7e85adcf2a259e-->
+<trophyconf version="1.1" platform="psp2">
+ <npcommid>NPWR02155_00</npcommid>
+ <trophyset-version>01.03</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Uncharted: Golden Abyss™</title-name>
+ <title-detail>Uncharted: Golden Abyss™</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Platinum</name>
+  <detail>Collect all other 55 Trophies for this Trophy.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Relic Finder</name>
+  <detail>Find the strange relic.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Survivor</name>
+  <detail>Defeat 75 Enemies in a row without dying.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>100 Headshots</name>
+  <detail>Defeat 100 enemies with headshots.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>250 Headshots</name>
+  <detail>Defeat 250 enemies with headshots.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>Run-and-Gunner</name>
+  <detail>Defeat 20 enemies by shooting from the hip (without aiming with the L button).</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>Hangman</name>
+  <detail>Defeat 20 enemies with gunfire by aiming while hanging.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>50 Kills: 92FS - 9mm</name>
+  <detail>Defeat 50 enemies with the 92FS - 9mm.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>50 Kills: Micro - 9mm</name>
+  <detail>Defeat 50 enemies with the Micro - 9mm.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>30 Kills: Wes - 44</name>
+  <detail>Defeat 30 enemies with the Wes - 44.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>30 Kills: Desert - 5</name>
+  <detail>Defeat 30 enemies with the Desert - 5.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>70 Kills: FAL</name>
+  <detail>Defeat 70 enemies with the FAL.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>70 Kills: M4</name>
+  <detail>Defeat 70 enemies with the M4.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>30 Kills: Moss - 12</name>
+  <detail>Defeat 30 enemies with the Mos - 12.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>70 Kills: SAS - 12</name>
+  <detail>Defeat 70 enemies with the SAS - 12.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>50 Kills: M79</name>
+  <detail>Defeat 50 enemies with the M79.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>50 Kills: GP32 - BND</name>
+  <detail>Defeat 50 enemies with the GP32 - BND.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>50 Kills: Dragon Sniper</name>
+  <detail>Defeat 50 enemies with the Dragon Sniper.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>30 Kills: RPG - 7</name>
+  <detail>Defeat 30 enemies with the RPG - 7.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>200 Kills: GAU - 19</name>
+  <detail>Defeat 200 enemies with the GAU - 19.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>30 Kills: Mk - NDI</name>
+  <detail>Defeat 30 enemies with the Mk - NDI.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>Bare-knuckle Slugger</name>
+  <detail>Defeat 50 enemies with hand-to-hand combat.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>Master Ninja</name>
+  <detail>Defeat 50 enemies with stealth attacks.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>Steel Fist Master</name>
+  <detail>Defeat 20 enemies with a single punch, after softening them up with gunfire.</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>Steel Fist Expert</name>
+  <detail>Defeat 10 enemies in a row with a single punch, after softening them up with gunfire.</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>Charted! - Easy</name>
+  <detail>Finish the game in Easy Mode.</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="S" pid="000">
+  <name>Charted! - Normal</name>
+  <detail>Finish the game in Normal Mode.</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="G" pid="000">
+  <name>Charted! - Hard</name>
+  <detail>Finish the game in Hard Mode.</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="G" pid="000">
+  <name>Charted! - Crushing</name>
+  <detail>Finish the game in Crushing Mode.</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>Secrets of the Kuna</name>
+  <detail>Complete the Mystery.</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>Odessa Mining Company</name>
+  <detail>Complete the Mystery.</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>The Conquistadors</name>
+  <detail>Complete the Mystery.</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>Proof of Life</name>
+  <detail>Complete the Mystery.</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>Poisoned Powder</name>
+  <detail>Complete the Mystery.</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>The Revolution</name>
+  <detail>Complete the Mystery.</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>Trail of Vincent Perez</name>
+  <detail>Complete the Mystery.</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>The Sete Cidades</name>
+  <detail>Complete the Mystery.</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>The Friar's Pilgrimage</name>
+  <detail>Complete the Mystery.</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>The Lost Civilization</name>
+  <detail>Complete the Mystery.</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="000">
+  <name>The Circle of Heaven</name>
+  <detail>Complete the Mystery.</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="B" pid="000">
+  <name>The Ring of Earth</name>
+  <detail>Complete the Mystery.</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="B" pid="000">
+  <name>Treasure: Turquoise Glyphs</name>
+  <detail>Complete the treasure set.</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="B" pid="000">
+  <name>Treasure: Jade Carvings</name>
+  <detail>Complete the treasure set.</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="B" pid="000">
+  <name>Treasure: The Menagerie</name>
+  <detail>Complete the treasure set.</detail>
+ </trophy>
+ <trophy id="044" hidden="no" ttype="B" pid="000">
+  <name>Treasure: Minor Deities</name>
+  <detail>Complete the treasure set.</detail>
+ </trophy>
+ <trophy id="045" hidden="no" ttype="B" pid="000">
+  <name>Bounty: Arcana</name>
+  <detail>Complete the bounty set.</detail>
+ </trophy>
+ <trophy id="046" hidden="no" ttype="B" pid="000">
+  <name>Bounty: Pieces of Silver</name>
+  <detail>Complete the bounty set.</detail>
+ </trophy>
+ <trophy id="047" hidden="no" ttype="B" pid="000">
+  <name>Bounty: Spanish Gold</name>
+  <detail>Complete the bounty set.</detail>
+ </trophy>
+ <trophy id="048" hidden="no" ttype="B" pid="000">
+  <name>Bounty: Cádiz</name>
+  <detail>Complete the bounty set.</detail>
+ </trophy>
+ <trophy id="049" hidden="no" ttype="B" pid="000">
+  <name>Bounty: Gemstones</name>
+  <detail>Complete the bounty set.</detail>
+ </trophy>
+ <trophy id="050" hidden="no" ttype="B" pid="000">
+  <name>Puzzle Master</name>
+  <detail>Complete all puzzles.</detail>
+ </trophy>
+ <trophy id="051" hidden="no" ttype="B" pid="000">
+  <name>Rub One Out</name>
+  <detail>Complete all rubbings.</detail>
+ </trophy>
+ <trophy id="052" hidden="no" ttype="B" pid="000">
+  <name>Paparazzo</name>
+  <detail>Complete all photographs.</detail>
+ </trophy>
+ <trophy id="053" hidden="no" ttype="B" pid="000">
+  <name>Touch My Rear</name>
+  <detail>Use the rear touch pad to climb a rope or chain.</detail>
+ </trophy>
+ <trophy id="054" hidden="no" ttype="B" pid="000">
+  <name>The Collector</name>
+  <detail>Collect first treasure or mystery.</detail>
+ </trophy>
+ <trophy id="055" hidden="yes" ttype="B" pid="000">
+  <name>Ruffle My Feathers</name>
+  <detail>Force José Parrot to squawk out 8 unique quips.</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,156 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000001b7077e9667f89f06899a490f308f94123726f7821f69df3aebaa0090dff307e3590fbf7a78ccae404dc2d5eed23014e4092b058a2ad1f16bc649852cf5e09c096a705dfdbd4b6bc11a735c62d7636c6ae41344716f575323275720ea281229e97b96a6f2e6208c5d258b4fdbbc30f0d0056e84b96ff9d9ab37d2f7f6df689aa083ea00a30975d1839d6103e3108089db4b50947-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR04483_00</npcommid>
+ <trophyset-version>01.02</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>スロッターマニアＶ 絶対衝激Ⅱ</title-name>
+ <title-detail>スロッターマニアＶ 絶対衝激Ⅱのトロフィーアイコンです</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>絶対衝激Ⅱを極めし者</name>
+  <detail>全てのトロフィーを獲得した</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>悪即斬！！</name>
+  <detail>超絶対領域で綾が「悪即斬」を繰り出した</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>あんたチェリーなわけ？</name>
+  <detail>ボイス演出「あんたチェリーなわけ？」を聞いた</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>回胴式究極奥義！！</name>
+  <detail>バトル中に綾が回胴式究極奥義を繰り出した</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>万枚GET！！</name>
+  <detail>差枚数で１万枚以上獲得した</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>ハーフ万枚GET！！</name>
+  <detail>差枚数で５千枚以上獲得した</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>怪胴王上映中！</name>
+  <detail>映画演出で怪胴王を見た</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>屋台に潜む流氷の天使</name>
+  <detail>金魚すくい対決でクリオネを見た</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>PLATONIC RUSH突入！！</name>
+  <detail>PLATONIC RUSHに突入した</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>美しき運命の集合体</name>
+  <detail>フリーズ演出を引いた</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>当然ぢゃん！！</name>
+  <detail>ブラックアウト演出で確定演出を見た</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>どのコスプレがお好みかしら？</name>
+  <detail>キャラプロフィール表示でコスプレキャラを見た</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>Congratulations!</name>
+  <detail>ＰＵッチュ演出でキスに成功した</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>も、もう…ねじっちゃいや…</name>
+  <detail>ねじキュンチャンスで確定演出を見た</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>僕に何か用かい？</name>
+  <detail>吉田を呼ぶ時にプレミア演出を見た</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>最大上乗せGET！！</name>
+  <detail>ゲーム数上乗せで＋２００を獲得した</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>修行はまだ終わらない！！</name>
+  <detail>衝激RUSHを1000G以上継続させた</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>衝激RUSH！！</name>
+  <detail>衝激RUSHに突入した</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>か～～～っつ！！</name>
+  <detail>美子から喝を受けた</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>大チャンス！！</name>
+  <detail>カットイン演出で綾・棗・治基の3人が同時に登場した</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>やるじゃない伊勢島さん</name>
+  <detail>調理実習でハンバーグを作った</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>何が出るのよ…！？</name>
+  <detail>一万円ガチャを引いた</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>まだまだ余裕なんだから！</name>
+  <detail>ATMで札束を下ろした</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>おみくじの効果ありました…！</name>
+  <detail>おみくじで超吉を引いた</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>伊勢島綾…BONUSの準備はよろしくて？</name>
+  <detail>泉からBONUSを告げられた</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>逸品完成</name>
+  <detail>試食対決で葵に勝利した</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>水泳対決完全勝利！</name>
+  <detail>水泳対決で葵に勝利した</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>陸上対決完全勝利！</name>
+  <detail>陸上対決で葵に勝利した</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>熱血教師復活</name>
+  <detail>梓が吉田を更生させた</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>恋愛成就</name>
+  <detail>吉田が告白を成功させた</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>月麗に勝利！！</name>
+  <detail>絶対領域で月麗に勝利した</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>梓に勝利！！</name>
+  <detail>絶対領域で梓に勝利した</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>倫に勝利！！</name>
+  <detail>絶対領域で倫に勝利した</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>覚悟しなさい！この変態教師！</name>
+  <detail>超絶対領域に突入した</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>笑に勝利！！</name>
+  <detail>衝激RUSH中のバトルで笑に勝利した</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>咲に勝利！！</name>
+  <detail>衝激RUSH中のバトルで咲に勝利した</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>泉に勝利！！</name>
+  <detail>衝激RUSH中のバトルで泉に勝利した</detail>
+ </trophy>
+</trophyconf>

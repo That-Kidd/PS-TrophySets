@@ -1,0 +1,232 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000095a6a25aabdf65ed532f5a4eda3f0f571add8bf6518cf173b7500c36bef045a6d789940788c11859b6eae3002852a3c1b1fcd4fe2b82ed381ee6f51c7bcf369cd3103a79a88671f31ef288676b18315e32eacba3f522f8a885136976b067b65423f9475489cb6c4e92fce37f4692e492b8b4bdab92252095cccb7109d273d9d14909dd325f866441b505c8050ebd0e2f9c6f2e1a-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR04589_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>闇魂獻祭</title-name>
+ <title-detail>闇魂獻祭</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>魔法師們的敘事詩</name>
+  <detail>獲得所有獎盃</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>絕望的開始</name>
+  <detail>完成故事「魔法師測驗」第一章的委託</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>無法逃離的命運</name>
+  <detail>完成故事「魔法師測驗」中所有委託</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>金慾的化身便是熟知金錢</name>
+  <detail>完成故事「不道德的魔法師」中所有委託</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>朝著應有形式前進</name>
+  <detail>完成故事「魔物之子」中所有委託</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>映出內心黑暗的鏡子</name>
+  <detail>完成故事「狼男的苦惱」中所有委託</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>永不放棄的男人</name>
+  <detail>完成故事「復仇騎士」中所有委託</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>魔法師的使命</name>
+  <detail>完成故事「之後過了數年」中所有委託</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>來自過去的咒縛</name>
+  <detail>完成故事「過去的因緣」中所有委託</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>令人狂喜的宴會</name>
+  <detail>完成故事「身為人的殘存時間」中所有委託</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>傀儡們的休息</name>
+  <detail>完成故事「毀滅的開端」中所有委託</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>而世界就……</name>
+  <detail>完成故事「於是留下了記憶」中所有委託</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>跨越命運</name>
+  <detail>完成與梅林相關所有故事的狀態下，確認製作人員名單</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>未知世界的入口</name>
+  <detail>完成純潔之時代的所有委託</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>慾望之力</name>
+  <detail>完成慾望之時代的所有委託</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>所得及所失</name>
+  <detail>完成代價之時代的所有委託</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>贖罪之心</name>
+  <detail>完成贖罪之時代的所有委託</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>好勝</name>
+  <detail>完成嫉妒之時代的所有委託</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>吾才是一切</name>
+  <detail>完成傲慢之時代的所有委託</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>一個目的地</name>
+  <detail>完成斷罪之時代的所有委託</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>省思之路</name>
+  <detail>完成悔恨之時代的所有委託</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>陪審的心情</name>
+  <detail>完成懺悔之時代的所有委託</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>明天的希望</name>
+  <detail>完成回歸之時代的所有委託</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="G" pid="000">
+  <name>受人景仰的存在</name>
+  <detail>完成所有時代的委託</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>從此可獨當一面</name>
+  <detail>打倒１０種人型魔物</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>大魔法師的指標</name>
+  <detail>打倒２０種人型魔物</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>新銳魔法師</name>
+  <detail>累計獲得１００個供物</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>漸漸增強的力量</name>
+  <detail>累計獲得５００個供物</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>終於能被稱為一流了</name>
+  <detail>累計獲得１０００個供物</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="B" pid="000">
+  <name>數量代表力量、也代表勇氣</name>
+  <detail>同種供物持有３０個以上</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>保養生財道具</name>
+  <detail>修理５０個供物</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>先從這個樣式開始</name>
+  <detail>取得１種可供選擇的服裝</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>愛打扮的魔法師</name>
+  <detail>擁有６０種可供選擇的服裝</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>這個法術被禁止的理由</name>
+  <detail>學習到新的禁術</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>最後王牌與絕招</name>
+  <detail>學習到５個禁術</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>充滿回憶的右臂</name>
+  <detail>獲得的魂和氣合計達到１００個</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>眾多想法進入右臂</name>
+  <detail>獲得的魂和氣合計達到１０００個</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>供物合成的第一步</name>
+  <detail>進行供物合成</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>追求高位的魔法</name>
+  <detail>透過供物合成而獲得的供物達到５０個</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="000">
+  <name>連一根手指也沒被碰著</name>
+  <detail>「亞法隆的委託錄」中毫髮無傷擊敗人形魔物</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="S" pid="000">
+  <name>豪臂之者</name>
+  <detail>１次委託中獲得４５０點以上的戰果</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="B" pid="000">
+  <name>一會兒煮一會兒烤</name>
+  <detail>１次委託中使得人型魔物發生５次以上的狀態異常</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="S" pid="000">
+  <name>身輕如燕的魔法師</name>
+  <detail>１人僅持１個供物狀態下擊破人型魔物</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="S" pid="000">
+  <name>傳說的紡織手</name>
+  <detail>獲得５０次戰果的最高等評價</detail>
+ </trophy>
+ <trophy id="044" hidden="yes" ttype="B" pid="000">
+  <name>獨居的寂寞</name>
+  <detail>３種方式捉弄利布洛姆之書</detail>
+ </trophy>
+ <trophy id="045" hidden="yes" ttype="B" pid="000">
+  <name>從這端到那端</name>
+  <detail>翻閱利布洛姆之書所有頁面</detail>
+ </trophy>
+ <trophy id="046" hidden="yes" ttype="B" pid="000">
+  <name>耿直、單純</name>
+  <detail>持６種同樣的供物進行委託追體驗</detail>
+ </trophy>
+ <trophy id="047" hidden="yes" ttype="B" pid="000">
+  <name>可以用的就要盡量用</name>
+  <detail>１次委託中發動４個非使用供物的魔法</detail>
+ </trophy>
+ <trophy id="048" hidden="yes" ttype="B" pid="000">
+  <name>那個供物能否成為我的力量</name>
+  <detail>委託中使用供物「命運之箱」</detail>
+ </trophy>
+ <trophy id="049" hidden="no" ttype="B" pid="000">
+  <name>吾輩應前往的共鬥之道</name>
+  <detail>初次進行多人遊玩委託的追體驗</detail>
+ </trophy>
+ <trophy id="050" hidden="no" ttype="B" pid="000">
+  <name>這就是所謂一起戰鬥</name>
+  <detail>進行２０次多人遊玩委託的追體驗</detail>
+ </trophy>
+ <trophy id="051" hidden="no" ttype="B" pid="000">
+  <name>厲害的魔法師</name>
+  <detail>進行１００次多人遊玩委託的追體驗</detail>
+ </trophy>
+ <trophy id="052" hidden="no" ttype="B" pid="000">
+  <name>用魔法描繪出旅程的指標</name>
+  <detail>依照委託到訪許多地方</detail>
+ </trophy>
+ <trophy id="053" hidden="no" ttype="B" pid="000">
+  <name>禁忌是拿來打破的</name>
+  <detail>初次使用禁術</detail>
+ </trophy>
+ <trophy id="054" hidden="no" ttype="B" pid="000">
+  <name>生殺予奪出自我手</name>
+  <detail>生命ＬＶ或魔力ＬＶ達到２０</detail>
+ </trophy>
+ <trophy id="055" hidden="no" ttype="S" pid="000">
+  <name>力量高漲至頂</name>
+  <detail>生命ＬＶ或魔力ＬＶ達到９９</detail>
+ </trophy>
+</trophyconf>

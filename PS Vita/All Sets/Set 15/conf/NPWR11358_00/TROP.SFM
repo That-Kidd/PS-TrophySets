@@ -1,0 +1,60 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000071db703e2b2dbabd3944e8c919c45344d0fe62dec5be5c2260ee05f298888f2905598a022090fb6777f5ac89ebd97500431ea0ee1a5dad99f03e5a1d8f5fb95b17614dd360f59dfe4401c58908cb64e2550d5158f531cdcdd6d159c9542903c9b6e6af6919d33df5706af74b2314e7310b0274fc5f012fd8613dc80898f3b01a6ede2f4f3abd873a39619a02d2c21a85904bd2ba-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR11358_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Castle Invasion: Throne Out</title-name>
+ <title-detail>Castle Invasion: Throne Out Trophies</title-detail>
+ <trophy id="000" hidden="yes" ttype="B" pid="-1">
+  <name>Exchanging Peasantaries</name>
+  <detail>Complete Level 1</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="-1">
+  <name>Tipping the Scales</name>
+  <detail>Defeat the King's Dragon</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="-1">
+  <name>The Art of Trolling</name>
+  <detail>Defeat the King's Troll</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="-1">
+  <name>Just a Fletch Wound</name>
+  <detail>Defeat the Evil Archer</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="-1">
+  <name>Stand Tall</name>
+  <detail>Defeat the King's Commander</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="S" pid="-1">
+  <name>Receding Heir Line</name>
+  <detail>Defeat the King!</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>On a Bow String Budget</name>
+  <detail>Fully Upgrade the Bow</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Ex Spear-imental Weaponry</name>
+  <detail>Fully Upgrade the Spear</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Automatic Charges</name>
+  <detail>Fully Upgrade the Crossbow</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="-1">
+  <name>Who Says Money Can't Buy Happiness?</name>
+  <detail>Unlock all Upgrades!</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>Just Star-ting Out</name>
+  <detail>Collect 50 Stars</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="-1">
+  <name>Star-tling Progress</name>
+  <detail>Collect 100 Stars</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="-1">
+  <name>Many Re-star-ts Later</name>
+  <detail>Collect 150 Stars</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,88 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000002904047fce26255b047e32236cc976f738f1ed82711b64316b3ad54472b62c7d894316675d0582f389bb20e12c24cedf03a289f103bc92f12bd5e93e0006714ba3482ed0643a230f16c83725d81507688fc8dbbc03252d1ecd300267a49dbaf0d3a95bb8cc01262f80e6f50606b4d5f3867ce64a61fb09bd676185eab06be36489cdff2f0207978cb8d9b5707555990369a1cce5-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="freemium">
+ <npcommid>NPWR07047_00</npcommid>
+ <trophyset-version>01.03</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Spelunker Z</title-name>
+ <title-detail>Spelunker Z Trophy set</title-detail>
+ <group id="001">
+  <name>Additional Trophies</name>
+  <detail>Additional Trophies</detail>
+ </group>
+ <group id="002">
+  <name>Additional Trophies 2</name>
+  <detail>Additional Trophies 2</detail>
+ </group>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>First Adventure</name>
+  <detail>Complete 1-1.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Beginners' Certification</name>
+  <detail>Complete 1-5.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Lithograph Collection Started!</name>
+  <detail>Receive a Lithograph Ore for the first time.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Ancient Technology Resurrection</name>
+  <detail>Complete an item for the first time.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Ancient Technology Evolution</name>
+  <detail>Upgrade an item for the first time.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Gather Together</name>
+  <detail>Play Multiplayer mode for the first time.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Rescue Team</name>
+  <detail>Rescue teammate for the first time.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="-1">
+  <name>Abandoned Mine</name>
+  <detail>Complete 1-25.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="-1">
+  <name>Underground Ocean</name>
+  <detail>Complete 2-25.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="-1">
+  <name>Everybody's Friend</name>
+  <detail>Receive NICE Award for the first time.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="-1">
+  <name>Most valuable Spelunker</name>
+  <detail>Receive MVP for the first time.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="-1">
+  <name>Legend of Spelunker</name>
+  <detail>Receive MVP 100 times.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="-1" gid="001">
+  <name>Forgotten Ruins</name>
+  <detail>Complete 3-25.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="-1" gid="001">
+  <name>Raging Volcano Cave</name>
+  <detail>Complete 4-25.</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="G" pid="-1" gid="001">
+  <name>Ultimate Treasure</name>
+  <detail>Clear stages and collect 300 ☆.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="-1" gid="002">
+  <name>Beginning of Endless Cave</name>
+  <detail>Played Endless Cave.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="-1" gid="002">
+  <name>Partially Through Endless Cave</name>
+  <detail>Achieved Endless Cave 10F.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="G" pid="-1" gid="002">
+  <name>Beyond Endless Cave</name>
+  <detail>Achieved Endless Cave 50F.</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,164 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000004f0b40a3049b7608188259c83b760a98497a61f838f012f97037ab2ce7fef7c7f04e2266c13d375733bdaabf953f875f8fe4052c73a8300821ee59fa66fcc5de5401c77521c626f3b09ccf2e539984f9820e34e256d3622efa271c397d615494e333aa4a6559259ff2b7f5c52e4c38e95c48b1b79158e622433ea74b069324d5fb4f44ca2e290bff4abb64d34d91cd74e55e87c5-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR11093_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>咲-Saki-全国編Plus</title-name>
+ <title-detail>『咲-Saki-全国編Plus』のトロフィーです</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>麻雀って楽しいよね</name>
+  <detail>全てのトロフィーを獲得した</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>元気にしてたか？</name>
+  <detail>初めて対局を行った</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>一緒に楽しもうよ</name>
+  <detail>初めて通信対局を行った</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>まだまだがんばるし！</name>
+  <detail>初めて対局に勝利した</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>おつりで好きなもの買っていいわよ</name>
+  <detail>初めてコインを獲得した</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>弱いかどうか、見せてやるじぇ</name>
+  <detail>初めてキャラクターをカスタマイズした</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>かわいがってねーし！！</name>
+  <detail>初めてお気に入りキャラを設定した</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>これを文堂さんに…</name>
+  <detail>初めてショップでカードを購入した</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>見なかったことにします</name>
+  <detail>初めてカードがダブった</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>フルチャージだっじぇぃ！</name>
+  <detail>トータルでコインを１０００枚集めた</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>「いつもの」で通じた</name>
+  <detail>トータルでせんべいを１００個買った</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>きちゃいましたー</name>
+  <detail>全てのカードを入手した</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>ばっちりお集まりいただきまことにありがとうございます</name>
+  <detail>全てのキャラクターが使用可能になった</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="000">
+  <name>一大目標</name>
+  <detail>全てのチャレンジの課題をクリアした</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>夏のグラマラスボディー</name>
+  <detail>初めてキャラクターを育てきった</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>雀卓は宇宙やから</name>
+  <detail>通信対局を１０回行った</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>脱いでもいいですか</name>
+  <detail>通信チャレンジ01をクリアした</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>昏鐘鳴の音が聞こえるか？</name>
+  <detail>通信チャレンジ02をクリアした</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>こんなの私じゃありませんわッ！！</name>
+  <detail>通信チャレンジ03をクリアした</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>でで…できましたっ</name>
+  <detail>通信チャレンジ04をクリアした</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>照魔鏡</name>
+  <detail>通信チャレンジ05をクリアした</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>ハーベストタイム</name>
+  <detail>通信チャレンジ06をクリアした</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>高校100年生</name>
+  <detail>通信チャレンジ07をクリアした</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>今回も不発やったか</name>
+  <detail>通信チャレンジ08をクリアした</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>お急ぎかしらー</name>
+  <detail>通信チャレンジ09をクリアした</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>私には妹はいません</name>
+  <detail>通信チャレンジ10をクリアした</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="G" pid="000">
+  <name>今度打ったら、多分勝てません</name>
+  <detail>全ての通信チャレンジの課題をクリアした</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="B" pid="000">
+  <name>烏有に帰せばいい！</name>
+  <detail>初めて威圧に成功した</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="B" pid="000">
+  <name>ちょっとは調子でてきたかしら…</name>
+  <detail>初めて抵抗に成功した</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="B" pid="000">
+  <name>ぼっちじゃないよ</name>
+  <detail>初めて裸単騎で和了った</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="B" pid="000">
+  <name>子供じゃないころもだっ</name>
+  <detail>初めて海底撈月で和了った</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="B" pid="000">
+  <name>ツモ、嶺上開花</name>
+  <detail>初めて嶺上開花で和了った</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="B" pid="000">
+  <name>ドラゴンロード</name>
+  <detail>初めてドラ８以上で和了った</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="B" pid="000">
+  <name>おっぱいお化け</name>
+  <detail>初めて面前清一色で和了った</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="B" pid="000">
+  <name>本当に心の底から多くの人に感謝している</name>
+  <detail>初めて８連荘以上継続した</detail>
+ </trophy>
+ <trophy id="035" hidden="yes" ttype="S" pid="000">
+  <name>この試合に東二局はこない</name>
+  <detail>東一局で終局した</detail>
+ </trophy>
+ <trophy id="036" hidden="yes" ttype="S" pid="000">
+  <name>そろそろまぜろよ</name>
+  <detail>初めて数え役満で和了った</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="S" pid="000">
+  <name>この調子でらっくらく～に</name>
+  <detail>初めて役満で和了った</detail>
+ </trophy>
+ <trophy id="038" hidden="yes" ttype="G" pid="000">
+  <name>超すばらです</name>
+  <detail>全ての役を和了った</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,56 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000051174ae6e4c24b07596afe54d38a94c86a23f5aaa0d304fbb1305d1a68a7df6483186cb3a9fc0329f0c780296f6dd9337ba09fcf48b5a1d587df8f30174d2d9a8d9de3918381344f41c66761f369864d7c5c42a3206607a5e96776dc635e854b6bd4101f35a8ce146a08102dc819091d974296a94aa4fb434d021c49f026d9275bd38413b45ba563d5fa38718b3e9774667f72b6-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="small">
+ <npcommid>NPWR08290_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>WE ARE DOOMED</title-name>
+ <title-detail>Trophies for WE ARE DOOMED</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Wave 01010</name>
+  <detail>Complete Wave 10</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Wave 10100</name>
+  <detail>Complete Wave 20</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Wave 11110</name>
+  <detail>Complete Wave 30</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="-1">
+  <name>Waves Complete</name>
+  <detail>Complete Waves 1-30</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="-1">
+  <name>Waves Perfect</name>
+  <detail>Complete Waves 1-30 with all lives intact</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Trinkets++</name>
+  <detail>Collect every Trinket in the first 10 waves</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>SUPERBEAM × Wave 01001 = 0</name>
+  <detail>Zap all the baddies in Wave 9 with a SUPERBEAM</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Endless 1</name>
+  <detail>Reach Zone 6 with 80,000 points (Endless mode)</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="-1">
+  <name>Endless 2</name>
+  <detail>Reach Zone 10 with 450,000 points (Endless mode)</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="-1">
+  <name>Endless Perfect</name>
+  <detail>Reach Zone 8 with all lives intact (Endless mode)</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>SUPERBEAM × Endless</name>
+  <detail>Keep a SUPERBEAM going for 10 seconds (Endless mode)</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="-1">
+  <name>Endless × Perimeter</name>
+  <detail>Zap 75 Perimeter baddies in a single Endless game</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,196 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000376af026488040e4c1a8cd4334a8e0860d11f6c15970c1b2704e2b3f9f808c1a1beee349ca1591eb5cc432e2cf59acd4607ec8f0cc9f54189832f4ab9ee0df89dd2748096133ff1e49811abb631f8672131708f34dbfbbd93c3a9e78a1af7db86b5c1fe067c9fb6f1d01eee3b40f68680b399326b1e20023aa9e37c78053021c90e393bbe711977e06b57113ce70fb0364185395-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR07743_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>OZMAFIA!! -vivace-</title-name>
+ <title-detail>OZMAFIA!! -vivace-</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>全てのトロフィーを取得</name>
+  <detail>全てのトロフィーを取得しました</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="G" pid="000">
+  <name>CG全回収</name>
+  <detail>フルコンプイラストを見ました</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="G" pid="000">
+  <name>Grand Finaleクリア</name>
+  <detail>Grand Finaleをクリアしました</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="S" pid="000">
+  <name>君と描いた夢の先へ</name>
+  <detail>After Episode「君と描いた夢の先へ」を見ました</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="S" pid="000">
+  <name>Regulus</name>
+  <detail>After Episode「Regulus」を見ました</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="S" pid="000">
+  <name>Words are Worth</name>
+  <detail>After Episode「Words are Worth」を見ました</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="000">
+  <name>Khronos</name>
+  <detail>After Episode「Khronos」を見ました</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>Cosmos</name>
+  <detail>After Episode「Cosmos」を見ました</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>White Wolf</name>
+  <detail>After Episode「White Wolf」を見ました</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>White Clover</name>
+  <detail>After Episode「White Clover」を見ました</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>Hermit</name>
+  <detail>After Episode「Hermit」を見ました</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>March Heroic</name>
+  <detail>After Episode「March Heroic」を見ました</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>Amazing Grace</name>
+  <detail>After Episode「Amazing Grace」を見ました</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>Crotchet Rest</name>
+  <detail>After Episode「Crotchet Rest」を見ました</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>BRAVE-less</name>
+  <detail>After Episode「BRAVE-less」を見ました</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="S" pid="000">
+  <name>BRAIN-less</name>
+  <detail>After Episode「BRAIN-less」を見ました</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="S" pid="000">
+  <name>HEART-less</name>
+  <detail>After Episode「HEART-less」を見ました</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>オズファミリーをクリア</name>
+  <detail>オズファミリーをクリアしました</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>Boss</name>
+  <detail>カラミアBossルートをクリアしました</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>Brave</name>
+  <detail>カラミアBraveルートをクリアしました</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="000">
+  <name>Beast</name>
+  <detail>カラミアBeastルートをクリアしました</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>Berserker</name>
+  <detail>カラミアBerserkerルートをクリアしました</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="B" pid="000">
+  <name>Consigliere</name>
+  <detail>キリエConsigliereルートをクリアしました</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>Brain</name>
+  <detail>キリエBrainルートをクリアしました</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="000">
+  <name>Pride</name>
+  <detail>キリエPrideルートをクリアしました</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="B" pid="000">
+  <name>Headway</name>
+  <detail>キリエHeadwayルートをクリアしました</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>Caporegime</name>
+  <detail>アクセルCaporegimeルートをクリアしました</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="B" pid="000">
+  <name>Heart</name>
+  <detail>アクセルHeartルートをクリアしました</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="B" pid="000">
+  <name>Meteor</name>
+  <detail>アクセルMeteorルートをクリアしました</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="B" pid="000">
+  <name>Crush</name>
+  <detail>アクセルCrushルートをクリアしました</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="B" pid="000">
+  <name>Black</name>
+  <detail>シーザーBlackルートをクリアしました</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="B" pid="000">
+  <name>White</name>
+  <detail>シーザーWhiteルートをクリアしました</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="B" pid="000">
+  <name>Path</name>
+  <detail>スカーレットPathルートをクリアしました</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="B" pid="000">
+  <name>Faith</name>
+  <detail>スカーレットFaithルートをクリアしました</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="B" pid="000">
+  <name>Andantino</name>
+  <detail>ロビン・フッドAndantinoルートをクリアしました</detail>
+ </trophy>
+ <trophy id="035" hidden="yes" ttype="B" pid="000">
+  <name>Fermata</name>
+  <detail>ロビン・フッドFermataルートをクリアしました</detail>
+ </trophy>
+ <trophy id="036" hidden="yes" ttype="B" pid="000">
+  <name>Chivalry</name>
+  <detail>パシェChivalryルートをクリアしました</detail>
+ </trophy>
+ <trophy id="037" hidden="yes" ttype="B" pid="000">
+  <name>Confectionery</name>
+  <detail>パシェConfectioneryルートをクリアしました</detail>
+ </trophy>
+ <trophy id="038" hidden="yes" ttype="B" pid="000">
+  <name>Queen</name>
+  <detail>オスカーワイルドQueenルートをクリアしました</detail>
+ </trophy>
+ <trophy id="039" hidden="yes" ttype="B" pid="000">
+  <name>Beautiful lady</name>
+  <detail>オスカーワイルドBeautiful ladyルートをクリアしました</detail>
+ </trophy>
+ <trophy id="040" hidden="yes" ttype="B" pid="000">
+  <name>Innocence</name>
+  <detail>ハーメルンInnocenceルートをクリアしました</detail>
+ </trophy>
+ <trophy id="041" hidden="yes" ttype="B" pid="000">
+  <name>Guilt</name>
+  <detail>ハーメルンGuiltルートをクリアしました</detail>
+ </trophy>
+ <trophy id="042" hidden="yes" ttype="B" pid="000">
+  <name>Phantom</name>
+  <detail>ソウPhantomルートをクリアしました</detail>
+ </trophy>
+ <trophy id="043" hidden="yes" ttype="B" pid="000">
+  <name>Protection</name>
+  <detail>ソウProtectionルートをクリアしました</detail>
+ </trophy>
+ <trophy id="044" hidden="yes" ttype="B" pid="000">
+  <name>Andersen</name>
+  <detail>Andersenルートをクリアしました</detail>
+ </trophy>
+ <trophy id="045" hidden="yes" ttype="B" pid="000">
+  <name>Heidi</name>
+  <detail>Heidiルートをクリアしました</detail>
+ </trophy>
+ <trophy id="046" hidden="yes" ttype="B" pid="000">
+  <name>Hänsel &amp; Gretel</name>
+  <detail>Hänsel &amp; Gretelルートをクリアしました</detail>
+ </trophy>
+</trophyconf>

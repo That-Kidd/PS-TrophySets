@@ -1,0 +1,112 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000cac8de315bc14efdf16a4c6dbfed5da9ae77e9be657df5880583656722f654356bec59c17450a338880cdf03b302bf959a61394283466b5406f1c93f58b2c941247c6135d33d9df06adca70eb03e2131c1d844462ffa7cfa7b4ed13bc7ebdbeebc9ae02fdc619ab12541bb99ed501ae323bc0c7e0d6be6193a24b1a82793675fdba3f0149619db66365948e2ec90deb76c7b4915-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR11112_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Söldner-X 2: Final Prototype</title-name>
+ <title-detail>Söldner-X 2: Final Prototype Trophy Set</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Galaxy Superstar</name>
+  <detail>Collect all other trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Ready for the junkyard</name>
+  <detail>Complete the first stage ('Zeus Sector') at any difficulty level</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>Piece of rock</name>
+  <detail>Complete the third stage ('Ethia Ruins') at any difficulty level</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>System liberated</name>
+  <detail>Complete the fifth stage ('Turady Deep Sea') at any difficulty level</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="G" pid="000">
+  <name>Not that difficult after all</name>
+  <detail>Complete the seventh stage ('Van Krist Labs') at any difficulty level</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>Survivor</name>
+  <detail>Clear challenge 'Survivor'</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>Collector</name>
+  <detail>Clear challenge 'Collector'</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>Action Fan</name>
+  <detail>Clear challenge 'Action Fan'</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>Chain Expert</name>
+  <detail>Clear challenge 'Chain Expert'</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>Profiler</name>
+  <detail>Clear challenge 'Profiler'</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>Rating Expert</name>
+  <detail>Clear challenge 'Rating Expert'</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>Lucky Number 7</name>
+  <detail>Collect an accumulated total of 77777 chain rings</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>Key Explorer</name>
+  <detail>Collect all 35 secret keys in stage one through seven</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="G" pid="000">
+  <name>Can't hide from me</name>
+  <detail>Shoot down a rare enemy</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="000">
+  <name>Challenge Master</name>
+  <detail>Unlock and successfully pass 12 or more challenges</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>Speed Gunner</name>
+  <detail>Clear challenge 'Speed Gunner'</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Stage Keys</name>
+  <detail>Clear challenge 'Stage Keys'</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Speed Collector</name>
+  <detail>Clear challenge 'Speed Collector'</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>Rank Master</name>
+  <detail>Clear challenge 'Rank Master'</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Kill Collector</name>
+  <detail>Clear challenge 'Kill Collector 1'</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>Score Collector</name>
+  <detail>Clear challenge 'Score Collector 1'</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>Hellfire</name>
+  <detail>Clear challenge 'Hellfire'</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="G" pid="000">
+  <name>The Last Chapter</name>
+  <detail>Complete the tenth stage ('Inner Core') at any difficulty level</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="G" pid="000">
+  <name>No time to waste</name>
+  <detail>Defeat the final boss in stage eight in under 115 seconds</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="G" pid="000">
+  <name>King of unlockables</name>
+  <detail>Unlock at least seven specials</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="G" pid="000">
+  <name>Key Master</name>
+  <detail>Collect all 15 secret keys in stage eight through ten</detail>
+ </trophy>
+</trophyconf>

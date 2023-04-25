@@ -1,0 +1,84 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000000fce29fe697ffa8ec4de6e6781918f66f8df6569a0fe4679b8d9b553e971b49e1311f51f6830e09d27fc15d5a472dfb0f4572c99f0059fc66061f7fb21b0980f6cc4909a22aa5d545df15421612dfc00110eef8baccc70bad5978b1ba63f6f25df60a162a6aecee876596a0cae9205b692e41dc21271c0541dca3b37ef623317ed69e708eeca2ac77f3646e903c01c0c6c5650c1-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR16773_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Bit Dungeon Plus&#x0a;</title-name>
+ <title-detail>Bit Dungeon Plus trophy</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Dungeon Master</name>
+  <detail>Obtained all trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="000">
+  <name>Blue Warrior</name>
+  <detail>Collecting all blue elements&#x0a;</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Brown Warrior</name>
+  <detail>Collecting all brown elements</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Evil hunter</name>
+  <detail>Kill 3.000 fiends&#x0a;</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>Gold Warrior</name>
+  <detail>Collecting all gold elements</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>Good</name>
+  <detail>Kill 40 Bosses</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>Green Warrior</name>
+  <detail>Collecting all green elements</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>Inmortal</name>
+  <detail>Loose 8.000 life points</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>Loser</name>
+  <detail>Died 10 times</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>Master Shield</name>
+  <detail>Block 500 damage with shield.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>Murder</name>
+  <detail>Kill 8.000 enemies</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>Purple Warrior</name>
+  <detail>Collecting all purple elements</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>Red Warrior</name>
+  <detail>Collecting all red elements</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="000">
+  <name>Rich Man</name>
+  <detail>Collect 8.000 coins</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>Tank</name>
+  <detail>Block 200 damage with shield.&#x0a;</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>Sparring</name>
+  <detail>Lose 300 life points</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="G" pid="000">
+  <name>The collector</name>
+  <detail>Collect 2.000 coins</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="G" pid="000">
+  <name>Zombie</name>
+  <detail>Die 50 times</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="G" pid="000">
+  <name>Black Warrior</name>
+  <detail>Collecting all black elements</detail>
+ </trophy>
+</trophyconf>

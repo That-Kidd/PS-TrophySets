@@ -1,0 +1,180 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000059aec2005b7b6ca31b62aa19d31e9431aa162d52c2cdff28126790e34ef979ab8c65ce9474bb0c97db9ac7f613725fd69ecf6835aea3a5a718d415df0b724bee81e5138e4ad7b1dcc332432109a571bdf923a9f591d52b88fdc231218726c4ea54c0a7ff08bb34b7bd6ddd50835c222916e11eb0f6e9158d67422f3aaa827c14310373e6abe4f2ea974b3c57ae7fe599da27c7be-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR10590_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>越えざるは紅い花～恋は月に導かれる～</title-name>
+ <title-detail>越えざるは紅い花 ～恋は月に導かれる～</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>恋は月に導かれる</name>
+  <detail>全てのトロフィーを取得しました</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>Gallery Complete</name>
+  <detail>全てのCGを取得しました</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>Ending Complete</name>
+  <detail>全てのエンディングを取得しました</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>トーヤの恋情</name>
+  <detail>トーヤエンディングを全て見ました</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>スレンの恋情</name>
+  <detail>スレンエンディングを全て見ました</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>ノールの恋情</name>
+  <detail>ノールエンディングを全て見ました</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>ナランの恋情</name>
+  <detail>ナランエンディングを全て見ました</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>ルジの恋情</name>
+  <detail>ルジエンディングを全て見ました</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>セフの恋情</name>
+  <detail>セフエンディングを全て見ました</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>エスタの恋情</name>
+  <detail>エスタエンディングを全て見ました</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>ジギの恋情</name>
+  <detail>ジギエンディングを全て見ました</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>愛してる、よりも</name>
+  <detail>Special Storyを見ました</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>Short Story Complete</name>
+  <detail>Short Storyを全て見ました</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>Voice Drama Complete</name>
+  <detail>Voice Dramaを全て見ました</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>Event Complete</name>
+  <detail>全ての回想を取得しました</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>Dictionary Complete</name>
+  <detail>全ての用語を取得しました</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>Winner</name>
+  <detail>ミニゲームでアラームを解除しました</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>越えた紅い花</name>
+  <detail>「越えた紅い花」を見ました</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>楽園</name>
+  <detail>「楽園」を見ました</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>紅</name>
+  <detail>「紅」を見ました</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="000">
+  <name>恋しき戦い</name>
+  <detail>「恋しき戦い」を見ました</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>罪人</name>
+  <detail>「罪人」を見ました</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="B" pid="000">
+  <name>秘めた告白</name>
+  <detail>「秘めた告白」を見ました</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>赤い海で</name>
+  <detail>「赤い海で」を見ました</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="000">
+  <name>壊れた鳥</name>
+  <detail>「壊れた鳥」を見ました</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="B" pid="000">
+  <name>賭けの果て</name>
+  <detail>「賭けの果て」を見ました</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>紅く染まる空</name>
+  <detail>「紅く染まる空」を見ました</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="B" pid="000">
+  <name>愛玩奴隷</name>
+  <detail>「愛玩奴隷」を見ました</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="B" pid="000">
+  <name>ノール</name>
+  <detail>「ノール」を見ました</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="B" pid="000">
+  <name>遙かなる未来</name>
+  <detail>「遙かなる未来」を見ました</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="B" pid="000">
+  <name>その日まで</name>
+  <detail>「その日まで」を見ました</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="B" pid="000">
+  <name>壊れた紅玉</name>
+  <detail>「壊れた紅玉」を見ました</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="B" pid="000">
+  <name>終わりなき研究</name>
+  <detail>「終わりなき研究」を見ました</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="B" pid="000">
+  <name>絶望という名の暗闇</name>
+  <detail>「絶望という名の暗闇」を見ました</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="B" pid="000">
+  <name>優しい音色</name>
+  <detail>「優しい音色」を見ました</detail>
+ </trophy>
+ <trophy id="035" hidden="yes" ttype="B" pid="000">
+  <name>月からの使者</name>
+  <detail>「月からの使者」を見ました</detail>
+ </trophy>
+ <trophy id="036" hidden="yes" ttype="B" pid="000">
+  <name>幸せな道連れ</name>
+  <detail>「幸せな道連れ」を見ました</detail>
+ </trophy>
+ <trophy id="037" hidden="yes" ttype="B" pid="000">
+  <name>永久の待ち人</name>
+  <detail>「永久の待ち人」を見ました</detail>
+ </trophy>
+ <trophy id="038" hidden="yes" ttype="B" pid="000">
+  <name>消えた答え</name>
+  <detail>「消えた答え」を見ました</detail>
+ </trophy>
+ <trophy id="039" hidden="yes" ttype="B" pid="000">
+  <name>鐘の音</name>
+  <detail>「鐘の音」を見ました</detail>
+ </trophy>
+ <trophy id="040" hidden="yes" ttype="B" pid="000">
+  <name>旅立ち</name>
+  <detail>「旅立ち」を見ました</detail>
+ </trophy>
+ <trophy id="041" hidden="yes" ttype="B" pid="000">
+  <name>涙の海</name>
+  <detail>「涙の海」を見ました</detail>
+ </trophy>
+ <trophy id="042" hidden="yes" ttype="B" pid="000">
+  <name>誓い</name>
+  <detail>「誓い」を見ました</detail>
+ </trophy>
+</trophyconf>

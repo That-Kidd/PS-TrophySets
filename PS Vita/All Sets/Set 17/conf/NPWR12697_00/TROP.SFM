@@ -1,0 +1,84 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000041e4b09a946b83a838d0e4a38fa16a4021fbdfd72f093ee2d0cf830226fb4711b49ef9ed0c782d41b2f4e0fddd9e15dc874fde5fc422cd46f701944f00abd1f6361524a58d1dbfed4ce464df3abfbd491ec1246f226c6adf7d7031b7179ccd7752a4945f8e742edb6f4cbecb401b66c9ccf28bce56017b8b07707f4a7dfd98941d801ce6fcaa56e56ea2f92199573ecd8597e858-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR12697_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>カルマルカ＊サークル</title-name>
+ <title-detail>『カルマルカ＊サークル』トロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>時羽、七夕物語</name>
+  <detail>『カルマルカ＊サークル』を全てプレイしていただき、ありがとうございました</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>星渡り同好会</name>
+  <detail>プロローグを読み終える</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Floating up</name>
+  <detail>最初の場所移動選択をおこなう</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="S" pid="000">
+  <name>Access key for KARUMARUKA：嫉妬</name>
+  <detail>奈月ルートに入った</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="S" pid="000">
+  <name>Access key for KARUMARUKA：暴食</name>
+  <detail>晴ルートに入った</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="S" pid="000">
+  <name>Access key for KARUMARUKA：怠惰</name>
+  <detail>暦ルートに入った</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="000">
+  <name>Access key for KARUMARUKA：色欲</name>
+  <detail>ニコルルートに入った</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>Access key for KARUMARUKA：強欲</name>
+  <detail>夕姫羽ルートに入った</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>夏休み終盤</name>
+  <detail>杏ルートに入った</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>find a piece</name>
+  <detail>トゥルールートに入った</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="G" pid="000">
+  <name>これからもずっと、キミを愛しているよ</name>
+  <detail>奈月ルートを読み終えた</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="G" pid="000">
+  <name>恥ずかしいんだから、何か言えっ！</name>
+  <detail>晴ルートを読み終えた</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="G" pid="000">
+  <name>ふつつか者ですが、どうかわたしをよろしくお願いします――</name>
+  <detail>暦ルートを読み終えた</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="G" pid="000">
+  <name>先輩……！</name>
+  <detail>ニコルルートを読み終えた</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="G" pid="000">
+  <name>だから、これからもよろしくね……！</name>
+  <detail>夕姫羽ルートを読み終えた</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="G" pid="000">
+  <name>……はぁ、素直じゃないんだから。</name>
+  <detail>杏ルートを読み終えた</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="G" pid="000">
+  <name>『罪』を持って選ばれた俺たちのひと夏の不思議な物語</name>
+  <detail>トゥルールートを読み終えた</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="G" pid="000">
+  <name>CGコンプリート</name>
+  <detail>全てのCGを観た</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="G" pid="000">
+  <name>BGMコンプリート</name>
+  <detail>全てのBGMを聴いた</detail>
+ </trophy>
+</trophyconf>

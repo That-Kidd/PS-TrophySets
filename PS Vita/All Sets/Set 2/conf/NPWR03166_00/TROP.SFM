@@ -1,0 +1,68 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000da0f1418865170e1b76e624954a38f61d0bd0cc18a9122a221cc72efda853e62aab28437c75802fa27ce43544cb122dffd15808b52973ec09165651ad314be2d2820c043ba619581cdcd0458501d5c1fd1180bb84d3d86d5341fb481f79732823f6ad0d6b3df6ceb1b5093443b8e03f4e4aeea48cdb6b906ba9b5a6c9fcd5bedf65abb23f6eba41bf016f4e6b00caeea72a8f08b-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR03166_00</npcommid>
+ <trophyset-version>01.02</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Sunflowers</title-name>
+ <title-detail>Sunflowers trophies set</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Too Hot</name>
+  <detail>10 flowers sunburnt</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Irredeemable</name>
+  <detail>100 flowers sunburnt</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Cumulo Nimbus</name>
+  <detail>1000 rain drops have fallen</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Happy Noah</name>
+  <detail>10000 rain drops have fallen</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Sorcerer's apprentice</name>
+  <detail>Storms raged 10 times</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Zeus is angry !</name>
+  <detail>Storm raged 1000 times</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>My first gift</name>
+  <detail>One or more flowers have been sent to a friend for the first time</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>My first crossbreed</name>
+  <detail>A new flower has been converted for the first time with Labee the bee</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Full slots</name>
+  <detail>Every slot on the screen is full</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>Pretty Bouquet</name>
+  <detail>At least one flower from each species have been unlocked</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>Composition</name>
+  <detail>At least three flowers from each species have been unlocked</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="-1">
+  <name>Hanabi Festival</name>
+  <detail>Every common flower has been unlocked</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="-1">
+  <name>Connaisseur</name>
+  <detail>All of the five legendary flowers have been unlocked</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="-1">
+  <name>Vivaldi</name>
+  <detail>Level 5 reached: four seasons have passed by</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="-1">
+  <name>Unstoppable!</name>
+  <detail>Level 57 reached: fourteen years have passed by</detail>
+ </trophy>
+</trophyconf>

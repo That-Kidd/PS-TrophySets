@@ -1,0 +1,212 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000446caaccf82127c78cc4ad7a25e3adda0ce92e3b240be62159f98e9664e3d058d7c648915d37a7a1bf2f338ded38c89d04313ba0e661b8ea97d97d4a0a4fdd5d052a07ac996680ea04edd69abb8e38b2ecc7e4c0a9c5bfde02c3ef11299ad03d53225f1d90073401fb7fc2ff7bf6271fb513b7dd4493973786c4590fa1d95d50b086ec2d2f31530b6006378af46ef096263b9e44-->
+<trophyconf version="1.1" platform="ps3,psp2,ps4" policy="large">
+ <npcommid>NPWR09401_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>戦国無双4 Empires</title-name>
+ <title-detail>戦国無双4 Empiresのトロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>真の戦国無双</name>
+  <detail>すべてのトロフィーを入手した</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>勝利への一歩</name>
+  <detail>拠点を１つ制圧した</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>用兵の妙</name>
+  <detail>拠点を連鎖制圧した</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>容赦なき勝者</name>
+  <detail>拠点をすべて落として戦闘に勝利した</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>駆け出し指揮官</name>
+  <detail>はじめて陣形を入手した</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>天下無双の指揮官</name>
+  <detail>すべての陣形を入手した</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>駆け出し戦術家</name>
+  <detail>はじめて戦場策を入手した</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>天下無双の戦術家</name>
+  <detail>すべての戦場策を入手した</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>一騎当千</name>
+  <detail>１つの合戦で味方合計１０００人撃破した</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>連撃無双</name>
+  <detail>１０００コンボを達成した</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>築城家</name>
+  <detail>はじめて居城を建て替えた</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>築城の匠</name>
+  <detail>すべての居城に建て替えた</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>情けは味方</name>
+  <detail>１人も処断せずにシナリオをクリアした</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>歴史を創る者</name>
+  <detail>創世演武でシナリオを作成した</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>新時代の覇者</name>
+  <detail>創世演武をクリアした</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>新星誕生祝</name>
+  <detail>新武将を作成した</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="G" pid="000">
+  <name>戦国の覇者</name>
+  <detail>争覇演武をすべてクリアした</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>人は城</name>
+  <detail>争覇演武で自勢力の武将の数が２０人以上になった</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>人は石垣</name>
+  <detail>争覇演武で自勢力の武将の数が５０人以上になった</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="S" pid="000">
+  <name>人は堀</name>
+  <detail>争覇演武で自勢力の武将の数が１００人になった</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>五穀豊穣</name>
+  <detail>１つの地域の石高を最大まで成長させた</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>士魂商才</name>
+  <detail>１つの地域の商業を最大まで成長させた</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>難攻不落</name>
+  <detail>１つの地域の防御を最大まで成長させた</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>大きな一歩</name>
+  <detail>はじめて国を取った</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="000">
+  <name>東北一統</name>
+  <detail>争覇演武で東北地方を統一した</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="B" pid="000">
+  <name>北陸一統</name>
+  <detail>争覇演武で北陸地方を統一した</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>関東一統</name>
+  <detail>争覇演武で関東地方を統一した</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="B" pid="000">
+  <name>中部一統</name>
+  <detail>争覇演武で中部地方を統一した</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="B" pid="000">
+  <name>近畿一統</name>
+  <detail>争覇演武で近畿地方を統一した</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="B" pid="000">
+  <name>中国一統</name>
+  <detail>争覇演武で中国地方を統一した</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="B" pid="000">
+  <name>四国一統</name>
+  <detail>争覇演武で四国地方を統一した</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="B" pid="000">
+  <name>九州一統</name>
+  <detail>争覇演武で九州地方を統一した</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="S" pid="000">
+  <name>天下人</name>
+  <detail>争覇演武ではじめて天下を統一した</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>取り合う手</name>
+  <detail>イベントの収集率が２５％を超えた</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>引き合う縁</name>
+  <detail>イベントの収集率が５０％を超えた</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="S" pid="000">
+  <name>紡がれる歴史</name>
+  <detail>イベントの収集率が１００％になった</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="G" pid="000">
+  <name>巡る星々</name>
+  <detail>将星絵巻にすべての無双武将が登場可能になった</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>背を預ける</name>
+  <detail>人間関係「親友」が成立した</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>寄り添う者</name>
+  <detail>人間関係「夫婦」が成立した</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="000">
+  <name>熱き絆</name>
+  <detail>人間関係「盟友」が成立した</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="B" pid="000">
+  <name>切磋琢磨</name>
+  <detail>人間関係「好敵手」が成立した</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="B" pid="000">
+  <name>龍虎相討つ</name>
+  <detail>人間関係「宿敵」が成立した</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="B" pid="000">
+  <name>受け継がれるもの</name>
+  <detail>人間関係「師弟」が成立した</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="B" pid="000">
+  <name>尽くす者</name>
+  <detail>人間関係「忠臣」が成立した</detail>
+ </trophy>
+ <trophy id="044" hidden="no" ttype="S" pid="000">
+  <name>四天王参上</name>
+  <detail>「四天王」を任命した</detail>
+ </trophy>
+ <trophy id="045" hidden="yes" ttype="B" pid="000">
+  <name>旗持兵</name>
+  <detail>旗を手にいれた</detail>
+ </trophy>
+ <trophy id="046" hidden="yes" ttype="B" pid="000">
+  <name>旗持大名</name>
+  <detail>旗を５０個手に入れた</detail>
+ </trophy>
+ <trophy id="047" hidden="yes" ttype="S" pid="000">
+  <name>旗持大将軍</name>
+  <detail>すべての旗を入手した</detail>
+ </trophy>
+ <trophy id="048" hidden="yes" ttype="S" pid="000">
+  <name>女の城</name>
+  <detail>奉行をすべて女性武将にした</detail>
+ </trophy>
+ <trophy id="049" hidden="yes" ttype="S" pid="000">
+  <name>花ざかり</name>
+  <detail>四天王をすべて女性武将にした</detail>
+ </trophy>
+ <trophy id="050" hidden="yes" ttype="B" pid="000">
+  <name>才女</name>
+  <detail>女性武将を軍師にした</detail>
+ </trophy>
+</trophyconf>

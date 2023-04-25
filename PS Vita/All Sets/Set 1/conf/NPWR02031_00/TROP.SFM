@@ -1,0 +1,360 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000009746aba2ef20946f6b7369c4020807ddbb02d3ef6c3cc01dfb0b5d722ad4e68d9342897ddee6196f6d8547a771ecebbd7aa2b1c454510ddcab2cba29ac6a0fc301fcf00e684ddbabeda5e08e59d8821d975b65c14151bf3fe15c9a5f3636932a1b3abc44dcfe803d8a991de6f396f394e80357cb56f489673e8e906918582d7cc60c8ac0cc6386b0cf71e99af746181427e42917-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR02031_00</npcommid>
+ <trophyset-version>01.03</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>LittleBigPlanet™ PlayStation®Vita</title-name>
+ <title-detail>Play, Create, Share.</title-detail>
+ <group id="001">
+  <name>Hero Rush</name>
+  <detail>Hero Rush</detail>
+ </group>
+ <group id="002">
+  <name>Avengers: Ultimate Escape&#x0a;</name>
+  <detail>Avengers: Ultimate Escape</detail>
+ </group>
+ <group id="003">
+  <name>S.H.I.E.L.D. - Interceptor</name>
+  <detail>S.H.I.E.L.D. - Interceptor</detail>
+ </group>
+ <group id="004">
+  <name>LittleBigPlanet™ PS Vita: DC Comics™ Premium Level Pack&#x0a;</name>
+  <detail>Trophies for the LittleBigPlanet™ PS Vita: DC Comics™ Premium Level Pack</detail>
+ </group>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Platinum Club</name>
+  <detail>Earn all LittleBigPlanet™ PlayStation®Vita trophies.</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>Complete La Marionetta</name>
+  <detail>Complete the main path of La Marionetta.</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>Complete Land of Odd</name>
+  <detail>Complete the main path of Land of Odd.</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>Complete Jackpot City</name>
+  <detail>Complete the main path of Jackpot City.</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>Complete Coaster Valley</name>
+  <detail>Complete the main path of Coaster Valley.</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>Complete Spooky Mansion</name>
+  <detail>Complete the main path of Spooky Mansion.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>Complete Story Mode</name>
+  <detail>Complete the main path of the Story.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>Aced Story Mode</name>
+  <detail>Ace the main path of the Story.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>Chases The Aces</name>
+  <detail>Complete 10 Story levels in a row without being killed.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>Prize Collector</name>
+  <detail>Find and collect 50% of the Prize Bubbles in Story levels.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>House Proud</name>
+  <detail>Place 10 stickers or decorations in your pod.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>Multiplier x5</name>
+  <detail>Score a x5 multiplier in a Story level.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>Multiplier x10</name>
+  <detail>Score a x10 multiplier in a Story level.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>Scoreboard 50%</name>
+  <detail>Place in the top 50% of a Story Level scoreboard containing more than 50 scores.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>Scoreboard 25%</name>
+  <detail>Place in the top 25% of a Story Level scoreboard containing more than 50 scores.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>The Tourist</name>
+  <detail>Complete a community level.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Tired Of Life</name>
+  <detail>Accumulate 20 deaths in one Story level.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>First Among Equals</name>
+  <detail>Win a 4-player game.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>Social Animal</name>
+  <detail>Complete a level with more than one player.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="000">
+  <name>Complete 75 Cooperative Levels</name>
+  <detail>Complete 75 unique Cooperative community levels.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>Pianist Pioneer</name>
+  <detail>Play 'Do Re Mi' on the piano in La Marionetta.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>Insert Coin</name>
+  <detail>Complete all achievements in one game from The Arcade.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>25 Online Versus Wins</name>
+  <detail>Win 25 Versus community levels against at least one other online player.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>Hi Score</name>
+  <detail>Collect 1,000,000 points over all story levels you have played.</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>Time Well Spent</name>
+  <detail>Play LittleBigPlanet™ PlayStation®Vita on every day of the week.</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>Queued Up</name>
+  <detail>Play a level that has been added to your Queue.</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>Finger Cramp</name>
+  <detail>Bash 1000 bonces in 'Bonce Tappin'.</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>Double 11</name>
+  <detail>Play LittleBigPlanet™ PlayStation®Vita at 11 minutes past 11.</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>Aspiring Director</name>
+  <detail>Publish a cut scene level.</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>Fashionista</name>
+  <detail>Change your costume.</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>Creative Spark</name>
+  <detail>Spend 10 active minutes in Create mode.</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="G" pid="000">
+  <name>Get A Life</name>
+  <detail>Spend 1440 active minutes in Create mode.</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>Share &amp; Share Alike</name>
+  <detail>Publish a level.</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>50 Unique Players</name>
+  <detail>A level you published was played by 50 unique players.</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>Mindful Vandalism</name>
+  <detail>Place a sticker or a decoration on another player's sackperson.</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>Balancing Act</name>
+  <detail>Balance another sackperson on an object while lifting it with touch.</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>Quick Badge Job</name>
+  <detail>Publish a level with a custom badge created from a Camera photo or an in-game photo.</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>God Complex</name>
+  <detail>Spin any of the planets 720 degrees with a single flick.</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>Mr Know-It-All</name>
+  <detail>Watch all the tutorials.</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="000">
+  <name>40 Yays!</name>
+  <detail>Give positive feedback on 40 community levels.</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="G" pid="000">
+  <name>Arcade Champion</name>
+  <detail>Complete all achievements in all games from The Arcade.</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="B" pid="000">
+  <name>Everyone's A Critic</name>
+  <detail>Submit a review for a level.</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="B" pid="000">
+  <name>Happy Snapper</name>
+  <detail>Upload a photo.</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="B" pid="000">
+  <name>Just A Scratch</name>
+  <detail>Spin the LP disc in Jackpot City.</detail>
+ </trophy>
+ <trophy id="044" hidden="no" ttype="S" pid="000">
+  <name>Multiplier x15</name>
+  <detail>Score a x15 multiplier in a Story level.</detail>
+ </trophy>
+ <trophy id="045" hidden="no" ttype="B" pid="000">
+  <name>Rising Star</name>
+  <detail>Collect 50% of Skill Rewards in Story Mode.</detail>
+ </trophy>
+ <trophy id="046" hidden="no" ttype="S" pid="000">
+  <name>Obsessive Collecting</name>
+  <detail>Find and collect 100% of the Prize Bubbles in Story levels.</detail>
+ </trophy>
+ <trophy id="047" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>New Recruit</name>
+  <detail>Unlock your first hero</detail>
+ </trophy>
+ <trophy id="048" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>Baby Steps</name>
+  <detail>Complete your first run</detail>
+ </trophy>
+ <trophy id="049" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>"Puny God!"</name>
+  <detail>Defeat an enemy</detail>
+ </trophy>
+ <trophy id="050" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>"It's clobberin' time!"</name>
+  <detail>Destroy 5 enemies in a single run!</detail>
+ </trophy>
+ <trophy id="051" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>Assemble!</name>
+  <detail>Unlock all heroes</detail>
+ </trophy>
+ <trophy id="052" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>Marvel Marathon</name>
+  <detail>Reach 2,000 metres in one run!</detail>
+ </trophy>
+ <trophy id="053" hidden="no" ttype="S" pid="-1" gid="001">
+  <name>Super Soldier</name>
+  <detail>Reach Rank 20</detail>
+ </trophy>
+ <trophy id="054" hidden="no" ttype="S" pid="-1" gid="001">
+  <name>Richer Than Stark</name>
+  <detail>Collect 20000 Marvel coins in a single run!</detail>
+ </trophy>
+ <trophy id="055" hidden="no" ttype="S" pid="-1" gid="001">
+  <name>Mighty Heroes</name>
+  <detail>Use each hero at least once</detail>
+ </trophy>
+ <trophy id="056" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>Ultimate Collector</name>
+  <detail>Purchase everything in Hero Rush!</detail>
+ </trophy>
+ <trophy id="057" hidden="no" ttype="B" pid="-1" gid="002">
+  <name>Avenger</name>
+  <detail>Complete one puzzle</detail>
+ </trophy>
+ <trophy id="058" hidden="no" ttype="B" pid="-1" gid="002">
+  <name>Hulk out!</name>
+  <detail>Smash 4 crates in a row with Hulk</detail>
+ </trophy>
+ <trophy id="059" hidden="no" ttype="B" pid="-1" gid="002">
+  <name>Player</name>
+  <detail>Play with all 4 characters</detail>
+ </trophy>
+ <trophy id="060" hidden="no" ttype="S" pid="-1" gid="002">
+  <name>Never miss an issue</name>
+  <detail>Purchase every asset in the Vault</detail>
+ </trophy>
+ <trophy id="061" hidden="no" ttype="B" pid="-1" gid="002">
+  <name>Bagged and boarded</name>
+  <detail>Purchase all 3 bonus chapters</detail>
+ </trophy>
+ <trophy id="062" hidden="no" ttype="B" pid="-1" gid="002">
+  <name>Avengers Together!</name>
+  <detail>Complete one 4 character puzzle</detail>
+ </trophy>
+ <trophy id="063" hidden="no" ttype="B" pid="-1" gid="002">
+  <name>First edition</name>
+  <detail>Complete one chapter</detail>
+ </trophy>
+ <trophy id="064" hidden="no" ttype="S" pid="-1" gid="002">
+  <name>Best seller</name>
+  <detail>Earn 5000 Marvel coins</detail>
+ </trophy>
+ <trophy id="065" hidden="no" ttype="B" pid="-1" gid="002">
+  <name>Limited edition</name>
+  <detail>Complete one character's puzzles</detail>
+ </trophy>
+ <trophy id="066" hidden="no" ttype="S" pid="-1" gid="002">
+  <name>Avenged!</name>
+  <detail>Escape the Complex!</detail>
+ </trophy>
+ <trophy id="067" hidden="no" ttype="B" pid="-1" gid="003">
+  <name>Weapon X</name>
+  <detail>Achieve a 5X multiplier</detail>
+ </trophy>
+ <trophy id="068" hidden="no" ttype="B" pid="-1" gid="003">
+  <name>You won't like me when I'm angry</name>
+  <detail>Send three enemies flying simultaneously with any power or weapon</detail>
+ </trophy>
+ <trophy id="069" hidden="no" ttype="B" pid="-1" gid="003">
+  <name>Hawkeye</name>
+  <detail>Defeat 5 enemies in 5 seconds</detail>
+ </trophy>
+ <trophy id="070" hidden="no" ttype="B" pid="-1" gid="003">
+  <name>Billionaire industrialist</name>
+  <detail>Earn 200 Marvel coins in a single level</detail>
+ </trophy>
+ <trophy id="071" hidden="no" ttype="S" pid="-1" gid="003">
+  <name>Threat Intercepted</name>
+  <detail>Finish the main campaign</detail>
+ </trophy>
+ <trophy id="072" hidden="no" ttype="B" pid="-1" gid="003">
+  <name>Man without fear</name>
+  <detail>Earn a score of 800 without using your primary weapon in any mode</detail>
+ </trophy>
+ <trophy id="073" hidden="no" ttype="B" pid="-1" gid="003">
+  <name>The invincible Iron Man</name>
+  <detail>Earn a score of 500 without taking any damage in any mode</detail>
+ </trophy>
+ <trophy id="074" hidden="no" ttype="B" pid="-1" gid="003">
+  <name>I'm the best at what I do...</name>
+  <detail>Achieve 3000 points in The Gauntlet</detail>
+ </trophy>
+ <trophy id="075" hidden="no" ttype="S" pid="-1" gid="003">
+  <name>War Machine!</name>
+  <detail>Purchase all ship upgrades</detail>
+ </trophy>
+ <trophy id="076" hidden="no" ttype="S" pid="-1" gid="003">
+  <name>Agent of S.H.I.E.L.D.</name>
+  <detail>Earn all gold medals in the campaign.</detail>
+ </trophy>
+ <trophy id="077" hidden="no" ttype="G" pid="-1" gid="004">
+  <name>Just-Ace League</name>
+  <detail>Ace every story level in the DC Comics™ Premium Level Pack.</detail>
+ </trophy>
+ <trophy id="078" hidden="no" ttype="B" pid="-1" gid="004">
+  <name>The Greatest Cape</name>
+  <detail>Stay airborne with the Hero Cape for 5 seconds.</detail>
+ </trophy>
+ <trophy id="079" hidden="no" ttype="B" pid="-1" gid="004">
+  <name>Drop The Bald</name>
+  <detail>Defeat Lex Luthor.</detail>
+ </trophy>
+ <trophy id="080" hidden="no" ttype="B" pid="-1" gid="004">
+  <name>League of Friends</name>
+  <detail>Play any level in the DC Comics™ Premium Level Pack with one or more friends.</detail>
+ </trophy>
+ <trophy id="081" hidden="no" ttype="S" pid="-1" gid="004">
+  <name>Super Collector</name>
+  <detail>Collect 100% of the Prize Bubbles in the DC Comics™ Premium Level Pack.</detail>
+ </trophy>
+ <trophy id="082" hidden="no" ttype="B" pid="-1" gid="004">
+  <name>Great Caper</name>
+  <detail>Publish a level containing the Hero Cape.</detail>
+ </trophy>
+ <trophy id="083" hidden="no" ttype="B" pid="-1" gid="004">
+  <name>The Power of Green</name>
+  <detail>Trigger all Green Lantern material in the DC Comics™ Premium Level Pack.</detail>
+ </trophy>
+</trophyconf>

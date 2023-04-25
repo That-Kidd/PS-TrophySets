@@ -1,0 +1,184 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000050650204fcfe5a2cc58d2f0cc7ea57dffed48c3b5e6b634374fd22c5f6659fb3850edb9158d2178ae193539f03c3207bfb495cee3e25fa34ed19c8309456859623eae862e7895a82f958e674c7374e41258db9a29548c7fcffd7263cc8a5db7cf1032a11d1ac230c5edc159a65e38361d24c7103bbd12f3466f341109a536df4957eb757bca3b42aac47df328b3157c6628ea61a-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR05860_00</npcommid>
+ <trophyset-version>01.03</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>The Walking Dead: Season 2</title-name>
+ <title-detail>The Walking Dead: Season 2</title-detail>
+ <group id="001">
+  <name>The Walking Dead: Season Two Episode Two</name>
+  <detail>Episode Two Trophies</detail>
+ </group>
+ <group id="002">
+  <name>The Walking Dead: Season Two Episode Three</name>
+  <detail>Episode Three Trophies</detail>
+ </group>
+ <group id="003">
+  <name>The Walking Dead: Season Two Episode Four</name>
+  <detail>Episode Four Trophies</detail>
+ </group>
+ <group id="004">
+  <name>The Walking Dead: Season Two Episode Five</name>
+  <detail>Episode Five Trophies</detail>
+ </group>
+ <trophy id="000" hidden="no" ttype="G" pid="-1">
+  <name>Split Decision</name>
+  <detail>Completed Episode 1: "All That Remains"</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="-1">
+  <name>River Runs Cold</name>
+  <detail>Arrived at the shore.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Shelter</name>
+  <detail>Found a campsite.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="-1">
+  <name>On the Path</name>
+  <detail>Met new people.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="-1">
+  <name>Now What?</name>
+  <detail>Arrived at the cabin.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="-1">
+  <name>Sneaky</name>
+  <detail>Got what you needed.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="-1">
+  <name>Still. Not. Bitten.</name>
+  <detail>Took care of yourself.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="-1">
+  <name>Headed Out</name>
+  <detail>Headed out with the group.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>New Morning</name>
+  <detail>Helped someone through a difficult time.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="-1" gid="001">
+  <name>The Intruder</name>
+  <detail>Talked to a stranger.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>Moving On</name>
+  <detail>Left the cabin.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="-1" gid="001">
+  <name>Over the Bridge</name>
+  <detail>Found a way across the water.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="-1" gid="001">
+  <name>A Stranger</name>
+  <detail>Met someone on a bridge.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>Old Friends</name>
+  <detail>Made it to the ski lodge.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="-1" gid="001">
+  <name>Past Midnight</name>
+  <detail>Settled things with a new friend.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="-1" gid="001">
+  <name>Reunion</name>
+  <detail>Completed Episode 2: "A House Divided"</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="-1" gid="002">
+  <name>Fresh Fish</name>
+  <detail>Arrived at your new home.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="-1" gid="002">
+  <name>Long Way Down</name>
+  <detail>Witnessed a murder.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="-1" gid="002">
+  <name>One Long Day</name>
+  <detail>Made it through your first day.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="-1" gid="002">
+  <name>Always the Quiet Ones</name>
+  <detail>Committed larceny.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="-1" gid="002">
+  <name>Not in Nottingham</name>
+  <detail>Got beaten down.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="-1" gid="002">
+  <name>Come Hither</name>
+  <detail>Invited some friends into the compound. </detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="-1" gid="002">
+  <name>Rehabilitated</name>
+  <detail>Gave what you got.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="-1" gid="002">
+  <name>Eye of the Storm</name>
+  <detail>Completed Episode 3: "In Harm's Way"</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="-1" gid="003">
+  <name>Best Laid Plans</name>
+  <detail>Got separated from the group.</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="-1" gid="003">
+  <name>Path Less Traveled</name>
+  <detail>Learned new survival skills.</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="S" pid="-1" gid="003">
+  <name>A Heavy Burden</name>
+  <detail>Returned to the meeting place.</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="-1" gid="003">
+  <name>History Lesson</name>
+  <detail>Reached the museum.</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="S" pid="-1" gid="003">
+  <name>Making an Observation</name>
+  <detail>Found the Observation Deck.</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="-1" gid="003">
+  <name>All Fall Down</name>
+  <detail>Survived the attack.</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="S" pid="-1" gid="003">
+  <name>On Foot</name>
+  <detail>Got back on the road.</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="S" pid="-1" gid="003">
+  <name>Beyond the Trees</name>
+  <detail>Completed Episode 4: "Amid the Ruins"</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="S" pid="-1" gid="004">
+  <name>Blood and Iron</name>
+  <detail>Made it out alive.</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="-1" gid="004">
+  <name>Miles To Go</name>
+  <detail>Took a breather.</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="-1" gid="004">
+  <name>Right of Frost</name>
+  <detail>Stopped for the night.</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="S" pid="-1" gid="004">
+  <name>Center Cannot Hold</name>
+  <detail>Reached the other side.</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="-1" gid="004">
+  <name>All the Dark Night</name>
+  <detail>Made it through to morning.</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="-1" gid="004">
+  <name>We Slowly Drove</name>
+  <detail>Reached the terminus.</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="S" pid="-1" gid="004">
+  <name>Kindly Stop for Me</name>
+  <detail>Found your way through.</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="S" pid="-1" gid="004">
+  <name>All The Dead Lie Down</name>
+  <detail>Completed Episode 5: "No Going Back"</detail>
+ </trophy>
+</trophyconf>

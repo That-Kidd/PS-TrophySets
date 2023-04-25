@@ -1,0 +1,412 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000b6e2d9975316a3a96e3814074d8f4123072c549c3ca5a18f8462fc0d625f6c2976a80e563177ba1a3a1d12044be1c8da4cee344b30ed7c95f35b76346eef37a9cd3ffe336509cb2cce856dc3d413c043bc0114f6eda1ec1c1cbc01f1f3346579d87bdb7688f2b9f90ba32611f4b04efaa6e3bde27d9c5e334b5bb009ea747b1bc8762bc39e0b356d229d0c2b17ff405b4ac88877-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR06859_00</npcommid>
+ <trophyset-version>01.10</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Minecraft: PlayStation®Vita Edition</title-name>
+ <title-detail>Minecraft Trophy Set</title-detail>
+ <group id="001">
+  <name>Expansion Pack 1</name>
+  <detail>Expansion Pack 1</detail>
+ </group>
+ <group id="002">
+  <name>Expansion Pack 2</name>
+  <detail>Expansion Pack 2</detail>
+ </group>
+ <group id="003">
+  <name>Expansion Pack 3</name>
+  <detail>Expansion Pack 3</detail>
+ </group>
+ <group id="004">
+  <name>Expansion Pack 4</name>
+  <detail>Expansion Pack 4</detail>
+ </group>
+ <group id="005">
+  <name>Expansion Pack 5</name>
+  <detail>Expansion Pack 5</detail>
+ </group>
+ <group id="006">
+  <name>Expansion Pack 6</name>
+  <detail>Expansion Pack 6</detail>
+ </group>
+ <group id="007">
+  <name>Expansion Pack 7</name>
+  <detail>Expansion Pack 7</detail>
+ </group>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Awarded all trophies</name>
+  <detail>All trophies have been awarded.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Taking Inventory</name>
+  <detail>Open your inventory.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Getting Wood</name>
+  <detail>Punch a tree until the block of wood pops out.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Benchmarking</name>
+  <detail>Craft a workbench with four blocks of wooden planks.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>Time to Mine!</name>
+  <detail>Use planks and sticks to make a pickaxe.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>Hot Topic</name>
+  <detail>Construct a furnace out of eight cobblestone blocks.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>Acquire Hardware</name>
+  <detail>Smelt an iron ingot.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>Time to Farm!</name>
+  <detail>Use planks and sticks to make a hoe.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>Bake Bread</name>
+  <detail>Turn wheat into bread.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>The Lie</name>
+  <detail>Bake a cake using wheat, sugar, milk and eggs!</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>Getting an Upgrade</name>
+  <detail>Construct a better pickaxe.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>Delicious Fish</name>
+  <detail>Catch and cook a fish!</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>On A Rail</name>
+  <detail>Travel by minecart to a point at least 500m in a single direction from where you started.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>Time to Strike!</name>
+  <detail>Use planks and sticks to make a sword.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>Monster Hunter</name>
+  <detail>Attack and destroy a monster.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>Cow Tipper</name>
+  <detail>Harvest some leather.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>When Pigs Fly</name>
+  <detail>Use a saddle to ride a pig, then have the pig get hurt from fall damage while riding it.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Leader Of The Pack</name>
+  <detail>Befriend five wolves.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>MOAR Tools</name>
+  <detail>Construct one type of each tool (one pickaxe, one spade, one axe and one hoe).</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Dispense With This</name>
+  <detail>Construct a Dispenser.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>Into The Nether</name>
+  <detail>Construct a Nether Portal.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>Sniper Duel</name>
+  <detail>Kill a skeleton with an arrow from more than 50 meters.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>DIAMONDS!</name>
+  <detail>Acquire diamonds with your iron tools.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>Return to Sender</name>
+  <detail>Destroy a Ghast with a fireball.</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>Into Fire</name>
+  <detail>Relieve a Blaze of its rod.</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>Local Brewery</name>
+  <detail>Brew a potion.</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>The End?</name>
+  <detail>Enter an End Portal.</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="G" pid="000">
+  <name>The End.</name>
+  <detail>Kill the Enderdragon.</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>Enchanter</name>
+  <detail>Construct an Enchantment Table.</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>Overkill</name>
+  <detail>Deal nine hearts of damage in a single hit.</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>Librarian</name>
+  <detail>Build some bookshelves to improve your enchantment table.</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="S" pid="000">
+  <name>Adventuring Time</name>
+  <detail>Discover 17 of 40 biomes.</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>Repopulation</name>
+  <detail>Breed two cows with wheat.</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>Diamonds to you!</name>
+  <detail>Throw diamonds at another player.</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>Pork Chop</name>
+  <detail>Cook and eat a pork chop.</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>Passing the Time</name>
+  <detail>Play for 100 days.</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>Archer</name>
+  <detail>Kill a creeper with arrows.</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="S" pid="000">
+  <name>The Haggler</name>
+  <detail>Mine or purchase 30 Emeralds.</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>Pot Planter</name>
+  <detail>Craft and place a Flower Pot.</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="000">
+  <name>It’s a Sign!</name>
+  <detail>Craft and place a sign.</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="B" pid="000">
+  <name>Iron Belly</name>
+  <detail>Stop starvation using Rotten Flesh.</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="B" pid="000">
+  <name>Have a Shearful Day</name>
+  <detail>Use Shears to obtain wool from a sheep.</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="S" pid="000">
+  <name>Rainbow Collection</name>
+  <detail>Gather all 16 colours of wool.</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="B" pid="000">
+  <name>Stayin’ Frosty</name>
+  <detail>Swim in lava while having the Fire Resistance effect.</detail>
+ </trophy>
+ <trophy id="044" hidden="no" ttype="B" pid="000">
+  <name>Chestful of Cobblestone</name>
+  <detail>Mine 1,728 Cobblestone and place it in a chest.</detail>
+ </trophy>
+ <trophy id="045" hidden="no" ttype="B" pid="000">
+  <name>Renewable Energy</name>
+  <detail>Smelt wood trunks using charcoal to make more charcoal.</detail>
+ </trophy>
+ <trophy id="046" hidden="no" ttype="B" pid="000">
+  <name>Music to my Ears</name>
+  <detail>Play a music disc in a Jukebox.</detail>
+ </trophy>
+ <trophy id="047" hidden="no" ttype="B" pid="000">
+  <name>Body Guard</name>
+  <detail>Create an Iron Golem.</detail>
+ </trophy>
+ <trophy id="048" hidden="no" ttype="B" pid="000">
+  <name>Iron Man</name>
+  <detail>Wear a full suit of Iron armour.</detail>
+ </trophy>
+ <trophy id="049" hidden="no" ttype="G" pid="000">
+  <name>Zombie Doctor</name>
+  <detail>Cure a zombie villager.</detail>
+ </trophy>
+ <trophy id="050" hidden="no" ttype="B" pid="000">
+  <name>Lion Tamer</name>
+  <detail>Tame an Ocelot.</detail>
+ </trophy>
+ <trophy id="051" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>The Beginning?</name>
+  <detail>Spawn the Wither.</detail>
+ </trophy>
+ <trophy id="052" hidden="no" ttype="S" pid="-1" gid="001">
+  <name>The Beginning.</name>
+  <detail>Kill the Wither.</detail>
+ </trophy>
+ <trophy id="053" hidden="no" ttype="G" pid="-1" gid="001">
+  <name>Beaconator</name>
+  <detail>Create and fully power a Beacon.</detail>
+ </trophy>
+ <trophy id="054" hidden="no" ttype="S" pid="-1" gid="001">
+  <name>Overpowered</name>
+  <detail>Eat a Notch Apple.</detail>
+ </trophy>
+ <trophy id="055" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>Tie Dye Outfit</name>
+  <detail>Dye all 4 unique pieces of Leather Armor.</detail>
+ </trophy>
+ <trophy id="056" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>Trampoline</name>
+  <detail>Bounce 30 blocks upward off a Slime Block.</detail>
+ </trophy>
+ <trophy id="057" hidden="no" ttype="S" pid="-1" gid="002">
+  <name>The Student...</name>
+  <detail>Win a public Battle mini game.</detail>
+ </trophy>
+ <trophy id="058" hidden="no" ttype="G" pid="-1" gid="002">
+  <name>...has become the Master</name>
+  <detail>Win 3 public Battle mini games in a row.</detail>
+ </trophy>
+ <trophy id="059" hidden="no" ttype="S" pid="-1" gid="002">
+  <name>'Tis but a scratch</name>
+  <detail>Take 100 damage in a round of a public Battle game.</detail>
+ </trophy>
+ <trophy id="060" hidden="no" ttype="B" pid="-1" gid="002">
+  <name>Cupid</name>
+  <detail>Kill 2 players in a round of public Battle mini game using a bow and arrow.</detail>
+ </trophy>
+ <trophy id="061" hidden="no" ttype="B" pid="-1" gid="002">
+  <name>Hunger Pain</name>
+  <detail>Kill a player while you are starving in a Battle mini game.</detail>
+ </trophy>
+ <trophy id="062" hidden="no" ttype="B" pid="-1" gid="002">
+  <name>Mine!</name>
+  <detail>Open every chest in a Battle mini game arena in one round.</detail>
+ </trophy>
+ <trophy id="063" hidden="no" ttype="S" pid="-1" gid="003">
+  <name>The End... Again...</name>
+  <detail>Respawn the Enderdragon.</detail>
+ </trophy>
+ <trophy id="064" hidden="no" ttype="S" pid="-1" gid="003">
+  <name>You Need a Mint</name>
+  <detail>Collect Dragon's Breath in a Glass Bottle.</detail>
+ </trophy>
+ <trophy id="065" hidden="no" ttype="G" pid="-1" gid="003">
+  <name>Super Sonic</name>
+  <detail>Use an Elytra to fly through a 1 by 1 gap while moving faster than 40 m/s.</detail>
+ </trophy>
+ <trophy id="066" hidden="no" ttype="B" pid="-1" gid="003">
+  <name>Dry Spell</name>
+  <detail>Dry a Sponge in a Furnace.</detail>
+ </trophy>
+ <trophy id="067" hidden="no" ttype="S" pid="-1" gid="004">
+  <name>Free Diver</name>
+  <detail>Stay underwater for 2 minutes.</detail>
+ </trophy>
+ <trophy id="068" hidden="no" ttype="B" pid="-1" gid="004">
+  <name>Super Fuel</name>
+  <detail>Power a Furnace with Lava.</detail>
+ </trophy>
+ <trophy id="069" hidden="no" ttype="B" pid="-1" gid="004">
+  <name>Saddle Up</name>
+  <detail>Tame a Horse.</detail>
+ </trophy>
+ <trophy id="070" hidden="no" ttype="S" pid="-1" gid="004">
+  <name>Taste of Your Own Medicine</name>
+  <detail>Poison a Witch with a Splash Potion.</detail>
+ </trophy>
+ <trophy id="071" hidden="no" ttype="S" pid="-1" gid="004">
+  <name>Beam Me Up</name>
+  <detail>Teleport over 100 meters from a single throw of an Ender Pearl.</detail>
+ </trophy>
+ <trophy id="072" hidden="no" ttype="S" pid="-1" gid="004">
+  <name>Map Room</name>
+  <detail>Place a fully explored Map into an Item Frame.</detail>
+ </trophy>
+ <trophy id="073" hidden="no" ttype="B" pid="-1" gid="004">
+  <name>Camouflage</name>
+  <detail>Kill a Mob while wearing the same type of Mob Head.</detail>
+ </trophy>
+ <trophy id="074" hidden="no" ttype="B" pid="-1" gid="005">
+  <name>Back from the Dead</name>
+  <detail>Win 3 rounds in a row after one of the opponents has won 2 rounds.</detail>
+ </trophy>
+ <trophy id="075" hidden="no" ttype="S" pid="-1" gid="005">
+  <name>S-No Throw</name>
+  <detail>Win a single round of Snowball Tumble without throwing any Snowballs.</detail>
+ </trophy>
+ <trophy id="076" hidden="no" ttype="S" pid="-1" gid="005">
+  <name>Snow Storm</name>
+  <detail>Hit a single Player with 25 Snowballs in a single public round.</detail>
+ </trophy>
+ <trophy id="077" hidden="no" ttype="S" pid="-1" gid="005">
+  <name>Hotshot</name>
+  <detail>Hit a Player with a Snowball while falling into the Lava.</detail>
+ </trophy>
+ <trophy id="078" hidden="no" ttype="B" pid="-1" gid="005">
+  <name>Snowplough</name>
+  <detail>Push three Players into Lava using Snowballs in a single public round.</detail>
+ </trophy>
+ <trophy id="079" hidden="no" ttype="B" pid="-1" gid="005">
+  <name>Overlord</name>
+  <detail>Stay on the top layer while winning a round in a Snowball Tumble Mini Game.</detail>
+ </trophy>
+ <trophy id="080" hidden="no" ttype="B" pid="-1" gid="005">
+  <name>Underdog</name>
+  <detail>Win a Tumble game whilst on the lowest layer in a Snowball Tumble Mini Game.</detail>
+ </trophy>
+ <trophy id="081" hidden="no" ttype="S" pid="-1" gid="006">
+  <name>The Deep End</name>
+  <detail>Defeat an Elder Guardian.</detail>
+ </trophy>
+ <trophy id="082" hidden="no" ttype="B" pid="-1" gid="006">
+  <name>Great View From Up Here</name>
+  <detail>Levitate up 50 block from the attacks of a Shulker.</detail>
+ </trophy>
+ <trophy id="083" hidden="no" ttype="B" pid="-1" gid="006">
+  <name>Change of Sheets</name>
+  <detail>Dye your bed a different color.</detail>
+ </trophy>
+ <trophy id="084" hidden="no" ttype="S" pid="-1" gid="006">
+  <name>Cheating Death</name>
+  <detail>Use the Totem of Undying to cheat death.</detail>
+ </trophy>
+ <trophy id="085" hidden="no" ttype="B" pid="-1" gid="006">
+  <name>So I got that going for me...</name>
+  <detail>Lead a caravan containing at least 5 Llamas.</detail>
+ </trophy>
+ <trophy id="086" hidden="no" ttype="B" pid="-1" gid="006">
+  <name>Let it go!</name>
+  <detail>Walk across the surface of a deep ocean by freezing the water with Frost Walker boots.</detail>
+ </trophy>
+ <trophy id="087" hidden="no" ttype="S" pid="-1" gid="006">
+  <name>Feeling ill</name>
+  <detail>Defeat an Evoker.</detail>
+ </trophy>
+ <trophy id="088" hidden="no" ttype="B" pid="-1" gid="007">
+  <name>One Pickle, Two Pickle, Sea Pickle, Four</name>
+  <detail>Place four Sea Pickles in one block.</detail>
+ </trophy>
+ <trophy id="089" hidden="no" ttype="B" pid="-1" gid="007">
+  <name>Alternative Fuel</name>
+  <detail>Use a Dried Kelp block as fuel in a furnace.</detail>
+ </trophy>
+ <trophy id="090" hidden="no" ttype="G" pid="-1" gid="007">
+  <name>Moskstraumen</name>
+  <detail>Activate a Conduit.</detail>
+ </trophy>
+ <trophy id="091" hidden="no" ttype="B" pid="-1" gid="007">
+  <name>Castaway</name>
+  <detail>Eat nothing but Kelp for 3 days.</detail>
+ </trophy>
+ <trophy id="092" hidden="no" ttype="S" pid="-1" gid="007">
+  <name>Sleep with the Fishes</name>
+  <detail>Stay underwater for one full day without using potions.</detail>
+ </trophy>
+ <trophy id="093" hidden="no" ttype="S" pid="-1" gid="007">
+  <name>Echolocation</name>
+  <detail>Bribe a Dolphin.</detail>
+ </trophy>
+</trophyconf>

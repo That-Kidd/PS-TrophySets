@@ -1,0 +1,120 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000000af246dcefdb0fb3a729c347e03845aee76936601bd14d0193fac5d45f85e25c135e05f225f36472db214949764bcf550d74fe1bc538d5770629e2f6e502bd2b692d56ff18fe117804003edb5910385b75648b3c768971719c2899c30a6fcbde345a928d721d5c590596c839475e1fed9a26ab210a8894112b35fbd77f9601287f601c7f2d19078d616af67da90bdee9654e4de5-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR02798_00</npcommid>
+ <trophyset-version>01.04</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Escape Plan™</title-name>
+ <title-detail>Escape Plan™ Main Game Trophies</title-detail>
+ <group id="001">
+  <name>The Asylum</name>
+  <detail>More zany trophies</detail>
+ </group>
+ <group id="002">
+  <name>The Underground</name>
+  <detail>Even more zany trophies</detail>
+ </group>
+ <group id="003">
+  <name>Director's Cut</name>
+  <detail>Yes, and even more trophies because we like you!</detail>
+ </group>
+ <trophy id="000" hidden="no" ttype="G" pid="-1">
+  <name>A Clean Escape</name>
+  <detail>In challenge mode, complete the entire game in less than 20 deaths combined for Lil and Laarg</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="-1">
+  <name>A Cautionary Tale</name>
+  <detail>Collect all the warning signs</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="-1">
+  <name>Starry Night</name>
+  <detail>Earn 3 stars in every level</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="-1">
+  <name>Death Comes For Ye</name>
+  <detail>Die in every level in Escape Plan™</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>A Lil Problem</name>
+  <detail>Kill Lil in 5 different ways</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>A Laarg Problem</name>
+  <detail>Kill Laarg in 5 different ways</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Test Subjects</name>
+  <detail>Use sheep as test subjects in 6 levels</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Trippin</name>
+  <detail>Trip up Lil in 5 rooms</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Splatter Fest</name>
+  <detail>Kill minions in 12 different rooms</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>Prison Escape</name>
+  <detail>Escape the Prison</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>Quittin' Time</name>
+  <detail>Escape the Factory</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="-1">
+  <name>Out of the Dumps</name>
+  <detail>Escape the Dumps</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="-1">
+  <name>Rock It!</name>
+  <detail>Escape the Workshop</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="-1" gid="001">
+  <name>The Chief Escapes</name>
+  <detail>Complete The Asylum</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="-1" gid="001">
+  <name>Chromophobia</name>
+  <detail>Collect all Asylum Warning Signs</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="-1" gid="001">
+  <name>Fweeen!</name>
+  <detail>Release the Shock Minions!!</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="-1" gid="001">
+  <name>Trick or Treat</name>
+  <detail>Complete all Asylum rooms in a costume</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="G" pid="-1" gid="002">
+  <name>Well Traveled</name>
+  <detail>Complete The Underground</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="-1" gid="002">
+  <name>Mind the Gap</name>
+  <detail>Collect all Underground Warning Signs</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="-1" gid="002">
+  <name>Careful Planning</name>
+  <detail>Complete High Voltage in a single swipe</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="-1" gid="002">
+  <name>Our Dashing Hero</name>
+  <detail>Complete Toot Toot Splat by only juicing up once</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="G" pid="-1" gid="003">
+  <name>Challenge Accepted</name>
+  <detail>Earn an A+ in each of The Director's Cut challenges in Challenge Mode</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="-1" gid="003">
+  <name>Oh the Pain</name>
+  <detail>Earn 3 stars on every Director's Cut level</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="-1" gid="003">
+  <name>Extra Credit</name>
+  <detail>Collect all Director's Cut Warning Signs</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="-1" gid="003">
+  <name>Deleted Scenes</name>
+  <detail>Complete The Director's Cut</detail>
+ </trophy>
+</trophyconf>

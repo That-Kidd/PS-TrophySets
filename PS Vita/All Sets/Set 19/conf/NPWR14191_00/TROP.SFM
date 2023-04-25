@@ -1,0 +1,64 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000c515457071bf8b88f7ea5da6690d176431d1c9fe5c5224792ae8f854fcc99f8e7f5308e3d70a628e0c718fbca5dbef86d93adb03f6deab5bdd4c72ec7834ed830abf77c651d4bbd5f43d07c2229a4a1a83170a1cb465270ffd5547b5a837b384950c92edde3e9591bcff502f76dac5679c375adab1fdf8df36bf6663e227f273ae278817e06936d8c0d457ab688b58c8e98e5651-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR14191_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Alteric</title-name>
+ <title-detail>Alteric</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Alteric Platinum</name>
+  <detail>Good job! Completed all tasks!</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>Good start!</name>
+  <detail>Complete Chapter 1</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>Is it hard?</name>
+  <detail>Complete Chapter 2</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>You’re incredible!</name>
+  <detail>Complete Chapter 3</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>Lucky guy</name>
+  <detail>Complete Chapter 12 without deads</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>Good runner</name>
+  <detail>Complete Chapter 6 without deads</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="G" pid="000">
+  <name>Meeting an old friend</name>
+  <detail>I found you, Tommy</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>Jumper I</name>
+  <detail>Jump up to 1000 times</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>Jumper II</name>
+  <detail>Jump up to 2000 times</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>Jumper III</name>
+  <detail>Jump up to 4000 times</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>Defector I</name>
+  <detail>Swap worlds 100 times</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>Defector II</name>
+  <detail>Swap worlds 200 times</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>Defector III</name>
+  <detail>Swap worlds 400 times</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>Dead man</name>
+  <detail>Die 100 times</detail>
+ </trophy>
+</trophyconf>

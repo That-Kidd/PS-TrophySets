@@ -1,0 +1,56 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000667f4f3939d3f482b7b7f5f418b80b1a126f0e9a65f16c34376849d2ca0520bff8db10ed2de298789b833d2b664e0d3d96d470652486c0557edd1e16c6a2c7786ee6022949f5bac9b219dca6b552b1f19486097f3112bb0fe398e9037fc9dd248da9efa7e3897147fe1710a4ca61d9e8e9429a6d2c5dd9138701e61e1938f89582f025a08d9dec204e12927ec31a51bfc5e0f7fc-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="small">
+ <npcommid>NPWR07476_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Nidhogg</title-name>
+ <title-detail>Nidhogg</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>COMEBACK KID</name>
+  <detail>Get eaten by the nidhogg after nearly allowing your opponent to do the same</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>MEMORIES</name>
+  <detail>Trap your opponent on your sword for a long time</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>FLESH AND BLOOD</name>
+  <detail>Beat the singleplayer game</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>PERFECT STRIDE</name>
+  <detail>Win the faceoff and never lose the arrow in a singleplayer match</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>BLOODLUST</name>
+  <detail>100 total kills in one match</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>PROMETHEUS</name>
+  <detail>Run across your final screen in the castle with your sword cocked the whole time</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>GTD</name>
+  <detail>Finish an 8 player tournament</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="-1">
+  <name>SLOW PLAYED</name>
+  <detail>Let the timer run out in your opponent's last screen and win in sudden death</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="-1">
+  <name>VALKYRIE</name>
+  <detail>Win 100 games through matchmaking</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="-1">
+  <name>TRAPPED IN DONKEYSPACE</name>
+  <detail>Play a match lasting longer than 20 minutes</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="-1">
+  <name>NSA</name>
+  <detail>Intelligence gathered</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="-1">
+  <name>HOGGLIKE</name>
+  <detail>Dominate every level in one singleplayer game</detail>
+ </trophy>
+</trophyconf>

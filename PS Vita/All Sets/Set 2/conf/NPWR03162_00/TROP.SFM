@@ -1,0 +1,452 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000005c4f02580abc340fab09d05d50849599b5711b684bd7f1515a739cdd16c4cd2bf13bf2033933e8fc23e3e62c7039db3975f0a72419bf962553e74920b59b2b026a70ec7c920050639c26475338076ba755f5e50985716f8c95e8902b8a991949e107f3ee075beddbc2ffb0ba5adec0ceae4bf2c5cffa82d2f9d8577dda36a0f0426c56f27fda2053aae61b3be2f08188d467f9ee-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR03162_00</npcommid>
+ <trophyset-version>01.12</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Pinball Arcade</title-name>
+ <title-detail>¡Logra todos los objetivos de la mesa y las máximas puntuaciones para recoger todos los trofeos!</title-detail>
+ <group id="001">
+  <name>Paquete de mesas 1 de Pinball Arcade</name>
+  <detail>¡Logra todos los objetivos de la mesa y las máximas puntuaciones para recoger todos los trofeos!</detail>
+ </group>
+ <group id="002">
+  <name>Paquete de mesas 2 de Pinball Arcade</name>
+  <detail>¡Logra todos los objetivos de la mesa y las máximas puntuaciones para recoger todos los trofeos!</detail>
+ </group>
+ <group id="003">
+  <name>Paquete de mesas 3 de Pinball Arcade</name>
+  <detail>¡Logra todos los objetivos de la mesa y las máximas puntuaciones para recoger todos los trofeos!</detail>
+ </group>
+ <group id="004">
+  <name>Paquete de mesas 4 de Pinball Arcade</name>
+  <detail>¡Logra todos los objetivos de la mesa y las máximas puntuaciones para recoger todos los trofeos!</detail>
+ </group>
+ <group id="005">
+  <name>Paquete de mesas 5 de Pinball Arcade</name>
+  <detail>¡Logra todos los objetivos de la mesa y las máximas puntuaciones para recoger todos los trofeos!</detail>
+ </group>
+ <group id="006">
+  <name>Paquete de mesas 6 de Pinball Arcade</name>
+  <detail>¡Logra todos los objetivos de la mesa y las máximas puntuaciones para recoger todos los trofeos!</detail>
+ </group>
+ <group id="007">
+  <name>Paquete de mesas 7 de Pinball Arcade</name>
+  <detail>¡Logra todos los objetivos de la mesa y las máximas puntuaciones para recoger todos los trofeos!</detail>
+ </group>
+ <group id="008">
+  <name>Paquete de mesas 8 de Pinball Arcade</name>
+  <detail>¡Logra todos los objetivos de la mesa y las máximas puntuaciones para recoger todos los trofeos!</detail>
+ </group>
+ <group id="009">
+  <name>Paquete de mesas 9 de Pinball Arcade</name>
+  <detail>¡Logra todos los objetivos de la mesa y las máximas puntuaciones para recoger todos los trofeos!</detail>
+ </group>
+ <group id="010">
+  <name>Paquete de mesas 10 de Pinball Arcade</name>
+  <detail>¡Logra todos los objetivos de la mesa y las máximas puntuaciones para recoger todos los trofeos!</detail>
+ </group>
+ <group id="011">
+  <name>Paquete de mesas 11 de Pinball Arcade</name>
+  <detail>¡Logra todos los objetivos de la mesa y las máximas puntuaciones para recoger todos los trofeos!</detail>
+ </group>
+ <group id="012">
+  <name>Paquete de mesas 12 de Pinball Arcade</name>
+  <detail>¡Logra todos los objetivos de la mesa y las máximas puntuaciones para recoger todos los trofeos!</detail>
+ </group>
+ <group id="013">
+  <name>Paquete de mesas 13 de Pinball Arcade</name>
+  <detail>¡Logra todos los objetivos de la mesa y las máximas puntuaciones para recoger todos los trofeos!</detail>
+ </group>
+ <group id="014">
+  <name>Paquete de mesas 14 de Pinball Arcade</name>
+  <detail>¡Logra todos los objetivos de la mesa y las máximas puntuaciones para recoger todos los trofeos!</detail>
+ </group>
+ <group id="015">
+  <name>Paquete de mesas 15 de Pinball Arcade</name>
+  <detail>¡Logra todos los objetivos de la mesa y las máximas puntuaciones para recoger todos los trofeos!</detail>
+ </group>
+ <trophy id="000" hidden="yes" ttype="B" pid="-1">
+  <name>Los 5 mejores de Tales</name>
+  <detail>Alcanzar el top 5 en las puntuaciones en Tales of Arabian Nights®</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="S" pid="-1">
+  <name>Maestro de Tales</name>
+  <detail>Completar los objetivos estándar en Tales of the Arabian Nights®</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="S" pid="-1">
+  <name>Mago de Tales</name>
+  <detail>Completar los objetivos de mago en Tales of the Arabian Nights®</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="-1">
+  <name>Los 5 mejores de Ripley’s</name>
+  <detail>Alcanzar el top 5 en las puntuaciones en Ripley's Believe it or Not!®</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="S" pid="-1">
+  <name>Maestro de Ripley’s</name>
+  <detail>Completar los objetivos estándar en Ripley's Believe it or Not!®</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="S" pid="-1">
+  <name>Mago en Ripley's</name>
+  <detail>Completar los objetivos de mago en Ripley's Believe it or Not!®</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="-1">
+  <name>Los 5 mejores de Theatre</name>
+  <detail>Alcanzar el top 5 en las puntuaciones de Theatre of Magic®</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="-1">
+  <name>Maestro de Theatre</name>
+  <detail>Completar los objetivos estándar en Theatre of Magic®</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="-1">
+  <name>Mago del Theatre</name>
+  <detail>Completar los objetivos de mago en Theatre of Magic®</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="-1">
+  <name>Los 5 mejores de Black Hole</name>
+  <detail>Alcanzar el top 5 en las puntuaciones en Black Hole™</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="-1">
+  <name>Maestro de Black Hole</name>
+  <detail>Completar los objetivos estándar en Black Hole™</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="-1">
+  <name>Mago en Black Hole</name>
+  <detail>Completar los objetivos de mago en Black Hole™</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>Los 5 mejores de Bride</name>
+  <detail>Alcanzar el top 5 en las puntuaciones en The Machine: Bride of Pin•Bot™</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="-1" gid="001">
+  <name>Maestro de Bride</name>
+  <detail>Completar los objetivos estándar en The Machine: Bride of Pin•Bot™</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="-1" gid="001">
+  <name>Mago del Bride</name>
+  <detail>Completar los objetivos de mago en The Machine: Bride of Pin•Bot™</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>Los 5 mejores de Medieval</name>
+  <detail>Alcanzar el top 5 en las puntuaciones en Medieval Madness™</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="-1" gid="001">
+  <name>Maestro de Medieval</name>
+  <detail>Completar los objetivos estándar en Medieval Madness™</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="-1" gid="001">
+  <name>Mago del Medieval</name>
+  <detail>Completar los objetivos de mago en Medieval Madness™</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="-1" gid="002">
+  <name>Los 5 mejores de Cirqus</name>
+  <detail>Alcanzar el top 5 en las puntuaciones en Cirqus Voltaire™</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="-1" gid="002">
+  <name>Maestro de Cirqus</name>
+  <detail>Completar los objetivos estándar en Cirqus Voltaire™</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="-1" gid="002">
+  <name>Mago del Cirqus</name>
+  <detail>Completar los objetivos de mago en Cirqus Voltaire™</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="-1" gid="002">
+  <name>Los 5 mejores de Funhouse</name>
+  <detail>Alcanzar el top 5 en las puntuaciones en Funhouse™</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="-1" gid="002">
+  <name>Maestro de Funhouse</name>
+  <detail>Completar los objetivos estándar en Funhouse™</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="-1" gid="002">
+  <name>Mago del Funhouse</name>
+  <detail>Completar los objetivos de mago en Funhouse™</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="-1" gid="003">
+  <name>Los 5 mejores de Gorgar</name>
+  <detail>Alcanzar el top 5 en las puntuaciones en Gorgar™</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="S" pid="-1" gid="003">
+  <name>Maestro de Gorgar</name>
+  <detail>Completar los objetivos estándar en Gorgar™</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="S" pid="-1" gid="003">
+  <name>Mago del Gorgar</name>
+  <detail>Completar los objetivos de mago en Gorgar™</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="-1" gid="003">
+  <name>Los 5 mejores de Monster Bash</name>
+  <detail>Alcanzar el top 5 en las puntuaciones en Monster Bash™</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="S" pid="-1" gid="003">
+  <name>Maestro de Monster Bash</name>
+  <detail>Completar los objetivos estándar en Monster Bash™</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="S" pid="-1" gid="003">
+  <name>Mago del Monster Bash</name>
+  <detail>Completar los objetivos de mago en Monster Bash™</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="-1" gid="004">
+  <name>Los 5 mejores de Creature</name>
+  <detail>Alcanzar el top 5 en las puntuaciones en Creature from the BLack Lagoon™</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="S" pid="-1" gid="004">
+  <name>Maestro de Creature</name>
+  <detail>Completar los objetivos estándar en Creature from the BLack Lagoon™</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="S" pid="-1" gid="004">
+  <name>Mago del Creature</name>
+  <detail>Completar los objetivos de mago en Creature from the BLack Lagoon™</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="-1" gid="004">
+  <name>Los 5 mejores de Knight</name>
+  <detail>Alcanzar el top 5 en las puntuaciones en Black Knight™</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="S" pid="-1" gid="004">
+  <name>Maestro de Knight</name>
+  <detail>Completar los objetivos estándar en Black Knight™</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="S" pid="-1" gid="004">
+  <name>Mago del Knight</name>
+  <detail>Completar los objetivos de mago en Black Knight™</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="-1" gid="005">
+  <name>Los 5 mejores de Harley</name>
+  <detail>Alcanzar el top 5 en las puntuaciones en Harley Davidson®</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="S" pid="-1" gid="005">
+  <name>Maestro de Harley</name>
+  <detail>Completar los objetivos estándar en Harley Davidson®</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="S" pid="-1" gid="005">
+  <name>Mago del Harley</name>
+  <detail>Completar los objetivos de mago en Harley Davidson®</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="-1" gid="005">
+  <name>Los 5 mejores de Taxi</name>
+  <detail>Alcanzar el top 5 en las puntuaciones en Taxi™</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="S" pid="-1" gid="005">
+  <name>Maestro de Taxi</name>
+  <detail>Completar los objetivos estándar en Taxi™</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="S" pid="-1" gid="005">
+  <name>Mago del Taxi</name>
+  <detail>Completar los objetivos de mago en Taxi™</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="B" pid="-1" gid="006">
+  <name>Los 5 mejores de Elvira Party</name>
+  <detail>Alcanzar el top 5 en las puntuaciones en Elvira and the Party Monsters™</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="S" pid="-1" gid="006">
+  <name>Maestro de Elvira Party</name>
+  <detail>Completar los objetivos estándar en Elvira and the Party Monsters™</detail>
+ </trophy>
+ <trophy id="044" hidden="no" ttype="S" pid="-1" gid="006">
+  <name>Mago del Elvira Party</name>
+  <detail>Completar los objetivos de mago en Elvira and the Party Monsters™</detail>
+ </trophy>
+ <trophy id="045" hidden="no" ttype="B" pid="-1" gid="006">
+  <name>Los 5 mejores de Gofers</name>
+  <detail>Alcanzar el top 5 en las puntuaciones en No Good Gofers™</detail>
+ </trophy>
+ <trophy id="046" hidden="no" ttype="S" pid="-1" gid="006">
+  <name>Maestro de Gofers</name>
+  <detail>Completar los objetivos estándar en No Good Gofers™</detail>
+ </trophy>
+ <trophy id="047" hidden="no" ttype="S" pid="-1" gid="006">
+  <name>Mago del Gofers</name>
+  <detail>Completar los objetivos de mago en No Good Gofers™</detail>
+ </trophy>
+ <trophy id="048" hidden="no" ttype="B" pid="-1" gid="007">
+  <name>Los 5 mejores de Scared</name>
+  <detail>Alcanzar el top 5 en las puntuaciones en Scared Stiff™</detail>
+ </trophy>
+ <trophy id="049" hidden="no" ttype="S" pid="-1" gid="007">
+  <name>Maestro de Scared</name>
+  <detail>Completar los objetivos estándar en Scared Stiff™</detail>
+ </trophy>
+ <trophy id="050" hidden="no" ttype="S" pid="-1" gid="007">
+  <name>Mago del Scared</name>
+  <detail>Completar los objetivos de mago en Scared Stiff™</detail>
+ </trophy>
+ <trophy id="051" hidden="no" ttype="B" pid="-1" gid="007">
+  <name>Los 5 mejores de Big Shot</name>
+  <detail>Alcanzar el top 5 en las puntuaciones en Big Shot™</detail>
+ </trophy>
+ <trophy id="052" hidden="no" ttype="S" pid="-1" gid="007">
+  <name>Maestro de Big Shot</name>
+  <detail>Completar los objetivos estándar en Big Shot™</detail>
+ </trophy>
+ <trophy id="053" hidden="no" ttype="S" pid="-1" gid="007">
+  <name>Mago del Big Shot</name>
+  <detail>Completar los objetivos de mago en Big Shot™</detail>
+ </trophy>
+ <trophy id="054" hidden="no" ttype="B" pid="-1" gid="008">
+  <name>Los 5 mejores de Twilight</name>
+  <detail>Alcanzar el top 5 en las puntuaciones en Twilight Zone™</detail>
+ </trophy>
+ <trophy id="055" hidden="no" ttype="S" pid="-1" gid="008">
+  <name>Maestro de Twilight</name>
+  <detail>Completar los objetivos estándar en Twilight Zone™</detail>
+ </trophy>
+ <trophy id="056" hidden="no" ttype="S" pid="-1" gid="008">
+  <name>Mago del Twilight</name>
+  <detail>Completar los objetivos de mago en Twilight Zone™</detail>
+ </trophy>
+ <trophy id="057" hidden="no" ttype="B" pid="-1" gid="009">
+  <name>Los 5 mejores de Star Trek: TNG</name>
+  <detail>Alcanzar el top 5 en las puntuaciones en Star Trek: The Next Generation™</detail>
+ </trophy>
+ <trophy id="058" hidden="no" ttype="S" pid="-1" gid="009">
+  <name>Maestro de Star Trek: TNG</name>
+  <detail>Completar los objetivos estándar en Star Trek: The Next Generation™</detail>
+ </trophy>
+ <trophy id="059" hidden="no" ttype="S" pid="-1" gid="009">
+  <name>Mago del Star Trek: TNG</name>
+  <detail>Completar los objetivos de mago en Star Trek: The Next Generation™</detail>
+ </trophy>
+ <trophy id="060" hidden="no" ttype="B" pid="-1" gid="010">
+  <name>Los 5 mejores de Attack From Mars</name>
+  <detail>Alcanzar el top 5 en las puntuaciones en Attack From Mars™</detail>
+ </trophy>
+ <trophy id="061" hidden="no" ttype="S" pid="-1" gid="010">
+  <name>Maestro de Attack From Mars</name>
+  <detail>Completar los objetivos estándar en Attack From Mars™</detail>
+ </trophy>
+ <trophy id="062" hidden="no" ttype="S" pid="-1" gid="010">
+  <name>Mago del Attack From Mars</name>
+  <detail>Completar los objetivos de mago en Attack From Mars™</detail>
+ </trophy>
+ <trophy id="063" hidden="no" ttype="B" pid="-1" gid="010">
+  <name>Los 5 mejores de Genie</name>
+  <detail>Alcanzar el top 5 en las puntuaciones en Genie™</detail>
+ </trophy>
+ <trophy id="064" hidden="no" ttype="S" pid="-1" gid="010">
+  <name>Maestro de Genie</name>
+  <detail>Completar los objetivos estándar en Genie™</detail>
+ </trophy>
+ <trophy id="065" hidden="no" ttype="S" pid="-1" gid="010">
+  <name>Mago del Genie</name>
+  <detail>Completar los objetivos de mago en Genie™</detail>
+ </trophy>
+ <trophy id="066" hidden="no" ttype="B" pid="-1" gid="011">
+  <name>Los 5 mejores de Dr. Dude</name>
+  <detail>Alcanzar el top 5 en las puntuaciones en Dr. Dude™</detail>
+ </trophy>
+ <trophy id="067" hidden="no" ttype="S" pid="-1" gid="011">
+  <name>Maestro de Dr. Dude</name>
+  <detail>Completar los objetivos estándar en Dr. Dude™</detail>
+ </trophy>
+ <trophy id="068" hidden="no" ttype="S" pid="-1" gid="011">
+  <name>Mago del Dr. Dude</name>
+  <detail>Completar los objetivos de mago en Dr. Dude™</detail>
+ </trophy>
+ <trophy id="069" hidden="no" ttype="B" pid="-1" gid="011">
+  <name>Los 5 mejores de Firepower</name>
+  <detail>Alcanzar el top 5 en las puntuaciones en Firepower™</detail>
+ </trophy>
+ <trophy id="070" hidden="no" ttype="S" pid="-1" gid="011">
+  <name>Maestro de Firepower</name>
+  <detail>Completar los objetivos estándar en Firepower™</detail>
+ </trophy>
+ <trophy id="071" hidden="no" ttype="S" pid="-1" gid="011">
+  <name>Mago del Firepower</name>
+  <detail>Completar los objetivos de mago en Firepower™</detail>
+ </trophy>
+ <trophy id="072" hidden="no" ttype="B" pid="-1" gid="012">
+  <name>Los 5 mejores de Cactus Canyon</name>
+  <detail>Alcanzar el top 5 en las puntuaciones en Cactus Canyon™</detail>
+ </trophy>
+ <trophy id="073" hidden="no" ttype="S" pid="-1" gid="012">
+  <name>Maestro de Cactus Canyon</name>
+  <detail>Completar los objetivos estándar en Cactus Canyon™</detail>
+ </trophy>
+ <trophy id="074" hidden="no" ttype="S" pid="-1" gid="012">
+  <name>Mago del Cactus Canyon</name>
+  <detail>Completar los objetivos de mago en Cactus Canyon™</detail>
+ </trophy>
+ <trophy id="075" hidden="no" ttype="B" pid="-1" gid="012">
+  <name>Los 5 mejores de Central Park</name>
+  <detail>Alcanzar el top 5 en las puntuaciones en Central Park™</detail>
+ </trophy>
+ <trophy id="076" hidden="no" ttype="S" pid="-1" gid="012">
+  <name>Maestro de Central Park</name>
+  <detail>Completar los objetivos estándar en Central Park™</detail>
+ </trophy>
+ <trophy id="077" hidden="no" ttype="S" pid="-1" gid="012">
+  <name>Mago del Central Park</name>
+  <detail>Completar los objetivos de mago en Central Park™</detail>
+ </trophy>
+ <trophy id="078" hidden="no" ttype="B" pid="-1" gid="013">
+  <name>Los 5 mejores de White Water</name>
+  <detail>Alcanzar el top 5 en las puntuaciones en White Water™</detail>
+ </trophy>
+ <trophy id="079" hidden="no" ttype="S" pid="-1" gid="013">
+  <name>Maestro de White Water</name>
+  <detail>Completar los objetivos estándar en White Water™</detail>
+ </trophy>
+ <trophy id="080" hidden="no" ttype="S" pid="-1" gid="013">
+  <name>Mago del White Water</name>
+  <detail>Completar los objetivos de mago en White Water™</detail>
+ </trophy>
+ <trophy id="081" hidden="no" ttype="B" pid="-1" gid="013">
+  <name>Los 5 mejores de Space Shuttle</name>
+  <detail>Alcanzar el top 5 en las puntuaciones en Space Shuttle™</detail>
+ </trophy>
+ <trophy id="082" hidden="no" ttype="S" pid="-1" gid="013">
+  <name>Maestro de Space Shuttle</name>
+  <detail>Completar los objetivos estándar en Space Shuttle™</detail>
+ </trophy>
+ <trophy id="083" hidden="no" ttype="S" pid="-1" gid="013">
+  <name>Mago del Space Shuttle</name>
+  <detail>Completar los objetivos de mago en Space Shuttle™</detail>
+ </trophy>
+ <trophy id="084" hidden="no" ttype="B" pid="-1" gid="014">
+  <name>Los 5 mejores de Pin*Bot</name>
+  <detail>Alcanzar el top 5 en las puntuaciones en Pin*Bot™</detail>
+ </trophy>
+ <trophy id="085" hidden="no" ttype="S" pid="-1" gid="014">
+  <name>Maestro de Pin*Bot</name>
+  <detail>Completar los objetivos estándar en Pin*Bot™</detail>
+ </trophy>
+ <trophy id="086" hidden="no" ttype="S" pid="-1" gid="014">
+  <name>Mago del Pin*Bot</name>
+  <detail>Completar los objetivos de mago en Pin*Bot™</detail>
+ </trophy>
+ <trophy id="087" hidden="no" ttype="B" pid="-1" gid="014">
+  <name>Los 5 mejores de Centaur</name>
+  <detail>Alcanzar el top 5 en las puntuaciones en Centaur™</detail>
+ </trophy>
+ <trophy id="088" hidden="no" ttype="S" pid="-1" gid="014">
+  <name>Maestro de Centaur</name>
+  <detail>Completar los objetivos estándar en Centaur™</detail>
+ </trophy>
+ <trophy id="089" hidden="no" ttype="S" pid="-1" gid="014">
+  <name>Mago del Centaur</name>
+  <detail>Completar los objetivos de mago en Centaur™</detail>
+ </trophy>
+ <trophy id="090" hidden="no" ttype="B" pid="-1" gid="015">
+  <name>Los 5 mejores de The Champion Pub</name>
+  <detail>Alcanzar el top 5 en las puntuaciones en The Champion Pub™</detail>
+ </trophy>
+ <trophy id="091" hidden="no" ttype="S" pid="-1" gid="015">
+  <name>Maestro de The Champion Pub</name>
+  <detail>Completar los objetivos estándar en The Champion Pub™</detail>
+ </trophy>
+ <trophy id="092" hidden="no" ttype="S" pid="-1" gid="015">
+  <name>Mago del The Champion Pub</name>
+  <detail>Completar los objetivos de mago en The Champion Pub™</detail>
+ </trophy>
+ <trophy id="093" hidden="no" ttype="B" pid="-1" gid="015">
+  <name>Los 5 mejores de Whirlwind</name>
+  <detail>Alcanzar el top 5 en las puntuaciones en Whirlwind™</detail>
+ </trophy>
+ <trophy id="094" hidden="no" ttype="S" pid="-1" gid="015">
+  <name>Maestro de Whirlwind</name>
+  <detail>Completar los objetivos estándar en Whirlwind™</detail>
+ </trophy>
+ <trophy id="095" hidden="no" ttype="S" pid="-1" gid="015">
+  <name>Mago del Whirlwind</name>
+  <detail>Completar los objetivos de mago en Whirlwind™</detail>
+ </trophy>
+</trophyconf>

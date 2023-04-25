@@ -1,0 +1,40 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000cd9afe1e2096a45cfbbf8535432b218c17408e1bb1f6b2192958d03b971c7412bd2fa04ba9a6333b1f7a3894df673e9715b994e3971919b25293049f89580ba5b842f69312f5c936bebf581417e655974987ae8698ddf3adca680e37ecda2137af745eff210dad969a7fb517edde52230b948ca1188d1adec1cac7c6f99e4e09f7003ef421ee9db9813772222995de265f1512f6-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR04185_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>HAKO！ -OPEN ME-　digest ver.</title-name>
+ <title-detail>HAKO！ -OPEN ME-　digest ver.&#x0a;Trophy Set</title-detail>
+ <trophy id="000" hidden="no" ttype="G" pid="-1">
+  <name>You're a box Master!</name>
+  <detail>Earn a S rank in all single boxes</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="-1">
+  <name>First ever box! Let's touch!</name>
+  <detail>Touch the first title menu</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="-1">
+  <name>You've opened the "Tutorial Box!</name>
+  <detail>Earn a reward with the "Tutorial Box"</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="-1">
+  <name>You've opened the "Rebellious Wooden Box"</name>
+  <detail>Earn a reward with the "Rebellious Wooden Box"</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="-1">
+  <name>You've opened the "Color Box"</name>
+  <detail>Earn a reward with the "Color Box"</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="-1">
+  <name>You've opened the "Under Box"</name>
+  <detail>Earn a reward with the "Under Box"</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="-1">
+  <name>You've opened the "Surveillance Box"</name>
+  <detail>Earn a reward with the "Surveillance Box"</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="-1">
+  <name>You've Opened the "SF Box Type F"!</name>
+  <detail>Earn a reward with the "SF Box Type F"</detail>
+ </trophy>
+</trophyconf>

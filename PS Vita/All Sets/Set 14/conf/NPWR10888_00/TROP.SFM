@@ -1,0 +1,124 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000508150334eaef079e309d0cbe9f54dc93a3228e40287829ad51d6a115fbde700e77833548f6fabd3eb95455f22cf0099a9d56db68b291535e014ff11f7023dac52b1b9c9f7029029fc6aaeffdc23ce51c253a6168cd031177bfe98969a82fa85ed9af4cb2f88c881969e11b40a14dddc28570e20993099f626c535d353acc88a2dcdd5333641edfdae6e06ea6074e8c91b75c091-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR10888_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>蘿潔與黃昏古城</title-name>
+ <title-detail>蘿潔與黃昏古城的獎盃組</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>蘿潔與黃昏古城</name>
+  <detail>獲得了所有的獎盃！</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>神速之星</name>
+  <detail>競時模式總計時間1:20:00以內完成</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="G" pid="000">
+  <name>最後的美麗薔薇</name>
+  <detail>打倒薇奧拉</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>薔薇花束</name>
+  <detail>身上寄宿所有的血之記憶</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="G" pid="000">
+  <name>黑暗中的光明</name>
+  <detail>死亡100次</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>捨華求實</name>
+  <detail>收集到所有的收藏品</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>光速之星</name>
+  <detail>競時模式總計時間1:50:00以內完成</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>奮飛的幼童</name>
+  <detail>打倒布蘭</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>一朵薔薇</name>
+  <detail>身上寄宿10段血之記憶</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>疾速之星</name>
+  <detail>競時模式1:50以內通過鐘塔上層</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>蛋的耐久實驗</name>
+  <detail>讓巨人從古城中高低落差最大的地方跳下</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>與蘿潔的羈絆</name>
+  <detail>救出被擄走的蘿潔</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>染血之花</name>
+  <detail>通過深層長廊</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>雛鳥的空中散步</name>
+  <detail>於深層長廊－１前進時未接觸到蘑菇</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>蘿潔與另一半</name>
+  <detail>通過鐘塔</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>金絲雀的智慧</name>
+  <detail>通過書庫</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>紅月</name>
+  <detail>於古城的某處看月亮</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>修補的種子</name>
+  <detail>死亡30次</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>音速之星</name>
+  <detail>競時模式總計時間2:40:00以內完成</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>薔薇花瓣</name>
+  <detail>身上寄宿5段血之記憶</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>飛速之星</name>
+  <detail>競時模式2:10以內通過深層長廊－２</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>流星少女</name>
+  <detail>投擲蘿潔100次</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>被摘下的花蕾</name>
+  <detail>巨人投擲蘿潔使其死亡</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>化為星星</name>
+  <detail>看某處的野獸嚥下最後一口氣</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>食花植物</name>
+  <detail>於中庭－４將蘿潔完美投籃</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>薔薇支配的庭園</name>
+  <detail>通過中庭</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>籠中鳥</name>
+  <detail>通過武器庫</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>傳不出的鳥囀</name>
+  <detail>通過地牢</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>荊棘之路</name>
+  <detail>死亡10次</detail>
+ </trophy>
+</trophyconf>

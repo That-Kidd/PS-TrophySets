@@ -1,0 +1,156 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000057f745d8106a15184e696cc77637bceb2738bcdf670fc59e6562b6cf050c5afa19b1ee8593d9f44b718ee2f987c48a15659a49b695e9deadd9c02176625da9480aa9b3b29bc1faa3c5471742fc29c92c45d03ae5e8193ecc42651c3b9c42943e8ddf4ddc7a7dff89aead9ffb032a494113f5f7fb8fc9763cf852201e614158edc8021d017386da2892d82b022010e175ae2746e5-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR15669_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Timespinner</title-name>
+ <title-detail>Trophies for Timespinner.</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>The Timespinner</name>
+  <detail>Achieve all possible trophies.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="000">
+  <name>Conqueror</name>
+  <detail>Defeat the ruler of Lachiem.</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="G" pid="000">
+  <name>Hero of Winderia</name>
+  <detail>Prevent the Qaelans from being persecuted by the Empire.</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="G" pid="000">
+  <name>Savior of Vilete</name>
+  <detail>End the War of Sisters before any blood is shed.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>Perseverance </name>
+  <detail>Beat the game on Nightmare mode.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>Melee Orb</name>
+  <detail>Find a new Melee Orb.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>Orb Collector</name>
+  <detail>Find all Melee Orbs.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>Spell Necklace</name>
+  <detail>Have an Alchemist make you a new Spell.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>Spell Weaver</name>
+  <detail>Acquire every Orb Spell.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>Passive Ring</name>
+  <detail>Have an Alchemist make you a new Passive ring.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>Passive Aggressive</name>
+  <detail>Acquire every Orb Passive.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>Friendly Familiar</name>
+  <detail>Find your first Familiar companion.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>Aviary of Dreams</name>
+  <detail>Collect all Familiar companions.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>Her Story</name>
+  <detail>Collect all Memories.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>Scholar</name>
+  <detail>Collect all Letters.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>Full Hard Drive</name>
+  <detail>Collect all Downloads.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>Galactic Historian</name>
+  <detail>Collect all Memories, Letters, and Downloads.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Helpful Soul</name>
+  <detail>Finish a character's quest.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>Dedicated Soul</name>
+  <detail>Finish a character's entire quest line.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="G" pid="000">
+  <name>Hero's Soul</name>
+  <detail>Finish all character quests.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>Explorer</name>
+  <detail>Discover 100% of the map.</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>Feline Sentry</name>
+  <detail>Defeat the Feline Sentry in battle. (Normal or Nightmare mode only)</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="B" pid="000">
+  <name>Varndagroth</name>
+  <detail>Defeat Varndagroth in battle. (Normal or Nightmare mode only)</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>Azure Queen</name>
+  <detail>Defeat the Azure Queen in battle. (Normal or Nightmare mode only)</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="000">
+  <name>Golden Idol</name>
+  <detail>Defeat the Golden Idol in battle. (Normal or Nightmare mode only)</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="S" pid="000">
+  <name>Aelana</name>
+  <detail>Defeat Aelana in battle. (Normal or Nightmare mode only)</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>The Maw</name>
+  <detail>Defeat The Maw in battle. (Normal or Nightmare mode only)</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="B" pid="000">
+  <name>Genza</name>
+  <detail>Defeat Genza in battle. (Normal or Nightmare mode only)</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="S" pid="000">
+  <name>Emperor Nuvius</name>
+  <detail>Defeat Emperor Nuvius in battle. (Normal or Nightmare mode only)</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="S" pid="000">
+  <name>Sandman</name>
+  <detail>Defeat the Sandman in battle. (Normal or Nightmare mode only)</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="S" pid="000">
+  <name>Nightmare</name>
+  <detail>Defeat Nightmare in battle. (Normal or Nightmare mode only)</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="B" pid="000">
+  <name>Ravenlord</name>
+  <detail>Defeat the Ravenlord in battle. (Normal or Nightmare mode only)</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="B" pid="000">
+  <name>Xarion</name>
+  <detail>Defeat Xarion in battle. (Normal or Nightmare mode only)</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="B" pid="000">
+  <name>Ifrit</name>
+  <detail>Defeat Ifrit in battle. (Normal or Nightmare mode only)</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="B" pid="000">
+  <name>Cantoran</name>
+  <detail>Defeat Cantoran in battle. (Normal or Nightmare mode only)</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>Silent Archaeologist</name>
+  <detail>Obtain an Orb without breaking its pedestal.</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>Battle Savant</name>
+  <detail>Defeat a boss without stopping time nor taking damage.</detail>
+ </trophy>
+</trophyconf>

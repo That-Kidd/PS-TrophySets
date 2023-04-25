@@ -1,0 +1,100 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000389dca99515d6fbf1e77cd0e9b930a7a7f26700e67975249cf840dad7c6e51953c991bf57569476cb6c0638f951ca8e7888a04bc7ec41c960f822eba9a03443dd9e8881d6399503881fd1aee24c4f1f29bc0b0ab9f97147a4d0d37e06e9907ab724115e20ab925533fc276e071df257e64b2e8ba1c47d4b5815e4ddb8a708dac4f16bef9a42eaaa1f085d062700f547a5f81550e-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR14217_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>WORLDEND</title-name>
+ <title-detail>WORLDENDのトロフィーです</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>魅果町マスター！</name>
+  <detail>全てのトロフィーを獲得した</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>ワーストエンド</name>
+  <detail>ワーストエンドを見た</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>ようこそミス研へ</name>
+  <detail>ミス研に入部した</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>神代堂の跡継ぎ</name>
+  <detail>神代沙也ルートをクリアした</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>内緒の恋人</name>
+  <detail>二階堂玲衣ルートをクリアした</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>素敵な従兄妹</name>
+  <detail>楠瀬舞美ルートをクリアした</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>敏腕編集長</name>
+  <detail>音無雪乃ルートをクリアした</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>2代目マスター</name>
+  <detail>甘奈未海ルートをクリアした</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>宿題残してハッピーバースデイ</name>
+  <detail>舞美の誕生日をお祝いした</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>ど変態</name>
+  <detail>甘奈未海に「変態」と10回言われた</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>花束を君に</name>
+  <detail>ミッション「花束を君に」をクリアした</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>脇が甘い</name>
+  <detail>甘奈未海に写真を消された</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>魅果町コレクター</name>
+  <detail>魅果町五色案内書を全て手に入れた</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>他言無用</name>
+  <detail>山田花子の正体を知った</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>ロンリーバケーション</name>
+  <detail>月丘ひかるのラジオを全部聴いた</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="S" pid="000">
+  <name>服部さんマスター</name>
+  <detail>服部さんから肝油ドロップをもらった</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="G" pid="000">
+  <name>真実を知る者</name>
+  <detail>真相編ルートをクリアした</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="G" pid="000">
+  <name>夏の妄想</name>
+  <detail>山城香織の夢を見た</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="G" pid="000">
+  <name>八方美人</name>
+  <detail>登場人物リストをすべて埋めた</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="G" pid="000">
+  <name>何でも屋開業</name>
+  <detail>ミッションを全てクリアした</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="G" pid="000">
+  <name>心を満タンに</name>
+  <detail>オーラを全てMAXにした</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="G" pid="000">
+  <name>思い出ハンター</name>
+  <detail>全てのCGを獲得した</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="G" pid="000">
+  <name>魅果町観光大使</name>
+  <detail>TIPSをすべて見た</detail>
+ </trophy>
+</trophyconf>

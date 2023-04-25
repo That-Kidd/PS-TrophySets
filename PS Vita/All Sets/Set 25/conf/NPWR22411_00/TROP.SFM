@@ -1,0 +1,68 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000dd59c73a9209a0d87a7308fb402c2daee881a9ec52353f73121f79ef1d5f238b43781a86701c910d1d501e2302b1663d75a93228b8ab450af1a39574b069a42b3e67e8c5073fc70976de68ff3280fac89ff35efac5fe131bd27776d9248f105bcf721ac03b7134f6ed678f8defd57a7a9a66db5f3f0a2922788c1533604599f3a025dd20993b78d69c83fcbec13cbcc95173d8d4-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR22411_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Takotan</title-name>
+ <title-detail>Takotan</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Tako Star!</name>
+  <detail>Unlock all other trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="000">
+  <name>Cake Baker</name>
+  <detail>Collect 20 cakes</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>Toy Collector</name>
+  <detail>Collect 30 gashapon capsules</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>Shiny Diamonds</name>
+  <detail>Collect 250 diamonds</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>Green Diamonds </name>
+  <detail>Collect 12 green diamonds</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>Yellow Diamonds </name>
+  <detail>Collect 12 yellow diamonds</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>Red Diamonds </name>
+  <detail>Collect 12 red diamonds</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>Purple Diamonds </name>
+  <detail>Collect 12 purple diamonds</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>Violet Diamonds </name>
+  <detail>Collect 12 violet diamonds</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>Small Fisher</name>
+  <detail>Kill 50 enemies</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>Big Fisher</name>
+  <detail>Kill 500 enemies</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>Mega Fisher</name>
+  <detail>Kill 1000 enemies</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>King Krushed</name>
+  <detail>Defeat King Krunky</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="000">
+  <name>Just "Desserts"!</name>
+  <detail>Defeat Sticky Treat</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="000">
+  <name>Mech-Annoyed!</name>
+  <detail>Defeat Mechanoid</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,208 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000b328e8105bc475a388d276f52e6894b062f025360332c2be0881fef31b7f0250ff099feaa76842d3ed288f4e19d913032f252ca78a647c1a172c31d1319de919b9cd77434669dae67183836543c5f90516710d8c265c307e2c97ee40f3c427af3bed9088067dc7d448238d4dd67f9bed7d3bb23d6c42c873ef5d0ec0ccfde1f73efe7e3f5d8e7989b8389d6a60c537abc61a914c-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR02479_00</npcommid>
+ <trophyset-version>01.03</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Ragnarok Odyssey</title-name>
+ <title-detail>Ragnarok Odyssey</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Platinum Trophy</name>
+  <detail>All trophies acquired.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Knights Kingdom</name>
+  <detail>Die more than 1 times.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Praetorian</name>
+  <detail>Die more than 10 times.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Gimure</name>
+  <detail>Die more than 30 times.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>Valhalla</name>
+  <detail>Die more than 50 times.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>Helheim</name>
+  <detail>Die more than 100 times.</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>Chapter 1</name>
+  <detail>Complete Chapter 1.</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>Chapter 2</name>
+  <detail>Complete Chapter 2.</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>Chapter 3</name>
+  <detail>Complete Chapter 3.</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="000">
+  <name>Chapter 4</name>
+  <detail>Complete Chapter 4.</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>Chapter 5</name>
+  <detail>Complete Chapter 5.</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>Chapter 6</name>
+  <detail>Complete Chapter 6.</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>Chapter 7</name>
+  <detail>Complete Chapter 7.</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>Chapter 8</name>
+  <detail>Complete Chapter 8.</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>Game Complate.</name>
+  <detail>Complete the game.</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="G" pid="000">
+  <name>Complate all quest</name>
+  <detail>Reach 100% Quest Complete.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Kafra</name>
+  <detail>100000 zeny used in a kafra.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Kafra Chief</name>
+  <detail>500000 zeny used in a kafra.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>Valkylia</name>
+  <detail>100000 zeny used in a haberdashery store.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Nibelungen</name>
+  <detail>500000 zeny used in a haberdashery store.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>Mjollnir</name>
+  <detail>100000 zeny used in a weapon shop.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>Thor's hammare</name>
+  <detail>500000 zeny used in a weapon shop.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>Fine hair</name>
+  <detail>10000 zeny used in a hairsalon.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>Fine skin</name>
+  <detail>50000 zeny used in a hairsalon.</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>Drunken</name>
+  <detail>50 pieces potions use.</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="S" pid="000">
+  <name>Cheers!</name>
+  <detail>100 pieces Potions use.</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>Spectrolite</name>
+  <detail>Use jobchange system.</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>10 single quests</name>
+  <detail>Play through 10 quests.(solo only)</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>20 single quests</name>
+  <detail>Play through 20 quests.(solo only)</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>50 single quests</name>
+  <detail>Play through 50 quests.(solo only)</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="S" pid="000">
+  <name>100 single quests</name>
+  <detail>Play through 100 quests.(solo only)</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>10 multi quests</name>
+  <detail>Play through 10 quests.(Online co-op Only)</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>20 multi quests</name>
+  <detail>Play through 20 quests.(Online co-op Only)</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>50 multi quests</name>
+  <detail>Play through 50 quests.(Online co-op Only)</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="S" pid="000">
+  <name>100 multi quests</name>
+  <detail>Play through 100 quests.(Online co-op Only)</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>Veteran Fighter</name>
+  <detail>Defeat 100 enemys.</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>Master of Arms</name>
+  <detail>Defeat 500 enemys.</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>Einheriaru</name>
+  <detail>Defeat 1000 enemys.</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="S" pid="000">
+  <name>Berserk</name>
+  <detail>Defeat 2000 enemys.</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="000">
+  <name>Play Online Match</name>
+  <detail>Played multiplayer with 2 or more people for the first time.</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="B" pid="000">
+  <name>Dainsleif</name>
+  <detail>Play Dainsleif mode.</detail>
+ </trophy>
+ <trophy id="041" hidden="yes" ttype="B" pid="000">
+  <name>Brunhild</name>
+  <detail>Bravely fell in battle during a boss encounter.</detail>
+ </trophy>
+ <trophy id="042" hidden="yes" ttype="B" pid="000">
+  <name>Gyrfalcon</name>
+  <detail>Blow a group of 7 enemies with a Strong attack.</detail>
+ </trophy>
+ <trophy id="043" hidden="yes" ttype="B" pid="000">
+  <name>Ogre</name>
+  <detail>Defeated a boss without dying or using any potions.</detail>
+ </trophy>
+ <trophy id="044" hidden="yes" ttype="B" pid="000">
+  <name>Swallow Tail</name>
+  <detail>Defeated 100 or more foes with knockback.</detail>
+ </trophy>
+ <trophy id="045" hidden="yes" ttype="B" pid="000">
+  <name>Twilight</name>
+  <detail>Successfully perform a counter attack 100 times.</detail>
+ </trophy>
+ <trophy id="046" hidden="yes" ttype="B" pid="000">
+  <name>Dawn</name>
+  <detail>Healing 100000 HP of other player.</detail>
+ </trophy>
+ <trophy id="047" hidden="yes" ttype="B" pid="000">
+  <name>Lightning</name>
+  <detail>Defeat a group of 10 enemies.</detail>
+ </trophy>
+ <trophy id="048" hidden="no" ttype="B" pid="000">
+  <name>Card collect one.</name>
+  <detail>Collected your first monster card.</detail>
+ </trophy>
+ <trophy id="049" hidden="no" ttype="G" pid="000">
+  <name>Card complate</name>
+  <detail>Collect all cards in the game.</detail>
+ </trophy>
+</trophyconf>

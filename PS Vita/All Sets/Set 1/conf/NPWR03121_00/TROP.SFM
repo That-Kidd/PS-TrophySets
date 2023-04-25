@@ -1,0 +1,128 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000053216be5ab2476db5cd87fdb85dfbc64d5f2db3294204d8fbed1e96b631fa31caae5aefe5c9036fe89017d24d4c7e21a5b08116bcb170f9821cbadf0c9ef4f0a4ee575f90b71ed10d9253ac479e6d1c8d7aee525450f3a7b2baa7cc509ff5713d494b863b57a498dbd01aadab2c728e1f23e3fa3f1d9510bb57f7a5ad604ee04e0d4783789fad6925b39c647125b0965e39d948a-->
+<trophyconf version="1.1" platform="psp2">
+ <npcommid>NPWR03121_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>スロッターマニアＶ　BLACK LAGOON</title-name>
+ <title-detail>スロッターマニアＶ　BLACK LAGOONのトロフィーです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>BLACK LAGOON</name>
+  <detail>全てのトロフィーを獲得した</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>万枚GET</name>
+  <detail>１万枚以上獲得した</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>MAX上乗せ</name>
+  <detail>ART中に上乗せで＋３００獲得した</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>～ヘンゼルとグレーテル～</name>
+  <detail>通常時にフリーズ演出を引いた</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>～プロローグ～</name>
+  <detail>BB中にフリーズ演出を引いた</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>制御不能！</name>
+  <detail>ARTを1000G以上継続させた</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>スペシャルエンディング</name>
+  <detail>スペシャルエンディングを見た</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>限界突破！！スーパーヘヴンズラッシュ</name>
+  <detail>スーパーヘヴンズラッシュに突入した</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>プレミアキャラクター</name>
+  <detail>プレミアキャラを見た</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>三合会は超サイコー</name>
+  <detail>張ルーレットで全てBONUSを見た</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>ラグーン商会</name>
+  <detail>ART中ラグーン全員カットイン</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>SDプレミア</name>
+  <detail>カットインSDプレミア群</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>スマートな仕事って素敵だわ</name>
+  <detail>軍服を羽織ったバラライカ登場</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>乗せまくれ！ヘヴンズラッシュ</name>
+  <detail>ヘヴンズラッシュに突入した</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>続けろ！ラグーンラッシュ</name>
+  <detail>ラグーンラッシュに突入した</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>爆発はここから</name>
+  <detail>スーパーBIGを獲得した</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>BIG獲得</name>
+  <detail>BBを獲得した</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>REG獲得</name>
+  <detail>RBを獲得した</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>大逆転のシナリオ</name>
+  <detail>ボーナス間1479Gハマった</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>ロベルタ撃破</name>
+  <detail>バレットバトルでロベルタに勝利した</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>銀次撃破</name>
+  <detail>バレットバトルで銀次に勝利した</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>ヘンゼル＆グレーテル撃破</name>
+  <detail>バレットバトルでヘンゼル＆グレーテルに勝利した</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>シェンホア撃破</name>
+  <detail>バレットバトルでシェンホアに勝利した</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>ソード・カトラス</name>
+  <detail>バイオレンスゾーンに突入した</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>フライフェイス</name>
+  <detail>連続演出でバラライカカットイン</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>天帝双龍</name>
+  <detail>襲撃脱出作戦で復活勝利</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>ロケットマンだ！ベイビー</name>
+  <detail>船上対決で勝利した</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>日本のサラリーマンをなめんなよ！</name>
+  <detail>酒飲み対決で復活勝利した</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>してやったぜ！</name>
+  <detail>傭兵団対決で復活勝利した</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>またせたな、ロック</name>
+  <detail>ロック救出作戦でロックを助けた</detail>
+ </trophy>
+</trophyconf>

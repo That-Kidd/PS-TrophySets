@@ -1,0 +1,96 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000f5fa9b9d35f0f105701f26be5c6f0bc5a98985d7460ec4149d3fb904bf164f96bb8cdffff394d4c2bcab0d274062c46a45666bf05b55ecdd56ba4ee6870c2d599bdb10516e4bafbbb8a738a6fd1af0ff57ae84c91d7296d609623b2833c6bd0a109a7cf49bc0ca272ee1489c6a41a6d7bb3af8ab5fafd44a7ebae8888281855d46a48d4dc9c1083b345068db2868131236099096-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="small">
+ <npcommid>NPWR09852_00</npcommid>
+ <trophyset-version>01.02</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Dino Dini's Kick Off Revival</title-name>
+ <title-detail>Trophy Set of Dino Dini's Kick Off Revival</title-detail>
+ <group id="001">
+  <name>Euro Cup Patch&#x0a;</name>
+  <detail>Trophy Set of Dino Dini's Kick Off Revival</detail>
+ </group>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Centre Score</name>
+  <detail>Score from centre circle in practice mode without goalkeeper</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Power Lob</name>
+  <detail>Score from centre circle in practice mode without goalkeeper (ball can bounce in penalty area)</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Precision Lob</name>
+  <detail>Score from centre circle in practice mode without ball bouncing</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Ten Taps</name>
+  <detail>10 passes within centre circle in 30 seconds. Ball must be kept low.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Chain of 20</name>
+  <detail>20 passes anywhere within 30 seconds</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Cross &amp; Slide</name>
+  <detail>Score a goal in practice with a cross and a slide (no goalkeeper)</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Cross &amp; Header</name>
+  <detail>Score a goal in practice with a cross and a header (no goalkeeper)</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Stay Connected</name>
+  <detail>Win your first online match</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Victory must not be declared too early</name>
+  <detail>Win an online match after defeated in the first half </detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>The Light Side</name>
+  <detail>Win online match without any fouls</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>You got 'em Cornered</name>
+  <detail>Score from a corner in an online match</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="-1">
+  <name>You've got a friend in me</name>
+  <detail>First online match with a friend</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="-1">
+  <name>The Dark Side</name>
+  <detail>10 fouls in an online match</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="-1">
+  <name>There is no try!</name>
+  <detail>Hit the woodwork in a online match and score from a shot</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="-1">
+  <name>Help us, bendy one, you are our only hope!</name>
+  <detail>Score a goal in an online match from a free kick with aftertouch</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="-1">
+  <name>Stay On Target</name>
+  <detail>Win an online match in final seconds</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="-1">
+  <name>Sensei not Sensi</name>
+  <detail>Score in an online match with a cross, header and slide combo</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="-1">
+  <name>I am your (god) father!</name>
+  <detail>Score in an online match with a top spin shot</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="-1">
+  <name>I've got a fiend in me</name>
+  <detail>First defeat of a friend in an online match</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="-1">
+  <name>Practice makes perfect</name>
+  <detail>Completed all challenges in practice mode </detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="-1" gid="001">
+  <name>Euro Cup Champion</name>
+  <detail>Win the tournament in single player mode playing as a single team</detail>
+ </trophy>
+</trophyconf>

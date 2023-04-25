@@ -1,0 +1,112 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000e5e0537e6d63b2c52a53755c2b738e0dfcd0ed3439ef16b9b878f272bfffd39deba52f551d5dbbeadf30e12bd9da8ff127be9371cd5b945033bd33c949fb0aa8914e54230dbbfd02e9f265665b09dba0bf76babb6654fb71b3a1b76a5131462e943e7dbe67f59ceadb5d4ee91efbcca79da89a669ccf1d4f1191ba0de7dc3cc1412dc97b37f42ea3df1b3fea4c70871fbf583a01-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR07253_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>ROOT∞REXX</title-name>
+ <title-detail>ROOT∞REXXのトロフィーです</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>MASTER OF ROOT∞REXX</name>
+  <detail>全てのトロフィーを獲得した</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>伝説のロックバンド</name>
+  <detail>NEW GAMEからゲームを開始した</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>孤高の天才ボーカリスト</name>
+  <detail>蓮水 秋ルートに分岐した</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>天然小悪魔キーボディスト</name>
+  <detail>天羽 玲ルートに分岐した</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>やんちゃ系ギタリスト</name>
+  <detail>九条 駿ルートに分岐した</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>秘密を抱えたベーシスト</name>
+  <detail>白石 聡真ルートに分岐した</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>ストイックな漢前ドラマー</name>
+  <detail>桐生 帝ルートに分岐した</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>ミステリアスなプロデューサー</name>
+  <detail>朝霧 仁ルートに分岐した</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>俺たちの過去と未来</name>
+  <detail>蓮水 秋ルートをグッドエンドクリアした</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>五線譜にのせた想い</name>
+  <detail>天羽 玲ルートをグッドエンドクリアした</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>愛しい温もり</name>
+  <detail>九条 駿ルートをグッドエンドクリアした</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>君と一緒の未来</name>
+  <detail>白石 聡真ルートをグッドエンドクリアした</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>誓いの指輪</name>
+  <detail>桐生 帝ルートをグッドエンドクリアした</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>託された想い</name>
+  <detail>朝霧 仁ルートをグッドエンドクリアした</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="000">
+  <name>蓮水 秋CGコンプリート！</name>
+  <detail>蓮水 秋のCGを全て獲得した</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="G" pid="000">
+  <name>天羽 玲CGコンプリート！</name>
+  <detail>天羽 玲のCGを全て獲得した</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="G" pid="000">
+  <name>九条 駿CGコンプリート！</name>
+  <detail>九条 駿のCGを全て獲得した</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="G" pid="000">
+  <name>白石 聡真CGコンプリート！</name>
+  <detail>白石 聡真のCGを全て獲得した</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="G" pid="000">
+  <name>桐生 帝CGコンプリート！</name>
+  <detail>桐生 帝のCGを全て獲得した</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="G" pid="000">
+  <name>朝霧 仁CGコンプリート！</name>
+  <detail>朝霧 仁のCGを全て獲得した</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="G" pid="000">
+  <name>オールCGコンプリート！</name>
+  <detail>全てのCGを獲得した</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>バンド始めました！</name>
+  <detail>MUSIC GAMEで１曲プレイした</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>完璧に演奏できました！</name>
+  <detail>MUSIC GAMEでフルコンボクリアした</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>レパートリーが豊富です！</name>
+  <detail>MUSIC GAMEの全楽曲を解放した</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>バンドって楽しいね！</name>
+  <detail>MUSIC GAMEの全楽曲をプレイした</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="S" pid="000">
+  <name>ここは一体どこニャ！？</name>
+  <detail>SPECIAL STORIESを全て見た</detail>
+ </trophy>
+</trophyconf>

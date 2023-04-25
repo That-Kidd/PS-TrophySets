@@ -1,0 +1,52 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000fc4f1ab440d22e2d86c9def327c5d724e41b9f492cebf891db2bd37f5774834e97445ebf0f3c9da99a7ce4c32eaf969e4149e7438534be79e54755752e145a03439cf968efede1db025840899618b1401b4ca75e8346096b990369cd6b5b400b6e4eb7a2e02bce2077df9fa8a92288a4fb88b3b007f83f8b753322d208dc4ed058edf5a5fae15402e8a2e9698548924d04455011-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR05083_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Die! Die! Die!</title-name>
+ <title-detail>Die! Die! Die!</title-detail>
+ <trophy id="000" hidden="no" ttype="G" pid="-1">
+  <name>Neurotic Lord</name>
+  <detail>Complete all the Brain Wars missions on Immune Badass difficulty.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="-1">
+  <name>Digest Warlord</name>
+  <detail>Complete all the Intestine Assault missions on Immune Badass difficulty.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="-1">
+  <name>Immune God</name>
+  <detail>Complete all Veins Campaign missions on Immune Badass difficulty.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="-1">
+  <name>Brain Folds Master</name>
+  <detail>Score 5000 kills in Brain Wars Immune Badass Survival mode.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="-1">
+  <name>Intestine Hard Day</name>
+  <detail>Score 5000 kills in Intestine Assault Immune Badass Survival mode.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Pulse Master</name>
+  <detail>Score 5000 kills in Veins Campaign Immune Badass Survival mode.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Gold Farmer</name>
+  <detail>Gather 60 Golden medals in Brain Wars mode.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Large Intestine</name>
+  <detail>Gather 60 Golden medals in Intestine  Assault mode.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Artery Medal</name>
+  <detail>Gather 60 Golden medals in Veins Campaign mode.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>No Help Needed</name>
+  <detail>Destroy 500 powerups of any kind.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>Meticulous</name>
+  <detail>Read all Help Guides and the Credits section.</detail>
+ </trophy>
+</trophyconf>

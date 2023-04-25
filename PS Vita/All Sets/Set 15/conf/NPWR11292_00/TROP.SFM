@@ -1,0 +1,144 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000003783603ed6fd5bf1f968fbc74eb81bab34eff1cb7f507e6a5232f40c4cbc03ea92e6a6da19c671e05b95bcb6129d54528fe6558417cffc2cc945a7155d44747e8a6e92f6ac50bfba4941e440a2fe78de704ba70c3585ab4e07c954444dc09df4ab0648bdb04061e35da8ee59710f05dd40be215ed05b9400a9774099d3e567c82a8814f97a801e1d0b1cffc5e8cda75312e6a842-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR11292_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>CHAOS;CHILD</title-name>
+ <title-detail>CHAOS;CHILD 트로피 세트</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>초 완벽주의자</name>
+  <detail>CHAOS;CHILD 올 클리어</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>【정보강자는 사건을 쫓는다】</name>
+  <detail>제1장 개시</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>【사건이 그들을 모른 체한다】</name>
+  <detail>제2장 개시</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>【그들의 축제 이야기의 불평】</name>
+  <detail>제3장 개시</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>【이야기의 뒷면이 망상을 시작한다】</name>
+  <detail>제4장 개시</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>【망상의 주민이 소란스레 다가오다】</name>
+  <detail>제5장 개시</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>【다가오는 과거에 맞서다】</name>
+  <detail>제6장 개시</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>【침범한 과거에 맞추기 위해서】</name>
+  <detail>제7장 개시</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>【침식해가는 사건의 착종】</name>
+  <detail>제8장 개시</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="000">
+  <name>【착종하는 의도의 종착점】</name>
+  <detail>제9장 개시</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="000">
+  <name>【그녀의 의도】</name>
+  <detail>제10장 개시</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>【그의 싸움】</name>
+  <detail>제11장 개시</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="B" pid="000">
+  <name>사건을 쫓는 건 그만둬</name>
+  <detail>쿠루스 노노편 발견</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="000">
+  <name>아디오스 그라시아~</name>
+  <detail>아리무라 히나에편 발견</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="B" pid="000">
+  <name>저, 저기……</name>
+  <detail>야마조에 우키편 발견</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>응응!</name>
+  <detail>카즈키 하나편 발견</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>옷케이</name>
+  <detail>True 루트 발견</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="S" pid="000">
+  <name>첫 엔딩</name>
+  <detail>OverSkyEnd 도달</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="S" pid="000">
+  <name>【착종하는 빛과 어둠에 망설이는 마음은】</name>
+  <detail>RealSkyEnd 도달</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="S" pid="000">
+  <name>【허실에 맞서는 그 눈동자에 비치는 것】</name>
+  <detail>DarkSkyEnd 도달</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="S" pid="000">
+  <name>【무의식적으로 제멋대로인 다정함의 침식】</name>
+  <detail>DreamSkyEnd 도달</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="S" pid="000">
+  <name>【과거의 잔향에 춤추다】</name>
+  <detail>DeepSkyEnd 도달</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="S" pid="000">
+  <name>【그녀들의 진정한 삶】</name>
+  <detail>SilentSkyEnd 도달</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>첫 망상 트리거</name>
+  <detail>두려워하지 않고 망상 트리거를 당겨 보았다</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>긍정형 인간</name>
+  <detail>모든 포지티브 망상을 보았다</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="S" pid="000">
+  <name>부정형 인간</name>
+  <detail>모든 네거티브 망상을 보았다</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="G" pid="000">
+  <name>초과대망상가</name>
+  <detail>모든 망상 트리거를 당겼다</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="G" pid="000">
+  <name>나는 정보강자다</name>
+  <detail>모든 맵핑 트리거를 한 번도 틀리지 않게 자료를 붙여 OverSkyEnd에 도달</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="S" pid="000">
+  <name>역시 너는 정약이야</name>
+  <detail>맵핑 트리거에서 20회 틀렸다</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>이제 됐어. 실망이야.</name>
+  <detail>배드엔딩 도달</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>바람이…… 불고 있어. 확실하게</name>
+  <detail>엄청난 바람이 불었다</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="G" pid="000">
+  <name>CG 컴플리트</name>
+  <detail>모든 이벤트 CG를 보았다</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="G" pid="000">
+  <name>Tips 컴플리트</name>
+  <detail>모든 Tips를 읽었다</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="G" pid="000">
+  <name>Sound 컴플리트</name>
+  <detail>모든 Sound를 들었다</detail>
+ </trophy>
+</trophyconf>

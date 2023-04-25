@@ -1,0 +1,56 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000a5e52af72b5a303149d04b03df174b68fef8055599583b6f0f845df90b32f7867c11703743e958d6bbc13fdee47b30e8cdfe173e2532f9e2a8a6e4aa8a3f5ca878c1f913148aaead7012fcc217e005123e3d32905dd957212451207adb6add0da75c5a809f60319225a9ee4249feb614d6e0b427be88b8238ee918461f13346646f55c43bbdf6ac39bd04f7f9b48ea9166188182-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR14436_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>グリザイア ファントムトリガー ０１＆０２</title-name>
+ <title-detail>グリザイア ファントムトリガー ０１＆０２のトロフィーです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>コンプリート</name>
+  <detail>全てのトロフィーを獲得</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="G" pid="000">
+  <name>美浜学園</name>
+  <detail>美浜学園の学生への理解が深まった</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="G" pid="000">
+  <name>蒼井春人</name>
+  <detail>ハルトについて知った</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="G" pid="000">
+  <name>苦境にて</name>
+  <detail>奪還作戦を開始した</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="G" pid="000">
+  <name>新米の教師</name>
+  <detail>「Volume 1」を最後まで読んだ</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="G" pid="000">
+  <name>美浜と京船桜が丘・出動</name>
+  <detail>京船桜が丘から支援依頼を引き受けた</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="G" pid="000">
+  <name>心臓は取り返した？</name>
+  <detail>“荷物”を警官に預けた</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="G" pid="000">
+  <name>シックスとバックス</name>
+  <detail>レナとマキが戦った</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="G" pid="000">
+  <name>井ノ原真紀へ…</name>
+  <detail>「Volume 2」を最後まで読んだ</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>「Volume 1」CG100%達成</name>
+  <detail>「Volume 1」CG鑑賞をコンプリート</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>「Volume 2」CG100%達成</name>
+  <detail>「Volume 2」CG鑑賞をコンプリート</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>MUSICコンプリート</name>
+  <detail>音楽鑑賞をコンプリート</detail>
+ </trophy>
+</trophyconf>

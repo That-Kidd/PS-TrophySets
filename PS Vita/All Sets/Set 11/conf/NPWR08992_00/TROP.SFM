@@ -1,0 +1,180 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000440ee86ac5168528b17b57e0b5978c79db906c5c2d47ee22c6e3bd8eb0604e2982cb467079a91967bd34926ae77a0b726c2f0c24f47464aa6cfa15ff4638c67a61f53f7e5bf0b5d6e9f5aa7f3cf4b4c3f81b508d72e6e48c691a23753bb49213c1fc77b938e8f46833b17163d9dd1b701ec6113e02f1dd367e611a45e658a7976154466b28c5099daebfb338447097f56b871af5-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR08992_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>オメガラビリンス</title-name>
+ <title-detail>オメガラビリンスの&#x0a;トロフィーセットです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>おっπマイスター</name>
+  <detail>全てのトロフィーを取得した。</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="S" pid="000">
+  <name>マスターキー</name>
+  <detail>ギャラリーのキーを全て手に入れた。</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>冒険の始まり</name>
+  <detail>「聖洞 [冒険のはじまり]」をクリアした。</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>始まりの聖洞踏破</name>
+  <detail>「聖洞 [友を探して２]」をクリアした。</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>迷いの聖洞踏破</name>
+  <detail>「聖洞 [友を探して４]」をクリアした。</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>聖杯の洞窟踏破</name>
+  <detail>「聖洞 [聖杯への道２]」をクリアした。</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>聖女の塔踏破</name>
+  <detail>「聖女の塔 [救出３]」をクリアした。</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>試練の洞窟踏破</name>
+  <detail>「試練の洞窟」を全てクリアした。</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>冒険の終わり</name>
+  <detail>「聖女の塔 [魔女の迷宮]」をクリアした。</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>賢者の洞窟踏破</name>
+  <detail>「賢者の洞窟」をクリアした。</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>達人の塔踏破</name>
+  <detail>「達人の塔」をクリアした。</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>魔物の塔踏破</name>
+  <detail>「魔物の塔」をクリアした。</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>無明の洞窟踏破</name>
+  <detail>「無明の洞窟」をクリアした。</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>超乳洞踏破</name>
+  <detail>「超乳洞」をクリアした。</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>不思議な女学園踏破</name>
+  <detail>「不思議な女学園」をクリアした。</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>ωパワーギャザラー</name>
+  <detail>累計ωPが100000を超えた。</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>偉大な冒険者</name>
+  <detail>累計冒険回数が100回を超えた。</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>ωを狩る者</name>
+  <detail>累計モンスター討伐数が1000匹を超えた。</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>新たな目覚め</name>
+  <detail>初めて悶絶☆覚醒をした。</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>悶覚見習い</name>
+  <detail>悶絶☆覚醒中に、初めて悶絶モードを発生させた。</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="S" pid="000">
+  <name>悶覚マスター</name>
+  <detail>全ての悶絶☆覚醒シーンにて悶絶モードを発生させた。</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>お手並み拝見</name>
+  <detail>初めて強化合成した。</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>パイの友達</name>
+  <detail>強化合成した回数が100回を超えた。</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>初めての・・・</name>
+  <detail>初めて鑑定した。</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>初級おっπ鑑定士</name>
+  <detail>鑑定した回数が10回を超えた。</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="B" pid="000">
+  <name>特級おっπ鑑定士</name>
+  <detail>プレイアブルキャラ全員で鑑定した。</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="S" pid="000">
+  <name>ハプニングコレクター</name>
+  <detail>プレイアブルキャラ全員のワナイベントを見た。</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="S" pid="000">
+  <name>バーストマスター</name>
+  <detail>プレイアブルキャラ全員が発胸モードになった。</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="S" pid="000">
+  <name>ハイスコアラー</name>
+  <detail>100000点以上のスコアを獲得した。</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="S" pid="000">
+  <name>死神キラー</name>
+  <detail>死神を倒した。</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="S" pid="000">
+  <name>最高の武器</name>
+  <detail>強化値MAXの「聖女の剣」を手に入れた。</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="S" pid="000">
+  <name>究極の防具</name>
+  <detail>強化値MAXの「聖女の盾」を手に入れた。</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="S" pid="000">
+  <name>至高のブラ</name>
+  <detail>強化値MAXの「聖女のブラ」を手に入れた。</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="S" pid="000">
+  <name>至極のパンツ</name>
+  <detail>強化値MAXの「聖女のパンツ」を手に入れた。</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="B" pid="000">
+  <name>愛那完全覚醒</name>
+  <detail>愛那のスキルを全部MAXにした。</detail>
+ </trophy>
+ <trophy id="035" hidden="yes" ttype="B" pid="000">
+  <name>なこ完全覚醒</name>
+  <detail>なこのスキルを全部MAXにした。</detail>
+ </trophy>
+ <trophy id="036" hidden="yes" ttype="B" pid="000">
+  <name>紗衣里完全覚醒</name>
+  <detail>紗衣里のスキルを全部MAXにした。</detail>
+ </trophy>
+ <trophy id="037" hidden="yes" ttype="B" pid="000">
+  <name>真理華完全覚醒</name>
+  <detail>真理華のスキルを全部MAXにした。</detail>
+ </trophy>
+ <trophy id="038" hidden="yes" ttype="B" pid="000">
+  <name>美玲完全覚醒</name>
+  <detail>美玲のスキルを全部MAXにした。</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="S" pid="000">
+  <name>キャラソンマスター</name>
+  <detail>プレイアブルキャラ全員がマイクを使った。</detail>
+ </trophy>
+ <trophy id="040" hidden="yes" ttype="B" pid="000">
+  <name>ゴッドハンド</name>
+  <detail>バストを合計1000回タッチした。</detail>
+ </trophy>
+ <trophy id="041" hidden="yes" ttype="G" pid="000">
+  <name>アイテム博士</name>
+  <detail>アイテム図鑑をコンプリートした。</detail>
+ </trophy>
+ <trophy id="042" hidden="yes" ttype="S" pid="000">
+  <name>モンスター博士</name>
+  <detail>モンスター図鑑をコンプリートした。</detail>
+ </trophy>
+</trophyconf>

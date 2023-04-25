@@ -1,0 +1,72 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000069fba6ee593c41f5cd680e23546b2228a520228d3c74a04649743b6202c3c651246c08cf1420c7eea659e619087f62dad5ce8d0805823292be7209ed4980630b42106281588df33edd33ffadadb1fb46ba4208508a54c4167d241d778aeae54d529c29b17b34137eb4b707691bb1788de3add2f737dfcd902c6e7bd73b6845c1160fd0802b456ac6d0512010cf5c21a681c57d28-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="small">
+ <npcommid>NPWR07519_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Woah Dave!</title-name>
+ <title-detail>These are the Daves of your life.</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Pennies From Heaven!</name>
+  <detail>Earn your first penny!</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Pass the Buck</name>
+  <detail>Collect one hundred pennies!</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>2 Buck Chuck</name>
+  <detail>Collect two hundred pennies!</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Three Dollar Dave!</name>
+  <detail>Collect three hundred pennies!</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Four Big Bills!</name>
+  <detail>Collect four hundred pennies!</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>ABRAHAAAAAAAM!</name>
+  <detail>Collect five hundred pennies!</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="-1">
+  <name>Call Me Aaron Burr</name>
+  <detail>Collect one thousand pennies!</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Don't Even Bat an Eye</name>
+  <detail>Hit an Eyebat!</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Xenophobe</name>
+  <detail>Kill a UFO!</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="-1">
+  <name>Woah No, UFO!</name>
+  <detail>Let a Woah Block get blasted by a UFO!</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>Boom Shakka Lakka!</name>
+  <detail>Kill 10 or more enemies with 1 Woah Block!</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="-1">
+  <name>Hot Woah on Woah Action!</name>
+  <detail>Destroy a Woah Block with another Woah Block!</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="B" pid="-1">
+  <name>I'm not saying it was Aliens...</name>
+  <detail>Let two platforms get blasted by UFOs!</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="-1">
+  <name>Beam Me Up, Dave!</name>
+  <detail>Get killed by a UFO beam!</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="B" pid="-1">
+  <name>Right in the Toilet!</name>
+  <detail>Throw a Woah Block in the Lava!</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="-1">
+  <name>Poo!</name>
+  <detail>Enter POO as your initials!</detail>
+ </trophy>
+</trophyconf>

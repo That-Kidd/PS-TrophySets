@@ -1,0 +1,96 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000180625e22a9823b80ea91f7a44cac97473f8feae0e6c1401069e84abedf0f954dbcf15649705350846d58efe767c6832c34029bb4589e24072fd977f4917a74d5a9ef6f825e33140ff7d2c14ff7f6f4da0e033250c3927022d26e78a54b0f5998d6bf3604961764d7f61ad2ce47e9b987a482fa1d474eaa9d7e4f5a9885719a32357f09b33e8939882e8cb1da5d27fee2aad5727-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR18205_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Cybarian: The Time Travelling Warrior</title-name>
+ <title-detail>Cybarian: The Time Travelling Warrior</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Platinum Barbarian</name>
+  <detail>Get all other trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Not good</name>
+  <detail>Hit a homless guy</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>Combo Time</name>
+  <detail>Complete a full combo</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>What's this yellow thing?</name>
+  <detail>Get a coin</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>I've a lot of these</name>
+  <detail>Get 20 coins</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>I'm rich now</name>
+  <detail>Get 40 coins</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>Recovering</name>
+  <detail>Buy 1 heart</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>Damaged</name>
+  <detail>Buy 3 hearts</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>Over-Damaged</name>
+  <detail>Buy 5 hearts</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>What kind of sorcery is this?</name>
+  <detail>Destroy a Laser Eye</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>Why is he hitting me with a tree?</name>
+  <detail>Defeat a bandana-enemy</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>This is not a bow</name>
+  <detail>Defeat a rifle enemy</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>Hamburger-Time</name>
+  <detail>Defeat a fat enemy</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>Exploding balls</name>
+  <detail>Defeat a bomb launcher enemy</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>Is he even human?</name>
+  <detail>Defeat a cyborg-looking enemy</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>Lucky time!</name>
+  <detail>Play a slot game</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>A two legged thing?</name>
+  <detail>Reach the 1st boss</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="G" pid="000">
+  <name> Flying bull</name>
+  <detail>Reach the 2nd boss</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="G" pid="000">
+  <name>The Twins</name>
+  <detail>Reach the 3rd boss</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="G" pid="000">
+  <name>With all my skills!</name>
+  <detail>Reach the 1st boss in Hard Difficulty</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="G" pid="000">
+  <name>I can now roll</name>
+  <detail>Defeat the 1st boss</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="G" pid="000">
+  <name>I can now throw my sword</name>
+  <detail>Defeat the 2nd boss</detail>
+ </trophy>
+</trophyconf>

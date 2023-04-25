@@ -1,0 +1,64 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000086e6fdff79c4acbf0e05bf6854505b87cf93e86ba2964b8d953d3a896d2ecd068b429a85572293fca197be3d12eaf3bfd3a56b2dd2b6cbde9d85b9b2355a0af183de1934ce646090b73611ff24c166de6847e37e2491669a47343bfe8e11ea4731ef770ccea4b373954c8da7f6d9ac7fb8123390cae52ea8ca5dfa15d878648b20cd24e11b78caf99960881d0c673a06709b8d0e-->
+<trophyconf version="1.1" platform="ps3,psp2,ps4" policy="small">
+ <npcommid>NPWR05999_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Entwined™</title-name>
+ <title-detail>Always Together, Forever Apart.</title-detail>
+ <trophy id="000" hidden="no" ttype="G" pid="-1">
+  <name>Entwined</name>
+  <detail>Collect all the other trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="-1">
+  <name>Innocence</name>
+  <detail>Finish the First Lifetime</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="-1">
+  <name>Liveliness</name>
+  <detail>Finish the Second Lifetime</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="-1">
+  <name>Loneliness</name>
+  <detail>Finish the Third Lifetime</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="-1">
+  <name>Ambition</name>
+  <detail>Finish the Fourth Lifetime</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="-1">
+  <name>Anxiety</name>
+  <detail>Finish the Fifth Lifetime</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="-1">
+  <name>Exploration</name>
+  <detail>Finish the Sixth Lifetime</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="-1">
+  <name>Enlightenment</name>
+  <detail>Finish the Seventh Lifetime</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="-1">
+  <name>Freedom</name>
+  <detail>Finish the Eighth Lifetime</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="-1">
+  <name>Eternity</name>
+  <detail>Finish the Story Mode</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="-1">
+  <name>Love</name>
+  <detail>Fish and Bird meet in the middle 200 times</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="-1">
+  <name>Resolution</name>
+  <detail>Finish all the Lifetimes as the evolved Dragon</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="-1">
+  <name>Courage</name>
+  <detail>Unlock all five elements in Challenge Mode</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="-1">
+  <name>Persistence</name>
+  <detail>Get a high score of 300 in any elemental level of Challenge Mode</detail>
+ </trophy>
+</trophyconf>

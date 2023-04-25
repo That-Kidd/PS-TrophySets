@@ -1,0 +1,56 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000954cb6f81c4ac609ccf594b0c7794ce2e99e602660d84937ef9d81ed8a310e1957d3456da60a5a045ac1017172e521718475f4b92c0dddf4b68c845d8593a7855621b2b25ea5ed9e9742cade224e216b448bd2797de280103d53ec8507caec41ab9bb7696c0ad248d3b6a9664476d16e5c859bc1355cd209b6a2e1561db9938993b8aebcb71c5e570737da2d8558c281371ca80e-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR16283_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Jack N' Jill DX</title-name>
+ <title-detail>Jack N' Jill DX</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Platinum Jack N' Jill</name>
+  <detail>Get all the trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>I found you!</name>
+  <detail>Find Jack or Jill</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>See you in the next life</name>
+  <detail>Die once while trying to find Jack or Jill</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>You need to start somewhere</name>
+  <detail>Complete a level</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>I need a break</name>
+  <detail>Complete a world</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>It's Minigame time!</name>
+  <detail>Unlock a minigame</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>This is fun</name>
+  <detail>Play a minigame</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>Is this money?</name>
+  <detail>Get a shop ticket</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>There is too much stuff here</name>
+  <detail>Buy something in the store</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>I'm a poor peasant</name>
+  <detail>Get a coin</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>Am I rich now?</name>
+  <detail>Get 250 coins</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>This is bouncy</name>
+  <detail>Bounce by squashing an enemy</detail>
+ </trophy>
+</trophyconf>

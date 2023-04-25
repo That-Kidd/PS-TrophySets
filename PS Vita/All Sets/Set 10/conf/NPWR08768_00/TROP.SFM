@@ -1,0 +1,40 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000be22d1179ef6127e53b8554fc6d511e6976c744b0c4b33fa4b0e606623e5433c6e2cb953416a0d297b8734c242b8f21bcb0d582e48b2a683d56cf03230375882af6dd6a2b28c7c353ef3fca136f8c47c6a4b6976889a30ca41102db864b488474ffc744a04eea9c9213371f9ac97d229519f0bcadee8bbbda63528d2067e30399d9d40aac08b8eb9c5d0d5b81ce9e35d45236362-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR08768_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Pocket God vs Desert Ashes</title-name>
+ <title-detail>The Core Trophies of Pocket God vs Desert Ashes</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Multi-Kill</name>
+  <detail>Destroy 3 units in one turn.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="-1">
+  <name>Ultra-Kill</name>
+  <detail>Destroy 4 units in one turn.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="-1">
+  <name>Mega-Kill</name>
+  <detail>Destroy 5 units in one turn.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="-1">
+  <name>Human Intelligence</name>
+  <detail>Beat the AI in a skirmish match.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="-1">
+  <name>Online Participation</name>
+  <detail>Played an online match.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="-1">
+  <name>Online Victory</name>
+  <detail>Win an online match.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="-1">
+  <name>Battlefield Leader</name>
+  <detail>Win 5 online matches.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="-1">
+  <name>Ding!</name>
+  <detail>Level-Up in multiplayer stats.</detail>
+ </trophy>
+</trophyconf>

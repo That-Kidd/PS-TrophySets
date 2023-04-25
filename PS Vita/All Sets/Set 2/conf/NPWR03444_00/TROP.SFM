@@ -1,0 +1,60 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000075991e31ca85988fffa78a504e288248b3dfbc847814ac09e22279515021a6e3fd64c4f0c9cd36ce28db4757e39d4601601b31266a7bb12c67fd808c94aba9ca5e7bebb65613afaa4c761ab6a75502bcb013cfeafa01c4a980584de9dfbae83443ee3fe2f1525731b6a40cb93ac570ffb0e56c6495f70af0942b183c4e422c42dde1a4729bae0554c9a21f8cc90aa7d284941d42-->
+<trophyconf version="1.1" platform="psp2">
+ <npcommid>NPWR03444_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Puzzle by Nikoli V kakuro</title-name>
+ <title-detail>A trophy set for "Puzzle by Nikoli V kakuro". Complete puzzles to get all the trophies! </title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Paused a puzzle 50 times!</name>
+  <detail>Paused a puzzle more than 50 times</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Quit a puzzle 50 times!</name>
+  <detail>Quit a puzzle more than 50 times</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Used "delete" 100 times!</name>
+  <detail>Used the delete function more than 100 times</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Read all the guides!</name>
+  <detail>Read all game guides</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Played for more than 24 hours!</name>
+  <detail>Total play time exceeded 24 hours</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Used "REDO" 100 times!</name>
+  <detail>Used the redo function more than 100 times</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Used "UNDO" 100 times!</name>
+  <detail>Used the undo function more than 100 times</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Cleared 10 puzzles!</name>
+  <detail>Cleared 10 "kakuro" puzzles</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Cleared 20 puzzles!</name>
+  <detail>Cleared 20 "kakuro" puzzles</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>Cleared 30 puzzles!</name>
+  <detail>Cleared 30 "kakuro" puzzles</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>Cleared 40 puzzles!</name>
+  <detail>Cleared 40 "kakuro" puzzles</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="-1">
+  <name>Cleared all puzzles!</name>
+  <detail>Cleared all "kakuro" puzzles</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="-1">
+  <name>Cleared 15 puzzles in a row on shuffle!</name>
+  <detail>Cleared 15 puzzles in a row on shuffle</detail>
+ </trophy>
+</trophyconf>

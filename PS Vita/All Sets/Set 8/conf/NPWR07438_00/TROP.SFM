@@ -1,0 +1,164 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000ba23f70828e79797cbd58c7b2bfd984511cb8bbb93dee3be62f432f2612f54978672b966ec0af70d68a8e92b81cc0bdf15ebf08e3b4b6dfaf4cfa688b0e4325c8360248762a0add7286e44ebdcccb12adf34e8555d0ebdce4442f14a55750e6ca8c4abd603050a7038b7fd3a3835f8264149a8f685021552b6b45d46b1f5f2a436e2560a64ecdf89e5927606459d70f9ddab1271-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR07438_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>戦極姫5～戦禍断つ覇王の系譜～</title-name>
+ <title-detail>「戦極姫5～戦禍断つ覇王の系譜～」のトロフィーセットです。&#x0a;頑張ってコンプリートしましょう。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>戦極5完全制覇！</name>
+  <detail>全てのトロフィーを獲得する</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>天下をつなぐ絆</name>
+  <detail>全ての武将と絆化（武将百態を100%）になる</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>戦極史完成！</name>
+  <detail>CG鑑賞を１００％にする</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>全シナリオクリア！</name>
+  <detail>全ての大名家シナリオをクリアする</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>全国制覇</name>
+  <detail>全国制覇で天下統一する</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>正々堂々</name>
+  <detail>「内通」「引き抜き」「計略」を使用せずクリアする</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>陣頭指揮</name>
+  <detail>ルートクリアまでに当主を100回合戦に出陣させる</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>武将たちの記憶</name>
+  <detail>CG鑑賞を50％以上にする</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>人心掌握</name>
+  <detail>自勢力内で一向一揆、及び謀反が一度も発生することなくクリアする</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>織田家ルートクリア！</name>
+  <detail>織田家ルートをクリアする</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>島津家ルートクリア！</name>
+  <detail>島津家ルートをクリアする</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>伊達家ルートクリア！</name>
+  <detail>伊達家ルートをクリアする</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>武田家ルートクリア！</name>
+  <detail>武田家ルートをクリアする</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>上杉家ルートクリア！</name>
+  <detail>上杉家ルートをクリアする</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>長宗我部家ルートクリア！</name>
+  <detail>長宗我部家ルートをクリアする</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>足利家（義輝）ルートクリア！</name>
+  <detail>足利家で足利義輝ルートをクリアする</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>足利家（義昭）ルートクリア！</name>
+  <detail>足利家で足利義昭ルートをクリアする</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>毛利家ルートクリア！</name>
+  <detail>毛利家ルートをクリアする</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>大友家ルートクリア！</name>
+  <detail>大友家ルートをクリアする</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>真田家ルートクリア！</name>
+  <detail>真田家ルートをクリアする</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>合戦モードクリア！</name>
+  <detail>合戦モードの何れかをクリアする</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>群雄モードクリア！</name>
+  <detail>群雄モードを何れかの大名家でクリアする</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>天下五剣勢揃い！</name>
+  <detail>天下五剣を所持した状態でクリアする</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>名刀蒐集（其の壱）</name>
+  <detail>天下五剣のひとつ「鬼丸国綱」を入手する</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>名刀蒐集（其の弐）</name>
+  <detail>天下五剣のひとつ「三日月宗近」を入手する</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>名刀蒐集（其の参）</name>
+  <detail>天下五剣のひとつ「数珠丸」を入手する</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>名刀蒐集（其の四）</name>
+  <detail>天下五剣のひとつ「大典太光世」を入手する</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>名刀蒐集（其の伍）</name>
+  <detail>天下五剣のひとつ「童子切安綱」を入手する</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>合戦上手</name>
+  <detail>無血開城を50回達成する</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>軍師の礼節</name>
+  <detail>『武将に会う』コマンドを50回使用する</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>軍師の礼儀</name>
+  <detail>『武将に会う』コマンドを初めて使用する</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>謀将</name>
+  <detail>引き抜き、内通を合わせて50回成功させる</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>初指南</name>
+  <detail>武将一人のレベルを極にする</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>指導好き</name>
+  <detail>鍛錬を50回行う</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>鬼の指導</name>
+  <detail>鍛錬を100回行う</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>天下取りへ</name>
+  <detail>戦国大名になる</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>天下への一歩</name>
+  <detail>小大名になる</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>祝！初勝利</name>
+  <detail>合戦手動で初めて勝利する</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>ようこそ戦極の世に</name>
+  <detail>『はじめる』を選び遊んだ</detail>
+ </trophy>
+</trophyconf>

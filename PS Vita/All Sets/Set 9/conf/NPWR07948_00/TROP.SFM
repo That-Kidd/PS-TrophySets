@@ -1,0 +1,208 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000d6dcd7f0e5d71a9e2a4ad63d3b4daa9442d0f5ca1cd8700a0be9ae7bf3f7b638439a00f407ef9cafd1c7abcb0518cafea2c0e0c36b4f86ad2011674fc5891a91312079d3998d4643120a005f64a7a932eeef9c2c8937f7820b3877073a8bed290eb63d31020a06b547b4f307ecce5b445d9254c9a854ded9e2ffdd39f7169e8b6626581b75b3fd96a12ec9b843c2f57ea485aed5-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR07948_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>토귀전 극</title-name>
+ <title-detail>토귀전 극의 트로피 세트입니다</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>궁극의 모노노후</name>
+  <detail>모든 트로피를 획득했다</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>북쪽 오니를 토벌한 모노노후</name>
+  <detail>8장을 완료했다</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>살아돌아온 자</name>
+  <detail>9장을 완료했다</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>백귀야행의 토벌자</name>
+  <detail>10장을 완료했다</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>사지로 향하는 자</name>
+  <detail>11장을 완료했다</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>천년을 엮은 영웅</name>
+  <detail>12장을 완료했다</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="000">
+  <name>영웅의 우두머리</name>
+  <detail>모든 이야기를 완료했다</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>용맹한 대장부</name>
+  <detail>진행도 12를 완료했다</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>궁극의 영웅호걸</name>
+  <detail>진행도 17을 완료했다</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>영령을 짊어진 자</name>
+  <detail>『토귀전 극』에서 미타마의&#x0a;레벨을 12까지 올렸다</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>영령의 구세주</name>
+  <detail>『토귀전 극』에 등장하는&#x0a;모든 미타마를 입수했다</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>무한토벌자의 전공</name>
+  <detail>무한토벌임무에서 "오니"를&#x0a;연속으로 10마리 토벌했다</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>무한토벌자의 영광</name>
+  <detail>무한토벌임무에서 "오니"를&#x0a;연속으로 30마리 토벌했다</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>수호병의 귀감</name>
+  <detail>긴급 임무를 완료했다</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="000">
+  <name>금안사목의 귀신</name>
+  <detail>『토귀전 극』에 등장하는&#x0a;모든 임무를 완료했다</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>촉망받는 프로</name>
+  <detail>『토귀전 극』에 등장하는&#x0a;모든 의뢰를 완료했다</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>"오니"를 베는 자</name>
+  <detail>모든 "오니"를 토벌했다</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>쾌도난마</name>
+  <detail>『토귀전 극』에 등장하는 무기 중 하나를 최대까지 단련했다</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>무기 맹호가</name>
+  <detail>무기를 100종류 이상 획득했다</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="000">
+  <name>바위를 꿰뚫는 일념</name>
+  <detail>『토귀전 극』에 등장하는 무기&#x0a;종류 중 하나를 전부 입수했다</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>금강불괴</name>
+  <detail>『토귀전 극』에 등장하는 방어구 중 하나를 최대까지 단련했다</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>방어구 맹호가</name>
+  <detail>방어구를 200종류 이상 획득했다</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>파괴입문</name>
+  <detail>처음으로 대형 "오니"의&#x0a;부위파괴에 성공했다</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>파괴명인</name>
+  <detail>임무 중 『토귀전 극』에 &#x0a;등장하는 대형 "오니" 중 &#x0a;하나의 모든 부위를 파괴했다</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>파괴천제</name>
+  <detail>『토귀전 극』에서 부위파괴를&#x0a;1000회 이상 달성했다</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>궁극의 인연</name>
+  <detail>오니치기리・극으로&#x0a;"오니"를 공격했다</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>유종의 미</name>
+  <detail>오니치기리・극으로&#x0a;마지막 일격을 가했다</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>무기 외길인생</name>
+  <detail>한 종류의 무기로만&#x0a;총 100회 출격했다</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>스타일 외길인생</name>
+  <detail>한 가지 전투 스타일로만&#x0a;총 100회 출격했다</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="S" pid="000">
+  <name>수집"귀"</name>
+  <detail>『토귀전 극』에 등장하는&#x0a;습득물을 전부 기록했다</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>보관왕</name>
+  <detail>『토귀전 극』에서 장비함과 &#x0a;수납장 용량을 최대로 올린다</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>신목의 후견인</name>
+  <detail>『토귀전 극』에서 신목을&#x0a;최대 레벨까지 성장시킨다</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>두령 견습생</name>
+  <detail>별동대를 10회 파견한다</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>고고하고 맑은 강철</name>
+  <detail>신목으로부터 혼철을 받는다</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>넘치는 마음</name>
+  <detail>『토귀전 극』에서 동료 한&#x0a;명의 호감도를 최대까지 올린다</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="S" pid="000">
+  <name>타고난 카리스마</name>
+  <detail>『토귀전 극』에서 모든 동료의&#x0a;호감도를 최대까지 올린다</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>선탕의 신사</name>
+  <detail>동료를 꼬드겨 선탕에 들어갔다</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>사랑의 채찍</name>
+  <detail>기절상태에 걸린 동료를&#x0a;공격으로 10회 이상 깨운다</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>애정의 기도</name>
+  <detail>체력이 다한 동료를 제령으로&#x0a;30회 부활시켰다</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="000">
+  <name>이계다 큐이!</name>
+  <detail>모험을 보낸 텐코와&#x0a;전장에서 만났다</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="S" pid="000">
+  <name>배부르다 큐이!</name>
+  <detail>텐코에게 10회 먹이를 줬다</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="B" pid="000">
+  <name>구원이다 큐이!</name>
+  <detail>텐코에게 도움을 받았다</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="B" pid="000">
+  <name>흔들림없는 고고한 칼</name>
+  <detail>동행자 없이&#x0a;극급 이미하야히를 토벌한다&#x0a;(무한토벌임무 제외)</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="B" pid="000">
+  <name>전우와 함께 나아가는 자</name>
+  <detail>다른 플레이어와 같이&#x0a;대형 오니를 토벌한다</detail>
+ </trophy>
+ <trophy id="044" hidden="no" ttype="B" pid="000">
+  <name>폭주 모노노후</name>
+  <detail>어느 부위도 제령하지 않고&#x0a;대형 오니를 토벌한다&#x0a;(무한토벌임무 제외)</detail>
+ </trophy>
+ <trophy id="045" hidden="no" ttype="B" pid="000">
+  <name>바람보다 빠른 자</name>
+  <detail>5분 이내에 &#x0a;극급 카제키리를 토벌한다&#x0a;(무한토벌임무 제외)</detail>
+ </trophy>
+ <trophy id="046" hidden="no" ttype="B" pid="000">
+  <name>구도자</name>
+  <detail>동행자 및 방어구, 미타마 없이&#x0a;상급 대형 오니를 토벌한다&#x0a;(무한토벌임무 제외)</detail>
+ </trophy>
+ <trophy id="047" hidden="no" ttype="B" pid="000">
+  <name>사지를 질주하는 무사</name>
+  <detail>전원이 방어구 없이 극급&#x0a;쿠에야마를 토벌한다&#x0a;(NPC 모노노후 제외,&#x0a;무한토벌임무 제외)</detail>
+ </trophy>
+ <trophy id="048" hidden="no" ttype="S" pid="000">
+  <name>진정한 왕</name>
+  <detail>동행자 및 방어구 없이 극급&#x0a;토코요노오우를 토벌한다&#x0a;(무한토벌임무 제외)</detail>
+ </trophy>
+ <trophy id="049" hidden="yes" ttype="B" pid="000">
+  <name>누구나 겪는 길이야</name>
+  <detail>오니치기리・극을 헛맞힌다</detail>
+ </trophy>
+</trophyconf>

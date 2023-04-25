@@ -1,0 +1,152 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000001cb9d6ae369aacb9b2170e0d9d7b28d8a61b24412bf0dbad44b69fb3f344514daeafb8c7480a2562013369294db025c1df6bce0460919c7a439f3f118b6f980c2bbf0186b3bdcc38591d6485eed8255d749b9b97e4459b9ca1721c54f1b3f49e2bfee4fd053c9fb57967d520bac77e61513f81bf2747b60375fb251060a2f669411d814e1c8a0a18717f73d8f38d3700f37dc5cc-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR14163_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>ピオフィオーレの晩鐘</title-name>
+ <title-detail>ピオフィオーレの晩鐘のトロフィーリストです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Grazie di cuore!</name>
+  <detail>全てのトロフィーを獲得した。シニョリーナに心からの感謝を！</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>廻り始める歯車</name>
+  <detail>プロローグをクリアした。</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>晩鐘の鳴る刻</name>
+  <detail>ダンテBESTエンドをクリアした。</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>取り戻した日常</name>
+  <detail>ダンテGOODエンドをクリアした。</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>儚い希望</name>
+  <detail>ダンテBADエンドをクリアした。</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>導く手</name>
+  <detail>ギルバートBESTエンドをクリアした。</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>夢物語</name>
+  <detail>ギルバートGOODエンドをクリアした。</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>別離のキス</name>
+  <detail>ギルバートBADエンドをクリアした。</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>手にしたもの</name>
+  <detail>楊BESTエンドをクリアした。</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="000">
+  <name>捕らえられた心</name>
+  <detail>楊GOODエンドをクリアした。</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="000">
+  <name>終幕</name>
+  <detail>楊BADエンドをクリアした。</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>伝わるぬくもり</name>
+  <detail>ニコラBESTエンドをクリアした。</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="B" pid="000">
+  <name>船出</name>
+  <detail>ニコラGOODエンドをクリアした。</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="000">
+  <name>鍵の開いた鳥籠</name>
+  <detail>ニコラBADエンドをクリアした。</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="B" pid="000">
+  <name>最大の祝福</name>
+  <detail>オルロックBESTエンドをクリアした。</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>死がふたりを分かつまで</name>
+  <detail>オルロックGOODエンドをクリアした。</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>神を呪う</name>
+  <detail>オルロックBADエンドをクリアした。</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>触れた唇</name>
+  <detail>アンリエンドをクリアした。</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="S" pid="000">
+  <name>Finale -暁鐘-</name>
+  <detail>大団円エンドをクリアした。</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="000">
+  <name>Dante・Falzone completare!</name>
+  <detail>ダンテの画像を全てオープンした。</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>Gilbert・Redford completare!</name>
+  <detail>ギルバートの画像を全てオープンした。</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>Yang completare!</name>
+  <detail>楊の画像を全てオープンした。</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>Nicola・Francesca completare!</name>
+  <detail>ニコラの画像を全てオープンした。</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>Orlok completare!</name>
+  <detail>オルロックの画像を全てオープンした。</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="S" pid="000">
+  <name>Dante END completare!</name>
+  <detail>ダンテの全エンドを見た。Chi cerca trova.</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="S" pid="000">
+  <name>Gilbert END completare!</name>
+  <detail>ギルバートの全エンドを見た。Ride ben chi ride l'ultimo.</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="S" pid="000">
+  <name>Yang END completare!</name>
+  <detail>楊の全エンドを見た。Chi non risica non rosica.</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="S" pid="000">
+  <name>Nicola END completare!</name>
+  <detail>ニコラの全エンドを見た。Le bugie hanno le gambe corte.</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="S" pid="000">
+  <name>Orlok END completare!</name>
+  <detail>オルロックの全エンドを見た。Chi si contenta gode.</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="S" pid="000">
+  <name>BEST END completare!</name>
+  <detail>全てのBESTエンドを見た。</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="S" pid="000">
+  <name>GOOD END completare!</name>
+  <detail>全てのGOODエンドを見た。</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="S" pid="000">
+  <name>BAD END completare!</name>
+  <detail>全てのBADエンドを見た。</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="G" pid="000">
+  <name>END completare!</name>
+  <detail>全てのエンドを見た。</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="G" pid="000">
+  <name>CG completare!</name>
+  <detail>全てのCGを解放した。</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="G" pid="000">
+  <name>Short Story completare!</name>
+  <detail>ショートストーリーを全て見た。</detail>
+ </trophy>
+ <trophy id="035" hidden="yes" ttype="G" pid="000">
+  <name>Congratulazioni!</name>
+  <detail>フルコンプ画像をオープンした。</detail>
+ </trophy>
+</trophyconf>

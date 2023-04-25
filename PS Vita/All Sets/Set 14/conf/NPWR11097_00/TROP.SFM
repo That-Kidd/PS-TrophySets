@@ -1,0 +1,60 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000002a70e2f206f768b01a7090fe459736aa100e742e3bab63e42b6b84bc0d1eca62b30d48c6c39e004786c7d34dc78a3e804632501313cb8ecd8677a77f827b780f540ab3f18fbd7300883e928d3689c7945b5c8cb49d8095a3c29eae010f4bcda1059f58a487f54c929ed797e65afac76c88c7c5e4eaf2d360d843c0cbb88889cc3aab63ed955f26937cfa97baf3e1893edb3a8609-->
+<trophyconf version="1.1" platform="psp2" policy="freemium">
+ <npcommid>NPWR11097_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Infinita Strada Hana</title-name>
+ <title-detail>Trophy set of Infinita Strada Hana</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Card collector</name>
+  <detail>Get 100 types of cards</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Legend Card collector</name>
+  <detail>Get 150 types of cards</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Card LV 10</name>
+  <detail>Card reached LV 10</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Card LV 100</name>
+  <detail>Card reached LV 100</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Player LV 99</name>
+  <detail>Player LV reached 99</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Player LV 999</name>
+  <detail>Player LV reached 999</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Dungeon LV 999</name>
+  <detail>Dungeon LV reached 999</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Advanced Coordinator</name>
+  <detail>Completed Chapter 10</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>First Victory in Net Battle </name>
+  <detail>Win in  Net Battle  first time</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="-1">
+  <name>Special Ending</name>
+  <detail>Completed all 5 additional scenario</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="-1">
+  <name>100 Victories in Net Battle</name>
+  <detail>Win 100 times in Net Battle</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="-1">
+  <name>Legendary Adventurer</name>
+  <detail>Finish over 60 types of dungeon mission</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="-1">
+  <name>Legendary Ranking Player</name>
+  <detail>Ranked in TOP 10</detail>
+ </trophy>
+</trophyconf>

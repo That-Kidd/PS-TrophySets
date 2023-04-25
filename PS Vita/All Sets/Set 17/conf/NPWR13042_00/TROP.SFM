@@ -1,0 +1,100 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000004fb0b26bb36aaa51b8d1b7f5a3880a86e7371bba5daca46c40a6f3c080a6a37753f558145ede4ed0f409aff344c29424415213878fad340f7a1c4441090c1547119131f595bd84732714b8df01082354969586d65870b1dab0606db68fd98c97dc309d3e248315d6afc55c9794cf3abf6d80e72eef682fad6f298ea24489b2bd55356a44ac8b912f3865f5ad76394405099bedc9-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR13042_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Spellspire</title-name>
+ <title-detail>The trophies of Spellspire!</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Spell Master</name>
+  <detail>Incredible!</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Armored Corpse</name>
+  <detail>Beat the Armored Corpse on 10th floor.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Unicorpse</name>
+  <detail>Beat the Unicorpse on 20th floor.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Carp Knight</name>
+  <detail>Beat the Carp Knight on 30th floor.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>Goblin</name>
+  <detail>Beat the Goblin on 40th floor.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>Ballistic Gel</name>
+  <detail>Beat the Ballistic Gel on 50th floor.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>Lard Corpse</name>
+  <detail>Beat the Lard Corpse on 60th floor.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>Royal Jelly</name>
+  <detail>Beat the Royal Jelly on 70th floor.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>Prince</name>
+  <detail>Beat the Prince on 80th floor.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>Dragon Slayer</name>
+  <detail>Slay the dragon at the top.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>Star Tower</name>
+  <detail>Complete star challenges for each of the floors.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>Descension</name>
+  <detail>Descend to dungeon level 10.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>How Low Can You Go?</name>
+  <detail>Descend to dungeon level 42.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="000">
+  <name>Here Be No Dragons</name>
+  <detail>Slay the chrome dragon in the dungeon.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="000">
+  <name>Dungeon Master</name>
+  <detail>Reach 150m distance in the dungeon.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>What's in the Box?</name>
+  <detail>Come up with a seven letter word without using dictionary books.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>The Dreadful Eight</name>
+  <detail>Come up with an eight letter word without using dictionary books.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>Spelled to the Nines</name>
+  <detail>Come up with a nine letter word without using dictionary books.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="G" pid="000">
+  <name>10tons of Letters</name>
+  <detail>Come up with a ten letter word without using dictionary books.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="G" pid="000">
+  <name>Thesaurus</name>
+  <detail>Find 25% of the available words in a level.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="G" pid="000">
+  <name>Wand up!</name>
+  <detail>Upgrade a legendary wand to maximum level.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="G" pid="000">
+  <name>Suits you!</name>
+  <detail>Upgrade the luminous robe to maximum level.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="G" pid="000">
+  <name>Hats off!</name>
+  <detail>Buy all hats.</detail>
+ </trophy>
+</trophyconf>

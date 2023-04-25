@@ -1,0 +1,256 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000005a84b298fb1ea06240ef4006ddf8b518a087cd65549f621c5f96b569dacf3070683128f26c21d8fd11c7c14c64553d1794710be3f4c9a4079e9d3cd58e4df7cbab494f3d39a7ffff07f9b10901ae0de8cd537f52824e361d7d5857a4634e6da7cfcc401019aa3bef88d8d76e3819f9b3c2867240696a8451c6f926c9dcc8baa29030e28dd5b234f4075b71adef6a166ace2621b8-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR04760_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>FMC 2014</title-name>
+ <title-detail>Football Manager Classic 2014</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Platinum</name>
+  <detail>Unlock all trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Headhunted</name>
+  <detail>You were offered a job by a larger team than you were managing</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Unlock Unlimited Scouting</name>
+  <detail>You unlocked unlimited scouting</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Unlock All Players Interested</name>
+  <detail>You unlocked all players interested</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>Unlock Foreign Influx</name>
+  <detail>You unlocked foreign influx</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>Unlock No Sacking</name>
+  <detail>You unlocked no sacking</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>Unlock No Loan Restrictions</name>
+  <detail>You unlocked no loan restrictions</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>Unlock Attribute Masking</name>
+  <detail>You unlocked attribute masking</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>Unlock No Transfer Windows</name>
+  <detail>You unlocked no transfer windows</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>Unlock Son Generated</name>
+  <detail>You unlocked the son generated</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>Unlock No Work Permits</name>
+  <detail>You unlocked no work permits</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>Unlock National Management</name>
+  <detail>You unlocked national management</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>Unbeatable!</name>
+  <detail>Your team was unbeaten in 10 consecutive competitive matches</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>World Renowned</name>
+  <detail>You have made it into the worldwide hall of fame</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>Thumping</name>
+  <detail>Your team won a competitive match by at least 5 goals</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>Clean Sheet</name>
+  <detail>You played a competitive match without conceding a goal</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>Icon</name>
+  <detail>You have received 10 Manager Of The Year awards</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Fantastic Five</name>
+  <detail>5 of your players were selected in Team of the year</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>Full Faith</name>
+  <detail>You have gained 90% overall board confidence</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Record Signing</name>
+  <detail>You broke your club's record transfer fee spent on a player</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>He's Signed</name>
+  <detail>Sign a player for your team</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>Parked The Tank</name>
+  <detail>Your team didn't concede a goal in 10 consecutive competitive matches</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>Spanish Hero</name>
+  <detail>You achieved promotion from the lowest to the highest league in Spain</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>Italian Hero</name>
+  <detail>You achieved promotion from the lowest to the highest league in Italy</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>French Hero</name>
+  <detail>You achieved promotion from the lowest to the highest league in France</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>Scottish Hero</name>
+  <detail>You achieved promotion from the lowest to the highest league in Scotland</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>English Hero</name>
+  <detail>You achieved promotion from the lowest to the highest league in England</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="G" pid="000">
+  <name>The Greatest</name>
+  <detail>You have become the greatest manager of all-time!</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="S" pid="000">
+  <name>Value For Money</name>
+  <detail>Congratulations! You have played Football Manager for 30 seasons</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>Invincible!</name>
+  <detail>Your team played the entire season without losing a league game</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>Best in the Business</name>
+  <detail>You have won the Manager Of The Month award 10 times</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>On Top Of The World</name>
+  <detail>You have won the World Cup</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>Trophy Hoarder</name>
+  <detail>You have won 20 cup competitions</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>Part Of The Furniture</name>
+  <detail>You have stayed at one club for 10 seasons&#x0a;</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="S" pid="000">
+  <name>Do The Double</name>
+  <detail>You won a nation's top league and cup competitions in the same season</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>Double Hat-Trick</name>
+  <detail>Your player scored 6 or more goals in one competitive match</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>Super Cup Glory</name>
+  <detail>You won a continental cup competition</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>Best In Europe</name>
+  <detail>Your player won the European Player Of The Year award</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>The Boss</name>
+  <detail>You won the Manager Of The Year award</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="000">
+  <name>National Service</name>
+  <detail>You were offered a job in senior international management</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="B" pid="000">
+  <name>Scoring Streak</name>
+  <detail>Your team scored in 10 consecutive competitive matches</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="B" pid="000">
+  <name>Unstoppable Force</name>
+  <detail>Your team scored the most league goals over an entire season</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="B" pid="000">
+  <name>Star Man</name>
+  <detail>One of your players was selected in the Team Of The Year</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="B" pid="000">
+  <name>Comeback King!</name>
+  <detail>You won a competitive match after being 2 or more goals down at half-time</detail>
+ </trophy>
+ <trophy id="044" hidden="no" ttype="B" pid="000">
+  <name>Parked The Bus</name>
+  <detail>Your team didn't concede a goal in 5 consecutive league games</detail>
+ </trophy>
+ <trophy id="045" hidden="no" ttype="B" pid="000">
+  <name>Team Performance</name>
+  <detail>Five of your players were named in a team of the week</detail>
+ </trophy>
+ <trophy id="046" hidden="no" ttype="B" pid="000">
+  <name>Champions!</name>
+  <detail>You won the top league in a nation</detail>
+ </trophy>
+ <trophy id="047" hidden="no" ttype="B" pid="000">
+  <name>Cup Glory!</name>
+  <detail>You won a top domestic cup</detail>
+ </trophy>
+ <trophy id="048" hidden="no" ttype="B" pid="000">
+  <name>You're Up!</name>
+  <detail>Guide your team to promotion in a domestic league</detail>
+ </trophy>
+ <trophy id="049" hidden="no" ttype="B" pid="000">
+  <name>Top Of The Class</name>
+  <detail>You won a manager of the month award</detail>
+ </trophy>
+ <trophy id="050" hidden="no" ttype="B" pid="000">
+  <name>Hat-trick</name>
+  <detail>One of your players scored a hat-trick</detail>
+ </trophy>
+ <trophy id="051" hidden="no" ttype="B" pid="000">
+  <name>Golden Boot</name>
+  <detail>Your player was the top scorer at a World Cup</detail>
+ </trophy>
+ <trophy id="052" hidden="no" ttype="B" pid="000">
+  <name>Iron Curtain</name>
+  <detail>Your team conceded the least league goals over an entire season</detail>
+ </trophy>
+ <trophy id="053" hidden="no" ttype="B" pid="000">
+  <name>Over Achiever!</name>
+  <detail>Your team was picked as the leagues over achieving team</detail>
+ </trophy>
+ <trophy id="054" hidden="no" ttype="B" pid="000">
+  <name>International Superstar</name>
+  <detail>One of your players was selected in the World Cup Best XI</detail>
+ </trophy>
+ <trophy id="055" hidden="no" ttype="B" pid="000">
+  <name>Back Of the Net!</name>
+  <detail>Your team scored a goal in a competitive match.</detail>
+ </trophy>
+ <trophy id="056" hidden="no" ttype="B" pid="000">
+  <name>He's sold!</name>
+  <detail>Sell a player to another team</detail>
+ </trophy>
+ <trophy id="057" hidden="no" ttype="B" pid="000">
+  <name>Goal Machine</name>
+  <detail>Your player was the top league goalscorer over an entire season</detail>
+ </trophy>
+ <trophy id="058" hidden="no" ttype="B" pid="000">
+  <name>Domination</name>
+  <detail>You have won 3 consecutive top division league titles&#x0a;</detail>
+ </trophy>
+ <trophy id="059" hidden="no" ttype="B" pid="000">
+  <name>First Victory</name>
+  <detail>You guided your team to victory in a competitive fixture</detail>
+ </trophy>
+ <trophy id="060" hidden="no" ttype="B" pid="000">
+  <name>Freedom Of The Country</name>
+  <detail>You have won an international championship</detail>
+ </trophy>
+ <trophy id="061" hidden="no" ttype="B" pid="000">
+  <name>Best In The World</name>
+  <detail>Your player won a World Player Of The Year award</detail>
+ </trophy>
+</trophyconf>

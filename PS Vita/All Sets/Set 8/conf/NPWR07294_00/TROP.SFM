@@ -1,0 +1,128 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000043a9ebfac71997747d6c22e8a8abe61afe2a678a2b8aea4f1a6650faa421841bedffe773556a7756467b2fba1afc1ab49fb2eca2e9abd837805d7ad9652c60c99ff7e5df376b4506581b717e249def72f616582891756eb1b655c087714161a5e82c2c0237e4332827f835b6a4fd98a366d8c1a4d7a82a76b924ea7099f9be085450dcefa6fda0c33c6db13ed3ee1af716909aeb-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR07294_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Invizimals™:&#x0a;La Resistencia</title-name>
+ <title-detail>¡Escapa al asalto de los Xtractors y organiza la Resistencia para reconquistar la base de la Alianza!</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Amo de los Invizimals</name>
+  <detail>Desbloquea todos los trofeos de Invizimals™: La Resistencia</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>Maestro Dragón</name>
+  <detail>Encuentra al Dragón Estelar.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>Héroe del equipo</name>
+  <detail>Gana un combate con la barra de vida llena luchando con compañeros de equipo.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>Amo de la Alianza</name>
+  <detail>Alcanza el nivel 30 de la Alianza.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>Director de laboratorio</name>
+  <detail>Desbloquea 10 nuevos vectores en el laboratorio.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>Maestro cazador</name>
+  <detail>Completa todas las capturas del Libro de Capturas.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>Amo del acero</name>
+  <detail>Desenmascara al falso Precursor.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>Héroe solitario</name>
+  <detail>Gana un combate con la barra de vida llena luchando solo.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>Detén a los X-Tractors</name>
+  <detail>Supera el modo historia de Invizimals™: La Resistencia</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>Amigo de Tigershark</name>
+  <detail>Encuentra al Tigershark oculto en Invizimals™: La Resistencia</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>Cazador de Dragones</name>
+  <detail>Captura un Invizimal Dragón.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>Señor de la Alianza</name>
+  <detail>Alcanza el nivel 20 de la Alianza.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>Evolución</name>
+  <detail>Evoluciona uno de tus Invizimals al estado Colt.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>Revolución</name>
+  <detail>Evoluciona uno de tus Invizimals al estado Max.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>Desarrollo</name>
+  <detail>Sube de nivel a uno de tus Invizimals.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>Un mundo de colores</name>
+  <detail>Encuentra una semilla de color y aplícasela a uno de tus Invizimals.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Oscuridad</name>
+  <detail>Encuentra una semilla de oscuridad y aplícasela a uno de tus Invizimals.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Defensor de la base</name>
+  <detail>Consigue una base completa con todos sus edificios.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>Acceso a todas las áreas</name>
+  <detail>Desbloquea todas las arenas de combate.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Maestro X-Tractor</name>
+  <detail>Consigue un X-Tractor para tu catálogo.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>Supera la Fábrica</name>
+  <detail>Gana el Combate de supervivencia de la Fábrica</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>Miembro de la Alianza</name>
+  <detail>Alcanza el nivel 10 de la Alianza.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>El mejor de la clase</name>
+  <detail>Alcanza el nivel 30 con uno de tus Invizimals.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>Campeón de los aspirantes</name>
+  <detail>Gana el Torneo del líder de los aspirantes</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>Campeón europeo</name>
+  <detail>Gana el Torneo europeo</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>Campeón de campeones</name>
+  <detail>Gana el Torneo del Precursor</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>Supera Oceanía</name>
+  <detail>Gana el Combate de supervivencia de Oceanía</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>Sobrevive a las Tierras Oscuras</name>
+  <detail>Gana el Combate de supervivencia de las Tierras Oscuras</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>Supera América</name>
+  <detail>Gana el Combate de supervivencia de América</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>Supera la Isla Original</name>
+  <detail>Gana el Combate de supervivencia de la Isla Original</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,204 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000053e6d46212b575b252d52fddd000a9bcb337c4be4cfde02523caa3880cae7d57a063946e915f785bc2b475ec0374108e22c6a515de7a4976ce01d8241efec057251d148daebf7a3890b5e2f2ab767cc2d72fc2d2ecca448014d645beb31f8d6421b898f26d2cfcb7b0ac375c1fc1914c36c116e2d76b583649dc69cb27168887c36c5b54607a5aed0719171c0ec7356c927cb364-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR05748_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>MXGP - The Official Motocross Videogame</title-name>
+ <title-detail>Trophy set for MXGP</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>MXGP Champion!</name>
+  <detail>Unlock all Trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Allow me to introduce myself</name>
+  <detail>Create your own custom rider</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Hats off</name>
+  <detail>Change your rider's helmet in the Rider Customization section</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Sign on the dotted line</name>
+  <detail>Sign your first contract in Career mode</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>Am I popular?</name>
+  <detail>Access your Social Feeds page in Career mode</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>Valued teammate</name>
+  <detail>Achieve a Team Objective in Career mode</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>Look, I'm in MXGP Mag!!</name>
+  <detail>Get your picture on the cover of "MXGP Mag"</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>Let's get serious</name>
+  <detail>Sign your first contract in the MX1 class in Career mode</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>A year to remember</name>
+  <detail>Win a Championship in any class in Career mode</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>Promising rider</name>
+  <detail>Get 20000 fans in Career mode</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>Professional rider</name>
+  <detail>Get 40000 fans in Career mode</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>Motocross star</name>
+  <detail>Get 1000000 fans in Career mode</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>Warming up</name>
+  <detail>Get enough Experience Points to reach MX Level 5</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>Totally ready</name>
+  <detail>Get enough Experience Points to reach MX Level 10</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>Unstoppable</name>
+  <detail>Get enough Experience Points to reach MX Level 20</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>New buddies</name>
+  <detail>Raise your MX Level high enough to unlock a team</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>New look</name>
+  <detail>Raise your MX Level high enough to unlock a helmet</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Capturing the moment</name>
+  <detail>Raise your MX Level high enough to unlock a picture</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>Prince of the desert</name>
+  <detail>Win a race at Losail in any offline mode</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Asian superstar</name>
+  <detail>Win a race at Si Racha in any offline mode</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>Sand king</name>
+  <detail>Win a race at Valkenswaard in any offline mode</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>Atlantic rider</name>
+  <detail>Win a race at Agueda in any offline mode</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>King of the jungle</name>
+  <detail>Win a race at Beto Carrero in any offline mode</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>The emperor</name>
+  <detail>Win a race at Ernée in any offline mode</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>Old-school specialist</name>
+  <detail>Win a race at Maggiora in any offline mode</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>Rocking between the rocks</name>
+  <detail>Win a race at Uddevalla in any offline mode</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>Victory in the forest</name>
+  <detail>Win a race at Kegums in any offline mode</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>Northern champion</name>
+  <detail>Win a race at Hyvinkää in any offline mode</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>Lord of the "ring"</name>
+  <detail>Win a race at Lausitzring in any offline mode</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>The general of the Ardennes</name>
+  <detail>Win a race at Bastogne in any offline mode</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>God save the motocross King</name>
+  <detail>Win a race at Matterley Basin in any offline mode</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>Duke of Saxony</name>
+  <detail>Win a race at Teutschenthal in any offline mode</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>Motorhead</name>
+  <detail>Enter the Bike Set-up menu in the Pit</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="S" pid="000">
+  <name>Giving it all</name>
+  <detail>Select the Pro Physics setting in the Riding Assists section and complete a valid race</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>Let's see that again!</name>
+  <detail>Enter Replay mode for the first time</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>On the best gate</name>
+  <detail>Get pole position in an offline Qualifying session</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="S" pid="000">
+  <name>Nice trip!</name>
+  <detail>Ride for a total of 300 km (187 miles) in any offline mode</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="S" pid="000">
+  <name>I believe I can fly!</name>
+  <detail>Spend a total of 2 minutes airborne from jumps in any offline mode</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="S" pid="000">
+  <name>The perfect weekend</name>
+  <detail>Get pole position and win both Races in a single offline Grand Prix</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="S" pid="000">
+  <name>Great come back</name>
+  <detail>Win a race starting from last position</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="B" pid="000">
+  <name>Getting used to it</name>
+  <detail>Compete in valid online races for a total of 60 minutes</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="S" pid="000">
+  <name>Call me veteran</name>
+  <detail>Compete in valid online races for a total of 3 hours</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="B" pid="000">
+  <name>Time to make new friends</name>
+  <detail>Complete an Online Grand Prix</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="B" pid="000">
+  <name>Race after race</name>
+  <detail>Complete an Online Championship</detail>
+ </trophy>
+ <trophy id="044" hidden="no" ttype="B" pid="000">
+  <name>One step ahead</name>
+  <detail>In Online Season mode, get promoted to the MX1 class</detail>
+ </trophy>
+ <trophy id="045" hidden="no" ttype="S" pid="000">
+  <name>Best of the best!</name>
+  <detail>In Online Season mode, get promoted to the MX1 Elite class</detail>
+ </trophy>
+ <trophy id="046" hidden="no" ttype="B" pid="000">
+  <name>First at the first corner</name>
+  <detail>Get the Holeshot in any offline mode</detail>
+ </trophy>
+ <trophy id="047" hidden="no" ttype="S" pid="000">
+  <name>Holeshot master</name>
+  <detail>Get 10 Holeshots in any offline mode</detail>
+ </trophy>
+ <trophy id="048" hidden="no" ttype="G" pid="000">
+  <name>Around the world</name>
+  <detail>Complete one valid race on each track in the game in any offline mode</detail>
+ </trophy>
+</trophyconf>

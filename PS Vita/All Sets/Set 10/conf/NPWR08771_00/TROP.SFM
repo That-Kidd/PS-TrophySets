@@ -1,0 +1,128 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000002e66d778c7019cf3ef647894178d55ae3e1e7c9779ce9debec9faf6b8ee88d5e0ab0db206f6c4fadb57b20dffc7826453f4736db16ba244aa5cabf3dc206854948f08f53352284e212e8f72b2200cffbb4a9fdfd1a91354dbf437711e519ba17a43c46770dae305deccb046e23079cfe878d9961d61bc8c4224d16bb6d5dc02b82e3471537c9bde3caa1b1957a2b279940324801-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR08771_00</npcommid>
+ <trophyset-version>01.02</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Axiom Verge</title-name>
+ <title-detail>Trophies for Axiom Verge.</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>PatternMind</name>
+  <detail>You have fulfilled your legacy.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Xedur</name>
+  <detail>Defeat the Xedur variant.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Telal</name>
+  <detail>Defeat the Telal variant.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Uruku</name>
+  <detail>Defeat the Uruku variant.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>Gir-Tab</name>
+  <detail>Defeat the Gir-Tab variant.</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>Hallucination</name>
+  <detail>Be defeated by yourself.</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>Clone</name>
+  <detail>Defeat one of Athetos' aborted clones.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>Ukhu</name>
+  <detail>Defeat the Ukhu variant.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>Sentinel</name>
+  <detail>Defeat Sentinel.</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="G" pid="000">
+  <name>Athetos</name>
+  <detail>Defeat Athetos</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>100% Items</name>
+  <detail>Acquire 100% of all weapons, tools, upgrades, and notes.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>100% Map</name>
+  <detail>Uncover 100% of the game map.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>Overclocked</name>
+  <detail>Complete the entire game in under 4 hours.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>100% Weapons</name>
+  <detail>Find 100% of the weapons in the game.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>100% Tools</name>
+  <detail>Find 100% of the tools/abilities in the game.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>100% Health</name>
+  <detail>Find 100% of Health Nodes</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>100% Notes</name>
+  <detail>Find 100% of all notes in the game.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="G" pid="000">
+  <name>Mostly Invincible</name>
+  <detail>Complete the game without dying.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="G" pid="000">
+  <name>Speedrunner</name>
+  <detail>Complete the game once in Speedrun Mode.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="G" pid="000">
+  <name>Hard</name>
+  <detail>Complete the game in Hard difficulty.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>Hack</name>
+  <detail>Glitch your first enemy.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>Hacker</name>
+  <detail>Glitch every enemy type at least once.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>100% Power</name>
+  <detail>Find 100% of all Power Nodes.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="G" pid="000">
+  <name>Low %</name>
+  <detail>Complete the game with under 40% of all items.</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="000">
+  <name>Secret World</name>
+  <detail>Discover your first secret world.</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="B" pid="000">
+  <name>Pacifist</name>
+  <detail>Bypass Athetos' aborted clone wihout damaging it.</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>Bubble Breaker</name>
+  <detail>Destroy 2000 regenerating blocks.</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>Brick Breaker</name>
+  <detail>Destroy 2000 bricks.</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="B" pid="000">
+  <name>Cryptologist</name>
+  <detail>Use the Passcode Tool for the first time.</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="B" pid="000">
+  <name>Mercy</name>
+  <detail>Spare the Xedur Hul variant.</detail>
+ </trophy>
+</trophyconf>

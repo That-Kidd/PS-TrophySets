@@ -1,0 +1,212 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000000a3b04b8ca7eb95f35c8ae23d65d6834674ffdc6a97ba62254dc49e61b01cb59d9bfae8d16f9aeb4ef00d72287d7ba045f31720ce34518eccfd93570b7ee9610d7dd0582fb76d9b4a0276581575ccee7dfc776e84ebe31815f23a86e21302fdac08d8c686abe321468ff707211e9c7ccb436256a1a3d38cad6142c2634975e7ead1afce5dff756c7d23e8305ce9a6fe9c17fc123-->
+<trophyconf version="1.1" platform="ps3,psp2,ps4" policy="large">
+ <npcommid>NPWR11835_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>戦国無双 ～真田丸～</title-name>
+ <title-detail>戦国無双 ～真田丸～のトロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>真田丸</name>
+  <detail>すべてのトロフィーを入手した</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>幼き日の日常</name>
+  <detail>幼年時代の真田幸村を城下町で使用した</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>若武者の戦支度</name>
+  <detail>青年時代の真田幸村を城下町で使用した</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>威風堂々たる武士</name>
+  <detail>壮年時代の真田幸村を城下町で使用した</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>煌めきの品</name>
+  <detail>合戦または探索で装飾品を入手した</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>風光明媚</name>
+  <detail>合戦または探索で入手した装飾品が２６種類に到達した</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>はじまりの軍略</name>
+  <detail>合戦で戦評「Ｓ」を達成した</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>大いなる軍略</name>
+  <detail>合戦で戦評「Ｓ」を１０回以上達成した</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>今日の釣果は？</name>
+  <detail>釣りを行った</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>収穫の歓び</name>
+  <detail>畑で素材を入手した</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>茶飲み友達</name>
+  <detail>茶屋を利用して武将を呼び出した</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>はじめての相棒</name>
+  <detail>武将の友好度を最大にした</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>信頼の相棒達</name>
+  <detail>１０人以上の武将の友好度を最大にした</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>武芸達者</name>
+  <detail>武器グレードが「Ａ」に到達した</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>記録の編集者</name>
+  <detail>真田丸戦記を閲覧した</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>記録の著述家</name>
+  <detail>真田丸戦記を５０項目以上閲覧した</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>記録の探求者</name>
+  <detail>真田丸戦記をすべて閲覧した</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>強さの証明</name>
+  <detail>真田幸村の階級が５０に到達した</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>強さの頂</name>
+  <detail>武将誰か１人の階級が９９に到達した</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>武の果てを目指す者</name>
+  <detail>累計撃破数が１００００人を突破した</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>武の果てを見た者</name>
+  <detail>累計撃破数が１０００００人を突破した</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>一騎当千</name>
+  <detail>１回の戦闘で１０００人撃破を達成した</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>調達初心者</name>
+  <detail>入手したことのある素材が１０種類以上に到達した</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>調達熟練者</name>
+  <detail>入手したことのある素材が１００種類以上に到達した</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>召喚されし魂</name>
+  <detail>来福寺左京にほら貝を渡した</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="S" pid="000">
+  <name>解放されし魂</name>
+  <detail>来福寺左京にほら貝をそこそこ渡した</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="G" pid="000">
+  <name>救済されし魂</name>
+  <detail>来福寺左京にほら貝をかなり渡した</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>我が武、ここにあり</name>
+  <detail>真田幸村で戦闘中に極意段位５を発動した</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>ふしぎなお供え</name>
+  <detail>地蔵から素材を入手した</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>真田家の財・その一</name>
+  <detail>さびれた蔵で宝物番と交流した</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>真田家の財・その二</name>
+  <detail>賑わい始めた蔵で宝物番と交流した</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>真田家の財・その三</name>
+  <detail>そこそこ賑わう蔵で宝物番と交流した</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>真田家の財・その四</name>
+  <detail>かなり賑わう蔵で宝物番と交流した</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="S" pid="000">
+  <name>真田家の財・了</name>
+  <detail>大賑わいの蔵で宝物番と交流した</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="S" pid="000">
+  <name>最高の調教師</name>
+  <detail>パンダに乗った</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="S" pid="000">
+  <name>お得意様</name>
+  <detail>消費した金が１０００００を超えた</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>戦国冒険家</name>
+  <detail>いずれかの探索マップで達成目標１つを１００％にした</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>戦国大冒険家</name>
+  <detail>いずれかの探索マップで達成目標すべてを１００％にした</detail>
+ </trophy>
+ <trophy id="038" hidden="yes" ttype="B" pid="000">
+  <name>信之・幸村誕生</name>
+  <detail>イベント「信之・幸村誕生」を見た</detail>
+ </trophy>
+ <trophy id="039" hidden="yes" ttype="B" pid="000">
+  <name>武田の若武者</name>
+  <detail>イベント「武田の若武者」を見た</detail>
+ </trophy>
+ <trophy id="040" hidden="yes" ttype="B" pid="000">
+  <name>生涯の宿敵</name>
+  <detail>「三方ヶ原の戦い」に勝利した</detail>
+ </trophy>
+ <trophy id="041" hidden="yes" ttype="B" pid="000">
+  <name>長篠の戦い</name>
+  <detail>「勝頼護衛戦」に勝利した</detail>
+ </trophy>
+ <trophy id="042" hidden="yes" ttype="B" pid="000">
+  <name>友の死</name>
+  <detail>イベント「友の死」を見た</detail>
+ </trophy>
+ <trophy id="043" hidden="yes" ttype="B" pid="000">
+  <name>安土探訪</name>
+  <detail>城下町「安土近郊」を訪れた</detail>
+ </trophy>
+ <trophy id="044" hidden="yes" ttype="B" pid="000">
+  <name>六文銭の誓い</name>
+  <detail>イベント「六文銭の誓い」を見た</detail>
+ </trophy>
+ <trophy id="045" hidden="yes" ttype="B" pid="000">
+  <name>大坂上洛</name>
+  <detail>城下町「大坂城」を訪れた</detail>
+ </trophy>
+ <trophy id="046" hidden="yes" ttype="B" pid="000">
+  <name>犬伏の別れ</name>
+  <detail>イベント「犬伏の別れ」を見た</detail>
+ </trophy>
+ <trophy id="047" hidden="yes" ttype="B" pid="000">
+  <name>昌幸散華</name>
+  <detail>イベント「昌幸散華」を見た</detail>
+ </trophy>
+ <trophy id="048" hidden="yes" ttype="B" pid="000">
+  <name>大筒</name>
+  <detail>イベント「大筒」を見た</detail>
+ </trophy>
+ <trophy id="049" hidden="yes" ttype="B" pid="000">
+  <name>日本一の兵</name>
+  <detail>イベント「日本一の兵」を見た</detail>
+ </trophy>
+ <trophy id="050" hidden="yes" ttype="S" pid="000">
+  <name>残されし武士</name>
+  <detail>壮年時代の真田信之を城下町で使用した</detail>
+ </trophy>
+</trophyconf>

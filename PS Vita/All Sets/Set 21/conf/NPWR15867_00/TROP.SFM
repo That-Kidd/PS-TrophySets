@@ -1,0 +1,64 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000034338eb4108440cb5b444557081343d352be012360c3b7fcc5e0fcfc60edfe98bbe5a270797407b5fd9a1a0f284fb33d071588c084734045e3d6eb06c8c6ca7dc0502cc95fba60adf495495b2b4e8216349166104fc6eded04e13526d8d09c029e52e6f1b1f3e8fb0e09cae8986b1a9fa549e451fa0978a540e7b334dd72a662e05e3d814636bf432eb053b9c7fcb7146679e9bf-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR15867_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Super Destronaut DX</title-name>
+ <title-detail>Super Destronaut DX</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Platinum Destronaut</name>
+  <detail>Get all the trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="000">
+  <name>Starter</name>
+  <detail>Kill 1 enemy</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>The whole crew was lost</name>
+  <detail>Die once</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>Up for a challenge</name>
+  <detail>Complete 1 challenge</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>I like challenges</name>
+  <detail>Complete 3 challenges</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>Mastering challenges</name>
+  <detail>Complete 6 challenges</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>Challenge me</name>
+  <detail>Complete 12 challenges</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>Well done</name>
+  <detail>Reach to 25K points in Classic Mode</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>Working hard</name>
+  <detail>Reach to 50K points in Classic Mode</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>Excellent</name>
+  <detail>Reach to 100K points in Classic Mode</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>Countdown</name>
+  <detail>Reach 10K in Time Attack Mode</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>Saving the galaxy</name>
+  <detail>Reach 1K in Hardcore Mode</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>Persistent</name>
+  <detail>Hit one of the grey enemies</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="000">
+  <name>Changing weapons</name>
+  <detail>Kill 1 special red enemy</detail>
+ </trophy>
+</trophyconf>

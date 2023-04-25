@@ -1,0 +1,236 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000a6a7e04a0289b16838b81067cc45ae811cd6db0c8b6696384c1c80ef26a55bad8d3978c65e808716a0ee0f3b6163656c6bb99f60dc02fea986114240409486aa277eb2ae631feb3cca7a53936024cb9a6c1fa57215d25a095a0cb93dd412e19b6f693cc76cc89c7ac90c33894314fed394bb215c702fa8e0b36830142df2bbefccf6bfac377299dc3f4a7bf25e272d0b8990e0b9-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR03281_00</npcommid>
+ <trophyset-version>01.03</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>PlayStation® All-Stars Battle Royale</title-name>
+ <title-detail>「PlayStation® All-Stars Battle Royale」へようこそ！いろんなモードを攻略して、すべてのトロフィーをゲットしよう！</title-detail>
+ <group id="001">
+  <name>追加コンテンツ取得</name>
+  <detail>「プレイステーション® オールスター・バトルロイヤル」最初の追加コンテンツを取得</detail>
+ </group>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>オールスター・レジェンド</name>
+  <detail>このゲームの全てのトロフィーを取得しました、おめでとうございます！</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>コンバット完了！</name>
+  <detail>コンバット トライアルのどれかを完了する</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>ハードな状況</name>
+  <detail>アーケードモードを難易度”ハード”でクリアする</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>基本は押さえた</name>
+  <detail>チュートリアルの”ベーシック ”を完了する</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>キャラクター・マスター</name>
+  <detail>チュートリアルの”コンボ”を完了する</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>お披露目</name>
+  <detail>ゲーム中にミニオンを表示する</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>トリプル・キラー</name>
+  <detail>トーナメントのバトルロイヤルで、トリプルキルを行う</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>チーム・キラー</name>
+  <detail>トーナメントの2VS2で、ダブルキルを行う</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>オーバータイム！</name>
+  <detail>オーバータイムになる</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>AP３倍オーバータイム！！</name>
+  <detail>２回目のオーバータイムになる</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>チャンピオン</name>
+  <detail>敵ＣＰＵが３体のチームと対戦マッチのチームバトルで勝利する</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>コンボ・キング</name>
+  <detail>プラクティス モードでＡＰゲージが５０以上増えるコンボを決める</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>コンボの巨匠</name>
+  <detail>プラクティス モードでＡＰゲージが７０以上増えるコンボを決める</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>アルティメット・パワー！</name>
+  <detail>レベル３のスーパーアタックを出す</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>一石二鳥</name>
+  <detail>レベル１のスーパーアタックでダブルキルをする</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="G" pid="000">
+  <name>一石三鳥！</name>
+  <detail>レベル１のスーパーアタックでトリプルキルをする</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>友好的な対戦？</name>
+  <detail>オンラインでのプレイヤー相手に対戦マッチを１回終わらせる</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>トーナメント・ファイター</name>
+  <detail>オンラインでトーナメントのランク戦を1回終わらせる</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>最初の犠牲者</name>
+  <detail>トーナメントのいずれかの対戦で、初めて敵を倒す</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="000">
+  <name>勝者！</name>
+  <detail>トーナメントのいずれかの対戦で、勝利する</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>ゴッド・オブ・ウォー</name>
+  <detail>アーケードモードをクレイトスでクリアする</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>ボクならできるさ！</name>
+  <detail>アーケードモードをパラッパでクリアする</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>ケーキちょうだい！</name>
+  <detail>アーケードモードをぽっちゃりプリンセスでクリアする</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>アイスは好きか？</name>
+  <detail>アーケードモードをスウィート・トゥースでクリアする</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>ヘルガストの司令官</name>
+  <detail>アーケードモードをラデックでクリアする</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>スゴ腕の盗賊</name>
+  <detail>アーケードモードをスライ・クーパーでクリアする</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>トレジャーハンター</name>
+  <detail>アーケードモードをネイサン・ドレイクでクリアする</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>偉大なるコンジット</name>
+  <detail>アーケードモードをコールでクリアする</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>ここでもいっしょ！</name>
+  <detail>アーケードモードをトロでクリアする</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>ピポサル・キャッチャー</name>
+  <detail>アーケードモードをカケルでクリアする</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>銀河のヒーロー</name>
+  <detail>アーケードモードをラチェットでクリアする</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>エコ・マスター</name>
+  <detail>アーケードモードをジャックでクリアする</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>クリエイトしよう！</name>
+  <detail>アーケードモードをリビッツでクリアする</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>リベンジェンス</name>
+  <detail>アーケードモードを雷電でクリアする</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>鉄拳</name>
+  <detail>アーケードモードを平八でクリアする</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>ミスターＢ</name>
+  <detail>アーケードモードをビッグダディでクリアする</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>デーモン・ハンター</name>
+  <detail>アーケードモードをダンテでクリアする</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>エンパイアシティーの悪魔</name>
+  <detail>アーケードモードをコール（悪）でクリアする</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>ヘブンリー・ウォリアー</name>
+  <detail>アーケードモードをナリコでクリアする</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="000">
+  <name>ガロメアの勇者</name>
+  <detail>アーケードモードをダニエル・フォーテスクでクリアする</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="S" pid="000">
+  <name>生きてて良かった</name>
+  <detail>トーナメントの対戦で、倒されることなく対戦を完了する</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="B" pid="000">
+  <name>不可能などない</name>
+  <detail>ビッグダディのレベル３スーパーアタックで、コロンビアを洪水にする</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="B" pid="000">
+  <name>レイスフィア・マスター</name>
+  <detail>いずれかのコールを使い、オールデンの塔で、レベル３スーパーアタックを行う</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="B" pid="000">
+  <name>インターポールＨＱへの侵入</name>
+  <detail>スライ・クーパーを使い、パリでレベル３スーパーアタックを使う</detail>
+ </trophy>
+ <trophy id="044" hidden="no" ttype="B" pid="000">
+  <name>首都ケルバン</name>
+  <detail>ラチェットを使い、メトロポリスでレベル３スーパーアタックを使う</detail>
+ </trophy>
+ <trophy id="045" hidden="no" ttype="B" pid="000">
+  <name>ラリー・ダ・ヴィンチの友人</name>
+  <detail>リビッツを使い、夢の世界でレベル３スーパーアタックを使う</detail>
+ </trophy>
+ <trophy id="046" hidden="no" ttype="B" pid="000">
+  <name>カリプソの望み</name>
+  <detail>スウィート・トゥースを使い、ブラックロックスタジアムでレベル３スーパーアタックを使う</detail>
+ </trophy>
+ <trophy id="047" hidden="no" ttype="B" pid="000">
+  <name>メディーック！</name>
+  <detail>ラチェットを使い、サンフランシスコでレベル３スーパーアタックを使う</detail>
+ </trophy>
+ <trophy id="048" hidden="no" ttype="B" pid="000">
+  <name>弟子が師匠を超える時</name>
+  <detail>パラッパを使い、ドージョー（道場）でレベル３スーパーアタックを使う</detail>
+ </trophy>
+ <trophy id="049" hidden="no" ttype="B" pid="000">
+  <name>ＲＥＸ vs ＲＡＹ</name>
+  <detail>雷電を使い、フランジーアでレベル３スーパーアタックを使う</detail>
+ </trophy>
+ <trophy id="050" hidden="no" ttype="B" pid="000">
+  <name>ピポヘルのブルース</name>
+  <detail>カケルを使い、タイムステーションでレベル３スーパーアタックを使う</detail>
+ </trophy>
+ <trophy id="051" hidden="no" ttype="B" pid="000">
+  <name>セイモスの聖域</name>
+  <detail>ジャックを使い、サンドーバ村でレベル３スーパーアタックを使う</detail>
+ </trophy>
+ <trophy id="052" hidden="no" ttype="B" pid="000">
+  <name>偉業をなすのも小さな一歩から</name>
+  <detail>ネイサン・ドレイクを使い、格納庫でレベル３スーパーアタックを使う</detail>
+ </trophy>
+ <trophy id="053" hidden="no" ttype="B" pid="000">
+  <name>ヘルガーンの支配者</name>
+  <detail>ラデックを使い、ヘルガーンでレベル３スーパーアタックを使う</detail>
+ </trophy>
+ <trophy id="054" hidden="no" ttype="B" pid="000">
+  <name>冥界の宮殿</name>
+  <detail>クレイトスを使い、冥界でレベル３スーパーアタックを使う</detail>
+ </trophy>
+ <trophy id="055" hidden="no" ttype="S" pid="-1" gid="001">
+  <name>女戦士降臨</name>
+  <detail>「大胆不敵」のステージで、ナリコのレベル3のスーパーアタックを発動する</detail>
+ </trophy>
+</trophyconf>

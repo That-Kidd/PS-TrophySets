@@ -1,0 +1,56 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000202c3611dbfda654669bb80404d3d38f832761218a1054227894561555d2d92a97a8a27e395b2568788c26262ffc87cac22015c80d1e927fbe64611301c0d0604c0883beffbd762fd225813181b771726a12f99b5341a1d881a8176b89b9ab70080b13461ab37185f2e4894096c9d6cc7da3c2e076552e3f99b50eb63ec390bcc679bae7bfbef2bb3b378d85a12e107a7fc23ad9-->
+<trophyconf version="1.1" platform="ps3,psp2" policy="small">
+ <npcommid>NPWR05208_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>スーパーロボット大戦</title-name>
+ <title-detail>スーパーロボット大戦のトロフィーセット</title-detail>
+ <trophy id="000" hidden="yes" ttype="G" pid="-1">
+  <name>スーパーロボット大戦</name>
+  <detail>味方にできるすべてのユニットを１回以上、味方にする。</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="S" pid="-1">
+  <name>大救出劇</name>
+  <detail>第１部、もしくは第２部の１回のクリアまでに説得を５０回以上、成功させる。</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="-1">
+  <name>真の平和を求めて</name>
+  <detail>第１部をクリアする。</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="-1">
+  <name>鋼の魂よ永遠に</name>
+  <detail>第２部をクリアする。</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>もえあがれ、ガンダム</name>
+  <detail>ガンダムが精神コマンド『熱血』を使用する。</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>グレートマジンガー対ゲッターロボ</name>
+  <detail>グレートマジンガーとゲッターロボが戦闘を行う。</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>タワー攻略</name>
+  <detail>タワーを占領し、基地にする。</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>怪電波の解除</name>
+  <detail>敵ユニットの説得に成功する。</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>フル改造？</name>
+  <detail>１ユニットが持つ１種類の属性の武器に、使用上限まで強化アイテムを使用する。</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>さらば、友よ…</name>
+  <detail>インターミッションで「ユニット離脱」を実行する。</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="-1">
+  <name>昔は昔、今は今</name>
+  <detail>ピクドロンかギルギルガンを説得する。</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="-1">
+  <name>愛の力は偉大</name>
+  <detail>精神コマンド『復活』を使用する。</detail>
+ </trophy>
+</trophyconf>

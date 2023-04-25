@@ -1,0 +1,132 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000062abe00d3e1fcf6d175c526e5dcb4fbc9b7265730513695a8a4942f53d227dfe56cf20096ad154f1681235a78fd66f9081ed701f6e669138c1073dd1b55b386cee7e91ee4401ab802ac520df3b7fa2cf6ccf708dcfac3b90f53a7f9897b449ca6549f030ed367df419ed8ebda299717d2a986733b435f76ca216ef8bdae2d52bd14d40898a5860abb678db6d968ef2d8d95790f8-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR13637_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Rabi-Ribi</title-name>
+ <title-detail>Trophy</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Rabi-Ribi!</name>
+  <detail>You must be a bunny lover!</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>The Cheerful Fairy</name>
+  <detail>Ribbon is now following you!</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Welcome back!</name>
+  <detail>Return to Rabi Rabi Town.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>We will do it next time!</name>
+  <detail>Returned from that strange place.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>Every game need an easter egg</name>
+  <detail>Pick up a strange egg...What is this?</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>Why are you trying to stop us?</name>
+  <detail>Returned from that strange place for the third time.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>Familiar Unfamiliar</name>
+  <detail>Finally returned to where you started.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>Escape from more bunny lovers!</name>
+  <detail>Cleared seven UPRPRC Midboss events!</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>Bunny &gt; Sister.</name>
+  <detail>Miru came back to the town!</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>Don't tell Cocoa!</name>
+  <detail>Holding 99999en!</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>MAX Rank Finish!</name>
+  <detail>Defeated a boss in MAX rank!</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>Combo Grinder</name>
+  <detail>Reach 999 combo during a boss battle.</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="B" pid="000">
+  <name>Irisu in wonderland</name>
+  <detail>Irisu came back to the town!</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>Strike into the CreSpirit secret base!</name>
+  <detail>Defeat the director of Rabi-Ribi!</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>Why are there so many of them?</name>
+  <detail>Finished Boss Rush Mode.</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>Fairy Attacks!</name>
+  <detail>Finish "Fairy Attacks!"</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>Finding Memories</name>
+  <detail>Finish "Finding Memories"</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>Upgrade even more!</name>
+  <detail>Upgrade 20 items to Lv.3</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>About eight kilograms.</name>
+  <detail>Obtained every item!</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="000">
+  <name>A New Beginning... This time Erina is fully prepared!</name>
+  <detail>Started New Game+, also known as loop two.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>Now you've seen everything.</name>
+  <detail>100% map completion!</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>Happy Halloween!</name>
+  <detail>Cleared the Halloween Event! And Erina got a new costume to wear? How about try to view her new outfit?</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="S" pid="000">
+  <name>You just broke the game!</name>
+  <detail>"Sequence Breaking" to the extreme. What's going to happen? Not even the developer knows!</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>Massive damage!</name>
+  <detail>Get 10,000 points of score in sandbag mini game.</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>Running away from home?</name>
+  <detail>"She found a lot of people, but never came home..."</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="G" pid="000">
+  <name>It would be easier if you had some help...</name>
+  <detail>Collected all 70 easter eggs!</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="G" pid="000">
+  <name>So many... So strong...</name>
+  <detail>Finished True Boss Rush Mode.</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="G" pid="000">
+  <name>MAX Rank True End!</name>
+  <detail>Defeated all bosses in MAX rank!</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="G" pid="000">
+  <name>So...Erina, do you expect to win with cuteness?</name>
+  <detail>Defeat the post game boss with 0% items! (Except amulet, consumable and Rainbow eggs).</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="G" pid="000">
+  <name>Gold Bunny Speedrunner</name>
+  <detail>Finished the main game in a super fast time!</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="G" pid="000">
+  <name>Were those instant kill?</name>
+  <detail>Finished the whole game without touching a spike.</detail>
+ </trophy>
+</trophyconf>

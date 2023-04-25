@@ -1,0 +1,112 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000010dd1f9a302bad32b0dea2e3b2d088c53116577818c5de842ca1672d0d6762ad98505d438d5aa0de7a35969a1879aac7f33c3de4d830b576f97449645e5d3bd9841739926cf95209630761ca5607fcb8f9e174b3ddc1cfcffb73b9d667688e44b026b64ccf8fc79385e3ec13f7331c95215602c541be329f764186453d32822172e4ab8dee12e5c6ccc55cf9336bc65571d86f01-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR14457_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>あなたの四騎姫教導譚</title-name>
+ <title-detail>あなたの四騎姫教導譚のトロフィーセットです</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>四騎姫教導！！</name>
+  <detail>全トロフィーを取得</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>全力満開！リリアティ</name>
+  <detail>リリアティの全姫パラメータ最大レベル達成</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>フルスロットル・ザ・ヴェロニカ</name>
+  <detail>ヴェロニカの全姫パラメータ最大レベル達成</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>テクニックスター・モノマリア</name>
+  <detail>モノマリアの全姫パラメータ最大レベル達成</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>完結アルパナ一派</name>
+  <detail>アルパナの全姫パラメータ最大レベル達成</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>リリアティ　ノーマルEND</name>
+  <detail>リリアティのノーマルエンディングを見た</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>リリアティ　グッドEND</name>
+  <detail>リリアティのグッドエンディングを見た</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>リリアティ　ベリーグッドEND</name>
+  <detail>リリアティのベリーグッドエンディングを見た</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>ヴェロニカ　ノーマルEND</name>
+  <detail>ヴェロニカのノーマルエンディングを見た</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>ヴェロニカ　グッドEND</name>
+  <detail>ヴェロニカのグッドエンディングを見た</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>ヴェロニカ　ベリーグッドEND</name>
+  <detail>ヴェロニカのベリーグッドエンディングを見た</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>モノマリア　ノーマルEND</name>
+  <detail>モノマリアのノーマルエンディングを見た</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>モノマリア　グッドEND</name>
+  <detail>モノマリアのグッドエンディングを見た</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>モノマリア　ベリーグッドEND</name>
+  <detail>モノマリアのベリーグッドエンディングを見た</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>アルパナ　ノーマルEND</name>
+  <detail>アルパナのノーマルエンディングを見た</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>アルパナ　グッドEND</name>
+  <detail>アルパナのグッドエンディングを見た</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>アルパナ　ベリーグッドEND</name>
+  <detail>アルパナのベリーグッドエンディングを見た</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="G" pid="000">
+  <name>未来光明！天下満開！</name>
+  <detail>全姫味方エンディングを見た</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>粉砕巨大竜</name>
+  <detail>ヴァヴェル竜撃破</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>トドメの巨人</name>
+  <detail>タイラント・ヤガー撃破</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>機能停止</name>
+  <detail>ヤムリタ・アモーガ撃破</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>厄災の終焉</name>
+  <detail>悪疫のサナギ撃破</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="B" pid="000">
+  <name>未来への道</name>
+  <detail>悪果のマダラ蝶撃破</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>勝ち得た知識</name>
+  <detail>全姫の知識マテリアを全て獲得</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>武具師</name>
+  <detail>最終段階まで強化した武具を所持</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="S" pid="000">
+  <name>英雄立志</name>
+  <detail>主人公のスキルアップデートを全て獲得</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,120 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000000d15bbd3719498e0989bf08bd3575a13aa335ffc82d374de2a1b330f4d48b4f70525a2c202e8c7e4c4e56b7828513325861cf2de75e7706a38b55fd3ff4b2b7f2b3099288300d78adfd46b32c5e1c775d71c74ff45b2a765b769f6b51a5013a86e19e63cfc805352dc6fd4a05cb180b386abb642a3582714c9da6805ce0d9293957040cc3c7310421c8335e11984049b8b4b6ac8-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR10189_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>赤い砂堕ちる月</title-name>
+ <title-detail>赤い砂堕ちる月</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>赤い砂堕ちる月</name>
+  <detail>全てのトロフィーを獲得した</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="G" pid="000">
+  <name>符術士の軌跡</name>
+  <detail>全てのエンディングを見た</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>符術士の記憶</name>
+  <detail>CGをすべて解放した</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>博識符術士</name>
+  <detail>用語一覧をすべて解放した</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>符術士の追想</name>
+  <detail>全ての回想を解放した</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>様々な自分</name>
+  <detail>属性符をすべて入手した</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>昭元の歴史</name>
+  <detail>年表をすべて解放した</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>祝、初勝利</name>
+  <detail>初めて初回バトルに勝利した</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>時を刻む声</name>
+  <detail>初めてクロックモードでアラームを解除した</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>東汪国の明日</name>
+  <detail>汪明のハッピーエンドを見た</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="000">
+  <name>汪明と紡ぐ日々</name>
+  <detail>汪明の追加シナリオをすべて見た</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>見上げた青空</name>
+  <detail>洛泉のハッピーエンドを見た</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="B" pid="000">
+  <name>洛泉と紡ぐ日々</name>
+  <detail>洛泉の追加シナリオをすべて見た</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>２人の門出</name>
+  <detail>翔侠のハッピーエンドを見た</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="B" pid="000">
+  <name>翔侠と紡ぐ日々</name>
+  <detail>翔侠の追加シナリオをすべて見た</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="S" pid="000">
+  <name>信じ合う心</name>
+  <detail>胡白のハッピーエンドを見た</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>胡白と紡ぐ日々</name>
+  <detail>胡白の追加シナリオをすべて見た</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="S" pid="000">
+  <name>先生の想い</name>
+  <detail>永祥のハッピーエンドを見た</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>永祥と紡ぐ日々</name>
+  <detail>永祥の追加シナリオすべてを見た</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="S" pid="000">
+  <name>私が主にしたいのは</name>
+  <detail>杏紅のハッピーエンドを見た</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="000">
+  <name>杏紅と紡ぐ日々</name>
+  <detail>杏紅の追加シナリオを見た</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>汪明との記憶</name>
+  <detail>汪明のCGをすべて解放した</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>洛泉との記憶</name>
+  <detail>洛泉のCGをすべて解放した</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>翔侠との記憶</name>
+  <detail>翔侠のCGをすべて解放した</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>胡白との記憶</name>
+  <detail>胡白のCGをすべて解放した</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="S" pid="000">
+  <name>永祥との記憶</name>
+  <detail>永祥のCGをすべて解放した</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="S" pid="000">
+  <name>杏紅との記憶</name>
+  <detail>杏紅のCGをすべて解放した</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="S" pid="000">
+  <name>様々な記憶</name>
+  <detail>その他のCGをすべて解放した</detail>
+ </trophy>
+</trophyconf>

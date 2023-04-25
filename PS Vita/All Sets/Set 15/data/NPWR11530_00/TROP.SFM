@@ -1,0 +1,208 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000531dbf86c07db02b07153f094b5b3fb08744c666044acf7813c2ecbfe181a99ff563303a3e92a3f96ba92adb6e8ec637d3c8ad700d6c806560099a931da0ce5d696ce7d48a8174c8062bdeb05273983af5f85df6b2d512382807c05f8e71b194f6791246212dc2f7900b3b535ccbf71e2ebc8d0fd7d7639411fedb45a44f04d228d060b4620b033bec7c15861eab90c42db8e923-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR11530_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>VALKYRIE DRIVE -BHIKKHUNI-</title-name>
+ <title-detail>VALKYRIE DRIVE -BHIKKHUNI- Trophy</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>We Have Become One</name>
+  <detail>Obtained all trophies.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Welcome to BHIKKHUNI</name>
+  <detail>Completed Drive1-A</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>The Training Never Stops</name>
+  <detail>Completed Chapter One.</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>I Want Sis to Smile Again</name>
+  <detail>Completed Chapter Two.</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>Don't Overdo It</name>
+  <detail>Completed Chapter Three.</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>I Don't Want to Live on this Island Anymore</name>
+  <detail>Completed Chapter Four.</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="000">
+  <name>The Battle's Just Begun</name>
+  <detail>Achieved the Rinka vs. Ranka Ending.</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>For the Glorious Future!</name>
+  <detail>Achieved the True Ending.</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="G" pid="000">
+  <name>Valkyrie's Paradise</name>
+  <detail>Completed the Main Story.</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="000">
+  <name>Right Beside You</name>
+  <detail>Completed an Affection Novel.</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="000">
+  <name>Captured By Your Eyes</name>
+  <detail>Completed 10 types of Affection Novels.</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>Fates Intertwined</name>
+  <detail>Completed 30 types of Affection Novels.</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="B" pid="000">
+  <name>Stronger Together</name>
+  <detail>Completed 50 types of Affection Novels.</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="000">
+  <name>My Heart Remains True</name>
+  <detail>Completed a Maximum Affection Novel.</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="B" pid="000">
+  <name>Your Gentle Hands</name>
+  <detail>Completed 5 types of Maximum Affection Novels.</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>Hooked on a Feeling</name>
+  <detail>Completed 10 types of Maximum Affection Novels.</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="G" pid="000">
+  <name>Fully Satisfied</name>
+  <detail>Completed allAffection Novels.</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>Liberator Supreme</name>
+  <detail>Raised one character's Liberator Level to the maximum.</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>Ecstar Extraordinaire</name>
+  <detail>Raised one character's Drive Rank to the maximum.</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="G" pid="000">
+  <name>Busting Out</name>
+  <detail>Raised one character's Boob Rank to the maximum.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>Intimate Connection</name>
+  <detail>Performed a Drive for the first time.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>Climax</name>
+  <detail>Performed a Final Drive for the first time.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>Our Bodies are Ready</name>
+  <detail>Peformed a Connect.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>Satisfying Finish</name>
+  <detail>Defeated a boss with a Drive Break or a Super Drive Break.</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>I'm Sexy and I Know It</name>
+  <detail>Recognized by a Keeper.</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>I Can't Stop...</name>
+  <detail>Performed a 999-hit combo.</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>Experienced Girls</name>
+  <detail>Gained a total of 5,000,000 experience points with all characters.</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>School's Out</name>
+  <detail>Defeated 10,000 enemies.</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>Make it Rain</name>
+  <detail>Acquired 1,000,000 Reward Points.</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>Strip Search</name>
+  <detail>Destroyed all of an enemy's clothes.</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>The Naked Truth</name>
+  <detail>Had all your clothes destroyed by an enemy.</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="S" pid="000">
+  <name>As Nature Intended</name>
+  <detail>Saw 100 naked bodies.</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="B" pid="000">
+  <name>Down with the Tortoise</name>
+  <detail>Destroyed Vajrayaksa's core and won the battle.</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="B" pid="000">
+  <name>Down with the Tiger</name>
+  <detail>Destroyed Yamantaka's core and won the battle.</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="B" pid="000">
+  <name>Down with the Phoenix</name>
+  <detail>Destroyed Kundali's core and won the battle.</detail>
+ </trophy>
+ <trophy id="035" hidden="yes" ttype="B" pid="000">
+  <name>Down with the Dragon</name>
+  <detail>Destroyed Trailokyavijaya's core and won the battle.</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="S" pid="000">
+  <name>Fragment Collector</name>
+  <detail>Obtained all Fragments.</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="S" pid="000">
+  <name>Detective</name>
+  <detail>Cleared all Back Doors.</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="S" pid="000">
+  <name>The Best of the Breast</name>
+  <detail>Recognized by all Keepers.</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="000">
+  <name>Challenge Accepted</name>
+  <detail>Cleared the Challenge Mode.</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="B" pid="000">
+  <name>'Tis But a Scratch!</name>
+  <detail>Cleared the Survival Mode.</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="B" pid="000">
+  <name>Training Time</name>
+  <detail>Started the Free Training in Training Mode.</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="B" pid="000">
+  <name>Ain't Technology Grand?</name>
+  <detail>Used the Lingerie Printer in the store.</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="B" pid="000">
+  <name>Worth Every Yen</name>
+  <detail>Spent 1,000,000 Points on the Lingerie Printer.</detail>
+ </trophy>
+ <trophy id="044" hidden="no" ttype="B" pid="000">
+  <name>Gotta Wear 'Em All!</name>
+  <detail>Obtained all pieces of underwear from the Lingerie Printer.</detail>
+ </trophy>
+ <trophy id="045" hidden="no" ttype="B" pid="000">
+  <name>#1 Customer</name>
+  <detail>Purchased all outfits, lingerie, and accessories from the store.</detail>
+ </trophy>
+ <trophy id="046" hidden="no" ttype="B" pid="000">
+  <name>Fashion Expert</name>
+  <detail>Equipped 10 accessories in the Communication Room.</detail>
+ </trophy>
+ <trophy id="047" hidden="no" ttype="B" pid="000">
+  <name>Please, Be Gentle...</name>
+  <detail>Engaged in a little touching in the Communication Room.</detail>
+ </trophy>
+ <trophy id="048" hidden="no" ttype="B" pid="000">
+  <name>Hands-On Experience</name>
+  <detail>Touched everyone in the Communication Room.</detail>
+ </trophy>
+ <trophy id="049" hidden="no" ttype="B" pid="000">
+  <name>The Magic Touch</name>
+  <detail>Played the Heart Catch in the Communication Room 100 times.</detail>
+ </trophy>
+</trophyconf>

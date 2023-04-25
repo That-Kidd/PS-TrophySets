@@ -1,0 +1,160 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000edc18f98ae8e95d116f08cdc40985b93f8ad0b428919bc54f7175c1742bc28f5903303d0f20ee82dc93d44c84c100951e96f7919742c25f18d8f0da745a4fce8e1f4eae577b90068dc7cf2a11fd3f723f8e96855f758cb0f27279fa9aafd93f470848dbf2f2deb79bdab2d86e85b0e6964f8d24dfa5495dd69f3fbf93f010741ae4b83d612d374d0fa4ccdc0decfa51a2586ccc4-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR05732_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>コープスパーティー BLOOD DRIVE</title-name>
+ <title-detail>コープスパーティー BLOOD DRIVEのトロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>完結</name>
+  <detail>全てのトロフィーを獲得した</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>解放</name>
+  <detail>全ての名札を取得した</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>勇者</name>
+  <detail>ゲーム中の全てのエンディングを見た</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="G" pid="000">
+  <name>暗黒</name>
+  <detail>懐中電灯を使用せずにクリアした</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="G" pid="000">
+  <name>滅殺</name>
+  <detail>Chapter9で獲得できる護符を全て使って涅槃に取り込まれた魂を浄化した</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="G" pid="000">
+  <name>和解</name>
+  <detail>クイーンの言葉を全て理解した</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>物好</name>
+  <detail>アルバムをコンプリートした</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>音好</name>
+  <detail>BGMリストをコンプリートした</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>声好</name>
+  <detail>バイノーラルボイスリストをコンプリートした</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>感謝</name>
+  <detail>キャストメッセージをコンプリートした</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>叡智</name>
+  <detail>コープスパーティー辞典をコンプリートした</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>猛者</name>
+  <detail>天神小学校を無傷で探索した</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>強き心</name>
+  <detail>天神小学校で精神を汚染されずに探索した</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>不殺</name>
+  <detail>Chapter9で涅槃に取り込まれた魂を1つも浄化せずにクリアした</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>予兆</name>
+  <detail>拡大しつつある呪い</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>死亡</name>
+  <detail>怪我が原因で死亡してしまった</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>黒化</name>
+  <detail>黒化が原因で死亡してしまった</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>無念</name>
+  <detail>最悪の結末を経験した</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>生還</name>
+  <detail>本編の通常エンディングを全てクリアした</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>ラストワルツ</name>
+  <detail>EXChapter 1 を開放した</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>マルトゥバ</name>
+  <detail>EXChapter 2 を開放した</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>譲れぬもの</name>
+  <detail>EXChapter 3 を開放した</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>夢幻の如く</name>
+  <detail>EXChapter 4 を開放した</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>糸口</name>
+  <detail>EXChapter 5 を開放した</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>袂別</name>
+  <detail>EXChapter 6 を開放した</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>心臓</name>
+  <detail>EXChapter 7 を開放した</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>残火</name>
+  <detail>EXChapter 8 を開放した</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>微光</name>
+  <detail>CHAPTER 0 の全てのエンディングを見た</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>あの場所へ</name>
+  <detail>CHAPTER 1 の全てのエンディングを見た</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>それぞれの想い</name>
+  <detail>CHAPTER 2 の全てのエンディングを見た</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>痛み</name>
+  <detail>CHAPTER 3 の全てのエンディングを見た</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>六鬼門</name>
+  <detail>CHAPTER 4 の全てのエンディングを見た</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>侵食</name>
+  <detail>CHAPTER 5 の全てのエンディングを見た</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>ブック・オブ・シャドウズ</name>
+  <detail>CHAPTER 6 の全てのエンディングを見た</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>覚悟</name>
+  <detail>CHAPTER 7 の全てのエンディングを見た</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>断ち切った想い、断ち切れぬ想い</name>
+  <detail>CHAPTER 8 の全てのエンディングを見た</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>支配者</name>
+  <detail>CHAPTER 9 の全てのエンディングを見た</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>代償</name>
+  <detail>CHAPTER 10 の全てのエンディングを見た</detail>
+ </trophy>
+</trophyconf>

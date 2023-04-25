@@ -1,0 +1,60 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000042072611a73c28751d74e9ab8ddc8eef64b510c20ab8190e0e40070d5af7f6d5309832f2daf62f866b891d5af476349f9d8305ec1bbbd8afd30122ca939ea9b2a18f991bd1f24b48b54b8e5abca9360c38a3d691ce8a04c109710b7a0fa64048318dc47971a1504bf8e23cf66c791d68baf4f1b46ebe4387c3459e37d3ed0faaf50d1520842e4627ed7de96421400a3c7ae81301-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR17419_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>The House In Fata Morgana</title-name>
+ <title-detail>The House In Fata Morgana Trophy Set</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Fata Morgana</name>
+  <detail>Earned all trophies.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>Third Time's a Charm?</name>
+  <detail>Finished Reincarnation.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>Sweet Dreams</name>
+  <detail>Found the hidden fragment.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>A Friend By Any Other Name</name>
+  <detail>Finished Assento Dele.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>A Glimpse of Joy</name>
+  <detail>Finished Happily Ever "After".</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>What's Past is Prologue</name>
+  <detail>Finished A Requiem for Innocence.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>A Ripple in Eternity</name>
+  <detail>Uncovered the hidden prologue.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>What Was, and What Could Have Been</name>
+  <detail>Found all eight endings in The House in Fata Morgana.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>Windows to the Past</name>
+  <detail>Entered the Art Gallery.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>Melodies for the Future</name>
+  <detail>Entered the Concert Hall.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>Tales Wasted Away in Obscurity</name>
+  <detail>Examined the short story archives.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>May the World Beyond Be Filled With Light</name>
+  <detail>Finished The House in Fata Morgana.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>Into the Darkness</name>
+  <detail>Took Your first steps into the cursed mansion.</detail>
+ </trophy>
+</trophyconf>

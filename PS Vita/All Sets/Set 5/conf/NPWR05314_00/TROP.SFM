@@ -1,0 +1,176 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000b0c9f13b298696119d6014c10a9f4d606174cf8863b5e00c64f8dbb28e76ad545456d3efdd67ca339662148565e68491f9c81ef319e61c44ba2e4e724d96ce05af2754a49789bbc0b6b1e67b6bb59febec6d0962b636e1d1798a508d514feda20f21064e9f191a8bf09c4819ea5f297ef408af8fc42ab1efe6076ee153fbe99ea19458fee0c971ab7bad79121ab56118fc91642b-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR05314_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Dead Nation™</title-name>
+ <title-detail>Dead Nation™ trophy pack</title-detail>
+ <group id="001">
+  <name>Road of Devastation</name>
+  <detail>Road of Devastation trophy pack</detail>
+ </group>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Romero Would Be Proud</name>
+  <detail>Collect All Trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Easy Does It</name>
+  <detail>Complete Campaign Mode On 'Braindead'</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>Mediocrity</name>
+  <detail>Complete Campaign Mode On 'Normal'</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>Tough Enough</name>
+  <detail>Complete Campaign Mode On 'Grim'</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>Morbid Curiosity</name>
+  <detail>Complete Campaign Mode On 'Morbid'</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>Double the Action</name>
+  <detail>Complete Campaign Mode In Co-Op Mode</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>And So It Begins...</name>
+  <detail>Complete Mission 1 (Any Difficulty Level)</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>A Trip Downtown</name>
+  <detail>Complete Mission 2 (Any Difficulty Level)</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>Walk in the Park</name>
+  <detail>Complete Mission 3 (Any Difficulty Level)</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>On top of the World</name>
+  <detail>Complete Mission 4 (Any Difficulty Level)</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>Out of the City</name>
+  <detail>Complete Mission 5 (Any Difficulty Level)</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>Hospital Bill Through the Roof</name>
+  <detail>Complete Mission 6 (Any Difficulty Level)</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>Gravedigger</name>
+  <detail>Complete Mission 7 (Any Difficulty Level)</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>Train to Nowhere</name>
+  <detail>Complete Mission 8 (Any Difficulty Level)</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>Sleeping with the Fishes</name>
+  <detail>Complete Mission 9 (Any Difficulty Level)</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>Took the Highway</name>
+  <detail>Complete Mission 10 (Any Difficulty Level)</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Teamwork</name>
+  <detail>Complete A Mission In Co-Op Mode (Any Difficulty Level)</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>Very Dead</name>
+  <detail>Complete A Mission On 'Undead'</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>Survivor</name>
+  <detail>Complete A Mission Without Dying</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="000">
+  <name>Skilled</name>
+  <detail>Complete A Mission Without Receiving Any Damage</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>Zombie Killer</name>
+  <detail>Kill 1 000 Zombies</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>Zombie Hunter</name>
+  <detail>Kill 10 000 Zombies</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="G" pid="000">
+  <name>Genocidiary</name>
+  <detail>Kill 53 596 Zombies</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>Aim For The Head</name>
+  <detail>Perform 500 Headshots</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>Up Close &amp; Personal</name>
+  <detail>Perform 500 Melee Kills</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>Blown To Bits</name>
+  <detail>Blow Up 1 000 Zombies</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>Pyromaniac</name>
+  <detail>Burn 1 000 Zombies</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>Car Killer</name>
+  <detail>Destroy 500 Vehicles</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>Upgrader</name>
+  <detail>Fully Upgrade A Single Stat Of Any Weapon In Campaign Mode</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="S" pid="000">
+  <name>Weapons Specialist</name>
+  <detail>Fully Upgrade All Stats Of Any Weapon In Campaign Mode</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>Suit Up</name>
+  <detail>Collect An Armor Piece</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="G" pid="000">
+  <name>Top Gear</name>
+  <detail>Collect All Armor Pieces</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>Contributor</name>
+  <detail>Help Your Country To Clear The Virus Infection</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="S" pid="000">
+  <name>Looter</name>
+  <detail>Collect All The Loot In Any Mission</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="G" pid="000">
+  <name>King Of Looters</name>
+  <detail>Collect All The Loot In Every Mission</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>Still In the Game</name>
+  <detail>Survive to Round 5</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="G" pid="-1" gid="001">
+  <name>Never Give Up</name>
+  <detail>Survive to Round 10</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="S" pid="-1" gid="001">
+  <name>Keep It Up</name>
+  <detail>Complete a Round with a Kills-per-minute rate of 100 or more</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="S" pid="-1" gid="001">
+  <name>Combo Master</name>
+  <detail>Get the Apocalypse Combo Kill Bonus (150 Kills)</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>Dynamic Duo</name>
+  <detail>Complete a Round in Co-Op Without Either Player Taking Damage</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>Found 'Em</name>
+  <detail>Find all the Egogate emblems</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,56 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000002e0ba1cf6f3572bce0c58cfd4f677028c05db051bda06934ae823986f139af4c511a21439d8700b3a04810d78026520415e9b6a86f0cb1d9dfd41386182e5eb8f64942cca110efa6493fb24c147bf17cb7f05f500a96b53fbec520a6878abb4e280e01c57e069210bc263e93170ace949ded127cc7466aa55ad3825d8659d1ea1010ecfdca24a1e81b690bedac030a5d05ceac80-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR03110_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Wake-up Club</title-name>
+ <title-detail>Wake-up Club</title-detail>
+ <trophy id="000" hidden="no" ttype="G" pid="-1">
+  <name>Get This Party Started</name>
+  <detail>First time everyone woke up together.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="-1">
+  <name>Morning Master</name>
+  <detail>The Wake-up Club has successfully woken up 30 times in a row.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="-1">
+  <name>Early Bird</name>
+  <detail>Successfully woke up a total of 200 times.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="-1">
+  <name>Best Pals</name>
+  <detail>The Wake-up Club has been successful 365 times.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Cheer Leader</name>
+  <detail>Cheered on other members over 2000 times.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Team Player</name>
+  <detail>Joined the Wake-up Club more than 365 times.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Best of the Best</name>
+  <detail>Took first place in the Wake-up Club 30 times.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Let the Games Begin</name>
+  <detail>Woke up using Wake-up Club Alarm for the first time.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Wake as one</name>
+  <detail>Everyone in the Wake-up Club woke up on time.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>Quick Draw</name>
+  <detail>Wake-up time was better than 3 seconds.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>In Circles</name>
+  <detail>Sent a friend request via Wake-up Club for the first time.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="-1">
+  <name>Circle of Friendship</name>
+  <detail>Viewed the profiles of more than 11 Wake-up Club members.</detail>
+ </trophy>
+</trophyconf>

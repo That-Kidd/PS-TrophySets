@@ -1,0 +1,228 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000b18275959482973d1f3da772fc5c19f7f165873436690af483e6db4bb7f18b6cecebbfa95d5697d8cb9fb3d00688792075f4b97ddc28bff27453e0c3d9f64f62a17803f079791a970a12eb3c73c6cf6b789ba0476f424845cb36d321d431db9fcbd8fc7e9543d9836ccdae9f30d25241c8c038ba4df625857ccf105fffdd7dafd837fbd71fbf82fc27bd27addb5fb86ed674068f-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR10915_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>世界一長い５分間</title-name>
+ <title-detail>「世界一長い５分間」のトロフィーセットです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>想い出がいっぱい</name>
+  <detail>すべてのトロフィーを獲得する&#x0a;</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="G" pid="000">
+  <name>末長くおしあわせに</name>
+  <detail>ハル生存・ファズ生存エンドを見る</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="G" pid="000">
+  <name>女神の勇者</name>
+  <detail>ハル死亡・ファズ生存エンドを見る</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="S" pid="000">
+  <name>４分４４秒</name>
+  <detail>ハル生存・ファズ死亡エンドを見る</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>アルバムコンプリート</name>
+  <detail>思い出アルバムが埋まる&#x0a;</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>ともだちの魔学者</name>
+  <detail>RPG Lv.5　クロエに旅立ちのあいさつをする</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>道具屋の息子</name>
+  <detail>RPG Lv.5　ヤナギに旅立ちのあいさつをする&#x0a;&#x0a;</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>おくびょうな忍者</name>
+  <detail>RPG Lv.5　コグレに旅立ちのあいさつをする&#x0a;&#x0a;</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>はじめての冒険</name>
+  <detail>RPG Lv.7　こけむした洞窟を抜ける&#x0a;&#x0a;</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>ややこしヤリ</name>
+  <detail>RPG Lv.7　城の訓練場で起きたもめごとを解決する&#x0a;&#x0a;</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>うっかりなスイーツ</name>
+  <detail>RPG Lv.7　うっかりメイドのわすれものを届ける&#x0a;</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>主を超え海を越え</name>
+  <detail>RPG Lv.13　ガストンベリーに向かうため海峡を渡る&#x0a;&#x0a;</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>配送はつらいよ</name>
+  <detail>RPG Lv.13　港町にいる７人の船乗りにお弁当を配る&#x0a;&#x0a;</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>金持ちの道楽</name>
+  <detail>RPG Lv.13　宿屋にいる金持ちの男のお願いを聞く&#x0a;</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>マグマの狭間から</name>
+  <detail>RPG Lv.20　地獄への入口の最深部へ到達する&#x0a;&#x0a;</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>アイラブドリル</name>
+  <detail>RPG Lv.20　ナラカの作業員に最新型のドリルを届ける&#x0a;&#x0a;</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>小さな探しもの</name>
+  <detail>RPG Lv.20　バニーの落としたピアスを探し出す&#x0a;&#x0a;</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>絶景の邪魔者</name>
+  <detail>RPG Lv.26　ギャラクティカタワーの異常を排除する&#x0a;&#x0a;</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>ミスターシューティング</name>
+  <detail>RPG Lv.26　旅館のゲームコーナーでハイスコアを獲得&#x0a;</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>半裸の頼み</name>
+  <detail>RPG Lv.26　ナラカ男性脱衣所にいる男のお願いを聞く&#x0a;&#x0a;</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>旅路の果て</name>
+  <detail>RPG Lv.28　旅の目的地　ガストンベリーへ到達する&#x0a;</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>名うての博打打ち</name>
+  <detail>RPG Lv.28　カジノのスロットでファイブセブンを獲得&#x0a;&#x0a;&#x0a;</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>いさまし迷子センター</name>
+  <detail>RPG Lv.28　デパートにいる迷子を母の元へ送り届ける&#x0a;&#x0a;&#x0a;</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>ことの顛末</name>
+  <detail>RPG Lv.30　ガストンベリーの様子を王に報告する&#x0a;&#x0a;&#x0a;</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="000">
+  <name>Ｓ級脱獄囚</name>
+  <detail>RPG Lv.34　要塞監獄を脱出する&#x0a;&#x0a;</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>パーフェクトクラッシュ</name>
+  <detail>RPG Lv.34　魔法無力化バリア像をすべて破壊する&#x0a;&#x0a;</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>星屑をかきわけて</name>
+  <detail>RPG Lv.37　星屑島の出口に到達する&#x0a;</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>こころのささえ</name>
+  <detail>RPG Lv.37　汚らしい男に「ぼろぼろのおまもり」を渡す&#x0a;</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="B" pid="000">
+  <name>オーバーザレインボー</name>
+  <detail>RPG Lv.39　ファンクルブリッジを渡る&#x0a;</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="B" pid="000">
+  <name>頂上からの眺め</name>
+  <detail>RPG Lv.43　空裂山の登頂に成功する&#x0a;</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>ささやかな昔話</name>
+  <detail>RPG Lv.43　空裂山の小屋に住む老婆にあいさつをする&#x0a;</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>熱狂的ファンサービス</name>
+  <detail>RPG Lv.43　城の兵士に「アグリアーナのサイン」を渡す&#x0a;</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="B" pid="000">
+  <name>暮らしは水面にゆれる</name>
+  <detail>RPG Lv.47　テンマガハラに到達する&#x0a;</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>おとな恋愛相談室</name>
+  <detail>RPG Lv.47　民家に住む男から恋愛相談を受ける&#x0a;</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="B" pid="000">
+  <name>天高き聖域</name>
+  <detail>RPG Lv.52　女神の祭壇に到達&#x0a;</detail>
+ </trophy>
+ <trophy id="035" hidden="yes" ttype="B" pid="000">
+  <name>闇を切り裂く光</name>
+  <detail>RPG Lv.68　交錯する霧の回廊を踏破する&#x0a;</detail>
+ </trophy>
+ <trophy id="036" hidden="yes" ttype="B" pid="000">
+  <name>託した思い</name>
+  <detail>RPG Lv.62　クロエの祖母の最後の願いを叶える&#x0a;</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>グランダーコジロウ</name>
+  <detail>RPG Lv.62　釣りをしている男の危機を救う&#x0a;</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>クイズ名人</name>
+  <detail>RPG Lv.62　変わりもの借りものクイズに正解する&#x0a;</detail>
+ </trophy>
+ <trophy id="039" hidden="yes" ttype="B" pid="000">
+  <name>緋色の特効薬</name>
+  <detail>RPG Lv.64　デスビーチで「緋色の貝殻」を獲得&#x0a;</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="B" pid="000">
+  <name>ゼニガタ</name>
+  <detail>RPG Lv.64　脱走した囚人を捕まえる&#x0a;</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="B" pid="000">
+  <name>クイズ王</name>
+  <detail>RPG Lv.64　変わりもの借りものクイズ２に正解する&#x0a;</detail>
+ </trophy>
+ <trophy id="042" hidden="yes" ttype="B" pid="000">
+  <name>暗黒調査隊</name>
+  <detail>RPG Lv.66　黒い塔の調査を完了する&#x0a;</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="B" pid="000">
+  <name>知らない王様ゲーム</name>
+  <detail>RPG Lv.66　宿屋に泊まっている王様の無理難題を聞く&#x0a;</detail>
+ </trophy>
+ <trophy id="044" hidden="no" ttype="B" pid="000">
+  <name>クイズの神様</name>
+  <detail>RPG Lv.66　変わりもの借りものクイズ３に正解する&#x0a;</detail>
+ </trophy>
+ <trophy id="045" hidden="yes" ttype="B" pid="000">
+  <name>デイドリームビリーバー</name>
+  <detail>RPG Lv.57　園内で起こったすべての思い出を思い出す&#x0a;</detail>
+ </trophy>
+ <trophy id="046" hidden="no" ttype="B" pid="000">
+  <name>反射神経の塊</name>
+  <detail>RPG Lv.57　アトラクションでハイスコアを叩き出す&#x0a;</detail>
+ </trophy>
+ <trophy id="047" hidden="yes" ttype="B" pid="000">
+  <name>合格通知</name>
+  <detail>RPG Lv.4　勇者選抜試験に合格する&#x0a;</detail>
+ </trophy>
+ <trophy id="048" hidden="yes" ttype="B" pid="000">
+  <name>村人たちの傷</name>
+  <detail>RPG Lv.3　５年前に何があったかを見届ける&#x0a;</detail>
+ </trophy>
+ <trophy id="049" hidden="yes" ttype="B" pid="000">
+  <name>アイルビーバック</name>
+  <detail>RPG Lv.59　バックが立ち直る&#x0a;</detail>
+ </trophy>
+ <trophy id="050" hidden="no" ttype="B" pid="000">
+  <name>完璧な理性のブレーキ</name>
+  <detail>RPG Lv.23　女湯をのぞかない&#x0a;</detail>
+ </trophy>
+ <trophy id="051" hidden="no" ttype="B" pid="000">
+  <name>温泉で足を洗う</name>
+  <detail>RPG Lv.23　リーゼントにのぞきをしないと誓わせる&#x0a;</detail>
+ </trophy>
+ <trophy id="052" hidden="no" ttype="B" pid="000">
+  <name>やぶれたページ</name>
+  <detail>RPG Lv.29　ウバワレンの日記を発見する&#x0a;</detail>
+ </trophy>
+ <trophy id="053" hidden="no" ttype="B" pid="000">
+  <name>エンジェルの伝説</name>
+  <detail>RPG Lv.29　ヨツバと二人で買い出しを完了する&#x0a;</detail>
+ </trophy>
+ <trophy id="054" hidden="no" ttype="B" pid="000">
+  <name>安眠快眠大貧民</name>
+  <detail>RPG Lv.29　今日泊まる場所を確保する&#x0a;</detail>
+ </trophy>
+</trophyconf>

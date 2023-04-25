@@ -1,0 +1,68 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000004d6255ba2dd58c0c5efd7dccfb18ea2f1dfe85893b498536bab46dc5be2976736e64c329e5c90d079a7be5bef9b484faa830fc9bcef6be19f06c467229388c285701e2fd4b8a1e1761d0bab8d1a9e2196957be3bb608e8e2ee3ff90a20df593805b2945132d514762abfaa44aeb6bba96e8bd23a4b0ab4b2af882780e7bcca8dbbf7113517de5f7ae70196d1c923eeefb75079ec-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR08786_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Squares</title-name>
+ <title-detail>Squares trophies.</title-detail>
+ <trophy id="000" hidden="no" ttype="G" pid="-1">
+  <name>Jack of all squares</name>
+  <detail>Finish all levels with 3 Squariness</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="-1">
+  <name>Quadrilateral!</name>
+  <detail>Finish the game</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Halfway there</name>
+  <detail>Beat the first 45 levels</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Square tapper</name>
+  <detail>Tap 500 blue squares</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Tappity tap tap</name>
+  <detail>Tap 1000 blue squares</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Tap much?</name>
+  <detail>Tap 2000 blue squares</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Follow the finger</name>
+  <detail>Swipe 250 squares</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>The right way</name>
+  <detail>Swipe 500 squares</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="-1">
+  <name>Red means lava</name>
+  <detail>Tap 100 red squares</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="-1">
+  <name>Take a deep breath</name>
+  <detail>Lose a single level 25 times in a row</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>Seriously?</name>
+  <detail>Finish a level in under 1 second</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="-1">
+  <name>Winning with style</name>
+  <detail>Get 3 Squariness in a level</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="B" pid="-1">
+  <name>On your last legs</name>
+  <detail>Finish a level in the last tenth of a second</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="-1">
+  <name>Infinite possibilities</name>
+  <detail>Create a level</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="-1">
+  <name>Full circle</name>
+  <detail>Play a level you created</detail>
+ </trophy>
+</trophyconf>

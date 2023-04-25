@@ -1,0 +1,144 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000641bc2149e33007f0c66a62f105896a3aa81da2a1ed1b9c56c5b6f685cebd4c4b37272c51b90b09066f8009282c37d29c9b5adbbb9a776facf8cf1989f54c70eb2ecdca1a6198dceccac6ed8b7c0d6ec2ed747745fa4dff7b1784b1e7e5a40b25049453b925b8f7dc5d23a830bc547f75b9df503d87fd232f7f64b8a0ac5b896edbf916bb554b9b344b69b65492c70efb9ee9aeb-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR05444_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>PlayStation®Vita Pets</title-name>
+ <title-detail>PlayStation®Vita Pets</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Best Friends Forever</name>
+  <detail>Collect all of the trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>Golden Tunic</name>
+  <detail>Find Cosmo's Golden Tunic</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>Beaten the Castle</name>
+  <detail>Solve the final castle puzzle&#x0a;</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>Beaten the Mines</name>
+  <detail>Solve the final mines puzzle</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>Mine Cart Master</name>
+  <detail>Successfully travel all routes around the mine cart ride</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>Beaten the Maze</name>
+  <detail>Solve the final maze puzzle</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>Beaten the Caves</name>
+  <detail>Solve the final caves puzzle</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>Beaten Cemetery Challenge</name>
+  <detail>Solve the cemetery puzzle</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>Activities Professional</name>
+  <detail>Play all of the activities</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>Skills Professional</name>
+  <detail>Learn all of the dog skills to level 3&#x0a;</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>Tricks Professional</name>
+  <detail>Learn all of the tricks</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>Cosmo Collection</name>
+  <detail>Find all of Cosmo's collection</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>Coin Collection</name>
+  <detail>Find all of the King's coins</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>Insignia Collection</name>
+  <detail>Collect all of the King's insignia</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>Buddy Points Expert</name>
+  <detail>Reach 10,000 Buddy Points</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>Buddy Points Professional</name>
+  <detail>Reach 5,000 Buddy Points</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Buddy Points Novice</name>
+  <detail>Reach 1,000 Buddy Points</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Buddy Points</name>
+  <detail>Reach 500 Buddy Points</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>Explorer</name>
+  <detail>Explore the whole map</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Dog Walker</name>
+  <detail>Walk to the castle bridge</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>Fetch Fever</name>
+  <detail>Fetch 20 sticks</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>It’s No Obstacle</name>
+  <detail>Complete the entire obstacle course for the first time</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>Disc Catcher</name>
+  <detail>Catch the flying disc 5 times in the air and in succession</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>Leaper</name>
+  <detail>Jump up 200 times</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>Super Dog</name>
+  <detail>Complete the entire obstacle course wearing the red superhero outfit</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>Mine Cart Mayhem</name>
+  <detail>Finish the mine cart ride wearing Cosmo's jacket</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>Tug-tastic</name>
+  <detail>Tug 30 objects</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>Nose Expert</name>
+  <detail>Sniff 'n' dig in all locations</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>Nose Novice</name>
+  <detail>Sniff 'n' dig up 75 items</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>Sniff Them Out</name>
+  <detail>Sniff 'n' dig up 30 items</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>Bodysuit</name>
+  <detail>Try on a bodysuit for the first time</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>Matching Outfit</name>
+  <detail>Try on a matching outfit for the first time</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>Dressing Up</name>
+  <detail>Try on an item of clothing for the first time</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>Squeaky Clean</name>
+  <detail>Shower for the first time</detail>
+ </trophy>
+</trophyconf>

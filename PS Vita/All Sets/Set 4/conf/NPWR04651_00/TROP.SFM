@@ -1,0 +1,64 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000560265adf12baaa29d3661213a3ce8039fe04ef69600be2545640f16d7307529f6b820d8a2760e3261e30f0e91f2a7396a369546303222aae6c5c6b7875d496c2405bc7535bad76af6bc227c342c9a449457a4869b29faa86c1a4b995c320406abad93f5b5e44ee9af427a081cdd2d2c6d0d73e655a23255f655392f5c9791cadfc954634a0afd7e25e8c1087afc29e53081668e-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR04651_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name> Flower</title-name>
+ <title-detail>Feeling too relaxed?</title-detail>
+ <trophy id="000" hidden="no" ttype="G" pid="-1">
+  <name> Dream</name>
+  <detail>Beyond all flowers lies another room.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="-1">
+  <name> Nature</name>
+  <detail>Bloom 10,000 flowers.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="-1">
+  <name> Urban</name>
+  <detail>Completely awaken the city.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name> Memories</name>
+  <detail>Reminisce for one minute in each dream.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name> Palette</name>
+  <detail>Use the grass as your canvas and paint the ground with three different colors.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name> Wind</name>
+  <detail>Play with the windmills and ride the wind seven times.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name> Illumination</name>
+  <detail>Light a darkened pool.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name> Pure</name>
+  <detail>Journey to the city unscathed.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name> Stars</name>
+  <detail>Release all of the names to the sky.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name> flOw</name>
+  <detail>Life could be simple...</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="-1">
+  <name> Welcome Back</name>
+  <detail>Play the game after a week long break.</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="-1">
+  <name> Healthy Play</name>
+  <detail>Relax for ten minutes in the room between dreams.</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="B" pid="-1">
+  <name> Beginning</name>
+  <detail>The dream has just started...</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="-1">
+  <name> Discovery</name>
+  <detail>Find and bloom a secret flower.</detail>
+ </trophy>
+</trophyconf>

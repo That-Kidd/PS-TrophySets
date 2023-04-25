@@ -1,0 +1,132 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000016b1ea8c051bcebe84a3d7da64d286c8f0d29b07877ad6bd4edbf7a43c0ed680036d47575b8a7a53fb0a76f96682935397980543473615a592630f2c8a2314e2037cb70f158ed082b3739b27c303a025c39eb7360c89434a150d6377e77c7e708d485c0e1b7c227f2578a73ffb579a0cc20dc3212a5132fbc197131ff626260567ab6d6f37a2dddbe9e6b2a825018658ef562cdd-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR12024_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>トラベリングスターズ -Traveling Stars-</title-name>
+ <title-detail>トラベリングスターズ -Traveling Stars-</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>コンプリート！</name>
+  <detail>全てのトロフィーを取得しました。</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="G" pid="000">
+  <name>紗彩ルートクリア</name>
+  <detail>紗彩ルートをクリアしました。</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="G" pid="000">
+  <name>ジルコニアルートクリア</name>
+  <detail>ジルコニアルートをクリアしました。</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="G" pid="000">
+  <name>クロエルートクリア</name>
+  <detail>クロエルートをクリアしました。</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="G" pid="000">
+  <name>フィンルートクリア</name>
+  <detail>フィンルートをクリアしました。</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="G" pid="000">
+  <name>イライザルートクリア</name>
+  <detail>イライザルートをクリアしました。</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="G" pid="000">
+  <name>レアルートクリア</name>
+  <detail>レアルートをクリアしました。</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>パスカルルートクリア</name>
+  <detail>パスカルルートをクリアしました。</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>ベアトリスルートクリア</name>
+  <detail>ベアトリスルートをクリアしました。</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>ミーシャルートクリア</name>
+  <detail>ミーシャルートをクリアしました。</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>紗彩CGコンプリート</name>
+  <detail>紗彩のCGを全て見ました。</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>ジルコニアCGコンプリート</name>
+  <detail>ジルコニアのCGを全て見ました。</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>クロエCGコンプリート</name>
+  <detail>クロエのCGを全て見ました。</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>フィンCGコンプリート</name>
+  <detail>フィンのCGを全て見ました。</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>イライザCGコンプリート</name>
+  <detail>イライザのCGを全て見ました。</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="S" pid="000">
+  <name>レアCGコンプリート</name>
+  <detail>レアのCGを全て見ました。</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>etcCGコンプリート</name>
+  <detail>その他のCGを全て見ました。</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>お宝発見イベントコンプリート</name>
+  <detail>ナイトスクールのお宝発見イベントを全て見ました。</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>小ハプニングイベントコンプリート</name>
+  <detail>ナイトスクールの小ハプニングイベントを全て見ました。</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>紗彩イベントコンプリート</name>
+  <detail>ナイトスクールの紗彩イベントを全て見ました。</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>ジルコニアイベントコンプリート</name>
+  <detail>ナイトスクールのジルコニアイベントを全て見ました。</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>クロエイベントコンプリート</name>
+  <detail>ナイトスクールのクロエイベントを全て見ました。</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>フィンイベントコンプリート</name>
+  <detail>ナイトスクールのフィンイベントを全て見ました。</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>イライザイベントコンプリート</name>
+  <detail>ナイトスクールのイライザイベントを全て見ました。</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>レアイベントコンプリート</name>
+  <detail>ナイトスクールのレアイベントを全て見ました。</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>なかなかやるじゃん！</name>
+  <detail>紗彩に起こしてもらいました</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>おはよ♪</name>
+  <detail>ジルコニアに起こしてもらいました</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>褒めてあげる</name>
+  <detail>クロエに起こしてもらいました</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>成功したみたいですよ</name>
+  <detail>フィンに起こしてもらいました</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>早いお目覚めですわね</name>
+  <detail>イライザに起こしてもらいました</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>感心感心</name>
+  <detail>レアに起こしてもらいました</detail>
+ </trophy>
+</trophyconf>

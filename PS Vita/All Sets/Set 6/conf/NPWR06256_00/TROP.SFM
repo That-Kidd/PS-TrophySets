@@ -1,0 +1,212 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000090ecbcd7f3a368bef91895a1cbb6177f33f7adc60bdcd5c92170260fee77893d0b9d11abe53346866ad9b7fd640a612a73020aaab545698f328e3429df1fd769f3bd0cd8a4930cd39b1e8fdcefb692f30be6277387f72a3d4f03c7e151e47f4208ae390b036efeff3ad59b994eb733cb2e655253a3314f77e6cb4fe0dd0133c0c298e48fa5890d935f42ead60ab0380639b0aa96-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR06256_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>CONCEPTION II Children of the Seven Stars</title-name>
+ <title-detail>The trophy set for CONCEPTION II Children of the Seven Stars.</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>All Trophies</name>
+  <detail>Earned all trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>First-Timer</name>
+  <detail>Defeat a monster for the first time.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Collaborative Effort</name>
+  <detail>Give birth to your first Star Child.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Love Triangle</name>
+  <detail>Experience your first Trimating.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>Fine Fort City</name>
+  <detail>Increase the city's level to 30.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>Perfect Fort City</name>
+  <detail>Increase the city's level to 100.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>Open For Business</name>
+  <detail>Unlock all facilities.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>Maxed Out</name>
+  <detail>Increase all facilities' level to MAX.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>Moneymaker</name>
+  <detail>Amass over 1,000,000G.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>The Basics of RPGs</name>
+  <detail>Check sub-events 30 times.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>The Secret of Bonds</name>
+  <detail>Give gifts to the heroines 30 times.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>Filial Piety</name>
+  <detail>Receive money from your Star Children 30 times.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>City's Biggest Family</name>
+  <detail>Give birth to 20 Star Children.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>World's Biggest Family</name>
+  <detail>Give birth to 100 Star Children.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>Independence Day</name>
+  <detail>Have 10 Star Children go independent.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>Child Labor</name>
+  <detail>Have 100 Star Children go independent.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>Classy Children</name>
+  <detail>Give birth to a Star Child of each class.</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>Conqueror of Lust</name>
+  <detail>Clear the Labyrinth of Lust.</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>Conqueror of Gluttony</name>
+  <detail>Clear the Labyrinth of Gluttony.</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>Conqueror of Greed</name>
+  <detail>Clear the Labyrinth of Greed.</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="000">
+  <name>Conqueror of Sloth</name>
+  <detail>Clear the Labyrinth of Sloth.</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>Conqueror of Wrath</name>
+  <detail>Clear the Labyrinth of Wrath.</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="B" pid="000">
+  <name>Conqueror of Envy</name>
+  <detail>Clear the Labyrinth of Envy.</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>Conqueror of Pride</name>
+  <detail>Clear the Labyrinth of Pride.</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="S" pid="000">
+  <name>Original Sin Smiter</name>
+  <detail>Clear the Pandora Labyrinth.</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="B" pid="000">
+  <name>Vigilant Avenger</name>
+  <detail>Clear all sub-Labyrinths.</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>Monster Hunter</name>
+  <detail>Defeat 100 monsters.</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="S" pid="000">
+  <name>Monster Blaster</name>
+  <detail>Defeat 500 monsters.</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>Monster Killer</name>
+  <detail>Instantly killed monsters 100 times.</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>The Best Defense</name>
+  <detail>Attack a total of 1,000 times.</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>Skill Artist</name>
+  <detail>Use skills a total of 500 times.</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>Mecunite Artist</name>
+  <detail>Mecunite a total of 30 times.</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>Combo Expert</name>
+  <detail>Perform 30 Intercepts.</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>Chain Master</name>
+  <detail>Perform a total of 100 Chains.</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>Group Therapy</name>
+  <detail>Take every heroine into the Labyrinths.</detail>
+ </trophy>
+ <trophy id="035" hidden="yes" ttype="S" pid="000">
+  <name>Memories with Fuuko</name>
+  <detail>View all Fuuko Events.</detail>
+ </trophy>
+ <trophy id="036" hidden="yes" ttype="S" pid="000">
+  <name>Memories with Serina</name>
+  <detail>View all Serina Events.</detail>
+ </trophy>
+ <trophy id="037" hidden="yes" ttype="S" pid="000">
+  <name>Memories with Ellie</name>
+  <detail>View all Ellie Events.</detail>
+ </trophy>
+ <trophy id="038" hidden="yes" ttype="S" pid="000">
+  <name>Memories with Torri</name>
+  <detail>View all Torri Events.</detail>
+ </trophy>
+ <trophy id="039" hidden="yes" ttype="S" pid="000">
+  <name>Memories with Narika</name>
+  <detail>View all Narika Events.</detail>
+ </trophy>
+ <trophy id="040" hidden="yes" ttype="S" pid="000">
+  <name>Memories with Feene</name>
+  <detail>View all Feene Events.</detail>
+ </trophy>
+ <trophy id="041" hidden="yes" ttype="S" pid="000">
+  <name>Memories with Chloe</name>
+  <detail>View all Chloe Events.</detail>
+ </trophy>
+ <trophy id="042" hidden="yes" ttype="B" pid="000">
+  <name>Fuuko's Bond</name>
+  <detail>Clear the Fuuko ending.</detail>
+ </trophy>
+ <trophy id="043" hidden="yes" ttype="B" pid="000">
+  <name>Serina's Bond</name>
+  <detail>Clear the Serina ending.</detail>
+ </trophy>
+ <trophy id="044" hidden="yes" ttype="B" pid="000">
+  <name>Ellie's Bond</name>
+  <detail>Clear the Ellie ending.</detail>
+ </trophy>
+ <trophy id="045" hidden="yes" ttype="B" pid="000">
+  <name>Torri's Bond</name>
+  <detail>Clear the Torri ending.</detail>
+ </trophy>
+ <trophy id="046" hidden="yes" ttype="B" pid="000">
+  <name>Narika's Bond</name>
+  <detail>Clear the Narika ending.</detail>
+ </trophy>
+ <trophy id="047" hidden="yes" ttype="B" pid="000">
+  <name>Feene's Bond</name>
+  <detail>Clear the Feene ending.</detail>
+ </trophy>
+ <trophy id="048" hidden="yes" ttype="B" pid="000">
+  <name>Chloe's Bond</name>
+  <detail>Clear the Chloe ending.</detail>
+ </trophy>
+ <trophy id="049" hidden="yes" ttype="B" pid="000">
+  <name>With Friends</name>
+  <detail>Clear the normal ending.</detail>
+ </trophy>
+ <trophy id="050" hidden="yes" ttype="G" pid="000">
+  <name>This Party Don't Stop</name>
+  <detail>Clear the harem ending.</detail>
+ </trophy>
+</trophyconf>

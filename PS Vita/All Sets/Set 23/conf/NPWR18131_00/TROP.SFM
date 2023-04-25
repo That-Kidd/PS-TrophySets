@@ -1,0 +1,60 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000074c0547a96921888a9a24cfdacc2abebafdb15ba0363621ed2871e50729c0433ceaff60b9baf5cd6e6ea176e71cba355252aea3b779c92976e20c6b51fe1d1965dcb2d214545264b137bcea32f672426e28693504ecf6a44705bcbc691cbe54c9ef8d9a68aeffed8f3ead8026a64ab44b727ccf0cb0ac49bc11ea2dcd94772636c8a0e8e6b2a4a7d63cd6edc4718fa2b5998e05c-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR18131_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Neon Junctions</title-name>
+ <title-detail>Neon Junctions</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Platinum Junction</name>
+  <detail>Get all other trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="000">
+  <name>First Step</name>
+  <detail>Complete the first level</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>Level 7</name>
+  <detail>Complete the seventh level</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>Level 14</name>
+  <detail>Complete the fourteenth level</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>Level 21</name>
+  <detail>Complete the twenty-first level</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>Level 28</name>
+  <detail>Complete the twenty-eighth level</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>Last Step</name>
+  <detail>Complete the game</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>It Was Hard</name>
+  <detail>Spend three minutes to complete one level</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>Speed Run</name>
+  <detail>Finish a level in under 10 seconds</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>The More The Better</name>
+  <detail>Collect 99 cubes</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>Collector</name>
+  <detail>Complete the level with 49 cubes</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>Turn On</name>
+  <detail>Restore electricity</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>Failure</name>
+  <detail>Die</detail>
+ </trophy>
+</trophyconf>

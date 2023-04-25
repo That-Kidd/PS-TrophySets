@@ -1,0 +1,60 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000087ff95a5ab5044f530f9b9a966a783ef06ed0ce4286648501835c0563b2a70fb24d59b0e6ebfccf8aa3c6c8366ff40be45dba5884c73dbe679fbe9dbfef686fc028d872854a42838afc50bdfe5acffbe1ce154e1a4feb653cbbe22537a8dc197e03255b326a7acb60276215c4b20e3de69f07830ebf7ebe0d859195395be72090b05c021577cda41f0889d11bd52fd33f2cf9bcb-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR11678_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>ファタモルガーナの館</title-name>
+ <title-detail>ファタモルガーナの館のトロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>ファタモルガーナの館</name>
+  <detail>全てのトロフィーを獲得した</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="G" pid="000">
+  <name>それぞれの道へ</name>
+  <detail>グランドエンディングを見た</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="G" pid="000">
+  <name>魂の世界</name>
+  <detail>Fragmentを見た</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="G" pid="000">
+  <name>アセントデリ</name>
+  <detail>アセントデリを見た</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="G" pid="000">
+  <name>Ａｆｔｅｒ Ｈａｐｐｙ Ｅｎｄ</name>
+  <detail>Ａｆｔｅｒ Ｈａｐｐｙ Ｅｎｄを見た</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="G" pid="000">
+  <name>そして零に至る</name>
+  <detail>A Requiem for Innocenceを見た</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="G" pid="000">
+  <name>魔女の終わりなき日常</name>
+  <detail>プロローグを見た</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="G" pid="000">
+  <name>「あなた」の歩んだ道筋</name>
+  <detail>本編のエンディングを全て見た</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>館の記憶</name>
+  <detail>ＣＧを全てオープンした</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>追想の刻</name>
+  <detail>Musicを全てオープンした</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>滅びゆく物語に</name>
+  <detail>Short storyを全て読破した</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>この世界に光を</name>
+  <detail>真相ルートをクリアした</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>呪われた館への道標</name>
+  <detail>はじまり</detail>
+ </trophy>
+</trophyconf>

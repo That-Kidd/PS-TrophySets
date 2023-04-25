@@ -1,0 +1,172 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000b217c002cb504abfb69cfca8b4d2e1df4a2c9b4eabacd463cddc606209852e571c646d067544a2603c109420a520f5278bfee1d62c15d970f77619386c81465761deb7606cdcf8c0cb094c5ba844beb4d55b056b3cd1fb3cf1bac7f9e7a07b7d8ae703996986ddc8f06b149823d204b88987ce3cf4308c16b08d9190298743eebe5a7e25997797d9a9e970efac6a08a43a0fb196-->
+<trophyconf version="1.1" platform="psp2">
+ <npcommid>NPWR02983_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>LEGO® Harry Potter™: Años 5-7</title-name>
+ <title-detail>Los trofeos para LEGO® Harry Potter™: Años 5-7</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>¡Listo!</name>
+  <detail>Consigue todos los trofeos.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Campeón de duelo en la categoría de alumnos</name>
+  <detail>Vence a todos los duelistas en la categoría los alumnos.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Campeón de duelo en la categoría abierta</name>
+  <detail>Vence a todos los duelistas en la categoría abierta.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Campeón de duelo en la categoría el Ejército de Dumbledore</name>
+  <detail>Vence a todos los duelistas en la categoría el Ejército de Dumbledore.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>Campeón de duelo en la categoría el personal de Hogwarts</name>
+  <detail>Vence a todos los duelistas en la categoría el personal de Hogwarts.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>Campeón de duelo en la categoría la Orden del Fénix</name>
+  <detail>Vence a todos los duelistas en la categoría la Orden del Fénix.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>Campeón de duelo en la categoría el Ministerio de Magia</name>
+  <detail>Vence a todos los duelistas en la categoría el Ministerio de Magia.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>Campeón de duelo en la categoría los mortífagos</name>
+  <detail>Vence a todos los duelistas en la categoría los mortífagos.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>Campeón de duelo en la categoría de bonificación</name>
+  <detail>Vence a todos los duelistas en la categoría de bonificación.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>Maestro del duelo</name>
+  <detail>Vence a todos los duelistas en cada categoría.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>Fin</name>
+  <detail>Completa el juego al 100%.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>La Orden del Fénix - Trofeo</name>
+  <detail>Completa la Orden del Fénix.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>El Príncipe Mestizo - Trofeo</name>
+  <detail>Completa el Príncipe Mestizo.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>Las Reliquias de la Muerte Parte 1 - Trofeo</name>
+  <detail>Completa las Reliquias de la Muerte - Parte 1.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>Las Reliquias de la Muerte Parte 2 - Trofeo</name>
+  <detail>Completa las Reliquias de la Muerte - Parte 2.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>¡Amurallado!</name>
+  <detail>Recoge todos los ladrillos rojos.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>Colección completa</name>
+  <detail>Recoge todos los personajes.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Maestro del encantamiento escudo</name>
+  <detail>Acaba un duelo en el club de duelo sin ser herido.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>El mejor ataque es una buena defensa</name>
+  <detail>Solo utiliza Protego durante un duelo en el club de duelo.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="G" pid="000">
+  <name>Vamos, hay que comportarse como caballeros</name>
+  <detail>Vence a Voldemort sin ser herido.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>¡He dicho que te inclines!</name>
+  <detail>Con Voldemort, vence a Harry Potter en el club de duelo.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>Galeones</name>
+  <detail>Recoge 10.000.000 piezas.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>¡Knuts!</name>
+  <detail>Recoge 100.000.000 piezas.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>Conoce a tu enemigo</name>
+  <detail>Vence a uno de cada enemigo.</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>Criatura confundida</name>
+  <detail>Haz que una criatura enemiga ataque a otra.</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>Ciego como un basilisco</name>
+  <detail>Ciega a cualquier criatura enemiga.</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="S" pid="000">
+  <name>Equipado</name>
+  <detail>Recoge todos los minikits.</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>¡Bájame!</name>
+  <detail>Lanza Levicorpus a un enemigo.</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="S" pid="000">
+  <name>Bellatrix vencida</name>
+  <detail>Con Molly Weasley, vence a Bellatrix en la Batalla Final sin ser herido.</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>Un plato que se come frío</name>
+  <detail>Con Sirius, vence a Bellatrix en el club de duelo.</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>La confusión de Kreacher</name>
+  <detail>Lanza Confundo hacia Kreacher en Grimmauld Place.</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>Recreo</name>
+  <detail>Diviértete en el patio de recreo.</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>Muy auténtico</name>
+  <detail>Consigue un total de piezas Mago auténtico.</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>Caer en pedazos</name>
+  <detail>No logres en poner las piezas del rompecabezas después de seis intentos.</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>El enemigo interior</name>
+  <detail>Con un mortífago, lanza un hechizo a cualquier personaje en el centro Hogwarts.</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>Transformación</name>
+  <detail>Crea a tu propio personaje en personalizar personajes.</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="S" pid="000">
+  <name>Bien hecho Draco</name>
+  <detail>Con Draco, vence a Dumbledore en el club de duelo.</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="S" pid="000">
+  <name>Vencer a los padres</name>
+  <detail>Con un personaje personalizado, vence a Lily y James Potter en el club de duelo.</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>¡Te sienta bien!</name>
+  <detail>Con Voldemort (Traje), vence a Arthur Weasley (Traje) en el club de duelo.</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="S" pid="000">
+  <name>Los Inferi son inferiores</name>
+  <detail>Haz que los Inferi se destruyan los unos a los otros en la Cueva.</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="S" pid="000">
+  <name>La discoteca de Draco</name>
+  <detail>Con Draco Malfoy, lanza Tarantallegra a otro personaje.</detail>
+ </trophy>
+</trophyconf>

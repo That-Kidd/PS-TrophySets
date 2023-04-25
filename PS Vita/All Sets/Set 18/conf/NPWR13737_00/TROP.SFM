@@ -1,0 +1,116 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000346cf1cf78ae3059070846e8be66f88b812d9bf770180c9149f2850cbbc3b543fa580e5a5c633d10fbc4a6887b4f9190abbcfd893d00de991a89d1d9cde1717c5490ac407aef23b65783c51bacd428a406ea1aca6d15dfca018db14721619793a67f05ba9f585e8121d66bfc33099e5c77098d017501edd62ec994bdcf22316ed5dcb2c404eb7a6444d05f66b3ef9d2d47508eef-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR13737_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>学園CLUB ～ヒミツのナイトクラブ～</title-name>
+ <title-detail>学園CLUB ～ヒミツのナイトクラブ～ トロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>～ヒミツのナイトクラブ～</name>
+  <detail>全てのトロフィーを取得しました</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>CGコンプリート</name>
+  <detail>全てのCGを取得しました</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>BGM鑑賞コンプリート</name>
+  <detail>全てのBGMを取得しました</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>回想コンプリート</name>
+  <detail>全てのシーン回想を取得しました</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>プロフィールコンプリート</name>
+  <detail>プロフィールのおまけをすべて取得しました</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>エンディングコンプリート</name>
+  <detail>エンディングを全て見ました</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>後日談コンプリート</name>
+  <detail>各キャラクターの後日談を全て見ました</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>Special Storyコンプリート</name>
+  <detail>各キャラクターのSpecial Storyを全て見ました</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>プロローグクリア</name>
+  <detail>プロローグを見ました</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>朝陽エンドコンプリート</name>
+  <detail>朝陽のエンディングを全て見ました</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>冬舞エンドコンプリート</name>
+  <detail>冬舞のエンディングを全て見ました</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>朔エンドコンプリート</name>
+  <detail>朔のエンディングを全て見ました</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>航エンドコンプリート</name>
+  <detail>航のエンディングを全て見ました</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>蓮司エンドコンプリート</name>
+  <detail>蓮司のエンディングを全て見ました</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>優夜エンドコンプリート</name>
+  <detail>優夜のエンディングを全て見ました</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>朝陽・ノーマルエンドクリア</name>
+  <detail>もっと朝陽くんの気持ちを支えてあげられていたら、何かが変わっていたのかもしれない。</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>朝陽・ハッピーエンドクリア</name>
+  <detail>「オレは君と未来を約束したい」</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>冬舞・ノーマルエンドクリア</name>
+  <detail>学園を去った彼は、今もどこかで舞台に立つ準備をしているに違いない。わたしはそう信じ、いつまでも待っていようと思う。</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>冬舞・ハッピーエンドクリア</name>
+  <detail>「これからも一緒に行こう。何があっても僕は諦めないから、君に見ていてもらいたい」</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>朔・ノーマルエンドクリア</name>
+  <detail>いつか、彼にお帰りなさいを言える日までわたしは待ち続ける。どれだけかかるか分からないけれど、彼との約束を果たす為に。</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="000">
+  <name>朔・ハッピーエンドクリア</name>
+  <detail>「色々な事はあったけれど……俺の進んで来た道は、“ほんとうの幸福に近づく一足ずつ”になってきていたんですね」</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>航・ノーマルエンドクリア</name>
+  <detail>遠くの方から小さく、航くんの声が聞こえた気がした。</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="B" pid="000">
+  <name>航・ハッピーエンドクリア</name>
+  <detail>「絶対に離れたくない。悲しい顔をさせたくない。もう他の事が考えられないくらい……大好きなんだ──」</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>蓮司・ノーマルエンドクリア</name>
+  <detail>（何度繰り返し言葉にしても、この想いが届く事はないんだ）</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="000">
+  <name>蓮司・ハッピーエンドクリア</name>
+  <detail>「そんな君だから、俺は君のことを好きになったんだろうな」</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="B" pid="000">
+  <name>優夜・ノーマルエンドクリア</name>
+  <detail>──わたしも好きです。そう言って先輩を抱きしめ返したかった。</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>優夜・ハッピーエンドクリア</name>
+  <detail>「実は、昔から夢があってさ……オレ、一番大切な人と、幸せな家族を作りたいんだ。その夢、一緒に叶えてもらえませんか？」</detail>
+ </trophy>
+</trophyconf>

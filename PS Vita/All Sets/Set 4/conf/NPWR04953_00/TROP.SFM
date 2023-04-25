@@ -1,0 +1,212 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000097a64e3381dc56989ecbbc2c5e77f5c09f4bb58901aefc564df54af2e3c4dfe91acc135561702a0804a5a2d8f4b2b5ee98f95f8b5ffd652f594ab59158391bc80547ad2a7610cdb3bb02f8ee32257a25d983108e131dd37f65450f0e5ded4c05b01488ad6bfc37f4af09b3198a61dbbee10b7243f5e15329b3e5bfc2c50512526f1d2512be79ab333fd1b55ee53f94d6589349e3-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR04953_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>魔界戦記ディスガイア４ Return</title-name>
+ <title-detail>魔界戦記ディスガイア４ Returnのトロフィーセットです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>日本一のやり込み派</name>
+  <detail>条件：全てのトロフィーを獲得する</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>これが、イワシのチカラだ！</name>
+  <detail>条件：戦闘で１００億を超えるダメージを叩き出す</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="G" pid="000">
+  <name>本気を出した超魔王</name>
+  <detail>条件：修羅の国で「超魔王バール」を撃破する&#x0a;&#x0a;「このトロフィーを入手した君に&#x0a;　超魔王の称号を贈ります」</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>アイテムコレクター</name>
+  <detail>条件：全種類のアイテムを集める</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>界賊キング</name>
+  <detail>条件：全ての界賊船パーツを集める</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>魔界職業安定所</name>
+  <detail>条件：全種族全ランクのキャラクターを作成可能にする</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>お気に入りの技を見つけよう！</name>
+  <detail>条件：全ての特殊技を見る</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>裏面制覇認定状</name>
+  <detail>条件：全ての裏面をクリアする&#x0a;&#x0a;「あなたは全ての裏面を制覇したので&#x0a;　これを賞します」</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>さらば、プリニガーＸ・轟！</name>
+  <detail>条件：修羅の国で「プリニガーＸ・轟」を撃破する&#x0a;&#x0a;「そして帰ってきた、プリニガーＺ！」</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>『魔界戦記ディスガイア４ Return』へようこそ！</name>
+  <detail>条件：オープニングアニメを最後まで見る</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="000">
+  <name>第１話クリア：「アバドン」撃破！</name>
+  <detail>条件：第１話「地獄の反逆者」をクリアする</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>第２話クリア：「プリニー殲滅部隊」殲滅！</name>
+  <detail>条件：第２話「プリニー・ウォーズ」をクリアする</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="B" pid="000">
+  <name>第３話クリア：新党「地獄」発足！</name>
+  <detail>条件：第３話「最終兵器、現る」をクリアする</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="000">
+  <name>第４話クリア：「魔界下層区」制圧！</name>
+  <detail>条件：第４話「エミーゼルの死」をクリアする</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="B" pid="000">
+  <name>第５話クリア：「魔界中層区」制圧！</name>
+  <detail>条件：第５話「強欲の天使」をクリアする</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>第６話クリア：「魔界上層区」制圧！</name>
+  <detail>条件：第６話「Ａウィルスハザード」をクリアする</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>第７話クリア：「大統領府」制圧！</name>
+  <detail>条件：第７話「決戦！　暴君ｖｓ魔界大統領」をクリアする</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>第８話クリア：「人間界」制圧！</name>
+  <detail>条件：第８話「大決戦！　ラスボスｖｓラスボス」をクリアする</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>第９話クリア：「月」制圧！</name>
+  <detail>条件：第９話「最終決戦！　月と地球と約束と！！」をクリアする</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>最終話クリア：「世界」制圧！</name>
+  <detail>条件：本編を全てクリアし後日談へ入る</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>超越せし者たちの世界</name>
+  <detail>条件：修羅の国へ航海して後悔する</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>エピローグ：すべては、我が主のために</name>
+  <detail>条件：「フェンリッヒ」とのエピローグを見る&#x0a;&#x0a;「すべては、我が主のために」</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="B" pid="000">
+  <name>エピローグ：アタシ専用のヴァルっち</name>
+  <detail>条件：「フーカ」とのエピローグを見る&#x0a;&#x0a;「いでよ鉄の怪鳥！！」</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>エピローグ：おにいさまといっしょ</name>
+  <detail>条件：「デスコ」とのエピローグを見る&#x0a;&#x0a;「愚民どもよ……跪き、称え、崇めよ！&#x0a;　我はデスコ！！」</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="000">
+  <name>エピローグ：魔界大統領になる日まで</name>
+  <detail>条件：「エミーゼル」とのエピローグを見る&#x0a;&#x0a;「宵闇に漂う魂の使者よ。&#x0a;　遷ろう世の理を示せ！」</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="B" pid="000">
+  <name>エピローグ：わたくしの吸血鬼さん</name>
+  <detail>条件：「アルティナ」とのエピローグを見る&#x0a;&#x0a;「我らが慈母の荘厳なる光をもって、&#x0a;　渦巻く魔性を清純なる真相へと導け」</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>エピローグ：終わらない神との戦い</name>
+  <detail>条件：神（自称）との戦いに勝利する&#x0a;&#x0a;「焔獄に囚われし魔神よ。&#x0a;　我が命に従い、悪辣なる異形を現せ」</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="B" pid="000">
+  <name>暴君ヴァルバトーゼ編：主従の絆</name>
+  <detail>条件：暴君ヴァルバトーゼ編をクリアする&#x0a;&#x0a;「焔獄に囚われし魔神よ。&#x0a;　混沌なる魂に、仮初めの自由を！」</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="B" pid="000">
+  <name>フーカ＆デスコ編：姉妹の絆</name>
+  <detail>条件：フーカ＆デスコ編をクリアする&#x0a;&#x0a;「ファイナル・フォーメーション！&#x0a;　ウィー・アー・トライエンジェル！」</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="B" pid="000">
+  <name>魔界オールスターバトル：魔界を統べる権利</name>
+  <detail>条件：魔界一武闘会で優勝する&#x0a;&#x0a;「わたくしにも、かっこいいセリフが&#x0a;　欲しいですねぇ」</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="B" pid="000">
+  <name>タイムリープ編：４００年越しの再会</name>
+  <detail>条件：タイムリープ編をクリアする&#x0a;&#x0a;「我が声に応えし、勇敢なる戦士よ。&#x0a;　闇夜裂き、天を断つ剣となりて、&#x0a;　我が怨敵を打ち砕け！」</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="B" pid="000">
+  <name>後日談：真のダークヒーロー</name>
+  <detail>条件：後日談にて「アクターレ」を倒し仲間にする&#x0a;&#x0a;「アクターレ、&#x0a;　オンステェエエエエエジッ！！」</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="B" pid="000">
+  <name>後日談：愛マニア・フロン</name>
+  <detail>条件：後日談にて「天使長フロン」を倒し仲間にする&#x0a;&#x0a;「百鬼夜行をブッ飛ばす！！&#x0a;　正義の守護者ジャスティスフロン！」</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="B" pid="000">
+  <name>後日談：学園一の不良</name>
+  <detail>条件：後日談にて「ラズベリル」を倒し仲間にする&#x0a;&#x0a;「アタイに個人授業してもらいたい&#x0a;　優等生はどいつだい？」</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="B" pid="000">
+  <name>後日談：ナイスバディな美少女</name>
+  <detail>条件：後日談にて「エトナ」を倒し仲間にする&#x0a;&#x0a;「あたしのダイナマイトボディで&#x0a;　あんたたちを魅了してあげるわ！」</detail>
+ </trophy>
+ <trophy id="035" hidden="yes" ttype="B" pid="000">
+  <name>後日談：魔王</name>
+  <detail>条件：後日談にて「ラハール」を倒し仲間にする&#x0a;&#x0a;「この魔王ラハール様の力を&#x0a;　思い知るが良い！！」</detail>
+ </trophy>
+ <trophy id="036" hidden="yes" ttype="B" pid="000">
+  <name>後日談：騒動の終局</name>
+  <detail>条件：後日談にて「アサギ」を倒し仲間にする&#x0a;&#x0a;「このスーパーミラクルヒロイン&#x0a;　アサギ様の本気、&#x0a;　見せてあげるんだから！」</detail>
+ </trophy>
+ <trophy id="037" hidden="yes" ttype="B" pid="000">
+  <name>後日談：第３８代地球勇者</name>
+  <detail>条件：後日談にて「プリニーカーチス」を倒し仲間にする&#x0a;&#x0a;「マッハ５のスピードに&#x0a;　ついてこられるかな？」</detail>
+ </trophy>
+ <trophy id="038" hidden="yes" ttype="B" pid="000">
+  <name>後日談：宇宙最強の魔王</name>
+  <detail>条件：後日談にて「ゼタ」を倒し仲間にする&#x0a;&#x0a;「シミュレーションＲＰＧの何たるかを&#x0a;　教えてくれるわ！！」</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="000">
+  <name>再教育してやる！</name>
+  <detail>条件：敵を捕獲する</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="B" pid="000">
+  <name>イワシパワー不足</name>
+  <detail>条件：戦闘で全滅する</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="B" pid="000">
+  <name>由緒正しき悪魔のやり方</name>
+  <detail>条件：議会を３回「力ずくで解決」する</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="B" pid="000">
+  <name>誘爆の達人</name>
+  <detail>条件：プリニー爆発を１０連鎖させる</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="B" pid="000">
+  <name>わたしのヘソクリ、知りません？</name>
+  <detail>条件：各話で拠点に置かれる宝箱を全て入手する</detail>
+ </trophy>
+ <trophy id="044" hidden="no" ttype="B" pid="000">
+  <name>アイテム界にももう慣れた？</name>
+  <detail>条件：アイテム界を合計３０フロアクリアする</detail>
+ </trophy>
+ <trophy id="045" hidden="no" ttype="B" pid="000">
+  <name>最高のサービスをお届けします</name>
+  <detail>条件：ローゼンクイーン商会のお得意様ランクを最大まで上げる</detail>
+ </trophy>
+ <trophy id="046" hidden="no" ttype="B" pid="000">
+  <name>これが、誇り高き悪魔の力だ！</name>
+  <detail>条件：戦闘で１０万を超えるダメージを出す</detail>
+ </trophy>
+ <trophy id="047" hidden="no" ttype="B" pid="000">
+  <name>ストレス解消</name>
+  <detail>条件：戦闘でアクターレ像を破壊する</detail>
+ </trophy>
+ <trophy id="048" hidden="no" ttype="B" pid="000">
+  <name>光輝く武具</name>
+  <detail>条件：アイテムレベルを最大まで上げる</detail>
+ </trophy>
+ <trophy id="049" hidden="no" ttype="B" pid="000">
+  <name>熱狂的指導官</name>
+  <detail>条件：教育的指導を１００回行う</detail>
+ </trophy>
+ <trophy id="050" hidden="no" ttype="B" pid="000">
+  <name>銭が好き</name>
+  <detail>条件：所持金が１億ＨＬを超える</detail>
+ </trophy>
+</trophyconf>

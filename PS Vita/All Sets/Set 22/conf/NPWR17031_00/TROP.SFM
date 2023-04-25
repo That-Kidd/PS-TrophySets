@@ -1,0 +1,76 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000003ec4292f616e3f81f5d25e1f92c43e8bf6ec6b635e43dde3183b053583e09134f0b8afb0a93ba7500dabf857c3c2c938899f9bb1ebea799581ea9f2aa4bd527b79e7e4ccf15a1c3b6a6d61a2104afa021c682ffb0555639eb0ec19db26fe8ee6da0f8c6f9b4097fb384edb7d53510e1f97bf9af92c34737338335661ff7c324b887e684d31338440df31483db2aa535c6356530e-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR17031_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Drowning</title-name>
+ <title-detail>Drowning</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Drowning Platinum</name>
+  <detail>Good job! Completed all tasks!</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>Finish The Game</name>
+  <detail>Finish the game's main ending</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>Secret Ending 1</name>
+  <detail>Finish the first secret ending</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>Secret Ending 2</name>
+  <detail>Finish the second secret ending</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>Secret Ending 3</name>
+  <detail>Finish the third secret ending</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>All Endings Complete</name>
+  <detail>Find and complete all the game endings</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>New Game</name>
+  <detail>Start a new game for the first time</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>Time To Cool Off</name>
+  <detail>Try and swim in the pond in year 8</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>Don't Fall Off!</name>
+  <detail>Try to fall off the bridge 10 times in year 11</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>Rock Climber</name>
+  <detail>Try to climb the large rock at the beginning of year 12</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>Mountain Goat</name>
+  <detail>Try to climb the hill in the dark forest</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>Gift Box</name>
+  <detail>Find the secret gift box</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>Snowman</name>
+  <detail>Find the secret snowman</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="000">
+  <name>Candle</name>
+  <detail>Find the secret candle</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="000">
+  <name>Candy</name>
+  <detail>Find the secret candy</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="G" pid="000">
+  <name>Christmas Tree</name>
+  <detail>Find the secret ball on the Christmas tree</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="G" pid="000">
+  <name>Sock</name>
+  <detail>Find the secret sock</detail>
+ </trophy>
+</trophyconf>

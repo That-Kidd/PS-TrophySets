@@ -1,0 +1,176 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000007df0c4c4ccb26098f1f499254473070e1926921485a8b471efbae428f068fdacc593dac13b13e9e65badb6b64448c905628c6e25baa11540773c29263ea9d0beae12e71ec33aab54a0b8137aa95a79397a695e9562ba0f7b5e2fe18f93a91f98e3e679e195b78d32ebce4cd1d86b7d2ea7396e4e839024d5a4a1cef0dcc8c2ee0c6ff152036f1d43f1e8a1389cd75bf661daed3a-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR04858_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>三國志12 with パワーアップキット</title-name>
+ <title-detail>三國志12 with パワーアップキットトロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>完全制覇</name>
+  <detail>全てのトロフィーを獲得した証</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>歴史の創造主</name>
+  <detail>全てのシナリオをクリアした証</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>中華を統べる者</name>
+  <detail>武将名鑑をコンプリートした証</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>最強の軍師</name>
+  <detail>軍師制覇の全ステージをクリアした証</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>軍略を極めし者</name>
+  <detail>全種類の秘策を発動させた証</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>天下無双の大将軍</name>
+  <detail>部隊撃破数が２００回に達した証</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>「漢朝騒乱」</name>
+  <detail>シナリオ「漢朝騒乱」をクリアした証</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>「赤壁の戦い」</name>
+  <detail>シナリオ「赤壁の戦い」をクリアした証</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>「五路侵攻戦」</name>
+  <detail>シナリオ「五路侵攻戦」をクリアした証</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>「第一次北伐」</name>
+  <detail>シナリオ「第一次北伐」をクリアした証</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>「覇王袁紹」</name>
+  <detail>シナリオ「覇王袁紹」をクリアした証</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>「皇帝袁術」</name>
+  <detail>シナリオ「皇帝袁術」をクリアした証</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>都市開発の達人</name>
+  <detail>都市技術を全て開発した証</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>結束の証言者</name>
+  <detail>イベント「五大将軍」を見た証</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>託されし英雄</name>
+  <detail>勢力の総兵力が１００万に達した証</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>常勝将軍</name>
+  <detail>戦闘勝利数が２０回に達した証</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>万夫不当の豪傑</name>
+  <detail>部隊撃破数が１００回に達した証</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>不世出の論客</name>
+  <detail>外交で技法を獲得した証</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>王者の風格</name>
+  <detail>勧告を成功させた証</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>兵家の才覚</name>
+  <detail>秘策発動数が３０回に達した証</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>工匠の極</name>
+  <detail>技法をＬｖ５まで研究した証</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>小覇王</name>
+  <detail>敵勢力を攻め滅ぼした証</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>歴戦の将軍</name>
+  <detail>部隊撃破数が５０回に達した証</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>将才の片燐</name>
+  <detail>戦闘に勝利した証</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>王佐の才</name>
+  <detail>武将を抜擢した証</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>軍師入門</name>
+  <detail>献策を成功させた証</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>策士入門</name>
+  <detail>秘策を発動させた証</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>学者入門</name>
+  <detail>技法を研究した証</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>武人の誉れ</name>
+  <detail>ユーザー自身で一騎討ちに勝利した証</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>能臣の素質</name>
+  <detail>陳情を達成した証</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>施政者の素質</name>
+  <detail>施設を増築した証</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>将軍候補生</name>
+  <detail>戦闘演習をクリアした証</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>重装部隊の将</name>
+  <detail>重装を初めて生産した証</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>大盾隊の将</name>
+  <detail>大盾を初めて生産した証</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>戦車隊の将</name>
+  <detail>戦車を初めて生産した証</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>虎豹騎の将</name>
+  <detail>虎鎧を初めて生産した証</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>連弩隊の将</name>
+  <detail>連弩を初めて生産した証</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>国境の勇将</name>
+  <detail>異民族を初めて討伐した証</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>近攻外交の使者</name>
+  <detail>異民族に初めて要請を依頼した証</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="000">
+  <name>軍師見習い</name>
+  <detail>軍師制覇を初めてクリアした証</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="B" pid="000">
+  <name>弓将の証言者</name>
+  <detail>イベント「定軍山の戦い」を見た証</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="B" pid="000">
+  <name>虚栄の証言者</name>
+  <detail>イベント「匡亭の戦い」を見た証</detail>
+ </trophy>
+</trophyconf>

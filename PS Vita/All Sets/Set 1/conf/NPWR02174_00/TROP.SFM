@@ -1,0 +1,60 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000b4d0f2e6cc2d928733028f4db5878bfa9e5a26376285546188e2dda8a42d2bcfb9b52da26777474d697840e744f139578dcb413d4f66b251d6619efbe9816574e0ad2d4fbcd8f825ef56b73c7684b8bbd08e73b0be56f0e213742edc26a042e412971323adb009cbb409e24c92f1840beebbdb749c6cf9b2a85d4eb4a7f6f091b1c61c19b6592ed3414f2b269d73948077b9d55b-->
+<trophyconf version="1.1" platform="psp2">
+ <npcommid>NPWR02174_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Welcome Park</title-name>
+ <title-detail>Why not give it a try?</title-detail>
+ <trophy id="000" hidden="no" ttype="G" pid="-1">
+  <name>Welcome Park Master!</name>
+  <detail>Collect all trophies in Welcome Park.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="-1">
+  <name>Welcome Park Prize</name>
+  <detail>Play through all the tutorials in Welcome Park.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Digit Chase Prize</name>
+  <detail>Complete Digit Chase in 1 minute or under.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Digit Chase Tap Prize</name>
+  <detail>Complete Digit Chase Tap Stage in 30 seconds or under.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Digit Chase Flick and Drag Prize</name>
+  <detail>Complete Digit Chase Flick and Drag Stage 20 seconds or under.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Digit Chase Rear Touch Panel Prize</name>
+  <detail>Complete Digit Chase Rear Touch Panel Stage in 20 seconds or under.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Snap + Slide 15 Piece Prize</name>
+  <detail>Complete a Snap + Slide puzzle with 15 pieces in 50 seconds or under.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Snap + Slide 14 Piece Prize</name>
+  <detail>Complete a Snap + Slide puzzle with 14 pieces in 40 seconds or under.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Snap + Slide 8 Piece Prize</name>
+  <detail>Complete a Snap + Slide puzzle with 8 pieces in 30 seconds or under.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>Snap + Slide 7 Piece Prize</name>
+  <detail>Complete a Snap + Slide puzzle with 7 pieces in 20 seconds or under.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>Skate Axis Prize</name>
+  <detail>Get 500 points in Skate Axis.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="-1">
+  <name>Sound Loop Prize</name>
+  <detail>Create 20 Sound Balls in Sound Loop.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="-1">
+  <name>Hello Face Prize</name>
+  <detail>Use Hello Face to bring 3 faces to life.</detail>
+ </trophy>
+</trophyconf>

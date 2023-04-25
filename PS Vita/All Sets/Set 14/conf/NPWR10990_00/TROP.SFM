@@ -1,0 +1,184 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000033822d220e08fa6a67a499c22a97cffa98ee91ba22dbbad15125f5eaf31a838e52733b3615c43ddc5cbca91b64f61fdecdfff9bfd5bb7902ede2b8cc676a32bdaeb2d018bf140249535ec033d1b568f689ea4381878e72051c46082441c5a9dd82bcf1983934a8c01569f9bc42a317460213a1213b0c83c92ca1a4b0c539443372b27ced2565e6259a1555e3800fe4e789aa6a22-->
+<trophyconf version="1.1" platform="ps3,psp2,ps4" policy="large">
+ <npcommid>NPWR10990_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>真・三國無双 英傑伝</title-name>
+ <title-detail>真･三國無双 英傑伝のトロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>英傑伝</name>
+  <detail>すべてのトロフィーを獲得した</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="G" pid="000">
+  <name>志を受け継ぎ、未来へ紡ぐ者</name>
+  <detail>２周目の物語をクリアした</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="G" pid="000">
+  <name>人生行路</name>
+  <detail>すべての武将の天絆鏡イベントを再生した</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="G" pid="000">
+  <name>天衣無縫</name>
+  <detail>すべての武将の八卦泉を埋めた</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="S" pid="000">
+  <name>神算鬼謀</name>
+  <detail>１ターンで「共鳴」を３回発動した</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="S" pid="000">
+  <name>一身是胆</name>
+  <detail>趙雲が累計１０００ユニット撃破した</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="000">
+  <name>一騎当千</name>
+  <detail>単独で出陣して２０ユニット以上撃破した</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>堆金積玉</name>
+  <detail>所持金が１００００００以上になった</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>武器蒐集</name>
+  <detail>すべての武器を手に入れた</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>道具蒐集</name>
+  <detail>すべてのアイテムを手に入れた</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>千軍万馬</name>
+  <detail>ユニット１人のレベルが最大になった</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>百戦錬磨</name>
+  <detail>すべてのフリー戦闘をクリアした</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>一網打尽</name>
+  <detail>共鳴中、一度に１５ユニット以上撃破した</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>百花繚乱</name>
+  <detail>５つの異なるタイプのユニットで共鳴した</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>電光石火</name>
+  <detail>戦闘に１ターンで勝利した</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="S" pid="000">
+  <name>画竜点睛</name>
+  <detail>共鳴乱舞のダメージボーナスが１００％になった</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>常山より夜は明ける</name>
+  <detail>第１章をクリアした</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>洛陽は焦土と化す</name>
+  <detail>第２章をクリアした</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>徐州に未練を残し</name>
+  <detail>第３章をクリアした</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>下邳は獣の手中に</name>
+  <detail>第４章をクリアした</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="000">
+  <name>下邳城を制す土と水</name>
+  <detail>第５章をクリアした</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>江東に若き虎は駆ける</name>
+  <detail>第６章をクリアした</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="B" pid="000">
+  <name>新野より仁は再出発す</name>
+  <detail>第７章をクリアした</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>赤壁に揃った四つの力</name>
+  <detail>第８章をクリアした</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="000">
+  <name>成都を包む悪しき霧</name>
+  <detail>第９章をクリアした</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="B" pid="000">
+  <name>世界は終わり、世界は始まる</name>
+  <detail>第１０章をクリアした</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>獅子奮迅</name>
+  <detail>「共鳴」を発動した</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="B" pid="000">
+  <name>急速充電</name>
+  <detail>１ターンで「共鳴」を２回発動した</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="B" pid="000">
+  <name>日進月歩</name>
+  <detail>EX攻撃を使用した</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="B" pid="000">
+  <name>金城鉄壁</name>
+  <detail>５人が「防御」をしてターン終了した</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="B" pid="000">
+  <name>運命交差</name>
+  <detail>天絆鏡イベントを再生した</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="B" pid="000">
+  <name>天変地異</name>
+  <detail>「玉の力」を発動した</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="B" pid="000">
+  <name>不撓不屈</name>
+  <detail>敗北時、戦闘をやり直した</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="B" pid="000">
+  <name>天下無双</name>
+  <detail>呂布で敵を撃破した</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="B" pid="000">
+  <name>前後左右</name>
+  <detail>一度の攻撃で四方向すべてに攻撃した</detail>
+ </trophy>
+ <trophy id="035" hidden="yes" ttype="B" pid="000">
+  <name>四面楚歌</name>
+  <detail>前後左右を敵に囲まれた</detail>
+ </trophy>
+ <trophy id="036" hidden="yes" ttype="B" pid="000">
+  <name>危急存亡</name>
+  <detail>仲間が撃破されて残りユニットが１人になった</detail>
+ </trophy>
+ <trophy id="037" hidden="yes" ttype="B" pid="000">
+  <name>免許皆伝</name>
+  <detail>すべての指南シナリオをクリアした</detail>
+ </trophy>
+ <trophy id="038" hidden="yes" ttype="B" pid="000">
+  <name>桃園の誓い</name>
+  <detail>劉備・関羽・張飛で共鳴乱舞をした</detail>
+ </trophy>
+ <trophy id="039" hidden="yes" ttype="B" pid="000">
+  <name>五虎大将軍</name>
+  <detail>関羽・張飛・趙雲・馬超・黄忠で共鳴乱舞をした</detail>
+ </trophy>
+ <trophy id="040" hidden="yes" ttype="B" pid="000">
+  <name>魏の五将軍</name>
+  <detail>張遼・楽進・于禁・張郃・徐晃で共鳴乱舞をした</detail>
+ </trophy>
+ <trophy id="041" hidden="yes" ttype="B" pid="000">
+  <name>孫家集結</name>
+  <detail>孫堅・孫策・孫権・孫尚香で共鳴乱舞をした</detail>
+ </trophy>
+ <trophy id="042" hidden="yes" ttype="B" pid="000">
+  <name>魏呉蜀同盟</name>
+  <detail>曹操・孫権・劉備で共鳴乱舞をした</detail>
+ </trophy>
+ <trophy id="043" hidden="yes" ttype="B" pid="000">
+  <name>豪華絢爛</name>
+  <detail>女性武将５人で共鳴乱舞をした</detail>
+ </trophy>
+</trophyconf>

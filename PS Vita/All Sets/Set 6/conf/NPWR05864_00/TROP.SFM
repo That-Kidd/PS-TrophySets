@@ -1,0 +1,112 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000142e4cab038145fc4cc8043a519c912d84c563561342b78c25e24e23d9b31e5d015a2e3b20afe8948c4e5de458a6fd9d41dcf4ef2dd39700a117af0055329dc93c4bec9baabab375bfcd3b0bb86bc8364121476e3ba89637f6271acae78f4c00d3d91bcd11d26eda0f8e53a3ee9565a9a48c0122b3d3a0927e7ccf7c49f98ccdaf5333dafc730d4c36f6ea2bbfd010d530da097d-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR05864_00</npcommid>
+ <trophyset-version>01.02</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Mercenary Kings</title-name>
+ <title-detail>Mercenary Kings</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Imperium</name>
+  <detail>Mandragora Island is now your dominion.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="000">
+  <name>Baron Bashing</name>
+  <detail>Defeat Commander Byron Baron once.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Blastfighter</name>
+  <detail>Complete a mission with all parts of the SWAT-12 shotgun equipped.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Cold Hearted</name>
+  <detail>Complete No Negotiation without saving any hostages.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>Denied</name>
+  <detail>Defeat a boss before it can escape.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>Executioner</name>
+  <detail>Defeat over 1000 enemies.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>Favorite</name>
+  <detail>Clear all missions of any rank consecutively using the same gun parts.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>Grim Reaper</name>
+  <detail>Defeat over 10000 enemies.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>Hoarder</name>
+  <detail>Collect over 2000 materials.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>Is That A Knife</name>
+  <detail>Defeat the Steel Soldier using only your knife.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>Jack Of All Trades</name>
+  <detail>Unlock all Proficiencies.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>Liberator</name>
+  <detail>Rescue all 6 Kickstarter backer hostages.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>Medic</name>
+  <detail>Revive a teammate 10 times with the Adrenaline Shot.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>Millionaire</name>
+  <detail>Earn over $1,000,000.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>Poacher</name>
+  <detail>Hunt over 250 animals.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="G" pid="000">
+  <name>Untouchable</name>
+  <detail>Complete a mission in single player without getting hit.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="G" pid="000">
+  <name>Coronation</name>
+  <detail>Clear all missions of the game.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="G" pid="000">
+  <name>Craftsmanship</name>
+  <detail>Craft over 100 knives and 300 gun parts.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>Foodie</name>
+  <detail>Activate all 14 food skills.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="000">
+  <name>Major Pain</name>
+  <detail>Clear all Major rank missions without using Rations nor First-Aid kits.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>Pistol Pro</name>
+  <detail>Clear all 10 Primary missions of the game with the Bolt 45.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="G" pid="000">
+  <name>Speed Runner</name>
+  <detail>Beat the fastest time of all missions of the game.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>The Bionic Merc</name>
+  <detail>Craft all Bionic Mods.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="G" pid="000">
+  <name>Decorator</name>
+  <detail>Craft 20 Ornaments and 20 Banners.</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="G" pid="000">
+  <name>World Hero</name>
+  <detail>Defeat the final boss.</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="S" pid="000">
+  <name>Five-Star General</name>
+  <detail>Reach the Five-Star General rank.</detail>
+ </trophy>
+</trophyconf>

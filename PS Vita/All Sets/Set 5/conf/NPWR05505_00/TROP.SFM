@@ -1,0 +1,48 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000bd83b6b5eebef1bdab1ab26c9544e28aeb13e930a8df7b36d8bcd633170e85216f01a6ef5c99690d7f65b52e6e39abd0edc141307348f8fe3b648a2c6fc7d5cb4c9c462e4e876229145c8d1d60eb2b310ec4ad89ef8032d460393eac423ccfd92747bd27b9ca388f506c3afbf83b20ef4f398a877f36ca2cbbbda0e13abaf15621c63b9e99939b7e2156336624e8751e931dad8f-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR05505_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Damascus Gear: Operation Tokyo</title-name>
+ <title-detail>Trophies for Damascus Gear.</title-detail>
+ <trophy id="000" hidden="no" ttype="G" pid="-1">
+  <name>DG Master</name>
+  <detail>Cleared all missions with S ranking.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="-1">
+  <name>Part Complete</name>
+  <detail>Obtained all parts.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="-1">
+  <name>Mission Complete</name>
+  <detail>Cleared the ending credits.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>RankS  Complete</name>
+  <detail>Cleared all S rank missions.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>RankA  Complete</name>
+  <detail>Cleared all A rank missions.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>RankB  Complete</name>
+  <detail>Cleared all B rank missions.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>RankC  Complete</name>
+  <detail>Cleared all C rank missions.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>RankD  Complete</name>
+  <detail>Cleared all D rank missions.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>RankE  Complete</name>
+  <detail>Cleared all E rank missions.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>DG Fan</name>
+  <detail>Cleared the first mission.</detail>
+ </trophy>
+</trophyconf>

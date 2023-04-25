@@ -1,0 +1,128 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000007ddb0975c7c5afca9d67c5ae4798bfa92d962dc148826d3855e29fefa7be78a738629c078f3bcc2e03f975d3cacc272469a5c51c34f354699660a46a9fe39aab5267f63ba1a8c15a3f7bfa7cc45f6704f9d70fbe626c8c7da37e6e4ae3f338ddf98e2703e516fa8d10922d07edc2e0e6f8f49cbe38c51a117ea89d1d9be086025f0a0f05cc2198da1ee1dd12d12ba7dfecb88e2e-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR08335_00</npcommid>
+ <trophyset-version>01.03</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>不思議のクロニクル&#x0a;振リ返リマセン勝ツマデハ</title-name>
+ <title-detail>不思議のクロニクル&#x0a;振リ返リマセン勝ツマデハのトロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>君は偉大な冒険をやりとげた！</name>
+  <detail>全てのトロフィーを獲得した。</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>初級勇者</name>
+  <detail>チュートリアル以外の難易度Easyでクリアした。</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>中級勇者</name>
+  <detail>難易度Normalでクリアした。</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>上級勇者</name>
+  <detail>難易度Hardでクリアした。</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>達人勇者</name>
+  <detail>難易度VeryHardでクリアした。</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>堕天使アルマ撃破！</name>
+  <detail>難易度Normal以上で堕天使アルマを倒した。</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="000">
+  <name>光の巨人シュクリス撃破！</name>
+  <detail>光の巨人シュクリスを倒した。</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="G" pid="000">
+  <name>冥王プルートン撃破！</name>
+  <detail>冥王プルートンを倒した。</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>冒険者</name>
+  <detail>東の果てに到達した。</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>夢幻の旅人</name>
+  <detail>夢幻の果てに到達した。</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>世界の理を知る者</name>
+  <detail>世界の果てに到達した。</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>お城を改築しよう</name>
+  <detail>お城カスタマイズができるようになった。</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>いよいよ城の主</name>
+  <detail>城を増築した。</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>稀代の城主</name>
+  <detail>住人をコンプリートした。</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>新たなジョブ</name>
+  <detail>クラス解放クエストを達成した。</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>職業選択の自由</name>
+  <detail>クラスを全て解放した。</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="G" pid="000">
+  <name>ジョブマスター</name>
+  <detail>全てのクラスでNormal以上をクリアした。</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>トレジャーハンター</name>
+  <detail>1回の冒険で宝箱を50個開けた。&#x0a;</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>お宝大好き！</name>
+  <detail>1回の冒険で宝箱を100個開けた。</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>モンスターハンター</name>
+  <detail>1回の冒険でモンスターを100体倒した。</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>デストロイヤー</name>
+  <detail>1回の冒険でモンスターを200体倒した。</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>夢幻倉庫マスター</name>
+  <detail>夢幻倉庫を限界まで拡張した。</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>旅は道連れ</name>
+  <detail>仲間を3人つれて冒険した。</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>蟲退治</name>
+  <detail>帝王蟲を倒した。</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>初めての対戦</name>
+  <detail>初めて他勇者と対戦した。</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>対戦上手！</name>
+  <detail>対戦で10戦した。</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="S" pid="000">
+  <name>祝！初勝利！！</name>
+  <detail>対戦で勝利した。</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="G" pid="000">
+  <name>勇者キラー</name>
+  <detail>対戦で10連勝を達成した。</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="G" pid="000">
+  <name>エクストラメダル</name>
+  <detail>エクストラメダルゲットした。</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="G" pid="000">
+  <name>ストーリーテラー</name>
+  <detail>全てのエピローグを解放した。</detail>
+ </trophy>
+</trophyconf>

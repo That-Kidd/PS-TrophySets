@@ -1,0 +1,56 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000a55f1da1ce0732d78f2bd9989fcaf76a01c36842208799ddf4e7983c2fc4f793af7865f5b32dc58950e03e277943ae3f1b79f19a5695a73beea928b64d60df5c5f4a164610b88856d72fe094912eee38c9bd76d60077dbd0d13b7b5c03cff642511f3ff381ada4bf5e2c353061a1f366d0b87a1586de59ba8850eca8e1f6054b6fb6c65074bb7c902bb8a8a3cc231cd90e2f29d5-->
+<trophyconf version="1.1" platform="psp2" policy="freemium">
+ <npcommid>NPWR03746_00</npcommid>
+ <trophyset-version>01.02</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Destiny of Spirits™</title-name>
+ <title-detail>Destiny of Spirits™</title-detail>
+ <trophy id="000" hidden="no" ttype="G" pid="-1">
+  <name>Spirit Master</name>
+  <detail>All areas have been freed.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="-1">
+  <name>Great Trainer</name>
+  <detail>Reached Spirits' max level 100 times.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="-1">
+  <name>Legendary Summoner</name>
+  <detail>Acquired 100 Spirits through summoning.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Coming of Age</name>
+  <detail>Freed your first zone.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Tactician</name>
+  <detail>Made 100 normal attacks with elements that had the upper hand.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Friends to Lean On</name>
+  <detail>Rented a support Spirit 10 times.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>The Lord of the Spirits</name>
+  <detail>Completed your first trade.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Quinceañera</name>
+  <detail>Got a single Spirit to level 10.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Junior Master</name>
+  <detail>Cleared the tutorial.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>Smooth Sailing</name>
+  <detail>Freed 4 zones.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>Battle Master</name>
+  <detail>Won 10 battles in a row.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="-1">
+  <name>Familiar Face</name>
+  <detail>Logged in 30 days in a row.</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,124 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000c3d9ed5ed98bb85f857ed6eb7249a2aaef4e6a5649adf9ba45d3780f6421beb646aeaf191d6febd5d97ad4b786cd9412015f66a37c5af79f719e1865bd94d77ba674847d3f6edfb1b4f4204b9991dcab2907a3598b22c992618b2594b49540a871221bd2c87a7cfb11b52eef968da72d781a3332b54f159cc6f008676a1c4ae05c65a20e798a40a7670f7b378bff4082b7aed410-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR08701_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>ハートの国のアリス～Wonderful Wonder World～</title-name>
+ <title-detail>ハートの国のアリス～Wonderful Wonder World～のトロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Complete！</name>
+  <detail>全トロフィーをコンプリートした</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>OP／Castle of Heart</name>
+  <detail>ハートの城のオープニングを見た</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>OP／Hatter Family</name>
+  <detail>帽子屋屋敷のオープニングを見た</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>OP／Amusement Park</name>
+  <detail>遊園地のオープニングを見た</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>OP／Clock Tower</name>
+  <detail>時計塔のオープニングを見た</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>HOME／Blood</name>
+  <detail>ブラッド「HOME BESTEND」を見た</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>HOME／Elliot</name>
+  <detail>エリオット「HOME BESTEND」を見た</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>HOME／Dee＆Dum</name>
+  <detail>ディー＆ダム「HOME BESTEND」を見た</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>HOME／Vivaldi</name>
+  <detail>ビバルディ「HOME BESTEND」を見た</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>HOME／Peter</name>
+  <detail>ペーター「HOME BESTEND」を見た</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>HOME／Ace</name>
+  <detail>エース「HOME BESTEND」を見た</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>HOME／Gowland</name>
+  <detail>ゴーランド「HOME BESTEND」を見た</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>HOME／Boris</name>
+  <detail>ボリス「HOME BESTEND」を見た</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>HOME／Julius</name>
+  <detail>ユリウス「HOME BESTEND」を見た</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>VISITOR／Blood</name>
+  <detail>ブラッド「VISITOR BESTEND」を全て見た</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>VISITOR／Elliot</name>
+  <detail>エリオット「VISITOR BESTEND」を全て見た</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>VISITOR／Dee＆Dum</name>
+  <detail>ディー＆ダム「VISITOR BESTEND」を見た</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>VISITOR／Vivaldi</name>
+  <detail>ビバルディ「VISITOR BESTEND」を見た</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>VISITOR／Peter</name>
+  <detail>ペーター「VISITOR BESTEND」を見た</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="000">
+  <name>VISITOR／Ace</name>
+  <detail>エース「VISITOR BESTEND」を見た</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>VISITOR／Gowland</name>
+  <detail>ゴーランド「VISITOR BESTEND」を全て見た</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>VISITOR／Boris</name>
+  <detail>ボリス「VISITOR BESTEND」を全て見た</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>VISITOR／Julius</name>
+  <detail>ユリウス「VISITOR BESTEND」を見た</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>END／Nightmare</name>
+  <detail>ナイトメア「BESTEND」を見た</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>END／Dead</name>
+  <detail>「DEADEND」を全て見た</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="S" pid="000">
+  <name>END／True</name>
+  <detail>「真相」を見た</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="G" pid="000">
+  <name>COMP／Other</name>
+  <detail>シーン回想「Other」をコンプリートした</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="G" pid="000">
+  <name>COMP／CG</name>
+  <detail>CG鑑賞をコンプリートした</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="G" pid="000">
+  <name>COMP／SCENE</name>
+  <detail>シーン回想をコンプリートした</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,48 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000008bd1d9375fb4504b9ca94c0be7e2599ff615e582b915b88c056216c3026fe9f4ff41a168252f1b3fd7e8a2e96f0e105eccd62f353765e1350d17db3cb7c23f1dd6dd2e9b0ae10ddc89cea359d53f3893780330a5da76aff72d9f69d8664b66ded1ef42b5f3dca22aaebfbc1fe158ea28de4eb0d3dd6f87e3d8997cda90e97313c77ae37c1fe44147e4abe55d5c79c3c538b291e1-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR10224_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>執事が姫を選ぶとき</title-name>
+ <title-detail>『執事が姫を選ぶとき』トロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>『アメリア』ルート開始</name>
+  <detail>『アメリア』ルートに入りました。</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>『沙耶』ルート開始</name>
+  <detail>『沙耶』ルートに入りました。</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>『ベロニカ』ルート開始</name>
+  <detail>『ベロニカ』ルートに入りました。</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>『由良』ルート開始</name>
+  <detail>『由良』ルートに入りました。</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>『真姫』ルート開始</name>
+  <detail>『真姫』ルートに入りました。</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="-1">
+  <name>『アメリア』ルート終了</name>
+  <detail>『アメリア』ルートが終了しました。</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="-1">
+  <name>『沙耶』ルート終了</name>
+  <detail>『沙耶』ルートが終了しました。</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="-1">
+  <name>『ベロニカ』ルート終了</name>
+  <detail>『ベロニカ』ルートが終了しました。</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="-1">
+  <name>『由良』ルート終了</name>
+  <detail>『由良』ルートが終了しました。</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="-1">
+  <name>『真姫』ルート終了</name>
+  <detail>『真姫』ルートが終了しました。</detail>
+ </trophy>
+</trophyconf>

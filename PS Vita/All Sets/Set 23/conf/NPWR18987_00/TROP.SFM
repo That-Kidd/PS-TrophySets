@@ -1,0 +1,56 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000006add5d0518e694cb7729145a9382798900ff02c53b167769b353350a6ad48693fb253b66e629335f01a192fb9f17c2e99f5a68c07bf042df745d698312573d68d26dcb24ac05592a0f77e59ad0b00f5e7ca3934d7721143da2c2bba6b513c537c7f741baeaf74d87c61efe166793a1d023e1cde2ea3aa7ab282657e6b4ea30356bcdb0879825b9815f829dc668d0a8dd60065c74-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR18987_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Super Box Land Demake</title-name>
+ <title-detail>Super Box Land Demake</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Platinum Pusher</name>
+  <detail>Get all other trophies.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>Balloon Kicker</name>
+  <detail>Explode a balloon.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>Bomb Defuser</name>
+  <detail>Explode a bomb.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>Pushing Together</name>
+  <detail>Complete a level using both characters.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>Box Pusher</name>
+  <detail>Complete your first level.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>Back In Time</name>
+  <detail>Use the rewind magic.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>Trainee Pusher</name>
+  <detail>Complete 5 levels.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>Novice Pusher</name>
+  <detail>Complete 10 levels.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>Junior Pusher</name>
+  <detail>Complete 20 levels.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>Senior Pusher</name>
+  <detail>Complete 30 levels.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>Profesional Pusher</name>
+  <detail>Complete 35 levels.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>Master Pusher</name>
+  <detail>Complete 40 levels.</detail>
+ </trophy>
+</trophyconf>

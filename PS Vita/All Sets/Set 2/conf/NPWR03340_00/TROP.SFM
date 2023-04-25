@@ -1,0 +1,212 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000508a163949147403eb51eff0a54735c2ee770ccb17340db26aa2f23a84dce29076fdd670a0af16ebcd27b478edeb4cb57b4e272de10fd32b1135ab2ab960dd089f5e3f6f79ff7e32221589f1c3378aa7ff3176df8ed9443a8f143da16243d8ed5e5ebc94aff49a7719555d89ee953a5f3f6a68f18998f476b5349403f63ea77ce4c04c2c7c76df032b74e452823a0cdffaeea8ef-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR03340_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Sonic &amp; All-Stars Racing Transformed™</title-name>
+ <title-detail>Take to the land, sea and air, competing to be crowned the ultimate All-Star!</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Ultimate All-Star</name>
+  <detail>Earn every Trophy in the game</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Racing Transformed</name>
+  <detail>Go All-Star!</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Parts Shop</name>
+  <detail>Win an event with a Mod equipped</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Sonic Drift</name>
+  <detail>Do a 10 second Drift as Sonic</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>Tornado</name>
+  <detail>Do a Level 3 Air-Drift</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>Magic Second</name>
+  <detail>Finish 0.5 seconds ahead of an opponent in a Race</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>Spin Dash</name>
+  <detail>Do a Boost-Start in each vehicle mode</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>Scud Racer</name>
+  <detail>Finish 1st in a Race without getting hit by weapons</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>Blast Processing</name>
+  <detail>Hit 2 opponents with a single Hot Rod Blast</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>Fighting Viper</name>
+  <detail>Evade or Block a homing-weapon 3 times in a Race</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>Catcher Pitcher</name>
+  <detail>Absorb a weapon with the Glove and fire it back at your attacker</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>Eyes On The Road</name>
+  <detail>Hit an opponent with a weapon while looking backwards</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>Cosmic Smash</name>
+  <detail>Detonate the Hot Rod at the very last second</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>Nomad</name>
+  <detail>Visit every location in the game</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>Rank B</name>
+  <detail>Earn your B Class License</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>Rank A</name>
+  <detail>Earn your A Class License</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Rank S</name>
+  <detail>Earn your S Class License</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>SEGA All Star</name>
+  <detail>Earn your Star License</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="G" pid="000">
+  <name>SEGA Super Star</name>
+  <detail>Earn your Triple-Star License</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Hardcore</name>
+  <detail>Complete a World Tour event on Expert difficulty</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>Newtron</name>
+  <detail>Manually select a Random character for a Matchmaking game</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>SUMO Wrestled</name>
+  <detail>Beat your first Staff Ghost in Time Attack</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>Yokozuna</name>
+  <detail>Beat all the Staff Ghosts in Time Attack</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>De Rol Le Credits</name>
+  <detail>Unlock Superstar Showdown in World Tour</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>Takes AGES</name>
+  <detail>Unlock every Character in the game</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>Racing Hero</name>
+  <detail>Get a Podium Finish in every Grand Prix tournament</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="S" pid="000">
+  <name>Welcome To The Fantasy Zone</name>
+  <detail>Finish 1st in a Grand Prix tournament</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>Holosseum</name>
+  <detail>Unlock Mirror Grand Prix mode</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>Gale Racer</name>
+  <detail>Get a Podium Finish in every Grand Prix tournament on Expert difficulty</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>Race Leader</name>
+  <detail>Win a Matchmaking game</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>Swirling Ranger!</name>
+  <detail>Survive a Twister attack without crashing or being hit</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>Virtua Trickster</name>
+  <detail>Roll Left, Roll Right, Backflip, Forward Flip and land as a car or boat</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>Link Chain</name>
+  <detail>Complete the Dream Valley Ring Race and pass every Ring as NiGHTS or Reala</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>Vyse The Legend</name>
+  <detail>Beat 01:11.16 in Time Attack as Vyse in Rogue's Landing</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>You Got The Horn</name>
+  <detail>Level-up a character</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="G" pid="000">
+  <name>All Stars</name>
+  <detail>Collect every Star in World Tour</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>Battle Outrunner</name>
+  <detail>Do 5 overtakes in a single Drift</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>Genesis</name>
+  <detail>Triple-Stunt while transforming into a car or boat</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>Drift More</name>
+  <detail>Get a Perfect Drift score on a Drift Challenge event</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="000">
+  <name>Mega Jet</name>
+  <detail>Do a Reckless Boost</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="B" pid="000">
+  <name>Ax Battler</name>
+  <detail>Finish a Battle Race without losing any lives</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="B" pid="000">
+  <name>Arrow of Light</name>
+  <detail>Freeze an opponent with Ice from at least 100 meters away</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="B" pid="000">
+  <name>Buzz Bomber</name>
+  <detail>Hit 1st, 2nd and 3rd place with a Swarm attack</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="B" pid="000">
+  <name>Lock On Sight</name>
+  <detail>Score 90% accuracy with aimed weapons in an event</detail>
+ </trophy>
+ <trophy id="044" hidden="no" ttype="G" pid="000">
+  <name>Welcome To Victory Lane</name>
+  <detail>Finish 1st in every Grand Prix tournament on Expert difficulty</detail>
+ </trophy>
+ <trophy id="045" hidden="no" ttype="B" pid="000">
+  <name>Meteor Strike</name>
+  <detail>Collect 10 Stars in World Tour</detail>
+ </trophy>
+ <trophy id="046" hidden="no" ttype="B" pid="000">
+  <name>Justice Shot</name>
+  <detail>Get 10 hits by firing weapons backwards in a single event</detail>
+ </trophy>
+ <trophy id="047" hidden="no" ttype="B" pid="000">
+  <name>Shadow Step</name>
+  <detail>Do 10 Stunt Combos in a single event</detail>
+ </trophy>
+ <trophy id="048" hidden="no" ttype="B" pid="000">
+  <name>Crack Down</name>
+  <detail>Get a total of 20 hits with weapons in a Race</detail>
+ </trophy>
+ <trophy id="049" hidden="no" ttype="S" pid="000">
+  <name>The King Of Speed</name>
+  <detail>Finish 1st in a Grand Prix tournament at Expert difficulty</detail>
+ </trophy>
+ <trophy id="050" hidden="no" ttype="B" pid="000">
+  <name>Team Sonic</name>
+  <detail>Raced in an ad hoc or Online game with Sonic, Tails, Amy, Shadow and Knuckles in the same race.</detail>
+ </trophy>
+</trophyconf>

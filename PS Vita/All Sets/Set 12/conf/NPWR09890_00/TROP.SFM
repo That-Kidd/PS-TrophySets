@@ -1,0 +1,252 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000d54dd4605f01e55565d2517c03d43ae4fd762ac0c47dcacb751d313bb454dc9974c163995b357f74efe8a6cd26dc42130e0b3b9fd08522ac3a2a4f6a69f72ff05733c611b9fd70c18a52be2ba55f3dbef0738cb84d6f7c05443ffb5f99fb5a61f0f874062821bd7e2ec2e1167de037624a9c9690b0c503024286d89424277cb8cfed5534ad67afec2e94aecbcf645002c6c473fb-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR09890_00</npcommid>
+ <trophyset-version>01.04</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>GUNDAM BREAKER 3</title-name>
+ <title-detail>GUNDAM BREAKER 3 Trophy set</title-detail>
+ <group id="001">
+  <name>BUILD BEGINNING</name>
+  <detail>BUILD BEGINNING</detail>
+ </group>
+ <group id="002">
+  <name>BUILD RISING</name>
+  <detail>BUILD RISING</detail>
+ </group>
+ <group id="003">
+  <name>BUILD EVOLUTION</name>
+  <detail>BUILD EVOLUTION</detail>
+ </group>
+ <group id="004">
+  <name>BUILD ABSOLUTE</name>
+  <detail>BUILD ABSOLUTE</detail>
+ </group>
+ <group id="005">
+  <name>BUILD KINGDOM</name>
+  <detail>BUILD KINGDOM</detail>
+ </group>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Master Of Breaker 3</name>
+  <detail>Obtain all trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="S" pid="000">
+  <name>Town Cup Championship 1</name>
+  <detail>Win the Town Cup</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="S" pid="000">
+  <name>Regional Cup Championship</name>
+  <detail>Win the Regional Cup</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="S" pid="000">
+  <name>Japan Cup Championship</name>
+  <detail>Win the Japan Cup</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="S" pid="000">
+  <name>Asia Tour Conquered</name>
+  <detail>Win the Gunpla Battle Tour Asia Finals</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="G" pid="000">
+  <name>Trophy restored</name>
+  <detail>Complete all main chapters</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="000">
+  <name>Town Cup Championship 2</name>
+  <detail>Win the Town Cup at extreme difficulty</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>Regional Cup Championship 2</name>
+  <detail>Win the Regional Cup at extreme difficulty</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>Japan Cup Championship 2</name>
+  <detail>Win the Japan Cup at extreme difficulty</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>Asia Tour Conquered 2</name>
+  <detail>Win the Gunpla Battle Tour Asia Finals at extreme difficulty</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="G" pid="000">
+  <name>Extreme Breaker</name>
+  <detail>Clear at extreme difficulty</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>Natural</name>
+  <detail>Clear all chapter 1 missions at Newtype difficulty</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>Cyber-Newtype</name>
+  <detail>Clear all chapter 2 missions at Newtype difficulty</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>X-Rounder</name>
+  <detail>Clear all chapter 3 missions at Newtype difficulty</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>Innovator</name>
+  <detail>Clear all chapter 4 missions at Newtype difficulty</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="G" pid="000">
+  <name>Newtype</name>
+  <detail>Clear all chapter 5 missions at Newtype difficulty</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>EX Master</name>
+  <detail>EX-Actions at maximum level</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Burst Master</name>
+  <detail>Burst Actions set to maximum level</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>SD-EX Master</name>
+  <detail>Learn SDEX</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="000">
+  <name>EX Collector</name>
+  <detail>Learn all EX-Actions</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>Burst Collector</name>
+  <detail>Learn all Burst Actions</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>Novice Gunpla Builder</name>
+  <detail>Unlock Parts Merge</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>Veteran Gunpla Builder</name>
+  <detail>Create LV10 parts</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>Legendary Gunpla Builder</name>
+  <detail>Create LV30 parts</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="000">
+  <name>Version Up</name>
+  <detail>Unlock Builders Parts</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="B" pid="000">
+  <name>Introduction to Builders Parts</name>
+  <detail>Get additional parts</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>New Comrade</name>
+  <detail>Enlist additional character</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="B" pid="000">
+  <name>Evolving Power</name>
+  <detail>Unlock Awaken ability</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="B" pid="000">
+  <name>W-What are you…?</name>
+  <detail>Unlock new machine</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>Attach this to the memory circuit</name>
+  <detail>Equip the SD Module</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>Destroyer of Gundams</name>
+  <detail>Destroy a PG machine for the first time</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="B" pid="000">
+  <name>Show me the performance of your new Gunpla!</name>
+  <detail>Use the Awaken ability</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>Execute Jet Stream Attack!</name>
+  <detail>Give commands to an ally via Radio Chat</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>Rescue successful!</name>
+  <detail>Revive an immobilized ally in locked state</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>That's the name of your Gunpla!</name>
+  <detail>Change the default machine name</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>Super Coordinator</name>
+  <detail>Exchange an avatar at the shop for the first time</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>Beautiful Box Art</name>
+  <detail>Buy a Gunpla from the shop for the first time</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>I am a Master Grade!</name>
+  <detail>Customise your machine with all MG parts</detail>
+ </trophy>
+ <trophy id="038" hidden="yes" ttype="B" pid="000">
+  <name>Monolith Breaker</name>
+  <detail>Destroy the monolith</detail>
+ </trophy>
+ <trophy id="039" hidden="yes" ttype="B" pid="000">
+  <name>Target Eliminated</name>
+  <detail>Destroy the enemy's core</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="B" pid="000">
+  <name>Even so, there's a core I want to protect!</name>
+  <detail>Clear an area with at least 75% core durability</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="S" pid="-1" gid="001">
+  <name>BUILD BEGINNING：Mission Completed</name>
+  <detail>DLC No.2「BUILD BEGINNING」Silver：Cleared all DLC missions regardless of difficulty</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="S" pid="-1" gid="001">
+  <name>BUILD BEGINNING：Builder Parts Completed</name>
+  <detail>DLC No.2「BUILD BEGINNING」Silver：Obtain all additional DLC Builder Parts</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="G" pid="-1" gid="001">
+  <name>BUILD BEGINNING：Weapon/Parts Completed</name>
+  <detail>DLC No.2「BUILD BEGINNING」Gold：Obtain all additional DLC Parts regardless of HG/MG</detail>
+ </trophy>
+ <trophy id="044" hidden="no" ttype="S" pid="-1" gid="002">
+  <name>BUILD RISING：Mission Completed</name>
+  <detail>DLC No.3「BUILD RISING」Silver：Cleared all DLC missions regardless of difficulty</detail>
+ </trophy>
+ <trophy id="045" hidden="no" ttype="S" pid="-1" gid="002">
+  <name>BUILD RISING：Builder Parts Completed</name>
+  <detail>DLC No.3「BUILD RISING」Silver：Obtain all additional DLC Builder Parts</detail>
+ </trophy>
+ <trophy id="046" hidden="no" ttype="G" pid="-1" gid="002">
+  <name>BUILD RISING：Weapon/Parts Completed</name>
+  <detail>DLC No.3「BUILD RISING」Gold：Obtain all additional DLC Parts regardless of HG/MG</detail>
+ </trophy>
+ <trophy id="047" hidden="no" ttype="S" pid="-1" gid="003">
+  <name>BUILD EVOLUTION：Mission Completed</name>
+  <detail>DLC No.4「BUILD EVOLUTION」Silver：Cleared all DLC missions regardless of difficulty</detail>
+ </trophy>
+ <trophy id="048" hidden="no" ttype="S" pid="-1" gid="003">
+  <name>BUILD EVOLUTION：Builder Parts Completed</name>
+  <detail>DLC No.4「BUILD EVOLUTION」Silver：Obtain all additional DLC Builder Parts</detail>
+ </trophy>
+ <trophy id="049" hidden="no" ttype="G" pid="-1" gid="003">
+  <name>BUILD EVOLUTION：Weapon/Parts Completed</name>
+  <detail>DLC No.4「BUILD EVOLUTION」Gold：Obtain all additional DLC Parts regardless of HG/MG</detail>
+ </trophy>
+ <trophy id="050" hidden="no" ttype="S" pid="-1" gid="004">
+  <name>BUILD ABSOLUTE：Mission Completed</name>
+  <detail>DLC No.5「BUILD ABSOLUTE」Silver：Cleared all DLC missions regardless of difficulty</detail>
+ </trophy>
+ <trophy id="051" hidden="no" ttype="S" pid="-1" gid="004">
+  <name>BUILD ABSOLUTE：Builder Parts Completed</name>
+  <detail>DLC No.5「BUILD ABSOLUTE」Silver：Obtain all additional DLC Builder Parts</detail>
+ </trophy>
+ <trophy id="052" hidden="no" ttype="G" pid="-1" gid="004">
+  <name>BUILD ABSOLUTE：Weapon/Parts Completed</name>
+  <detail>DLC No.5「BUILD ABSOLUTE」Gold：Obtain all additional DLC Parts regardless of HG/MG</detail>
+ </trophy>
+ <trophy id="053" hidden="no" ttype="S" pid="-1" gid="005">
+  <name>BUILD KINGDOM：Mission Completed</name>
+  <detail>DLC No.6「BUILD KINGDOM」Silver：Cleared all DLC missions regardless of difficulty</detail>
+ </trophy>
+ <trophy id="054" hidden="no" ttype="S" pid="-1" gid="005">
+  <name>BUILD KINGDOM：Builder Parts Completed</name>
+  <detail>DLC No.6「BUILD KINGDOM」Silver：Obtain all additional DLC Builder Parts</detail>
+ </trophy>
+ <trophy id="055" hidden="no" ttype="G" pid="-1" gid="005">
+  <name>BUILD KINGDOM：Weapon/Parts Completed</name>
+  <detail>DLC No.6「BUILD KINGDOM」Gold：Obtain all additional DLC Parts regardless of HG/MG</detail>
+ </trophy>
+</trophyconf>

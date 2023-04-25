@@ -1,0 +1,232 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000a1bd93df23a9a1618b335e9633d3a9c21b8be18a098f340b029470cff0fc5895f79d793841788d180e6165b907fa154984744cc3c20e64bd62ee9b5820a2a4c8ad42b9381a52143a832229fb86013161989494e216686199ef9b5a665365e8a79eaa1f8446d4d1650d2aef6a79dff7c184f91775231d570d359b49ad0581d2155592ab120db2d63dd6c41e40fed3ed8f5c8a9649-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR05851_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>アルカナハート３ LOVEMAX!!!!!</title-name>
+ <title-detail>アルカナハート３ LOVEMAX!!!!!</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>それは、心をつなぐ、とある絆の物語。</name>
+  <detail>アルカナハート３ LOVEMAX!!!!!を極めた。</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>がんばったね！</name>
+  <detail>【STORY】モードをクリアした。</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>すっごいがんばったね！</name>
+  <detail>【STORY】モードを最高難易度でクリアした。</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>なにがあっても目をそらしちゃだめだよ</name>
+  <detail>【STORY】モードでバッドエンドになった。</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>みんなで仲良し温泉！</name>
+  <detail>【STORY】アフターストーリーモードをクリアした。</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>のぞきはダメだよ！</name>
+  <detail>【STORY】温泉イベントで湯気を払いまくった。</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>神超え</name>
+  <detail>【SURVIVAL SCORE ATTACK】モードで神依を撃破した。</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>命のアルカナ　パラセ・ルシア</name>
+  <detail>【TRIAL】モードでパラセ・ルシアを撃破した。</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>青銅聖女</name>
+  <detail>【TRIAL】モードで、特定１キャラクターのブロンズメダルを全て集めた。</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>白銀聖女</name>
+  <detail>【TRIAL】モードで、特定１キャラクターのシルバーメダルを全て集めた。</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>黄金聖女</name>
+  <detail>【TRIAL】モードで、特定１キャラクターのゴールドメダルを全て集めた。</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>別に聖霊を倒してしまっても構わないんでしょう？</name>
+  <detail>【TIME ATTACK】モードでフィオナを撃破した。</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>光速を目指して</name>
+  <detail>【TIME ATTACK】モードを２０分以内にクリアした。</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="000">
+  <name>あれ……声が……遅れて……</name>
+  <detail>【TIME ATTACK】モードを１０分以内にクリアした。</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>努力は聖女のたしなみ</name>
+  <detail>【TRAINING】を１５分間連続で続けた。</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>あなたがそう思うんならそうなんでしょう。あなたの中ではね。</name>
+  <detail>【NETWORK】でとにかくすっごい称号をセットした。</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>全聖女制覇！</name>
+  <detail>【NETWORK】で全キャラクターを相手に戦った。</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>みんな、よろしくね♪</name>
+  <detail>【PLAYER MATCH】で対戦をした。</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>挑戦の始まり</name>
+  <detail>【RANKED MATCH】で初めて対戦をした。</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>真の聖女への道</name>
+  <detail>【RANKED MATCH】で初勝利した。</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>実践あるのみ</name>
+  <detail>【RANKED MATCH】を累計５０戦以上行った。</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="S" pid="000">
+  <name>私たちの戦いはこれからです！！</name>
+  <detail>【RANKED MATCH】で１００回以上勝利した。</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>CGギャラリーコンプリート！</name>
+  <detail>【GALLERY】の全ＣＧを開放した。</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>アニメギャラリーコンプリート！</name>
+  <detail>【GALLERY】で全リンクアニメを開放した。</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>思い出コンプリート！</name>
+  <detail>【GALLERY】全思い出を開放した</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>聖女マスター</name>
+  <detail>全キャラクターでプレイした。</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>アルカナマスター</name>
+  <detail>全アルカナでプレイした。</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>すっごい勝利！</name>
+  <detail>クリティカルハートフィニッシュで勝利した。</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>とにかくすっごい勝利！</name>
+  <detail>クリティカルハートエクステンドフィニッシュで勝利した。</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>アルカナさん！力を貸して！</name>
+  <detail>アルカナブレイズフィニッシュで勝利した。</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>聖女は逆境に輝く</name>
+  <detail>ガード中にエクステンドブラストを発動させた。</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>これからもわたしだけを見てね♪</name>
+  <detail>任意のキャラのLPレベルがMAXになった。</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="S" pid="000">
+  <name>二人っきりで楽しみましょう♪</name>
+  <detail>特定のキャラ組み合わせで起こる対戦前特別演出を全て見た。</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>全てを受け止める愛</name>
+  <detail>１試合中に【ロズ　キクロス】で３０回以上の攻撃を吸収した。</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>戦乙女の雷槍</name>
+  <detail>１試合中に【クリィーオフ】を３回以上ヒットさせた。</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>残像だ</name>
+  <detail>１試合中に【塵染の意】で相手の攻撃を３回以上受け止めた。</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>聖霊樹の恵み</name>
+  <detail>樹のアルカナの能力により、１ラウンド中に体力を２０００以上回復させた。</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>やせがまん</name>
+  <detail>地のアルカナを使用し、１回のエクステンドフォース中にのけぞり状態になることなく１５０００以上のダメージを受けた。</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>防御不能の業火</name>
+  <detail>【操火将】によるガード不能Ｅボタン攻撃をヒットさせた。</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="000">
+  <name>鬼ごっこ</name>
+  <detail>１個の【シキリス】を１０カウント以上画面上に残し続けた。</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="B" pid="000">
+  <name>深く静かに潜航せよ</name>
+  <detail>闇のアルカナのアルカナ必殺技を１０カウント以上溜め続けた。</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="B" pid="000">
+  <name>侵蝕</name>
+  <detail>魔のアルカナの毒効果により、１試合中に５０００以上のダメージを与えた。</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="B" pid="000">
+  <name>バブリーズ</name>
+  <detail>１試合中に【プルヴィア】で相手の攻撃を２０回以上回避した。</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="B" pid="000">
+  <name>自家発電</name>
+  <detail>１試合中に【エネルゲイア】でアルカナゲージを１ゲージ分溜めた。</detail>
+ </trophy>
+ <trophy id="044" hidden="no" ttype="B" pid="000">
+  <name>聖なる加護</name>
+  <detail>【バプティズム】による回復効果で、１ラウンド中に体力を２０００以上回復させた。</detail>
+ </trophy>
+ <trophy id="045" hidden="no" ttype="B" pid="000">
+  <name>雪の女王</name>
+  <detail>氷のアルカナを使用し、１試合中に１００個以上の氷の結晶を降らせた。</detail>
+ </trophy>
+ <trophy id="046" hidden="no" ttype="B" pid="000">
+  <name>防御不能の剛剣</name>
+  <detail>【スィーニー】によるガード不能Ｅボタン攻撃をヒットさせた。</detail>
+ </trophy>
+ <trophy id="047" hidden="no" ttype="B" pid="000">
+  <name>七つの大罪</name>
+  <detail>罪のアルカナを使用し、１ラウンド中に属性効果・アルカナ必殺技・アルカナ超必殺技・アルカナブレイズを全て使用した。</detail>
+ </trophy>
+ <trophy id="048" hidden="no" ttype="B" pid="000">
+  <name>ザ・ドリフターズ</name>
+  <detail>１ラウンド中に【オルガノン】【シュンポシオン】により合計３個以上の金だらいをヒットさせた。</detail>
+ </trophy>
+ <trophy id="049" hidden="no" ttype="B" pid="000">
+  <name>ものまねマスター</name>
+  <detail>【ファスマ】【ファンタシア】を全種類見た。</detail>
+ </trophy>
+ <trophy id="050" hidden="no" ttype="B" pid="000">
+  <name>先生、やっちゃってください！</name>
+  <detail>ミルドレッドを１０回以上呼び出した。</detail>
+ </trophy>
+ <trophy id="051" hidden="no" ttype="B" pid="000">
+  <name>響きわたる希望の歌声</name>
+  <detail>音のアルカナを使用し、アルカナ必殺技・アルカナ超必殺技のみで５０ヒット以上の連続技を決めた。</detail>
+ </trophy>
+ <trophy id="052" hidden="no" ttype="B" pid="000">
+  <name>収穫祭</name>
+  <detail>１試合中に【幻の花】【夢の花】の果実を５個以上【摘花】した。</detail>
+ </trophy>
+ <trophy id="053" hidden="no" ttype="B" pid="000">
+  <name>シンクロ率１００％</name>
+  <detail>剱神のガイストを使用し、１試合中にエクステンドフォースを１０回以上発動した。</detail>
+ </trophy>
+ <trophy id="054" hidden="no" ttype="B" pid="000">
+  <name>ざわ・・・ざわ・・・・・・</name>
+  <detail>【ミトラ】で１ゾロを引き当てた。</detail>
+ </trophy>
+ <trophy id="055" hidden="no" ttype="B" pid="000">
+  <name>ナパームレイン</name>
+  <detail>【速炮ベルガー】の相殺爆発をヒットさせた。</detail>
+ </trophy>
+</trophyconf>

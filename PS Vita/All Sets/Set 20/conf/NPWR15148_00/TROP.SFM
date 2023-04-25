@@ -1,0 +1,72 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000a9548e39ef0b1c4122edbe8b10802d11cd52728d997e6804adfa392998273ea10811a13a306c5c67b0a96dd166c4aad2a1006cf1eb4add237bf3a7a5e5f4fbc17e1cca2b10d0c8b62b3d22f2a0f4497c556c22d40de09fa164a19951b5e792fe705dee6374286dffc3702f1cc31d8a2e67b7dd930770f0aaa07c6ec538906865b010fb5408834443ef14c944be081cf942395760-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR15148_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Grab the Bottle</title-name>
+ <title-detail>Grab the Bottle</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Grab the Bottle Platinum</name>
+  <detail>Good job! Completed all tasks!</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="000">
+  <name>Birdcatcher</name>
+  <detail>Catch the bottle from the magpie during flight, without Boxing glove</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>What a Stretch</name>
+  <detail>Stretch your arm a total of 50 meters</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>Faster Than Wind</name>
+  <detail>Beat the magpie</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>Crocodile Rock</name>
+  <detail>Win the crocodile</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>Stronger Than Death</name>
+  <detail>Triumph over death</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>Barn Party</name>
+  <detail>Find the hidden barn party</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>Untouchable</name>
+  <detail>Complete all levels with 0 deaths</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>Safety First</name>
+  <detail>Blow your hand up 3 times with a bomb</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>Pyromaniac</name>
+  <detail>Burn all the spider webs from the attic</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>Once More, Please</name>
+  <detail>Drop two items on your head at the attic</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>Scissor Saver</name>
+  <detail>Complete the level 22 without dropping the scissors in a bucket</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>Wake Me Up!</name>
+  <detail>Disturb the sleeping man</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="000">
+  <name>It's a Trap!</name>
+  <detail>Break the jar with books in level 32</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="000">
+  <name>Crocodile Dundee</name>
+  <detail>Grab the Bottle from the crocodile's back, without Boxing glove</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>Pizza Sweeper</name>
+  <detail>Destroy all the pizza boxes in level 31</detail>
+ </trophy>
+</trophyconf>

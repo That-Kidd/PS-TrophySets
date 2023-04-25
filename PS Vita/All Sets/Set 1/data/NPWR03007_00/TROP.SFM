@@ -1,0 +1,212 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000014be3bb37477beeb4ae6c4da2f3a9c9f7dc97d4a420a3c282f3ad544cca5a12b929320efdffda0e495d9c95c84e43e8457b0b9f605ffb0a45e28775e1186f3747a2d3e60a43991599c8553c150a298897bb582e9408143d2695b1db1d62faeda7ff61e43ccdef8a108d02f1c4387ff39b9ec065cb186e5418c93904bb971c1ba7daaeb39c90ea7913842c1c8fed551f87fe9af7c-->
+<trophyconf version="1.1" platform="psp2">
+ <npcommid>NPWR03007_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Ben 10™ Galactic Racing</title-name>
+ <title-detail>Ben 10™ Galactic Racing Trophy Set</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Ultimate Racer!</name>
+  <detail>Earn all trophies in the game.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Beginner's Luck Complete</name>
+  <detail>Complete the Beginner's Luck circuit in third place or higher in Single Player mode.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Freezeway Jungle Complete</name>
+  <detail>Complete the Freezeway Jungle circuit in third place or higher in Single Player mode.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Wet Wasteland Complete</name>
+  <detail>Complete the Wet Wasteland circuit in third place or higher in Single Player mode.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>Null Prime Complete</name>
+  <detail>Complete the Null Prime circuit in third place or higher in Single Player mode.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>Volcano Void Complete</name>
+  <detail>Complete the Volcano Void circuit in third place or higher in Single Player mode.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>Ice Water Expanse Complete</name>
+  <detail>Complete the Ice Water Expanse circuit in third place or higher in Single Player mode.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>Infinity Circuit Complete</name>
+  <detail>Complete the Infinity Circuit in third place or higher in Single Player mode.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>Primus Dominus Complete</name>
+  <detail>Complete the Primus Dominus circuit in third place or higher in Single Player mode.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>Snow Drifter</name>
+  <detail>Beat the Track Best time in a Time Trial on any Kylmyys track.&#x0a;</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>Trash Truckin'</name>
+  <detail>Beat the Track Best time in a Time Trial on any Vulpin track.&#x0a;</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>Driverus Primus</name>
+  <detail>Beat the Track Best time in a Time Trial on any Primus track.&#x0a;</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>Wave Runner</name>
+  <detail>Beat the Track Best time in a Time Trial on any Piscciss track.&#x0a;</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>Warp Driver</name>
+  <detail>Beat the Track Best time in a Time Trial on any Null Void track.&#x0a;</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>Got Skillz</name>
+  <detail>Beat the Track Best time in a Time Trial on any track by 10 seconds or more.&#x0a;</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>Tag! I'm It!</name>
+  <detail>Win 10 individual Omni-Tag showdowns in Single Player mode.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Tag! We're It!</name>
+  <detail>Win 10 Team Omni-Tag showdowns in Single Player mode.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Ultimate Alienator</name>
+  <detail>Win 10 Ultimate Alienation showdowns in Single Player mode.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>Beat the Clock</name>
+  <detail>Escape elimination in an Ultimate Elimination showdown with less than 10 seconds on the clock in Single Player mode.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Shattered</name>
+  <detail>Destroy 10 Shard Mines using the EMP power-up in Single Player mode.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>Counter Measure</name>
+  <detail>Destroy an incoming attack by firing an attack of your own in Single Player mode.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>Nothin' But Skill</name>
+  <detail>Win a race on any Basic track without using an Omni-Node or Offensive Power in Single Player mode.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>Nothin' But More Skill</name>
+  <detail>Win a race on any Intermediate track without using an Omni-Node or Offensive Power in Single Player mode.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>Nothin' But Maximum Skill</name>
+  <detail>Win a race on any Advanced track without using an Omni-Node or Offensive Power in Single Player mode.</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>Boom! Winning!</name>
+  <detail>Successfully hit every opponent in a race at least once with any Power-Up in Single Player mode.</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="S" pid="000">
+  <name>Omni-Node Master</name>
+  <detail>Pick up 8 different Omni-Node types in each of 10 different races in Single Player mode.</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>Missed Me!</name>
+  <detail>Finish a race in first, second, or third place without being affected by an enemy attack in Single Player mode.</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>Not Even a Scratch</name>
+  <detail>Block/avoid 100 attacks using your Defensive Power in Single Player mode.</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>Bumper Karts</name>
+  <detail>Successfully bump 25 karts in Single Player mode.</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>Alien Force</name>
+  <detail>Successfully bump 50 karts in Single Player mode.</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="S" pid="000">
+  <name>Outta My Way!!!!!</name>
+  <detail>Successfully bump 100 karts in Single Player mode.</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>Get My Drift?</name>
+  <detail>Execute a 500-meter drift in a race in Single Player mode.</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>Kineceleration</name>
+  <detail>Execute a continuous boost of 8 seconds or more in a race in Single Player mode.</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>Prime Drifter</name>
+  <detail>Execute a 750-meter drift in a race in Single Player mode.</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>Big Air</name>
+  <detail>Complete a jump with an air time of 3 seconds in a race in Single Player mode.</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>Way Bigger Air</name>
+  <detail>Complete a jump with an air time of 4 seconds or more in a race in Single Player mode.</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="S" pid="000">
+  <name>On the Right Track</name>
+  <detail>Unlock all grand prix tracks.</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="S" pid="000">
+  <name>Showdowns Galore</name>
+  <detail>Unlock all arena tracks.</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>Double Trouble</name>
+  <detail>Complete 10 2X stunt combos while racing in Single Player mode.</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="000">
+  <name>Triple Threat</name>
+  <detail>Complete 10 3X stunt combos while racing in Single Player mode.</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="S" pid="000">
+  <name>Omni-Trickster</name>
+  <detail>Complete 10 4X stunt combos while racing in Single Player mode.</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="B" pid="000">
+  <name>Air Show</name>
+  <detail>Take out an opponent with a power-up while the opponent is airborne in Single Player mode.</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="B" pid="000">
+  <name>Leapfrog</name>
+  <detail>Pass an opponent by jumping over/past them in Single Player mode.</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="B" pid="000">
+  <name>Absolutely Smashing</name>
+  <detail>Successfully bump an opponent by landing on him in Single Player mode.</detail>
+ </trophy>
+ <trophy id="044" hidden="no" ttype="B" pid="000">
+  <name>Unstoppable!</name>
+  <detail>Win a race by tumbling or spinning over the finish line in Single Player mode.</detail>
+ </trophy>
+ <trophy id="045" hidden="no" ttype="B" pid="000">
+  <name>Close Call</name>
+  <detail>Win a race by less than a second in Single Player mode.</detail>
+ </trophy>
+ <trophy id="046" hidden="no" ttype="B" pid="000">
+  <name>Give 'Em the Slip</name>
+  <detail>Pass an opponent while drifting in Single Player mode.</detail>
+ </trophy>
+ <trophy id="047" hidden="no" ttype="G" pid="000">
+  <name>Codon Infusion</name>
+  <detail>Unlock all characters in the game.</detail>
+ </trophy>
+ <trophy id="048" hidden="no" ttype="S" pid="000">
+  <name>Kart Collector</name>
+  <detail>Unlock all karts in the game.</detail>
+ </trophy>
+ <trophy id="049" hidden="no" ttype="S" pid="000">
+  <name>Galactic Racing Champion</name>
+  <detail>Win a trophy on every circuit in Single Player mode.</detail>
+ </trophy>
+ <trophy id="050" hidden="no" ttype="G" pid="000">
+  <name>Ultimate Trophy Room</name>
+  <detail>Win a first place trophy on every circuit in Single Player mode.</detail>
+ </trophy>
+</trophyconf>

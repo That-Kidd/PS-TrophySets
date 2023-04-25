@@ -1,0 +1,64 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000d972f9117561880e443e65747fb056a37030d4547c0e725dbfe592f09311f393ac2bd8b4aa15c075a6aa85c0c9b87037ee86f95b08689a0a1857c7f3f22c24cf690a2fbc0659be4cc62cfe05cb392baea6bcb30efc86414cc19f6ef7d70113478f1e48a6608b1734a3cc8dcd0358b0829d0a7c5e54307ac915eb3613675c5ff9b7dfb5f7e3c6009bffe8154b6fb4fafccb993082-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="small">
+ <npcommid>NPWR08074_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>SteamWorld Dig</title-name>
+ <title-detail>Trophy set for SteamWorld Dig</title-detail>
+ <trophy id="000" hidden="yes" ttype="B" pid="-1">
+  <name>Scratching the Surface</name>
+  <detail>You found Archaea!</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="-1">
+  <name>Mythical Creatures</name>
+  <detail>You found the Old World!</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="-1">
+  <name>It Goes Deeper!?</name>
+  <detail>You found Vectron!</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="S" pid="-1">
+  <name>Assimilated</name>
+  <detail>Immortalization of a destructible steambot.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Two Kinds of People</name>
+  <detail>Complete the game with more than 20000 gold collected in total.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Quicker Than a Tumbleweed</name>
+  <detail>Complete the game in less than 2 hours, 30 minutes.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Shine on, You Crazy Round Thing</name>
+  <detail>Complete the game with more than 150 orbs collected in total.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Just Like Real Life</name>
+  <detail>Complete the game without getting killed once.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="-1">
+  <name>Master Prospector</name>
+  <detail>Get all four gold stars in the same playthrough.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>It's a Secret to Everybody</name>
+  <detail>Find all secret areas in the caves.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>Fully Loaded</name>
+  <detail>Maximize all upgrades.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="-1">
+  <name>Rock Bottom</name>
+  <detail>Reach the bottom of the world.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="-1">
+  <name>Sequence Breaker</name>
+  <detail>Destroy two generators before entering Vectron.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="-1">
+  <name>Turtle Soup, Yum!</name>
+  <detail>Defeat a turtle submerged in water.</detail>
+ </trophy>
+</trophyconf>

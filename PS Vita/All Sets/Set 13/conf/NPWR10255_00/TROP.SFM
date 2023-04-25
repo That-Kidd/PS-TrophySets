@@ -1,0 +1,164 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000005cf05073120d10bc78145906455a64cce72c55f1670ef33e89913a95e71ce58aeef270ffa57e7ae4c170ccd14b5e302b25249d7e4fea7aa87f9b001a5e118cfb1dda67060c0d99363c796004fea219f4cfc214c157e0c6a3168457e89ea8a84d55bbfa9976add9d0434a1653463407dc559c75fbd520eb3344e8f139c69cdd19c8511491adff8b4d77770784e90cf34fcb5f0b88-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR10255_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>金色のコルダ４</title-name>
+ <title-detail>「金色のコルダ４」のトロフィーパックです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>伝説を超えて</name>
+  <detail>すべてのトロフィーを獲得した</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>オケ部演奏会</name>
+  <detail>オケ部演奏会を開催した</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>星奏学院文化祭</name>
+  <detail>星奏学院文化祭でコンサートを開いた</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>至誠館文化祭</name>
+  <detail>至誠館文化祭でコンサートを開いた</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>神南文化祭</name>
+  <detail>神南文化祭でコンサートを開いた</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>クリスマスコンサート</name>
+  <detail>クリスマスコンサートを開いた</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>ノーマルエンドクリア</name>
+  <detail>通常エンドを見た</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>響也エンドクリア</name>
+  <detail>響也の２つのエンディングを見た</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>律エンドクリア</name>
+  <detail>律の２つのエンディングを見た</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>大地エンドクリア</name>
+  <detail>大地の２つのエンディングを見た</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>ハルエンドクリア</name>
+  <detail>ハルの２つのエンディングを見た</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>八木沢エンドクリア</name>
+  <detail>八木沢の２つのエンディングを見た</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>火積エンドクリア</name>
+  <detail>火積の２つのエンディングを見た</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>新エンドクリア</name>
+  <detail>新の２つのエンディングを見た</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>東金エンドクリア</name>
+  <detail>東金の２つのエンディングを見た</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>土岐エンドクリア</name>
+  <detail>土岐の２つのエンディングを見た</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>冥加エンドクリア</name>
+  <detail>冥加の２つのエンディングを見た</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>天宮エンドクリア</name>
+  <detail>天宮の２つのエンディングを見た</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>七海エンドクリア</name>
+  <detail>七海の２つのエンディングを見た</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="000">
+  <name>須永エンドクリア</name>
+  <detail>須永のエンディングを見た</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="000">
+  <name>一流演奏家</name>
+  <detail>コンサート評価でSSSを達成した</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>仙台のホール満席</name>
+  <detail>仙台のホールを満席にした</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="B" pid="000">
+  <name>神南大学ホール満席</name>
+  <detail>神南大学ホールを満席にした</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>みなとみらいホール満席</name>
+  <detail>みなとみらいホールを満席にした</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="S" pid="000">
+  <name>パシフィコ横浜満席</name>
+  <detail>パシフィコ横浜を満席にした</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="S" pid="000">
+  <name>横浜アリーナ満席</name>
+  <detail>横浜アリーナを満席にした</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>須永の一番弟子</name>
+  <detail>1回のプレイで須永先生に練習を40回受けた</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="B" pid="000">
+  <name>小倉の一番弟子</name>
+  <detail>1回のプレイで小倉先生に練習を40回受けた</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="B" pid="000">
+  <name>滝川の一番弟子</name>
+  <detail>1回のプレイで滝川先生に練習を40回受けた</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="B" pid="000">
+  <name>赤堀の一番弟子</name>
+  <detail>1回のプレイで赤堀先生に練習を40回受けた</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="B" pid="000">
+  <name>柳の一番弟子</name>
+  <detail>1回のプレイで柳先生に練習を40回受けた</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="B" pid="000">
+  <name>エンターティナー</name>
+  <detail>1回のアンサンブル練習で聴衆を500人増やした</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="B" pid="000">
+  <name>ＢＰマスター</name>
+  <detail>1回のアンサンブル練習でBPを800獲得した</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="B" pid="000">
+  <name>街の人気者</name>
+  <detail>1回のプレイで一般人物50人の親密度を50以上にした</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="S" pid="000">
+  <name>情報通</name>
+  <detail>すべての重要人物のメモを収集した</detail>
+ </trophy>
+ <trophy id="035" hidden="yes" ttype="G" pid="000">
+  <name>用語辞典コンプリート</name>
+  <detail>用語辞典をすべて収集した</detail>
+ </trophy>
+ <trophy id="036" hidden="yes" ttype="S" pid="000">
+  <name>画像集コンプリート</name>
+  <detail>画像集をすべて収集した</detail>
+ </trophy>
+ <trophy id="037" hidden="yes" ttype="S" pid="000">
+  <name>楽曲集コンプリート</name>
+  <detail>楽曲集をすべて収集した</detail>
+ </trophy>
+ <trophy id="038" hidden="yes" ttype="G" pid="000">
+  <name>回想録コンプリート</name>
+  <detail>回想録をすべて収集した</detail>
+ </trophy>
+</trophyconf>

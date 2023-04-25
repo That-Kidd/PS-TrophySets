@@ -1,0 +1,124 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000007c59417cc47438a4f6228b5d078b5fcb5f1536684f514e0759a1a67a22e9f6de95d851cda8cf4695a940501af220e4ec50b9826ed814f5859b3d861210d16fbf38f30698990630357325a2ce601cbbce226abb109d24c9737be490b8fb01a2f40b9f9a4d9749d6ae7bf70e64fea7ac53310938e9b1522ab36b32a34a4c1dbb0b7f1b43ee8f20e18747fb77953da63610d06db663-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR05418_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>ゴールデンタイム Vivid Memories</title-name>
+ <title-detail>ゴールデンタイム　トロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>ゴールデンタイム</name>
+  <detail>全てのトロフィーを獲得した</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>キャンパスライフ</name>
+  <detail>ゴールデンタイムをはじめた</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>今、ここにいる俺ら</name>
+  <detail>初めてゴールデンウィークに到達した</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>記憶の軌跡</name>
+  <detail>初めてフローチャート画面を開いた</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>人間関係</name>
+  <detail>初めて相関図を開いた</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>ありふれた結末</name>
+  <detail>香子NORMALエンドを見た</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>そして、おまけんの夏</name>
+  <detail>リンダNORMALエンドを見た</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>映画道</name>
+  <detail>千波NORMALエンドを見た</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>栄光への軌跡？</name>
+  <detail>柳澤NORMALエンドを見た</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="000">
+  <name>覚醒の時、そして……</name>
+  <detail>ネオチルドレンエンドを見た</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="000">
+  <name>フォロー！</name>
+  <detail>ツーショット会話中にフォローを行った</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>コミュ力！</name>
+  <detail>全てのツーショット会話を盛り上げた</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>ふぃーばー！</name>
+  <detail>ＧＴイベントで全てのフィーバーを見た</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>宴マスター</name>
+  <detail>ＧＴイベントで全種類の付箋を集めた</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>履修マスター</name>
+  <detail>選択授業を全て履修した</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="S" pid="000">
+  <name>恋の凱旋</name>
+  <detail>香子GOODエンドを見た</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="S" pid="000">
+  <name>思い出の向こう側</name>
+  <detail>リンダGOODエンドを見た</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="S" pid="000">
+  <name>ふたりの映画</name>
+  <detail>千波GOODエンドを見た</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="S" pid="000">
+  <name>彼の未来は眩しくて</name>
+  <detail>柳澤GOODエンドを見た</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="S" pid="000">
+  <name>感傷を燃やし尽くせ</name>
+  <detail>NANA先輩エンドを見た</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="S" pid="000">
+  <name>少年よ二次元を抱け！</name>
+  <detail>二次元くんエンドを見た</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="S" pid="000">
+  <name>おまけん</name>
+  <detail>全てのミニゲームをプレイした</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="S" pid="000">
+  <name>茶道部メモリーズ！</name>
+  <detail>さおちゃんしーちゃんエンドを全て見た</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="G" pid="000">
+  <name>リアルに充実</name>
+  <detail>キャラクター全員の親密度を最高にした</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="G" pid="000">
+  <name>積み重ねていく記憶</name>
+  <detail>イベントCGをコンプリートした</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="G" pid="000">
+  <name>ここが私のパリ</name>
+  <detail>香子ANOTHERエンドを見た</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="G" pid="000">
+  <name>茶畑に見た永遠</name>
+  <detail>リンダANOTHERエンドを見た</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="G" pid="000">
+  <name>リワインド</name>
+  <detail>外伝を解放した</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="G" pid="000">
+  <name>エンドコンプリート</name>
+  <detail>全てのエンディングを見た</detail>
+ </trophy>
+</trophyconf>

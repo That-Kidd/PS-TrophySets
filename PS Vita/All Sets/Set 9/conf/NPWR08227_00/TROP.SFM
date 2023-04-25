@@ -1,0 +1,200 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000002a533fdd650e9e46b864b9cac2c33e7079d814eb2da36e08d31287d518907ba7151b7363c9afd58165b23d9a7d952893e14c2948486f3aa7d4c9336ffe9957843256bd18b377f90b2de54018c437e9c250b7acdea6ad6dec610fcdb071fc6697deb64fc4dd65c7581fe14440ee7b066b1f063ebc9e3df4f90542d6c833fc9f39b5304d6ef019437a343301ce643873cf560da97-->
+<trophyconf version="1.1" platform="ps3,psp2,ps4" policy="large">
+ <npcommid>NPWR08227_00</npcommid>
+ <trophyset-version>01.02</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>真・三國無雙７ Empires</title-name>
+ <title-detail>真・三國無雙７ Empires Trophy Set</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Empires</name>
+  <detail>獲得所有的獎盃。</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>稱霸修羅</name>
+  <detail>於難易度「修羅」通過任一劇本。</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>歷經人生百態</name>
+  <detail>達成所有的人生態度。</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>人生的大前輩</name>
+  <detail>獲得全部稱號。</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>武器寶庫</name>
+  <detail>購買100種以上的武器。</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>準備齊全</name>
+  <detail>擁有30種以上的裝備道具。</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>超越無雙</name>
+  <detail>以編輯武將擊破所有的無雙武將。</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>智取萬敵</name>
+  <detail>僅靠秘計讓累計擊破數達到10000以上。</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>網羅軍略</name>
+  <detail>全部的軍略指令都執行1次以上。</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>兒孫成堂</name>
+  <detail>小孩的累計人數達到5人以上。</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>無雙大國</name>
+  <detail>將全部的無雙武將都收為麾下。</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>人生如戲</name>
+  <detail>觀賞能在鑑賞室觀看的所有事件。</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="B" pid="000">
+  <name>嫡子誕生</name>
+  <detail>第一個小孩誕生。</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>新的英雄</name>
+  <detail>以編輯武將觀賞任一結局。</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>風流佳事</name>
+  <detail>第一次被告白或第一次告白。</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>桃園結義</name>
+  <detail>第一次結拜兄弟。</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>比翼連理</name>
+  <detail>第一次結婚。</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>繼承者</name>
+  <detail>第一次繼承君主的地位。</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>幹國之器</name>
+  <detail>第一次成為君主。</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>平步青雲</name>
+  <detail>從在野身份被登庸為大將軍/軍師。</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>謀反人</name>
+  <detail>謀反並坐上君主之位。</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>野心的起始</name>
+  <detail>第一次舉事建立勢力。</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>一族之國</name>
+  <detail>形成僅由義兄弟、配偶、小孩所構成的勢力。</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>反骨之相</name>
+  <detail>實行軍略指令「背叛」。</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>建築家</name>
+  <detail>第一次建築設施。</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>阻止大秘計</name>
+  <detail>阻止敵方正在大規模準備中的秘計。</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>享受四季</name>
+  <detail>在以春、夏、秋、冬為背景的關卡作戰，並取得勝利。</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>陽奉陰違</name>
+  <detail>第一次有麾下武將背叛。</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>目標達成者</name>
+  <detail>在一次戰鬥中，達成4個以上的戰功目標。</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>輕而易舉</name>
+  <detail>在戰鬥中以總兵力尚有九成以上的狀態下取得勝利。</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>第一個委託</name>
+  <detail>第一次完成委託。</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>大膽無畏</name>
+  <detail>單身闖進敵地並擊破武將。</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="B" pid="000">
+  <name>天氣變化</name>
+  <detail>使用秘計讓天氣產生變化。</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="B" pid="000">
+  <name>自創集結</name>
+  <detail>在編輯模式當中，將武將、軍旗、軍馬、士兵各創作一個以上。</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>策略家</name>
+  <detail>使用秘計達到100次以上。</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>就任軍師</name>
+  <detail>第一次就任軍師。</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>就任大將軍</name>
+  <detail>第一次就任大將軍。</detail>
+ </trophy>
+ <trophy id="037" hidden="yes" ttype="B" pid="000">
+  <name>吹起勝利之風</name>
+  <detail>參加事件戰鬥「赤壁之戰·聯合軍」並讓諸葛亮的「東南之風」成功。</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>剛起步的政略家</name>
+  <detail>第一次達成政略目標。</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="000">
+  <name>大國</name>
+  <detail>自軍勢力的武將數量達到20人。</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="B" pid="000">
+  <name>壓制據點</name>
+  <detail>在一次戰鬥中，壓制據點10次以上。</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="B" pid="000">
+  <name>溫厚篤實</name>
+  <detail>人德達到「至善」。</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="B" pid="000">
+  <name>目中無人</name>
+  <detail>人德達到「極惡」。</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="B" pid="000">
+  <name>建立信賴</name>
+  <detail>達成委託戰役，並加深與君主之間的友好度。</detail>
+ </trophy>
+ <trophy id="044" hidden="no" ttype="B" pid="000">
+  <name>絕世美貌</name>
+  <detail>一次人生當中，被3位以上的武將告白。</detail>
+ </trophy>
+ <trophy id="045" hidden="no" ttype="B" pid="000">
+  <name>建築專家</name>
+  <detail>相同設施建設達到6座。</detail>
+ </trophy>
+ <trophy id="046" hidden="no" ttype="B" pid="000">
+  <name>貴重的贈禮</name>
+  <detail>第一次被人贈送武器或裝備道具。</detail>
+ </trophy>
+ <trophy id="047" hidden="no" ttype="B" pid="000">
+  <name>少數精銳</name>
+  <detail>於我方兵力比敵方兵力少一定值以上的狀態下戰勝。</detail>
+ </trophy>
+</trophyconf>

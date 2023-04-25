@@ -1,0 +1,84 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000001bb2fab89aabda4cc9c85ac624db19ff1885890e7d02da81f5e08dfd814af2513daf0cf3a67664242faa00bfd31fd11458bb3959cc6bc603fc9d140b7b2f1159dca697deffea876b518321efde00f1842221904c0edd926ad8dc2b435e684aeb82e23978f69e85d388fd3b147c448f781bee35484ca2b85d8c83e0b486e228889279e7c9822c7eae1dde4e8be1743267223c1d33-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR10500_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>シロガネ×スピリッツ！</title-name>
+ <title-detail>『シロガネ×スピリッツ！』トロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>この一太刀に想いを乗せて</name>
+  <detail>『シロガネ×スピリッツ！』を全てプレイしていただき、ありがとうございました</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>壮絶な光景だ</name>
+  <detail>最初のイベントＣＧを見る</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>そうですね、俺は－－</name>
+  <detail>最初の選択肢を選ぶ</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="S" pid="000">
+  <name>い、一緒に、甘味処など、どうですかっ</name>
+  <detail>雪菜ルートに入った</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="S" pid="000">
+  <name>中央まで足を伸ばす気はないか？</name>
+  <detail>真咲ルートに入った</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="S" pid="000">
+  <name>いろいろ……聞いても、いい？</name>
+  <detail>千景ルートに入った</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="000">
+  <name>暇だからきちゃいましたっ！</name>
+  <detail>愛ルートに入った</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="G" pid="000">
+  <name>一振想込</name>
+  <detail>雪菜ルートを最後まで読んだ</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="G" pid="000">
+  <name>不折ノ剣</name>
+  <detail>真咲ルートを最後まで読んだ</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="G" pid="000">
+  <name>家族ノ形</name>
+  <detail>千景ルートを最後まで読んだ</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="G" pid="000">
+  <name>恋武大成</name>
+  <detail>愛ルートを最後まで読んだ</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="G" pid="000">
+  <name>ＢＧＭコンプリート</name>
+  <detail>全てのＢＧＭを聴いた</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="G" pid="000">
+  <name>ＣＧコンプリート</name>
+  <detail>全てのイベントＣＧを見た</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="G" pid="000">
+  <name>ＥＶＥＮＴコンプリート</name>
+  <detail>全てのイベントを読んだ</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="G" pid="000">
+  <name>ＨＥＲＯＩＮＥコンプリート</name>
+  <detail>全てのヒロインルートを読んだ</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="S" pid="000">
+  <name>もうそっとしておいて～～～</name>
+  <detail>はぷにんぐ×ほりでー「雪菜」を読んだ</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="S" pid="000">
+  <name>よ、よせ、見るな……っ！</name>
+  <detail>はぷにんぐ×ほりでー「真咲」を読んだ</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="S" pid="000">
+  <name>……ちゃんちゃん</name>
+  <detail>はぷにんぐ×ほりでー「千景」を読んだ</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="S" pid="000">
+  <name>うにゃあああああああ！</name>
+  <detail>はぷにんぐ×ほりでー「愛」を読んだ</detail>
+ </trophy>
+</trophyconf>

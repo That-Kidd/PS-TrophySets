@@ -1,0 +1,108 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000079aa75818cc53a402b1f58a25d2a303103a0132c4d63f2861d11f17d1c0f6f9195888d0083566f7c2511b0ed89df0da0ff8d23e6b02ba7e6b0b67fb19913bafb983b7e5ec78ec62f242eb4d34eda489b18b0b467d88a15845b9525b3a5efe77785a53c5957e4d39828e5059b0c8b67a60dd94d2f622f20ddf5c9d4ca6943f4e34d7a22237872e23afeb47bfe1bbff8da9720c6a1-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR05924_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>マンガ・カ・ケール</title-name>
+ <title-detail>「マンガ・カ・ケール」のトロフィーセットです</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>マンガ・カ・ケータ</name>
+  <detail>マンガ・カ・ケールを極めた証。あなたの作品を待ちわびる人たちがきっといるはずです。</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>アシスタントを雇う</name>
+  <detail>アシスタントを雇った証。マンガ家生活の第一歩です。</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>秘密の素材</name>
+  <detail>パスワードを入力してマンガ素材を得た証。あなたのマンガに新しい魅力をプラスします。</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>これであなたも先生</name>
+  <detail>自分にペンネームをつけた証。あなたの名前が世に広まることでしょう。</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>運命の分かれ道</name>
+  <detail>第一話ジェネレーターで、生成するマンガの内容が決まった証。あなたの選択で、さまざまなマンガが生まれます。</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="G" pid="000">
+  <name>人気恋愛マンガ家</name>
+  <detail>第一話ジェネレーターの恋愛編をクリアして、恋愛マンガを生成した証。</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="G" pid="000">
+  <name>野球マンガの巨匠</name>
+  <detail>第一話ジェネレーターの野球編をクリアして、野球マンガを生成した証。</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="G" pid="000">
+  <name>国民的ミステリー作家</name>
+  <detail>第一話ジェネレーターのサスペンス編をクリアして、ミステリーマンガを生成した証。</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="G" pid="000">
+  <name>売れっ子バトルマンガ家</name>
+  <detail>第一話ジェネレーターの超能力編をクリアして、サイキックバトルマンガを生成した証。</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>はじめてのマンガ制作</name>
+  <detail>マンガを作って保存した証。あなたの処女作です。</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>マンガ家生活３日目</name>
+  <detail>マンガ家生活を３日目の証。目指せ、脱三日坊主！</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>マンガ家生活５日目</name>
+  <detail>マンガ家生活を５日目の証。マンガ道はまだまだこれからです。</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>マンガ家生活１週間目</name>
+  <detail>マンガ家生活を１週間目の証。手慣れた手つきに慣れを感じます。</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>マンガ家生活２週間目</name>
+  <detail>マンガ家生活を２週間目の証。そろそろマンガ・カ・ケールが習慣になってきたのではないでしょうか。</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="G" pid="000">
+  <name>マンガ家生活３週間目</name>
+  <detail>マンガ家生活を３週間目の証。熟練の技が光ります。</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="G" pid="000">
+  <name>マンガ家生活１ヶ月目</name>
+  <detail>マンガ家生活を１ヶ月目の証。あなたはもう立派なマンガ家です。</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>キャラクターの生みの親</name>
+  <detail>新しいキャラクターを設定した証。</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>絶妙なセリフまわし</name>
+  <detail>コマにふきだしを置いて、セリフを入れた証。</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>絵に音を与える</name>
+  <detail>コマに描き文字を置いた証。</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>迫力の１コマ</name>
+  <detail>コマに効果を置いた証。</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>美しい背景美術</name>
+  <detail>コマに背景を置いた証。</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>感情の表現者</name>
+  <detail>コマに漫符を置いた証。</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>構図のセンス</name>
+  <detail>コマにアイテムを置いた証。</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>走る筆は止まらない</name>
+  <detail>新しいコマを追加した証。</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="G" pid="000">
+  <name>待望のマンガ家デビュー！</name>
+  <detail>投稿サイトにマンガを投稿した証。これであなたもクリエイター。</detail>
+ </trophy>
+</trophyconf>

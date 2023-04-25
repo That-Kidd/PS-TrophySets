@@ -1,0 +1,72 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000007fb9d9f14c7adfb73f2cff4f3fe1795ab2485c5ab29d3fa0ddc8500d2d8d3a2b8a9196f354040b80f5b2915a5bc0bfffec9cf7f56d03723e1f043b23bafc5868e13ecca9e4cdab67b27a9e1d58232f04b5fb35e04749818b374dbb0614732453eae2aa263adcf2a1fde0c06a1b107d771ccec3791a775e71b7ae4610d54d2a1532d6eda7dce9aaf4fb7ff466985fec848b72dc5-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR13779_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Cursed Castilla (Maldita Castilla EX)</title-name>
+ <title-detail>Trophy set for Cursed Castilla</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Legendary knight</name>
+  <detail>Get all trophies!</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Pioneer</name>
+  <detail>Find a Moura tear.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>Collector</name>
+  <detail>Find all Moura tears.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>Firefighter</name>
+  <detail>Save the Amadis of Gaul from the flames.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>Summoner</name>
+  <detail>Invoke the lady of the lake.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>Gentleman</name>
+  <detail>Be kind with the sirens until the end of the game.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>St. Martin</name>
+  <detail>Reveal the statue of Saint Martin.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>Invisible encounter</name>
+  <detail>Find out where the mysterious gamusin people live.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>A note from a Mort</name>
+  <detail>Find Jean Raymond’s note.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>Bad knight</name>
+  <detail>Destroy Moura, but fail to eradicate evil from Tolomera.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>Martyr</name>
+  <detail>Eradicate evil from Tolomera thanks to a pact with Death.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>Champion</name>
+  <detail>Eradicate evil from Tolomera.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>Hero</name>
+  <detail>Eradicate the evil and find out every secret from Tolomera.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="000">
+  <name>Purist</name>
+  <detail>Finish the game using no continues.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="000">
+  <name>Swordmaster</name>
+  <detail>Finish the game equipped with the fire sword.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="G" pid="000">
+  <name>Runner</name>
+  <detail>Eradicate the evil in less than 50 minutes.</detail>
+ </trophy>
+</trophyconf>

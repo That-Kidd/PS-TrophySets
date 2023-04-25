@@ -1,0 +1,92 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000f622581b0d0d83f66d4cf7c0477337b0eaaf167199bea93e6710807a2cbee4a83ff7a8f7d59843205d78d499f4762795a4298d83c2811bd27a5e6fd56a5f965eeb353cc285a4691f6fd845237d8f504b10d9badf4592d528685d805fe4c5aed48ce8ef1346ec35319adc08066b664dc8ded1dceaefd52bcbd4cf111e4669234ec30c045d6d1257ec6a335fc7778c39eb844c0333-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR19565_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Miles &amp; Kilo</title-name>
+ <title-detail>Miles &amp; Kilo</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>大師級</name>
+  <detail>贏得所有獎盃</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="000">
+  <name>貓的追求者</name>
+  <detail>完成了沙灘世界。</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>沙大師</name>
+  <detail>完成了沙漠世界。</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>岩石征服者</name>
+  <detail>完成了山 世界。</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>海盜之禍</name>
+  <detail>完成了廢墟世界。</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>逃脫了！</name>
+  <detail>完成了火山世界。</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>是魚才游泳的</name>
+  <detail>跳到 水面。</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>很有才華</name>
+  <detail>完成了一次時間攻擊 少於10次死亡。</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>尋寶獵人</name>
+  <detail>獲取所有硬幣 於每個級別。</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>盡心盡力的</name>
+  <detail>在每一 關中獲得S級。</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>第一次嘗試！</name>
+  <detail>在時間攻擊完成一關並沒有 死亡。</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>爭分奪秒</name>
+  <detail>在目標時間 內完成一關。</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>不可浪費</name>
+  <detail>完成了一關並沒有 丟掉水果。</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>善良的忍者</name>
+  <detail>完成了一關並沒有 消滅任何敵人。</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>橫衝直撞！</name>
+  <detail>在這一個關消滅所有敵人。</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="G" pid="000">
+  <name>超級馬拉松選手</name>
+  <detail>總共跑了50公里。</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>堅持不懈的回報</name>
+  <detail>失敗25次後 完成一關。</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="G" pid="000">
+  <name>七位數</name>
+  <detail>在PLAY模式下獲得總分 1,000,000。</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>完美！</name>
+  <detail>在一關裡贏得S等級。</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="G" pid="000">
+  <name>要快點！</name>
+  <detail>完成了時間攻擊。</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="G" pid="000">
+  <name>水陸兩用</name>
+  <detail>已完成世界 1-6 無需衝浪。</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,120 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000b32daf9b20bed69c552cf79e44e703a6c201ff0f5642be764721f1b6c99540dcb614674fb74b4f3e67cc28b733dd065014957c9053b98402c1873b1dd7752290ee040df2b00813423bef5ebc6339c38b5b8d0f102659c0d824b30d0f8c02340330a71bedb689df327d17da20497190554343c078185470c0b88cee31b42d8a9a46167255825d8bd70485b93e593378e502b191e6-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR06153_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>爽海バッカニアーズ！</title-name>
+ <title-detail>爽海バッカニアーズ！</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>伝説のバッカニア</name>
+  <detail>すべてのトロフィーを獲得した。</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>真の冒険家</name>
+  <detail>すべてのチャートが開放された。</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>冒険家ライセンス</name>
+  <detail>冒険家ギルドに登録した。</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="G" pid="000">
+  <name>オウグルの秘宝</name>
+  <detail>すべてのエンディングを確認した。</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>ジェイク　トゥルークリア</name>
+  <detail>ジェイクルートをクリアした。</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>クレイヴ　トゥルークリア</name>
+  <detail>クレイヴルートをクリアした。</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>エミリオ　トゥルークリア</name>
+  <detail>エミリオルートをクリアした。</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>フレデリック　トゥルークリア</name>
+  <detail>フレデリックルートをクリアした。</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>ディーン　トゥルークリア</name>
+  <detail>ディーンルートをクリアした。</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>レナード　トゥルークリア</name>
+  <detail>レナードルートをクリアした。</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>ジェイク　ノーマルクリア</name>
+  <detail>ジェイクルートをノーマルクリアした。</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>クレイヴ　ノーマルクリア</name>
+  <detail>クレイヴルートをノーマルクリアした。</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>エミリオ　ノーマルクリア</name>
+  <detail>エミリオルートをノーマルクリアした。</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>フレデリック　ノーマルクリア</name>
+  <detail>フレデリックルートをノーマルクリアした。</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>ディーン　ノーマルクリア</name>
+  <detail>ディーンルートをノーマルクリアした。</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>レナード　ノーマルクリア</name>
+  <detail>レナードルートをノーマルクリアした。</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>海賊との出会い</name>
+  <detail>レッドホーク海賊団と遭遇した。</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>海軍との出会い</name>
+  <detail>海軍第七部隊と遭遇した。</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>劇俳優との出会い</name>
+  <detail>レナードと遭遇した。</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>海賊への道</name>
+  <detail>海賊の仲間になった。</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="000">
+  <name>海兵への道</name>
+  <detail>海軍の仲間になった。</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>第三の道</name>
+  <detail>海賊にも海兵にもならなかった。</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="G" pid="000">
+  <name>ドレイクの財宝</name>
+  <detail>すべてのイベントシーンを収集した。</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="G" pid="000">
+  <name>船乗りたちの逸話</name>
+  <detail>すべてのシナリオを読破した。</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="000">
+  <name>ロストナビの欠片</name>
+  <detail>KeyWordsにすべての単語が登録された。</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>絆を紡ぐ言葉</name>
+  <detail>すべての話題を収集した。</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="G" pid="000">
+  <name>想い出の語らい</name>
+  <detail>Albumですべてのスナップタッチボイスを聞いた。</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="G" pid="000">
+  <name>バッカニアコレクション</name>
+  <detail>すべてのマイプチを手に入れた。</detail>
+ </trophy>
+</trophyconf>

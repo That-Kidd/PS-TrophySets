@@ -1,0 +1,100 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000d78622c4e839b9472309bb0d51dccb37715b81f21df3e1fccbf595ac4a88dc323de06511b9ea1604799ca3e071f961a543b9c08cdce04ee68696f16af6086e2d1f209476a1abacf928298aaf63854823413ee247e459af2de19f8f68dbd81b46c4ba20b285b84f57d22b87dd569f32daff7323a7cf388e73b093d4951679c4bd5ab1eeecfe3dfe2c797c8b4be182ba470e773bef-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR13540_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>OCCULTIC;NINE</title-name>
+ <title-detail>OCCULTIC;NINE</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>眼クルメク世界ノ終ワリ。</name>
+  <detail>OCCULTIC;NINEをやり尽くす</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>カリスマアフィブロガー爆誕？</name>
+  <detail>OCCULTIC;NINEを開始した</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>ネタノヒトカケ</name>
+  <detail>はじめてブログのネタを見つけた</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>ニートになるために</name>
+  <detail>はじめてブログアップした</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="S" pid="000">
+  <name>ニート神降臨！</name>
+  <detail>たくさんブログアップした</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>グラウンド・ゼロ</name>
+  <detail>橋上教授が死んだ</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="000">
+  <name>パラダイム・シフト</name>
+  <detail>３月１日になった</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="G" pid="000">
+  <name>アルカナ・ドリーム</name>
+  <detail>「アルカナ・ドリーム」エンドをクリアした</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="G" pid="000">
+  <name>サモナー・ソウル</name>
+  <detail>「サモナー・ソウル」エンドをクリアした</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="G" pid="000">
+  <name>ムムー・スマイル</name>
+  <detail>「ムムー・スマイル」エンドをクリアした</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="000">
+  <name>パラダイム・チェンジ</name>
+  <detail>「パラダイム・チェンジ」をクリアした</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>オカルティック・ナイン</name>
+  <detail>「オカルティック・ナイン」をクリアした</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="G" pid="000">
+  <name>ゴースト・ダブル</name>
+  <detail>「ゴースト・ダブル」をクリアした</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>CG/25</name>
+  <detail>CGを25％見た</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>CG/50</name>
+  <detail>CGを50％見た</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>CG/75</name>
+  <detail>CGを75％見た</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="G" pid="000">
+  <name>CG/Complete</name>
+  <detail>全てのCGを見た</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="G" pid="000">
+  <name>SOUND/Complete</name>
+  <detail>全てのSOUNDを聴いた</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="G" pid="000">
+  <name>TIPS/Complete</name>
+  <detail>全TIPSを見た</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>はじめてのマママ</name>
+  <detail>MMMを１話でも鑑賞した</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="000">
+  <name>にわか マママ</name>
+  <detail>MMMを１０話鑑賞した</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="S" pid="000">
+  <name>マママ オタク</name>
+  <detail>MMMを２０話鑑賞した</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="G" pid="000">
+  <name>マママ マスター</name>
+  <detail>MMMを全３０話鑑賞した</detail>
+ </trophy>
+</trophyconf>

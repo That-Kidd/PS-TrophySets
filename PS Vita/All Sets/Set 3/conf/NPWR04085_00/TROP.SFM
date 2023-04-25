@@ -1,0 +1,168 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000196afa364fd944986d51bd4b5a2fc85392a7da5f5bd229506e909fdde85a0ec6acf405dc333e09982ed26760686402e8fa854a86d621fd8d12d0cac377d040ab806e0c74490f5aade5a4a9becc02bfd6c952c86b6530792c8f70ca18e1285680f65ae894775ae815b87a4e6aacb1188ba68718adfd7ec198cab90cc3f2190b48eb4e87d4904a0df5b9cf6f94b290b517c2f8e068-->
+<trophyconf version="1.1" platform="ps3,psp2" policy="large">
+ <npcommid>NPWR04085_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>ONE PIECE 海賊無雙２</title-name>
+ <title-detail>ONE PIECE 海賊無雙２　獎盃組</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>去爬上頂點吧！！！</name>
+  <detail>獲得所有獎盃！</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>還有新的冒險在等著我們！！！</name>
+  <detail>完成第一個舞台。</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>我的所有絕招……都再次進化了</name>
+  <detail>第一次使出特色行動。</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>謝謝你！！！！我太感謝你了！！！！</name>
+  <detail>第一次使出夥伴突擊。</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>這裡已經是「新世界」了！！！</name>
+  <detail>完成序章。</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>以後就是……我的時代啦！！！！</name>
+  <detail>完成第二章。</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>我們只是把被搶走的夥伴搶回來而已！！</name>
+  <detail>完成第三章。</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>我們打贏啦！！！！</name>
+  <detail>達成普通結局。</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="G" pid="000">
+  <name>在這片大海上，最自由的人就是海賊王！！！</name>
+  <detail>達成真結局。</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>「海賊」的王者，只要有一個人就夠了！！！</name>
+  <detail>完成所有挑戰劇情。</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>你來成為我的夥伴吧！！</name>
+  <detail>募集１０名以上的夥伴角色。</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>一起去冒險嘛！！！</name>
+  <detail>募集３０名以上的夥伴角色。</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>你們全都是我的家人……</name>
+  <detail>完成所有夥伴章節。</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>看！大豐收！！！</name>
+  <detail>在任一主線章節獲得所有隱藏硬幣。</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>全世界的寶物都是我的！！</name>
+  <detail>獲得所有隱藏硬幣。</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="G" pid="000">
+  <name>人的夢想！！！是不會結束的！！！！</name>
+  <detail>用「超困難」難易度完成所有章節。</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>影像準備好了</name>
+  <detail>鑑賞室出現所有動畫項目。</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>我們知道……歷史的一切……</name>
+  <detail>鑑賞室出現所有項目。</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>我還可以再變得更強</name>
+  <detail>獲得第一個技能。</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>你變強了喔！</name>
+  <detail>獲得１０個技能。</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>真是可靠啊！！！</name>
+  <detail>獲得２０個技能。</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>太好了！！已經拿到了！</name>
+  <detail>獲得第一枚硬幣。</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>好像還有很多其他的種類唷！</name>
+  <detail>獲得１００種以上的硬幣。</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>他好厲害喔～！！！</name>
+  <detail>獲得２５０種以上的硬幣。</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>有幾萬人都沒差！來啊～！！！</name>
+  <detail>總擊破人數超過１０萬人。</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="S" pid="000">
+  <name>太棒啦～可以買很多肉呢！！</name>
+  <detail>累計獲得１億貝里。</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>出手真大方啊！</name>
+  <detail>累計在貝里商店購買１０萬貝里以上。</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="S" pid="000">
+  <name>唔喔喔喔，真闊氣！！！！</name>
+  <detail>累計在貝里商店購買１０００萬貝里以上。</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="S" pid="000">
+  <name>買下全世界！！</name>
+  <detail>累計在貝里商店購買１億貝里以上。</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="S" pid="000">
+  <name>我已經燃燒起來了！！！</name>
+  <detail>在特色行動中擊破５００人。</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>果然是傳說中的怪物呢！！！</name>
+  <detail>累計用必殺技擊破１萬人以上。</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>為什麼打不到！！！</name>
+  <detail>攻擊被使用特色行動的敵人閃過。</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>拋棄生命跟我來吧！！！</name>
+  <detail>分別用５名角色各完成５個舞台。</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>擁有最可怕的力量……！！</name>
+  <detail>分別用１０名角色各完成５個舞台。</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>他已經有……一群可靠的夥伴。</name>
+  <detail>分別用２０名角色各完成５個舞台。</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>居然拿著這麼少見的東西。</name>
+  <detail>獲得第一個隱藏硬幣。</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>沒想到居然有這麼可怕的力量～</name>
+  <detail>獲得第一個技能筆記。</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>我想吃肉啊！！！</name>
+  <detail>獲得１００個以上的「巨大肉」道具。</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>這也太強了吧……！！！</name>
+  <detail>讓敵人昏厥１０００次。</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="000">
+  <name>真不愧是魯夫的夥伴……</name>
+  <detail>用夥伴突擊擊破１萬人。</detail>
+ </trophy>
+</trophyconf>

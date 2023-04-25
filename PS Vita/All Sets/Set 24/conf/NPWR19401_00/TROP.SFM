@@ -1,0 +1,60 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000e3bd8796015b1d4c4aded35c5908ab4c459bc0255890d45d1f9783a64f5df5fcff908178707627406350dd5eb6bd6e6d8016b58f26d8e94ee17b585f96e699bd79fca2dc93131d133d5fb95a8f1538966b002d756543e984f1748c8ea948a13402682e2ff1595e64c66abc90acc93817d96417de59355383e028f9759907a46bc538794582acb92c691746306e23420feccd1527-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR19401_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Without Escape</title-name>
+ <title-detail>Without Escape</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>The Chosen One</name>
+  <detail>Unlock all other trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="000">
+  <name>The Slippers</name>
+  <detail>The comfortable ones</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>Black Box</name>
+  <detail>Investigate your TV</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>The Call</name>
+  <detail>What was the number?</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>Strange Thing</name>
+  <detail>I didn't put it there!</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>Knock Knock</name>
+  <detail>Is there someone?</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>Father's Office</name>
+  <detail>Enter father's office for the first time</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>Always busy</name>
+  <detail>Climb stairs 10 times. Must be completed in one game session.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>Other Dimension</name>
+  <detail>Enter the other dimension for the first time</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>The Eye</name>
+  <detail>Someone is looking at you</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>Traveler Key</name>
+  <detail>You have found the key back to normality</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>Where's everything?</name>
+  <detail>Find the place of the others</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>Without Escape</name>
+  <detail>Finish the game</detail>
+ </trophy>
+</trophyconf>

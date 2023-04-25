@@ -1,0 +1,56 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000016dff2bf29b51115b3b68d6653449a8e7100c75e6b05eddeb3634b4a8b5c6ac6469b11b7968dab9ea1f4cf12d993572ad9e7f347457f98371e78331f75d917bdeb3b7ec08e3a36eee6aaa57f7c034343edc03735927e21c425eb126d913a4f93831243066c08025a807e44ecdefcbf06d16a60deea21e1f1c894bcf5e11e7f6f9b622e5233d08f9f67a1fa0fba9a3947926b27e3-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR15596_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Zero Zero Zero Zero</title-name>
+ <title-detail>Zero Zero Zero Zero</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Platinum Zero</name>
+  <detail>Get all the trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>Shiny</name>
+  <detail>Get your first Gem</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>Bad Luck</name>
+  <detail>Die once</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>Pocket Revolver</name>
+  <detail>Complete 1 level in hard mode</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>Walker</name>
+  <detail>Complete 1 level</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>Anaconda</name>
+  <detail>Complete 2 levels</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>Cobra</name>
+  <detail>Complete 3 levels</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>Diamondback</name>
+  <detail>Complete 5 levels</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>Python</name>
+  <detail>Complete 8 levels</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>Trooper</name>
+  <detail>Complete 13 levels</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>King cobra</name>
+  <detail>Complete 21 levels</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>Dragoon</name>
+  <detail>Complete 34 levels</detail>
+ </trophy>
+</trophyconf>

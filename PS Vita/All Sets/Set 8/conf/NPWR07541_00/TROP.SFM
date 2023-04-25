@@ -1,0 +1,72 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000728d3dc119d06983a0ee8c8da7e33b6ee0eb38ddbb7215a1726061ac5181a7d2fbd11d40706c424a579e3d11b3edcff0a68ea23c1b2e5d5b55cb03f575aedccc6dbab1bd49ae3d2c5208c17140383cc20bb014539a0169f8f14f06bc71702c7845dc34f930ef21c85cab70afc4cc346c5b71cc4a51ebb1c4e376b60b9c8c5893a3eca067e486598d25eff900fd8675870f07ae2d-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR07541_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Best of Arcade Games (FULL)</title-name>
+ <title-detail>Best of Arcade Games (FULL)</title-detail>
+ <trophy id="000" hidden="no" ttype="S" pid="-1">
+  <name>Demolition expert</name>
+  <detail>Brick Breaker: Finish all the levels</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Demolition amateur</name>
+  <detail>Brick Breaker: Reach level 25</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Telekinetic</name>
+  <detail>Brick Breaker: Finish a level without moving the paddle</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Juggler</name>
+  <detail>Brick Breaker: Finish a level with at least 3 balls in play at once</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="-1">
+  <name>Pro bubbler</name>
+  <detail>Bubble Buster: Finish all the levels</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Amateur bubbler</name>
+  <detail>Bubble Buster: Reach level 25</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Raw talent</name>
+  <detail>Bubble Buster: Finish level 32 without buying a bonus</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Minefield</name>
+  <detail>Bubble Buster: Finish level 27 without setting off a bubble that strikes the ceiling</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="-1">
+  <name>Pro builder</name>
+  <detail>Tetraminos: Finish all the levels</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>Amateur builder</name>
+  <detail>Tetraminos: Reach level 25</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>Balance</name>
+  <detail>Tetraminos: Finish level 5</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="-1">
+  <name>Race against the clock</name>
+  <detail>Tetraminos: Finish level 43 in less than 45 seconds</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="-1">
+  <name>Pro hockey player</name>
+  <detail>Air Hockey: Finish all the levels</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="-1">
+  <name>Amateur hockey player</name>
+  <detail>Air Hockey: Reach level 10</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="-1">
+  <name>Unbreachable wall</name>
+  <detail>Air Hockey: Finish level 5 without getting scored on</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="-1">
+  <name>Triple Crown</name>
+  <detail>Air Hockey: Win 3 levels in a row</detail>
+ </trophy>
+</trophyconf>

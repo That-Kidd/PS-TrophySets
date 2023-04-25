@@ -1,0 +1,116 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000007564d5b44fa185831fb813bc131dc1663126fa963e1a02ce6e551030653e2c0dcefbdd20b9a3ef1765341d60001d7a1d2990e8f89727be1ecd558e539f3772a827f20e3eaea556632a44d25375034925c6086aaabc3dd05b60a5cf81259e9ac05fb93d5c8efe4df6db23c5210d700948bc366b82b27f86677aaf1e015aa5d30e1b6d381c9029340882d13078b860e13cc53864fb-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR11822_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>うたの☆プリンスさまっ♪Repeat LOVE</title-name>
+ <title-detail>うたの☆プリンスさまっ♪Repeat LOVEトロフィー</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>UTA☆PRI Repeat LOVE！</name>
+  <detail>全てのトロフィーを獲得した証</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="G" pid="000">
+  <name>彼からの想い</name>
+  <detail>キャラクターのタッチボイスを全て聴く</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="G" pid="000">
+  <name>思い出のフォトブック</name>
+  <detail>イベントイラストを全て回収した</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="G" pid="000">
+  <name>あの頃と、これから</name>
+  <detail>エピソードを全て見た</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="G" pid="000">
+  <name>作曲家としての道</name>
+  <detail>音也・真斗・那月・トキヤ・レン・翔・セシルルートのエンディングを全て見た</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="G" pid="000">
+  <name>戦いと音楽の日々</name>
+  <detail>セシルルートのエンディングを全て見た</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="G" pid="000">
+  <name>Sクラスのみんなと励んだ日々</name>
+  <detail>Sクラス（一ノ瀬トキヤ・神宮寺レン・来栖翔）ルートのエンディングを全て見た</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="G" pid="000">
+  <name>Aクラスのみんなと駆け抜けた日々</name>
+  <detail>Aクラス（一十木音也・聖川真斗・四ノ宮那月）ルートのエンディングを全て見た</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>メモリアルコレクター</name>
+  <detail>全てのメモリアルを集めた</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>知識のメロディー</name>
+  <detail>難易度HARD（学力テスト）のテストでSランクを取得した</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>アナタと奏でる運命の歌</name>
+  <detail>愛島セシルルートの大恋愛エンドまたは恋愛エンドのどちらか1つをクリアした</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>お前と歩いていく道</name>
+  <detail>来栖翔ルートの大恋愛エンドまたは恋愛エンドのどちらか1つをクリアした</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>オレを見つけてくれたキミ</name>
+  <detail>神宮寺レンルートの大恋愛エンドまたは恋愛エンドのどちらか1つをクリアした</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>君と私の信じる未来</name>
+  <detail>一ノ瀬トキヤルートの大恋愛エンドまたは恋愛エンドのどちらか1つをクリアした</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>あなたと紡ぐフレーズ</name>
+  <detail>四ノ宮那月ルートの大恋愛エンドまたは恋愛エンドのどちらか1つをクリアした</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="S" pid="000">
+  <name>お前への想いを旋律に</name>
+  <detail>聖川真斗ルートの大恋愛エンドまたは恋愛エンドのどちらか1つをクリアした</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="S" pid="000">
+  <name>君と一緒に掴んだ夢</name>
+  <detail>一十木音也ルートの大恋愛エンドまたは恋愛エンドのどちらか1つをクリアした</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>サウンドマスター</name>
+  <detail>全てのBGM／SONGを取得した</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>試験問題対策</name>
+  <detail>全ての辞書の内容を読んだ</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>アイドル候補生のプロフィール</name>
+  <detail>初めて「プロフィール」画面を見た</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="000">
+  <name>物語の裏側</name>
+  <detail>初めて「メモリアル」に登録されるワードを取得した</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>初めてのリズムレッスン</name>
+  <detail>リズムレッスンを初めてクリアした</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="B" pid="000">
+  <name>初めての演奏試験</name>
+  <detail>演奏試験を初めてクリアした</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>初めての作詞テスト</name>
+  <detail>作詞テストを初めてクリアした</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="000">
+  <name>初めての学力テスト</name>
+  <detail>学力テストを初めてクリアした</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="B" pid="000">
+  <name>新しい季節の始まり</name>
+  <detail>セシルルートプロローグを読んだ</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>未来への第一歩</name>
+  <detail>共通プロローグを読んだ</detail>
+ </trophy>
+</trophyconf>

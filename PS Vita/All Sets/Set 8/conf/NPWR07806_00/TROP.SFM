@@ -1,0 +1,156 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000003f2efe9c5810192c5638074b97b330c0dfc9ea8f8a803e59f96258a0f52b311692ff911f747ef9812bb274f1134b2f9d695aead7678e130f16b444d78163cdaa18122696182c49ee28366cca23d06ac369981304095229f49b6ca0acb8d21afd9440fac22234b2ff99e82103b551644685d8034316d11eef0c6af919c06b1aa14ffc537c83434fe455b0ea75e9080fabac3d4cb8-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR07806_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Wizardry Labyrinth of Lost Souls</title-name>
+ <title-detail>This is a set of Trophies for Wizardry -Labyrinth of Lost Souls-.</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>100% Cleared</name>
+  <detail>Successfully unlocked all trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Giver of Eternal Rest</name>
+  <detail>Defeated 500 or more Undead creatures</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>Purifier</name>
+  <detail>Defeated 500 or more Demonic creatures</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>The One Called "Dragonslayer"</name>
+  <detail>Defeated 500 or more Draconic creatures</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>Rookie Adventurer</name>
+  <detail>Killed 1,500 or more monsters</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>Hardened Veteran</name>
+  <detail>Killed 15,000 or more monsters</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="G" pid="000">
+  <name>The Doombringer</name>
+  <detail>Killed 50,000 or more monsters</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>Completed Chris' Scenario</name>
+  <detail>Finished the game with Chris (Human Male) as the main character.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>Completed Odetta's Scenario</name>
+  <detail>Finished the game with Odetta (Human Female) as the main character.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>Completed Verne's Scenario</name>
+  <detail>Finished the game with Verne (Elf Male) as the main character.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>Completed Lind's Scenario</name>
+  <detail>Finished the game with Lind (Elf Female) as the main character.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>Completed Pegma's Scenario</name>
+  <detail>Finished the game with Pegma (Dwarf Male) as the main character.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>Completed Nia's Scenario</name>
+  <detail>Finished the game with Nia (Dwarf Female) as the main character.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>Completed Erno's Scenario</name>
+  <detail>Finished the game with Erno (Gnome Male) as the main character.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>Completed Dia's Scenario</name>
+  <detail>Finished the game with Dia (Gnome Female) as the main character.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>Completed Boris' Scenario</name>
+  <detail>Finished the game with Boris (Porklu Male) as the main character.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Completed Asche's Scenario</name>
+  <detail>Finished the game with Asche (Porklu Female) as the main character.</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>Ala Cadaver</name>
+  <detail>Slayed the Ala Cabra</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>Tempestus Wreckage</name>
+  <detail>Slayed the Tempestus Rex</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>Luxurious Anguish</name>
+  <detail>Slayed Luxuria Anguis</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>Savior of the Empire</name>
+  <detail>Successfully finished all character scenarios</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>Wanderer</name>
+  <detail>Played the game for 30 hours</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>Dungeon Dweller</name>
+  <detail>Played the game for 100 hours</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="S" pid="000">
+  <name>Lost Soul</name>
+  <detail>Played the game for 200 hours</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>A Little Help From My Friends</name>
+  <detail>Has at least one character of every class type registered at the guild</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="S" pid="000">
+  <name>Role Model</name>
+  <detail>Advanced at least one character to level 20</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="S" pid="000">
+  <name>Legendary</name>
+  <detail>Advanced at least one character to level 30</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>Casual Collector</name>
+  <detail>Collected at least 30 different items</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>Antique Dealer</name>
+  <detail>Collected at least 70 different items</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="S" pid="000">
+  <name>Museum Curator</name>
+  <detail>Collected at least 100 different items</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>Affluent</name>
+  <detail>Has carried at least 10,000 gold</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="S" pid="000">
+  <name>The Midas Touch</name>
+  <detail>Has carried at least 100,000 gold</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="G" pid="000">
+  <name>A King's Ransom</name>
+  <detail>Has carried at least 1,000,000 gold</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>Amateur Adventurer</name>
+  <detail>Has mapped at least 30% of the Dungeon of Trials</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>Apprentice Cartographer</name>
+  <detail>Has mapped at least 30% of Shiin's Dungeon</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="S" pid="000">
+  <name>Professional Cartographer</name>
+  <detail>Has mapped at least 70% of Shiin's Dungeon</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="G" pid="000">
+  <name>Master Cartographer</name>
+  <detail>Has mapped 100% of Shiin's Dungeon</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,176 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000f7ffa17e723ca14dd9059e7ed445458b85fbdcd6817e5e334e17fca916a0a8dc8024145a4d42692d2369e564e6b6f02b021272a957807f9b05a0317c2f049a761cf762961c4abe27c2ee415b9618136328d37fae0386f93975fd19299f77ac39195c00779c04028e19a27d3bd8eba04bf41335c77a2696491597c8eb504edb3c2086b33c83ff4bac2fe78296618514e085c2372a-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR08419_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>STEINS;GATE</title-name>
+ <title-detail>"STEINS;GATE"</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Sky Clad Observer</name>
+  <detail>Unlocked all trophies.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>The Choice of Steins Gate</name>
+  <detail>Started Steins;Gate.</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>Prologue of the Beginning and the End</name>
+  <detail>Prologue Clear</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>Time Travel Paranoia</name>
+  <detail>Chapter 1 Clear</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>Interpreter Rendezvous</name>
+  <detail>Chapter 2 Clear</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>Butterfly Effect's Divergence</name>
+  <detail>Chapter 3 Clear</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>Chaos Theory Homeostasis</name>
+  <detail>Chapter 4 Clear</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>Dogma in Event Horizon</name>
+  <detail>Chapter 5 Clear</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>Metaphysics Necrosis</name>
+  <detail>Chapter 6 Clear</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="000">
+  <name>Made in Complex</name>
+  <detail>Chapter 7 Clear</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="000">
+  <name>Fractal Androgynous</name>
+  <detail>Chapter 8 Clear</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>Endless Apoptosis</name>
+  <detail>Chapter 9 Clear</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="G" pid="000">
+  <name>Open The Steins Gate</name>
+  <detail>Reached Steins Gate.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>Genius Girl's Melancholy</name>
+  <detail>Made friends with Kurisu via email.</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>Paradox Meltdown</name>
+  <detail>Reached Kurisu's ending.</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="S" pid="000">
+  <name>Stardust Sky</name>
+  <detail>Reached Mayuri's ending.</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="S" pid="000">
+  <name>Irreversible Reboot</name>
+  <detail>Reached Suzuha's ending.</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="S" pid="000">
+  <name>Link of Corruption and Rebirth</name>
+  <detail>Reached Luka's ending.</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="S" pid="000">
+  <name>Isolated Jamais Vu</name>
+  <detail>Reached Faris's ending.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="G" pid="000">
+  <name>All Worldlines Complete</name>
+  <detail>Completed all endings.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>25% CG Achievement</name>
+  <detail>Unlocked 25% of CGs.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>50% CG Achievement</name>
+  <detail>Unlocked 50% of CGs.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>75% CG Achievement</name>
+  <detail>Unlocked 75% of CGs.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>100% CG Achievement</name>
+  <detail>Unlocked all CGs.</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>Memories of the Self</name>
+  <detail>[Phone Trigger] Viewed email send history at least once.</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>Memories of Another</name>
+  <detail>[Phone Trigger] Read an email.</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>Resonant Reaction</name>
+  <detail>[Phone Trigger] Replied to an email.</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>Message of Oblivion</name>
+  <detail>[Phone Trigger] Cleared someone's mail without reading it.</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>Vision Projection</name>
+  <detail>[Phone Trigger] Changed phone wallpaper.</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>First Sound</name>
+  <detail>[Phone Trigger] Changed ringtone.</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>Identity of Complete Isolation</name>
+  <detail>[Phone Trigger] Ignored a phone call.</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="S" pid="000">
+  <name>Hero of RaiNet</name>
+  <detail>[Phone Trigger] Received all 13 RaiNet episode summaries.</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="S" pid="000">
+  <name>Froggy Fad Demise</name>
+  <detail>[Phone Trigger] Received all Gero Froggy wallpapers.</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="S" pid="000">
+  <name>Songs of Chaos</name>
+  <detail>[Phone Trigger] Received 4 songs from a chaotic head.</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="S" pid="000">
+  <name>RaiNet's Mascot</name>
+  <detail>[Phone Trigger] Received 2 Upa wallpapers.</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="S" pid="000">
+  <name>Princesses of Chaos</name>
+  <detail>[Phone Trigger] Received 3 wallpapers of characters from a chaotic head.</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>Discontinuous Qualia</name>
+  <detail>[Phone Trigger] Asked by Kurisu to buy cup noodles twice in a row.</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>Passions Best Forgotten</name>
+  <detail>[Phone Trigger] Learned why Mayuri started making costumes.</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>Warrior Girl's Pride</name>
+  <detail>[Phone Trigger] Received an unusual proposition from Suzuha.</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="000">
+  <name>Cruel Sister</name>
+  <detail>Learned about Luka's relationship to his sister.</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="B" pid="000">
+  <name>Cat's Tea Time</name>
+  <detail>[Phone Trigger] Offered tea by Faris.</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="S" pid="000">
+  <name>Homerun-level Clumsiness</name>
+  <detail>Made 10 mistakes while attempting to set the PhoneWave (name subject to change)'s timer.</detail>
+ </trophy>
+</trophyconf>

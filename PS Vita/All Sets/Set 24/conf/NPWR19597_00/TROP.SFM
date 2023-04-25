@@ -1,0 +1,88 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000009bd92bcca64eb86bb50e3703beb765f807fd179f31aabe4b6e997e8c8f6bd603dcc8014d5928247e1699ba9180178fd357ae9b7e4285bd5cc17db4ca06ea515fc3fb9b5145cee24f1b73c6e2a599f19e24e10c4c7e74073e3fdf8b7fc75fa4cbd244b1bfa49eccde1e1c245a26a9abd8d0c7f00e944454c74cbb58fb9e47d954af94cbc42984f4f11421f053edbfb41e9f6ede69-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR19597_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>METAGAL</title-name>
+ <title-detail>METAGAL</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Platinum GAL</name>
+  <detail>Get all other trophies.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>I'm blue because I've to!</name>
+  <detail>Watch the intro without skipping it.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>This was too easy...</name>
+  <detail>Complete the tutorial level with GAL.00.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>It's Gear time!!</name>
+  <detail>Collect 1 gear.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>This will come handy!</name>
+  <detail>Collect 2 gears.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>I'm going to need too many of these...</name>
+  <detail>Collect 3 gears.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>First Timer</name>
+  <detail>Die for the first time.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>There is no ground!!!</name>
+  <detail>Fall of a level.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>This is spiky!</name>
+  <detail>Die by spikes.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>I will do better this time!!</name>
+  <detail>Rebirth with a gear.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>This will make things easier.</name>
+  <detail>Reach a checkpoint on any level.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>I can use her power now!</name>
+  <detail>Defeat any of your GAL sisters.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>Now I've a shield</name>
+  <detail>Defeat GAL.01 and get the SHIELD.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="000">
+  <name>I can go way faster!</name>
+  <detail>Defeat GAL.02 and get the DASH.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="000">
+  <name>The mines allow to jump higher</name>
+  <detail>Defeat GAL.03 and get the BUSTER.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="G" pid="000">
+  <name>Teleporting is fun!</name>
+  <detail>Defeat GAL.04 and get the WARP.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="G" pid="000">
+  <name>Exploring the Fortress Zone 1</name>
+  <detail>Complete Fortress Zone 1 and defeat GAL.0X.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="G" pid="000">
+  <name>General Creeper first encounter</name>
+  <detail>Complete Fortress Zone 2 and defeat General Creeper first machine.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="G" pid="000">
+  <name>General Creeper second encounter</name>
+  <detail>Complete Fortress Zone 3 and defeat General Creeper second machine.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="G" pid="000">
+  <name>Exploring Fortress Zone 4</name>
+  <detail>Complete Fortress Zone 4 and defeat General Creeper.</detail>
+ </trophy>
+</trophyconf>

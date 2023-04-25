@@ -1,0 +1,52 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000009599bdc1ef06d19fea57ae179c9622d8827eab6b049997cbede4546176a125e6e95de10ebb19d5dc785fe51af31a3ce1ce9808cf335bb713f9d746b97ecf7a77e2706b52fd832ecbd7a12b7f9fdacb6479a9a5838fc4153d0980898aba115d6b7ce2467114c92f609063d97a0452c6af1276775502ef4923315efbe58b8dd087aafe217ba33648088ec99feb309866ad4b9d2f37-->
+<trophyconf version="1.1" platform="psp2">
+ <npcommid>NPWR03127_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Next Education TOEIC(R) TEST</title-name>
+ <title-detail>This is a trophy set of "Next Education TOEIC(R) TEST".&#x0a;A trophy can be earned by answering a problem correctly, playing mini games, &#x0a;or purchasing properties in a shop.&#x0a;Let's learn a lot and aim to obtain all the trophies.&#x0a;</title-detail>
+ <trophy id="000" hidden="no" ttype="G" pid="-1">
+  <name>Got All Trophies</name>
+  <detail>Got all trophies.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="-1">
+  <name>Item Collector</name>
+  <detail>Bought all props.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="-1">
+  <name>Conquest All Questions</name>
+  <detail>All recorded question have the correct answers.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="-1">
+  <name>The Outcome Of The Everyday Efforts</name>
+  <detail>The game time exceed 15 hours.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Challenger</name>
+  <detail>Cleared a challenge course for the first time.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Start Learning</name>
+  <detail>Did Exercise for the first time.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Take The Formal Examination</name>
+  <detail>The set date the learning complete expired.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>By Change</name>
+  <detail>Change the avatar for the first time.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>The Balloon Break Mania</name>
+  <detail>Score more than 1000  on BALLOON SHOOT!(mini game).</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>Have The Sixth Sense</name>
+  <detail>Score more than 1000  on Ghost Hunt(mini game).</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>Intense Reaction</name>
+  <detail>Score more than 1000  on Rush Attack(mini game).</detail>
+ </trophy>
+</trophyconf>

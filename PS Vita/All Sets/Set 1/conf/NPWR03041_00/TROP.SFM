@@ -1,0 +1,204 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000c141e4d64692be4f482e218987ad7e39f377f8486c34cafe4cb7ccdf4f878079f88ae4917a0fcaab4c71b3bf10c19659efa549d57ede27db6992a808e867301b34d3d11cc22df3b3063f0386bf0031caf9699fcf295eadb5f5f39b4910626774443edffd4a01839a66dd0b6fe2f9027c82adf4aaf3d0fa57f3c1454dbace14e50ab9b63f1f29fa613c32a6ef8c53d0ee7109ce5e-->
+<trophyconf version="1.1" platform="psp2">
+ <npcommid>NPWR03041_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>英雄伝説 零の軌跡 Evolution</title-name>
+ <title-detail>英雄伝説 零の軌跡 Evolution</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>『零』を極めし者</name>
+  <detail>全てのトロフィーを取得した。</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>新米捜査官</name>
+  <detail>捜査手帳を受け取った。</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="S" pid="000">
+  <name>一流捜査官</name>
+  <detail>捜査官・１ＳＴになった。</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="S" pid="000">
+  <name>天眼の識者</name>
+  <detail>戦闘手帳の全情報を集めた。</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="S" pid="000">
+  <name>市民のヒーロー</name>
+  <detail>全ての支援要請を達成した。</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="S" pid="000">
+  <name>炎の料理人</name>
+  <detail>全てのレシピを集めた。</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="000">
+  <name>クオーツコレクター</name>
+  <detail>全てのクオーツを集めた。</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>ブックコレクター</name>
+  <detail>全ての『闇医者グレン』と『クロスベルタイムズ』を集めた。</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>インテリアコレクター</name>
+  <detail>全ての家具とエニグマカバーを集めた。</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>トレジャーハンター</name>
+  <detail>全ての宝箱を開いた。</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>爆釣王</name>
+  <detail>全ての魚を釣った。</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>三ツ星シェフ</name>
+  <detail>全ての大成功料理を作成した。</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="B" pid="000">
+  <name>型破りシェフ</name>
+  <detail>全ての予想外料理を作成した。</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="000">
+  <name>百万長者</name>
+  <detail>所持金が1,000,000ミラ以上になった。</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="B" pid="000">
+  <name>継続の粋人</name>
+  <detail>プレイ時間が１００時間を越えた。</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>至高の剣</name>
+  <detail>最強武器を作成した。</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>無双の烈士</name>
+  <detail>誰かのレベルを５０まで上げた。</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>力戦の勇士</name>
+  <detail>戦闘勝利回数１００回達成。</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>奮戦の猛者</name>
+  <detail>戦闘勝利回数５００回達成。</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="S" pid="000">
+  <name>歴戦の勝者</name>
+  <detail>戦闘勝利回数１０００回達成。</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="S" pid="000">
+  <name>千討の志士</name>
+  <detail>敵を２０００体以上倒した。</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>雷光一閃</name>
+  <detail>先制攻撃発生回数１００回達成。</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="B" pid="000">
+  <name>超絶秘技</name>
+  <detail>Ｓブレイク発動回数１００回達成。</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>百花迎撃</name>
+  <detail>敵のアーツ・技の駆動を１００回阻止した。</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="000">
+  <name>起死回生</name>
+  <detail>戦闘でピンチ状態を立て直した。</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="B" pid="000">
+  <name>絢爛攻守</name>
+  <detail>タクティカルボーナス値×３．００以上達成。</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>連戦連破</name>
+  <detail>３連チェインバトルに勝利した。</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="B" pid="000">
+  <name>八頭撃滅</name>
+  <detail>敵８体を同時に倒した。</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="B" pid="000">
+  <name>不倒の勇者</name>
+  <detail>いずれかの章を戦闘不能回数０回でクリアした。</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="B" pid="000">
+  <name>勇往の獅子</name>
+  <detail>いずれかの章を戦闘退却回数０回でクリアした。</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="G" pid="000">
+  <name>孤高の捜査官</name>
+  <detail>難易度ノーマル以上、全員レベル40以下でゲームをクリアした。</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="S" pid="000">
+  <name>腕利き捜査官</name>
+  <detail>難易度ハードでゲームをクリアした。</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="G" pid="000">
+  <name>伝説の捜査官</name>
+  <detail>難易度ナイトメアでゲームをクリアした。</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="B" pid="000">
+  <name>星の狩人</name>
+  <detail>手配魔獣【オーグヴィラージ】を倒した。</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="B" pid="000">
+  <name>月の狩人</name>
+  <detail>手配魔獣【ビジョウ】を倒した。</detail>
+ </trophy>
+ <trophy id="035" hidden="yes" ttype="B" pid="000">
+  <name>太陽の狩人</name>
+  <detail>手配魔獣【ダークレジェンド】を倒した。</detail>
+ </trophy>
+ <trophy id="036" hidden="yes" ttype="B" pid="000">
+  <name>闇の狩人</name>
+  <detail>【レグナ・ヴリエル】を倒した。</detail>
+ </trophy>
+ <trophy id="037" hidden="yes" ttype="B" pid="000">
+  <name>踏み出す決意</name>
+  <detail>序章『特務支援課』をクリアした。</detail>
+ </trophy>
+ <trophy id="038" hidden="yes" ttype="B" pid="000">
+  <name>歩み行く意志</name>
+  <detail>第１章『神狼たちの午後』をクリアした。</detail>
+ </trophy>
+ <trophy id="039" hidden="yes" ttype="B" pid="000">
+  <name>振り切る迷い</name>
+  <detail>第２章『金の太陽、銀の月』をクリアした。</detail>
+ </trophy>
+ <trophy id="040" hidden="yes" ttype="B" pid="000">
+  <name>立ち向かう決意</name>
+  <detail>第３章『クロスベル創立記念祭』をクリアした。</detail>
+ </trophy>
+ <trophy id="041" hidden="yes" ttype="B" pid="000">
+  <name>追求への意志</name>
+  <detail>第４章『忍び寄る叡智』をクリアした。</detail>
+ </trophy>
+ <trophy id="042" hidden="yes" ttype="B" pid="000">
+  <name>新たなる決意</name>
+  <detail>終章『クロスベルの一番長い日』をクリアした。</detail>
+ </trophy>
+ <trophy id="043" hidden="yes" ttype="B" pid="000">
+  <name>身分違いの恋</name>
+  <detail>《黒の競売会》にエリィと参加した。</detail>
+ </trophy>
+ <trophy id="044" hidden="yes" ttype="B" pid="000">
+  <name>世慣れぬ兄妹</name>
+  <detail>《黒の競売会》にティオと参加した。</detail>
+ </trophy>
+ <trophy id="045" hidden="yes" ttype="B" pid="000">
+  <name>悪友の誘い</name>
+  <detail>《黒の競売会》にランディと参加した。</detail>
+ </trophy>
+ <trophy id="046" hidden="yes" ttype="B" pid="000">
+  <name>エリィとの絆</name>
+  <detail>エリィとの絆を深めた。</detail>
+ </trophy>
+ <trophy id="047" hidden="yes" ttype="B" pid="000">
+  <name>ティオとの絆</name>
+  <detail>ティオとの絆を深めた。</detail>
+ </trophy>
+ <trophy id="048" hidden="yes" ttype="B" pid="000">
+  <name>ランディとの絆</name>
+  <detail>ランディとの絆を深めた。</detail>
+ </trophy>
+</trophyconf>

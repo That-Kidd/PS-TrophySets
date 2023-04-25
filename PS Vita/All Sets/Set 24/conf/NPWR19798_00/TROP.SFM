@@ -1,0 +1,100 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000073a54ee9cd05082e5c07b643fef8472635c57eae858dad17cece1b47fbc386e0213f88d65285dddc24dc023f1129f989523b8669a6a61f2092ffc37b65753c1f76bf3feb925bc39372aa944907098ce81ba18abed52e907e754118c549f58eb8f95bbd07b54c6ee2c6b2fa09f67fd21d1f58f71dcb165ce5ad6ac313df2ec236271f30b49535833aa62db8ffd2729047ae8aae6d-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR19798_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>リンク絵 Link-a-Pix Deluxe</title-name>
+ <title-detail>リンク絵 Link-a-Pix Deluxeトロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>リンクマスター</name>
+  <detail>トロフィーをすべて集める</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>カラープレイヤー</name>
+  <detail>10x15のカラーパズルをクリア</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>カラーファイター</name>
+  <detail>15x23のカラーパズルをクリア</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>カラーエキスパート</name>
+  <detail>20x30のカラーパズルをクリア</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>カラーキャプテン</name>
+  <detail>30x45のカラーパズルをクリア</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>カラーエース</name>
+  <detail>40x60のカラーパズルをクリア</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>カラーチャンピオン</name>
+  <detail>50x75のカラーパズルをクリア</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>カラースーパースター</name>
+  <detail>65x100のカラーパズルをクリア</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>モノクロ・アマチュア</name>
+  <detail>10x15のモノクロパズルをクリア</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>モノクロ・プロ</name>
+  <detail>15x23のモノクロパズルをクリア</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>モノクロ・モンスター</name>
+  <detail>20x30のモノクロパズルをクリア</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>モノクロ・マジシャン</name>
+  <detail>30x45のモノクロパズルをクリア</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>モノクロ・マスター</name>
+  <detail>40x60のモノクロパズルをクリア</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>モノクロ・ファンタジスタ</name>
+  <detail>50x75のモノクロパズルをクリア</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>モノクロ・ゴッド</name>
+  <detail>70x50のモノクロパズルをクリア</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>ノーヒント・クリア</name>
+  <detail>修正機能非使用でパズルをクリア</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="G" pid="000">
+  <name>ゴールデンスター</name>
+  <detail>ゴールドトロフィーでパズルをクリア</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="G" pid="000">
+  <name>ガオー！ガオー！</name>
+  <detail>ライオン、トラ、クマでパズルをクリア</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="G" pid="000">
+  <name>ワンワンダフル</name>
+  <detail>犬で5種類のパズルをクリア</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="G" pid="000">
+  <name>ニャンてことだ！</name>
+  <detail>猫で5種類のパズルをクリア</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="G" pid="000">
+  <name>ホーホー！やるな！</name>
+  <detail>フクロウで3種類のパズルをクリア</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="G" pid="000">
+  <name>ピョンでもない！</name>
+  <detail>ウサギで3種類のパズルをクリア</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="G" pid="000">
+  <name>パタパタっと解決！</name>
+  <detail>ペンギンで3種類のパズルをクリア</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,108 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000fc490523963252a278d17f33d3870339bb94a09583d32aab9c41693cb0c18254285664a4ebf168f20efad69ddb441d88c98ddab7b494b3dcda3e49f415997635b9e2f118ea7105eaf49110b882571f0dc7f38a1ace41ee16f6acc664b593f3b46a25f9d90247b9258d2eebcd58023cc7701320ace6ab71651a65380f3caeada336bbbf7375090c3d80bd04a9aed29adcca3c1565-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR07443_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>現代大戦略2016～秩序の崩壊・覇権国家失墜～</title-name>
+ <title-detail>現代大戦略2016～秩序の崩壊・覇権国家失墜～のトロフィーです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>史上最高の指揮官</name>
+  <detail>全てのトロフィーを獲得した証です。</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>傭兵の鏡</name>
+  <detail>援軍依頼をすべて完遂する。</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>歴戦の指揮官</name>
+  <detail>援軍依頼で100回戦闘に勝利する。</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>日々訓練</name>
+  <detail>訓練で50回戦闘に勝利する。</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>発展の功労者</name>
+  <detail>拠点内の全ての施設を最大まで改築する。</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>兵器研究所長</name>
+  <detail>兵器の研究を100回完了する。</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>大富裕の道楽</name>
+  <detail>兵器購入でセレブ商から兵器を購入可能となる。</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="G" pid="000">
+  <name>一大決戦</name>
+  <detail>「NAT分裂・修復できぬ溝」で勝利する。</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>部隊指揮者</name>
+  <detail>1人の士官の練度を最大にする。</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>士気旺盛</name>
+  <detail>1部隊の練度を最大にする。</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>大所帯</name>
+  <detail>30人の士官を雇用する。</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>戦力拡大</name>
+  <detail>30部隊を保有する。</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>傭兵稼業</name>
+  <detail>援軍依頼の半数を完遂した。</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>改築完了</name>
+  <detail>拠点内の1つの施設を最大まで拡張する。</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>兵器開発責任者</name>
+  <detail>兵器の研究を50回完了する。</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="S" pid="000">
+  <name>過去との遭遇</name>
+  <detail>二次大戦シナリオをクリアする。</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>富裕の指揮官</name>
+  <detail>軍資金が1000000を超える。</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>橋頭保確保</name>
+  <detail>初めて拠点を占領する。</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>最初の戦果</name>
+  <detail>初めて敵部隊を撃破する。</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>基礎訓練完了</name>
+  <detail>全てのチュートリアルを完了する。</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>発展の第一歩</name>
+  <detail>初めて拠点内の施設の拡張を行う。</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>新規雇用者</name>
+  <detail>初めて士官を雇用する。</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>研究の始まり</name>
+  <detail>初めて兵器の研究を完了する</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>部隊新設</name>
+  <detail>初めて部隊を購入する。</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>またいつか</name>
+  <detail>初めて士官を解雇する。</detail>
+ </trophy>
+</trophyconf>

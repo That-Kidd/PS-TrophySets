@@ -1,0 +1,44 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000966337a507f6c682de0666985962f633fd28171e9da4f8eaf42e229156fc21683e4cd15d74a603fa5c00636fe6c57873ff9ce3f09ab16fa6076d4f3760dc848297e42f9323ad4f0b70e35d6fb9cc6c0ae3d87c834e77205d0e2dc1d2f87b3eb63ab908e3bdbe15db89e3a2f839cbdff9a7e4a99ed2bb0f0582e6f602732ddec354bbfba52d624700e90f5e83c2efe2843eda5d7c-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR03608_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Jet Set Radio</title-name>
+ <title-detail>Jet Set Radio</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>We got us a crew</name>
+  <detail>Unlock Gum and Tab</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Training wheels</name>
+  <detail>Complete Tutorial</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>First coat applied</name>
+  <detail>Complete Chapter 1</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="-1">
+  <name>Second coat applied</name>
+  <detail>Complete Chapter 2</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="-1">
+  <name>Paint the town red</name>
+  <detail>Complete Chapter 3</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>So creative</name>
+  <detail>Create your own graffiti in all sizes</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="-1">
+  <name>I got Soul</name>
+  <detail>Collect all Graffiti Souls</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="-1">
+  <name>The gangs all here</name>
+  <detail>Unlock all characters</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>King of the street</name>
+  <detail>Complete all missions with any rating</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,104 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000dcf859879216631152b3ef2c11f21aa4555d9796093ec07c2389507247c61a21e32def4f307f9fc42b0b4e30c78b5b12c252d2b77f3b3908412490ee7eb0aae018e212eaba2b5f50d2c364ce0d8a02b7dce5d79e9eb8e1a31791de25e3a309bb0036fdccab22cbf507277b4ba43d4ab50ca3dab037ce7fde1d1ca251acb0c82bcecaed5eebff3d81a5707e5d566e6323c7468813-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR10010_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>BELIEVER！</title-name>
+ <title-detail>BELIEVER！のトロフィーデータです</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>BELIEVER！</name>
+  <detail>全てのトロフィーを獲得した</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="S" pid="000">
+  <name>FirstEND Clear！</name>
+  <detail>初めてハッピーエンドを見た</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="G" pid="000">
+  <name>AllEND Complete！</name>
+  <detail>全てのエンディングを見た</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="G" pid="000">
+  <name>海END Complete！</name>
+  <detail>神代海ルートの全てのエンディングを見た</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="S" pid="000">
+  <name>特別</name>
+  <detail>神代海ルートのハッピーエンドを見た</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>誘われし、闇</name>
+  <detail>神代海ルートのバッドエンドを見た</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="G" pid="000">
+  <name>錬END Complete！</name>
+  <detail>勅使河原錬ルートの全てのエンディングを見た</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>想いを知りたくて</name>
+  <detail>勅使河原錬ルートのハッピーエンドを見た</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>最後の選択</name>
+  <detail>勅使河原錬ルートのバッドエンドを見た</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="G" pid="000">
+  <name>臣END Complete！</name>
+  <detail>舞川臣ルートの全てのエンディングを見た</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>思い出とともに</name>
+  <detail>舞川臣ルートのハッピーエンドを見た</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>死ぬまで続く絶望を――</name>
+  <detail>舞川臣ルートのバッドエンドを見た</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="G" pid="000">
+  <name>響END Complete！</name>
+  <detail>高梨響ルートの全てのエンディングを見た</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>永遠の愛を星に</name>
+  <detail>高梨響ルートのハッピーエンドを見た</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="B" pid="000">
+  <name>破壊の心</name>
+  <detail>高梨響ルートのバッドエンドを見た</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="G" pid="000">
+  <name>遊END Complete！</name>
+  <detail>伊波遊ルートの全てのエンディングを見た</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="S" pid="000">
+  <name>本気の愛を</name>
+  <detail>伊波遊ルートのハッピーエンドを見た</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>かりそめの幸せ</name>
+  <detail>伊波遊ルートのバッドエンドを見た</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>海との思い出</name>
+  <detail>神代海のイベントCGを全てオープンした</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="000">
+  <name>錬との思い出</name>
+  <detail>勅使河原錬のイベントCGを全てオープンした</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>臣との思い出</name>
+  <detail>舞川臣のイベントCGを全てオープンした</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>響との思い出</name>
+  <detail>高梨響のイベントCGを全てオープンした</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>遊との思い出</name>
+  <detail>伊波遊のイベントCGを全てオープンした</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>みんなとの思い出</name>
+  <detail>共通のイベントCGを全てオープンした</detail>
+ </trophy>
+</trophyconf>

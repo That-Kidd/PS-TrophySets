@@ -1,0 +1,84 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000008763eea5514afb489ed882900b5a0a9ccc69fdabac95dac0aa04ba0a479ecb7f50e4f93fc42c623f175f0c1d95e92f93b3834409774be21529eca476a12f805a0337dbd2b074d0679dc0e1f57dcf10637eae4d8f8446c355676b5aacb75362e6abb4f025dcb8b05aa9f43a5454342cd6baffa538c1fd93dc16259f7cb9a56b005721851fd381fb4f8cc8e2a70202872e4a62c185-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR14193_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Spiral Splatter</title-name>
+ <title-detail>Spiral Splatter</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Spiral Splatter Platinum</name>
+  <detail>Good job! Completed all tasks!</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Unlock Stage 2</name>
+  <detail>Congratulations, you've unlocked stage 2</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Unlock Stage 3</name>
+  <detail>Congratulations, you've unlocked stage 3</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>Unlock Stage 4</name>
+  <detail>Congratulations, you've unlocked stage 4</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>Unlock Stage 5</name>
+  <detail>Congratulations, you've unlocked stage 5</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>Unlock Stage 6</name>
+  <detail>Congratulations, you've unlocked stage 6</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>Unlock Stage 7</name>
+  <detail>Congratulations, you've unlocked stage 7</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>Unlock Stage 8</name>
+  <detail>Congratulations, you've unlocked stage 8</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>Unlock Stage 9</name>
+  <detail>Congratulations, you've unlocked stage 9</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>Unlock Stage 10</name>
+  <detail>Congratulations, you've unlocked stage 10</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>Unlock Stage 11</name>
+  <detail>Congratulations, you've unlocked stage 11</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>Complete all levels</name>
+  <detail>Congratulations, you've completed all levels</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>Complete all levels with at least 1 star</name>
+  <detail>Congratulations, you've completed all levels with at least 1 star</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="000">
+  <name>Complete all levels with at least 2 stars</name>
+  <detail>Congratulations, you've completed all levels with at least 2 stars</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="000">
+  <name>Complete all levels with 3 stars</name>
+  <detail>Congratulations, you've completed all levels with 3 stars</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>Splatter 50 times</name>
+  <detail>You have splattered 50 times</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>Splatter 100 times</name>
+  <detail>You have splattered 100 times</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="S" pid="000">
+  <name>Splatter 250 times</name>
+  <detail>You have splattered 250 times</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="G" pid="000">
+  <name>Splatter 500 times</name>
+  <detail>You have splattered 500 times</detail>
+ </trophy>
+</trophyconf>

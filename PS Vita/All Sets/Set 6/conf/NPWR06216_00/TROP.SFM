@@ -1,0 +1,184 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000caaa40a7a166800c3fd91326931aa46904a0d6331f2af3a01cb7c53b4ba591cfed098142d93f5a2b7837e08069310bdbe0d79a0ebc9e4147a43eb67ae8989f6613dd75bf8747ebe6192170c272d2c1b9b701f019689d6137ba7e7cdc5d6f852bc9afbd0978aa7b9b499f845d4b831feeb4561231da6629363df85610395db50846ad159aab23563a7147b513a2ea01491264ef50-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR06216_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>MotoGP™14</title-name>
+ <title-detail>Trofeos de MotoGP™14</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>¡Campeón de MotoGP™14!</name>
+  <detail>Desbloquea todos los trofeos</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>¡Hola, mundo!</name>
+  <detail>Completa tu primera carrera en línea</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Campeonato digital</name>
+  <detail>Completa un campeonato en línea</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Tiro certero</name>
+  <detail>Cambia de categoría durante una Sprint Season en línea</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>¡Bienvenido!</name>
+  <detail>Sal a pista por primera vez en modo Carrera de MotoGP™</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>Diamante en bruto</name>
+  <detail>Firma un contrato por una temporada en Moto3™ en modo Carrera de MotoGP™</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>Tiempos de prueba</name>
+  <detail>Acaba correctamente una sesión de prueba en modo Carrera de MotoGP™</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>Duelo</name>
+  <detail>Vence a uno de tus compañeros de equipo por primera vez en modo Carrera de MotoGP™</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>Abróchate el casco</name>
+  <detail>Desbloquea todos los cascos de tu piloto personal</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>Quédate conmigo</name>
+  <detail>Continúa con tu equipo cuando te ofrezcan la opción de cambiar</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>El cowboy</name>
+  <detail>Completa una carrera en Austin en modo Carrera de MotoGP™</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>Flamenco a dos ruedas</name>
+  <detail>Completa una carrera en Jerez en modo Carrera de MotoGP™</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>24 horas es demasiado</name>
+  <detail>Completa una carrera en Le Mans en modo Carrera de MotoGP™</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>Con dos ruedas basta</name>
+  <detail>Completa una carrera en Catalunya en modo Carrera de MotoGP™</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>Máster universitario</name>
+  <detail>Completa una carrera en Assen en modo Carrera de MotoGP™</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>Breve pero intenso</name>
+  <detail>Completa una carrera en Sachsenring en modo Carrera de MotoGP™</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>En los bosques de Brno</name>
+  <detail>Completa una carrera en Brno en modo Carrera de MotoGP™</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Carrera a las cinco en punto</name>
+  <detail>Completa una carrera en Silverstone en modo Carrera de MotoGP™</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>Todos al mar</name>
+  <detail>Completa una carrera en Misano en modo Carrera de MotoGP™</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Tigre veloz</name>
+  <detail>Completa una carrera en Sepang en modo Carrera de MotoGP™</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>El señor de los anillos</name>
+  <detail>Completa una carrera en Motegi en modo Carrera de MotoGP™</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>En el país de los marsupiales</name>
+  <detail>Completa una carrera en Phillip Island en modo Carrera de MotoGP™</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>Modelo de carrera</name>
+  <detail>Completa una carrera en Mugello en modo Carrera de MotoGP™</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>El nuevo mundo</name>
+  <detail>Completa una carrera en Termas de Río Hondo en modo Carrera de MotoGP™</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>Tic tac tic tac...</name>
+  <detail>Marca un tiempo en cualquier pista en modo Contrarreloj</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>El toque personal</name>
+  <detail>Modifica los ajustes de la moto a través del Ingeniero en el menú del boxes.</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>El exorcista</name>
+  <detail>Mira detrás de ti mientras corres con la cámara del casco activada en cualquier modo de juego</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>Acróbata</name>
+  <detail>Haz un caballito de 8 segundos seguidos en cualquier modo de juego</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>Frenazo</name>
+  <detail>Haz un endo de 2 segundos seguidos en cualquier modo de juego</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>Vuélvelo a hacer</name>
+  <detail>Usa Rewind durante una carrera en cualquier modo de juego</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>¡Bruuuum!</name>
+  <detail>Llega a 300 km/h y mantén la velocidad durante 2 segundos en cualquier modo de juego</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>El regreso de los campeones</name>
+  <detail>Gana una carrera con un piloto de la categoría de campeones de MotoGP™ en cualquier modo de juego</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>No te equivoques...</name>
+  <detail>Gana una carrera con el desgaste y el daño de neumáticos activado en cualquier modo de juego</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="S" pid="000">
+  <name>Cada vez mejor</name>
+  <detail>Firma un contrato por una temporada en Moto2™ en modo Carrera de MotoGP™</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="S" pid="000">
+  <name>Ducati Love</name>
+  <detail>Gana una carrera con una moto del equipo Ducati en modo Carrera de MotoGP™</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="S" pid="000">
+  <name>Honda Love</name>
+  <detail>Gana una carrera con una moto del equipo Repsol Honda en modo Carrera de MotoGP™</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="S" pid="000">
+  <name>Yamaha Love</name>
+  <detail>Gana una carrera con una moto del equipo Movistar Yamaha MotoGP en modo Carrera de MotoGP™</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="S" pid="000">
+  <name>Experto online</name>
+  <detail>Completa 25 carreras en línea</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="S" pid="000">
+  <name>Rey del tiempo intermedio</name>
+  <detail>Gana una carrera de tiempos intermedios en línea</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="S" pid="000">
+  <name>¡Todos a sus puestos y listos!</name>
+  <detail>Desbloquea todos los pilotos del juego</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="G" pid="000">
+  <name>Me estoy acordando de todo...</name>
+  <detail>Completa con éxito todos los eventos del modo "Desafía a los campeones"</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="G" pid="000">
+  <name>Ah, ¡qué recuerdos!</name>
+  <detail>Completa con éxito todos los eventos reales</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="G" pid="000">
+  <name>En la corte de los campeones</name>
+  <detail>Firma un contrato con un equipo de MotoGP™ en modo Carrera de MotoGP™</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="G" pid="000">
+  <name>¡Campeón del mundo!</name>
+  <detail>Conviértete en campeón del mundo de MotoGP™ en modo Carrera de MotoGP™</detail>
+ </trophy>
+</trophyconf>

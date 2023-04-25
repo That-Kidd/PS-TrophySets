@@ -1,0 +1,76 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000c8e19dd0e9a1a1b4b175306517a0794bcf1ff6be0d31859b80949d8528a51244d337b00e25a33a1ea1896af2131ecb869f17b7d5ef837fc668fdca81844b0b73be31251c85ceb76c4548249e57d357995e60600fb436db7989a4c3de9b678d2b8b583e2affb0db7a3f13c4b0b14b164329c8d89714de8fe801b0940d6d4a85ac528784892ff70afe51d75818d29bdd0366e6a0fc-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR10328_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Hitman GO: Definitive Edition</title-name>
+ <title-detail>Troféus para Hitman GO: Definitive Edition</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Agent 47</name>
+  <detail>Consiga todos os troféus de Hitman GO: Definitive Edition.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="000">
+  <name>Game-Set-Partida</name>
+  <detail>Complete todos os objetivos no primeiro capítulo.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>Acabou a Festa</name>
+  <detail>Complete todos os objetivos no segundo capítulo.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>Os Penetras</name>
+  <detail>Complete todos os objetivos no terceiro capítulo.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>Quebra de Acordo</name>
+  <detail>Complete todos os objetivos no quarto capítulo.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>Cortinas Fechadas</name>
+  <detail>Complete todos os objetivos no quinto capítulo.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>Olho Vermelho</name>
+  <detail>Complete todos os objetivos no sexto capítulo.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>Reunião Adiada</name>
+  <detail>Complete todos os objetivos no sétimo capítulo.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>Sujão</name>
+  <detail>Jogue um objeto sem avisar ninguém.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>A Longa Marcha</name>
+  <detail>Jogue pelo menos 1.000 turnos.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>Encantador de Cães</name>
+  <detail>Seja perseguido por três cães de guarda simultaneamente.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>Demolição Controlada</name>
+  <detail>Esmague três inimigos embaixo de uma estátua caindo.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>Assassino Silencioso</name>
+  <detail>Complete todos os objetivos em todos os capítulos sem usar dicas.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>Dois por Um</name>
+  <detail>Mate 2 inimigos de uma vez.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="000">
+  <name>Flashmob</name>
+  <detail>Mate 5 inimigos de uma vez.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>Perda de Tempo</name>
+  <detail>Jogue pelo menos 100 turnos em um único nível.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>Rastejador Nojento</name>
+  <detail>Mate um inimigo ao sair de uma Passagem Secreta.</detail>
+ </trophy>
+</trophyconf>

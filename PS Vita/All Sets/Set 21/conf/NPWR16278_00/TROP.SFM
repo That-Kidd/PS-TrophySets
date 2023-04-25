@@ -1,0 +1,132 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000b1cc34603962788af55d8927eea403e0da08f941696aa303235551ebe95125ffd03a8ee91a078ce459fab0740cc9ee4add5f9910ae98f553ff2c1e6c938032c109b2d7b12ee804b2081e12e73477f92503c9ada01b5b3669e6143c14a5223febdcc638aae73ae4667f42b259fb5e9f11ac535e44a204081f7814eaf6889fe8652f9d6f2ba6cc4464a8278ae927e185492246c2f2-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR16278_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Revenant Dogma</title-name>
+ <title-detail>Trophy set for Revenant Dogma</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Aldora Meister</name>
+  <detail>Obtain all the trophies.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>In the Beginning</name>
+  <detail>Watch the opening sequence.</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>Diverse Allies</name>
+  <detail>Fleon joins the party.</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>Judge and Juror</name>
+  <detail>Reach the Valley of Judgment.</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>A Whole New Ocean</name>
+  <detail>Obtain second ship.</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="S" pid="000">
+  <name>Brother in Despair</name>
+  <detail>Finish normal ending.</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="G" pid="000">
+  <name>Little Joy</name>
+  <detail>Finish true ending "Little Joy".</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="G" pid="000">
+  <name>Feral Realm Lights</name>
+  <detail>Finish true ending "Feral Realm Lights".</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="G" pid="000">
+  <name>Men of Legend</name>
+  <detail>Finish true ending "Men of Legend".</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>Everyone's Hero</name>
+  <detail>Complete all subquests.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>Ethereal Wanderer</name>
+  <detail>Enter Ethereal Est.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>Labyrinth Raider: Novice</name>
+  <detail>Complete labyrinth on easy.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>Labyrinth Raider: Competent</name>
+  <detail>Complete labyrinth on normal.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>Labyrinth Raider: Expert</name>
+  <detail>Complete labyrinth on hard.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="000">
+  <name>Master Raider 100</name>
+  <detail>Complete 100 labyrinth floors on hell.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>Adventurer</name>
+  <detail>Walk 5,000 steps.</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="S" pid="000">
+  <name>World Explorer</name>
+  <detail>Walk 200,000 steps.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>The Hunter</name>
+  <detail>Defeat 1,000 enemies.</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="S" pid="000">
+  <name>Legendary Punisher</name>
+  <detail>Defeat 5,000 enemies.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Skill Novice</name>
+  <detail>Use skills 100 times.</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="S" pid="000">
+  <name>Skill Master</name>
+  <detail>Use skills 2,000 times.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>Mutation</name>
+  <detail>Transform 50 times.</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="S" pid="000">
+  <name>Metamorphosis</name>
+  <detail>Transform 200 times.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>Mighty Blow</name>
+  <detail>Deal 10,000 damage in a single hit.</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="S" pid="000">
+  <name>Final Blow</name>
+  <detail>Deal 100,000 damage in a single hit.</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>Menacing Hit</name>
+  <detail>Take 5,000 damage in a single hit.</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="S" pid="000">
+  <name>Disastrous Hit</name>
+  <detail>Take 20,000 damage in a single hit.</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>Upstart</name>
+  <detail>Spend a total of 500,000 Gold.</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="S" pid="000">
+  <name>Economics Pro</name>
+  <detail>Spend a total of 10 million Gold.</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="G" pid="000">
+  <name>Dogma Hero</name>
+  <detail>Defeat the Guild Hero.</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="G" pid="000">
+  <name>Ultimate Weapon</name>
+  <detail>Acquire weapon rank level 999.</detail>
+ </trophy>
+</trophyconf>

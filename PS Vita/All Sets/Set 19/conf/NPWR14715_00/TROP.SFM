@@ -1,0 +1,96 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000000fe78308c3119a54b7cc707eadf3e5c5ec06978a469cbf4b5e3dcdbdcd8bde93b580f6307e852c898d113bc331adfe08340c7c53c975d84e4136497a725016ee291a8a4787080261cf7aecbabb2d3e749be25346e701061807ef2dd4d85ae0bd1159cbd88ea423cbd757147f094de99fc06f02afe2e62641f71caeda9a6e35ad910bd967cde9d6504bc7795274b9be8c4cc8b360-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR14715_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>LITTLE ADVENTURE ON THE PRAIRIE</title-name>
+ <title-detail>The trophy set of LITTLE ADVENTURE ON THE PRAIRIE</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Big Adventurer</name>
+  <detail>Obtain all trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>Stage 1 Completed </name>
+  <detail>Complete Stage 1</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>Stage 2 Completed </name>
+  <detail>Complete Stage 2</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>Stage 3 Completed </name>
+  <detail>Complete Stage 3</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>Level 1 Completed</name>
+  <detail>Complete Level 1</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>Level 2 Completed</name>
+  <detail>Complete Level 2</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>Level 3 Completed</name>
+  <detail>Complete Level 3</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>Level 4 Completed</name>
+  <detail>Complete Level 4</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>Level 5 Completed</name>
+  <detail>Complete Level 5</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>Level 6 Completed</name>
+  <detail>Complete Level 6</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>Level 7 Completed</name>
+  <detail>Complete Level 7</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>Level 8 Completed</name>
+  <detail>Complete Level 8</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>Level 9 Completed</name>
+  <detail>Complete Level 9</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="000">
+  <name>Level 10 Completed</name>
+  <detail>Complete Level 10</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="000">
+  <name>Level 11 Completed</name>
+  <detail>Complete Level 11</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="G" pid="000">
+  <name>Level 12 Completed</name>
+  <detail>Complete Level 12</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Attack Power Up</name>
+  <detail>Collect your first Attack Power Up</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Double the Power</name>
+  <detail>Raise your Attack power to 2x</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>Triple the Power</name>
+  <detail>Raise your Attack power to 3x</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Shield Up</name>
+  <detail>Collect your first Defensive Shield</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>Double the Defense</name>
+  <detail>Raise your Defensive Shield to 2x</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>Triple the Defense</name>
+  <detail>Raise your Defensive Shield to 3x</detail>
+ </trophy>
+</trophyconf>

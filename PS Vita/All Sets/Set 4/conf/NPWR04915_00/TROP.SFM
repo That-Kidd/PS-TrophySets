@@ -1,0 +1,144 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000003467896633d98e0d7c05f0f698392c979deab071b45f66fc0805dc3c608f1bf0698c329a3467355ac5ad5c3238f392ef76574c6ef921b76bb600ca7fc694b21b6e2ced61775cccd07a7ad2b360c7023123f1d60158f6b2732a5471834db00b1cf33415cd59f4ed97008f6c95210e8d2f7e814baff0d8de136350fabc724027a7aad5e0fb8d7a785e0de7999ed793a3a92f8f3afe-->
+<trophyconf version="1.1" platform="ps3,psp2" policy="large">
+ <npcommid>NPWR04915_00</npcommid>
+ <trophyset-version>01.03</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>FINAL FANTASY X HD Remaster</title-name>
+ <title-detail>FINAL FANTASY X HD Remaster</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Completion</name>
+  <detail>Obtain all available trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Speaking in Tongues</name>
+  <detail>Find 1 Al Bhed Primer</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Teamwork!</name>
+  <detail>Win a blitzball match</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>The Right Thing</name>
+  <detail>Clear the Besaid Cloister of Trials</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>A Talent for Acquisition</name>
+  <detail>Steal successfully with Rikku 200 times</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>All Together</name>
+  <detail>All party members come together</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>Heartstrings</name>
+  <detail>View the "Underwater Date" scene</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>Show Off!</name>
+  <detail>Win a blitzball tournament</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>Striker</name>
+  <detail>Learn the Jecht shot</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>Chocobo License</name>
+  <detail>Pass all chocobo training</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="000">
+  <name>Overcoming the Past</name>
+  <detail>Defeat Yunalesca</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>The Destination of Hatred</name>
+  <detail>Defeat Seymour Omnis</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>Lightning Dancer</name>
+  <detail>Dodge 200 lightning strikes and obtain the reward</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>Feel the Pain</name>
+  <detail>Obtain Anima</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>It's All About the Money</name>
+  <detail>Obtain Yojimbo</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>Delta Attack!</name>
+  <detail>Obtain Magus Sisters</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Theater Enthusiast</name>
+  <detail>Buy every sphere at the Luca Theater</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Chocobo Rider</name>
+  <detail>Win a race with a catcher chocobo with a total time of 0:0:0</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>Power Strike</name>
+  <detail>Do 9999 damage or more in a single attack</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Under the Table</name>
+  <detail>Spend 100,000 gil or more in bribes</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>Messenger from the Past</name>
+  <detail>Obtain all Jecht Spheres</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>Mega Strike</name>
+  <detail>Deal 99999 damage with one attack</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>Chocobo Master</name>
+  <detail>Get 5 treasure chests during the Chocobo Race at Remiem Temple and win the race</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>Sphere Master</name>
+  <detail>Complete a Sphere Grid for one character</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>Blitzball Master</name>
+  <detail>Unlock all slot reels</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="S" pid="000">
+  <name>Learning!</name>
+  <detail>Learn to use all enemy abilities</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="S" pid="000">
+  <name>Summon Master</name>
+  <detail>Obtain all Aeons</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="S" pid="000">
+  <name>Weapon Master</name>
+  <detail>Obtain all Celestial Weapons</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="G" pid="000">
+  <name>Master Linguist</name>
+  <detail>Find all 26 Al Bhed Primers</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="G" pid="000">
+  <name>Perfect Sphere Master</name>
+  <detail>Complete the Sphere Grids for all main characters</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="G" pid="000">
+  <name>Perseverance</name>
+  <detail>Defeat Penance</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="G" pid="000">
+  <name>Overcoming the Nemesis</name>
+  <detail>Defeat Nemesis</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="G" pid="000">
+  <name>The Eternal Calm</name>
+  <detail>Defeat Yu Yevon</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="S" pid="000">
+  <name>A Journey's Catalyst</name>
+  <detail>View "Eternal Calm"</detail>
+ </trophy>
+</trophyconf>

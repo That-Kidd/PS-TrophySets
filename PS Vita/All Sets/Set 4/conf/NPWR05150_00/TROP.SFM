@@ -1,0 +1,68 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000a74660071219cf7301aa8088cc8d9dc5b11a23b1b83e3ec0810906f30d4e58356d760306676ac859f4c73b5e0aabddbbd6beca5063f11a3b6e6ef62ba5145d2ab6d0f0ce29dff921e8a4dd9c590283d5e14529c8439fcd622dff1284818919b719369482bd928a64c4509185c9b7545a8133705d5cbd383851e1ac5a172389973a4cedd5899d60faae865c8fe2ea313e5d4d1364-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR05150_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Age of Zombies</title-name>
+ <title-detail>Age of Zombies</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Darwin Award</name>
+  <detail>You Finished World 1 (Prehistoric)</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Babyface Barry</name>
+  <detail>You finished World 2 (The 1930's)</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Mummies I’d like to frag</name>
+  <detail>You finished World 3 (Egypt)</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Barry san</name>
+  <detail>You finished World 4 (Japan)</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>To the future and back</name>
+  <detail>You finished World 5 (Future)</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>New Sheriff in Town</name>
+  <detail>You finished World 6 (Western)</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="-1">
+  <name>Untouchable</name>
+  <detail>Finish the Story Mode in one sitting without having to use a continue!</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>You ARE Barry Steakfries</name>
+  <detail>Finish the game without dying once</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Peashooter</name>
+  <detail>You finished a level by only firing the pistol</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>SUPERSIZED COMBO!</name>
+  <detail>You earned a 100x or more combo from any weapon pickup</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>Frag Out</name>
+  <detail>You killed 10 Zombies with a single Grenade</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="-1">
+  <name>Mowing the Grass</name>
+  <detail>You killed 50 Zombies with a Buzzsaw</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="-1">
+  <name>Immunity Idol</name>
+  <detail>Survive to Wave 15 on any Survival Mode map</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="-1">
+  <name>SharpShooter</name>
+  <detail>Get 75% or greater accuracy on any Chapter</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="-1">
+  <name>Camper</name>
+  <detail>You killed 20 zombies without moving</detail>
+ </trophy>
+</trophyconf>

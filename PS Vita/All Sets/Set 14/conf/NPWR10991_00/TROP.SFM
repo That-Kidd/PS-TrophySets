@@ -1,0 +1,84 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000008bec84562766cb474a470d1ae991498b460a92ef1eee721c0fc2ee046f6a3abcb7dd21fe3c214c1176f7ad5a5dd869e1da9c9cabf45b126af3544e683cd261407dc3ab421e852645fe4122887a6f2cfdbce3733004a11a2563d50908fe901db9d780c6f628af2f6b45e8c15cd1ec888994e127befdde2a0ef0ba103ca300599a73972ff8216ffc46364a5fcb33b5490d4aec02e0-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR10991_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>ストロベリーノーツ</title-name>
+ <title-detail>『ストロベリーノーツ』トロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>一緒にいたい。その先へ――</name>
+  <detail>『ストロベリーノーツ』を全てプレイしていただき、ありがとうございました</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>風にたなびくスカートと、その向こう側。</name>
+  <detail>最初のイベントＣＧを見る</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>確かな予感を、俺は強く感じている――</name>
+  <detail>プロローグを読み終えた</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="S" pid="000">
+  <name>ＣＧコンプリート</name>
+  <detail>全てのイベントＣＧを見た</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="S" pid="000">
+  <name>ＢＧＭコンプリート</name>
+  <detail>全てのＢＧＭを聴いた</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="S" pid="000">
+  <name>俺の部屋コンプリート</name>
+  <detail>俺の部屋を全て読んだ</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="G" pid="000">
+  <name>平穏な日常</name>
+  <detail>ノーマルルートを読んだ</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="G" pid="000">
+  <name>じゃあ頑張ったご褒美に頭撫でてくれる？</name>
+  <detail>橙子ルートを最後まで読んだ</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="G" pid="000">
+  <name>し、仕方ないからお前の面倒は私が見てやる。</name>
+  <detail>愛姫ルートを最後まで読んだ</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="G" pid="000">
+  <name>これでもすごくドキドキしてるんですよ？</name>
+  <detail>穂海ルートを最後まで読んだ</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="G" pid="000">
+  <name>私、思ってるよりも家庭的。</name>
+  <detail>耶央ルートを最後まで読んだ</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="G" pid="000">
+  <name>わわわわっ！？　ご、ごめんなさいっ！！</name>
+  <detail>みかもルートを最後まで読んだ</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="G" pid="000">
+  <name>いつも姉がお世話になってます。</name>
+  <detail>万里佳ルートを最後まで読んだ</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>くっそぉ、大人をバカにするなー！　覚えてろよ！！</name>
+  <detail>千代里ルートを最後まで読んだ</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>……次は両方は無しよ？（無しですから）</name>
+  <detail>朝霧＆秋沙ルートを最後まで読んだ</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="S" pid="000">
+  <name>べ、別に気にしてないわよっ。こっちこそ、その……悪かったわね。</name>
+  <detail>すずめルートを最後まで読んだ</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="S" pid="000">
+  <name>そうですよね、私なんかと同じベッドで寝るのなんてイヤですよね。</name>
+  <detail>上級生女子Ｃルートを最後まで読んだ</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="G" pid="000">
+  <name>メインヒロインコンプリート</name>
+  <detail>全てのメインヒロインルートを読んだ</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="G" pid="000">
+  <name>サブヒロインコンプリート</name>
+  <detail>全てのサブヒロインルートを読んだ</detail>
+ </trophy>
+</trophyconf>

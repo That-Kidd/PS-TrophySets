@@ -1,0 +1,132 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000003a53369fb6622538fa3786aa439d3b1f4ec3fd6441483e87f1ac9b26ad3733e53e755346aa82e6eb1755b4017a217f0e9ee5a9bb17570d70d00f8b36b9beb3d480b5ac80a338da5991cb70a6d418cf83a63ca39f200ba78127be9eac0fa641dd150c50de930d3c4381ece92d9482e8b16a859cc37e369d1dc3ee0fc62705266fa20bd2de8878d4cadcc019c86472596ff46fd323-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR14280_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>金色のコルダ２ｆｆ　フォルテッシモ</title-name>
+ <title-detail>「金色のコルダ２ｆｆ　フォルテッシモ」のトロフィーパックです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>音楽の祝福</name>
+  <detail>すべてのトロフィーを獲得した</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>第１回コンサート終了</name>
+  <detail>第1回コンサートが終了した</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>第２回コンサート終了</name>
+  <detail>第2回コンサートが終了した</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>第３回コンサート終了</name>
+  <detail>第3回コンサートが終了した</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>第４回コンサート終了</name>
+  <detail>第4回コンサートが終了した</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="S" pid="000">
+  <name>一流演奏家</name>
+  <detail>コンサート評価でSSSを達成した</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="000">
+  <name>技巧派ヴァイオリニスト</name>
+  <detail>コンサートでルスランとリュドミラ序曲を弾いた</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>宣伝部長</name>
+  <detail>1回のコンサートで850人以上の観客を動員した</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>マエストロ</name>
+  <detail>1回のコンサートで8000以上のＢＰを獲得した</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>アンサンブルマスター</name>
+  <detail>1回のアンサンブル練習で1500以上のＢＰを獲得した</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>星奏学院の人気者</name>
+  <detail>1回のプレイで一般生徒10人からプレゼントをもらった</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>ノーマルエンディングクリア</name>
+  <detail>ノーマルエンディングを見た</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="B" pid="000">
+  <name>月森エンディングクリア</name>
+  <detail>月森とのエンディングを見た</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="000">
+  <name>土浦エンディングクリア</name>
+  <detail>土浦とのエンディングを見た</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="B" pid="000">
+  <name>志水エンディングクリア</name>
+  <detail>志水とのエンディングを見た</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>火原エンディングクリア</name>
+  <detail>火原とのエンディングを見た</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>柚木エンディングクリア</name>
+  <detail>柚木とのエンディングを見た</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>加地エンディングクリア</name>
+  <detail>加地とのエンディングを見た</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>冬海エンディングクリア</name>
+  <detail>冬海とのエンディングを見た</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>金澤エンディングクリア</name>
+  <detail>金澤とのエンディングを見た</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="000">
+  <name>王崎エンディングクリア</name>
+  <detail>王崎とのエンディングを見た</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>衛藤エンディングクリア</name>
+  <detail>衛藤とのエンディングを見た</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="B" pid="000">
+  <name>翔麻エンディングクリア</name>
+  <detail>翔麻とのエンディングを見た</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>吉羅エンディングクリア</name>
+  <detail>吉羅とのエンディングを見た</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="S" pid="000">
+  <name>全エンディング制覇</name>
+  <detail>全員のエンディングを見た</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="G" pid="000">
+  <name>恋愛マスター</name>
+  <detail>全員の恋愛段階、友情段階を3以上にする</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="G" pid="000">
+  <name>用語辞典コンプリート</name>
+  <detail>用語辞典をコンプリートした</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="G" pid="000">
+  <name>アルバムコンプリート</name>
+  <detail>想い出のアルバムをコンプリートした</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="G" pid="000">
+  <name>イベントコンプリート</name>
+  <detail>想い出のイベントをコンプリートした</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="G" pid="000">
+  <name>スペシャルコンプリート</name>
+  <detail>想い出のスペシャルをコンプリートした</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="G" pid="000">
+  <name>音楽コンプリート</name>
+  <detail>想い出の音楽をコンプリートした</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,56 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000d66c87603b982a086bed09255bd6f505e6c2061c1c0952d4d57f003f3ffb0f1ae84ea3d4652a43265e682387a82cc94fb4a896d756be1f38f4bb7383595e9c8859b4368d6efe3eb7c95e02114228681bddb43aa64d67a3220df0423593f55c1ba6f7d32cc1a5d13a8ea1dd785309702324904d89175123699e09b9775ba2d2e310e388f88331a774d6ac61786aa029de1f3a72aa-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR15843_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>グリザイア ファントムトリガー ０３＆０４</title-name>
+ <title-detail>グリザイア ファントムトリガー ０３＆０４のトロフィーです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>コンプリート</name>
+  <detail>全てのトロフィーを獲得</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="G" pid="000">
+  <name>大切な銃</name>
+  <detail>トーカがレナにシグマを貸した</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="G" pid="000">
+  <name>聖エール</name>
+  <detail>シルヴィとベルが挨拶に来た</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="G" pid="000">
+  <name>その名もスターゲイザー</name>
+  <detail>トーカとグミが対面した</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="G" pid="000">
+  <name>引っ張っていく立場</name>
+  <detail>「Volume 3」を最後まで読んだ</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="G" pid="000">
+  <name>仙石大雅</name>
+  <detail>タイガがＡ組“預かり”になった</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="G" pid="000">
+  <name>母、覚えていますか？</name>
+  <detail>クリスがタイガに子守唄を聞かせた</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="G" pid="000">
+  <name>タナトスさんと私</name>
+  <detail>クリスがタイガの救出に向かった</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="G" pid="000">
+  <name>とどのつまり</name>
+  <detail>「Volume 4」を最後まで読んだ</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>「Volume 3」CG100%達成</name>
+  <detail>「Volume 3」CG鑑賞をコンプリート</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>「Volume 4」CG100%達成</name>
+  <detail>「Volume 4」CG鑑賞をコンプリート</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>MUSICコンプリート</name>
+  <detail>音楽鑑賞をコンプリート</detail>
+ </trophy>
+</trophyconf>

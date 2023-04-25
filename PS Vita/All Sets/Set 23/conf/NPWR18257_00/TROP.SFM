@@ -1,0 +1,100 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000e3e810f6bbaf3fe739f60f1becbd22faaa9c7c3358ecaa1999113aa057b1c273e5b551eb505c4f05b08e08d74b4d7b6755420b7fa07f434502690bfc45ba008714511dcf9e16536082a4451e4405abbbe0e993f9630870ff4e21ce3f5eb1a39ee44459691c771dab9bed704f777d0e96a3dd7a7d1a8cfa1075cbb11775582b38a7fee58803f4a44a1562021293dcb19b3da5fa1f-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR18257_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Need a packet?</title-name>
+ <title-detail>Need a packet?</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Need a packet? Platinum</name>
+  <detail>Good job! Completed all tasks!</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="S" pid="000">
+  <name>Deadly polluted ending</name>
+  <detail>This city is dead</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="G" pid="000">
+  <name>Polluted ending</name>
+  <detail>Polluted city</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="G" pid="000">
+  <name>Clean ending</name>
+  <detail>Clean city</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>Death</name>
+  <detail>Death</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="S" pid="000">
+  <name>Casual ending</name>
+  <detail>Casual ending</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>10 Packets</name>
+  <detail>10 Packets</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>Wow! 2 weeks</name>
+  <detail>2 weeks from the start</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>NO packets * 15</name>
+  <detail>Deny packets 15 times</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>NO packets * 10</name>
+  <detail>Deny packets 10 times</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>15 Packets</name>
+  <detail>15 Packets</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>30 Packets</name>
+  <detail>30 Packets</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>Defenders * 3</name>
+  <detail>Defenders * 3</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>Defenders * 2</name>
+  <detail>Defenders * 2</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="000">
+  <name>Clean city * 15</name>
+  <detail>Clean city * 15</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>Clean city * 10</name>
+  <detail>Clean city * 10</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>Home comfort * 5</name>
+  <detail>Home comfort * 5</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="G" pid="000">
+  <name>Home comfort * 3</name>
+  <detail>Home comfort * 3</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>Customers * 50</name>
+  <detail>Customers * 50</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="G" pid="000">
+  <name>Customers * 100</name>
+  <detail>Customers * 100</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>Money * 30</name>
+  <detail>Money * 30</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>Money * 60</name>
+  <detail>Money * 60</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="G" pid="000">
+  <name>Money * 90</name>
+  <detail>Money * 90</detail>
+ </trophy>
+</trophyconf>

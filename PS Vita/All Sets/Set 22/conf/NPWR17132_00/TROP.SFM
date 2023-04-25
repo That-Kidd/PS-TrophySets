@@ -1,0 +1,104 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000007d85cf18ee9eab9d80aef3e66a2098e265969f6945eef4683fc6f9f56c855a485057c3a7ded08740b1b717fa12f064c7825f082dc553dcccc5f7912f1be4696e9a18dbef81fa62bed41cea20445dd6e44996d60a80a599b5a9965d14ef963dfaa3fa8d7530408686104a1a840c90decb2eba6b6bd7be3b7e135042a86e35a9151298c66547788d1a469a3e46056f340d18ba63d4-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR17132_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Bonds of the Skies</title-name>
+ <title-detail>Trophy set for Bonds of the Skies</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Complete Conquest</name>
+  <detail>Obtain all trophies.</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>Encounter with Nogard</name>
+  <detail>Reach story No. 5.</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>Encounter with Iks</name>
+  <detail>Reach story No. 10.</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>Encounter with Avi</name>
+  <detail>Reach story No. 15.</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="S" pid="000">
+  <name>Battle against Rednaught</name>
+  <detail>Reach story No. 20.</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="S" pid="000">
+  <name>Looking for an Airship</name>
+  <detail>Reach story No. 25.</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="000">
+  <name>Last Battle with Rednaught</name>
+  <detail>Reach story No. 30.</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="G" pid="000">
+  <name>Game Clear</name>
+  <detail>Clear the main story.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>First Offering</name>
+  <detail>Make offerings for the first time.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>Exciting World</name>
+  <detail>Play at the casino.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>Transformation</name>
+  <detail>Turn into a Pancho.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>Dreaming to Be a Hero</name>
+  <detail>Turn into a hero.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>Eil's Growth</name>
+  <detail>Eil reaches level 70.</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="G" pid="000">
+  <name>Iks' Growth</name>
+  <detail>Iks reaches level 70.</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="G" pid="000">
+  <name>Avi's Growth</name>
+  <detail>Avi reaches level 70.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>Nogard's Growth</name>
+  <detail>Nogard reaches level 11.</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="S" pid="000">
+  <name>Titanus' Growth</name>
+  <detail>Titanus reaches level 11.</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="S" pid="000">
+  <name>Loreley's Growth</name>
+  <detail>Loreley reaches level 11.</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="S" pid="000">
+  <name>Baum's Growth</name>
+  <detail>Baum reaches level 11.</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="S" pid="000">
+  <name>Marcia's Growth</name>
+  <detail>Marcia reaches level 11.</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="S" pid="000">
+  <name>Britz's Growth</name>
+  <detail>Britz reaches level 11.</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="S" pid="000">
+  <name>Rednaught's Growth</name>
+  <detail>Rednaught reaches level 11.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="G" pid="000">
+  <name>Material Collector</name>
+  <detail>Collect all materials.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="G" pid="000">
+  <name>Quest Master</name>
+  <detail>Complete the quest list.</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,56 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000b0fec5ec61daf0f1f1194481032ab42e9c5d7d05507b938492429ad2d5edc1d6b7ec59062b84dff3a09fdb6bd19c03bb9babbb4eb58f560a177f4fab1986f3aeacd2639c23537e1f4083f506a6dac2010b080c248d93dd13ee946b19a71c16de9a6050e9fff5b3ec68afa3a73115032253dd636401608006e7d969c5cb4d68fa3bcda724e1c3cf8e3a8897565dcf03e5c1562aae-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR09273_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Strike Solitaire 2&#x0a;</title-name>
+ <title-detail>Trophy kit for "Strike Solitaire 2"</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Bronze Glove</name>
+  <detail>Use the Shuffle bonus 10 times</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Silver Glove</name>
+  <detail>Use the Shuffle bonus 50 times</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Bronze Joker</name>
+  <detail>Use the Joker bonus 10 times</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Silver Joker</name>
+  <detail>Use the Joker bonus 50 times</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Bowling Expert</name>
+  <detail>Hit the first Strike</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Bowling Star</name>
+  <detail>Complete a lane with 300 points in the Junior Club</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Equipment of master</name>
+  <detail>Buy 3 card slots</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="-1">
+  <name>Golden Glove</name>
+  <detail>Use the Shuffle bonus 100 times</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="-1">
+  <name>Golden Joker</name>
+  <detail>Use the Joker bonus 100 times</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="-1">
+  <name>Bowling Legend</name>
+  <detail>Hit 3 Strikes in a row</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="-1">
+  <name>Juniors Cup</name>
+  <detail>Complete all lanes in the Junior Club</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="-1">
+  <name>Profis Cup</name>
+  <detail>Complete all lanes in the Pro Club</detail>
+ </trophy>
+</trophyconf>

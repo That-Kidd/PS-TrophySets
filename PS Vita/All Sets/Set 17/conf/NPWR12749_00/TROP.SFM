@@ -1,0 +1,152 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000001b1069d2f4fd4b3ca631f2fdc9d2d5df02eb00647c4282c1cf7e86fcc9cd3271c29b128501d1cfd6db2164a5dbe62693ad0e973123ef56aa703992f884bc9eca2260d732b987d6098ffbeb13c3668d02c70948614779b9cbadbe4ba979f449c9d0165e1e439b23bccf4888027cde0c7c7cffe358353de0c459f60d82233e96d0c1ee8948379c4542a7e96ce2634d607974d3e94f-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR12749_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Drive Girls</title-name>
+ <title-detail>Drive Girls</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Drive Girls</name>
+  <detail>Drive Girls has been cleared</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="G" pid="000">
+  <name>Weapon Horder</name>
+  <detail>All CARMS have been collected</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="G" pid="000">
+  <name>Perfect Sticker</name>
+  <detail>All the stickers have been collected</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="G" pid="000">
+  <name>Lanciers Diary</name>
+  <detail>All episodes have been viewed</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="G" pid="000">
+  <name>Bug Busters</name>
+  <detail>All bug types have been suppressed at least once</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>Fully Tuned</name>
+  <detail>A characters stats are maxed out by using L Gear</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="000">
+  <name>Vyron Suppressor</name>
+  <detail>Vylon has been suppressed</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>Bolor Suppressor</name>
+  <detail>Bolor has been suppressed</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>Venom Suppressor</name>
+  <detail>Venom has been suppressed</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>Atom Suppressor</name>
+  <detail>Atom has been suppressed</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>Guzeg Suppressor</name>
+  <detail>Guzeg has been suppressed</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>Galaxa of Sunshine Island</name>
+  <detail>All missions have been challenged</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>Seven's gradebook</name>
+  <detail>The record score has exceeded 10000 points</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>Drive Girls Roll out!</name>
+  <detail>Episode24 has been cleared</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>Research Grant</name>
+  <detail>Total amount of credits has reached 2,000,000</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="S" pid="000">
+  <name>Regalith's pocket money</name>
+  <detail>Total amount of credits has reached 2,000,000</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>Enlistment decision?</name>
+  <detail>Episode 1 has been cleared</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>Drive Girls enlistment!</name>
+  <detail>Episode 2 has been cleared</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>Lanciers feeling</name>
+  <detail>Lancier episode has been cleared</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>Galaxas enlistment</name>
+  <detail>Episode 6 has been cleared</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="000">
+  <name>Galaxas dream</name>
+  <detail>Galaxa episode has been cleared</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>Roaring campaign</name>
+  <detail>Episode 8 has been cleared</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="B" pid="000">
+  <name>Sevens enlistment</name>
+  <detail>Episode 10 has been cleared</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>Sevens passion</name>
+  <detail>Seven episode has been cleared</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="000">
+  <name>Regaliths home</name>
+  <detail>Regalth  has been cleared</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="B" pid="000">
+  <name>Commanders clue</name>
+  <detail>Episode17 has been cleared</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>Commander?</name>
+  <detail>Episode19 has been cleared</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="B" pid="000">
+  <name>Successful rescue</name>
+  <detail>Episode23 has been cleared</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="B" pid="000">
+  <name>George the Frog</name>
+  <detail>Bonus episode 1 has been cleared</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="B" pid="000">
+  <name>A moments respite</name>
+  <detail>Bonus episode 2 has been cleared</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>Ex Injection</name>
+  <detail>Ex injection was used for the first time</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>OVER DRIVE</name>
+  <detail>OVERDRIVE was used for the first time</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>First sticker</name>
+  <detail>Equipped a sticker for the first time</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>Coordinator</name>
+  <detail>A special sticker combination was applied</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>Runner</name>
+  <detail>Heat accelerator was used for the first time in D form</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>Sticker exchange</name>
+  <detail>A sticker was exchanged for the first time</detail>
+ </trophy>
+</trophyconf>

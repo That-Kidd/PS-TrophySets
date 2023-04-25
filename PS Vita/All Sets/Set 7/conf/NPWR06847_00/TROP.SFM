@@ -1,0 +1,196 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000716f6010bc20856898fe39009a256b36270827924006ccac33c35e87bbde9c706a3eea5053a5f69fffb9f72de2ec68e1e74cc8e8466cb251dfcd947aabf0c965c6d0cd3a300cbb8515a090e4cbd33f9eb7ea1ae03df793dc1627cdd028aaaebb3879bc7fba3f315e30b211ba190daed5a747d2d6138be14b7ab9e7dab99fe05bb0fb5fd65c8226503b8e9a71fae9e97fe00c30f9-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR06847_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>ハイスクール DxD NEW FIGHT</title-name>
+ <title-detail>『ハイスクール DxD NEW FIGHT』トロフィー</title-detail>
+ <group id="001">
+  <name>さらに！ドレスブレイク</name>
+  <detail>『ハイスクール DxD NEW FIGHT』ＤＬＣ『さらに！ドレスブレイク』トロフィー</detail>
+ </group>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>ハーレム王に、俺はなる！</name>
+  <detail>全てのトロフィーを獲得した</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>私の為に生きなさい</name>
+  <detail>チュートリアルを完了した</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>仲間募ります！！</name>
+  <detail>第１章クリア</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>聞き込み開始します！！</name>
+  <detail>第２章クリア</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>事情を説明します！！</name>
+  <detail>第３章クリア</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>訓練開始です！！</name>
+  <detail>第４章クリア</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>訓練続きます！！</name>
+  <detail>第５章クリア</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>部長助けます！！</name>
+  <detail>第６章クリア</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>実力はまぁまぁね</name>
+  <detail>ステージボスを倒した</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>なぜ貴様は生きている？</name>
+  <detail>レイドボスを倒した</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>みそこないました</name>
+  <detail>ドレスブレイクを成功させた</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>脳内の紳士フォルダに保存しました！</name>
+  <detail>ドレスブレイクでキャラクターを仲間にした</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>強くおなりなさい</name>
+  <detail>キャラクターを合成した</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>あなたをもっと強くしてあげるわ</name>
+  <detail>キャラクターを進化させた</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>強くなったわね</name>
+  <detail>キャラクターを最終進化させた</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>それが俺の力だ！</name>
+  <detail>キャラクター合成でスキルＬＶが上昇した</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>みんな、力を貸してちょうだい！</name>
+  <detail>キャラクターを２０種類収集</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>もっと仲間を集めます！</name>
+  <detail>キャラクターを４０種類収集</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>もっともっと仲間を集めます！</name>
+  <detail>キャラクターを６０種類収集</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>ハーレムまであと一歩です！</name>
+  <detail>キャラクターを８０種類収集</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>ハーレム軍団の完成です！</name>
+  <detail>キャラクターを１００種類収集</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>最強の軍団、始めます！</name>
+  <detail>キャラクターを５種類最終進化させた</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>最強、見えてきました！</name>
+  <detail>キャラクターを１０種類最終進化させた</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>俺たちの夢をかなえるんだ！</name>
+  <detail>キャラクターを５０種類最終進化させた</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="G" pid="000">
+  <name>夢に向かって一緒に頑張ろう！</name>
+  <detail>キャラクターを１００種類最終進化させた</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="S" pid="000">
+  <name>ＨＲゲットだぜぃ！</name>
+  <detail>ＨＲキャラクターを入手</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="S" pid="000">
+  <name>ＳＲゲットだぜぃ！</name>
+  <detail>ＳＲキャラクターを入手</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="G" pid="000">
+  <name>ＳＳＲゲットだぜぃ！</name>
+  <detail>ＳＳＲキャラクターを入手</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>チェックメイトよ！</name>
+  <detail>レーティングゲームに勝利</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>消し飛ばしてあげるわ！</name>
+  <detail>レーティングゲームでリベンジした</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>文句があるならいつでも相手になってやる！</name>
+  <detail>リベンジで勝利</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>コンプリートです！</name>
+  <detail>レリックを１シリーズコンプリート</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="S" pid="000">
+  <name>つまり駒がフルに揃っているぞ！</name>
+  <detail>デッキのキャラクターを全てＨＲ以上にした</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="S" pid="000">
+  <name>プロモーション！</name>
+  <detail>プロモーションさせた</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>契約成功しました！</name>
+  <detail>ふつう難易度の悪魔稼業を成功させた</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>上級悪魔への第一歩です！</name>
+  <detail>超難関難易度の悪魔稼業を成功させた</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>強くなります！</name>
+  <detail>プレイヤーＬＶ１０に到達</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>もっと強くなります！</name>
+  <detail>プレイヤーＬＶ５０に到達</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="S" pid="000">
+  <name>最強を目指します！</name>
+  <detail>プレイヤーＬＶ１００に到達</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="000">
+  <name>友達、求めます！</name>
+  <detail>フレンドが５名になった</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="B" pid="000">
+  <name>友達、できました！</name>
+  <detail>フレンドが１０名になった</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="B" pid="000">
+  <name>お兄様に頼んでここを増築しましょう！</name>
+  <detail>フレンドが３０名になった</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="G" pid="000">
+  <name>皆勤賞です！</name>
+  <detail>３０日間連続ログインした</detail>
+ </trophy>
+ <trophy id="043" hidden="yes" ttype="G" pid="000">
+  <name>完璧です！</name>
+  <detail>メインクエストの３０エリアを達成率１００％にした</detail>
+ </trophy>
+ <trophy id="044" hidden="yes" ttype="B" pid="-1" gid="001">
+  <name>悪魔の稼業、順調です！</name>
+  <detail>第１４章クリア</detail>
+ </trophy>
+ <trophy id="045" hidden="no" ttype="S" pid="-1" gid="001">
+  <name>全ての紳士フォルダを開放します！</name>
+  <detail>ドレスブレイク画像を１０種購入</detail>
+ </trophy>
+</trophyconf>

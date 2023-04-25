@@ -1,0 +1,76 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000a9bd430e939cc4415af8c5a2def1457fa8586fa76aff9ddcd8948ab4a87aab9d108f1975f30ccf5ae4bcd88b7b0d39860ec1d88596624ece57a6df1bda3295d8883049412e124f81dfc7385849596646ef03ff024406a926dc1107fed9ea5d9d71a49596e4c58c38b14ab9286f7f12c3be8a6b10234edf8ae9779deda3a0c9ba1de3f13a7fb98c74db2f14179ca39a5d3402fa0d-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR09065_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>なないろリンカネーション</title-name>
+ <title-detail>「なないろリンカネーション」のトロフィーです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>全てのトロフィー入手</name>
+  <detail>全てのトロフィーを入手した。</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="000">
+  <name>ゲームスタート</name>
+  <detail>ゲームをスタートした。</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>おまけモード開放</name>
+  <detail>おまけモードが開放された。</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="G" pid="000">
+  <name>伊予ＥＮＤ（伊予と子犬と）</name>
+  <detail>伊予ＥＮＤ（伊予と子犬と）をクリアした。</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="G" pid="000">
+  <name>琴莉ＥＮＤ（リンカネーション）</name>
+  <detail>琴莉ＥＮＤ（リンカネーション）をクリアした。</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="G" pid="000">
+  <name>琴莉ＥＮＤ（続く日常）</name>
+  <detail>琴莉ＥＮＤ（続く日常）をクリアした。</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="G" pid="000">
+  <name>由美ＥＮＤ（三人で）</name>
+  <detail>由美ＥＮＤ（三人で）をクリアした。</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="G" pid="000">
+  <name>梓ＥＮＤ（家族と）</name>
+  <detail>梓ＥＮＤ（家族と）をクリアした。</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="G" pid="000">
+  <name>テキストの既読率１００％</name>
+  <detail>テキストの既読率が１００％になった。</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>ＣＧモードでＣＧを鑑賞</name>
+  <detail>ＣＧモードでＣＧを鑑賞した。</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>ミュージックモードで音楽を鑑賞</name>
+  <detail>ミュージックモードで音楽を鑑賞した。</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>シーンモードでシーンを鑑賞</name>
+  <detail>シーンモードでシーンを鑑賞した。</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>ＣＧモード達成率５０％</name>
+  <detail>ＣＧモードの達成率が５０％を越えた。</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="G" pid="000">
+  <name>ＣＧモード達成率１００％</name>
+  <detail>ＣＧモードの達成率が１００％になった。</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>シーンモード達成率５０％</name>
+  <detail>シーンモードの達成率が５０％を越えた。</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="G" pid="000">
+  <name>シーンモード達成率１００％</name>
+  <detail>シーンモードの達成率が１００％になった。</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="G" pid="000">
+  <name>オールクリア</name>
+  <detail>全てのシナリオをクリアした。</detail>
+ </trophy>
+</trophyconf>

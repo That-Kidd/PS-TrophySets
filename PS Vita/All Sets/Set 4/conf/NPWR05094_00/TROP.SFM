@@ -1,0 +1,72 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000101e9d22b1bcdc2acf17df922cfae2db5ce9c1fa08ec86fc58f9af1cdbf5e89080f4ca4d09799bf6bbbbe99081f8be08624e3a1ea717450f5a75e791ab603f0c9804550d9fead307893c76da6a4b9f80feeb9f946b1ce79e48c42687308063a8ae5827578fbaafa9c7bda860c0b80507b546674abfc2a015281428c310971cca74dd57d6751ce226170fa7acb3bd347173381ed0-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR05094_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>King Oddball</title-name>
+ <title-detail>King Oddball Ends the World!</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>All Birds With One Stone</name>
+  <detail>Complete a level using only one rock.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Head Shot!</name>
+  <detail>Hit the King with a rock.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Headache</name>
+  <detail>Hit the King with a rock three times during a level.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Destroyer of a Thousand</name>
+  <detail>Destroy a thousand enemies.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Thousand Throws</name>
+  <detail>Throw a thousand projectiles.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Four for One</name>
+  <detail>Destroy four enemies with one throw.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Six Pack</name>
+  <detail>Destroy six enemies with one throw.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>More Than Perfect!</name>
+  <detail>Complete a level with one rock and gain more than one extra rock.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Golden Five</name>
+  <detail>Gain five extra rocks during a level.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>World Ender</name>
+  <detail>End the World.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>Kingslayer</name>
+  <detail>Kill the King.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="-1">
+  <name>You Rock!</name>
+  <detail>Complete all One Rock Levels.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="-1">
+  <name>Grenadier</name>
+  <detail>Complete all Grenade Levels.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="-1">
+  <name>Stash of 'Stache</name>
+  <detail>Complete the Stash!</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="-1">
+  <name>Secret Moustache World</name>
+  <detail>Find and complete the Secret Moustache World!</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="G" pid="-1">
+  <name>Full of Diamonds</name>
+  <detail>Collect all diamonds in Hall of Diamonds.</detail>
+ </trophy>
+</trophyconf>

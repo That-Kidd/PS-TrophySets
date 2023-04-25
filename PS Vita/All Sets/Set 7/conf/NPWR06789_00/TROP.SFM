@@ -1,0 +1,48 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000072648990455ba51eac75d3757decc0ddc1927407a7e618f5c98894141ce25d2948267dd01e99e5e42f02d3a0fcde5bdd89131884e588bdc59f832a930a95c5963a60fcfc83dbeb1312e6d196a4099127d5341a04167e89150dd3e51e05e93eee7a413785b16cfca3e1a44741ff8f797177c38409c9746613a1bad103a6aefca475e6fd10bbc4f1c4df625afa57cb3d32b369f1f7-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR06789_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>The Unfinished Swan</title-name>
+ <title-detail>This is the trophy set for The Unfinished Swan.</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Painter</name>
+  <detail>Finish the Garden chapter.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Climber</name>
+  <detail>Finish the Unfinished Empire chapter.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Night Owl</name>
+  <detail>Finish the Nighttime chapter.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Dreamer</name>
+  <detail>Finish the King's Dream chapter.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Rocketeer</name>
+  <detail>Launch a blueprint box 15 metres high.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Spaceman</name>
+  <detail>Launch a blueprint box 30 metres high.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="-1">
+  <name>Balloonist</name>
+  <detail>Release all balloons.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="-1">
+  <name>Page Turner</name>
+  <detail>Reveal every storybook page in the game.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="-1">
+  <name>Minimalist</name>
+  <detail>Reach the Watchtower without throwing more than 3 balls.</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="-1">
+  <name>Telescopic</name>
+  <detail>Look at the sleeping King.</detail>
+ </trophy>
+</trophyconf>

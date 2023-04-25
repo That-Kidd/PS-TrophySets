@@ -1,0 +1,76 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000085aa044643da4bd4730e1ae56637a24555d48eb40a0c8c36aebe5de6333bf0ca002633028fdf23e6518807de9d08ce1d4492a8ea4f22c770a3d28391b268226cbd5afefa77df9d2ede6d58a91964a3da9f587323b796761a99f1ca5b50e6814cda635f05916bc6c8c3b9c2ab6a5d9e2d32044bdf2a286ee327d58179e2cfa2e791c3d70b0db5e1e34a23c676ef6fb7c5535cd2c4-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR08880_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>ALIA's CARNIVAL! サクラメント</title-name>
+ <title-detail>ALIA's CARNIVAL! サクラメント  トロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>全てのトロフィーを取得</name>
+  <detail>全てのトロフィーを獲得した。</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>椎名とかりん</name>
+  <detail>italk 椎名とかりんを見た。</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>月詠の憂鬱</name>
+  <detail>italk 月詠の憂鬱を見た。</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>深窓の姫</name>
+  <detail>italk 深窓の姫を見た。</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>明日葉の野望</name>
+  <detail>italk 明日葉の野望を見た。</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>懐かしい思い出</name>
+  <detail>italk 懐かしい思い出を見た。</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="000">
+  <name>未来の風が吹く</name>
+  <detail>OPムービーを見た。</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="G" pid="000">
+  <name>明日葉エンディング</name>
+  <detail>明日葉シナリオのエンディングに到達した。</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="G" pid="000">
+  <name>月詠エンディング</name>
+  <detail>月詠シナリオのエンディングに到達した。</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="G" pid="000">
+  <name>椎名エンディング</name>
+  <detail>椎名シナリオのエンディングに到達した。</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="G" pid="000">
+  <name>かりんエンディング</name>
+  <detail>かりんシナリオのエンディングに到達した。</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="G" pid="000">
+  <name>弓エンディング</name>
+  <detail>弓シナリオのエンディングに到達した。</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="G" pid="000">
+  <name>七菜エンディング</name>
+  <detail>七菜シナリオのエンディングに到達した。</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="G" pid="000">
+  <name>オールエンディングクリア</name>
+  <detail>全てのヒロインのエンディングを見た。</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="G" pid="000">
+  <name>全イベントCG回収</name>
+  <detail>全てのイベントCGを見た。</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="G" pid="000">
+  <name>全BGM回収</name>
+  <detail>全てのBGMを聴いた。</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="G" pid="000">
+  <name>ICOマスター</name>
+  <detail>全てのICOを集めた。</detail>
+ </trophy>
+</trophyconf>

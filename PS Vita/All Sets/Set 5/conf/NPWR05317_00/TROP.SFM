@@ -1,0 +1,176 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000009ca73dd45c2ef527f97dca45ef248b2bcd8ee376635edc9354ee6ce2f354c8e3bb74e3f312fcc6ebbc355ffc428c694e7ab8bee2b4c0214bc296fa2f9360818aaf5f5ffc89cb5d7ca8970faf7ba22a2a721f74b552358e005f4932d4d25c9d602393aa2e53b3c05ae5f49d44873f5f323060b7d77aaf1e2bb499927ce99586c156d3470b623c23ca709102af5777c848eaa3b55e-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR05317_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>The Amazing Spider-Man</title-name>
+ <title-detail>The Amazing Spider-Man trophies</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Does everything a spider can! </name>
+  <detail>Unlock all Trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Peter Parker</name>
+  <detail>Complete the game on human difficulty</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>Vigilante</name>
+  <detail>Complete the game on hero difficulty</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>Spider-Man</name>
+  <detail>Complete the game on super hero difficulty</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>On the Fly</name>
+  <detail>Collect all 700 Spider-Man Comic Pages</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>Librarian</name>
+  <detail>Collect all magazines</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>Tech Savvy</name>
+  <detail>Collect all hidden Tech Pieces</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>Corporate</name>
+  <detail>Collect all Oscorp Manuals</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>Journalist</name>
+  <detail>Collect all audio evidence</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>I'm on a Roll!</name>
+  <detail>Achieve a combo streak of 42</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>FYI I'm Spider-Man</name>
+  <detail>Perform 25 Signature Moves</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>Haymaker</name>
+  <detail>Perform a Web-Rush punch</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>Keep It Together</name>
+  <detail>Immobilize 6 enemies simultaneously with web</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>Stick to the Plan</name>
+  <detail>Defeat 50 enemies by performing Stealth Takedowns</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>All Tied Up</name>
+  <detail>Defeat 100 enemies by performing Stealth Takedowns</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>Who's the Prey?</name>
+  <detail>Clear the first fight against the Hunter robots</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>Beating the Odds</name>
+  <detail>Clear the second fight against the Hunter robots</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="S" pid="000">
+  <name>Siege Averted</name>
+  <detail>Defeat the S-01</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="S" pid="000">
+  <name>Big Apple, Big Worm</name>
+  <detail>Defeat the S-02</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="S" pid="000">
+  <name>Tomorrow Is Saved</name>
+  <detail>Defeat the S-03</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>Clean Victory</name>
+  <detail>Defeat a Hunter without using your Web-Shooters</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>The Sky Is the Limit</name>
+  <detail>Defeat the S-01 without touching the ground</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="S" pid="000">
+  <name>Switched Off</name>
+  <detail>Rescue Alistaire Smythe</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>Tail? You Lose</name>
+  <detail>Defeat Scorpion in quarantine</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="000">
+  <name>Jinxed</name>
+  <detail>Defeat Felicia</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="B" pid="000">
+  <name>Smell You Later</name>
+  <detail>Defeat Vermin</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>Deeply Sorry</name>
+  <detail>Defeat Nattie</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="S" pid="000">
+  <name>Welcome Back, Friend</name>
+  <detail>Defeat Lizard</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>Lightweight Champion</name>
+  <detail>Defeat 100 enemies</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="S" pid="000">
+  <name>Middleweight Champion</name>
+  <detail>Defeat 500 enemies</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="G" pid="000">
+  <name>Heavyweight Champion</name>
+  <detail>Defeat 1000 enemies</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>Ultimate Spider-Man</name>
+  <detail>Acquire all upgrades</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>Sky Captain</name>
+  <detail>Chain 10 Web-Rushes in the city</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>Sanitized</name>
+  <detail>Rescue all infected civilians</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>Peace of Mind</name>
+  <detail>Return all escapees to the police</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>Car Hopper</name>
+  <detail>Clear all car chases</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>Negotiator</name>
+  <detail>Resolve all police deadlocks</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>Call Interrupted</name>
+  <detail>Destroy a Seeker before it can call a Hunter</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>Friendly Neighbor</name>
+  <detail>Save a hostage caught in a petty crime </detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="000">
+  <name>Gladiator</name>
+  <detail>Complete all Oscorp Secret Research Labs</detail>
+ </trophy>
+ <trophy id="040" hidden="yes" ttype="B" pid="000">
+  <name>Speed Bump Ahead</name>
+  <detail>Defeat Rhino in the city</detail>
+ </trophy>
+ <trophy id="041" hidden="yes" ttype="B" pid="000">
+  <name>Pest Control</name>
+  <detail>Defeat Scorpion in the city</detail>
+ </trophy>
+</trophyconf>

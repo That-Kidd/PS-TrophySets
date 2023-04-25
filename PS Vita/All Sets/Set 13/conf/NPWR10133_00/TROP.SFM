@@ -1,0 +1,136 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000032504de1ff199ade82840f15ca3d7c4d18c3265f940e01b362ec6252855cbe3eebbea48bc5978bee2d25acad099914b71d2e9a3ba5d897deba9634f7459477e49766ac016987ea976cd4defa9b217ca06df35d693485810168cd60f2ff3ccc9b62f9e9f170705295cd09e5e2bb765d9ff3b7cbc5c3fa5f999446d4c116cbc0201139fbb3ac2beafb7de78fac5e1c810c8798adc0-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR10133_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>逢魔が刻 ～かくりよの縁～</title-name>
+ <title-detail>逢魔が刻 ～かくりよの縁～ トロフィー</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>逢魔が刻</name>
+  <detail>全てのトロフィーを獲得した</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>エンディングフルコンプ</name>
+  <detail>全てのエンディングを見た</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>用語集フルコンプ</name>
+  <detail>用語集を全て埋めた</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>イベントCGフルコンプ</name>
+  <detail>全てのイベントCGを見た</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>覚醒</name>
+  <detail>全ての深追いを行った</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>突然の非日常</name>
+  <detail>共通第1章をクリアした</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>幽世の出会い</name>
+  <detail>共通第2章をクリアした</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>事件を調査</name>
+  <detail>共通第3章をクリアした</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>それぞれとの日常1</name>
+  <detail>共通第4章をクリアした</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>それぞれとの日常2</name>
+  <detail>共通第5章をクリアした</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>幽世の存在</name>
+  <detail>共通第6章をクリアした</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>本当の気持ち</name>
+  <detail>共通第7章をクリアした</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>潜入捜査</name>
+  <detail>共通第8章をクリアした</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>花見</name>
+  <detail>共通第9章をクリアした</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="B" pid="000">
+  <name>いつもの幽世</name>
+  <detail>颯のグッドエンドを見た</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="S" pid="000">
+  <name>あなたの神籬</name>
+  <detail>颯のベストエンドを見た</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>本日も調査日和</name>
+  <detail>常磐のグッドエンドを見た</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="S" pid="000">
+  <name>再会した幼馴染</name>
+  <detail>常磐のベストエンドを見た</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>幽世に生きる存在</name>
+  <detail>礎奏太のグッドエンドを見た</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="S" pid="000">
+  <name>新しい日常</name>
+  <detail>礎奏太のベストエンドを見た</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="000">
+  <name>先生と私</name>
+  <detail>宵宮のグッドエンドを見た</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="S" pid="000">
+  <name>もう一歩進む勇気</name>
+  <detail>宵宮のベストエンドを見た</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="B" pid="000">
+  <name>遠くて近い幽世</name>
+  <detail>月白のグッドエンドを見た</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="S" pid="000">
+  <name>狐の嫁入り</name>
+  <detail>月白のベストエンドを見た</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>誤った選択</name>
+  <detail>いずれかのバッドエンドを見た</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>戻らない日常</name>
+  <detail>共通ノーマルエンドを見た</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="G" pid="000">
+  <name>揃った幸せ</name>
+  <detail>トゥルーエンドを見た</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="S" pid="000">
+  <name>颯コンプ</name>
+  <detail>颯の全てのエンディングを見た</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="S" pid="000">
+  <name>常磐コンプ</name>
+  <detail>常磐の全てのエンディングを見た</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="S" pid="000">
+  <name>礎奏太コンプ</name>
+  <detail>礎奏太の全てのエンディングを見た</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="S" pid="000">
+  <name>宵宮コンプ</name>
+  <detail>宵宮の全てのエンディングを見た</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="S" pid="000">
+  <name>月白コンプ</name>
+  <detail>月白の全てのエンディングを見た</detail>
+ </trophy>
+</trophyconf>

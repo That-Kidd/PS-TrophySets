@@ -1,0 +1,132 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000006f2a174496503c74515638f6f4b0712ee054ac7ea8f9d5a65aacc1ef3388dea812c7a06df64fafb019af66a91113917c2544a935846d6cefd5274b21476cd22c73b05d27f410db12ebed14546a041e83caba108a632786d62d2dabbf7bc368b0c98779ea544b64a9c7f93e79891da8c9efdaf8bdc73a76ed1e40ce6be44a68591b0749bce44f323e4e4c272ef9a439cf4f2b5f2e-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR02958_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Dokuro</title-name>
+ <title-detail>Dokuro Trophy Set</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Shining Skeleton</name>
+  <detail>Earn all other Dokuro trophies to unlock this platinum trophy</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>Dark Lord's Treasure Complete!</name>
+  <detail>Collect all coins</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>Master of the Castle</name>
+  <detail>Complete all areas in a total of 250 minutes or less</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>A Cornered Rat...</name>
+  <detail>Defeat 100 monsters in Skeleton Form</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>A Hero is Born</name>
+  <detail>Defeat 1000 monsters in Hero Form</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="G" pid="000">
+  <name>Go Big or Go Home</name>
+  <detail>Complete stage 14 without taking any damage</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>Candlelighter</name>
+  <detail>Light 4 torches with a single red chalk</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>Call Me Speedy</name>
+  <detail>Complete all areas in a total of 350 minutes or less</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>Skydiver</name>
+  <detail>Fall from a great height</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>Treasure Hunter</name>
+  <detail>Collect 135 coins</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>Moneybags</name>
+  <detail>Collect 120 coins</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>Who Keeps Dropping These?</name>
+  <detail>Collect 100 coins</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>Hide 'n' Seek</name>
+  <detail>Complete stage 11-5 without being discovered once</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>Happily Ever After</name>
+  <detail>Complete all stages</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>Dark Lord? No Biggie</name>
+  <detail>Defeat the Dark Lord without taking any damage</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>Apprentice</name>
+  <detail>Complete stages 1 to 4</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Newbie Knight</name>
+  <detail>Complete stages 5 to 8</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Knight</name>
+  <detail>Complete stages 9 to 11</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>Master Knight</name>
+  <detail>Complete stages 12 to 15</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Lucky Find</name>
+  <detail>Collect your first coin</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>I'll Just Hold on to These</name>
+  <detail>Collect 10 coins</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>Numismatist</name>
+  <detail>Collect 25 coins</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>Old-Mismatist</name>
+  <detail>Collect 50 coins</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>Bulging Pockets</name>
+  <detail>Collect 75 coins</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>Aw, Shucks</name>
+  <detail>Pick up the Princess 200 times</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>Friends with Death</name>
+  <detail>Die 100 times</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>Batting 100%</name>
+  <detail>Successfully deflect boomerangs 100 times</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="B" pid="000">
+  <name>With Friends Like These...</name>
+  <detail>Let the princess get knocked out 100 times</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>White Chalk Master</name>
+  <detail>Use white chalk successfully</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="B" pid="000">
+  <name>Red Chalk Master</name>
+  <detail>Use red chalk successfully</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="B" pid="000">
+  <name>Blue Chalk Master</name>
+  <detail>Use blue chalk successfully</detail>
+ </trophy>
+</trophyconf>

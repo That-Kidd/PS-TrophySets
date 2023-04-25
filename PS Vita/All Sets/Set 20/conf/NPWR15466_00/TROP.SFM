@@ -1,0 +1,108 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000005b5bf91cbb4e0877366b65cc92838ed29f3277a56057fc932c500276b89d7e8968980abad77516ead3c5d4ca9ac1927893da05bba6edacddf46fecf128c9844c21d6b08f77d65048b1bc5653342a3717443397db12b032ebcaa487b80f00d6e367b6e71aa8ad42ee304e71ac10e6e0a21e205f53cf818c78ca374b52ce3a9b876cfadb1d9f691b6b5519acc0419216ae03c52839-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR15466_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>タユタマ２ -you’re the only one-</title-name>
+ <title-detail>『タユタマ２ -you’re the only one-』トロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>you’re the only one</name>
+  <detail>全てのトロフィーを取得した</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>序章</name>
+  <detail>「序章」を読み終わった</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>太転依と人の未来</name>
+  <detail>「太転依と人の未来」を読み終えた</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>太転依を癒やす少女</name>
+  <detail>「太転依を癒やす少女」を読み終えた</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>太転依は太転依らしく</name>
+  <detail>「太転依は太転依らしく」を読み終えた</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>理想は違えど</name>
+  <detail>「理想は違えど」を読み終えた</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>共に生きる者たちの絆</name>
+  <detail>「共に生きる者たちの絆」を読み終えた</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>はい、お近づきのシルシにアメちゃんをどーぞ♪</name>
+  <detail>アメリと出会った</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>ゆみなは町の平和を守る正義のおまわりさんなのですっ！！</name>
+  <detail>ゆみなと出会った</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="000">
+  <name>お邪魔しているよ、こはくちゃん</name>
+  <detail>美冬と出会った</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="000">
+  <name>おう、迎えに来てやったぜ</name>
+  <detail>龍子と出会った</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>今日からモモもモモのことをモモって呼ぶね♪</name>
+  <detail>モモと出会った</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>そっちも全くの誤解なんだけどな</name>
+  <detail>最初の選択肢を選んだ</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>助け合い、歩むこと</name>
+  <detail>「泉戸こはく」ルートに入った</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>自覚と不安、告白と解放</name>
+  <detail>「西条緋文」ルートに入った</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>ありのままに生きる事</name>
+  <detail>「湯ノ花菜乃」ルートに入った</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>理想を分かつ者へ</name>
+  <detail>「泉戸ましろ」ルートに入った</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>お婿さんになってください</name>
+  <detail>初めてイベントCGを見た</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="G" pid="000">
+  <name>これからずっと独り占めしてください</name>
+  <detail>「泉戸こはく」ルートをクリアした</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="G" pid="000">
+  <name>大好きよ、空――！</name>
+  <detail>「西条緋文」ルートをクリアした</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="G" pid="000">
+  <name>これからもずっと恋人でいて欲しい……</name>
+  <detail>「湯ノ花菜乃」ルートをクリアした</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="G" pid="000">
+  <name>ずっと好きでいられる『貴方』の妻です</name>
+  <detail>「泉戸ましろ」ルートをクリアした</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="G" pid="000">
+  <name>元気に健やかに、八衢神社と矢古民町を守っていきます！</name>
+  <detail>全てのルートをクリアした</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="G" pid="000">
+  <name>ずっと聞いていたいです</name>
+  <detail>ゲーム中に全てのBGMを聞いた</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="G" pid="000">
+  <name>後悔なんて一度だってしたことはない、これっぽっちも</name>
+  <detail>全てのイベントＣＧを見た</detail>
+ </trophy>
+</trophyconf>

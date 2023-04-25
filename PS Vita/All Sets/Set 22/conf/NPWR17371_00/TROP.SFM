@@ -1,0 +1,236 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000061c2e12f178aaba416ce295c261e1175c55f1ca5469a187ba095449acb3d9121756f30b289efb53634c8e9736e6e1c7babb16a58b12ef1f1818da05ffb055ed5d2f37585106235681a054043bcc594f97f1a7268657c4d0183663b892f699b9be1cb9411b8a4ea0b7e1fc578fa156bf946a118542b93066ff3348e2f83c2d4e11d96d15dfbc167b736e99a2adba703be621b91c4-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR17371_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>英雄傳說 碧之軌跡 Evolution</title-name>
+ <title-detail>英雄傳說 碧之軌跡 Evolution</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>窮究『碧』之人</name>
+  <detail>獲得所有獎盃。</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>ＥＮＩＧＭＡⅡ用戶</name>
+  <detail>變得能使用ＥＮＩＧＭＡⅡ。</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>天眼之智者</name>
+  <detail>收集戰鬥手冊中的所有資訊。</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>市民的英雄</name>
+  <detail>完成所有支援請求。</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>小說愛好者</name>
+  <detail>收集所有《沐浴陽光的阿尼艾絲》。</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>寶藏獵人</name>
+  <detail>開啟所有寶箱。</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>結晶迴路收藏家</name>
+  <detail>收集所有結晶迴路。</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>傢俱收藏家</name>
+  <detail>收集所有傢俱與ＥＮＩＧＭＡ機殼。</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>車迷</name>
+  <detail>收集所有導力車組件。</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>爆釣王</name>
+  <detail>釣獲所有魚。</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>炎之料理人</name>
+  <detail>收集所有食譜。</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>三星廚師</name>
+  <detail>完成所有大成功料理。</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>獨樹一幟的廚師</name>
+  <detail>完成所有預想外料理。</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>百萬富翁</name>
+  <detail>持有金錢達到1,000,000米拉以上。</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>延續之雅士</name>
+  <detail>遊玩時間超過100小時。</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>心臟大顆</name>
+  <detail>在恐怖過山車遊戲中獲得4000分。</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>波姆碰！大師</name>
+  <detail>在『波姆碰！』遊戲中戰勝所有對手。</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>力戰之勇士</name>
+  <detail>戰鬥勝利次數達到100次。</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>奮戰之猛者</name>
+  <detail>戰鬥勝利次數達到500次。</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>歷戰之勝者</name>
+  <detail>戰鬥勝利次數達到1000次。</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>千討之志士</name>
+  <detail>打倒2000個以上的敵人。</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>雷光一閃</name>
+  <detail>發動先制攻擊次數達到100次。</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>超絕秘技</name>
+  <detail>發動S戰技次數達到100次。</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>百花迎擊</name>
+  <detail>阻止敵人的招式・魔法驅動達100次</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>絢爛攻守</name>
+  <detail>達成爆擊獎勵值×4.00以上。</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>連戰連破</name>
+  <detail>在3連鎖戰鬥中獲得勝利。</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>八頭擊滅</name>
+  <detail>同時打倒8個敵人。</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>滅絕淘汰</name>
+  <detail>單一戰鬥打倒16個敵人。</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>爆裂果敢</name>
+  <detail>發動50次爆裂猛攻。</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>至高之劍</name>
+  <detail>製作最強武器。</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>至境之珠</name>
+  <detail>變得可使用七屬性的核心魔法。</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>七耀之賢士</name>
+  <detail>變得能使用七屬性所有最強攻擊魔法。</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>無雙之烈士</name>
+  <detail>羅伊德、艾莉、緹歐、蘭迪的等級達到120。</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>組合戰技大師</name>
+  <detail>習得所有組合戰技。</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>超一流搜查官</name>
+  <detail>成為上級搜查官・1ST。</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="S" pid="000">
+  <name>老練的搜查官</name>
+  <detail>以HARD以上的難度完成遊戲。</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="G" pid="000">
+  <name>傳說中的搜查官</name>
+  <detail>以NIGHTMARE難度完成遊戲。</detail>
+ </trophy>
+ <trophy id="037" hidden="yes" ttype="B" pid="000">
+  <name>Ｄ之追究者</name>
+  <detail>解析所有Ｄ∴Ｇ教團的終端資料。</detail>
+ </trophy>
+ <trophy id="038" hidden="yes" ttype="B" pid="000">
+  <name>解明真相者</name>
+  <detail>察覺伊安律師為計畫的首謀者之一。</detail>
+ </trophy>
+ <trophy id="039" hidden="yes" ttype="S" pid="000">
+  <name>緋紅的討伐者</name>
+  <detail>打倒【緋紅】。</detail>
+ </trophy>
+ <trophy id="040" hidden="yes" ttype="G" pid="000">
+  <name>鋼的擊退者</name>
+  <detail>使『鋼之聖女』雅里安洛德屈膝跪地。</detail>
+ </trophy>
+ <trophy id="041" hidden="yes" ttype="B" pid="000">
+  <name>Ｄ的殘影</name>
+  <detail>完成序章『Ｄ的殘影』。</detail>
+ </trophy>
+ <trophy id="042" hidden="yes" ttype="B" pid="000">
+  <name>預兆～嶄新的每一日</name>
+  <detail>完成第1章『預兆～嶄新的每一日』。</detail>
+ </trophy>
+ <trophy id="043" hidden="yes" ttype="B" pid="000">
+  <name>西塞姆利亞通商會議</name>
+  <detail>完成第2章『西塞姆利亞通商會議』。</detail>
+ </trophy>
+ <trophy id="044" hidden="yes" ttype="B" pid="000">
+  <name>短暫的休息</name>
+  <detail>完成間章『短暫的休息』。</detail>
+ </trophy>
+ <trophy id="045" hidden="yes" ttype="B" pid="000">
+  <name>胎動～眾獸的狂歡節</name>
+  <detail>完成第3章『胎動～眾獸的狂歡節』。</detail>
+ </trophy>
+ <trophy id="046" hidden="yes" ttype="B" pid="000">
+  <name>命運未卜的克洛斯貝爾</name>
+  <detail>完成第4章『命運未卜的克洛斯貝爾』。</detail>
+ </trophy>
+ <trophy id="047" hidden="yes" ttype="B" pid="000">
+  <name>跨越虛幻的樂土</name>
+  <detail>完成斷章『跨越虛幻的樂土』。</detail>
+ </trophy>
+ <trophy id="048" hidden="yes" ttype="S" pid="000">
+  <name>即使如此我們仍是……</name>
+  <detail>完成終章『即使如此我們仍是……』。</detail>
+ </trophy>
+ <trophy id="049" hidden="yes" ttype="B" pid="000">
+  <name>和艾莉的羈絆</name>
+  <detail>和艾莉培養出深厚的羈絆。</detail>
+ </trophy>
+ <trophy id="050" hidden="yes" ttype="B" pid="000">
+  <name>和緹歐的羈絆</name>
+  <detail>和緹歐培養出深厚的羈絆。</detail>
+ </trophy>
+ <trophy id="051" hidden="yes" ttype="B" pid="000">
+  <name>和蘭迪的羈絆</name>
+  <detail>和蘭迪培養出深厚的羈絆。</detail>
+ </trophy>
+ <trophy id="052" hidden="yes" ttype="B" pid="000">
+  <name>和諾艾兒的羈絆</name>
+  <detail>和諾艾兒培養出深厚的羈絆。</detail>
+ </trophy>
+ <trophy id="053" hidden="yes" ttype="B" pid="000">
+  <name>和瓦奇的羈絆</name>
+  <detail>和瓦奇培養出深厚的羈絆。</detail>
+ </trophy>
+ <trophy id="054" hidden="yes" ttype="B" pid="000">
+  <name>和莉夏的羈絆</name>
+  <detail>和莉夏培養出深厚的羈絆。</detail>
+ </trophy>
+ <trophy id="055" hidden="yes" ttype="B" pid="000">
+  <name>和達德利的羈絆</name>
+  <detail>和達德利培養出深厚的羈絆。</detail>
+ </trophy>
+ <trophy id="056" hidden="yes" ttype="S" pid="000">
+  <name>傳至的思念、緊連的羈絆</name>
+  <detail>和琪雅、芙蘭、賽西兒、伊莉雅、修莉培養出深厚的羈絆。</detail>
+ </trophy>
+</trophyconf>

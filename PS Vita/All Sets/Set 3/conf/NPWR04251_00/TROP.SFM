@@ -1,0 +1,192 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000006c51378440d29f335a494dbbd3c8b56e6464bb9cc02604b8efcace89553d898fa06b20d91a0387df1d4b09ec618c02412a2ced0c52e8e17174bf3f968e3153efce60b8c4e91f3bca87d17c683fa09a6a03faca89a3cbc2cdda3d8e50ea29de5bffd4e00b5387e0896950cf259267ed4b7be4da6fd68cfdbccc072059e162d17f0ee730bb77fbb535c17bce99341575d960c337c8-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR04251_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>AKIBA'S TRIP 2 トロフィーセット</title-name>
+ <title-detail>AKIBA'S TRIP 2 のトロフィーセットです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>アキバ神降臨！</name>
+  <detail>全てのトロフィーを取得した。</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>盛り上がりすぎたファン</name>
+  <detail>Rinのゲリラライブに遭遇した。</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>勝てたのはキミのおかげ……</name>
+  <detail>雫や自警団のみんなの協力で、禅夜との戦いに勝利した。</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>戒斗と共闘？</name>
+  <detail>追われるRinと大師本製薬について推理した。</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>禅夜との決戦</name>
+  <detail>闘技場で禅夜との戦いに勝ち、普通のヲタクに戻した。</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="S" pid="000">
+  <name>……私の太陽……</name>
+  <detail>雫ルートのトゥルーエンドを見た。</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="000">
+  <name>貴方だけのアイドルに！</name>
+  <detail>霖ルートのトゥルーエンドを見た。</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>ぬくもりで繋がって</name>
+  <detail>トーコルートのトゥルーエンドを見た。</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>「次」の舞台へ……！</name>
+  <detail>志遠ルートのトゥルーエンドを見た。</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>私だけのにぃに</name>
+  <detail>妹のエンディングを見た。</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="G" pid="000">
+  <name>閉幕のお知らせ</name>
+  <detail>全てのエンディングを見た。</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>完走記念</name>
+  <detail>ゲームをクリアした。</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>ゲーマー</name>
+  <detail>難易度ゲーマーでゲームをクリアした。</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="G" pid="000">
+  <name>ヲタクゲーマー</name>
+  <detail>難易度ヲタクでゲームをクリアした。</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>ストリップ・ビギナー</name>
+  <detail>服を50枚脱がした。</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>ストリップ・スペシャリスト</name>
+  <detail>服を300枚脱がした。</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>アンチエコサイクル</name>
+  <detail>服を300枚破いた。</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>インナースイーパー</name>
+  <detail>インナーを100枚あつめた。</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>これでもくらえ！</name>
+  <detail>カウンターアタックを100回ヒットさせた。</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>攻守逆転</name>
+  <detail>カウンターストリップを30回行った。</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>光のむこうに……！</name>
+  <detail>とどめストリップを20回行った。</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>触れるものみな脱ぎ捨てた</name>
+  <detail>12連ストリップを行った。</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>ボッコボコにしてやんよ</name>
+  <detail>攻撃が50チェインを突破した。</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>君が脱げるまで殴るのをやめない</name>
+  <detail>攻撃が200チェインを突破した。</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="000">
+  <name>あなたモテモテですね</name>
+  <detail>6人のパートナーとユニゾンストリップを行った。</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="B" pid="000">
+  <name>目覚め</name>
+  <detail>男装／女装が可能になった。</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>とっかえひっかえ</name>
+  <detail>全ての部位で着替えた。</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>うきうきショッピング</name>
+  <detail>全ての店で買い物をした。</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="S" pid="000">
+  <name>脱衣の覇王</name>
+  <detail>闘技場のSランクをクリアした。</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>駆け出し自警団員</name>
+  <detail>サブミッションを10種類クリアした。</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>ベテラン自警団員</name>
+  <detail>サブミッションを30種類クリアした。</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>武器マニア</name>
+  <detail>武器を25種類あつめた。</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>武器の権威</name>
+  <detail>武器を50種類あつめた。</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>かぶりもの上級者</name>
+  <detail>頭装備を25種類あつめた。</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>おしゃれ初心者</name>
+  <detail>上服を25種類あつめた。</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>おしゃれマスター</name>
+  <detail>上服を75種類あつめた。</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>ファッション初心者</name>
+  <detail>下服を25種類あつめた。</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>ファッショニスタ</name>
+  <detail>下服を75種類あつめた。</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>靴フェチ</name>
+  <detail>靴を25種類あつめた。</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="000">
+  <name>趣味「インナー集め」</name>
+  <detail>インナーを25種類あつめた。</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="B" pid="000">
+  <name>アクセサリーコレクター</name>
+  <detail>アクセサリーを25種類あつめた。</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="B" pid="000">
+  <name>アキバのことならオレにまかせろ！</name>
+  <detail>チラシを100枚あつめた。</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="B" pid="000">
+  <name>レベルアッパー</name>
+  <detail>レベルが30になった。</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="B" pid="000">
+  <name>金の亡者</name>
+  <detail>金を1000000円貯めた。</detail>
+ </trophy>
+ <trophy id="044" hidden="yes" ttype="B" pid="000">
+  <name>妹とはじめての合成</name>
+  <detail>武器または服の合成を行った。</detail>
+ </trophy>
+ <trophy id="045" hidden="yes" ttype="G" pid="000">
+  <name>妹と究極の一品をつくった</name>
+  <detail>武器または服のステータスを999まで上げた。</detail>
+ </trophy>
+</trophyconf>

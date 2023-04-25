@@ -1,0 +1,76 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000008bdbf42d6ab24be05ff20e1a1da530e5235ae77997d9a82487b21537c0fdca04d7a56596966bf264fd5ae1a4695f94bcdd2d8c6d42a98891d90f72e93d798179c246d99394f6b2fffcda7bf0cc929946b75bbeb3e27ee3f72dcfd9900fd6f0630359545322557a823055f4505c88ebe422c314b0a795a2fd9d960d7fdb43bbda9dae96dbec8215fc082f9a55152bf5f4fa412f60-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR18312_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Paradox Soul</title-name>
+ <title-detail>Paradox Soul</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Platinum Soul</name>
+  <detail>Get all other trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Armed</name>
+  <detail>Find a weapon</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Finding a way</name>
+  <detail>Find the map</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>Suit up!</name>
+  <detail>Find the Facility Suit</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>Exploding</name>
+  <detail>Find the bombs</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>Electrocuted</name>
+  <detail>Find the electro</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>Unlocking doors</name>
+  <detail>Get the 1st ID Card</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>Unlocking more doors</name>
+  <detail>Get the 2nd ID Card</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>He wanted a hug</name>
+  <detail>Kill a running robot</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>He was dangerous</name>
+  <detail>Kill an armed robot</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>Do not pet</name>
+  <detail>Kill a dog</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>Crush it</name>
+  <detail>Kill a mini-robot</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>Avoid been crushed</name>
+  <detail>Kill a bulldozer robot</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="000">
+  <name>The Spider</name>
+  <detail>Defeat 1st boss</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="000">
+  <name>The elevator</name>
+  <detail>Defeat 2nd boss</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="G" pid="000">
+  <name>Blue Screen of the death</name>
+  <detail>Destroy a lock terminal</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="G" pid="000">
+  <name>Room 33</name>
+  <detail>Reach Room 33</detail>
+ </trophy>
+</trophyconf>

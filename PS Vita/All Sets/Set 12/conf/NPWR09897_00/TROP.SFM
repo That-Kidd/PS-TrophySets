@@ -1,0 +1,80 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000ff1b29791d10d8a51510c830ac05be6916ba60c90a65726d7d102f70acf3bd176911e1d159022f5ecb4d5cb26bcb036fc39fc83b0b139637a18d87b28c62e7cec3ebde95e69988b690c8d456e3cf6bf366309126255a5db6e2fbd4acb52421038c323643bda0cadedca4e4dd6c0b70b96f845d296ea2975f65f9d80f2c84f32ba9b5dc87e724348149d732d5d5bd0b5a7592135d-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR09897_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>魔女こいにっき Dragon×Caravan</title-name>
+ <title-detail>『魔女こいにっき Dragon×Caravan』トロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>魔女こいにっき</name>
+  <detail>全てのトロフィーを取得した</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>……うーん。眠い</name>
+  <detail>初めてイベントＣＧを見た</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>さぁ、今夜はこれで終わり</name>
+  <detail>プロローグを見た</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="S" pid="000">
+  <name>あなたのことをずっと見ていた</name>
+  <detail>全てのイベントＣＧを見た</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="S" pid="000">
+  <name>なに、このムーディーな音楽は</name>
+  <detail>全てのＢＧＭを聴いた</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="G" pid="000">
+  <name>人生はそうはいかない</name>
+  <detail>南乃ありすルートをクリアした</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="G" pid="000">
+  <name>夜の魔法は失われ幕は下りて</name>
+  <detail>時計坂零ルートをクリアした</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="G" pid="000">
+  <name>それじゃぁ、そのときまで……さようなら</name>
+  <detail>時計坂カノンルートをクリアした</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="G" pid="000">
+  <name>ずっと、私たちといてくれるはずです。きっと神様みたいに</name>
+  <detail>周防聖ルートをクリアした</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="G" pid="000">
+  <name>戻って来てよ。馬鹿野郎</name>
+  <detail>柏原美衣ルートをクリアした</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="G" pid="000">
+  <name>それはとても、幸せな時間でした……</name>
+  <detail>藤田崑崙ルートをクリアした</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>本当に、困った生徒だなぁ、君は</name>
+  <detail>梢あけみルートをクリアした</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>だから、私……映画が撮りたいの</name>
+  <detail>加藤恋ルートをクリアした</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>女の子について教えてあげてもいいかもよ？</name>
+  <detail>三人組ルートをクリアした</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>まるで初々しい恋人</name>
+  <detail>氷室弥生ルートをクリアした</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="G" pid="000">
+  <name>まだ見ぬ世界へと、私は、あなたと泳いで行く</name>
+  <detail>グランドエンドを見た</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="G" pid="000">
+  <name>やがて物語は竜として天をふるわす咆吼をあげるだろう</name>
+  <detail>隠しエンドを見た</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="G" pid="000">
+  <name>何があろうと、その先には、君がいる</name>
+  <detail>「灼熱の王子と小さな竜」エンドを見た</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,52 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000055c1b043c0e8735821ed6503d89765b5bf6cf3b1bb8a5b77c770574a1ff05a7361e9f7b2931087cd196c28749874cdb66a72d03b9dc533b2557acd1536887f1e5ef69a51c323dddc336c590f3b46a34c3e4dcdf3e3f1fcc9e4092f4e13739b35c507c01f76d506ad2fa5a8b0b771e4fcc6e41b7671d6d05c9ec951336c6cab54362be0f1323e51129c6338c11e6a9004300437a2-->
+<trophyconf version="1.1" platform="psp2" policy="freemium">
+ <npcommid>NPWR08416_00</npcommid>
+ <trophyset-version>01.02</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>機動戰士鋼彈（高達）　激戰要塞</title-name>
+ <title-detail>『機動戰士鋼彈（高達）　激戰要塞』獎盃組</title-detail>
+ <group id="001">
+  <name>機動戰士鋼彈（高達）　激戰要塞Ver.2.00</name>
+  <detail>『機動戰士鋼彈（高達）　激戰要塞』Ver.2.00獎盃組</detail>
+ </group>
+ <trophy id="000" hidden="no" ttype="S" pid="-1">
+  <name>努力強化！擁有10級司令部！</name>
+  <detail>將司令部強化至等級10</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="-1">
+  <name>總之先設法達成100勝！</name>
+  <detail>在要塞攻防戰中獲得100次勝利</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="-1">
+  <name>不斷累積！總算達到1000勝！</name>
+  <detail>在要塞攻防戰中獲得1000次勝利</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>攻陷41座要塞！</name>
+  <detail>完成41個一般任務</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>喔！晉昇為上尉了！</name>
+  <detail>軍階晉昇至上尉</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="-1">
+  <name>終於成為上校了！</name>
+  <detail>軍階晉昇至上校</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="-1">
+  <name>身經百戰的勇士！成為上將啦！</name>
+  <detail>軍階晉昇至上將</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>順暢完成NEXT下一步！</name>
+  <detail>完成所有NEXT下一步目標</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>一種卓越的領導！</name>
+  <detail>參加10次S級別要塞攻防戰</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="-1" gid="001">
+  <name>你是剛尚志指揮官！</name>
+  <detail>參加30次S級別要塞攻防戰</detail>
+ </trophy>
+</trophyconf>

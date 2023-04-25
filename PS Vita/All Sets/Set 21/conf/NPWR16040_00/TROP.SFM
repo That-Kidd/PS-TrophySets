@@ -1,0 +1,208 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000007b70abf751592316c853ff88f8a18faa096e37604d4937c40bace5739e60a8a4ae79f6cb9d22294443ec8bc6fb927659601a159d640fa836d709acb858196593fee7d53a53f6ea97bd2dbf1731718311c7e8516a65c34778cd6040d086abe1eacb8a1850d4b91259134c8c7340f9ed54fb8564f1ec49ee4217fae7af4bdc16881bb99ddb6315f58ba665956931a66762c2eacf7f-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR16040_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Nelke &amp; the Legendary Alchemists ~Ateliers of the New World~&#x0a;</title-name>
+ <title-detail>Trophy data of "Nelke &amp; the Legendary Alchemists ~Ateliers of the New World~".</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Completed!</name>
+  <detail>Obtained all trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Rich</name>
+  <detail>Possess over 100,000 Cole at once.</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="S" pid="000">
+  <name>Beyond Wealthy</name>
+  <detail>Possess over 10,000,000 Cole at once.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Fledgling Town</name>
+  <detail>Earn over 100,000 Cole.</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="S" pid="000">
+  <name>Golden City</name>
+  <detail>Earn over 9,999,999 Cole.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>Attentive Leader</name>
+  <detail>Complete 10 citizen requests.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>Reliable Leader</name>
+  <detail>Complete 100 citizen requests.</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>Zealous Leader</name>
+  <detail>Complete 500 citizen requests.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>Wide-Eyed Manager</name>
+  <detail>Earn over 5,000 Cole in one turn.</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>Eagle-Eyed Manager</name>
+  <detail>Earn over 100,000 Cole in one turn.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>On a Roll</name>
+  <detail>Earn over 5,000 Cole in 5 turns.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>Smooth Sailing</name>
+  <detail>Earn over 20,000 Cole in 10 turns.</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>Making Bank</name>
+  <detail>Earn over 50,000 Cole in 15 turns.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>Farming Authority</name>
+  <detail>Build every cultivation area.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>The Entertainer</name>
+  <detail>Build every shop.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>Mercantile Master</name>
+  <detail>Build every entertainment facility.</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>Five-Star Architect</name>
+  <detail>Build at least one of every single facility.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Initial Development</name>
+  <detail>Develop a sector for the first time.</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="S" pid="000">
+  <name>Development Complete!</name>
+  <detail>Develop all sectors.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Whatever Street</name>
+  <detail>Build 4 facilities in 1 sector (atelier, shop, growing area, landmark).&#x0a;</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="S" pid="000">
+  <name>Everything Town</name>
+  <detail>Build 4 facilities in 8 sectors (atelier, shop, growing area, landmark).</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>Fledgling Explorer</name>
+  <detail>Dispatch 10 expeditions.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>Expert Explorer</name>
+  <detail>Dispatch 500 expeditions.</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="S" pid="000">
+  <name>Legendary Explorer</name>
+  <detail>Dispatch 3,000 expeditions.</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>Novice Exterminator</name>
+  <detail>Hunt 10 monsters.</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>Veteran Exterminator</name>
+  <detail>Hunt 100 monsters.</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="S" pid="000">
+  <name>Mythical Exterminator</name>
+  <detail>Hunt 500 monsters.</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>Nemesis Slayer</name>
+  <detail>Defeat 1 powerful monster.</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="S" pid="000">
+  <name>Beast Slayer</name>
+  <detail>Defeat 25 powerful monsters.</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>Scrappy Warrior</name>
+  <detail>Win 5 battles.</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>Victorious Warrior</name>
+  <detail>Win 50 battles.</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="S" pid="000">
+  <name>Invincible Warrior</name>
+  <detail>Win 300 battles.</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>Battle Skills: Novice</name>
+  <detail>Use Nelke's skill 10 times.</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="S" pid="000">
+  <name>Battle Skills: Expert</name>
+  <detail>Use Nelke's skill 100 times.</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>Group Skills: Novice</name>
+  <detail>Use an alchemist skill 10 times.</detail>
+ </trophy>
+ <trophy id="035" hidden="yes" ttype="S" pid="000">
+  <name>Group Skills: Expert</name>
+  <detail>Use an alchemist skill 100 times.</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>Newbie Client</name>
+  <detail>Request 10 syntheses.</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>Seasoned Client</name>
+  <detail>Request 1,000 syntheses.</detail>
+ </trophy>
+ <trophy id="038" hidden="yes" ttype="S" pid="000">
+  <name>Super Legendary Client</name>
+  <detail>Request 3,000 syntheses.</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="000">
+  <name>Basic Research</name>
+  <detail>Obtain 10 recipes.</detail>
+ </trophy>
+ <trophy id="040" hidden="yes" ttype="S" pid="000">
+  <name>Advanced Research</name>
+  <detail>Obtain 50 recipes.</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="B" pid="000">
+  <name>Fire User</name>
+  <detail>Obtain 500 Fire Elements.</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="B" pid="000">
+  <name>Water User</name>
+  <detail>Obtain 500 Water Elements.</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="B" pid="000">
+  <name>Wind User</name>
+  <detail>Obtain 500 Wind Elements.</detail>
+ </trophy>
+ <trophy id="044" hidden="no" ttype="B" pid="000">
+  <name>Earth User</name>
+  <detail>Obtain 500 Earth Elements.</detail>
+ </trophy>
+ <trophy id="045" hidden="yes" ttype="B" pid="000">
+  <name>Elemental Master</name>
+  <detail>Obtain 5,000 of each Element.</detail>
+ </trophy>
+ <trophy id="046" hidden="no" ttype="B" pid="000">
+  <name>Cooperative Synthesis</name>
+  <detail>Conduct 1 cooperative synthesis.</detail>
+ </trophy>
+ <trophy id="047" hidden="yes" ttype="S" pid="000">
+  <name>Alchemic Bonds</name>
+  <detail>Conduct 30 cooperative synthesis.</detail>
+ </trophy>
+ <trophy id="048" hidden="no" ttype="B" pid="000">
+  <name>Best Friends Forever</name>
+  <detail>Reach max friendship with 1 person.</detail>
+ </trophy>
+ <trophy id="049" hidden="yes" ttype="G" pid="000">
+  <name>Love Everyone</name>
+  <detail>Reach max friendship with everyone.</detail>
+ </trophy>
+</trophyconf>

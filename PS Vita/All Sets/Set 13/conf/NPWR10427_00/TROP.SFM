@@ -1,0 +1,64 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000fe267c6a154524811e428452ad8a09589778ec5fb7404c89467db69e59a7190812a11e6973f4db56cbd4f2b81f5648f151718514b0aa68bba4417f857d352acf956f325ee5fd3c55f52babbe11ade7b8013c0313c961d2fc85a63dd79f2895a27c1b284fbcf39f020aa243d036e50258c2928d6c75ada5b0072df835f656795b8d4859f5b1f6b7c73e7bc8aa6a9b830b9eec5c6e-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR10427_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Quell Memento</title-name>
+ <title-detail>Quell Memento</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Stagehand</name>
+  <detail>Complete a stage in perfect moves</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Electrician</name>
+  <detail>Switch the battery on 4 times during a level</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Punchline</name>
+  <detail>Change a bulb 200 times during a level</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Eskimo</name>
+  <detail>Break 10 ice blocks that contain an object</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Chemist</name>
+  <detail>Merge 4 droplets into 1</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Illuminatus</name>
+  <detail>Illuminate blue, gold and red diamonds at the same time</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Lightshow</name>
+  <detail>Cross the beams 5 times at once</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Lightspeed</name>
+  <detail>Complete a level in under 5 seconds</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Vanity</name>
+  <detail>Watch a full chapter replay</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>Thorough</name>
+  <detail>Complete a chapter in perfect moves</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>Father Time</name>
+  <detail>Collect 24 time pieces</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="-1">
+  <name>Royal</name>
+  <detail>Collect every jewel</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="-1">
+  <name>Clear Thinking</name>
+  <detail>Complete every chapter</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="-1">
+  <name>Momentous</name>
+  <detail>Complete every chapter in perfect moves</detail>
+ </trophy>
+</trophyconf>

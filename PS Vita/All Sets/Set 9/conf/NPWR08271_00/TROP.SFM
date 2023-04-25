@@ -1,0 +1,176 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000c1096abdbbcb204be3690a243acd190f02b6519236cef5f2c04830aeddbd72f35b5f83013451defcc4dd278e3ccecc1968305f16c8cdc379d669217421a234c6aa66b79761e1cc05429330ae89bf6fece317cb82e0879f902c60351f82d70bb72b4a3471b74a6f1ef16524c1dbc322f1e089c509104c5a0d2109f6b63a9571e8bf51dd17671944dd4a3c90c00468bf83b48e1433-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR08271_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Superdimension Neptune Re;birth3</title-name>
+ <title-detail>Superdimension Neptune Re;birth3</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Superdimension Neptune Re;birth3 Master</name>
+  <detail>Acquired all trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>Neptune start</name>
+  <detail>Started the game</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>Prologue cleared</name>
+  <detail>Prologue cleared</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>Chapter 1 Cleared</name>
+  <detail>Chapter 1 Cleared</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>Chapter 2 Cleared</name>
+  <detail>Chapter 2 Cleared</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>Chapter 3 Cleared</name>
+  <detail>Chapter 3 Cleared</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>Chapter 4 Cleared</name>
+  <detail>Chapter 4 Cleared</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>Chapter 5 Cleared</name>
+  <detail>Chapter 5 Cleared</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>Chapter 6 Cleared</name>
+  <detail>Chapter 6 Cleared</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="000">
+  <name>Chapter 7 Cleared</name>
+  <detail>Chapter 7 Cleared</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="000">
+  <name>Chapter 8 Cleared</name>
+  <detail>Chapter 8 Cleared</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>Chapter 9 Cleared</name>
+  <detail>Chapter 9 Cleared</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>Normal ending</name>
+  <detail>Watched the normal Ending</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>Good ending</name>
+  <detail>Watched the good Ending</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="G" pid="000">
+  <name>True ending</name>
+  <detail>Watched the true Ending</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="S" pid="000">
+  <name>Messenger crushed</name>
+  <detail>You beat Rig and Bamo</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>Never ending fight</name>
+  <detail>First fight cleared</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>Hard-bitten</name>
+  <detail>You fought a 100battles !</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>Ultimate fighter</name>
+  <detail>You fought 500 battles !</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>Combo master</name>
+  <detail>Inflicted over 100Hits with an original combo</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="000">
+  <name>Maximum damage</name>
+  <detail>Inflicted more than 100,000 damage points to an enemy</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>Level max</name>
+  <detail>A party member reached level 99</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="G" pid="000">
+  <name>Counter stop</name>
+  <detail>Everybody reached level 99</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>Chain original combo</name>
+  <detail>You created an original combo</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="000">
+  <name>Game creator newbie</name>
+  <detail>You used a remake plan</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="B" pid="000">
+  <name>Master game creator</name>
+  <detail>You created a Godly game</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>Game remake</name>
+  <detail>You incorporated a system file</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="S" pid="000">
+  <name>Game planner</name>
+  <detail>200 System files incorporated</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="B" pid="000">
+  <name>Nariyuki☆Dungeon for the first time</name>
+  <detail>You ventured in the Neputora-tower</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="S" pid="000">
+  <name>Dungeon master</name>
+  <detail>You beat the Neputora-tower</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="S" pid="000">
+  <name>Quest master</name>
+  <detail>You cleared 100 quests</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="B" pid="000">
+  <name>Billionaire</name>
+  <detail>You obtained 1 billion credits</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="S" pid="000">
+  <name>Lily Rank max : Neptune</name>
+  <detail>Neptune maxed out her Lily rank</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="S" pid="000">
+  <name>Lily Rank max : Pururut</name>
+  <detail>Pururut maxed out her Lily rank</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="S" pid="000">
+  <name>Lily Rank max : Noire</name>
+  <detail>Noire maxed out her Lily rank</detail>
+ </trophy>
+ <trophy id="035" hidden="yes" ttype="S" pid="000">
+  <name>Lily Rank max : Blanc</name>
+  <detail>Blanc maxed out her Lily rank</detail>
+ </trophy>
+ <trophy id="036" hidden="yes" ttype="S" pid="000">
+  <name>Lily Rank max : Vert</name>
+  <detail>Vert maxed out her Lily rank</detail>
+ </trophy>
+ <trophy id="037" hidden="yes" ttype="S" pid="000">
+  <name>Lily Rank max : Nepgear</name>
+  <detail>Nepgear maxed out her Lily rank</detail>
+ </trophy>
+ <trophy id="038" hidden="yes" ttype="S" pid="000">
+  <name>Lily Rank max : Pish</name>
+  <detail>Pish maxed out her Lily rank</detail>
+ </trophy>
+ <trophy id="039" hidden="yes" ttype="S" pid="000">
+  <name>Lily Rank max : Uni</name>
+  <detail>Uni maxed out her Lily rank</detail>
+ </trophy>
+ <trophy id="040" hidden="yes" ttype="S" pid="000">
+  <name>Lily Rank max : Rom</name>
+  <detail>Rom maxed out her Lily rank</detail>
+ </trophy>
+ <trophy id="041" hidden="yes" ttype="S" pid="000">
+  <name>Lily Rank max : Ram</name>
+  <detail>Ram maxed out her Lily rank</detail>
+ </trophy>
+</trophyconf>

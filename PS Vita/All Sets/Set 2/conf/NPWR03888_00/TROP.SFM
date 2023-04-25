@@ -1,0 +1,176 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000075d6a4e43c1a9d7a911cd0f1f2743bb318457283bbeff17fa091f5a2299691b03f77a1334f8916c9fb8edb7eb81ccf3f26c86bd44c4232665a93957a0fdac77d3ebf531c3203d1c82abb8099d479a96f3b760344fa84bd4164a71f961b3a38a8b52b501b7b76f66209132be6adbd2031d352aa37b84c44c8049152999a6ea1b07d4a623b51964ca487da459d6fb9a59afeaf6f0c-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR03888_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>STEINS;GATE</title-name>
+ <title-detail>『STEINS;GATE』のトロフィーセットです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>スカイクラッドの観測者</name>
+  <detail>『STEINS;GATE』をやり尽くす</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>シュタインズゲートの選択</name>
+  <detail>『STEINS;GATE』を開始した</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>始まりと終わりのプロローグ</name>
+  <detail>プロローグクリア</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>時間跳躍のパラノイア</name>
+  <detail>Chapter1クリア</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>空理彷徨のランデヴー</name>
+  <detail>Chapter2クリア</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>蝶翼のダイバージェンス</name>
+  <detail>Chapter3クリア</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>夢幻のホメオスタシス</name>
+  <detail>Chapter4クリア</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>時空境界のドグマ</name>
+  <detail>Chapter5クリア</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>形而上のネクローシス</name>
+  <detail>Chapter6クリア</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="000">
+  <name>虚像歪曲のコンプレックス</name>
+  <detail>Chapter7クリア</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="000">
+  <name>自己相似のアンドロギュノス</name>
+  <detail>Chapter8クリア</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>無限連鎖のアポトーシス</name>
+  <detail>Chapter9クリア</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="G" pid="000">
+  <name>境界面上のシュタインズゲート</name>
+  <detail>シュタインズゲートに到達した</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>天才少女のメランコリィ</name>
+  <detail>紅莉栖とメールを使って仲良くなった</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>因果律のメルト</name>
+  <detail>紅莉栖のエンディングを見た</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="S" pid="000">
+  <name>透明のスターダスト</name>
+  <detail>まゆりのエンディングを見た</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="S" pid="000">
+  <name>不可逆のリブート</name>
+  <detail>鈴羽のエンディングを見た</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="S" pid="000">
+  <name>背徳と再生のリンク</name>
+  <detail>るかのエンディングを見た</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="S" pid="000">
+  <name>分離喪失のジャメヴュ</name>
+  <detail>フェイリスのエンディングを見た</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="G" pid="000">
+  <name>全ての世界線のコンプリート</name>
+  <detail>全エンディングを見た</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>ＣＧの達成率２５％</name>
+  <detail>ＣＧを２５％見た</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>ＣＧの達成率５０％</name>
+  <detail>ＣＧを５０％見た</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>ＣＧの達成率７５％</name>
+  <detail>ＣＧを７５％見た</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>ＣＧの達成率１００％</name>
+  <detail>全ＣＧを見た</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>自我のメモリーズ</name>
+  <detail>【フォーントリガー】送信履歴を一度でも見た</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>他我のメモリーズ</name>
+  <detail>【フォーントリガー】着信履歴から一度でもメールを参照した</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>共鳴のリアクション</name>
+  <detail>【フォーントリガー】誰かからのメールに返信した</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>忘却のメッセージ</name>
+  <detail>【フォーントリガー】誰かからのメールを１通だけでもいいので未読にしたままクリアした</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>投影のヴィジョン</name>
+  <detail>【フォーントリガー】待ち受け画面の壁紙を変更した</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>ハジメテのオト</name>
+  <detail>【フォーントリガー】着信メロディを変更した</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>完全孤立のアイデンティティ</name>
+  <detail>【フォーントリガー】誰かからかかってきた電話を無視した（居留守を使った）</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="S" pid="000">
+  <name>雷ネットのヒーロー</name>
+  <detail>【フォーントリガー】雷ネットあらすじ１３話分コンプリート</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="S" pid="000">
+  <name>流行終焉のカエルん</name>
+  <detail>【フォーントリガー】ゲロカエルん待ち受け壁紙コンプリート</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="S" pid="000">
+  <name>混沌の詩</name>
+  <detail>【フォーントリガー】混沌とした頭から流れ出る着信用ソング４曲をコンプリート</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="S" pid="000">
+  <name>雷ネットのマスコット</name>
+  <detail>【フォーントリガー】うーぱ２種類の待ち受け壁紙ゲット</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="S" pid="000">
+  <name>混沌の姫たち</name>
+  <detail>【フォーントリガー】混沌とした頭のキャラクター待ち受け壁紙３種類ゲット</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>不連続性のクオリア</name>
+  <detail>【フォーントリガー】紅莉栖からカップ麺を買ってきてとメールで２回連続頼まれた</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>黒歴史のパッション</name>
+  <detail>【フォーントリガー】まゆりからの「コス作りを始めたきっかけ」に関するメールを読んだ</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>女戦士のプライド</name>
+  <detail>【フォーントリガー】鈴羽からの「格闘技」に関するメールを読んだ</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="000">
+  <name>暴虐のシスター</name>
+  <detail>【フォーントリガー】るかからの「姉」に関するメールを読んだ</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="B" pid="000">
+  <name>猫のティータイム</name>
+  <detail>【フォーントリガー】フェイリスからの「紅茶」に関するメールを読んだ</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="S" pid="000">
+  <name>ホームラン級の不器用さ</name>
+  <detail>電話レンジ（仮）のタイマー設定を１０回間違えた（累計）</detail>
+ </trophy>
+</trophyconf>

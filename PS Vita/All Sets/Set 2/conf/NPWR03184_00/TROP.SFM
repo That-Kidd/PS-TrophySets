@@ -1,0 +1,60 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000849a46edd282175fd51486bffa3aabffe36414315b71bbd9f81ab4d58b867ae0819eebc36399411872c234e4c48f81e44305f70bf8a2b1486107bdc9eae5902094daf4875b052b2ed3aee58d256b112a0e78b26676876b5921794dcfe521edd7cfa16ce97613d48437756f29e966ab59f56c5404f4c3932a02e3653319aa77f22a57a17bdd0ebcd31cb2569b3994b17c9edb2e25-->
+<trophyconf version="1.1" platform="psp2">
+ <npcommid>NPWR03184_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Pure Chess™</title-name>
+ <title-detail>Make your move.</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Check</name>
+  <detail>Put an opponent in check in an exhibition game.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Checkmate</name>
+  <detail>Win an exhibition game against the computer.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Amateur</name>
+  <detail>Complete all the tutorials.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Pure Correspondence</name>
+  <detail>Win a game of Play By Mail.</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="-1">
+  <name>Cross-check</name>
+  <detail>Play a check in reply to a check.</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="-1">
+  <name>Promotion</name>
+  <detail>Advance a pawn to the eighth rank in an offline game.</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="-1">
+  <name>O-O-O</name>
+  <detail>Perform a castling move on the queenside during any full game.</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="-1">
+  <name>En Passant</name>
+  <detail>Perform an En Passant during any full game.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Piece Collector</name>
+  <detail>Capture 100 pieces.</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="-1">
+  <name>Pion Coiffé</name>
+  <detail>Deliver checkmate with a pawn.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="-1">
+  <name>Tournament King</name>
+  <detail>Complete Tournament mode on all three difficulties.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="-1">
+  <name>Problem Wizard</name>
+  <detail>Solve 100 mate problems.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="-1">
+  <name>Grandmaster</name>
+  <detail>Achieve an ELO of 2500 or a Grandmaster Pure Chess rating.</detail>
+ </trophy>
+</trophyconf>

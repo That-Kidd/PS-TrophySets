@@ -1,0 +1,116 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000054ab2ad884e91313a645ba9a0826f60a21156bb76717d71b18c5bfc39ba79d4fdf6ca1f3d4537aa7228114958d0d92d194558e76f8376e36fa7413d2f86ccbcc05563b0babe390f81a49caba19dbd9c6479f38ace209e847ff4e1c6c1ae4fb4929ee1d14caa85b40cec715de3242a39d3541b4da310cf62dd4601b82624b960dd1da0cfb24fd873e9a10eb06a9d8f213c8ec6364-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR11345_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>√Letter-方根書簡-</title-name>
+ <title-detail>『√Letter-方根書簡-』的獎盃組</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>√Letter-方根書簡-</name>
+  <detail>獲得所有獎盃</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>歡迎來到島根喵！</name>
+  <detail>首次和SHIMANEKKO交談</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>鬼魂的筆友</name>
+  <detail>完成第１章</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>蜻蜓信紙</name>
+  <detail>完成第２章</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>香蕉信紙</name>
+  <detail>完成第３章</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>糖果信紙</name>
+  <detail>完成第４章</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>辣妹信紙</name>
+  <detail>完成第５章</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>生薑信紙</name>
+  <detail>完成第６章</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>地靈信紙</name>
+  <detail>完成第７章</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>勾玉信紙</name>
+  <detail>完成第８章</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="000">
+  <name>藍天信紙</name>
+  <detail>完成締結良緣路線第９章</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>櫻花信紙</name>
+  <detail>完成締結良緣路線第１０章</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>雨滴信紙</name>
+  <detail>完成錯過彼此路線第９章</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>飛機信紙</name>
+  <detail>完成錯過彼此路線第１０章</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>化妝鏡信紙</name>
+  <detail>完成姬森公主路線第９章</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="S" pid="000">
+  <name>公主信紙</name>
+  <detail>完成姬森公主路線第１０章</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="S" pid="000">
+  <name>烏鴉信紙</name>
+  <detail>完成被詛咒的信路線第９章</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="S" pid="000">
+  <name>骷髏信紙</name>
+  <detail>完成被詛咒的信路線第１０章</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="S" pid="000">
+  <name>幽浮信紙</name>
+  <detail>完成政府的陰謀路線第９章</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="S" pid="000">
+  <name>外星人信紙</name>
+  <detail>完成政府的陰謀路線第１０章</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="G" pid="000">
+  <name>查明真相！</name>
+  <detail>完成所有路線的劇情</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="G" pid="000">
+  <name>調查道具盡在手中</name>
+  <detail>獲得所有道具</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="G" pid="000">
+  <name>查明真相？</name>
+  <detail>完成被詛咒的信、姬森公主、政府的陰謀、錯過彼此路線</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="G" pid="000">
+  <name>查遍島根的男人</name>
+  <detail>使用「調查」指令調查２００次以上</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>走遍島根的男人</name>
+  <detail>使用「調查」指令調查１００次以上</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="G" pid="000">
+  <name>回信狂熱分子</name>
+  <detail>在信件中選擇過所有種類的回覆方式</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="G" pid="000">
+  <name>發現SHIMANEKKO！</name>
+  <detail>找到SHIMANEKKO１０次以上</detail>
+ </trophy>
+</trophyconf>

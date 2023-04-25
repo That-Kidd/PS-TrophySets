@@ -1,0 +1,112 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000001fb0c7100133c27434960725558f979e2e29c798a0fdbaea997ed6583dd4bd65ae8247f5ab1ed80f2fe0035b9c3bb1bd66ef379fee635df903d2add6244bdc0eb19cc89ec98cd5537175236e1e5aa3c111834810fc6b979002e57cbd8ba3d8195a2cea4e65fa41e96d13fd3102915607543840fed2393f5abd7b2ca538cc8a0431f9e0dfecb36b832ec69c6e75e8179e75f999cd-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR04514_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>三極姫２～天下覇統・獅志の継承者～</title-name>
+ <title-detail> トロフィー</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>獅志の継承者</name>
+  <detail>プラチナ以外の全てのトロフィーを獲得する</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>黄巾の章</name>
+  <detail>はじめて『通常モード』を選び遊んだ</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>蜀伝クリア！</name>
+  <detail>蜀伝をクリアする</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>魏伝クリア！</name>
+  <detail>魏伝をクリアする</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>呉　孫策伝クリア！</name>
+  <detail>呉　孫策伝をクリアする</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>呉　孫権伝クリア！</name>
+  <detail>呉　孫権伝をクリアする</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>歴史の目撃者</name>
+  <detail>通常モードを全てクリアする</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>群雄モードクリア！</name>
+  <detail>群雄モードで天下統一する</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>天下安寧の先</name>
+  <detail>はじめて武将の個別EDをみる</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>これは浮気じゃないんだ！？</name>
+  <detail>個別EDを23みる</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>ひゃっはー、可愛い娘は俺のものだ！！</name>
+  <detail>全ての武将の個別EDをみる</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>絵画収集　銅</name>
+  <detail>CG鑑賞を３０％以上にする</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>絵画収集　銀</name>
+  <detail>CG鑑賞を６０％以上にする</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="000">
+  <name>思い出の収集家</name>
+  <detail>CG鑑賞を１００％にする</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>歴史書収集　銅</name>
+  <detail>シーン鑑賞を３０％以上にする</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>歴史書収集　銀</name>
+  <detail>シーン鑑賞を６０％以上にする</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="G" pid="000">
+  <name>歴史の観測者</name>
+  <detail>シーン鑑賞を１００％以上にする</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>真剣勝負であって決して……</name>
+  <detail>はじめて武将の脱衣カットインをみる</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>真剣勝負だから恥ずかしくないもん！</name>
+  <detail>武将の脱衣カットインを23みる</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="G" pid="000">
+  <name>お主こそ天下無双の変態よ！！</name>
+  <detail>全ての武将の脱衣カットインをみる</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>今逢いにいくぞ！</name>
+  <detail>はじめてイベントコマンドで武将に会いに行った</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>親愛の証</name>
+  <detail>武将の進行度を最大まで上げる</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>武を極めし者</name>
+  <detail>武将のレベルを最大まであげる</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>天下無双の強さ</name>
+  <detail>合戦手動で100回勝利する</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>天下への足がかり</name>
+  <detail>はじめて州を制圧した</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="S" pid="000">
+  <name>天下統一目前！</name>
+  <detail>州を12以上制圧する</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,32 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000ca825206d1dc1716513ee166ad39a7358068c31a55a38a407251bb307bcb226ddd037dea5bdf1ca84bd199e45f3a90a2e0a2df3c2058cfcee7cdbc597435015331041c2118b687b1c2ee282cce3e187181d68b4a06eb712a2011b22a083d6c52b7858edbe5059475ec6d067db1ee09acd2f953411afe239e4f0a89f32accbc5badbbb3b43ba6652531a124e4de1c76d5a9b333b7-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR20394_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Wurroom</title-name>
+ <title-detail>Wurroom</title-detail>
+ <trophy id="000" hidden="no" ttype="S" pid="-1">
+  <name>Liquid walls</name>
+  <detail>Have a nice tea party.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="-1">
+  <name>Grand Cube Master</name>
+  <detail>Do something with these cubes, before they do something with you...</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="-1">
+  <name>These shoes are so tight</name>
+  <detail>Overcome the entire distance of one step.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="-1">
+  <name>Everything has a beginning</name>
+  <detail>And everything has an End...</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="-1">
+  <name>The opened sea</name>
+  <detail>Half a man on a Wurroom's chest! Yarr!</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="-1">
+  <name>The whole picture</name>
+  <detail>Now you can only watch.</detail>
+ </trophy>
+</trophyconf>

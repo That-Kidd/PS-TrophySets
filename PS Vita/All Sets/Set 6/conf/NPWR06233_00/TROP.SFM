@@ -1,0 +1,164 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000004fb8a8e8bfab5b9a30e462f815158086a8161946bed27cc51f2afc887b5772421823a0be12fd562a87d472ee4ca7c33d548fdf32fb00b3be0a0ef5fd1cc72eb965a55015b340a8b07fd04e33fc29b5b389b0abeabfe88df5bc3774d3655a8f9fec33a07c05fa2c327b9396b1b262f05b532fd9c2d0a5f3f055561213e2c4816de95242e51e3bb2abfa289d19a7d460862147f1b0-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR06233_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Hyperdimension Neptunia PP</title-name>
+ <title-detail>Hyperdimension Neptunia PP</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Perfection Produced!</name>
+  <detail>You got all the trophies. Nice.</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="G" pid="000">
+  <name>Neptune's Producer</name>
+  <detail>You've mastered Neptune's route.&#x0a;"So you think you've seen all the events, huh? But!!! A second and third hidden event...don't actually exist. You're done. Good job. Seriously, thank you!"</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="G" pid="000">
+  <name>Noire's Producer</name>
+  <detail>You've mastered Noire's route.&#x0a;"H-Hmph. You worked hard, so I don't mind recognizing you a little bit. But only a little bit! Don't take it the wrong way."</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="G" pid="000">
+  <name>Blanc's Producer</name>
+  <detail>You've mastered Blanc's route.&#x0a;"Thanks to you, my route has been completed. I didn't think you could pull it off. I'll consider you the second Oracle of Lowee."</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="G" pid="000">
+  <name>Vert's Producer</name>
+  <detail>You've mastered Vert's route.&#x0a;"You played this game so seriously that it has moved me. It was a long road for you, but are you satisfied? I look forward to seeing you again."</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="S" pid="000">
+  <name>TRUE Planeptune</name>
+  <detail>You've seen Neptune's TRUE ending.&#x0a;"How was breakfast, buddy?"</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="000">
+  <name>TRUE Lastation</name>
+  <detail>You've seen Noire's TRUE ending.&#x0a;"Y-You have lipstick on your face!"</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>TRUE Lowee</name>
+  <detail>You've seen Blanc's TRUE ending.&#x0a;"I'll be waiting for your response."</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>TRUE Leanbox</name>
+  <detail>You've seen Vert's TRUE ending.&#x0a;"What instance shall we challenge today?"</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>Love-Love Nep-Nep</name>
+  <detail>Neptune's affection has maxed out.&#x0a;"Oh man, my heart is doing backflips or something!"</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>Love me, Noire!</name>
+  <detail>Noire's affection has maxed out.&#x0a;"Wh-What is this foreign feeling...?"</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>Falling for Blanc</name>
+  <detail>Blanc's affection has maxed out.&#x0a;"My face is red. Maybe I'm cold, or maybe I have a fever."</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>Absorbed in Vert</name>
+  <detail>Vert's affection has maxed out.&#x0a;"To think I would love something more than games...!"</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>It's okay, Neptune</name>
+  <detail>You've seen Neptune's GOOD ending.&#x0a;"GOOD job, buddy! Now keep playing!"</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>Average Heart</name>
+  <detail>You've seen Noire's GOOD ending.&#x0a;"There are other endings to get. Just look at this list."</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="S" pid="000">
+  <name>You did fine, Blanc</name>
+  <detail>You've seen Blanc's GOOD ending.&#x0a;"This is no more than a passing mark. Keep trying."</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="S" pid="000">
+  <name>You pass, Vert</name>
+  <detail>You've seen Vert's GOOD ending.&#x0a;"Well done, but keep trying!"</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>Sadface Neptune</name>
+  <detail>You've seen Neptune's BAD ending.&#x0a;"Well, it is what it is. Sorry."</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>Noire the Dunce</name>
+  <detail>You've seen Noire's BAD ending.&#x0a;"This happened because you didn't listen to me!"</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>Blanc Snapped</name>
+  <detail>You've seen Blanc's BAD ending.&#x0a;"Enough. Leave me alone."</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="000">
+  <name>Reclusive Vert</name>
+  <detail>You've seen Vert's BAD ending.&#x0a;"Your directions were rather uninspired."</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>Let's Go Idoling!</name>
+  <detail>You started the game! Way to go!</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>Hotcake Idol</name>
+  <detail>Your song was ranked number one.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>Number One</name>
+  <detail>You've taken a majority of the shares.</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>An Idol's Life</name>
+  <detail>You went on your first job.</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>Practice!</name>
+  <detail>You attended your first lesson.</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>First Concert</name>
+  <detail>You put on your debut concert.</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>Mover and Shaker</name>
+  <detail>You traveled to another nation.</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>How are you?</name>
+  <detail>You went out to play.</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>CPU Candidates!</name>
+  <detail>You got pummeled by the little sister crew.</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>Obstacidol</name>
+  <detail>You overcame a difficult situation...</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>Coordinator</name>
+  <detail>Obtained all costumes and accessories.</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>Infinity Mirror ♪</name>
+  <detail>Mastered all the songs.</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>Birth of a CPU Duet</name>
+  <detail>Formed your first duo.</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>Birth of a CPU Trio</name>
+  <detail>Formed your first trio.</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>Challenger's Soul</name>
+  <detail>Put on 50 concerts.</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>Concert Master</name>
+  <detail>Obtained the highest ranking at a concert.</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>First Contact</name>
+  <detail>Got up-close and personal with a character.</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>We Meet Again</name>
+  <detail>All the characters made an appearance.</detail>
+ </trophy>
+</trophyconf>

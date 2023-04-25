@@ -1,0 +1,64 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000be4fe9edfd1e1dfc1872cb7333a9ca562a088ec8a79b165d4aae4c025f28d98f5efc6bfb55eef1cd86a3d4c0e55de33dd23a63b0df142df0031989a452affcfa320ca03aef168a731cba8028cf7c5135ff4699ee3f107ca3c2532fc3b463862f440664e62a631b1f71c6ad6dbd7d7d72ca31b99e8d3d7bbed2d47f2c6dde868d37633f1fbd2bdd917957ce4a863802e7ce2e2358-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR08030_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Breach &amp; Clear</title-name>
+ <title-detail>Breach &amp; Clear</title-detail>
+ <trophy id="000" hidden="no" ttype="G" pid="-1">
+  <name>All the Medals</name>
+  <detail>Earn 2100 stars.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="-1">
+  <name>Fully Loaded</name>
+  <detail>Level a soldier up to level 30.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="-1">
+  <name>Veteran</name>
+  <detail>Earn 800 stars.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Area Cleared</name>
+  <detail>Clear a single location.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Killstreak</name>
+  <detail>Defeat six enemies in one turn.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Rank Up</name>
+  <detail>Level a soldier up to level 15.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Reaper</name>
+  <detail>Defeat 500 enemies.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Global</name>
+  <detail>Clear 500 locations.</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="-1">
+  <name>Bite the Hand that Feeds</name>
+  <detail>Shoot the CEO portrait in Kabul.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>This is my Boomstick</name>
+  <detail>Defeat 100 enemies with the shotgun.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>Set Up Us The Bomb</name>
+  <detail>Defuse 250 bombs.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="-1">
+  <name>Hunter</name>
+  <detail>Complete all Terrorist Hunt missions on medium difficulty or higher.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="-1">
+  <name>A Plan Comes Together</name>
+  <detail>Complete all Escape Plan missions on medium difficulty or higher.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="-1">
+  <name>Hurt Locker</name>
+  <detail>Complete all Bomb Defusal missions on medium difficulty or higher.</detail>
+ </trophy>
+</trophyconf>

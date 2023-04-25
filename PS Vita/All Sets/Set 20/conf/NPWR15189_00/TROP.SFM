@@ -1,0 +1,120 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000b5a40431eede6d605d782cc567fed289c508085502edd51ddff8f7926d26d1b72620cd1e955bc6572c7c7fa30c955a5615e642c950d8969897f2e57cb964263e2c84a74aa7e08a2e478d571ad14e13fb037b2c2ca55450b77975161493c876cfc98759a93b0121aa30e4de7e255956f13be42190e9832c1207227c9c8e327568c6d42c4cda1d077dd41023e72db5e114d98bb3ef-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR15189_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>参千世界遊戯 ～Re Multi Universe Myself～</title-name>
+ <title-detail>『参千世界遊戯 ～Re Multi Universe Myself～』 トロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>参千世界遊戯 ～Re Multi Universe Myself～</name>
+  <detail>全てのトロフィーを取得しました</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>PICTURE Complete</name>
+  <detail>全てのCGを取得しました</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>SCENE Complete</name>
+  <detail>全ての回想を取得しました</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>BGM Complete</name>
+  <detail>全てのBGMを取得しました</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>ENDING Complete</name>
+  <detail>全てのエンドを取得しました</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>re_universe_lovesong</name>
+  <detail>全てのBESTENDをクリアしました</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="000">
+  <name>Death_expired enough</name>
+  <detail>フェリクスBESTENDをクリアしました</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>With a blue memory of Felix</name>
+  <detail>フェリクスBADENDを全て見ました</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>My hero</name>
+  <detail>誠士郎BESTENDをクリアしました</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>With a blue memory of Seishiro</name>
+  <detail>誠士郎BADENDを全て見ました</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>end of nightmare</name>
+  <detail>オライオンBESTENDをクリアしました</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>With a blue memory of Orion</name>
+  <detail>オライオンBADENDを全て見ました</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>Sweetheartinworld</name>
+  <detail>ライコウBESTENDをクリアしました</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>With a blue memory of Rikou</name>
+  <detail>ライコウBADENDを全て見ました</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>Otherend Open</name>
+  <detail>Otherendを解放しました</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="S" pid="000">
+  <name>Otherend Clear</name>
+  <detail>Otherendをクリアしました</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="S" pid="000">
+  <name>Turning Point</name>
+  <detail>共通ルートをクリアしました</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>Voice Collection</name>
+  <detail>ボイスコレクションに音声を登録しました</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>Route -Felix-</name>
+  <detail>フェリクスルートに入りました</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>Route -Seishiro-</name>
+  <detail>誠士郎ルートに入りました</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="000">
+  <name>Route -Orion-</name>
+  <detail>オライオンルートに入りました</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>Route -Rikou-</name>
+  <detail>ライコウルートに入りました</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="B" pid="000">
+  <name>Multi Universe</name>
+  <detail>初めて転移を行いました</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>Encount -Felix-</name>
+  <detail>初めてフェリクスと会いました</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="000">
+  <name>Encount -Seishiro-</name>
+  <detail>初めて誠士郎と会いました</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="B" pid="000">
+  <name>Encount -Orion-</name>
+  <detail>初めてオライオンと会いました</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>Reunion -Rikou-</name>
+  <detail>ライコウと再会しました</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="B" pid="000">
+  <name>Encount -Shizuka-</name>
+  <detail>初めて静と会いました</detail>
+ </trophy>
+</trophyconf>

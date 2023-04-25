@@ -1,0 +1,60 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000004253149959c7187dc42f57463a7555dd6633a63d74b0340b02c87de1f411f3ec8f11d88b533c62dbaf518720c02217f06b74f5ba30e084f2d696386ad42b92e9ccabf962a5e2e9b25019899f9d3f18f34d50d223ac6a4139d2a5059851ca3471cccc5940f18a8c545b669ef88fcd209c24a7929b1e9aa84915855dd42be228a516054d68fcca4b748613368b929a6c95b1e18763-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR07379_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Don't Die, Mr. Robot!</title-name>
+ <title-detail>Trophy list</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Starting Out</name>
+  <detail>Complete the tutorial</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Miser</name>
+  <detail>Last 20 seconds without collecting a fruit in Arcade Mode</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Dicey</name>
+  <detail>Get a 10000 point danger bonus</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Fruity</name>
+  <detail>Get a x30 fruit chain</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Martyr</name>
+  <detail>Die with zero score and at least 10 fruits on screen in Arcade Mode</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Cameo Master</name>
+  <detail>Unlock all special guests</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>My First Livery</name>
+  <detail>Purchase your first livery</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Remix Master</name>
+  <detail>Complete all 50 Remix missions</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Silver Fox</name>
+  <detail>Get all silver medals</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="-1">
+  <name>Gold Run</name>
+  <detail>Get all gold medals</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="G" pid="-1">
+  <name>Going Platinum</name>
+  <detail>Get all platinum medals</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="-1">
+  <name>Time Lord</name>
+  <detail>Survive Time Attack without dying</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="-1">
+  <name>Zen Master</name>
+  <detail>Survive 5 minutes in Chill Out Mode</detail>
+ </trophy>
+</trophyconf>

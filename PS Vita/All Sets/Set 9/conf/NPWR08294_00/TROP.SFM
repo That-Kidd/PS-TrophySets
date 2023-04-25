@@ -1,0 +1,56 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000002535cb11dd7aea4226f6c00d4a074f90a67143b75f02281fcf94b08a8d6d6e1b6545307deafef08c008b80867630e52f438fdb4529a12edadf8b9d5b4e69e6a2ac639ef832c96b3c6f119c94e65753fa244368a702a8e63ca4409c45526ae6bf01715b080a1cadc8647c4697860cfab9320e07dbf54e0a797ef2fd43fb0d02798e24f2968ba85e4e3537c2c7daeb40664019db74-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR08294_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>2013: Infected Wars</title-name>
+ <title-detail>2013: Infected Wars</title-detail>
+ <trophy id="000" hidden="no" ttype="G" pid="-1">
+  <name>The Ironman</name>
+  <detail>Complete the campaign in ironman mode</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="-1">
+  <name>Flawless Lazy-eye</name>
+  <detail>Avoid all damage from Lazy-eye</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="-1">
+  <name>Flawless Imrod</name>
+  <detail>Avoid all damage from Imrod</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="-1">
+  <name>Class Master</name>
+  <detail>Achieve level 7 in any class</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Petty Station</name>
+  <detail>Complete Mission 1: Petty Station</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Dark Tunnels</name>
+  <detail>Complete Mission 2: Dark Tunnels</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Escape</name>
+  <detail>Complete Mission 3: Escape</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Petty's Patties</name>
+  <detail>Complete Mission 4: Petty's Patties</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Quarantine</name>
+  <detail>Complete Mission 5: Quarantine</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>Everything Must Go</name>
+  <detail>Complete Mission 6: Everything Must Go</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>Gun Run</name>
+  <detail>Complete Mission 7: Gun Run</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="-1">
+  <name>Hardwell Park</name>
+  <detail>Complete Mission 8: Hardwell Park</detail>
+ </trophy>
+</trophyconf>

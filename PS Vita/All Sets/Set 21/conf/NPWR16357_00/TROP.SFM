@@ -1,0 +1,92 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000fb82741f560064884238c52984deecc844ecb8974175ad78f1e47d7c481f02ab5c8c37fda04061b2f772163ccf625edbaa31bd737880070bcb9d0442362c6e0f96322412633d5b460945b138d85a285856c5b8bc3546fffe41f8281e770a7467ebebc637947737d01f000c267e3c08381388f8870ca576467bcaa537f383fad6f491373839f9f3cebebb78e902cf8093dc900247-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR16357_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Energy Cycle Edge</title-name>
+ <title-detail>Energy Cycle Edge</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Energy Cycle Edge Platinum</name>
+  <detail>Good job! Completed all tasks!</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Start</name>
+  <detail>Solved first puzzle</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Education</name>
+  <detail>Puzzles 2, 3 and 4 solved</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>Plain</name>
+  <detail>Puzzles 5, 6 and 7 solved</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>Smart</name>
+  <detail>Puzzles 8, 9 and 10 solved</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>Motion</name>
+  <detail>Puzzles 11, 12 and 13 solved</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>Idea</name>
+  <detail>Puzzles 14, 15 and 16 solved</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>Polarization</name>
+  <detail>Puzzles 17, 18 and 19 solved</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>Swing</name>
+  <detail>Puzzles 20, 21 and 22 solved</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>League</name>
+  <detail>Puzzles 23, 24 and 25 solved</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>Intelligent</name>
+  <detail>Puzzles 26, 27 and 28 solved</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>Spruce</name>
+  <detail>Puzzles 29, 30 and 31 solved</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>Rotation</name>
+  <detail>Puzzles 32, 33 and 34 solved</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="000">
+  <name>Brilliant</name>
+  <detail>Puzzles 35 and 36 solved</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>Format</name>
+  <detail>Puzzles 37, 38 and 39 solved</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="G" pid="000">
+  <name>Pressure</name>
+  <detail>Puzzles 40 and 41 solved</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="G" pid="000">
+  <name>Genius</name>
+  <detail>Puzzles 42 and 43 solved</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="G" pid="000">
+  <name>Simple</name>
+  <detail>All of puzzles solved</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>Easy one</name>
+  <detail>Took less than 10 seconds to solve the puzzle</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Complex task</name>
+  <detail>Took more than 15 minutes to solve the puzzle</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="G" pid="000">
+  <name>One touch</name>
+  <detail>3D puzzle is solved exactly with one rotation</detail>
+ </trophy>
+</trophyconf>

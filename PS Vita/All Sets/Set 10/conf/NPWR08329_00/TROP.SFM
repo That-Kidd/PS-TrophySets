@@ -1,0 +1,72 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000445fe45c26ec0f63a0113a4480a6d13e5980da6dbde9d99880121eb627d18c5cdf9ad40ec72d1a6637f689a46a36813d5ade2a25c45af96f27a28069202e6477764d67c0fee71409a4528961758df126aa97eeadabb838bba8bb6b7b14527d64b93cffe71757625e257a134f242afcb948e0cc394c5b44ed8d5c5756ef181e007eefe5827a55275f194a51e9cbbdf20e14f81769-->
+<trophyconf version="1.1" platform="ps3,psp2,ps4" policy="small">
+ <npcommid>NPWR08329_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Tiny Troopers Joint Ops</title-name>
+ <title-detail>Tiny Troopers Joint Ops Trophies</title-detail>
+ <group id="001">
+  <name>Tiny Troopers Joint Ops: Zombie Campaign DLC</name>
+  <detail>Tiny Troopers Joint Ops: Zombie Campaign DLC Trophies</detail>
+ </group>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Boot Camp</name>
+  <detail>Complete the Tutorial</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="-1">
+  <name>It's not over yet soldier!</name>
+  <detail>Complete Soldier Campaign</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="-1">
+  <name>No rest for the Spec Ops</name>
+  <detail>Completed Spec Ops Campaign</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="-1">
+  <name>V for Victory</name>
+  <detail>Both campaigns completed</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Death from Above</name>
+  <detail>Use an airstrike to kill 3 enemies at once</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>War Bonds</name>
+  <detail>Earn 1,000,000 Command Points</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Decked Out</name>
+  <detail>Fully upgrade your squad</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Lazarus!</name>
+  <detail>Revive fallen squad members 10 times</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="-1">
+  <name>Are you even trying?</name>
+  <detail>Lose the first mission in either Campaign</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>Killer Chicken Killer</name>
+  <detail>Zombie - Kill 100 zombie chickens</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>Not left for dead</name>
+  <detail>Zombie - Get a full squad</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="-1">
+  <name>Don't say the Z word</name>
+  <detail>Zombie - Reach wave 10</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="-1">
+  <name>Carl? CARL!</name>
+  <detail>Zombie - Reach wave 25</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="-1" gid="001">
+  <name>Done of the Dead</name>
+  <detail>Complete Zombie Campaign</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="-1" gid="001">
+  <name>V for Victorious</name>
+  <detail>All three campaigns completed</detail>
+ </trophy>
+</trophyconf>

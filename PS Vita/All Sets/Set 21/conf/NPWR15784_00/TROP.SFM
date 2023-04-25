@@ -1,0 +1,68 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000f8fc248614c905af8104d49e8e84321c3eac79b4c1019fd8bee693394c84c008f95f95bb3bd5791aab0f941a70519dbf3b66ef1a50e87cfd25756cd705061af5f0d27174a7e7df5cdd86a3cb4570e959f77475f51230a0189c9cfdefb2c7a291df82ca0dd3e8eddcacbc60e7d1465853d79a80c00afd86fe8aba200671bc7a92dce1d1be6e0e9cc6b5cff9493f21cfa648380e03-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR15784_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Bloodstained: Curse of the Moon</title-name>
+ <title-detail>Bloodstained: Curse of the Moon</title-detail>
+ <trophy id="000" hidden="yes" ttype="S" pid="-1">
+  <name>Nightmare's End</name>
+  <detail>Finish the game without sacrificing or recruiting any adventurers.</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="S" pid="-1">
+  <name>Those Left Behind</name>
+  <detail>Recruit every adventurer and finish the game.</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="S" pid="-1">
+  <name>Fallen Moon's Requiem</name>
+  <detail>Finish Nightmare Mode.</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="S" pid="-1">
+  <name>Emperor of Darkness</name>
+  <detail>Sacrifice every adventurer and finish the game.</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="-1">
+  <name>Blade Gleaming at Sunrise</name>
+  <detail>Adventure with your allies and see the Normal ending.</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="-1">
+  <name>That Man, Zangetsu</name>
+  <detail>Go it alone and see the Normal ending.</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="-1">
+  <name>Big Game Hunting!</name>
+  <detail>Defeat every boss in Boss Rush mode.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Moonlight Temptation</name>
+  <detail>Finish Stage 1 for the first time.</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="-1">
+  <name>Frigid Hell</name>
+  <detail>Finish Stage 2 for the first time.</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="-1">
+  <name>The Brilliant Void</name>
+  <detail>Finish Stage 3 for the first time.</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="-1">
+  <name>Blasphemy unto Heaven</name>
+  <detail>Finish Stage 4 for the first time.</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="-1">
+  <name>Sunder the Night</name>
+  <detail>Finish Stage 5 for the first time.</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="B" pid="-1">
+  <name>Tragedy of Slaughter</name>
+  <detail>Finish Stage 6 for the first time.</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="-1">
+  <name>Defiler of Taboos</name>
+  <detail>Finish Stage 7 for the first time.</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="B" pid="-1">
+  <name>Cleave the Moon</name>
+  <detail>Finish Stage 8 for the first time.</detail>
+ </trophy>
+</trophyconf>

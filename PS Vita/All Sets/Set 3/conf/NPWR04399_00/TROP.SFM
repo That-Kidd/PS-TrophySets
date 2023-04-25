@@ -1,0 +1,140 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000000e4863d1afb882ca65cebd20eabf6b81db6b89813b3e086e80ebf57756d61e09a20970d81f38827ae19f0be53accb6ee98a0f5e3f956a5513ab260326385e481b6e3dc714486a52ea5230e2d16241be5a305ac1561662ae4f52d9fc9563a07cec26aa6c2db24c7e173fa4ed07f42bcca6a087201498f24c3dd6f48e1ee349d307a73114294a1fc9e7b3081c3f0d7b84b6bae232b-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR04399_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>LEGO® Legends of Chima™ </title-name>
+ <title-detail>Trophy set</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Triple CHI legend </name>
+  <detail>Collect all Trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>CHI Club</name>
+  <detail>CHI up a character from each tribe</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>Trap Cracker</name>
+  <detail>Destroy all the traps in Wolf Camp with the rock on mechanics</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>Leaps and Bounds</name>
+  <detail>Perform five CHI jumps in a row as Laval</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>Eagle Vision</name>
+  <detail>Pick up 20,000 studs as Eris</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>Swoon Song</name>
+  <detail>Cause 3 Wolves to swoon as Dom De La Woosh</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>Unleash the Power</name>
+  <detail>CHI Up twice in one level without using a CHI Pool</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>Crocodile Tears</name>
+  <detail>Use the CHI absorb during the Cragger boss fight at the end of Spiral Mountain</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>CHI Clash</name>
+  <detail>CHI Up and win a sword clash against a CHI-ed up enemy</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>Ferocious Fox</name>
+  <detail>Defeat 5 enemies as Furtivo the Fox</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>Pack Leader</name>
+  <detail>Defeat 10 Wolves in Eagle Town using Worriz</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>Rhino Charger</name>
+  <detail>Knock down 3 enemies in a row with a Rhino Charge</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>Sharp Shooter</name>
+  <detail>Complete six waves in the Eagle Grasslands or Gorilla Region shooting gallery</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>Smart as a Fox</name>
+  <detail>Compete the laser puzzle in Eagle Library as Furtivo</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>Rock and Roll</name>
+  <detail>Use Rogon's rock on ability to destroy the spinning blades in Gorilla Village</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>Stunner</name>
+  <detail>Use Dom de la Woosh's poses to stun enemies and then defeat them</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Nomad's land</name>
+  <detail>Unlock all the Nomad characters</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>CHI-ter</name>
+  <detail>Unlock all red bricks</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>Copy Cat</name>
+  <detail>Make a Lion Tribe custom character</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Hide and Seek</name>
+  <detail>Complete the hide and seek game in Forever Rock</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>Busy Beaver</name>
+  <detail>Complete the Beaver Village puzzle</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>Nap Time</name>
+  <detail>Don't touch any controls for 45 seconds while in the Bear cave</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>Secret of the Triple CHI</name>
+  <detail>Discover the legend of the triple CHI in the Rhino pretty picture cave</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>Spiral Mountain</name>
+  <detail>Complete Spiral Mountain</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>Eagle Town</name>
+  <detail>Complete Eagle Town</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>Eagle Library</name>
+  <detail>Complete Eagle Library</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>Sanctuary Forest</name>
+  <detail>Complete Sanctuary Forest</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>Gorilla Village</name>
+  <detail>Complete Gorilla Village</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>Rhino Canyon</name>
+  <detail>Complete Rhino Canyon</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>Rhino Caves</name>
+  <detail>Complete Rhino Caves</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>Croc Swamp</name>
+  <detail>Complete Croc Swamp</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>Croc Fort</name>
+  <detail>Complete Croc Fort</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>Wolf Camp</name>
+  <detail>Complete Wolf Camp</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,132 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000074c1363dd1944d4eb92f7c2074a3c3e1feae04739bf011a4c6c4c98437d48062b570531c8d1ce003c29618ea83f6daf6758b54cdf67f91f8e6f80c306511c3894b081bb319a76a09de567e835efe34c334b202a234ef467aa1d4e5545e199a8de964b211e0a5d901488a501b367ee39f333f8461fc20f0d552b628c788761026fb495d157fc0bb80ebb1fff7aaafde46731c5004-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR20163_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>EMMA: Lost in Memories</title-name>
+ <title-detail>EMMA: Lost in Memories</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>EMMA: Lost in Memories</name>
+  <detail>Earn all other trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Far from home</name>
+  <detail>Complete all levels from the Hills</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Reach the peak</name>
+  <detail>Complete all levels from the Mountains</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Lost in the depths // Lost in the Woods</name>
+  <detail>Complete all levels from the Forest</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>Speleologist // Beneath Shining Caves</name>
+  <detail>Complete all levels from the Cave</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>The Adventure Begins</name>
+  <detail>Complete all levels from the Tutorial</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>Home, sweet home</name>
+  <detail>Complete all levels from the Return</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>The End</name>
+  <detail>Complete all levels from story mode and see the end</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>Short-term</name>
+  <detail>Complete all Easy levels from the Memory chest</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>Long-term</name>
+  <detail>Complete all Medium levels from the Memory chest</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>Emotional</name>
+  <detail>Complete all Hard levels from the Memory chest</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>My Memories</name>
+  <detail>Complete all levels from the Memory chest  </detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>The Owls Treasure</name>
+  <detail>Get all the feathers from the game //!!!!!!</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="000">
+  <name>First of many</name>
+  <detail>Get a feather</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>Memories away from home</name>
+  <detail>Get all feathers from the Hills</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>Memories at the peak</name>
+  <detail>Get all feathers from the Mountains</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>Deep memories</name>
+  <detail>Get all feathers from the Forest</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>Buried memories</name>
+  <detail>Get all feathers from the Cave</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>Scattered memories</name>
+  <detail>Get all feathers from the Return</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="G" pid="000">
+  <name>Pieces from a Tale</name>
+  <detail>Get all feathers from Story mode</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>Recalling Once</name>
+  <detail>Get all feathers from the Easy Memory chest</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>Recalling Twice</name>
+  <detail>Get all feathers from the Medium Memory chest</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="G" pid="000">
+  <name>Recalling Last</name>
+  <detail>Get all feathers from the Hard Memory chest</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>Dusting the past</name>
+  <detail>Visit the Memory chest</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="000">
+  <name>Looking at the past</name>
+  <detail>Visit the Photo album</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>Dodging Death</name>
+  <detail>Complete the last level from the Hills without dying</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="S" pid="000">
+  <name>Fleeing Death</name>
+  <detail>Complete the last level from the Mountains without dying</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="S" pid="000">
+  <name>Hiding from Death</name>
+  <detail>Complete the last level from the Forest without dying</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="S" pid="000">
+  <name>Cheating Death</name>
+  <detail>Complete the last level from the Cave without dying</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="S" pid="000">
+  <name>Killing Death</name>
+  <detail>Complete the last level from the Return without dying</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="B" pid="000">
+  <name>Clumsy</name>
+  <detail>Die in the Tutorial</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,48 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000e3ca6db3a75a39f644909a42eb365fedb16dccb2b39a0e7f06a2a23106479cc5bab63df17ac6080075dcb88c9ae077d8e6dc2d905e754702089af8f1a20a3e9c93a1babe81d2c5174d661a3de21d6c0e0db0b479f5de35485c8c791d692f723dad235e311991ad7547259f654996fdc77d0d35388f2fa54ca3f22a0a19514afc3a56380e94a1646c86523593b2d9f4a53db5974e-->
+<trophyconf version="1.1" platform="psp2" policy="freemium">
+ <npcommid>NPWR06860_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>チェインクロニクルV</title-name>
+ <title-detail>チェインクロニクルVのトロフィーです。</title-detail>
+ <trophy id="000" hidden="no" ttype="G" pid="-1">
+  <name>最強の義勇軍</name>
+  <detail>パーティ総コストが100に達した</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="-1">
+  <name>最強の仲間</name>
+  <detail>1つのアルカナを4回限界突破させ、更にレベルMAXにした</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="-1">
+  <name>頼りになる隊長</name>
+  <detail>100話のキャラクターストーリーをクリアした</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>限界突破</name>
+  <detail>1つのアルカナで4回限界突破合成をした</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>駆け出し隊長</name>
+  <detail>20話のキャラクターストーリーをクリアした</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>義勇軍のはじまり</name>
+  <detail>チュートリアルをクリアした</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>フォーチュンリング</name>
+  <detail>フォーチュンリングで、キャラクターをGETした</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>鍛冶職人見習い</name>
+  <detail>武器の強化をMAXにした</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>勢力への貢献</name>
+  <detail>全ての勢力に所属した</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>日々の戦い</name>
+  <detail>ひと月の間に25日ログインした</detail>
+ </trophy>
+</trophyconf>

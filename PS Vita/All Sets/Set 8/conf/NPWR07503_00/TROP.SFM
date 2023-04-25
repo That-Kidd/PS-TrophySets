@@ -1,0 +1,108 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000f403a445f1f907b4375cf010011e94a7d529ae9c5edae75a6c420f64d0a46c104af0a69c68eb31ecee6567eba115981da95dc4d796551d36085bc185c5bed1458679d407db2676986a06ac182fbe4e1759aceb7ba9819ff20aa46c26a617ee50fdb55575b0647a393e14340041502fd03120e5e6f1876a003580b1d63be74f7f78a60ef4dfadea18654f02b09cf4dea4c3ea6a0d-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR07503_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>htoL#NiQ -The Firefly Diary-</title-name>
+ <title-detail>Trophy Set for htoL#NiQ ‐The Firefly Diary‐</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Platinium Trophy</name>
+  <detail>You have obtained every trophy! Congratulations!</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>Chapter 1 Cleared</name>
+  <detail>You have cleared Chapter 1</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="S" pid="000">
+  <name>Chapter 2 Cleared</name>
+  <detail>You have cleared Chapter 2</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="S" pid="000">
+  <name>Chapter 3 Cleared</name>
+  <detail>You have cleared Chapter 3</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="S" pid="000">
+  <name>Chapter 4 Cleared</name>
+  <detail>You have cleared Chapter 4</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="G" pid="000">
+  <name>Mion's Punishment</name>
+  <detail>You have completed the game</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="G" pid="000">
+  <name>Escape Artist</name>
+  <detail>Cleared Chapter 1 and defeated the boss without dying at any point</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="G" pid="000">
+  <name>Risky Feeding</name>
+  <detail>Cleared Chapter 2 and defeated the boss using no more than 3 boxes of explosives</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="G" pid="000">
+  <name>Dinner Delayed</name>
+  <detail>Cleared Chapter 3 and defeated the boss without letting it regenerate at all</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="G" pid="000">
+  <name>You're Just Naturally Lucky?</name>
+  <detail>Answered every question correctly during the Chapter 4 boss fight</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="G" pid="000">
+  <name>Memories</name>
+  <detail>Collected every Memory Fragment</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>I Have Nothing Else to Do</name>
+  <detail>Cleared Stage 1-1 in under 80 seconds without dying</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>Curiosity Killed the Cat</name>
+  <detail>Touched the toxic waste in Stage 1-2</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>Mementos...?</name>
+  <detail>Cleared Stage 1-3 after collecting all the stuffed animals</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>Sharp Mind</name>
+  <detail>Cleared Stage 2-1 without dying, and without using the levers more than 4 times</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>What's the Hurry?</name>
+  <detail>Completed the maze area in Stage 2-2 without dying, and within 60 seconds of stepping on the switch</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>Concentration</name>
+  <detail>Completed the maze in Stage 2-3 with Lumen within 2 minutes and 10 seconds, and without touching the sides</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>Cloud Hopping</name>
+  <detail>Completed the floating portion of Stage 3-1 without landing once</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>Hopeless Romantic</name>
+  <detail>Gazed at the moon in Stage 3-2</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Patience Please</name>
+  <detail>Fed the Shadow Bird seeds in Stage 3-3</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>Sharp Mind 2</name>
+  <detail>Cleared Stage 4-1 without dying, and without opening the doors more than 18 times</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>Cull the Weak</name>
+  <detail>Cleared Stage 4-2 and defeated every shadow enemy in the elevator area</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>Lord of the Pipes</name>
+  <detail>Cleared Stage 4-3 after passing through all the pipes</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>Unbending Resolve</name>
+  <detail>Died 10 times</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="S" pid="000">
+  <name>Unbreakable Resolve</name>
+  <detail>Died 100 times</detail>
+ </trophy>
+</trophyconf>

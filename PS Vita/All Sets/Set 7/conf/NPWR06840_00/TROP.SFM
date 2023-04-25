@@ -1,0 +1,160 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000006169ed81c9204f3dafe7be91292a044b0f30f4e9441d29380350cf269dc09db0308570aa9556d1e8c9137fb23c15a06613682f36311bed5b2480e2026abe1abb2fe18eda7f1aa95a3c9fdfe1e7b91c891a1293fd16bdabe1ee2204e28fb952022846321596ad92dcbccb3220f7db16c894812d01e5da1c4e79d5c96749eac25764ade618fa155429f2089b970495ab3b75e52d4a-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR06840_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>レンドフルール</title-name>
+ <title-detail>レンドフルールのトロフィーです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>花の女王～レンドフリークス～</name>
+  <detail>全てのトロフィーを獲得。レンドを愛し尽くしてくれたあなたに感謝を！</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>どの騎士がお好み？</name>
+  <detail>対面式で騎士たちと出会った。あなたのお目当ては誰ですか？</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>初めてのラヴィール</name>
+  <detail>いざ、初対決！　相手の繰り出す口撃に負けずに立ち向かいましょう！</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>やればできる姫</name>
+  <detail>初めてラヴィールに勝利した。コツは掴めてきましたか？</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>当たって砕けた姫</name>
+  <detail>初めてラヴィールに敗北した。双子蝶のヒントを活用してレッツ・リトライ！</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>いずれ劣らぬ難敵揃い</name>
+  <detail>４人の騎士とラヴィールを経験した。どいつもこいつもめんどくさい。頑張れ姫様！</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>笑ってはいけない何か</name>
+  <detail>わんこなレオンを想像した。違和感が来いと呟いた。</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>王子様の危険な性癖</name>
+  <detail>ルイの性癖に軽く引いた。どれも好きとはどういうことか。許容範囲はどこまで！？</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>積極性を見たかった</name>
+  <detail>ギスランの【積極性】にちょっと期待してた。残念！そういうのはもっと後で！</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="000">
+  <name>お客さん第一号</name>
+  <detail>オルフェの初めてのお客さんになった。ちょっと嬉しい。光栄です！</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="000">
+  <name>逃げられなかった珍品自慢</name>
+  <detail>ユベールの珍品自慢に付き合わされた。ボヌール卿を恨みたい。</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>レーヌと騎士</name>
+  <detail>叙任式で騎士たちの誓言を受けた。培った絆に胸が熱くなった。</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>壮大なプロローグ</name>
+  <detail>第１部を終えた。本当の物語はここから始まる。</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="000">
+  <name>空の涙</name>
+  <detail>初めて儀式を行った。彼らの痛みから目を逸らさずに。</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="B" pid="000">
+  <name>初めての【お友達】</name>
+  <detail>双子蝶との出会い。初めて得た【わたしだけの】大切なお友達。</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>耳に馴染む声</name>
+  <detail>鮮明な夢を見た。耳に馴染みすぎたこの声の主は……？</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>過保護の意図</name>
+  <detail>ユベールの過保護さを改めて思い知る。けれど、その裏に隠れた闇にはまだ気付けない。</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>すべての分岐点</name>
+  <detail>第２部を終えた。ここからどんな結末を導き出すかはあなた次第。</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>女神の器</name>
+  <detail>ミレーヌによって真実を知る。存在を否定された時、残るものは何か。</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>悲しみと後悔の果て</name>
+  <detail>初めてバッドエンドを迎えた。何を間違えてしまったのか。次こそは別の道を。</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="000">
+  <name>綺麗なまま、忘れたまま</name>
+  <detail>レオン忠誠エンドをクリア。残酷な忠誠に奪われた記憶は２度と戻ることはない。</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>わたしのために消えなさい</name>
+  <detail>ルイ忠誠エンドをクリア。忠誠を糧に咲く無慈悲な女王の姿に、彼は満足げに微笑む。</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="B" pid="000">
+  <name>生涯二君に見えず</name>
+  <detail>ギスラン忠誠エンドをクリア。真の忠誠は、悲願を果たすその瞬間まで貫かれる。</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>薄紅色の守護神</name>
+  <detail>オルフェ忠誠エンドをクリア。永遠に見守り続ける。二度と触れること叶わなくとも。</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="000">
+  <name>跪き、魂まで捧げよ</name>
+  <detail>ユベール服従エンドをクリア。重ねた歪みは更なる歪みを生み、ただ狂いゆくのみ。</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="S" pid="000">
+  <name>わたしの可愛い双子蝶</name>
+  <detail>双子蝶にすべての金平糖をあげた。これからもよろしくね。</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="S" pid="000">
+  <name>運命の恋人</name>
+  <detail>レオン愛情エンドをクリア。運命は自ら掴むもの。これからも、きっと。</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="S" pid="000">
+  <name>巡る想いの果てに</name>
+  <detail>ルイ愛情エンドをクリア。長い輪廻の果てに得た、至高の恋。</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="S" pid="000">
+  <name>罪と共に得た愛</name>
+  <detail>ギスラン愛情エンドをクリア。どれほど罪深くとも、共に寄り添い生きる覚悟。</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="S" pid="000">
+  <name>籠を出た比翼の鳥</name>
+  <detail>オルフェ愛情エンドをクリア。天より地へ飛ぶ鳥は、やがて連理の枝となる。</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="S" pid="000">
+  <name>執着の終着</name>
+  <detail>ユベール愛情エンドをクリア。曇った視界が晴れた時、そこに在るのは、ただ一対の男と女。</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="S" pid="000">
+  <name>おのれユベール！！</name>
+  <detail>ユベールの思惑通りに操られ、２度バッドエンドを迎えた。これはこれで美味しいなんて思ってない。</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="S" pid="000">
+  <name>ただ、愛のために</name>
+  <detail>全員の愛情エンドをクリア。愛し、愛されることを知り、罪深い歓びに満たされた。</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="S" pid="000">
+  <name>わたしはレーヌ</name>
+  <detail>「レオン」「ルイ」「ギスラン」「オルフェ」の忠誠エンド、「ユベール」の服従エンドをクリア。&#x0a;誰かを救おうとすることで失うものの大きさを知った。&#x0a;</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="G" pid="000">
+  <name>駆け引きはお手の物</name>
+  <detail>すべてのラヴィールに勝利。全員手のひらの上で転がしてやりました。お見事！</detail>
+ </trophy>
+ <trophy id="035" hidden="yes" ttype="G" pid="000">
+  <name>お得意様</name>
+  <detail>ショップアイテムをすべて購入。まいどあり！</detail>
+ </trophy>
+ <trophy id="036" hidden="yes" ttype="G" pid="000">
+  <name>ギャラリーオーナー</name>
+  <detail>ＣＧをすべて解放。蘇る思い出の数々を、心ゆくまで眺めてください。</detail>
+ </trophy>
+ <trophy id="037" hidden="yes" ttype="G" pid="000">
+  <name>パルテダームの生き字引</name>
+  <detail>エンディングリストが完成。すべての結末を知るあなたは、今やユベール以上の生き字引。</detail>
+ </trophy>
+</trophyconf>

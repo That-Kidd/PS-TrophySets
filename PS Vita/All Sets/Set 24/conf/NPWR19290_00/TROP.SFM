@@ -1,0 +1,56 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000087ec0acebf134fbaca6994bbea0c577451f5ef9a4485ed17191bc74548f1de526abc3f5dc67674c155bfbf92b15303874ce48ce1ed8d03b1c707781d75169bf0314b94ac5dc6ca2b4cf4c013c382146823e1a47e9a8d78e55333da304fd06e2b34c880bf0b9c3fe1b89d33494da8845604e7e6877a92c5309943a81b860897d6f21b1520fe92a08c1aa033021cc62d9f7429ac9f-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR19290_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Plague Road</title-name>
+ <title-detail>The Core Trophies of Plague Road</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Master Doctor</name>
+  <detail>Obtain all trophies.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>Builder</name>
+  <detail>Unlock all farm buildings.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>Savior</name>
+  <detail>Rescue 50 Survivors.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>Great Savior</name>
+  <detail>Rescue 75 Survivors.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>Magical Doctor</name>
+  <detail>Heal 20 times using the Nurse.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>Great Doctor</name>
+  <detail>Heal 40 times using the Nurse.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>Hot Under the Collar</name>
+  <detail>Kill 10 enemies using the Soldier's Flame Thrower.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>Under Fire</name>
+  <detail>Kill 20 enemies using the Soldier's Flame Thrower.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>Resilient</name>
+  <detail>Get poisoned 10 times.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>Traveler</name>
+  <detail>Reach the City.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>Adventurer</name>
+  <detail>Discover the Catacombs.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>All the Way</name>
+  <detail>Finish the True Ending.</detail>
+ </trophy>
+</trophyconf>

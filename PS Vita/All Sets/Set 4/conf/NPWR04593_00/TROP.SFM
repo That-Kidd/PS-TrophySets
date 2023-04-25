@@ -1,0 +1,208 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000b23ed103d3e4a97b689deda6306778fabe3a485614eb45ae45ac0589b147d9c011dde117e3b78dcca2336a47e80ce6164b2af16433c40890d19944c2e6a7a18c7a893ce297f91ef8ed0d75227fb3eec741554ca308f3145f743beeb05d3db191c342f4aa5839f1659618796a0b037a70881f5e22cab0c2d3bd7b230e0dbd7bde084f8420c9e28a675b13134907e0bc1942037831-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR04593_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>討鬼伝</title-name>
+ <title-detail>討鬼伝のトロフィーパックです</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>伝説のモノノフ</name>
+  <detail>すべてのトロフィーを獲得した</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>大和の教え</name>
+  <detail>モノノフとして認められた</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>一人前のモノノフ</name>
+  <detail>一章を終えた</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>気鋭のモノノフ</name>
+  <detail>二章を終えた</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>モノノフ隊長</name>
+  <detail>三章を終えた</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>手練れのモノノフ</name>
+  <detail>四章を終えた</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="000">
+  <name>ムスヒの担い手</name>
+  <detail>五章を終えた</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>モノノフの英雄</name>
+  <detail>すべての章を終えた</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>切り拓く者</name>
+  <detail>進行度三を終えた</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="000">
+  <name>たゆまぬ勇士</name>
+  <detail>進行度五を終えた</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>希望の担い手</name>
+  <detail>進行度十を終えた</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>金眼四ツ目の守り人</name>
+  <detail>すべての任務を達成した</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>指南修了</name>
+  <detail>指南をすべて終えた</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>厄介ごと請負人</name>
+  <detail>依頼を３０達成した</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>仕事人</name>
+  <detail>すべての依頼を達成した</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>磨き抜きし者</name>
+  <detail>１つの武器を最大まで鍛錬した</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>武器収集家</name>
+  <detail>武器を５０種類獲得した</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>一意専心</name>
+  <detail>いずれかの種類の武器を&#x0a;すべて獲得した</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>霊威を得し者</name>
+  <detail>祭祀堂で合成をした</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>鍛え上げし者</name>
+  <detail>１つの防具を最大まで鍛錬した</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>防具収集家</name>
+  <detail>防具を合計で５０種類獲得した</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>防具愛好家</name>
+  <detail>防具を合計で１００種類獲得した</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>英霊の導き手</name>
+  <detail>１つのミタマをレベル１０にした</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="G" pid="000">
+  <name>英霊の解放者</name>
+  <detail>すべてのミタマを獲得した</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>発動名人</name>
+  <detail>スキルを５０種類発動した</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="S" pid="000">
+  <name>発動の達人</name>
+  <detail>スキルを３００種類発動した</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>合わせ上手</name>
+  <detail>組合せスキルを３０種類発動した</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="S" pid="000">
+  <name>合わせの達人</name>
+  <detail>組合せスキルを１００種類発動した</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>武器に通ず</name>
+  <detail>すべての種類の武器で&#x0a;任務に１０回ずつ出撃した</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>戦法に通ず</name>
+  <detail>すべての戦闘スタイルで&#x0a;任務に１０回ずつ出撃した</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>浄める者</name>
+  <detail>素材の浄化を１０回行った</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="S" pid="000">
+  <name>“鬼”を知る者</name>
+  <detail>手帳の討伐履歴を&#x0a;すべて書き記した</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="S" pid="000">
+  <name>異界を知る者</name>
+  <detail>手帳の拾得履歴を&#x0a;すべて書き記した</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>破壊の達人</name>
+  <detail>いずれかの大型“鬼”の部位を&#x0a;１回の任務中にすべて破壊した</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>破壊王</name>
+  <detail>部位破壊１００回達成</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="S" pid="000">
+  <name>破壊神</name>
+  <detail>部位破壊５００回達成</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>拾い上手</name>
+  <detail>拾得１００回達成</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>雑鬼殲滅</name>
+  <detail>小型“鬼”を&#x0a;合計で１０００体討伐した</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>“鬼”を討つ鬼</name>
+  <detail>大型“鬼”を&#x0a;合計で１００体討伐した</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="000">
+  <name>片づけ上手</name>
+  <detail>武具箪笥と収納箪笥の容量を&#x0a;最大にした</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="B" pid="000">
+  <name>神木の恵み</name>
+  <detail>神木を最大まで成長させた</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="B" pid="000">
+  <name>賽銭箱の御利益</name>
+  <detail>賽銭箱を最大まで成長させた</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="B" pid="000">
+  <name>お客様は神様です</name>
+  <detail>よろず屋で&#x0a;神様と呼ばれるようになった</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="B" pid="000">
+  <name>しぐさの達人</name>
+  <detail>すべての「しぐさ」を身につけた</detail>
+ </trophy>
+ <trophy id="044" hidden="no" ttype="B" pid="000">
+  <name>冒険に行こう</name>
+  <detail>天狐を冒険に３０回行かせた</detail>
+ </trophy>
+ <trophy id="045" hidden="no" ttype="B" pid="000">
+  <name>一途な想い</name>
+  <detail>仲間１人の友好度を&#x0a;最大にした</detail>
+ </trophy>
+ <trophy id="046" hidden="no" ttype="S" pid="000">
+  <name>人気者</name>
+  <detail>仲間全員の友好度を&#x0a;最大にした</detail>
+ </trophy>
+ <trophy id="047" hidden="yes" ttype="B" pid="000">
+  <name>禁断の禊場</name>
+  <detail>禊場で異性の仲間と過ごした</detail>
+ </trophy>
+ <trophy id="048" hidden="no" ttype="B" pid="000">
+  <name>禊場の常連</name>
+  <detail>禊場へ５０回行った</detail>
+ </trophy>
+ <trophy id="049" hidden="no" ttype="S" pid="000">
+  <name>お大尽</name>
+  <detail>ハクを合計で&#x0a;１００００００獲得した</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,72 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000009ef9346e072f155617b4de56d74ddeb6bc027d6a3f84561d46e3bfbff0252ffcc447b6525b6df5ea82521534ea5bdba7d3f3c97bbcb79a8de637a94c468934581a4599cb8999cf806ada90819ac257cb4d3cbed5d34bda88271810227fb8d588042b8e8375510cba7ebacd223e8c1284cadc69c4ee0093930e24d02cfbb7f00c12c668955a0b47f1014b49697947edf3fe7a6339-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR18433_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Asdivine Menace</title-name>
+ <title-detail>Trophy set for Asdivine Menace</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>World's Future</name>
+  <detail>Obtained all the trophies.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>First Step</name>
+  <detail>Watched the opening.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Newcomer</name>
+  <detail>Cleared the Bronze Cup at the battle arena.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>Victor</name>
+  <detail>Cleared the Silver Cup at the battle arena.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>Champion</name>
+  <detail>Cleared the Gold Cup at the battle arena.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>Master of Masters</name>
+  <detail>Cleared the Maid Cup at the battle arena.</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="000">
+  <name>Her World</name>
+  <detail>Obtained the ”Her World” ending.</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="G" pid="000">
+  <name>A Shared Future</name>
+  <detail>Obtained the ”A Shared Future” ending.</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="G" pid="000">
+  <name>What Lies Beyond</name>
+  <detail>Obtained the ”What Lies Beyond” ending.</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="G" pid="000">
+  <name>Whereabouts of the Blue Sky</name>
+  <detail>Obtained the ”Whereabouts of the Blue Sky” ending.</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>Nemesis' World Niente</name>
+  <detail>Obtained the ”Nemesis' World Niente” ending.</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="G" pid="000">
+  <name>Emotions that Transcend Worlds</name>
+  <detail>Obtained the ”Emotions that Transcend Worlds” ending.</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="G" pid="000">
+  <name>A New Me</name>
+  <detail>Obtained the ”A New Me” ending.</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="G" pid="000">
+  <name>Never-Ending Days of Craziness</name>
+  <detail>Obtained the ”Never-Ending Days of Craziness” ending.</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="G" pid="000">
+  <name>A World Embraced by Joy</name>
+  <detail>Obtained the ”A World Embraced by Joy” ending.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="G" pid="000">
+  <name>Master Servant</name>
+  <detail>Cleared all subquests.</detail>
+ </trophy>
+</trophyconf>

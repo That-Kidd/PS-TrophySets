@@ -1,0 +1,112 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000e6b05dd6d6767b7ccd6a37a95d764653da8b510112f633788b0e9484a9b6bf53ae121ea7f2a052aa775b756cec9eeff26692b55e4c5f2f958da7488d2322e7c3913d668cac5bef489633d7b2a0a80e012d10a89af33df9622533f5742e9c6a5856b85a7e62e7898c349ea868d64d0e5979a5b5693b5870c8376729c22047277e571dff568dbe11ce2db8bb3f52c800fa64e24b50-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR04952_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>AMNESIA V Edition</title-name>
+ <title-detail>AMNESIA V Editionのトロフィーです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>アムネシアマスター</name>
+  <detail>全てのトロフィーを獲得した</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>オリオンとの出会い</name>
+  <detail>プロローグクリア</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>すごく好きだ、大好きだ</name>
+  <detail>ハートの世界でグッドエンドをむかえた</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>覚悟、決めたよ</name>
+  <detail>スペードの世界でグッドエンドをむかえた</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>今までも、これからも―</name>
+  <detail>ダイヤの世界でグッドエンドをむかえた</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>もう離さない</name>
+  <detail>クローバーの世界でグッドエンドをむかえた</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>大切なもの</name>
+  <detail>ジョーカーの世界でグッドエンドをむかえた</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>平穏な世界</name>
+  <detail>ノーマルエンドをむかえた</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>不幸な結末</name>
+  <detail>バッドエンドをむかえた</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>GOOD ENDマスター</name>
+  <detail>すべてのグッドエンドをみた</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>NORMAL ENDマスター</name>
+  <detail>すべてのノーマルエンドをみた</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>BAD ENDマスター</name>
+  <detail>すべてのバッドエンドをみた</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>コンプリート！</name>
+  <detail>すべてのエンディングをみた</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>シンとの思い出</name>
+  <detail>シンのスチルをすべてオープンした</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>イッキとの思い出</name>
+  <detail>イッキのスチルをすべてオープンした</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>トーマとの思い出</name>
+  <detail>トーマのスチルをすべてオープンした</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>ケントとの思い出</name>
+  <detail>ケントのスチルをすべてオープンした</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>ウキョウとの思い出</name>
+  <detail>ウキョウのスチルをすべてオープンした</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>みんなとの思い出</name>
+  <detail>その他のスチルをすべてオープンした</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>たたいてかぶってジャンケンポンクリア！</name>
+  <detail>たたいてかぶってジャンケンポンで3人に勝った</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>エアホッケークリア！</name>
+  <detail>エアホッケーで3人に勝った</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>たたいてかぶってジャンケンポン覇者</name>
+  <detail>たたいてかぶってジャンケンポンで5人全員に勝った</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>エアホッケー名人</name>
+  <detail>エアホッケーで5人全員に勝った</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="G" pid="000">
+  <name>Congratulations！</name>
+  <detail>MINI GAMEご褒美スチルを見た</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="G" pid="000">
+  <name>8月の思い出</name>
+  <detail>MEMORIESをすべて見た</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="G" pid="000">
+  <name>タッチマスター</name>
+  <detail>スチルタッチボイスをすべて聞いた</detail>
+ </trophy>
+</trophyconf>

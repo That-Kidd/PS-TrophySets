@@ -1,0 +1,24 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000a7edc371e3e3d074cc0353ca37e7d4e622dbcfbc639422277e66a64a58e322ef3fb8e4c895a76f96065fe8fd16706c108482205c5652a932a97b22b11e281601830165eda0c18071b0b39054c1240d0e78985b64ef323d1b95ba66646aaa0329f007eaa90984c61611f5b5ed9c7acb2072eeada0782eec6f8f5283b6a19991d0de9d4eb0eab997a7353b30e072b418619dfbadfd-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="small">
+ <npcommid>NPWR13530_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>It's Spring Again</title-name>
+ <title-detail>It's Spring Again</title-detail>
+ <trophy id="000" hidden="no" ttype="S" pid="-1">
+  <name>Spring</name>
+  <detail>Every year on your birthday, you get a chance to start new.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="-1">
+  <name>Summer</name>
+  <detail>Health is the thing that makes you feel that now is the best time of the year.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="-1">
+  <name>Autumn</name>
+  <detail>Autumn is a second spring when every leaf is a flower.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="-1">
+  <name>Winter</name>
+  <detail>The two most joyous times of the year are Christmas morning and the end of school.</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,64 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000007380c0500d97318541fe4b5252a779cf5905d9850b566f4d8f766338388c6e355936028dc7739c5288649bdb6a2d4836083680e108c164c28617a409e4c0aa85a1dfc601bc702c7dd8fb2468b2fa53c011adfc4e6031163eeeeb6d7a17b4024f60a22c9165eef1189a9ef807c7a18c060499d2e2239cfd72b4be11f4960c068a77d36e6511bbfecf52420ed588aa59b2dfa60d5d-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR04252_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Starlight Inception</title-name>
+ <title-detail>Fight amongst the stars to win the greatest war humankind has ever known!</title-detail>
+ <trophy id="000" hidden="no" ttype="G" pid="-1">
+  <name>Fleet Admiral</name>
+  <detail>Complete all levels in the single player campaign and fly patrol campaign</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="-1">
+  <name>Top Gun</name>
+  <detail>Complete all levels in the fly patrol campaign</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="-1">
+  <name>Death Blossom</name>
+  <detail>Achieve 100% accuracy in any mission</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Driver's License</name>
+  <detail>Successfully complete Guided Training in Certification level</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Certifiable</name>
+  <detail>Successful Completion of Level 01 Certification Flight</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Chi-Town Hero</name>
+  <detail>Successful Completion of Level 02 Operation: Render Hope</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Rocket Man</name>
+  <detail>Successful Completion of Level 03 Operation: Extreme Justice</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Titanic Effort</name>
+  <detail>Successful Completion of Level 04 Operation: Titan Dawn</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Saturn's Fury</name>
+  <detail>Successful Completion of Level 05 Operation: Free Rhea</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>Ace Scavenger</name>
+  <detail>Successful Completion of Level 06 Operation: Neptune's Solace</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>Jupiter's Hammer</name>
+  <detail>Successful Completion of Level 07 Operation: Star Hammer</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="-1">
+  <name>Luna Rising</name>
+  <detail>Successful Completion of Level 08 Operation: Lunar Freedom</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="-1">
+  <name>Early Riser</name>
+  <detail>Successful Completion of Level 09 Operation: Morning Star</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="-1">
+  <name>Between a Rock and a Hard Place</name>
+  <detail>Successful Completion of Level 10 Operation: Rock and Roll</detail>
+ </trophy>
+</trophyconf>

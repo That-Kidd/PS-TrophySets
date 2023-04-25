@@ -1,0 +1,60 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000444beaf82f6e545fd42cba8df0d00742bf65fe5f2021e919e3a9bbec85a4e38686078b3f42b824ab1b46e3400c8c7bbffcdcdeedb525e90d8653682faa7219d5581e1a8b2165d46b75412da52dadae6763a19033ed50d741c0bd86c79524cd9dde31219a9f48441ad97269cfc00fe45e917947ec990b0791e08c23fe2dadc8a07f7e1dee7b617d083a2ffce9ca30a8ea4902b348-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR05930_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Mahjong World Contest</title-name>
+ <title-detail>Mahjong World Contest Trophies</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Champion cup</name>
+  <detail>Complete level 1 with 3 stars</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>V.I.P. chip</name>
+  <detail>Earn 100.000 points</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Junior's prize</name>
+  <detail>Earn 30 stars</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Lotus cup</name>
+  <detail>Complete the blooming lotus hall</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Crane cup</name>
+  <detail>Complete the golden crane hall</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Bamboo cup</name>
+  <detail>Complete the bamboo grove hall</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Phoenix cup</name>
+  <detail>Complete the red phoenix hall</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Sakura cup</name>
+  <detail>Complete the sakura branch hall</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="-1">
+  <name>Dragon cup</name>
+  <detail>Complete the azure dragon hall</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="-1">
+  <name>Mahjong tile</name>
+  <detail>Remove 1000 pairs of tiles</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>Casino chip</name>
+  <detail>Use bonus 50 times</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="-1">
+  <name>Sprinter cup</name>
+  <detail>Achieve x5 index</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="-1">
+  <name>Expert diploma</name>
+  <detail>Complete 30 levels with the highest score</detail>
+ </trophy>
+</trophyconf>

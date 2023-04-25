@@ -1,0 +1,268 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000194a5bee3fde6a56bee2c8ea8b47784a6c39a2e2206579f7fb1a337fb4a19c851f51e2b2e116708d813380e1f3611a8932566b60c00e98adc3ca2cd55cb09b4cc70181fa2b493d1d0eab84e02e5b2ff4decf74c754b7f1a75f68d90fce5a5e30cb35778c69bf96c954122b1ed3c8c65ad1d93c241590142b7eb9b2c155792b69dede16d05a0a2d5ece45d1587a3c9020b41865bf-->
+<trophyconf version="1.1" platform="ps3,psp2" policy="large">
+ <npcommid>NPWR04151_00</npcommid>
+ <trophyset-version>01.02</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Batman™: Arkham Origins</title-name>
+ <title-detail>Batman™: Arkham Origins</title-detail>
+ <group id="001">
+  <name>Initiation</name>
+  <detail>Initiation</detail>
+ </group>
+ <group id="002">
+  <name>Cold, Cold Heart</name>
+  <detail>Cold, Cold Heart</detail>
+ </group>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Platinum</name>
+  <detail>Congratulations!</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>City of Assassins</name>
+  <detail>Identify Black Mask's assassins</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>One eye open</name>
+  <detail>Defeat Deathstroke</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>Nobody that matters</name>
+  <detail>Who is the Joker?</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>Everyone wears masks</name>
+  <detail>Find the Black Mask</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="S" pid="000">
+  <name>One Rule</name>
+  <detail>Save a life</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="G" pid="000">
+  <name>Perhaps sooner, Perhaps later</name>
+  <detail>Defeat the Joker</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>Shut Down</name>
+  <detail>Shut down an entire Tower Network</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>Counter-intelligence</name>
+  <detail>Decipher one Extortion File</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>Enigma Unravelled</name>
+  <detail>Collect all Enigma items</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>First Riddler Trophy</name>
+  <detail>Collect every collectible</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>One down, several to go</name>
+  <detail>Complete a Most Wanted entry</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>The Innocent and the Predatory</name>
+  <detail>Capture all of Black Mask's Assassins</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>Shadow Vigilante</name>
+  <detail>Master the Shadow Vigilante Dark Knight track</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>Gotham Protector</name>
+  <detail>Master the Gotham Protector Dark Knight track</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>Worst Nightmare</name>
+  <detail>Master the Worst Nightmare Dark Knight track</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>World's Greatest Detective</name>
+  <detail>Master the World's Greatest Detective Dark Knight track</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>Legend of the Dark Knight</name>
+  <detail>Complete all Dark Knight challenges</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>Crime Scene Investigator</name>
+  <detail>Complete all Casefiles</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Crime Fighter</name>
+  <detail>Stop 20 Crime in Progress</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>Thanks, old friend</name>
+  <detail>Hear everything Alfred has to say</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>Personal Trainer</name>
+  <detail>Obtain all the medals on Combat Training maps</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>Perfectionist</name>
+  <detail>Obtain all the medals on Custom maps in Challenge mode</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>I've Got This</name>
+  <detail>Acquire all upgrades</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>Free Flow Fifty</name>
+  <detail>Reach x50 Combo in the Main Story</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>Anyone see that?</name>
+  <detail>Complete a predator encounter without ever being spotted in the Main Story</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>What hit me?</name>
+  <detail>Take down 100 enemies who didn't know you were there in the Main Story</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>Silent Knight</name>
+  <detail>Complete a predator encounter using only silent takedowns in the Main Story</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>Point to Point</name>
+  <detail>Glide across Bridge without touching ground</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>Around the World</name>
+  <detail>Use the Batwing to travel to all Fast Travel points</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>Flawless Display</name>
+  <detail>Successfully battle Shiva without taking any damage</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>Point Counter-Point</name>
+  <detail>Complete Deathstroke without failing a single counter</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>One of Each</name>
+  <detail>Use every Freeflow Focus gadget in one combo</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>Air Marathon</name>
+  <detail>Glide 26 miles total in the Main Story</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="S" pid="000">
+  <name>Medalist</name>
+  <detail>Obtain all medals on the original Ranked Maps in Challenge mode (as Batman)</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="S" pid="000">
+  <name>Olympian</name>
+  <detail>Obtain all medals on the original Campaign maps in Challenge mode (as Batman)</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>Voice of the People</name>
+  <detail>Scan 20 Anarky Tags in the Main Story</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="S" pid="000">
+  <name>Clean Streets</name>
+  <detail>Complete all Most Wanted missions</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="S" pid="000">
+  <name>Give Them Something to Believe</name>
+  <detail>Complete New Game Plus</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="G" pid="000">
+  <name>I Am The Night</name>
+  <detail>Finish I Am The Night Mode</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="B" pid="000">
+  <name>Predator Paragon</name>
+  <detail>Take down 6 different Elites in a match, using 6 different methods as Batman or Robin in multiplayer</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="B" pid="000">
+  <name>Killing Joke</name>
+  <detail>Reach max level with the Joker faction in multiplayer</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="B" pid="000">
+  <name>Fallen Knight</name>
+  <detail>Reach max level with the Bane faction in multiplayer</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="B" pid="000">
+  <name>Gotham All-Star</name>
+  <detail>Reach max overall level in multiplayer</detail>
+ </trophy>
+ <trophy id="044" hidden="no" ttype="B" pid="000">
+  <name>Clutch</name>
+  <detail>Kill a Hero to bring back your entire gang when at 0 reinforcements on a full multiplayer server</detail>
+ </trophy>
+ <trophy id="045" hidden="no" ttype="B" pid="000">
+  <name>Tales of Gotham</name>
+  <detail>Win a round of each map with each faction in multiplayer</detail>
+ </trophy>
+ <trophy id="046" hidden="no" ttype="B" pid="000">
+  <name>I Like Those Odds</name>
+  <detail>As a Hero, defeat 4 Elites within 40 seconds without using melee in multiplayer</detail>
+ </trophy>
+ <trophy id="047" hidden="no" ttype="B" pid="000">
+  <name>Not An Ordinary Criminal</name>
+  <detail>As an Elite, earn 4000 XP in a single multiplayer match</detail>
+ </trophy>
+ <trophy id="048" hidden="no" ttype="B" pid="000">
+  <name>Arsenal, Awesome</name>
+  <detail>Fully upgrade a weapon in multiplayer</detail>
+ </trophy>
+ <trophy id="049" hidden="no" ttype="B" pid="000">
+  <name>Legend</name>
+  <detail>Earn a level of prestige in multiplayer</detail>
+ </trophy>
+ <trophy id="050" hidden="no" ttype="B" pid="000">
+  <name>Know Thy Enemy</name>
+  <detail>Defeat each of the enemy players at least once in a multiplayer match</detail>
+ </trophy>
+ <trophy id="051" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>Bruce's Revenge</name>
+  <detail>Obtain all 72 medals on the original Arkham Origins ranked maps (as Bruce Wayne)</detail>
+ </trophy>
+ <trophy id="052" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>Campaign Ninja</name>
+  <detail>Obtain all 108 medals on the original Arkham Origins campaigns (as Bruce Wayne)</detail>
+ </trophy>
+ <trophy id="053" hidden="yes" ttype="B" pid="-1" gid="002">
+  <name>Master Wayne</name>
+  <detail>Take no damage when playing as Bruce Wayne</detail>
+ </trophy>
+ <trophy id="054" hidden="yes" ttype="B" pid="-1" gid="002">
+  <name>Let it Snow</name>
+  <detail>Receive the Extreme Environment Suit (XE Suit)</detail>
+ </trophy>
+ <trophy id="055" hidden="yes" ttype="S" pid="-1" gid="002">
+  <name>Drilling for Justice</name>
+  <detail>Assemble the cryonucleation tunneller - the cryodrill</detail>
+ </trophy>
+ <trophy id="056" hidden="yes" ttype="S" pid="-1" gid="002">
+  <name>For Auld Lang Syne</name>
+  <detail>Stop Freeze and bring Boyle to justice</detail>
+ </trophy>
+ <trophy id="057" hidden="no" ttype="S" pid="-1" gid="002">
+  <name>Paint the Town Red</name>
+  <detail>Find all Activist tags in Cold, Cold Heart</detail>
+ </trophy>
+ <trophy id="058" hidden="yes" ttype="B" pid="-1" gid="002">
+  <name>Breaking the Ice</name>
+  <detail>Free all civilians frozen in cryogenic ice</detail>
+ </trophy>
+ <trophy id="059" hidden="yes" ttype="B" pid="-1" gid="002">
+  <name>Down with the Revolution</name>
+  <detail>Stop Anarky thug operations in South Gotham</detail>
+ </trophy>
+ <trophy id="060" hidden="yes" ttype="B" pid="-1" gid="002">
+  <name>Snowjob</name>
+  <detail>Get 3 enemies frozen in one attack</detail>
+ </trophy>
+ <trophy id="061" hidden="yes" ttype="B" pid="-1" gid="002">
+  <name>Stalact-tactician</name>
+  <detail>Takedown 2 enemies with one stalactite</detail>
+ </trophy>
+ <trophy id="062" hidden="yes" ttype="B" pid="-1" gid="002">
+  <name>Come Out of the Cold</name>
+  <detail>Perform 3 ice wall takedowns</detail>
+ </trophy>
+</trophyconf>

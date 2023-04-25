@@ -1,0 +1,200 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000082635e843c28ab600cf09dad0195a02118e181c0be4c1a2439208cf93104d89f2809e78c79e207f7d1c27458f2042adf1c4acb0638c5f4aad41312132fb091cc355818c782197009e076d32581e1931ca17d8ce38b79e1814b0d05cde3d3cac4ca92f3984e680606900e643381ea5fc6357878aa6f6a9efef7b8bbcd05b965da1b857011dbb0098bdfae4616b74d63543f8925bf-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR09234_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>「艦これ改」</title-name>
+ <title-detail>「艦これ改」のトロフィーです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>元帥勲章</name>
+  <detail>提督の中の提督！全てのトロフィーを獲得！</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="000">
+  <name>絆</name>
+  <detail>絆を深めた艦娘とケッコンカッコカリした！</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>艦娘x30隻達成！</name>
+  <detail>艦娘図鑑に30隻の艦娘を登録した！</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>艦娘x100隻達成！</name>
+  <detail>艦娘図鑑に100隻の艦娘を登録した！</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>艦娘x150隻達成！</name>
+  <detail>艦娘図鑑に150隻の艦娘を登録した！</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>艦娘x200隻達成！</name>
+  <detail>艦娘図鑑に200隻以上の艦娘を登録した！</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>装備x30種達成！</name>
+  <detail>図鑑に30種類の装備を登録した！</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>装備x70種達成！</name>
+  <detail>図鑑に70種類の装備を登録した！</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>装備x120種達成！</name>
+  <detail>図鑑に120種類以上の装備を登録した！</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>鎮守府海域制圧！</name>
+  <detail>鎮守府海域の制海権を確保した！</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>南西諸島制圧！</name>
+  <detail>南西諸島の制海権を確保した！</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>北方海域制圧！</name>
+  <detail>北方海域の制海権を確保した！</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>西方海域制圧！</name>
+  <detail>西方海域の制海権を確保した！</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>南方海域制圧！</name>
+  <detail>南方海域の制海権を確保した！</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>中部海域制圧！</name>
+  <detail>中部海域の制海権を確保した！</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>南方泊地海域制圧！</name>
+  <detail>南方泊地海域の制海権を確保した！</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>北方泊地海域制圧！</name>
+  <detail>北方泊地海域の制海権を確保した！</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>南方連絡海域制圧！</name>
+  <detail>南方連絡海域の制海権を確保した！</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>西南海域制圧！</name>
+  <detail>西南海域の制海権を確保した！</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>中部西海域制圧！</name>
+  <detail>中部西海域の制海権を確保した！</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>MI海域制圧！</name>
+  <detail>MI海域の制海権を確保した！</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>AL海域制圧！</name>
+  <detail>AL海域の制海権を確保した！</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>FS海域制圧！</name>
+  <detail>FS海域の制海権を確保した！</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>深海棲地後方制圧！</name>
+  <detail>深海棲地後方の制海権を確保した！</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>深海運河海域制圧！</name>
+  <detail>深海運河海域の制海権を確保した！</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>深海棲地中枢部制圧！</name>
+  <detail>深海棲地中枢部の制海権を確保した！</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>艦隊抜錨！</name>
+  <detail>作戦海域に10回出撃した！</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>鎧袖一触！</name>
+  <detail>作戦海域での戦闘に30回以上S勝利した！</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>無敵艦隊！</name>
+  <detail>作戦海域での戦闘に100回以上S勝利した！</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>反攻作戦！</name>
+  <detail>敵に制圧された海域の奪還に成功した！</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>備えあれば憂い無し！</name>
+  <detail>ダメコン(応急修理要員/女神)を5回使った！</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>大規模艦隊</name>
+  <detail>全八艦隊を擁する大艦隊を整えた！</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="S" pid="000">
+  <name>大和</name>
+  <detail>大和型戦艦一番艦「大和」を建造した！</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="G" pid="000">
+  <name>連合艦隊全戦艦集結</name>
+  <detail>日本艦隊の全戦艦が集結した！</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="S" pid="000">
+  <name>アイオワ</name>
+  <detail>アイオワ級戦艦一番艦「アイオワ」が艦隊合流！</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>南雲機動部隊</name>
+  <detail>南雲機動部隊の主力空母六隻が集結した！</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>金剛型四姉妹</name>
+  <detail>金剛型高速戦艦四姉妹が集結した！</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>西村艦隊</name>
+  <detail>西村艦隊所属の全艦が集結した！</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>工廠の匠</name>
+  <detail>明石と共に装備を100回改修した！</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="000">
+  <name>家具は提督の嗜み</name>
+  <detail>家具を50種類揃えてみた！</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="B" pid="000">
+  <name>後方施設こそ大切</name>
+  <detail>全入渠ドックを開放した！</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="B" pid="000">
+  <name>大将の器</name>
+  <detail>提督レベルが70を超えた！</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="B" pid="000">
+  <name>兵站確保</name>
+  <detail>四資源の備蓄が全て2万を超えた！</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="B" pid="000">
+  <name>兵站こそ勝利の要</name>
+  <detail>四資源の備蓄が全て10万を超えた！</detail>
+ </trophy>
+ <trophy id="044" hidden="no" ttype="B" pid="000">
+  <name>勝利の鐘</name>
+  <detail>深海棲艦との戦いに勝利した！</detail>
+ </trophy>
+ <trophy id="045" hidden="no" ttype="B" pid="000">
+  <name>「乙作戦」攻略完了！</name>
+  <detail>難易度乙をクリアした！</detail>
+ </trophy>
+ <trophy id="046" hidden="no" ttype="S" pid="000">
+  <name>「甲作戦」攻略完了！</name>
+  <detail>難易度甲をクリアした！</detail>
+ </trophy>
+ <trophy id="047" hidden="yes" ttype="G" pid="000">
+  <name>最高難易度「史作戦」完遂！</name>
+  <detail>難易度史をクリアした！</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,128 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000000c94de9e3052cf449bd6161cfaabce1c3bcaeb686d5808713ae495056742d8879cd9aea1d24df46008cd65c4d04a86f222b3ef96e9976328236491b30e3a73112591ab41393e00d7dc3510690bee8149fb7e31d41f3bd315d90da55d257e2771b423f335ed69a09af36de2ff10874bbd56b91be14ed236a7d1c184cbe9eeadb747f473fcdd152832fb4bce87af657435c6274f03-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR13543_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>スチームプリズン -七つの美徳-</title-name>
+ <title-detail>スチームプリズン -七つの美徳- のトロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>スチームプリズン -七つの美徳-</name>
+  <detail>全てのトロフィーを獲得した</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="G" pid="000">
+  <name>新たな物語への誘い</name>
+  <detail>グランドルートが解放された</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="G" pid="000">
+  <name>そして、明日へ</name>
+  <detail>グランドエンディングを迎えた</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>PROFILEコンプリート</name>
+  <detail>プロフィールの項目を全て獲得した</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>GALLERYコンプリート</name>
+  <detail>イベントグラフィックを全て獲得した</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>ENDINGコンプリート</name>
+  <detail>全てのエンディングを迎えた</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>救恤の人</name>
+  <detail>エルトのエンディングを全て迎えた</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>賢明の人</name>
+  <detail>ウルリクのエンディングを全て迎えた</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>節制の人</name>
+  <detail>アダージュのエンディングを全て迎えた</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>不屈の人</name>
+  <detail>イネスのエンディングを全て迎えた</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>希望の人</name>
+  <detail>ユネのエンディングを全て迎えた</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>信念の人</name>
+  <detail>フィンのエンディングを全て迎えた</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>エルトとの思い出</name>
+  <detail>エルトのイベントグラフィックを全て取得した</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>ウルリクとの思い出</name>
+  <detail>ウルリクのイベントグラフィックを全て取得した</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>アダージュとの思い出</name>
+  <detail>アダージュのイベントグラフィックを全て取得した</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>イネスとの思い出</name>
+  <detail>イネスのイベントグラフィックを全て取得した</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>ユネとの思い出</name>
+  <detail>ユネのイベントグラフィックを全て取得した</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>フィンとの思い出</name>
+  <detail>フィンのイベントグラフィックを全て取得した</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>恋を知らなかった少女</name>
+  <detail>Otherのイベントグラフィックを全て取得した</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>廻り始めた歯車</name>
+  <detail>下界への視察任務が終了した</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="000">
+  <name>狂い始めた歯車</name>
+  <detail>HOUNDSに新たな猟犬が配属された</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>下界ルート -GUARD-</name>
+  <detail>リベラリタスで生きる道を選んだ</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="B" pid="000">
+  <name>受刑ルート -PRISONER-</name>
+  <detail>保護地区で生きる道を選んだ</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>上界ルート -SERVITOR-</name>
+  <detail>ユネの付き人になることを選んだ</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>リベラリタスの支配者</name>
+  <detail>エルトのエンディングを１つ迎えた</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>優秀な情報屋</name>
+  <detail>ウルリクのエンディングを１つ迎えた</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>腕利きの医者</name>
+  <detail>アダージュのエンディングを１つ迎えた</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>保護地区の管理者</name>
+  <detail>イネスのエンディングを１つ迎えた</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>神に愛された神官</name>
+  <detail>ユネのエンディングを１つ迎えた</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>熱誠のパートナー</name>
+  <detail>フィンのエンディングを１つ迎えた</detail>
+ </trophy>
+</trophyconf>

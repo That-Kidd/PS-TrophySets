@@ -1,0 +1,72 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000a61cf862e68e17d9885a4dd65d4b9ed72966f68236a4c201d5619c1f4c1ca3da32792dead6ad0f4e3cd77d5b7d428024f050b7dbf7937abf2624ebfc9d34da92d1fffdcef415d10607693f4e7d528dff021e11c9dfaf89c3975b872919ee256b9d7d64e0b3691948fad4b17ec0ca8f94c25f70f4928cd1d20d4789c24244c4e20c04a43a1695d9b3c26d44ea0a8d8b211d0babc7-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR18783_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Legend of the Skyfish</title-name>
+ <title-detail>Legend of the Skyfish</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Platinum Fish</name>
+  <detail>Get all other trophies.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="000">
+  <name>Go Line!</name>
+  <detail>Defeat the boss of the 1st campaign.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>Breaking the Illusion</name>
+  <detail>Defeat the boss of the 2nd campaign.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>The Lady and the Lord</name>
+  <detail>Defeat the boss of the 3rd campaign.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>It's dangerous to go alone!</name>
+  <detail>Open your first chest.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>Half-empty or half-full?</name>
+  <detail>Find half of all the secret chests.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>Get over here!</name>
+  <detail>Use your hook to pull an enemy.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>The Incredible Hook</name>
+  <detail>Pull enemies with the hook 10 times.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>A Just Cause</name>
+  <detail>Use a hatch to pull yourself with the hook.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>On-line</name>
+  <detail>Pull yourself using the hook 10 times.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>Drawing the Line</name>
+  <detail>Defeat your first enemy.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>Overfishing</name>
+  <detail>Defeat 5 of each enemy species found on the Western Ruins.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>Swamp Song</name>
+  <detail>Defeat 5 of each enemy species found on the Mamachi Swamp.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="000">
+  <name>Sashimi's ready!</name>
+  <detail>Defeat 5 of each enemy species found on the Arid Seabed.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="000">
+  <name>Fishy Methods</name>
+  <detail>Defeat 5 enemies using traps.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="G" pid="000">
+  <name>Invinseable</name>
+  <detail>Beat any level without getting hit once.</detail>
+ </trophy>
+</trophyconf>

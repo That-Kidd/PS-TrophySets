@@ -1,0 +1,328 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000009887223824e334a279ad38e4857e7648768a5fa9360c9bad26e6986edeca2c264da9286c7beacbc71e96d27c238ab2ec58c0cb076a64d708ee756e48795d73878b894afa508143103a014917929d44452834cd37df50fd2da358a4b2aa117c3cc6dabf73ce57b634e53c978d4066a688990a93f7abf00c61a0959bb8c4c53d4fb810f5002dc724f30a1b80b2e26139b50ac76b8d-->
+<trophyconf version="1.1" platform="ps3,psp2" policy="large">
+ <npcommid>NPWR05116_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>魔界戰記D2</title-name>
+ <title-detail>『魔界戰記D2』的獎盃組。</title-detail>
+ <group id="001">
+  <name>魔界戰記D2追加獎盃１</name>
+  <detail>『魔界戰記D2』的追加獎盃組。</detail>
+ </group>
+ <group id="002">
+  <name>魔界戰記D2追加獎盃２</name>
+  <detail>『魔界戰記D2』的追加獎盃組。</detail>
+ </group>
+ <group id="003">
+  <name>魔界戰記D2追加獎盃３</name>
+  <detail>『魔界戰記D2』的追加獎盃組。</detail>
+ </group>
+ <group id="004">
+  <name>魔界戰記D2追加獎盃４</name>
+  <detail>『魔界戰記D2』的追加獎盃組。</detail>
+ </group>
+ <group id="005">
+  <name>魔界戰記D2追加獎盃５</name>
+  <detail>『魔界戰記D2』的追加獎盃組。</detail>
+ </group>
+ <group id="006">
+  <name>魔界戰記D2追加獎盃６</name>
+  <detail>『魔界戰記D2』的追加獎盃組。</detail>
+ </group>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>獲得所有獎盃</name>
+  <detail>條件：收集到所有獎盃。&#x0a;由於您獲得了所有獎盃，因此將此獻給您。請您繼續朝著更高的目標前進吧！</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="G" pid="000">
+  <name>擊倒最強的敵人</name>
+  <detail>條件：在修羅模式中，擊倒『普利尼加Ｘ・轟』。&#x0a;你才是真正的修羅之王！</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="G" pid="000">
+  <name>收集全道具</name>
+  <detail>條件：收集到所有種類的道具。（不論級別）&#x0a;請試著也收集到所有級別的道具吧！</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="S" pid="000">
+  <name>擊倒『普利尼加Ｘ』</name>
+  <detail>條件：打敗『普利尼加Ｘ』。&#x0a;實在不覺得這是最後的普利尼加……，一定會再出現第二、第三隻普利尼加Ｘ……。</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="S" pid="000">
+  <name>稱霸練武</name>
+  <detail>條件：通過『練武之洞窟』的所有地圖。&#x0a;我也才正要開始而已啊。這個永無止盡的練武坡……。</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="S" pid="000">
+  <name>擊倒『道具神』</name>
+  <detail>條件：打敗『道具神』。&#x0a;在道具強化的盡頭，你追求的是什麼！？</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="000">
+  <name>特殊技觀察者</name>
+  <detail>條件：看過所有特殊技。&#x0a;獻給沒有選擇跳略，看到最後的你。</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>１億損傷</name>
+  <detail>條件：戰鬥中打出１億以上的損傷。&#x0a;這就是我使出全力的樣子！</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>看過開頭動畫</name>
+  <detail>條件：看過開頭動畫。&#x0a;請好好地享受『魔界戰記D2』！</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="000">
+  <name>完成第１話</name>
+  <detail>條件：完成本篇第１話。</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="000">
+  <name>完成第２話</name>
+  <detail>條件：完成本篇第２話。</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>完成第３話</name>
+  <detail>條件：完成本篇第３話。</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="B" pid="000">
+  <name>完成第４話</name>
+  <detail>條件：完成本篇第４話。</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="000">
+  <name>完成第５話</name>
+  <detail>條件：完成本篇第５話。</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="B" pid="000">
+  <name>完成第６話</name>
+  <detail>條件：完成本篇第６話。</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>完成第７話</name>
+  <detail>條件：完成本篇第７話。</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>完成第８話</name>
+  <detail>條件：完成本篇第８話。</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>完成第９話</name>
+  <detail>條件：完成本篇第９話。</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>完成最終話</name>
+  <detail>條件：完成本篇最終話。</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>支線劇情『淺蔥』</name>
+  <detail>條件：讓『淺蔥』加入成為夥伴。&#x0a;偶像界的明日之星就是我唷！</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="000">
+  <name>支線劇情『小錢尼司基』</name>
+  <detail>條件：讓『小錢尼司基』加入成為夥伴。&#x0a;為了有一天能夠成為魔王！</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>支線劇情『佩妲』</name>
+  <detail>條件：讓『佩妲』加入成為夥伴。&#x0a;父親大人，你到底在哪裡呢？</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="B" pid="000">
+  <name>支線劇情『田中死亡黑夜』</name>
+  <detail>條件：擊倒『田中死亡黑夜』。&#x0a;『艾特娜的家臣』，即使在魔界也是非常知名的痛苦職場。</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>支線劇情『華爾巴托西＆芬里希』</name>
+  <detail>條件：讓『華爾巴托西』『芬里希』加入成為夥伴。&#x0a;好了好了，快吃沙丁魚吧。</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="000">
+  <name>支線劇情『阿克塔雷』</name>
+  <detail>條件：讓『阿克塔雷』加入成為夥伴。&#x0a;超級黑暗英雄誕生！</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="B" pid="000">
+  <name>支線劇情『阿爾堤那』</name>
+  <detail>條件：讓『阿爾堤那』加入成為夥伴。&#x0a;應該只是來徵收一下就要回去的說……。</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>支線劇情『艾彌賽爾』</name>
+  <detail>條件：讓『艾彌賽爾』加入成為夥伴。&#x0a;我要去跟爸爸說！</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="B" pid="000">
+  <name>支線劇情『瓦爾芭菈』</name>
+  <detail>條件：在後日談中，讓『瓦爾芭菈』加入成為夥伴。&#x0a;貓先生在引導著我！</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="B" pid="000">
+  <name>１０萬損傷</name>
+  <detail>條件：戰鬥中打出１０萬以上的損傷。&#x0a;這麼高的損傷，要說服他也就……什麼！？</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="B" pid="000">
+  <name>第一次製作角色</name>
+  <detail>條件：第一次進行製作角色。&#x0a;我會永遠跟隨您！</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="B" pid="000">
+  <name>第一次背負</name>
+  <detail>條件：第一次進行背負。&#x0a;客人，請問您要到哪裡呢？</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="B" pid="000">
+  <name>第一次擊倒海賊團</name>
+  <detail>條件：第一次擊倒海賊團。&#x0a;一定會再找你算帳的！</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="B" pid="000">
+  <name>第一次靠力量通過</name>
+  <detail>條件：第一次靠力量讓議題通過。&#x0a;不論是靠力量還是什麼，只要能讓人承認ＯＫ，這就是惡魔流。</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="B" pid="000">
+  <name>第一次進獎勵關卡</name>
+  <detail>條件：第一次進到獎勵關卡。&#x0a;咿哈，盡量拿吧！</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="B" pid="000">
+  <name>第一次全地形消滅</name>
+  <detail>條件：第一次讓地形面板全部消失。&#x0a;這樣清爽多了呢。</detail>
+ </trophy>
+ <trophy id="035" hidden="yes" ttype="B" pid="000">
+  <name>第一次共同作業</name>
+  <detail>條件：第一次使出組合技。&#x0a;這是兩個人的共同作業。</detail>
+ </trophy>
+ <trophy id="036" hidden="yes" ttype="B" pid="000">
+  <name>第一次全滅</name>
+  <detail>條件：在戰鬥中全滅，導致遊戲結束。&#x0a;怎麼可以放棄呢！</detail>
+ </trophy>
+ <trophy id="037" hidden="yes" ttype="B" pid="000">
+  <name>在魔界的中心呼喊愛</name>
+  <detail>條件：於好感度最高的狀態下使出組合技。&#x0a;如果是我們兩人，一定辦得到的！</detail>
+ </trophy>
+ <trophy id="038" hidden="yes" ttype="B" pid="000">
+  <name>超過１０人同時好感度ＭＡＸ</name>
+  <detail>條件：好感度ＭＡＸ的角色同時有１０人以上。&#x0a;愛，這就是愛！</detail>
+ </trophy>
+ <trophy id="039" hidden="yes" ttype="B" pid="000">
+  <name>保鑣</name>
+  <detail>條件：進行１０次掩護。&#x0a;不論是怎麼樣的敵人，我都一定會守護你的！</detail>
+ </trophy>
+ <trophy id="040" hidden="yes" ttype="B" pid="000">
+  <name>援護之鬼</name>
+  <detail>條件：進行１００次支援攻擊。&#x0a;這一下是附送的，好好收下吧！</detail>
+ </trophy>
+ <trophy id="041" hidden="yes" ttype="B" pid="000">
+  <name>戰鬥對話觀察者</name>
+  <detail>條件：看過１００種戰鬥中對話。&#x0a;即使在戰鬥中，大家也都想著不同的事呢。</detail>
+ </trophy>
+ <trophy id="042" hidden="yes" ttype="B" pid="000">
+  <name>跳躍大師</name>
+  <detail>條件：於據點等地，跳躍１０００次。&#x0a;不由得就會想要一直跳呢。</detail>
+ </trophy>
+ <trophy id="043" hidden="yes" ttype="B" pid="000">
+  <name>連攻大師</name>
+  <detail>條件：進行１００次連攻。&#x0a;讓對方找不到反擊的機會，不斷的攻擊！</detail>
+ </trophy>
+ <trophy id="044" hidden="yes" ttype="B" pid="000">
+  <name>連攜大師</name>
+  <detail>條件：進行１００次連攜攻擊。&#x0a;只要大家一起上就不恐怖了！</detail>
+ </trophy>
+ <trophy id="045" hidden="yes" ttype="B" pid="000">
+  <name>最喜歡作弊</name>
+  <detail>條件：使用作弊屋的次數超過１０次。&#x0a;盡情的作弊吧！</detail>
+ </trophy>
+ <trophy id="046" hidden="yes" ttype="B" pid="000">
+  <name>第一次變更操作角色</name>
+  <detail>條件：第一次變更據點的操作角色。&#x0a;從今天開始你就是主角了！</detail>
+ </trophy>
+ <trophy id="047" hidden="yes" ttype="B" pid="000">
+  <name>寶物獵人</name>
+  <detail>條件：開啟超過１００個寶箱。&#x0a;打開的那一瞬間是最刺激的。</detail>
+ </trophy>
+ <trophy id="048" hidden="yes" ttype="B" pid="000">
+  <name>展現了１億ＨＬ的誠意</name>
+  <detail>條件：誠意的金額超過１億ＨＬ。&#x0a;代官大人，還請您收下。</detail>
+ </trophy>
+ <trophy id="049" hidden="yes" ttype="B" pid="000">
+  <name>通過變成拉哈爾醬的議題</name>
+  <detail>條件：通過變成拉哈爾醬的議題。&#x0a;你還真喜歡這一味的啊。</detail>
+ </trophy>
+ <trophy id="050" hidden="yes" ttype="B" pid="000">
+  <name>誘爆注意</name>
+  <detail>條件：完成１０連鎖的普利尼爆炸。&#x0a;在使用危險物品時要特別注意嘶！</detail>
+ </trophy>
+ <trophy id="051" hidden="yes" ttype="B" pid="000">
+  <name>收集全保存資料圖示</name>
+  <detail>條件：獲得所有保存資料圖示。&#x0a;不自覺地就會再轉一次。</detail>
+ </trophy>
+ <trophy id="052" hidden="yes" ttype="B" pid="000">
+  <name>就算疊了１０個人也沒問題</name>
+  <detail>條件：完成１０層的疊羅漢。&#x0a;最上面的位置還蠻恐怖的。</detail>
+ </trophy>
+ <trophy id="053" hidden="yes" ttype="B" pid="000">
+  <name>修行等級上昇</name>
+  <detail>條件：修行等級上昇。&#x0a;你的修行才剛開始而已。</detail>
+ </trophy>
+ <trophy id="054" hidden="yes" ttype="B" pid="000">
+  <name>最喜歡對話</name>
+  <detail>條件：在據點裡，與角色對話次數超過１０００次。&#x0a;對話是增進感情的第一步。</detail>
+ </trophy>
+ <trophy id="055" hidden="yes" ttype="B" pid="000">
+  <name>馬拉松跑者</name>
+  <detail>條件：於據點、純靈島等地方的移動距離，累計達到４２．１９５ｋｍ。&#x0a;千里之行，始於足下。</detail>
+ </trophy>
+ <trophy id="056" hidden="yes" ttype="B" pid="-1" gid="001">
+  <name>讓『惡魔獵人』加入成為夥伴</name>
+  <detail>條件：讓追加角色『亞戴爾』加入成為夥伴。&#x0a;那就是我的作法！</detail>
+ </trophy>
+ <trophy id="057" hidden="yes" ttype="B" pid="-1" gid="001">
+  <name>讓『魔王的女兒』加入成為夥伴</name>
+  <detail>條件：讓追加角色『羅薩琳特』加入成為夥伴。&#x0a;難道你沒看到這綻放中的四葉幸運草紋章嗎！！</detail>
+ </trophy>
+ <trophy id="058" hidden="yes" ttype="B" pid="-1" gid="001">
+  <name>讓『另一個天界的天使』加入成為夥伴</name>
+  <detail>條件：讓追加角色『莉莉艾爾』加入成為夥伴。&#x0a;讓我將您昇格為神明大人。</detail>
+ </trophy>
+ <trophy id="059" hidden="yes" ttype="B" pid="-1" gid="002">
+  <name>讓『邪惡學園模範生』加入成為夥伴</name>
+  <detail>條件：讓追加角色『瑪歐』加入成為夥伴。&#x0a;也把你變成改造人吧！</detail>
+ </trophy>
+ <trophy id="060" hidden="yes" ttype="B" pid="-1" gid="002">
+  <name>讓『Ｎｏ．１的壞蛋』加入成為夥伴</name>
+  <detail>條件：讓追加角色『拉茲貝莉兒』加入成為夥伴。&#x0a;要好好刷牙喔！</detail>
+ </trophy>
+ <trophy id="061" hidden="yes" ttype="B" pid="-1" gid="002">
+  <name>讓『十紳士』加入成為夥伴</name>
+  <detail>條件：讓追加角色『偉大的莎爾巴特蕾』加入成為夥伴。&#x0a;給我在每個句子前後都加上「長官」！</detail>
+ </trophy>
+ <trophy id="062" hidden="yes" ttype="B" pid="-1" gid="003">
+  <name>讓『宇宙最強的魔王』加入成為夥伴</name>
+  <detail>條件：讓追加角色『賽塔』加入成為夥伴。&#x0a;宇宙最強，在此現身。</detail>
+ </trophy>
+ <trophy id="063" hidden="yes" ttype="B" pid="-1" gid="003">
+  <name>讓『預言者』加入成為夥伴</name>
+  <detail>條件：讓追加角色『普菈姆』加入成為夥伴。&#x0a;接下來，你會說○○。</detail>
+ </trophy>
+ <trophy id="064" hidden="yes" ttype="B" pid="-1" gid="003">
+  <name>讓『破壞神』加入成為夥伴</name>
+  <detail>條件：讓追加角色『亞雷克』加入成為夥伴。&#x0a;住手！你打算搶走我的肚臍對吧！</detail>
+ </trophy>
+ <trophy id="065" hidden="yes" ttype="B" pid="-1" gid="004">
+  <name>讓『魂體』加入成為夥伴</name>
+  <detail>條件：讓追加角色『亞修』加入成為夥伴。&#x0a;請賜與我能夠擊敗邪惡之人的力量！</detail>
+ </trophy>
+ <trophy id="066" hidden="yes" ttype="B" pid="-1" gid="004">
+  <name>讓『代行者』加入成為夥伴</name>
+  <detail>條件：讓追加角色『瑪洛涅』加入成為夥伴。&#x0a;四處徬徨的靈魂啊！　請遵從我的引導現身於此！</detail>
+ </trophy>
+ <trophy id="067" hidden="yes" ttype="B" pid="-1" gid="004">
+  <name>讓『沼澤魔女』加入成為夥伴</name>
+  <detail>條件：讓追加角色『梅塔莉卡』加入成為夥伴。&#x0a;讓我來把沼澤佈滿這個世界吧！</detail>
+ </trophy>
+ <trophy id="068" hidden="yes" ttype="B" pid="-1" gid="005">
+  <name>讓『另一個魔界的魔王』加入成為夥伴</name>
+  <detail>條件：讓追加角色『魔王普莉耶』加入成為夥伴。&#x0a;力量就是一切！</detail>
+ </trophy>
+ <trophy id="069" hidden="yes" ttype="B" pid="-1" gid="005">
+  <name>讓『光之聖女』加入成為夥伴</name>
+  <detail>條件：讓追加角色『普莉耶』加入成為夥伴。&#x0a;好好懺悔吧！</detail>
+ </trophy>
+ <trophy id="070" hidden="yes" ttype="B" pid="-1" gid="005">
+  <name>讓『聖帕布立嘉王國公主』加入成為夥伴</name>
+  <detail>條件：讓追加角色『艾庫蕾露』加入成為夥伴。&#x0a;王女現身！</detail>
+ </trophy>
+ <trophy id="071" hidden="yes" ttype="B" pid="-1" gid="006">
+  <name>讓『英雄』加入成為夥伴</name>
+  <detail>條件：讓追加角色『日本一醬』加入成為夥伴。&#x0a;不准說飛機場！</detail>
+ </trophy>
+ <trophy id="072" hidden="yes" ttype="B" pid="-1" gid="006">
+  <name>讓『統御死亡之人』加入成為夥伴</name>
+  <detail>條件：讓追加角色『基克』加入成為夥伴。&#x0a;我是超級無敵的基克大人！</detail>
+ </trophy>
+ <trophy id="073" hidden="yes" ttype="B" pid="-1" gid="006">
+  <name>讓『戰姬』加入成為夥伴</name>
+  <detail>條件：讓追加角色『普露姆』加入成為夥伴。&#x0a;戰姬普露姆，是也！</detail>
+ </trophy>
+</trophyconf>

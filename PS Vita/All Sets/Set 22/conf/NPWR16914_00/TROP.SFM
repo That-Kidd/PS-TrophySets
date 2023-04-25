@@ -1,0 +1,108 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000b802f003f311cfda7d2ddc1c464fbcf57d63155eb3f4797530c990ebb0cf720e7bc95c2a7444ef019861f15fe3c5e9395a8cca0e2e05b392b95c66a6ad70d0fb323b49dce88ca1c30cf194e72bde12864eab5ffe07d84937df3cb3aea2949a0982552e9efb0dee4476dc7e940c56eb69f7219b7c305814710c063ef60e356592cf9d890c37f91a4b6cadd8c93af51ddc79c66952-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR16914_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Pic-a-Pix Pieces</title-name>
+ <title-detail>The trophy set of Pic-a-Pix Pieces</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Piece of Cake</name>
+  <detail>Collect all the trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Admirable</name>
+  <detail>Reveal the 1st picture&#x0a;</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Beauty Queen</name>
+  <detail>Reveal the 2nd picture&#x0a;</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Port Glasses</name>
+  <detail>Reveal the 3rd picture</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>Hamster</name>
+  <detail>Reveal the 4th picture&#x0a;</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>Good Turn</name>
+  <detail>Reveal the 5th picture</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>Stay in School</name>
+  <detail>Reveal the 6th picture</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>Dive In</name>
+  <detail>Reveal the 7th picture</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>Plain Sight</name>
+  <detail>Reveal the 8th picture</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>Don't Fear the Reaper</name>
+  <detail>Reveal the 9th picture</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>Left Wing</name>
+  <detail>Reveal the 10th picture</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>Leaves Home</name>
+  <detail>Reveal the 11th picture</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>Thanks a Bunch</name>
+  <detail>Reveal the 12th picture</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>Home Run</name>
+  <detail>Reveal the 13th picture</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>Agraculture</name>
+  <detail>Reveal the 14th picture</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>Rally Cross</name>
+  <detail>Reveal the 15th picture</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="G" pid="000">
+  <name>Too Tired</name>
+  <detail>Reveal the 16th picture</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="G" pid="000">
+  <name>Horn Section</name>
+  <detail>Reveal the 17th picture</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="G" pid="000">
+  <name>Pyramid Scheme</name>
+  <detail>Reveal the 18th picture</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="G" pid="000">
+  <name>Arch Angel</name>
+  <detail>Reveal the 19th picture</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="G" pid="000">
+  <name>Earned Your Stripes</name>
+  <detail>Reveal the 20th picture</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>Medal Detector</name>
+  <detail>Earn a medal solving a 10x10 puzzle</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>Heavy Medal</name>
+  <detail>Earn a medal solving a 15x15 puzzle</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>Pedal to the Medal</name>
+  <detail>Earn a medal solving a 20x20 puzzle</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="G" pid="000">
+  <name>Precious Medal</name>
+  <detail>Earn all the medals for one picture</detail>
+ </trophy>
+</trophyconf>

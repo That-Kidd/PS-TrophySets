@@ -1,0 +1,144 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000003979ce8d5a5de1cc5fb21e91c9f39bde4aeba5f9589316bd9b6e04af8c6cf9dee6fa43e7fa56b325bae313e4bb6cea48f0a53ec4f61f8d98def381e059faaca70ab7d9e8dd8a3e4588b42277e7aa9ea564d4b24cbcd0f8ff6a2414d8f929ca71df823d4540ef8d297533e07285d443c9c4df4409e131913fd6020c7b17b2ea2bc8520341e9bebac87e7866a0db4e9315b6503678-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR03408_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>VALHALLA　KNIGHTS３</title-name>
+ <title-detail>「VALHALLA　KNIGHTS３」のトロフィーセットです。</title-detail>
+ <group id="001">
+  <name>VALHALLA　KNIGHTS３ GOLD</name>
+  <detail>「VALHALLA　KNIGHTS３ GOLD」のトロフィーセットです。</detail>
+ </group>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>全てを統べし者</name>
+  <detail>全てのトロフィーを取得する。</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>強者の理屈</name>
+  <detail>敵を１００体倒す。</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>倹約家</name>
+  <detail>１万Gを貯めた。</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>初めての称号</name>
+  <detail>初めての称号を入手した。</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>初めてのクエスト</name>
+  <detail>初めてクエストをクリアした。</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>初めてのパリィ</name>
+  <detail>初めてパリィを成功させた。</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>異世界のクランとの対戦</name>
+  <detail>初めて通信対戦を行った。</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>救援者</name>
+  <detail>戦闘不能の仲間を助けた。</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>男心をつかむ者</name>
+  <detail>いずれかの男の仲間候補の好感度を最大にした。</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>女心をつかむ者</name>
+  <detail>いずれかのキャストの好感度を最大にした。</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>あの子とお泊り</name>
+  <detail>いずれかの仲間候補と宿屋に行った。</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>恐怖のまさぐりマニア</name>
+  <detail>まさぐりを一定回数行った。</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>健康第一</name>
+  <detail>移動総距離が一定値以上になった。</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>皇帝の眠り</name>
+  <detail>皇帝を再び倒すことに成功した。</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>マリーへの復讐</name>
+  <detail>復讐：マリーをクリアした。</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="S" pid="000">
+  <name>タッカーノへの復讐</name>
+  <detail>復讐：タッカーノをクリアした。</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="S" pid="000">
+  <name>ヤスチアーノへの復讐</name>
+  <detail>復讐：ヤスチアーノをクリアした。</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="S" pid="000">
+  <name>ウラジミールへの復讐</name>
+  <detail>復讐：ウラジミールをクリアした。</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="S" pid="000">
+  <name>バルデスへの復讐</name>
+  <detail>復讐：バルデスをクリアした。</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="S" pid="000">
+  <name>ロジェ・モローへの復讐</name>
+  <detail>復讐：ロジェ・モローをクリアした。</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="S" pid="000">
+  <name>ケビンへの復讐</name>
+  <detail>復讐：ケビンをクリアした。</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="G" pid="000">
+  <name>新たなる命</name>
+  <detail>ストーリークエストをクリアした。</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="G" pid="000">
+  <name>世界の真実</name>
+  <detail>全ての因縁に決着をつけた。</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="G" pid="000">
+  <name>称号コレクター</name>
+  <detail>多くの称号を収集した。</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="G" pid="000">
+  <name>武器コレクター</name>
+  <detail>多くの武器を収集した。</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="G" pid="000">
+  <name>防具コレクター</name>
+  <detail>多くの防具を収集した。</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="G" pid="000">
+  <name>クエストコレクター</name>
+  <detail>多くのクエストをクリアした。</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="B" pid="-1" gid="001">
+  <name>夢のマイハウス</name>
+  <detail>シークレットハウスを入手した。</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="B" pid="-1" gid="001">
+  <name>天界に足を踏み入れし者</name>
+  <detail>初めて天（セントパレス）に入った。</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="B" pid="-1" gid="001">
+  <name>魔界に足を踏み入れし者</name>
+  <detail>初めて地（イービルアビス）に入った。</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="S" pid="-1" gid="001">
+  <name>エロティカヘヴンの主</name>
+  <detail>エロティカヘヴンの多くのキャストを仲間にした。</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="S" pid="-1" gid="001">
+  <name>ヘルズハイの主</name>
+  <detail>ヘルズハイの多くのキャストを仲間にした。</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="G" pid="-1" gid="001">
+  <name>ヴァルハラナイツ</name>
+  <detail>冥界王を倒すことに成功した。</detail>
+ </trophy>
+</trophyconf>

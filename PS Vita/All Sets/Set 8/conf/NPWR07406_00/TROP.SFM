@@ -1,0 +1,192 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000002259bc6719579df7b570d86ec6bc1127fbf95db20664a30cd0c99eecc454c2479b0ed6132f27f663c630807e1ef8817e8d20f46f1175b0fa6714f26b66f67c50a7f1488609c91540bd5f9773e56184d7702192506f88a20c9dbe69a1953ea167fb480a2d3e9991ea4942df064ea56799e3a7176fad5cc1e918c86c31bbbaa6a044e4c65ba8fb0692ad4ee88ccddb317271e7e983-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR07406_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>グランキングダム</title-name>
+ <title-detail>トロフィー集めもひとつの遊び。ゲームを遊びつくすなら、是非プラチナを目指してね！</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>リゾネールの英雄</name>
+  <detail>全トロフィーを集めるとは流石です。　貴方の活躍は人々に長く語り継がれることでしょう！</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>戦乱の幕開け</name>
+  <detail>傭兵組織「ギルド」に所属した</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="G" pid="000">
+  <name>黄金のバク</name>
+  <detail>念願の金のバク像を手に入れたぞ！</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>駆け出し傭兵団</name>
+  <detail>新たにユニットを雇用した</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>新米鍛冶屋</name>
+  <detail>鍛冶屋で武具の作製を行った</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>業物を求めて</name>
+  <detail>鍛冶屋で武具の強化を行った</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>唯一の武具</name>
+  <detail>鍛冶屋で武具の合成を行った</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>俺に任せろ！</name>
+  <detail>アシストを成功させ、敵にトドメをさした</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>不屈の意思</name>
+  <detail>ガッツを成功させ、敵の攻撃を凌いだ</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>四大国</name>
+  <detail>四大国すべての首都を巡った</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>障害突破</name>
+  <detail>フィールド上に配置されている、全種類の障害物を解除した</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>白衣の天使達</name>
+  <detail>看護四姉妹の全てに出会い、治療を行ってもらった</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>すり減った靴</name>
+  <detail>総移動距離２００００歩を踏破した</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>旅路の果てに</name>
+  <detail>トラベルクエストで、全てのエリアを訪ねた</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>バウンティーハンター</name>
+  <detail>全ての賞金首を撃破した！</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>ＭＡＸパラメータ</name>
+  <detail>ユニットのパラメータ１種類が９９になった</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>初クラスアップ</name>
+  <detail>ユニットのクラスアップを行った</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>ジョブマスター</name>
+  <detail>ユニットをレベル９９まで育てた！</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>スキルコンプリート</name>
+  <detail>１ユニットに習得可能なスキルを全て覚えさせた！</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="000">
+  <name>団旗コレクター</name>
+  <detail>６０個の団旗を収集した</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>グレートオーダー</name>
+  <detail>傭兵団の方針が、累計１５０ポイントになった！</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="G" pid="000">
+  <name>ギルドのエース</name>
+  <detail>傭兵団ランクがＳに到達した！</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>驚きの新記録！</name>
+  <detail>ユニットを横に８キャラ分、吹き飛ばした</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>綺麗な景色だろ？</name>
+  <detail>ユニットを高さ９キャラ分、吹き飛ばした</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>ハイダメージ</name>
+  <detail>１回の攻撃で、トータルダメージ２００００を与えた</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="S" pid="000">
+  <name>コンボマスター</name>
+  <detail>１回の手番で、９９コンボを達成した</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>向こう見ずの勇気</name>
+  <detail>士気低下状態で、戦闘に勝利した</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="S" pid="000">
+  <name>死線を越えて</name>
+  <detail>ＨＰが１残った状態で、戦闘に勝利した</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>ダブルフィニッシュ</name>
+  <detail>２体の敵を同時に撃破した</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>トリプルフィニッシュ</name>
+  <detail>３体の敵を同時に撃破した！</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>大事故</name>
+  <detail>吹き飛ばしによる巻き込みダメージで敵を撃破した</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>ギミックブレイカー</name>
+  <detail>ギミックを破壊し、搭乗中のユニットを叩き落とした</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>いま誰かがいたような…</name>
+  <detail>姿を隠した敵を、姿が見えない状態のまま撃破した</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>俺を置いて先に行け</name>
+  <detail>逃走準備中に味方の戦闘不能が発生した状態で、そのまま逃走に成功した</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="B" pid="000">
+  <name>手が滑った！</name>
+  <detail>範囲攻撃を行った際に、味方を誤射した</detail>
+ </trophy>
+ <trophy id="035" hidden="yes" ttype="B" pid="000">
+  <name>足元にご注意</name>
+  <detail>スリップダメージにより死亡した</detail>
+ </trophy>
+ <trophy id="036" hidden="yes" ttype="B" pid="000">
+  <name>もぐ、もぐ、もぐ</name>
+  <detail>スライムの「捕食」により、味方が食べられた</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>素敵なプレゼント</name>
+  <detail>ローグが爆薬を仕込んだ設置物を拾得した</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="S" pid="000">
+  <name>職人芸</name>
+  <detail>味方シャーマンがダメージを跳ね返し、敵を撃破した</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="000">
+  <name>最後の一撃</name>
+  <detail>味方チャレンジャーの自爆により、共倒れの状態で戦闘が終了した</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="S" pid="000">
+  <name>激戦を制した者</name>
+  <detail>賞金首「グランド傭兵団」を敵傭兵団レベル以下の部隊で撃破した</detail>
+ </trophy>
+ <trophy id="041" hidden="yes" ttype="B" pid="000">
+  <name>お洒落好き</name>
+  <detail>ユニットに装飾品「メガネ」を装備させた</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="B" pid="000">
+  <name>凄腕の傭兵</name>
+  <detail>難易度調整を行った状態で、クエストをクリアした</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="S" pid="000">
+  <name>一騎当千の強者</name>
+  <detail>ユニット１体のみで、「指定ターゲットの撃破」クエストをクリアした</detail>
+ </trophy>
+ <trophy id="044" hidden="no" ttype="S" pid="000">
+  <name>獅子奮迅の活躍</name>
+  <detail>敵地偵察を除く「目的地への到達」クエストを、フィールドスキル・アイテムを使わずクリアした</detail>
+ </trophy>
+ <trophy id="045" hidden="no" ttype="S" pid="000">
+  <name>傭兵の鑑</name>
+  <detail>敵地偵察を除く「目的地への到達」クエストを、一度も戦闘を行わずにクリアした！</detail>
+ </trophy>
+</trophyconf>

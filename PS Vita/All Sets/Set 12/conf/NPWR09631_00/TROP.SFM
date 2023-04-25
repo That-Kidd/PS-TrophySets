@@ -1,0 +1,72 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000d645d53ab3176cb011f2ce250e4a1906834dc1460acc6582a1fb7abe69651e9815dbd8c89ad5586836e6037b57cc11d680e0453a9762010609b60c255ea8b2796194d7e2ea40b69dd5a22c8934440435f38372375ac3c68369648c991d86f1ee58a081d714c2ec9705710042baae4ff7c73721055193e72617a1c55e5c8b7dba4c28c00c12aafb6e3b5f4183ecf3ef336922226f-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="freemium">
+ <npcommid>NPWR09631_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>乖離性ミリオンアーサー</title-name>
+ <title-detail>乖離性ミリオンアーサー</title-detail>
+ <group id="001">
+  <name>Ver1.30追加トロフィー</name>
+  <detail>Ver1.30で追加されたトロフィー</detail>
+ </group>
+ <trophy id="000" hidden="no" ttype="G" pid="-1">
+  <name>MR名声MAX</name>
+  <detail>ミリオンレアカードを初めて名声MAXにした</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="-1">
+  <name>デッキランクSS</name>
+  <detail>デッキランクがSSになった</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="-1">
+  <name>アーサーレベル100</name>
+  <detail>アーサーレベルが100になった</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>ストーリー1章クリア</name>
+  <detail>ストーリー1章をクリアした</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>ストーリー2章クリア</name>
+  <detail>ストーリー2章をクリアした</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>ストーリー3章クリア</name>
+  <detail>ストーリー3章をクリアした</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>デッキランクS</name>
+  <detail>デッキランクがSになった</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>アーサーレベル50</name>
+  <detail>アーサーレベルが50になった</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>みんなとクエスト</name>
+  <detail>クエストで仲間を募集してクリア</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>クエスト100回クリア</name>
+  <detail>クエストを100回クリア</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>フレンド50人達成</name>
+  <detail>フレンド50人を達成</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="-1">
+  <name>カードMAX</name>
+  <detail>初めてカードをMAXにした</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="-1">
+  <name>進化合成</name>
+  <detail>初めてカードを進化させた</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="-1">
+  <name>MILLION RARE</name>
+  <detail>初めてミリオンレアカードをゲットした</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="-1" gid="001">
+  <name>みんなとクエスト50回クリア</name>
+  <detail>みんなとクエストで仲間を募集するか、&#x0a;パーティに参加して&#x0a;クエストを50回クリアしましょう</detail>
+ </trophy>
+</trophyconf>

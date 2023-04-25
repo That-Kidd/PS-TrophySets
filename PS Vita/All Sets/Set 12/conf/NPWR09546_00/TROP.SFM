@@ -1,0 +1,124 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000f1af920c459b6dbe3f7aa1e6e84530012f46a847acf6a651d392f1ab89f2023820a72eafa019736ce7a3b3b247642e7ce210f26c5aca1fe7aca67500b85a4e56c36a09dbf89b43660e08250e8fd79e631d2e8237ded0ed194abab1bf2eb6f3f2d51e0d1b3c328435f726715cf88d06670a6fcb1dc1a64579a51cd3ec45f54b5d69dc078d1688cad673d703d4297f60ab51ea91b1-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR09546_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>竜翼のメロディア -Diva with the blessed dragonol-</title-name>
+ <title-detail>竜翼のメロディア -Diva with the blessed dragonol-</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>悠久のドラグノール</name>
+  <detail>全てのトロフィーを取得しました。</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>CGコンプリート</name>
+  <detail>全てのCGをオープンしました。</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>BGMコンプリート</name>
+  <detail>全てのBGMをオープンしました。</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>シーン回想コンプリート</name>
+  <detail>全ての回想をオープンしました。</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>TIPSコンプリート</name>
+  <detail>全てのTIPSをオープンしました。</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="G" pid="000">
+  <name>全ての結末</name>
+  <detail>トゥルーエンドをクリアしました。</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="000">
+  <name>新たな伝説</name>
+  <detail>フローリアルートをクリアしました。</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>もう一人の歌姫</name>
+  <detail>メルルートをクリアしました。</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>連なる想いの果てに</name>
+  <detail>シンシアルートをクリアしました。</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>想いの狭間で</name>
+  <detail>セルフィルートをクリアしました。</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>夢のかけら</name>
+  <detail>クロエルートをクリアしました。</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>フローリアCGコンプリート</name>
+  <detail>フローリアのCGを全てオープンしました。</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>メルCGコンプリート</name>
+  <detail>メルのCGを全てオープンしました。</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>シンシアCGコンプリート</name>
+  <detail>シンシアのCGを全てオープンしました。</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>セルフィCGコンプリート</name>
+  <detail>セルフィのCGを全てオープンしました。</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>クロエCGコンプリート</name>
+  <detail>クロエのCGを全てオープンしました。</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>その他CGコンプリート</name>
+  <detail>その他CGを全てオープンしました。</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>SDCGコンプリート</name>
+  <detail>SDCGを全てオープンしました。</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>フローリア回想コンプリート</name>
+  <detail>フローリアのシーン回想を全てオープンしました。</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="000">
+  <name>メル回想コンプリート</name>
+  <detail>メルのシーン回想を全てオープンしました。</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>シンシア回想コンプリート</name>
+  <detail>シンシアのシーン回想を全てオープンしました。</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>セルフィ回想コンプリート</name>
+  <detail>セルフィのシーン回想を全てオープンしました。</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>クロエ回想コンプリート</name>
+  <detail>クロエのシーン回想を全てオープンしました。</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>その他回想コンプリート</name>
+  <detail>その他シーン回想を全てオープンしました。</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>いい感じだわ。今日はいい日になりそうね</name>
+  <detail>フローリアに起こしてもらいました。</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>すごーい。すごいよお兄ちゃん！</name>
+  <detail>メルに起こしてもらいました。</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>まぁ、なんて素晴らしいんでしょう。さすがですね</name>
+  <detail>シンシアに起こしてもらいました。</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>頑張りましたね。ちょっと見直しました</name>
+  <detail>セルフィに起こしてもらいました。</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>やるじゃない。この調子で明日もよろしくね</name>
+  <detail>クロエに起こしてもらいました。</detail>
+ </trophy>
+</trophyconf>

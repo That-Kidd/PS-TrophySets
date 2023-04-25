@@ -1,0 +1,204 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000f72575df645abc43271ed332a6aee76625be91b26301c5e713fd737d9015794b2e7f7115e773565533e99b82e7381969c1d3461d1a3a5fb32b0d40b67361248b9d0f1977e18e7febfcfd2df476db20143b2d8fbdff08f4c5976a4f27210157c01ec04aab2d34b0e1c763d9caf542848127aa88d34124528e82d963dd26bd92b6145820689400ebf5b4b69720ce238feef7d0542d-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR10902_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>新釈・剣の街の異邦人 ～黒の宮殿～</title-name>
+ <title-detail>新釈・剣の街の異邦人 トロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>新釈・剣の街の異邦人</name>
+  <detail>新釈・剣の街の異邦人　黒の宮殿の全トロフィーを取得しました。&#x0a;ここまで遊んでくれてありがとう！</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="S" pid="000">
+  <name>新釈・異邦人</name>
+  <detail>選ばれし者として異邦人ギルドに登録されました。</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="S" pid="000">
+  <name>新釈・旅立ち</name>
+  <detail>迷宮に潜む血統種の討伐を開始しました。</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="S" pid="000">
+  <name>新釈・わしのともだち</name>
+  <detail>グヌータからの依頼を達成しました。</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="S" pid="000">
+  <name>新釈・魂を削る粉末</name>
+  <detail>ラ・マンサを討伐し、クエスト【毒には毒を】を完了しました。</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="S" pid="000">
+  <name>新釈・鬼教官</name>
+  <detail>甲冑兵の評価試験を行い、クエスト【甲冑兵との立ち会い】を完了しました。</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="000">
+  <name>新釈・意図せぬ厄災</name>
+  <detail>モノリスにて儀式を行い、クエスト【異界への扉】を完了しました。</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>新釈・ドラゴンキラー</name>
+  <detail>デスドラゴンを討伐し、クエスト【老人の助言】を完了しました。</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>新釈・商会のなわばり</name>
+  <detail>兄弟団からの依頼を達成し、クエスト【不死鳥の兄弟団】を完了しました。</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>新釈・狂気の裏切り</name>
+  <detail>廃者の谷に赴き、クエスト【キョウからの呼び出し】を完了しました。</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>新釈・アンナとの別離</name>
+  <detail>クエスト【不意の旅立ち】を完了しました。</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>新釈・水底に沈む秘密</name>
+  <detail>湖の最深部に辿り着き、マリリスの秘密を知りました。</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>新釈・アルムの覚醒</name>
+  <detail>老人の魔手から逃れ、クエスト【始まりの地へ】を完了しました。</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>新釈・凍りついた真実</name>
+  <detail>氷結の廟の最深部へと到達しました。 </detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>新釈・天空の船の墓場</name>
+  <detail>カロンを討伐し、クエスト【嵐の廟へ】を完了しました。</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="S" pid="000">
+  <name>新釈・裏切り者の末路</name>
+  <detail>ギルドを襲撃したキョウを討伐しました。</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="G" pid="000">
+  <name>新釈・神の御心</name>
+  <detail>ストーリーのエンディングに到達しました。</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="S" pid="000">
+  <name>新釈・竜の神に選ばれし者</name>
+  <detail>竜の神の試練を終え、運命の鎖から解き放たれました。</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>救済の始まり</name>
+  <detail>魂のかけらを入手しました。</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>白き魂の救済</name>
+  <detail>迷える白き魂を救済しました。</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>黒き魂の救済</name>
+  <detail>迷える黒き魂を救済しました。</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="S" pid="000">
+  <name>時を遡る奇跡</name>
+  <detail>過去へ遡り、器の者との決戦を再体験しました。</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>新釈・血統種狩人</name>
+  <detail>血統種の再討伐を行いました。</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>新釈・蝶採集家</name>
+  <detail>蝶の巣を発見しました。</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>新釈・幻の小刀</name>
+  <detail>小村正を入手しました。</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>新釈・幻の妖刀</name>
+  <detail>幻の妖刀、村正を入手しました。</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>新釈・忌まわしき呪刀</name>
+  <detail>呪われし最強の巨刀を入手しました。</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>新釈・棚からぼた餅</name>
+  <detail>物干しから盗まれたグルルバの赤パンを取り戻しました。</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="B" pid="000">
+  <name>新釈・漁夫の利</name>
+  <detail>物干しから盗まれたアンナの下着を取り戻しました。</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>新釈・Ｅランクアイテムコレクター</name>
+  <detail>Ｅランクの装備アイテムを手に入れました。</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>新釈・Ｄランクアイテムコレクター</name>
+  <detail>Ｄランクの装備アイテムを手に入れました。</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>新釈・Ｃランクアイテムコレクター</name>
+  <detail>Ｃランクの装備アイテムを手に入れました。</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>新釈・Ｂランクアイテムコレクター</name>
+  <detail>Ｂランクの装備アイテムを手に入れました。</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>新釈・Ａランクアイテムコレクター</name>
+  <detail>Ａランクの装備アイテムを手に入れました。</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>新釈・Ｓランクアイテムコレクター</name>
+  <detail>Ｓランクの装備アイテムを手に入れました。</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>新釈・待ち伏せ初級者</name>
+  <detail>初めて待ち伏せ戦闘に勝利しました。</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>新釈・待ち伏せ中級者</name>
+  <detail>待ち伏せ戦闘に２０回勝利しました。</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>新釈・待ち伏せ上級者</name>
+  <detail>待ち伏せ戦闘に５０回勝利しました。</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>偉業への挑戦者</name>
+  <detail>初めて討伐チャレンジに成功しました。</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="000">
+  <name>戦闘の熟達者</name>
+  <detail>討伐チャレンジに５回成功しました。</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="B" pid="000">
+  <name>防御は最大の攻撃なり</name>
+  <detail>ガードカウンターに１０回成功しました。</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="B" pid="000">
+  <name>新釈・チョコレートマニア</name>
+  <detail>血統種ムカブ・ザ・サードを討伐しました。</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="B" pid="000">
+  <name>新釈・意外な強敵</name>
+  <detail>血統種ブルーヘッドを討伐しました。</detail>
+ </trophy>
+ <trophy id="043" hidden="yes" ttype="B" pid="000">
+  <name>新釈・遅れてきた英雄</name>
+  <detail>血統種キャプテン・ゴーストを討伐しました。</detail>
+ </trophy>
+ <trophy id="044" hidden="yes" ttype="B" pid="000">
+  <name>新釈・大飯食らい</name>
+  <detail>血統種ユルムンガンドを討伐しました。</detail>
+ </trophy>
+ <trophy id="045" hidden="yes" ttype="B" pid="000">
+  <name>新釈・バタフライエフェクト</name>
+  <detail>血統種トリコロールを討伐しました。</detail>
+ </trophy>
+ <trophy id="046" hidden="no" ttype="B" pid="000">
+  <name>逸品への道</name>
+  <detail>ギリウスに装備品を１０回強化してもらいました。</detail>
+ </trophy>
+ <trophy id="047" hidden="no" ttype="B" pid="000">
+  <name>新釈・サポートメンバー</name>
+  <detail>初めて自分でキャラクターを作りました。</detail>
+ </trophy>
+ <trophy id="048" hidden="no" ttype="B" pid="000">
+  <name>ギルド警備員</name>
+  <detail>初めてフリーマンの団員が誕生しました。</detail>
+ </trophy>
+</trophyconf>

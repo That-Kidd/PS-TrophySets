@@ -1,0 +1,60 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000297c598e20aa4134c354f03125325fca9471536134960a972c78dd17289ba5dca9319566776bfaf813646481940342eed8068c397a1500cb0a3c46979e4eb0f61c124dd0c19e2b70c7c03ace7d5b74125b89c08b234510dd4d04f2c1dba7f60430e53bb519382e7deb44e15a53e65dd0caf0c93736a3eb63c438a7e3daf2e6af7f7ad4610b524b77eab6cb6c56d940ecef06e34d-->
+<trophyconf version="1.1" platform="ps3,psp2" policy="freemium">
+ <npcommid>NPWR04717_00</npcommid>
+ <trophyset-version>01.02</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Mahjong Royal Towers</title-name>
+ <title-detail>Mahjong Royal Towers Trophies</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Armiger Cup</name>
+  <detail>Finish the first level with three stars.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Knight Cup</name>
+  <detail>Score 100000 points</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Cup of Honour</name>
+  <detail>Collect 30 crowns</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Squire Cup</name>
+  <detail>Finish the Tournament Field</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Baron Cup</name>
+  <detail>Finish the Castle Courtyard</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Viscount Cup</name>
+  <detail>Finish the Royal Garden</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Count Cup</name>
+  <detail>Finish the Refectory</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Duke Cup</name>
+  <detail>Finish the Armory</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Warrior Cup</name>
+  <detail>Use bonus 50 times</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="-1">
+  <name>Mahjong Tile</name>
+  <detail>Remove 1000 pairs of tiles</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="-1">
+  <name>King Cup</name>
+  <detail>Finish the Throne Hall</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="-1">
+  <name>Envoy Cup</name>
+  <detail>Achieve the x5 multiplier</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="-1">
+  <name>Champion Cup</name>
+  <detail>Finish 30 levels with the best result</detail>
+ </trophy>
+</trophyconf>

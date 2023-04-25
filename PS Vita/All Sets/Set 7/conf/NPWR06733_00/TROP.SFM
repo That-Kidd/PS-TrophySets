@@ -1,0 +1,76 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000642af1ff98415bcd5f6e387a2721d8221056b2467583425c10265d2337d933686d4dd6ce4d705edf1dfbbfb8aab7aaed500c347fce0c0bad82c62da8d22debab3cb9d6a2c56a2fdeb65e9063e0ec09e837933192d32a6c81dd324837ad6810aaf6d4c72fdfbcfb68e61ed71d2004186ee414513a42659c6ee7e10bfbb702a1ab539dea9ec0cefe2b559dd6d562de4b7fac915e3d-->
+<trophyconf version="1.1" platform="psp2" policy="freemium">
+ <npcommid>NPWR06733_00</npcommid>
+ <trophyset-version>01.02</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>My Singing Monsters</title-name>
+ <title-detail>The base trophy set for My Singing Monsters</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>My Beloved Monster</name>
+  <detail>Get a Monster</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>How to Make a Monster</name>
+  <detail>Breed a monster</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Mommy's Little Monster</name>
+  <detail>Get a monster 100% happy</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Pump up the Volume</name>
+  <detail>Reach level 10</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Gone Platinum</name>
+  <detail>Get a level 15 Monster</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Triple Trouble</name>
+  <detail>Get 3 element Monster</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Rare Monster</name>
+  <detail>Get a 4 element monster</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Clean Sweep</name>
+  <detail>Clear all Obstacles on an Island</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Build Me Up Buttercup</name>
+  <detail>Get all Plant Island monsters</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>Cold as Ice</name>
+  <detail>Get Cold Island</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>Baby, it’s cold outside</name>
+  <detail>Get all Cold Island Monsters</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="-1">
+  <name>In the Air Tonight</name>
+  <detail>Get Air Island</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="-1">
+  <name>In the Air</name>
+  <detail>Get all Air Island Monsters</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="-1">
+  <name>Happy When it Rains</name>
+  <detail>Get Water Island</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="-1">
+  <name>Go into the Water </name>
+  <detail>Get all Water Island Monsters</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="-1">
+  <name>Down to Earth</name>
+  <detail>Get Earth Island</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="-1">
+  <name>We’ll Inherit the Earth</name>
+  <detail>Get all Earth Island Monsters</detail>
+ </trophy>
+</trophyconf>

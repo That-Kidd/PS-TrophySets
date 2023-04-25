@@ -1,0 +1,180 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000044970226118237f5767a0f1dc32f09e28621995c24b3ab280dadf708d22b33fdab93887eaf3eef50b87251a8a1c1c0b045cd5b69802368e25fc2e1103da7fab47e93a32689540934cb69ef123403ef6297ebb781e9d9bb46972cb36d11b4d51bd534d111a724cb3e1330816361f9337375c899eed0d328235edb8f8328d4a18a3ecec5e5d73e8ceee2f6b1f92ae0468dd6319ba7-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR07150_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>FREEDOM WARS™</title-name>
+ <title-detail>FREEDOM WARS™ Trophies</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Joy and Prosperity</name>
+  <detail>Earn all trophies.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>First Step to Freedom</name>
+  <detail>Claim your first entitlement.</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>CODE 2 Clearance</name>
+  <detail>Meet the conditions and pass the exam to earn your Level 2 CODE Clearance.</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>CODE 3 Clearance</name>
+  <detail>Meet the conditions and pass the exam to earn your Level 3 CODE Clearance.</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>CODE 4 Clearance</name>
+  <detail>Meet the conditions and pass the exam to earn your Level 4 CODE Clearance.</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>CODE 5 Clearance</name>
+  <detail>Meet the conditions and pass the exam to earn your Level 5 CODE Clearance.</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>CODE 6 Clearance</name>
+  <detail>Meet the conditions and pass the exam to earn your Level 6 CODE Clearance.</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>CODE 7 Clearance</name>
+  <detail>Meet the conditions and pass the exam to earn your Level 7 CODE Clearance.</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>CODE 8 Clearance</name>
+  <detail>Meet the conditions and pass the exam to earn your Level 8 CODE Clearance.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>Only 900,000 Years to Go...</name>
+  <detail>Reduce your sentence to 900,000 years or below.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>Only 800,000 Years to Go...</name>
+  <detail>Reduce your sentence to 800,000 years or below.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>Only 500,000 Years to Go...</name>
+  <detail>Reduce your sentence to 500,000 years or below.</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>Towards the Great Transformation</name>
+  <detail>Take all four paths offered by Simeon.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>Sense of Entitlement</name>
+  <detail>Claim over 101 entitlements.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>Menace to Society</name>
+  <detail>Earn your first punishment for violating the People's Charter.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>The Walls Have Eyes</name>
+  <detail>Violate the People's Charter ten times.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Munitions Magician</name>
+  <detail>Complete your first munitions facility production cycle.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Pharma Farmer</name>
+  <detail>Complete your first medical facility production cycle.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>Augmented Reality</name>
+  <detail>Complete your first augmentation facility production cycle.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Master-at-Arms</name>
+  <detail>Complete your first weapons facility production cycle.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>DIY Demon</name>
+  <detail>Upgrade a weapon to Level 10.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>Fashion Accessory</name>
+  <detail>Give your Accessory a makeover, then visit the lobby area.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>Natural Thorn Killer</name>
+  <detail>Claim all Thorn-related entitlements.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>Antisocial Networking</name>
+  <detail>Exchange rap sheets with a fellow sinner.</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>Retail Therapy</name>
+  <detail>Make your first item purchase using Entitlement Points.</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>Just Desserts</name>
+  <detail>Try every variety of ice cream.</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>No Man Left Behind</name>
+  <detail>Come to the aid of a fallen comrade ten times.</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>Severance Package</name>
+  <detail>Sever an Abductor component.</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>The Great Divide</name>
+  <detail>Sever five or more Abductor components in a single operation.</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>Scrap Merchant</name>
+  <detail>Harvest 50 different types of resources from destroyed Abductors.</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="S" pid="000">
+  <name>Volunteer of the Year</name>
+  <detail>Successfully complete every discretionary operation.</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="S" pid="000">
+  <name>Ramosa Disposer</name>
+  <detail>Defeat a Ramosa-class Abductor while playing offline without falling once in battle.</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="S" pid="000">
+  <name>Paradoxa Boxer</name>
+  <detail>Defeat a Paradoxa-class Abductor while playing offline without falling once in battle.</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="G" pid="000">
+  <name>Dionaea Slayer</name>
+  <detail>Defeat a Dionaea-class Abductor while playing offline without falling once in battle.</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="G" pid="000">
+  <name>Pelta Pelter</name>
+  <detail>Defeat a Peltatum- or Oltatum-class Abductor while playing offline without falling once in battle.</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>Citizen's Friend</name>
+  <detail>Transport a citizen to a Resource Reclamation Unit during operation CT1-3 Dawn - Citizen Reclamation or later.</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>Constant Comrade</name>
+  <detail>Complete 15 operations while collaborating with other players.</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>I Want You Back</name>
+  <detail>Have your Accessory seized by an enemy Abductor.</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>The Only One for Me</name>
+  <detail>Successfully complete an Accessory Reclamation operation.</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="000">
+  <name>For the Greater Good!</name>
+  <detail>Successfully complete 15 special operations.</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="B" pid="000">
+  <name>Trigger-Happy</name>
+  <detail>Fire over 9,999 rounds of ammunition.</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="B" pid="000">
+  <name>Butterfingers</name>
+  <detail>Accidentally drop a citizen while carrying them to an RRU.</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="B" pid="000">
+  <name>Marathorn Man</name>
+  <detail>Use your Thorn to cover a distance of 26 miles (42 km).</detail>
+ </trophy>
+</trophyconf>

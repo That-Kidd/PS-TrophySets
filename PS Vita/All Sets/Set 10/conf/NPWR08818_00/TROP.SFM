@@ -1,0 +1,152 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000034f4a2ed9f09954615da0c0173a62ddca38c884a163b767542bbadf3e952b0c736af328b87b27066bf0a3095d90c71058216f1876d1d578eb544cd0363084552827d27b5aeeab75a82195a85479c3556c4d8eb3a14144c9bc8423abf8e710351df777ef248d66cee63ef8aa79e591da0ddc55139ad9341f37d1d501824c3d3ea42aa17d3ddc57eab6cabbafaed0923ebb8ef7a28-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR08818_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Lost Dimension</title-name>
+ <title-detail>Lost Dimension</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>All Complete</name>
+  <detail>Acquire all trophies.</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>A Forced Vote</name>
+  <detail>Clear the first stratum.</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>Memories of a Lost Civilization</name>
+  <detail>Clear the second stratum.</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>The Dim Metal Cavern</name>
+  <detail>Clear the third stratum.</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="S" pid="000">
+  <name>Imperial Mausoleum of Forgotten Ruins</name>
+  <detail>Clear the fourth stratum.</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="S" pid="000">
+  <name>An Anomaly between Worlds</name>
+  <detail>Clear the final stratum.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>A Bond with Himeno</name>
+  <detail>Strengthen your bond with Himeno.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>A Bond with Toya</name>
+  <detail>Strengthen your bond with Toya.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>A Bond with Mana</name>
+  <detail>Strengthen your bond with Mana.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>A Bond with Nagi</name>
+  <detail>Strengthen your bond with Nagi.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>A Bond with Sojiro</name>
+  <detail>Strengthen your bond with Sojiro.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>A Bond with Zenji</name>
+  <detail>Strengthen your bond with Zenji.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>A Bond with Marco</name>
+  <detail>Strengthen your bond with Marco.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>A Bond with Yoko</name>
+  <detail>Strengthen your bond with Yoko.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>A Bond with Agito</name>
+  <detail>Strengthen your bond with Agito.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>A Bond with George</name>
+  <detail>Strengthen your bond with George.</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="G" pid="000">
+  <name>Chosen Possibility</name>
+  <detail>Witness the true ending.</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="S" pid="000">
+  <name>All-Seeing Eye</name>
+  <detail>Clear the game by erasing only traitors.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="G" pid="000">
+  <name>True Victor</name>
+  <detail>Unmask the full might of The End and defeat him.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>The Battle Begins</name>
+  <detail>Clear a quest for the first time.</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="G" pid="000">
+  <name>Mission Complete</name>
+  <detail>Clear all quests.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>Power Unleashed</name>
+  <detail>Unlock one Gift skill.</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="S" pid="000">
+  <name>True Power Unleashed</name>
+  <detail>Unlock all Gift abilities for a character.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>With Our Powers Combined</name>
+  <detail>Defeat twenty enemies together with a comrade.</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>High Rating</name>
+  <detail>Score an S rating in a quest.</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="G" pid="000">
+  <name>Perfect Commander</name>
+  <detail>Complete all quests with an S rating.</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>Fog of Discord, Never-Ending Lies</name>
+  <detail>Succeed in a Deep Vision.</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>It's in Your Hands Now</name>
+  <detail>Use defer twenty times.</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>Shards of Truth</name>
+  <detail>Discover a Tips file.</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="S" pid="000">
+  <name>The SEALED Truth</name>
+  <detail>Collect all Tips files.</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="B" pid="000">
+  <name>Multi-kill</name>
+  <detail>Defeat five enemies at once.</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="B" pid="000">
+  <name>Sextet Ecstasy</name>
+  <detail>Perform an attack with five assists.</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="B" pid="000">
+  <name>Rushing the Battlefield</name>
+  <detail>Clear a stage using very few turns.</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>Power Overwhelming</name>
+  <detail>Defeat an enemy with a berserk character.</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>Mass–Energy Equivalence</name>
+  <detail>Create a weapon from energy with the Generator.</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>Traitor Candidate</name>
+  <detail>Label someone with a red marker in the Vision screen.</detail>
+ </trophy>
+</trophyconf>

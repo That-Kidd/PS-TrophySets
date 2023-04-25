@@ -1,0 +1,92 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000387a34d9465cf0e6bec93675309a35c532815b1e3301e7f69af16fddf7e3610ea5cca15c2d7100bb029c38602ebaf2e0636f0e487f14ca45dd20c899a645be4bf9b2a0598799fe4d09b93db59aed4db2e48f01835c5ed97da1b9417b9550fd2fbefa578dd77415248f40f3dc83d031e4985738f7ed2220e2b43e0fe1b6a2e810b6dbd992ddee24263b45ebda5f3bcce49c5268d4-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR07758_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>大戦略　大東亜興亡史３トロフィーセット</title-name>
+ <title-detail>大戦略　大東亜興亡史３のトロフィーセットになります。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>世界の平定</name>
+  <detail>おめでとうございます。世界はあなたの手で平定されました。</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>昭和の大提督</name>
+  <detail>大東亜の世界へようこそ。野望へ向かっての第一歩。</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>駆け出しの新兵</name>
+  <detail>初撃破おめでとう。</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>初解析</name>
+  <detail>初めて兵器を解析した。</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>鹵獲マスターへの第一歩</name>
+  <detail>鹵獲マスターへの第一歩を踏み出した。</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>新米搭乗員</name>
+  <detail>目指せエースパイロット。</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>初勝利</name>
+  <detail>司令官としての第一歩を歩き出しました。</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>戦艦収集家</name>
+  <detail>いづれかの陣営で戦艦の経路図を１種開発した。</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>戦車収集家</name>
+  <detail>いづれかの陣営で中戦車の経路図を１種開発した。</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>戦闘機収集家</name>
+  <detail>いづれかの陣営で戦闘機の経路図を１種開発した。</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>エース・オブ・エース</name>
+  <detail>シナリオ中、搭乗員の練度を最高まで育てた。</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>鹵獲の名手</name>
+  <detail>戦場において敵の兵器を50部隊鹵獲した。</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>敵兵器の研究者</name>
+  <detail>兵器開発で鹵獲した兵器を50部隊解析した。</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="000">
+  <name>機能拡張マニア</name>
+  <detail>機能の拡張が最大に達しました。</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="000">
+  <name>大富豪</name>
+  <detail>戦場における収入により所有軍資金が最大に達した。</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="G" pid="000">
+  <name>東洋の王者</name>
+  <detail>大日本帝国のもと、東洋は統一された。</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="G" pid="000">
+  <name>第三帝国の栄光</name>
+  <detail>独逸軍により欧州は征服された。</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="G" pid="000">
+  <name>栄光の旗を掲げよ</name>
+  <detail>米国軍によってヨーロッパは解放の時を迎えた。</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="G" pid="000">
+  <name>大日本帝国兵器マニア</name>
+  <detail>大日本帝国軍で「空」「陸」「海」の経路図を１種ずつ開発した！</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="G" pid="000">
+  <name>独逸軍兵器マニア</name>
+  <detail>独逸軍で「空」「陸」「海」の経路図を１種ずつ開発した</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="G" pid="000">
+  <name>米国軍兵器マニア</name>
+  <detail>米国軍で「空」「陸」「海」の経路図を１種ずつ開発した</detail>
+ </trophy>
+</trophyconf>

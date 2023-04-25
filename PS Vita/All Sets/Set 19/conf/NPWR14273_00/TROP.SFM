@@ -1,0 +1,72 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000dfdde10cf54241a81f0f77260480dab7028d9353a65c39b389186ab841f2076cea621558fdeb6146aeb69edb73ae96f3a5c5ebd4a06ef32a55c0a47d96a3ecf258681667427094a56df6861204a5e5c6555fae1775980fd4cf08bd18b0f95518b302f13f67747440dbbf12b34f51569b766c7f28189e4e9a5abdde3c682ede1e91e42e3e7e093029cbfed0705d1252effa337d48-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR14273_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>One More Dungeon</title-name>
+ <title-detail>One More Dungeon</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Master of the dungeon</name>
+  <detail>Collect all the trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>First step</name>
+  <detail>Complete the first level</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>Half way</name>
+  <detail>Complete five levels</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>Conclusion</name>
+  <detail>Complete eight levels</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>Finish the game</name>
+  <detail>Complete the game</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>Changes the rules</name>
+  <detail>Start the game with any mutator</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>Full set</name>
+  <detail>Buy all the mutators</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>I can't see anything!</name>
+  <detail>Complete the game with "Fog" or "Broken cartridge" mutator</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>Bring 'em on!</name>
+  <detail>Complete the game with "No margin for error" or "Curse" mutator</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>Insects must die!</name>
+  <detail>Squash 25 bugs</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>Time is money</name>
+  <detail>Finish the level in under 3 minutes</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>Drink me</name>
+  <detail>Die after drinking the poison</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>Ancient Necromancer</name>
+  <detail>Kill the Ancient Necromancer</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="000">
+  <name>Elder Flower</name>
+  <detail>Kill the Elder Flower</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="000">
+  <name>Trader</name>
+  <detail>Spend 50 coins</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="G" pid="000">
+  <name>Full equipment</name>
+  <detail>Put the items in all the inventory slots</detail>
+ </trophy>
+</trophyconf>

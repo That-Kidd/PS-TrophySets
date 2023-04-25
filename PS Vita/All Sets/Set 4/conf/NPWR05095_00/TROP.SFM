@@ -1,0 +1,216 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000bc75458683553ff5f1fb4d839f2c1b9890dc4a5b2c0e9025ea2ec5fcd17a598a14bd7126326b480ea0b0c8e8f999b756f07211431c8b38745775190afd224ec1f360c71199af4875aad49b5f6817e488fd2e4b88fb22e810a0d87286618d6b1cb9a02548e91e6602fa71c87f815fc8fb6256b459f8cc60c8ab4cee3f96b402223e17e1471211787ef1181d8414201cf192d7754e-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR05095_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>超女神信仰 ノワール 激神ブラックハート</title-name>
+ <title-detail>「超女神信仰 ノワール 激神ブラックハート」のトロフィー情報です。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>超女神信仰 ノワール 激神ブラックハートマスター</name>
+  <detail>超女神信仰 ノワールを遊び尽くした。&#x0a;&#x0a;「パーフェクトよ、パーフェクト！&#x0a;完璧過ぎるわ！　おめでとう」</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>進撃開始！</name>
+  <detail>ＮＥＷ ＧＡＭＥでゲームを開始した。&#x0a;&#x0a;「このときを待っていたわ！&#x0a;さぁ、私の快進撃が始まるわよ！」</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>アイテムビルダー</name>
+  <detail>アイテム開発をした。&#x0a;&#x0a;「初めてにしては上出来じゃない？&#x0a;今度はもっといいもの作りなさいよね」</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="S" pid="000">
+  <name>アイテムプロフェッサー</name>
+  <detail>アイテム開発を５０種類行った。&#x0a;&#x0a;「へー、結構な種類開発したのね。ここ&#x0a;までしたなら認めてあげなくもないわ」</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="S" pid="000">
+  <name>金は天下の回り物</name>
+  <detail>累計で9999999クレジット稼いだ。&#x0a;&#x0a;「え！？すごいお金持ち…って累計か。&#x0a;まぁ、溜め込んでても意味ないわよね」</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>ゲームクリエイター</name>
+  <detail>ディスクメイクを行った。&#x0a;&#x0a;「ディスクメイク成功ね。うまく&#x0a;利用して、どんどん強くなりましょ」</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="000">
+  <name>ミリオンタイトル</name>
+  <detail>ディスクメイクで「神ゲー」を作成した。&#x0a;&#x0a;「神ゲーを作るなんてすごいじゃない！&#x0a;その調子でどんどん作ってよね」</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>ご自宅にお届け</name>
+  <detail>初めてAMAZOO.netで買い物をした。&#x0a;&#x0a;「うまく買い物して、&#x0a;部屋を充実させていかないとね」</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>豪華絢爛</name>
+  <detail>シムノワールでゴージャス部屋をコンプリートした。&#x0a;&#x0a;「ここまで来ると壮観ね。&#x0a;見てるだけでちょっとテンション上がっちゃうわ」</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="000">
+  <name>はじめてのおねがい</name>
+  <detail>初めてノワール様にお願いをした。&#x0a;&#x0a;「まぁ、これくらいならたいしたこと&#x0a;ないわ。次も頑張りましょう」</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>みんなの女神様</name>
+  <detail>ノワール様へのお願いをすべて成功させた。&#x0a;&#x0a;「これでみんな、少しは悩みが解決した&#x0a;かしらね…そうだと嬉しいわ」</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>女神復活！</name>
+  <detail>初めてミッションに挑戦した。&#x0a;&#x0a;「どう考えても弱くなってる…&#x0a;でも、これくらいでへこたれないわ！」</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>百戦錬磨</name>
+  <detail>１００回ミッションに挑戦した。&#x0a;&#x0a;「もうだいぶ戦闘にも慣れたわね。&#x0a;だからって油断しちゃダメよ」</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="000">
+  <name>一撃必殺</name>
+  <detail>最大ダメージ9999を達成した。&#x0a;&#x0a;「わお、すごいじゃない。&#x0a;これならどんな相手もイチコロね」</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="B" pid="000">
+  <name>そして限界へ</name>
+  <detail>誰か一人をLv.９９にした。&#x0a;&#x0a;「レベルカンストなんてやるじゃない。&#x0a;そのやりこみようは評価するわ」</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="G" pid="000">
+  <name>レベルコンダクター</name>
+  <detail>全員をLv.９９にした。&#x0a;&#x0a;「全員レベルカンスト！？　本当に？&#x0a;これは、まさに達人の御業ね」</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>初めてのサブミッション</name>
+  <detail>初めてサブミッションを行った。&#x0a;&#x0a;「サブミッションを行ったのね。&#x0a;うまく活用しなさいよね」</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>初めての再戦シミュレーション</name>
+  <detail>初めて再戦シミュレーションを行った。&#x0a;&#x0a;「再戦シミュレーションを行ったのね。&#x0a;これ、ちょっと不思議な感覚よね」</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>モテモテ：ノワール</name>
+  <detail>ノワールと他のみんなとのリリィランクを最大にした。&#x0a;&#x0a;「みんなみんな、友達よ！」</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>モテモテ：ネプテューヌ</name>
+  <detail>ネプテューヌと他のみんなとのリリィランクを最大にした。&#x0a;&#x0a;「これがわたしの人望だよ！」</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="000">
+  <name>モテモテ：ブラン</name>
+  <detail>ブランと他のみんなとのリリィランクを最大にした。&#x0a;&#x0a;「…仲間って、いいものね」</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>モテモテ：ベール</name>
+  <detail>ベールと他のみんなとのリリィランクを最大にした。&#x0a;&#x0a;「賑やかでとても楽しいですわ」</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="B" pid="000">
+  <name>モテモテ：リーファイ</name>
+  <detail>リーファイと他のみんなとのリリィランクを最大にした。&#x0a;&#x0a;「みんなで最強を目指すアル！」</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>モテモテ：リッド</name>
+  <detail>リッドと他のみんなとのリリィランクを最大にした。&#x0a;&#x0a;「ふ…アタシが仲間きゃ…ッ！？」</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="000">
+  <name>モテモテ：レストア</name>
+  <detail>レストアと他のみんなとのリリィランクを最大にした。&#x0a;&#x0a;「みなさんは大事な仲間ですから」</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="B" pid="000">
+  <name>モテモテ：エステル</name>
+  <detail>エステルと他のみんなとのリリィランクを最大にした。&#x0a;&#x0a;「絆は大事だよ！　伝説的にね！」</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>モテモテ：アイン・アル</name>
+  <detail>アイン・アルと他のみんなとのリリィランクを最大にした。&#x0a;&#x0a;「これが、運命の輪ということだ…」</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="B" pid="000">
+  <name>モテモテ：プーナ</name>
+  <detail>プーナと他のみんなとのリリィランクを最大にした。&#x0a;&#x0a;「ふふ～、みんな大好きです～」</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="B" pid="000">
+  <name>モテモテ：モルー</name>
+  <detail>モルーと他のみんなとのリリィランクを最大にした。&#x0a;&#x0a;「みんなモルーのかりなかま！」</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="B" pid="000">
+  <name>モテモテ：増嶋愛</name>
+  <detail>増嶋愛と他のみんなとのリリィランクを最大にした。&#x0a;&#x0a;「私のアイカツ、手伝ってください！」</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="B" pid="000">
+  <name>モテモテ：リューカ</name>
+  <detail>リューカと他のみんなとのリリィランクを最大にした。&#x0a;&#x0a;「みんな個性的…いいと思うわ」</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="B" pid="000">
+  <name>モテモテ：ブロッサ・愛染</name>
+  <detail>ブロッサ・愛染と他のみんなとのリリィランクを最大にした。&#x0a;&#x0a;「みんなで大きなショウをしたいね」</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="B" pid="000">
+  <name>モテモテ：ツネミ</name>
+  <detail>ツネミと他のみんなとのリリィランクを最大にした。&#x0a;&#x0a;「みなさんで一緒に歌いましょう」</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="B" pid="000">
+  <name>モテモテ：ウィン</name>
+  <detail>ウィンと他のみんなとのリリィランクを最大にした。&#x0a;&#x0a;「よーし、みんなでサッカーだね！」</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="B" pid="000">
+  <name>モテモテ：レディ・ワック</name>
+  <detail>レディ・ワックと他のみんなとのリリィランクを最大にした。&#x0a;&#x0a;「みなさん食べてしまいたいですわぁ」</detail>
+ </trophy>
+ <trophy id="035" hidden="yes" ttype="B" pid="000">
+  <name>モテモテ：ジェネリア・Ｇ</name>
+  <detail>ジェネリア・Ｇと他のみんなとのリリィランクを最大にした。&#x0a;&#x0a;「いいデータがとれそうでありますな！」</detail>
+ </trophy>
+ <trophy id="036" hidden="yes" ttype="B" pid="000">
+  <name>モテモテ：サオリ</name>
+  <detail>サオリと他のみんなとのリリィランクを最大にした。&#x0a;&#x0a;「みなさんも一緒に恋、しませんか？」</detail>
+ </trophy>
+ <trophy id="037" hidden="yes" ttype="B" pid="000">
+  <name>モテモテ：ビオ</name>
+  <detail>ビオと他のみんなとのリリィランクを最大にした。&#x0a;&#x0a;「とりあえず、ゆっくり腐ろうか？」</detail>
+ </trophy>
+ <trophy id="038" hidden="yes" ttype="B" pid="000">
+  <name>モテモテ：サンゴ</name>
+  <detail>サンゴと他のみんなとのリリィランクを最大にした。&#x0a;&#x0a;「ほーっほっほっほ！　楽しいのぉ」</detail>
+ </trophy>
+ <trophy id="039" hidden="yes" ttype="B" pid="000">
+  <name>モテモテ：リトル・レイン</name>
+  <detail>リトル・レインと他のみんなとのリリィランクを最大にした。&#x0a;&#x0a;「ご迷惑かけないように頑張りますね」</detail>
+ </trophy>
+ <trophy id="040" hidden="yes" ttype="B" pid="000">
+  <name>序章クリア</name>
+  <detail>序章をクリアした。&#x0a;&#x0a;「これでゲイムシジョウ界統一まで、&#x0a;あと一歩よ！」</detail>
+ </trophy>
+ <trophy id="041" hidden="yes" ttype="B" pid="000">
+  <name>第１章クリア</name>
+  <detail>第１章をクリアした。&#x0a;&#x0a;「大変なことになっちゃったけど、&#x0a;女神みんなで協力しましょう」</detail>
+ </trophy>
+ <trophy id="042" hidden="yes" ttype="B" pid="000">
+  <name>第２章クリア</name>
+  <detail>第２章をクリアした。&#x0a;&#x0a;「昔の仲間がまた協力してくれるって、&#x0a;なんだか嬉しいものね」</detail>
+ </trophy>
+ <trophy id="043" hidden="yes" ttype="B" pid="000">
+  <name>第３章クリア</name>
+  <detail>第３章をクリアした。&#x0a;&#x0a;「勇者ってそんなにこだわること？&#x0a;最初から二人でもよかったんじゃ…」</detail>
+ </trophy>
+ <trophy id="044" hidden="yes" ttype="B" pid="000">
+  <name>第４章クリア</name>
+  <detail>第４章をクリアした。&#x0a;&#x0a;「愛も大胆なことするわよね…&#x0a;でも、わかってくれてよかった」</detail>
+ </trophy>
+ <trophy id="045" hidden="yes" ttype="B" pid="000">
+  <name>第５章クリア</name>
+  <detail>第５章をクリアした。&#x0a;&#x0a;「ネプテューヌにも困ったものよね。&#x0a;でも、最終的に解決して良かったわ」</detail>
+ </trophy>
+ <trophy id="046" hidden="yes" ttype="B" pid="000">
+  <name>第６章クリア</name>
+  <detail>第６章をクリアした。&#x0a;&#x0a;「サオリ、あいつにあんな…って違う！&#x0a;あいつなんてどうでもいいんだから！」</detail>
+ </trophy>
+ <trophy id="047" hidden="yes" ttype="B" pid="000">
+  <name>第７章クリア</name>
+  <detail>第７章をクリアした。&#x0a;&#x0a;「大丈夫だろうって任せたときに限って&#x0a;トラブルは起こるものなのよね…」</detail>
+ </trophy>
+ <trophy id="048" hidden="yes" ttype="B" pid="000">
+  <name>第８章クリア</name>
+  <detail>第８章をクリアした。&#x0a;&#x0a;「なにか起こってるのは間違いないわ。&#x0a;油断しないで！」</detail>
+ </trophy>
+ <trophy id="049" hidden="yes" ttype="B" pid="000">
+  <name>第９章クリア</name>
+  <detail>第９章をクリアした。&#x0a;&#x0a;「これで、シジョウ界は平和に&#x0a;なるわね。ちょっとだけ感慨深いわ」</detail>
+ </trophy>
+ <trophy id="050" hidden="yes" ttype="S" pid="000">
+  <name>グッドエンド</name>
+  <detail>グッドエンドを見た。&#x0a;&#x0a;「あんなことがあっても、結局いつも&#x0a;通りなんだから…」</detail>
+ </trophy>
+ <trophy id="051" hidden="yes" ttype="G" pid="000">
+  <name>トゥルーエンド</name>
+  <detail>トゥルーエンドを見た。&#x0a;&#x0a;「これからずっと…みんなで協力して、&#x0a;シジョウ界を守っていきましょう！」</detail>
+ </trophy>
+</trophyconf>

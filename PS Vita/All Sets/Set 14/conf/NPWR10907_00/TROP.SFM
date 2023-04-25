@@ -1,0 +1,48 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000047e8b754814e9cd50bf07d96ec6e42103e37847b2a32a7c0157730ca443ef9b373923fc4d0ebef66d8a6666d266ec3d66288683f7ae895ea26aa922fc752d98f801c723eba5c201f872eeb0609d4d4335086f6144e650c39cdf4e0eaed0eef5398bc9edfd6328d8c7c7c535cd72c634c618b5e9ddc21d356c304da07db66b7960e765621fe67eba66f20772a49ac15bd32dbe2a6-->
+<trophyconf version="1.1" platform="ps3,psp2,ps4" policy="small">
+ <npcommid>NPWR10907_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>ダマスカスギヤ東京始戦 HDEdition</title-name>
+ <title-detail>ダマスカスギヤ東京始戦 HDEditionのトロフィーセットです。</title-detail>
+ <trophy id="000" hidden="no" ttype="G" pid="-1">
+  <name>DG Master</name>
+  <detail>すべてのミッションでクリアランクSを獲得した。※(裏)除く</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="-1">
+  <name>Part Complete</name>
+  <detail>すべてのパーツを手に入れた</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="-1">
+  <name>Mission Complete</name>
+  <detail>クレジットをクリアした</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>RankS  Complete</name>
+  <detail>ランクSのミッションをすべてクリアした</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>RankA  Complete</name>
+  <detail>ランクAのミッションをすべてクリアした</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>RankB  Complete</name>
+  <detail>ランクBのミッションをすべてクリアした</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>RankC  Complete</name>
+  <detail>ランクCのミッションをすべてクリアした</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>RankD  Complete</name>
+  <detail>ランクDのミッションをすべてクリアした</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>RankE  Complete</name>
+  <detail>ランクEのミッションをすべてクリアした</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>DG Fan</name>
+  <detail>最初のミッションをクリアした</detail>
+ </trophy>
+</trophyconf>

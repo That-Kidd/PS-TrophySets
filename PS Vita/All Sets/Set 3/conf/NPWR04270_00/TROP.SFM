@@ -1,0 +1,164 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000044c925c9d0bc22b79a7dd949ef33b3e407d1da2dc64e8ef5a38359662c63fa3157a78aee4594ec06e9807281df0dbf2459346d6e017be25bf9c396d4502e6f604f49980a342d252997872cab4a881e6cea39d04ed16d134140484bf63dab6275c594b09c9a1123c81fdf4a0055eabee928b875dab46d0edbf37d29be3904f90bc4ba1f2d7aaa122122c3698813566391360355cd-->
+<trophyconf version="1.1" platform="ps3,psp2" policy="large">
+ <npcommid>NPWR04270_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Terraria</title-name>
+ <title-detail>Trophies for Terraria</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Completionist!</name>
+  <detail>All the trophies have been earned.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Terraria Student</name>
+  <detail>You have begun the tutorial!</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Home Sweet Home</name>
+  <detail>The Guide has moved in!</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>All in the Family</name>
+  <detail>Every NPC has moved in!</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>Rock Bottom</name>
+  <detail>You have reached the bottom of the World!</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>Exterminator</name>
+  <detail>You have defeated every boss!</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>Slimer</name>
+  <detail>You have killed every type of slime!</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>Challenge Accepted</name>
+  <detail>You have unlocked Hard Mode!</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>Maxed Out</name>
+  <detail>You have the maximum health and mana!</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>Corruptible</name>
+  <detail>Your World is Corrupt!</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>Hallowed Be Thy Name</name>
+  <detail>Your World is Hallowed!</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>Ophthalmologist</name>
+  <detail>You have defeated The Twins!</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>Bona Fide</name>
+  <detail>You have defeated Skeletron Prime!</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>Ride the Worm</name>
+  <detail>You have defeated The Destroyer!</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>Marathon Runner</name>
+  <detail>You have traveled over 42km on the ground!</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>Landscaper</name>
+  <detail>You have removed more than 10,000 blocks!</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Crowd Control</name>
+  <detail>You have defeated the Goblin Army!</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Survivor</name>
+  <detail>You have survived the first night!</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>Icarus</name>
+  <detail>Reach the top of the World!</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Vanity of Vanities</name>
+  <detail>Wear a full set of vanity clothes.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>Pet Hoarder</name>
+  <detail>Find ALL the pets.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>Be Prepared</name>
+  <detail>Activate 5 buffs at the same time.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>Airtime!</name>
+  <detail>Enjoy the view.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>Blacksmith</name>
+  <detail>Craft 300 items at an anvil!</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>I'm Smelting!</name>
+  <detail>You have smelted 10,000 bars of metal!</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="S" pid="000">
+  <name>A Knight in Shining Armors</name>
+  <detail>You have obtained every type of armor.</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>Engineer</name>
+  <detail>You have placed 100 wires!</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>Red Moon Rises</name>
+  <detail>You have survived the Blood Moon!</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="S" pid="000">
+  <name>Crafty</name>
+  <detail>You have used every crafting station!</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="S" pid="000">
+  <name>To Hell and Back</name>
+  <detail>You have gone to The Underworld and back without dying!</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="G" pid="000">
+  <name>Back for Seconds</name>
+  <detail>You have defeated all the prime bosses twice.</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>Is This Heaven?</name>
+  <detail>You have found a floating island!</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="S" pid="000">
+  <name>Leap a tall building in a single bound</name>
+  <detail>Jump really, really high.</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="S" pid="000">
+  <name>Safe fall</name>
+  <detail>You have landed safely.</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="S" pid="000">
+  <name>Hellevator</name>
+  <detail>Go from the surface to The Underworld in under a minute.</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>Gone in 60 seconds</name>
+  <detail>You ran continuously for 60 seconds!</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="S" pid="000">
+  <name>Appease the Volcano Gods</name>
+  <detail>You sacrificed The Guide in boiling hot magma!</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="S" pid="000">
+  <name>Homicidal</name>
+  <detail>You killed The Guide, you maniac!</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>Terraria Expert</name>
+  <detail>You have completed the tutorial!</detail>
+ </trophy>
+</trophyconf>

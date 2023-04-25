@@ -1,0 +1,80 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000055edd77320c18deaae245686d8c89934a61aa6a558d9b27b1775e4b4b65449bdef6cb5b976a34627746b024ae06245550cfd8f86f04f91235f8367182531a261f2623638861a63a2d7c1a51ba580d7980eb0c3938b327c4a882297eb188d880af2028f628e6b69cd9f0c0dc4c1f3cbd8ab0aa9d0816eacdbc3519fae41e9da9355d4c078bd6ee9b2303b0a861ae77b9a89c98e41-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR16711_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Creepy Road</title-name>
+ <title-detail>Creepy Road</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Who’s your daddy now?</name>
+  <detail>Get all the trophies.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Fast shooter</name>
+  <detail>Kill 500 or more enemies.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>Bully menace</name>
+  <detail>Kill 1500 or more enemies.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>Annihilator</name>
+  <detail>Kill 5000 or more enemies.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>Quick bite</name>
+  <detail>Eat 100 or more hamburgers.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>What is your parking malfunction?!</name>
+  <detail>Explode 20 or more vehicles</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>A nice flight</name>
+  <detail>Complete the flying location without dying.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>Bad place for swimming</name>
+  <detail>Die 5 or more times in the poison goo.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>Watch your step!</name>
+  <detail>Step on a mine 10 or more times.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>Someone's not tryin' hard!</name>
+  <detail>Die 50 or more times.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>Luckier another life</name>
+  <detail>Die 150 or more times.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>Rest in Peace</name>
+  <detail>Die 300 or more times.</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="G" pid="000">
+  <name>Plumber's heaven</name>
+  <detail>Find an entrance to the secret location.</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="G" pid="000">
+  <name>COWABUNGA!</name>
+  <detail>Find ninja reptile lair.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="000">
+  <name>Seems like that’s for real…</name>
+  <detail>Take part in circus show finale.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="G" pid="000">
+  <name>The best of us fall</name>
+  <detail>Deal with your childhood's idol.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="G" pid="000">
+  <name>It's not that simple...</name>
+  <detail>Discover the big mystery of a small animal.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="G" pid="000">
+  <name>I didn’t expect this from ya!</name>
+  <detail>Visit a place where ones usually don’t come back from.</detail>
+ </trophy>
+</trophyconf>

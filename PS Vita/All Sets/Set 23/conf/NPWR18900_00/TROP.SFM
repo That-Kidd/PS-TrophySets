@@ -1,0 +1,56 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000fb960f212c05181c3d00a1f400c503fe298a13839779877c46da538b899dd8104c21b09640562bf07e52d793e93644d36d8a85f7afe3f7fbfcf0bf8efc1c0b24f9f10825f4093d4e657c83a344e5a86cd7180e3cae158f582da41e59d4ba3c7368258cb805b121765dd504760e19dd12a502fa20d6ed1afb22505b8e860d4575f99d5bfb6a31b8de1504f15967d86ce7cb1c847a-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR18900_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Himno</title-name>
+ <title-detail>Himno</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Platinum Himno</name>
+  <detail>Get all other trophies.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>It's Not Over Yet</name>
+  <detail>Falls into the water for the first time.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>Hello Little Friend</name>
+  <detail>Release your first Wisp.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>We Ascend?</name>
+  <detail>Explore new terrain above 600 meters.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>Moving Forward</name>
+  <detail>Reach district 6.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>Level Up</name>
+  <detail>Reach level 10.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>Exploring The Past</name>
+  <detail>Visit 30 districts.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>The Middle Step</name>
+  <detail>Do 250 dashes.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>The Next Step</name>
+  <detail>Do 500 dashes.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>Getting In Shape</name>
+  <detail>Do 500 jumps.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>Still In Shape</name>
+  <detail>Do 1000 jumps.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>New Hope</name>
+  <detail>Light 10 torches in one playthrough.</detail>
+ </trophy>
+</trophyconf>

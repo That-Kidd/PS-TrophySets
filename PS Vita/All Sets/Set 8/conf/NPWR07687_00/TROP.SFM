@@ -1,0 +1,64 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000890f169b76a604ba7a15a6992c94a6b483cef3a9ad9b95a670f2cfe1f3510e834d75b89f0f699acfcd9c1617c32ea81ae06328c876a2e6ef663f9092117dd60ecf3016e00cf0d04e59f479193682136ce2daecc36ede6d0b11840c4bca5dee8986644e518de026e218e2b588eacda40a682ad33b1b2988b0d6b29826ecbe06c75abd3d48cd9e83732189d6b089cec60d3e2e7d9a-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR07687_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Ring Run Circus</title-name>
+ <title-detail>The Trophy Set of Ring Run Circus</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Rabbit</name>
+  <detail>Get 10 speed boosts in a row</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Leopard</name>
+  <detail>Get 50 speed boosts in a row</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="-1">
+  <name>Silky Smooth</name>
+  <detail>Complete "A Lucky Bounce" without bouncing</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Starless</name>
+  <detail>Complete "The Jump" with no stars</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="-1">
+  <name>Horsing Around</name>
+  <detail>Ride one turn on the carousel</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Sweep'n &amp; Weep'n</name>
+  <detail>Three on the floor at once in "An Encirclement"</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Double Punch</name>
+  <detail>Hit two with a single punch in "The Lions"</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Fire? What Fire?</name>
+  <detail>Complete "A Bearded Ball" without getting burned</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Mark it 8, Dude</name>
+  <detail>Hit someone with the ball</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>Elusiveness</name>
+  <detail>Avoid The Magician in "The Flight On Fire"</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="-1">
+  <name>Perfection</name>
+  <detail>The fewest ring movements to solve "A Triple Puzzle"</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="-1">
+  <name>Dress Rehearsal</name>
+  <detail>The fewest character-swaps to solve "The Swap"</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="B" pid="-1">
+  <name>Who am I?</name>
+  <detail>Swap characters 50 times</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="-1">
+  <name>Awakening</name>
+  <detail>Get on stage.</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,112 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000009a0b21d1b3804e3d4aa2eba022ee87b5fec7158abccab5c49f8b55b4b3401d2a2bf6d22c9a031859760e45b4b492470f6dfc0c389de1a1a654d07f85e4f34ff960a95a331f99399fcf7bfe23b1f49f5172d7ae07e95d44c862aa5b9d215392b4e32ccff17c3ce16c180d20f25996b85112e5bd23ed62fa37b786d1759296199a356a43386c4390b7c127ae5c0dc91b15bee1ea5a-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR07558_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Disney Infinity [2.0]</title-name>
+ <title-detail>Pack de trofeos de Disney Infinity [2.0].</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Héroe de platino</name>
+  <detail>Consigue todos los trofeos.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="000">
+  <name>En el nivel</name>
+  <detail>Sube a un personaje al nivel 20.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>En el nivel contigo</name>
+  <detail>Sube a 2 personajes al nivel 20.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>Tienes habilidades</name>
+  <detail>Desbloquea 30 habilidades de personaje en el Árbol de las Habilidades.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>La sala alargada</name>
+  <detail>Visita la Sala de los héroes.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>Viajero experimentado</name>
+  <detail>Conduce una montura, una moto, un coche y un vehículo volador.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>Viajero de mundo</name>
+  <detail>Descarga 5 partidas generadas por usuarios.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>Puerta por puerta</name>
+  <detail>Vincula 5 Toy Box juntas con puertas de la Toy Box.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>Creador de Toy Box</name>
+  <detail>Publica tu propio juego de la Toy Box.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>Combatiente de enemigos</name>
+  <detail>Derrota a 100 enemigos.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>Ofensiva enemiga</name>
+  <detail>Derrota a 500 enemigos.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>Resérvalo para después</name>
+  <detail>Guarda 4 Toy Box.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>Primeras hazañas</name>
+  <detail>Completa 10 hazañas.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>A presumir de hazañas</name>
+  <detail>Completa 25 hazañas.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>Más vale hazaña que fuerza</name>
+  <detail>Completa 50 hazañas.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="G" pid="000">
+  <name>De hazañas vive el mundo</name>
+  <detail>Completa 90 hazañas.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>Buena compra</name>
+  <detail>Compra una página entera de juguetes en la Tienda de juguetes.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="G" pid="000">
+  <name>Compras compulsivas</name>
+  <detail>Compra 100 juguetes.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>Aliados a punto</name>
+  <detail>Desbloquea 5 aliados.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="000">
+  <name>Superaliado</name>
+  <detail>Reúne 50 piezas de equipo para tus aliados.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>Maestro tramposo</name>
+  <detail>Coloca 50 trampas en Ataque en Asgard o Rescate tropical de Stitch.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="G" pid="000">
+  <name>Selección natural</name>
+  <detail>Completa el modo Supervivencia de exploración.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>Especialista en INteriores</name>
+  <detail>Completa todos los tutoriales INteriores.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>Ampliación de sala</name>
+  <detail>Construye un INterior de 10 salas.</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>Decorador de INteriores</name>
+  <detail>Compra 25 decoraciones INteriores de la Tienda de juguetes.</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="G" pid="000">
+  <name>Maestro decorador</name>
+  <detail>Compra 50 decoraciones INteriores de la Tienda de juguetes.</detail>
+ </trophy>
+</trophyconf>

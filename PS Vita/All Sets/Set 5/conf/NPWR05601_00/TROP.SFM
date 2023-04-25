@@ -1,0 +1,28 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000033b90bdb248ae6a1f6a23b3258d23874a37512cf0c41b11b61b539f1c04d8704a2b6114108a178da5e3bd57dc436dd826d77dc16ef2f4cdb12413c0e9dc50bfa84b43fc7a2f85d9d98dfeec254b2ce9e9eeb8ddfe2ec95ee07617e6af28073c909a1b341cf851e2341268dfa851873fa5684a6945949398ee862f85f063fe76f13910dcc88b74eb875fc0a86ff16a7679e5e0df8-->
+<trophyconf version="1.1" platform="psp2" policy="freemium">
+ <npcommid>NPWR05601_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>大乱走 ダッシュ or 奪取!!</title-name>
+ <title-detail>大乱走 ダッシュ or 奪取!!　トロフィー</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>ビギナーダッシュプレイヤー</name>
+  <detail>クエストを５個クリアした！</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>ノービスダッシュプレイヤー</name>
+  <detail>クエストを１０個クリアした！</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>ミドルダッシュプレイヤー</name>
+  <detail>クエストを１５個クリアした！</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="-1">
+  <name>マスターダッシュプレイヤー</name>
+  <detail>クエストを２０個クリアした！</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="-1">
+  <name>エキスパートダッシュプレイヤー</name>
+  <detail>クエストを２５個クリアした！</detail>
+ </trophy>
+</trophyconf>

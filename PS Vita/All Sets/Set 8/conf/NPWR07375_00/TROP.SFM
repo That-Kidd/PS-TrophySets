@@ -1,0 +1,56 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000007f0d135c6896adb215c06645dc21c2d3f8842a2291736c1ad9a3226564b2f81065c48f60fc0474a217efcad5d9605799b7a6dbc44f2c1a0d0604c46483cba840cab5c651888ab80dff81bb68ccafde540be993255c6f10ffe31565ec91fbfa01d4ec8cf1ca4e1b57736ba03fe9eb6ec3e746ba9ffb1c8c9fa14ae7bb283b9c556a3262f9b985e1f308f42c4a26d0b7ed5afbe48-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR07375_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>THE MUPPETS MOVIE ADVENTURES</title-name>
+ <title-detail>THE MUPPETS MOVIE ADVENTURES</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Great Pirate Captain</name>
+  <detail>Complete the ‘Greenlegs: The Swashbuckling Pirate Frog’ movie.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Brave Princess</name>
+  <detail>Complete the ‘The Wizard of the Green Earth’ movie.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Tasty Meatball</name>
+  <detail>Complete the ‘The Good, the Bad and the Animal’ movie.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Vampire Carrot</name>
+  <detail>Complete the ‘The Night of the Walking Veggies’ movie.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Speedy Spaceship</name>
+  <detail>Complete the ‘The Koozebane Menace’ movie.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Movie Star</name>
+  <detail>Collect your first Star.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Successful Shoot</name>
+  <detail>Collect your first Cinema Reel.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Best Supporting Actor</name>
+  <detail>Collect your first Golden Movie Ticket.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="-1">
+  <name>Best Director</name>
+  <detail>Collect all the Stars.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="-1">
+  <name>Best Picture</name>
+  <detail>Collect all the Cinema Reels.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="-1">
+  <name>Best Actor</name>
+  <detail>Collect all the Golden Movie Tickets.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="-1">
+  <name>Bold Hero</name>
+  <detail>Complete all the movies.</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,108 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000007c7e1f32ca44cd5b77936a516f36c2cffc43834055c6a2b4e2fcb98339e7f849a1cac40b45099aeab7c98191c2cec7614eab235a5413013673c343171dc75879dc2a158a07c57fbd2cb52bec89b5396fead89f41860b79c09b447143bc6cb24b250479a18032fc6803b2bd2344b16f8adaf33d2df1debc8dc56e0d71a6e8a96c19460c20617f46b6fb277692b4506d81975b5b15-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR11260_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Alone With You</title-name>
+ <title-detail>Trophies for Alone With You</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Space Pioneer</name>
+  <detail>Unlock all trophies.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>What a week</name>
+  <detail>Complete the first week's worth of missions.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Double rotation</name>
+  <detail>Make it through the second week's missions.&#x0a;</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Are we there yet?</name>
+  <detail>Finish the third week's missions.&#x0a;</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>Voracious reader</name>
+  <detail>Find all of the story pages throughout the Comms Relay.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>Grease monkey</name>
+  <detail>Find all of the hand-drawn schematics throughout Colony B.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>It's complicated</name>
+  <detail>Find all of the important mementos throughout the Caves.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>Green thumb</name>
+  <detail>Find all of the key artifacts throughout the Agro-domes.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>Unlikely couple</name>
+  <detail>Reveal the full story of the bittersweet work romance.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>Science nerd</name>
+  <detail>Impress your companion with your knowledge of weather.</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="000">
+  <name>A shoulder to cry on</name>
+  <detail>Tell Winnie about William's feelings for her.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>Back in one piece</name>
+  <detail>Complete your first mission.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>Check the O.R.</name>
+  <detail>You  like it so far?</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>I didn't mean it</name>
+  <detail>Apologize for doubting a companion.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>Happy birthday, David</name>
+  <detail>Discover a moment of reconciliation</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="G" pid="000">
+  <name>Sweet talker</name>
+  <detail>Spend all three special simulations with one hologram, and let them know you care.</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="G" pid="000">
+  <name>The communicator</name>
+  <detail>Commit to Winnie Laurier, find all her mementos, and choose to escape.</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="G" pid="000">
+  <name>The director</name>
+  <detail>Commit to Pierre Tong, find all his mementos, and choose to escape.</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="G" pid="000">
+  <name>The botanist</name>
+  <detail>Commit to Leslie Bharadwaj, find all her mementos, and choose to escape.</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="G" pid="000">
+  <name>The explorer</name>
+  <detail>Commit to Jean Lumumba, find all his mementos, and choose to escape.</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="S" pid="000">
+  <name>Playing the field</name>
+  <detail>Spend each special simulation with a different companion.</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="G" pid="000">
+  <name>It was you all along</name>
+  <detail>Commit to no other companion, choose to stay behind with the AI.</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="S" pid="000">
+  <name>Alone</name>
+  <detail>Escape the planet.</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="S" pid="000">
+  <name>With You</name>
+  <detail>Stay behind with the AI.</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="G" pid="000">
+  <name>Roll call</name>
+  <detail>Scan all colony members</detail>
+ </trophy>
+</trophyconf>

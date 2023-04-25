@@ -1,0 +1,56 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000006cd433f1c8c9256cb92fb739f09bd099c7e28ddbbe9e820e8c0814d70a6714b2acccee4393df2512578722d4bdab5cb591424045d8dcb6904159974e315e11a3967b14cabe5f177883eb78d3b1126c462d920242ff45ccc40c9b769855d829de0647a2fc2f7cebf0caa955023fa5e914a65caab271af5ec7fac9c573b2051b87b8dcf8c93c3a41b3d59d1f4cbf754cd77e646ad1-->
+<trophyconf version="1.1" platform="ps3,psp2" policy="small">
+ <npcommid>NPWR05290_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Ethan: Meteor Hunter</title-name>
+ <title-detail>Trophies Ethan: Meteor Hunter</title-detail>
+ <trophy id="000" hidden="no" ttype="G" pid="-1">
+  <name>Who's the boss?</name>
+  <detail>Complete the three challenges in all levels</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="-1">
+  <name>Meteor Hunter</name>
+  <detail>Complete the fragment challenge in all levels</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="-1">
+  <name>Eureka!</name>
+  <detail>Complete the pause challenge in all levels</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="-1">
+  <name>Just in time</name>
+  <detail>Complete the time challenge in all levels</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="-1">
+  <name>What's that over there?</name>
+  <detail>Find every french cheese</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Nearly there</name>
+  <detail>Spend a total of 60 minutes in pause mode</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>More! Still more!</name>
+  <detail>Collect a total of 1,000 fragments</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="-1">
+  <name>Broken arm</name>
+  <detail>Die 10x in the same level</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Speedy!</name>
+  <detail>88 miles an hour!</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>Little by little</name>
+  <detail>Finish all the levels in the sawmill</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>The lost laboratory</name>
+  <detail>Finish all the levels in the cave</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="-1">
+  <name>Payback time!</name>
+  <detail>Finish all the levels in the greenhouse</detail>
+ </trophy>
+</trophyconf>

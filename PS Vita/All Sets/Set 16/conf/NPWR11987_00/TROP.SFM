@@ -1,0 +1,80 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000999b6bb3a5d3e26c454d966f81f57651e63cac88064a0a9eabdbed9827e4c893fa8229a3b70ebeb6cc896054b23ae470e817868dacbfb58de8b2dd80f0d1e63bf77fc85a65223bfd746715ffaa47ecf4256a2a807efffcb089b7db1fcc569f5dac430c2d61acd01f69422b5d7aea13c635e8e20fc34c0b3315bbe0bc2896fc5abcb53f09717be356ed56cc61aa320f92d17a56b1-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR11987_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Lara Croft GO</title-name>
+ <title-detail>Lara Croft GO</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>A true adventurer</name>
+  <detail>Collect all trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>Key of Snakes</name>
+  <detail>Find the Key of Snakes</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>Key of Stones</name>
+  <detail>Find the Key of Stones</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>Key of Spirits</name>
+  <detail>Find the Key of Spirits</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>Atlas of Beyond</name>
+  <detail>Discover the Atlas of Beyond</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>Archaeologist</name>
+  <detail>Find a Relic Fragment</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>Historian</name>
+  <detail>Complete a Relic</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>Preservation Society</name>
+  <detail>Break all Vases</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>Curator</name>
+  <detail>Complete all Relics</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="G" pid="000">
+  <name>Ophidiophobia</name>
+  <detail>Slay the Queen of Venom</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>Getting crafty</name>
+  <detail>Stack two Pillars</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>Master builder</name>
+  <detail>Stack three Pillars</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>Gathering moss</name>
+  <detail>Get crushed by a Boulder</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>Into the abyss</name>
+  <detail>Kill a creature by making it fall to its death</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="000">
+  <name>Put this apple on your head</name>
+  <detail>Throw a spear six nodes or farther</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="G" pid="000">
+  <name>Immortal no more</name>
+  <detail>Unearth the Shard of Life</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="G" pid="000">
+  <name>Déjà-vu</name>
+  <detail>Slay the same creature four times in a row</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="G" pid="000">
+  <name>Back to reality</name>
+  <detail>Return from the Mirror of Spirits</detail>
+ </trophy>
+</trophyconf>

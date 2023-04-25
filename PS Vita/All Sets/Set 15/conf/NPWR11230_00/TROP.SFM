@@ -1,0 +1,84 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000094d526c52ffaaa2e947b318bcab8cdd227f5bc906f6efdba074cd3bc77a98606803d0ffccfbfc52f6f514175c54fedc39c4d4ddc7ec603183a4a7766f70897c6247798f1ff962ea9541044ebd6ad9e12d8322b179a6064d8a1feb0391a651350e19aca5482042528f48dc67300537367fccecfc7c6a533a6d79a32e05ccbcc646778fcdf1c3a74eabc2147819cb5a7212bc5171d-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR11230_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>古き良き時代の冒険譚</title-name>
+ <title-detail>『古き良き時代の冒険譚』トロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>コンプリート</name>
+  <detail>全てのトロフィーを獲得しました。</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="000">
+  <name>ポイントアップ</name>
+  <detail>サポートカード「ポイントアップ」を使いました。</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>魔力戦闘</name>
+  <detail>サポートカード「魔力戦闘」を使いました。</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>ＨＰ・ＭＰ全回復</name>
+  <detail>サポートカード「ＨＰ・ＭＰ全回復」を使いました。</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>反撃禁止</name>
+  <detail>サポートカード「反撃禁止」を使いました。</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>完全防御</name>
+  <detail>サポートカード「完全防御」を使いました。</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>サポート不可</name>
+  <detail>サポートカード「サポート不可」を使いました。</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>ソルジャー撃破</name>
+  <detail>敵軍のソルジャーを撃破しました。</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>ランサー撃破</name>
+  <detail>敵軍のランサーを撃破しました。</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>ガード撃破</name>
+  <detail>敵軍のガードを撃破しました。</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>メイジ撃破</name>
+  <detail>敵軍のメイジを撃破しました。</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>ヒーラー撃破</name>
+  <detail>敵軍のヒーラーを撃破しました。</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>ステージ３クリア</name>
+  <detail>ステージ３をクリアしました。</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="000">
+  <name>ステージ６クリア</name>
+  <detail>ステージ６をクリアしました。</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="000">
+  <name>ステージ９クリア</name>
+  <detail>ステージ９をクリアしました。</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="G" pid="000">
+  <name>ステージ１２クリア</name>
+  <detail>ステージ１２をクリアしました。</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="G" pid="000">
+  <name>ステージ１５クリア</name>
+  <detail>ステージ１５をクリアしました。</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="G" pid="000">
+  <name>ステージ１８クリア</name>
+  <detail>ステージ１８をクリアしました。</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="G" pid="000">
+  <name>ステージ２１クリア</name>
+  <detail>ステージ２１をクリアしました。</detail>
+ </trophy>
+</trophyconf>

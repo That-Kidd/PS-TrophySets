@@ -1,0 +1,128 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000006ff90567ecd11456f7044007c6594a23bf3b93bdc553f9f5c86c6ff54f3b913b5078766ad04eb266420beabd06270bcb7fe080f942b1375557d8b023a9f09c443f93b259757be3d373ccf3476febc5a002cef6abe1b095f7754d844c351d0fb33eb69235b12053e8a69125d3f2efac6cdcf7ade338ad7f433b86daee97547cb57479c2a82dc7425cfe9ae8f3c74a0c8a3e988866-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR04105_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Rocketbirds PS Vita</title-name>
+ <title-detail>Trophies earned in Albatropolis</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Platinum Trophy</name>
+  <detail>Collect all trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>Mission Complete</name>
+  <detail>Overthrow Putzki and liberate Albatropolis</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>Dirty Half-Dozen</name>
+  <detail>Invite a friend and Complete the Cooperative game mode</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Hardboiled Seal</name>
+  <detail>Kill 100 penguins or clones (Single Player)</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>Hardboiled Orca</name>
+  <detail>Kill 300 penguins or clones (Single Player)</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>Disgruntled Worker</name>
+  <detail>Find 3 Signs</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>Rebellious Laborer</name>
+  <detail>Find 20 Signs</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>Revolutionary Fighter</name>
+  <detail>Find all 45 Signs</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>Flight Instructor</name>
+  <detail>Juggle an enemy for 10 seconds (Single Player)</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>Own Medicine</name>
+  <detail>Kill a helicopter penguin with his own missile</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>Own Pharmacy</name>
+  <detail>Kill 6 helicopter penguins with their own missiles</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>Hydrogen Run</name>
+  <detail>Escape the large zeppelin with 40 seconds or more on the timer</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>Door Sentry</name>
+  <detail>Kill 30 Penguins as they step out of a door (Single Player)</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>Brainbug Fever</name>
+  <detail>Brainbug 30 enemies</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>High Treason</name>
+  <detail>Brainbug the penguin above the star in Chapter 6 (Single Player)</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>Turncoat</name>
+  <detail>Kill 20 enemies while brainbugging</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="G" pid="000">
+  <name>Bird Brained</name>
+  <detail>Brainbug at least one penguin from each of the 7 penguin ranks, including Putzki in a single playthrough</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="G" pid="000">
+  <name>Riding the Thunderbolt</name>
+  <detail>Kill Mega-Brno in Hardboiled mode</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>Two Birds One Stone</name>
+  <detail>Kill 2 enemies with one grenade</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="000">
+  <name>Too Many Too Soon</name>
+  <detail>Kill 3 enemies with one grenade</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>Bazookin'</name>
+  <detail>Kill 6 enemies with the bazooka</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>Putzki Monologues</name>
+  <detail>Find all four episodes of Putzki on TV in a single playthrough</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>For What Reason?</name>
+  <detail>Launch the silo missile</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>Method Acting</name>
+  <detail>Kill yourself as an Elite Penguin on Palace TV in Chapter 13</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>One Shot One Kill</name>
+  <detail>Kill 10 enemies, each with one gunshot (Single Player)</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>Laser Assist</name>
+  <detail>Kill an enemy by knocking him into a laser door (Single Player)</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>Excessive Stacking</name>
+  <detail>Stack all 3 crates near the end of Chapter 11 (Single Player)</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>Hindenburger</name>
+  <detail>Kill all penguins stationed on the zeppelin in Chapter 3 (Single Player)</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>Dirigibully</name>
+  <detail>Kill all penguins stationed on the small zeppelin in Chapter 8 (Single Player)</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="S" pid="000">
+  <name>Big Blimpin'</name>
+  <detail>Kill all penguins stationed on the big zeppelin in Chapter 8 (Single Player)</detail>
+ </trophy>
+</trophyconf>

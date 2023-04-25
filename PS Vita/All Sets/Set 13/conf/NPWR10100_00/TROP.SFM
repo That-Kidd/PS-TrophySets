@@ -1,0 +1,128 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000005e2d6e664147958f5ec46deadc0ed693224bdfad8050d736bef92217cef6ad804c55398182fb1669600d35f00c264d4108409e6917030750d5ecee81a6e0443151092481e5af5c9643d57c6f6f9812e8cd270bd7d475cb97ac0d7d74b90b98b0a956e6e4b279b98b921167d469b68da1897dd55ff066c1ee4b7f66965a2b33cccefb3cead3fc05e74dc5b192b21692bcc04e8712-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR10100_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>三国恋戦記～思いでがえし～</title-name>
+ <title-detail>三国恋戦記～思いでがえし～のトロフィーです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>コンプリート</name>
+  <detail>全てのトロフィーを獲得</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="S" pid="000">
+  <name>婚儀の前に</name>
+  <detail>永遠恋々・玄徳篇を読んだ</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="S" pid="000">
+  <name>過去と未来と向こうとこっち</name>
+  <detail>永遠恋々・雲長篇を読んだ</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="S" pid="000">
+  <name>初めての喧嘩</name>
+  <detail>永遠恋々・翼徳篇を読んだ</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="S" pid="000">
+  <name>恋の十カ条</name>
+  <detail>永遠恋々・子龍篇を読んだ</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="S" pid="000">
+  <name>夢見た未来</name>
+  <detail>永遠恋々・孔明篇を読んだ</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="000">
+  <name>最果ての廟</name>
+  <detail>永遠恋々・孟徳篇を読んだ</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>王佐の異変</name>
+  <detail>永遠恋々・文若篇を読んだ</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>新婚初夜</name>
+  <detail>永遠恋々・仲謀篇を読んだ</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>雄弁な沈黙</name>
+  <detail>永遠恋々・公瑾篇を読んだ</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>早安の秘密</name>
+  <detail>永遠恋々・早安篇を読んだ</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>汗顔同道</name>
+  <detail>ひとひらの思いで「汗顔同道」を読んだ</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="B" pid="000">
+  <name>伏龍の布石</name>
+  <detail>ひとひらの思いで「伏龍の布石」を読んだ</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="000">
+  <name>夜回り二人組</name>
+  <detail>ひとひらの思いで「夜回り二人組」を読んだ</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="B" pid="000">
+  <name>かけっこ</name>
+  <detail>ひとひらの思いで「かけっこ」を読んだ</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>偉君の忠告</name>
+  <detail>ひとひらの思いで「偉君の忠告」を読んだ</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="G" pid="000">
+  <name>ひとひらの思いで</name>
+  <detail>ひとひらの思いでを全て読んだ</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="G" pid="000">
+  <name>三都賦</name>
+  <detail>三都賦を読んだ</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="S" pid="000">
+  <name>月見酒</name>
+  <detail>パートナーを玄徳にして三国漫遊記をクリアした</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="S" pid="000">
+  <name>宝物庫見物</name>
+  <detail>パートナーを雲長にして三国漫遊記をクリアした</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="S" pid="000">
+  <name>果物狩り</name>
+  <detail>パートナーを翼徳にして三国漫遊記をクリアした</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="S" pid="000">
+  <name>二人で温泉</name>
+  <detail>パートナーを子龍にして三国漫遊記をクリアした</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="S" pid="000">
+  <name>高楼で星見</name>
+  <detail>パートナーを孔明にして三国漫遊記をクリアした</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="S" pid="000">
+  <name>象に乗って</name>
+  <detail>パートナーを孟徳にして三国漫遊記をクリアした</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="S" pid="000">
+  <name>美味しいお茶</name>
+  <detail>パートナーを文若にして三国漫遊記をクリアした</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="S" pid="000">
+  <name>賑やかな市</name>
+  <detail>パートナーを仲謀にして三国漫遊記をクリアした</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="S" pid="000">
+  <name>『からおけ』</name>
+  <detail>パートナーを公瑾にして三国漫遊記をクリアした</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="S" pid="000">
+  <name>川下り</name>
+  <detail>パートナーを早安にして三国漫遊記をクリアした</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="G" pid="000">
+  <name>CG鑑賞コンプリート</name>
+  <detail>CG鑑賞をコンプリート</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="G" pid="000">
+  <name>音楽鑑賞コンプリート</name>
+  <detail>音楽鑑賞をコンプリート</detail>
+ </trophy>
+</trophyconf>

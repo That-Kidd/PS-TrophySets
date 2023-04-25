@@ -1,0 +1,48 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000008d72b815ac50fcaa9b91882843686750e668752f15ca1e7dba894353da32ff48e154c514367c1d6deda30d7704a3fa4ce62328823ff71ce011c80160ca9586818822d48e4e6a4c98c928e43b800bb48a1ba0179eb3adb996fecf698b8f56e65dca6895e4c531e89e5d2eb721d6939d83ee98d734894bb5df3ea1ea12e89fd7c3aa3f244930fdf6fef8f9635f964ea12a87cdc7e1-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="small">
+ <npcommid>NPWR16030_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Chronus Arc</title-name>
+ <title-detail>Trophy set for Chronus Arc</title-detail>
+ <trophy id="000" hidden="yes" ttype="B" pid="-1">
+  <name>Beginning of the Journey</name>
+  <detail>Clear 5 missions.</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="-1">
+  <name>Far Away</name>
+  <detail>Clear 15 missions.</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="-1">
+  <name>Legendary Adventurer</name>
+  <detail>Clear 25 missions.</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="S" pid="-1">
+  <name>Game Clear!</name>
+  <detail>Watch the ending.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="-1">
+  <name>Kiribay Hero</name>
+  <detail>Clear all quests in Kiribay.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="-1">
+  <name>Sein Hero</name>
+  <detail>Clear all quests in Sein.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="-1">
+  <name>Gozless Hero</name>
+  <detail>Clear all quests in Gozless.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="-1">
+  <name>Iatt Hero</name>
+  <detail>Clear all quests in Iatt.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="-1">
+  <name>Bagas Hero</name>
+  <detail>Clear all quests in Bagas.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="-1">
+  <name>My Hero!</name>
+  <detail>Clear all in-game quests.</detail>
+ </trophy>
+</trophyconf>

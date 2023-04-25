@@ -1,0 +1,216 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000004dda139d850e43be8bdd5e5136ad7843bc7d0942bcebd6e3219309582b9e57ad24aa8d7c84958c749f5082a5114f3fa94466d069494ac3d063a780f1b06b8d4b767b48c09388727b6b7fc1ba44187a968c42eae42f65883b52afb682a881ce3f372ecf8612155c872f47511a053e84d7b654066ba5eab38d62fe9c7c5d82df3c47a87156acd4ea7c855f214c1bdae863c21cd749-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR15889_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Pato Box</title-name>
+ <title-detail>Trophy set for Pato Box</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Patogod</name>
+  <detail>Full mastery of Pato Box!</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Auf WiederPato</name>
+  <detail>Defeat Miss Brauch Enten</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>Full Metal Pato</name>
+  <detail>Defeat Brauch without getting hit</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Fully charged</name>
+  <detail>Destroy only one battery at a time in Brauch's fight</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>Lucky 7</name>
+  <detail>Defeat Kilpatrick at the Casino</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>All in</name>
+  <detail>Defeat Kilpatrick without getting hit</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>Who is laughing now?</name>
+  <detail>Interrupt Kilpatrick's headbutt 5 times before defeating him</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>Bon Appetit</name>
+  <detail>Defeat Pizzicanatra at the Food Factory</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>Ironchef</name>
+  <detail>Defeat Pizzicanatra without getting hit</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>Food Fight</name>
+  <detail>Don't make Pizzicanatra vomit</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>Party hard</name>
+  <detail>Defeat Plaganetes at the Laboratory</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>Beat Master</name>
+  <detail>Defeat Plaganetes without getting hit</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>Duckstep</name>
+  <detail>Defeat Plaganetes without repeating a phase</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>Pest Control</name>
+  <detail>Defeat Vorutki at the Sewers</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>Fireproof</name>
+  <detail>Defeat Vorutki without getting hit</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>Demolition Pato</name>
+  <detail>Return all of Vorutki's Bombs.</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>Treason</name>
+  <detail>Defeat Faith at the Penthouse</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="S" pid="000">
+  <name>Helloooo Nurse!</name>
+  <detail>Defeat Faith without getting hit</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>Winners don't use drugs</name>
+  <detail>Don't let the penthouse boss use the syringe on you</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Dying Flock</name>
+  <detail>Defeat Mr. Den at the Penthouse</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>The real boss</name>
+  <detail>Defeat Mr. Den without getting hit</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>No flying allowed</name>
+  <detail>Defeat Mr. Den at the Heliport</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>Sherlock Duck</name>
+  <detail>Open the secret door in the lobby</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>Happy Family</name>
+  <detail>Open all the doors at the living quarters</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>WINNING</name>
+  <detail>Win the first prize on the roulette</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>Ducking</name>
+  <detail>Finish the Factory without dying</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>Suit up</name>
+  <detail>Get ready for business at the office</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>Vermin Mathematics</name>
+  <detail>Find all the rats in the sewers</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>Duck, Duck, Duck, Duck...</name>
+  <detail>Find all the patokens in the game</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>Retribution</name>
+  <detail>Finish story mode.</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="G" pid="000">
+  <name>The End</name>
+  <detail>Getting answers</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>Freeze Pato!</name>
+  <detail>Freeze Junior in the laboratory</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>Greeting Ducks</name>
+  <detail>Find all Patokens at the Lobby</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>Foie Gras</name>
+  <detail>Find all Patokens at the Food Factory</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>Gambling Ducks</name>
+  <detail>Find all the Patokens at the Casino</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>Duck Science</name>
+  <detail>Find all Patokens at the Laboratory</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>Crocoducks</name>
+  <detail>Find all Patokens at the Sewers</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>Duck Investments</name>
+  <detail>Find all Patokens at the Offices</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>Just an imitation</name>
+  <detail>Defeat Dark Pato</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="000">
+  <name>Lazy eye</name>
+  <detail>Defeat Dark Pato without missing a single eye shine</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="B" pid="000">
+  <name>Untouchable</name>
+  <detail>Defeat Dark Pato without getting hit</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="B" pid="000">
+  <name>Rush of Death</name>
+  <detail>Finish the Boss Rush in Arcade Mode</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="B" pid="000">
+  <name>German studies</name>
+  <detail>Get an S Rank in Brauch's fight in Arcade Mode</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="B" pid="000">
+  <name>Pyrotechnics</name>
+  <detail>Get an S Rank in Vorutki's fight in Arcade Mode</detail>
+ </trophy>
+ <trophy id="044" hidden="no" ttype="B" pid="000">
+  <name>Cooking 101</name>
+  <detail>Get an S Rank in Pizzicanatra's fight in Arcade Mode</detail>
+ </trophy>
+ <trophy id="045" hidden="no" ttype="B" pid="000">
+  <name>Ethnomusicology</name>
+  <detail>Get an S Rank in Plaganetes's fight in Arcade Mode</detail>
+ </trophy>
+ <trophy id="046" hidden="no" ttype="B" pid="000">
+  <name>Physical Education</name>
+  <detail>Get an S Rank in Kilpatrick's fight in Arcade Mode</detail>
+ </trophy>
+ <trophy id="047" hidden="no" ttype="B" pid="000">
+  <name>Toxicology</name>
+  <detail>Get an S Rank in Faith's fight in Arcade Mode</detail>
+ </trophy>
+ <trophy id="048" hidden="no" ttype="B" pid="000">
+  <name>Anatidae</name>
+  <detail>Get an S Rank in Dark Pato's fight in Arcade Mode</detail>
+ </trophy>
+ <trophy id="049" hidden="no" ttype="B" pid="000">
+  <name>Ornithology</name>
+  <detail>Get an S Rank in Boss Rush mode in Arcade Mode</detail>
+ </trophy>
+ <trophy id="050" hidden="no" ttype="G" pid="000">
+  <name>Anas platyrhynchos</name>
+  <detail>Get an S Rank in all fights and modes in Arcade Mode</detail>
+ </trophy>
+ <trophy id="051" hidden="no" ttype="B" pid="000">
+  <name>Spending time at the Arcade</name>
+  <detail>Defeat all the bosses in Arcade Mode</detail>
+ </trophy>
+</trophyconf>

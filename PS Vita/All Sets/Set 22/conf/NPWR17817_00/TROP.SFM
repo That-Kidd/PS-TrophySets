@@ -1,0 +1,112 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000002ecda42523793c8336651c97f18c0c9dd3ad850b7c0d64cac3185b9d3008dfac551666ec9f650aecb579c3f4db0d08155165463f987da12b6d9e8b9672d255309ded8657a409fd29b2ea4085a156d5e5fe3e51d1274ede0acb9c2e491066b7fc63283cebfe901cb4674fdf96d72d7becf673b720907e5156604208e222d5b800e976c7494ddd3ec3fd8ee5c17a55028346b9456-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR17817_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Devious Dungeon 2</title-name>
+ <title-detail>Devious Dungeon 2</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Platinum Adventurer</name>
+  <detail>Get all trophies.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Training Complete</name>
+  <detail>Completed the training level.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Level Up!</name>
+  <detail>Leveled up for the first time!</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Book Worm</name>
+  <detail>Read 5 tomes.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>Cat-like Reflexes</name>
+  <detail>Destroy an arrow in mid-air.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>I'm Not Lost!</name>
+  <detail>Checked the map screen.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>Locksmith</name>
+  <detail>Collect 60 keys.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>Armed and Dangerous</name>
+  <detail>Buy a new weapon.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>Suit Up!</name>
+  <detail>Buy some armor!</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>Shiny Trinket</name>
+  <detail>Buy a trinket.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>Strange Brew</name>
+  <detail>Buy a potion.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>Holy Hands</name>
+  <detail>Received healing from the Priest!</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>Crate Crusher!</name>
+  <detail>Destroy 100 crates.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>Death Bringer!</name>
+  <detail>Kill more than 100 enemies.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>Finders Keepers</name>
+  <detail>Found a lost treasure.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>The Collector 1</name>
+  <detail>Find 3 the lost treasure.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="G" pid="000">
+  <name>The Collector 2</name>
+  <detail>Find 6 the lost treasure.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Wanted Dead Not Alive</name>
+  <detail>Found and killed a wanted mini-boss.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>Bounty Hunter 1</name>
+  <detail>Collect the bounties on 3 mini-bosses.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="G" pid="000">
+  <name>Bounty Hunter 2</name>
+  <detail>Collect the bounties on 6 mini-bosses.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="G" pid="000">
+  <name>Eat Dirt!</name>
+  <detail>Defeat the Earth Elemental Boss.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="G" pid="000">
+  <name>Dead Undead!</name>
+  <detail>Defeat the Undead Knight Boss.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="G" pid="000">
+  <name>Trolled</name>
+  <detail>Defeat the Cave Troll Boss.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="G" pid="000">
+  <name>Worm Food</name>
+  <detail>Defeat the Slug Boss.</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="G" pid="000">
+  <name>Summoned</name>
+  <detail>Defeat the Summoner Boss.</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="G" pid="000">
+  <name>Legendary Hero</name>
+  <detail>Complete the game.</detail>
+ </trophy>
+</trophyconf>

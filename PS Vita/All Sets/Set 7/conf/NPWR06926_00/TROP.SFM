@@ -1,0 +1,180 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000ee2418d9a1b96b22d840c420a0c93b1a3b0389fd39df0a09d8692540ead79a280e52ae2a83070b67d6d30675bbe4c7367998fd2944e776eb8c149c563123e7621a9e53ff9e8b78f3ecf54915680a4e1329a7727a6b6db30cdc0c21d1f79dad78046d9134665837228897742ad6bdf630b64ce515d1071026898a02340e883b84e8fc674fe72ce46f271d233dda030ea8f306258b-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR06926_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Rewrite</title-name>
+ <title-detail>Rewrite</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>コンプリート</name>
+  <detail>すべてのトロフィーを獲得した</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>命の旅</name>
+  <detail>小鳥ルートをクリア</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>桜、ひとひら</name>
+  <detail>ちはやルートをクリア</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>千里の道へ</name>
+  <detail>朱音ルートをクリア</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>ただいま</name>
+  <detail>静流ルートをクリア</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>ひまわり</name>
+  <detail>ルチアルートをクリア</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="000">
+  <name>月にいる少女</name>
+  <detail>Moonをクリア&#x0a;</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="G" pid="000">
+  <name>Rewrite</name>
+  <detail>Terraをクリア</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>ネタ『恐怖！　オッサン軍団』</name>
+  <detail>ネタ『恐怖！　オッサン軍団』達成</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="000">
+  <name>ネタ『校内でツチノコ目撃！？』</name>
+  <detail>ネタ『校内でツチノコ目撃！？』達成</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="000">
+  <name>ネタ『街に漂う謎の飛来物！？』</name>
+  <detail>ネタ『街に漂う謎の飛来物！？』達成&#x0a;</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>ネタ『敷金礼金なし、幽霊同居物件案内』</name>
+  <detail>ネタ『敷金礼金なし、幽霊同居物件案内』達成</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="B" pid="000">
+  <name>ネタ『森に住む怪人！？　木人伝説を追う！』</name>
+  <detail>ネタ『森に住む怪人！？　木人伝説を追う！』達成</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="000">
+  <name>ネタ『街中に謎の建造物・心霊スポットの噂』</name>
+  <detail>ネタ『街中に謎の建造物・心霊スポットの噂』達成</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="B" pid="000">
+  <name>ネタ『Ｔレックスは二世紀まで生きていた！』</name>
+  <detail>ネタ『Ｔレックスは二世紀まで生きていた！』達成</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>ネタ『僕は超能力者です』</name>
+  <detail>ネタ『僕は超能力者です』達成</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>ネタ『僕が本当の超能力者です』</name>
+  <detail>ネタ『僕が本当の超能力者です』達成</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>ネタ『僕こそ正真正銘の超能力者です』</name>
+  <detail>ネタ『僕こそ正真正銘の超能力者です』達成</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>ネタ『超＆霊能力者詰め合わせパック』</name>
+  <detail>ネタ『超＆霊能力者詰め合わせパック』達成</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>ネタ『超能力少女現る』</name>
+  <detail>ネタ『超能力少女現る』達成</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="000">
+  <name>ネタ『人形使い』</name>
+  <detail>ネタ『人形使い』達成</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>ネタ『七不思議の１　謎の異次元空間への入口』</name>
+  <detail>ネタ『七不思議の１　謎の異次元空間への入口』達成</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="B" pid="000">
+  <name>ネタ『七不思議の２　あかずの扉』</name>
+  <detail>ネタ『七不思議の２　あかずの扉』達成</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>ネタ『七不思議の３　ベートーベンの謎』</name>
+  <detail>ネタ『七不思議の３　ベートーベンの謎』達成</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="000">
+  <name>ネタ『七不思議の４　トイレの花子さん』</name>
+  <detail>ネタ『七不思議の４　トイレの花子さん』達成</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="B" pid="000">
+  <name>ネタ『七不思議の５　階段が怪談！？』</name>
+  <detail>ネタ『七不思議の５　階段が怪談！？』達成</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>ネタ『七不思議の６　理科室で歩くアレ…？』</name>
+  <detail>ネタ『七不思議の６　理科室で歩くアレ…？』達成</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="B" pid="000">
+  <name>ネタ『七不思議の７　あかいひと』</name>
+  <detail>ネタ『七不思議の７　あかいひと』達成</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="B" pid="000">
+  <name>ネタ『七不思議の８　？？？』</name>
+  <detail>ネタ『七不思議の８　？？？』達成</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="B" pid="000">
+  <name>Taste her plate</name>
+  <detail>ルチアのお皿イベントコンプリート&#x0a;</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="S" pid="000">
+  <name>Elphom bless you</name>
+  <detail>エロホム様のお導きコンプリート</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="S" pid="000">
+  <name>Seeker of the Truth</name>
+  <detail>井上にレポート送信コンプリート</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="B" pid="000">
+  <name>Play with Yoshino</name>
+  <detail>吉野と一緒に楽しむイベントコンプリート</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="S" pid="000">
+  <name>Say it with flowers</name>
+  <detail>小鳥の種まき依頼コンプリート</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="S" pid="000">
+  <name>Weekend Quest</name>
+  <detail>週末調査イベントコンプリート</detail>
+ </trophy>
+ <trophy id="035" hidden="yes" ttype="S" pid="000">
+  <name>Proof of Paranormal Phenomena</name>
+  <detail>朱音のおっぱいを揉むイベント（？）コンプリート</detail>
+ </trophy>
+ <trophy id="036" hidden="yes" ttype="S" pid="000">
+  <name>Spoiled end</name>
+  <detail>バッドエンドコンプリート</detail>
+ </trophy>
+ <trophy id="037" hidden="yes" ttype="S" pid="000">
+  <name>100Friends</name>
+  <detail>切なる願い「友達を１００人集める！」コンプリート</detail>
+ </trophy>
+ <trophy id="038" hidden="yes" ttype="G" pid="000">
+  <name>All Friends</name>
+  <detail>フレンドリストコンプリート</detail>
+ </trophy>
+ <trophy id="039" hidden="yes" ttype="G" pid="000">
+  <name>マッピーマスター</name>
+  <detail>全マッピーコンプリート</detail>
+ </trophy>
+ <trophy id="040" hidden="yes" ttype="B" pid="000">
+  <name>愛と涙の劇場・式神ともこの最終決戦</name>
+  <detail>式神ともこのイベントを見た</detail>
+ </trophy>
+ <trophy id="041" hidden="yes" ttype="S" pid="000">
+  <name>おっぱいわっしょい！</name>
+  <detail>おっぱいエンドを見た</detail>
+ </trophy>
+ <trophy id="042" hidden="yes" ttype="S" pid="000">
+  <name>スクモンチャンピオン</name>
+  <detail>スクモンチャンピオンを倒した</detail>
+ </trophy>
+</trophyconf>

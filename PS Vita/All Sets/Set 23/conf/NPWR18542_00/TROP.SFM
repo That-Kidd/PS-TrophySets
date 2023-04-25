@@ -1,0 +1,84 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000009ad914b1f448c4a13fc108b76f2efa8e3a31f375b8b9f70a69a66fdb2931c46ae404e6a09c2e417da32bd794c42be87588de193475718cd1e98ca6f83cb78a00f46ec940394511c10ef847c0f7bd6d90b00de0ae537049de3a77d8543a6b9a45d7477aa2d8a99e698d70ed92a25855835b8210f71e3855c55d6290422d920104cb76e858e987e3048512e45aabe27a480175dc7-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR18542_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Super Wiloo Demake</title-name>
+ <title-detail>Super Wiloo Demake</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Platinum Wiloo</name>
+  <detail>Get all other trophies.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="000">
+  <name>The Journey Begins</name>
+  <detail>You have finished the first level.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Got Some Coins</name>
+  <detail>You got 100 coins.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>Got Many Coins</name>
+  <detail>You got 500 coins.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>Got a lot of Coins</name>
+  <detail>You got 1.000 coins.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>Got Rich! </name>
+  <detail>You got 2.000 coins</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>Playing with Cards I</name>
+  <detail>You have unlocked the first bonus stage!</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>Dress up</name>
+  <detail>Try bee costume.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>Deception</name>
+  <detail>Try the turtle costume.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>Nobody will recognize me</name>
+  <detail>Try the unicorn costume.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>Does it protect? </name>
+  <detail>Try the armadillo costume.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>Feeling special</name>
+  <detail>Get 3 special coins.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>Collector</name>
+  <detail>Get 20 special coins.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="000">
+  <name>My speciality</name>
+  <detail>Get 35 special coins.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="000">
+  <name>Getting started</name>
+  <detail>Defeat 100 enemies.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="G" pid="000">
+  <name>Well done</name>
+  <detail>Defeat 250 enemies.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="G" pid="000">
+  <name>No mercy</name>
+  <detail>Defeat 350 enemies.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="G" pid="000">
+  <name>You will be a legend</name>
+  <detail>Defeat 1st boss.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="G" pid="000">
+  <name>Friends again</name>
+  <detail>Defeat 2nd boss.</detail>
+ </trophy>
+</trophyconf>

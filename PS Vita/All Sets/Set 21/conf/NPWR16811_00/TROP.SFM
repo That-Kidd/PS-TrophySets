@@ -1,0 +1,80 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000038ae0402d88adc2a77ae25e77a6c93f5226c5fb7fd92f89bf0968f1e9cf263e05ac9bc92e231d2521eb8dc1504b0aa315e1ac34f16200ae73c27f376893296d7ffb2d4aae4cd7ab60d0f08f26685098411ad08a358828bdfb47c71f24dc1ec076e34df03d3117f3b1f92a7ff8711e54261c296d4b6a85ab927ad34a438b4191e196a87075f507511452dfc519a1b89b5f857491-->
+<trophyconf version="1.1" platform="ps3,psp2,ps4" policy="large">
+ <npcommid>NPWR16811_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>スキとスキとでサンカク恋愛</title-name>
+ <title-detail>『スキとスキとでサンカク恋愛』トロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>スキとスキとでサンカク恋愛</name>
+  <detail>全てのトロフィーを取得した</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>選択肢を全部教えますね！</name>
+  <detail>最初の選択肢を選んだ</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>はじめてでごじゃる！</name>
+  <detail>初めてイベントCGを見た</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>だってだって……私だよ？小森江七瑠だよ？</name>
+  <detail>「小森江七瑠」ルートに入った</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>ニイサンがスキ……兄さんが、好き？</name>
+  <detail>「小森江すず」ルートに入った</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>好きだ宗介！あたしと……恋人になってくれ</name>
+  <detail>「鳴滝真帆」ルートに入った</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>宗介君宗介くん宗介くーん！好きっ！大好きです～！</name>
+  <detail>「木須志衣菜」ルートに入った</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>やったね！カーラちゃんルートでごじゃる！</name>
+  <detail>「カーラ・オリヴィア」ルートに入った</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>ただ今より腐女子とは何かをレクチャーします</name>
+  <detail>「和呂田茜」ルートに入った</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>いっぱい幸せにしてよね、お兄ちゃん♪</name>
+  <detail>「小森江七瑠」ルートをクリアした</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>これからも……ずっとずっと、一緒だよっ！！</name>
+  <detail>「小森江すず」ルートをクリアした</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>よぉ～しっ、燃えてきたぞっ！</name>
+  <detail>「鳴滝真帆」ルートをクリアした</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>宗介君はっ、私のものなんです――っ！！</name>
+  <detail>「木須志衣菜」ルートをクリアした</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="G" pid="000">
+  <name>しぇんぱいのお嫁さまでごじゃる～っ！！</name>
+  <detail>「カーラ・オリヴィア」ルートをクリアした</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="G" pid="000">
+  <name>私の彼氏なら、とことん付き合ってもらう</name>
+  <detail>「和呂田茜」ルートをクリアした</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="G" pid="000">
+  <name>ハーレムルートとかないんでっ！</name>
+  <detail>全てのルートをクリアした</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="G" pid="000">
+  <name>MUSICコンプリート</name>
+  <detail>ゲーム中に全てのBGMを聞いた</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="G" pid="000">
+  <name>CGコンプリート</name>
+  <detail>全てのイベントＣＧを見た</detail>
+ </trophy>
+</trophyconf>

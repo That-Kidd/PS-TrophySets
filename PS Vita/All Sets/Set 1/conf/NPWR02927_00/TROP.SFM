@@ -1,0 +1,128 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000c6deb8f553967a09554849f21424273f2232b41480129c1a1a2caeedc44be12fa041a3aea14a1fdedbdbc0be943cfb1c712fa6c12f0a9eeacb21d98b3cec81d32fa54f3e00a02463b5c7e9f0aa2ccf8474e24df3a4c02019bfecd956c31f2ec757464d98f246b941a18f9089d0cea1059043a9bcb1c901cac9c64866134997612c622c19d233fc79b27b0cc0f3783353c799adba-->
+<trophyconf version="1.1" platform="psp2">
+ <npcommid>NPWR02927_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Army Corps of Hell</title-name>
+ <title-detail>"Army Corps of Hell" Trophies.</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Overlord of the Underworld</name>
+  <detail>Obtained all trophies.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Resurrection Inceptor</name>
+  <detail>Cleared the first stage.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Lord of Hell</name>
+  <detail>Cleared up to stage 20.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Hell's Soldiers</name>
+  <detail>Cleared a stage between 11 and 20 with soldiers only.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>Hell's Spearmen</name>
+  <detail>Cleared a stage between 11 and 20 with spearmen only.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>Hell's Magi</name>
+  <detail>Cleared a stage between 11 and 20 with magi only.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>Infamy of Hell</name>
+  <detail>Cleared a stage between 11 and 20 with an overall platinum rating.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>Lord of Purgatory</name>
+  <detail>Cleared all Purgatory stages (21-30).</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>Purgatory's Soldiers</name>
+  <detail>Cleared a Purgatory stage (21-30) with soldiers only.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>Purgatory's Spearmen</name>
+  <detail>Cleared a Purgatory stage (21-30) with spearmen only.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>Purgatory's Magi</name>
+  <detail>Cleared a Purgatory stage (21-30) with magi only.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>Infamy of Purgatory</name>
+  <detail>Cleared a Purgatory stage (21-30) with an overall platinum rating.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>Lord of Tartarus</name>
+  <detail>Cleared all Tartarus stages (31-40).</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="000">
+  <name>Infamy of Tartarus</name>
+  <detail>Cleared a Tartarus stage (31-40) with an overall platinum rating.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="000">
+  <name>Pinnacle of Gore</name>
+  <detail>Exceeded 66,666 jewels in your possession.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>Grim Trailer</name>
+  <detail>Achieved an overall platinum rating ten or more times.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Hell's Serenader</name>
+  <detail>Achieved the maximum rating (excellent) in one of the musical instrument mini-games.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Sin's Slaughterer</name>
+  <detail>Crushed 100 foes.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>Eternal Reaper</name>
+  <detail>Crushed 1,000 foes.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="G" pid="000">
+  <name>Cleanser of Hell</name>
+  <detail>Crushed 3,000 foes.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>Demon God's Bane</name>
+  <detail>Defeated all bosses.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>Bastion of Bloodshed</name>
+  <detail>Completely filled the Demonic Compendium.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>Sage of Antiquity</name>
+  <detail>Alchemized first equipment for soldiers.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>Champion of Courage</name>
+  <detail>Alchemized first equipment for spearmen.</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>Ringleader of the Wretched</name>
+  <detail>Alchemized first equipment for magi.</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>Sage of the Abyss</name>
+  <detail>Alchemized all consumable items.</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="S" pid="000">
+  <name>Sage of Swords</name>
+  <detail>Alchemized all weapons and armor for soldiers.</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="S" pid="000">
+  <name>Sage of Spears</name>
+  <detail>Alchemized all weapons and armor for spearmen.</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="S" pid="000">
+  <name>Sage of Staffs</name>
+  <detail>Alchemized all weapons and armor for magi.</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="G" pid="000">
+  <name>Alchemist of Hell</name>
+  <detail>Alchemized all possible weapons, armor, and items.</detail>
+ </trophy>
+</trophyconf>

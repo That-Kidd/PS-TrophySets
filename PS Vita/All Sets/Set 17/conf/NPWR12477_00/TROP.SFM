@@ -1,0 +1,36 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000bfd7d7feb79601da30472ddd7fe5993697e0aeae58768bed11c3a3cbfed25b94fc89fe736b016125d107b369a9c3abb2bf9808790e9a8dc59e85206e79907af9c65ea8f07af8bda250f5cd8d850b27507e5a332cfe5b903dc5f4b9c9f850ad763b6cb9781f21b895d2a83285b589a9de77040751bcf08597927385807ef2935d9554648027b28fb2ebb0a35c92211416f804927f-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR12477_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Geki Yaba Runner</title-name>
+ <title-detail>Geki Yaba Runner</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Warm-up</name>
+  <detail>Get 20 cups</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="-1">
+  <name>Competition</name>
+  <detail>Get 80 cups</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="-1">
+  <name>Victory</name>
+  <detail>Get all cups</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Neat Gnome</name>
+  <detail>Get 100 socks</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="-1">
+  <name>Collector</name>
+  <detail>Get 500 socks</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="-1">
+  <name>Sock Monster</name>
+  <detail>Get 1000 socks</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Splash</name>
+  <detail>Die 200 times</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,200 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000008c18cb7305d1b80619fba18e1f677ff6720304957d7af02904b125a119a360bde1cdc49fce451b724b02cfb7c3f185ce079794980d0f5bf6656324acaa7a40c1c4a1f9b7ec38be2e5b31fed19097ee003bf8c2cc29596c8462f37f88d78604e3432ac10f7db05d3c8da2bf72b8c7baed4aa75520d231538fe594ad985356965ea0f035f56855bf517931fa3aa5e6d7a265852ca8-->
+<trophyconf version="1.1" platform="psp2">
+ <npcommid>NPWR03092_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Doctor Who: The Eternity Clock</title-name>
+ <title-detail>Doctor Who: The Eternity Clock Trophies</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Time Lord</name>
+  <detail>Collect all Trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Smooth Operator</name>
+  <detail>Press 10 TARDIS console buttons</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Thorough</name>
+  <detail>Scan 10 objects</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Head scratcher</name>
+  <detail>Collect 5 Hats</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>Paper trail</name>
+  <detail>Collect 5 Diary pages</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>Brimming with enthusiasm</name>
+  <detail>Collect 10 Hats</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>Short story</name>
+  <detail>Collect 10 Diary pages</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>Hat's off to you</name>
+  <detail>Collect 20 Hats</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>Long story</name>
+  <detail>Collect 20 Diary pages</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="000">
+  <name>Crate work</name>
+  <detail>Use the gold bullion crate to smash your way out of the Bank of England</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>The Stormcage Redemption</name>
+  <detail>Escape the Stormcage without being detected</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>Pucker Up</name>
+  <detail>Kiss 6 Stormcage Guards</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>Quick Getaway</name>
+  <detail>Escape Stormcage in 8 minutes</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="000">
+  <name>Fast on your feet</name>
+  <detail>Beat the Cybermen to the Underground refugee camp</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="B" pid="000">
+  <name>On the right tracks</name>
+  <detail>Defeat the Cybermen in the Underground refugee camp</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>Stunning work</name>
+  <detail>Stun 5 Cybermen</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>A Plumb Job</name>
+  <detail>Re-route the gas pipe plans in Victorian London</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>Hack Job</name>
+  <detail>Open the security door in the office block</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>Tested to Destruction</name>
+  <detail>Re-route the thermionic consoles in the Cyberfactory</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="S" pid="000">
+  <name>Deleted</name>
+  <detail>Finish the Cyberfactory in 20 minutes</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="000">
+  <name>The Open Road</name>
+  <detail>Lower the drawbridge on Old London Bridge</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>No time to hang around</name>
+  <detail>Collect the Stasis Field Generator in the Silence Base</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="S" pid="000">
+  <name>Elementary</name>
+  <detail>Finish return to Victorian London in 15 minutes</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>Soundly Beaten</name>
+  <detail>Sonic disarm 5 Silurians</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="000">
+  <name>Hello Sweetie</name>
+  <detail>Wake up River in the tomb</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="B" pid="000">
+  <name>Silently Silencing the Silence</name>
+  <detail>Outwit the Silence without being checkpointed</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>Toxic Relationship</name>
+  <detail>Defeat Vekkis</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="B" pid="000">
+  <name>Goodbye Blue Boy</name>
+  <detail>Outwit the Strategist Dalek</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="B" pid="000">
+  <name>The Eyes have it</name>
+  <detail>Quick-shoot 5 Daleks</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="S" pid="000">
+  <name>Beg for Mercy</name>
+  <detail>Power-shoot 5 Daleks</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="B" pid="000">
+  <name>Ye Doctor</name>
+  <detail>Discover the statue in the Elizabethan quadrangle</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="B" pid="000">
+  <name>Winch Way Next</name>
+  <detail>Activate the crane winch in Old St. Pauls</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="B" pid="000">
+  <name>A steal</name>
+  <detail>Defeat the Silence and steal their time capsule</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="B" pid="000">
+  <name>Hello Sexy</name>
+  <detail>Find the TARDIS in the Dalek time lock</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="B" pid="000">
+  <name>Sent packing</name>
+  <detail>Send the Dalek Supreme to Antarctica</detail>
+ </trophy>
+ <trophy id="035" hidden="yes" ttype="S" pid="000">
+  <name>Exterminated</name>
+  <detail>Finish time-locked London in 20 minutes</detail>
+ </trophy>
+ <trophy id="036" hidden="yes" ttype="B" pid="000">
+  <name>One in the eye for the good guy</name>
+  <detail>Shoot the Emperor Dalek in the eyestalk</detail>
+ </trophy>
+ <trophy id="037" hidden="yes" ttype="B" pid="000">
+  <name>Geronimo!</name>
+  <detail>Defeat the Emperor of the Daleks</detail>
+ </trophy>
+ <trophy id="038" hidden="yes" ttype="B" pid="000">
+  <name>Clever clogs</name>
+  <detail>Complete Data Link puzzle in 60 seconds</detail>
+ </trophy>
+ <trophy id="039" hidden="yes" ttype="B" pid="000">
+  <name>Smart Cookie</name>
+  <detail>Complete Re-router puzzle in 60 seconds</detail>
+ </trophy>
+ <trophy id="040" hidden="yes" ttype="B" pid="000">
+  <name>Clear Vision</name>
+  <detail>Complete Mind Map puzzle on Medium or Hard in 60 seconds</detail>
+ </trophy>
+ <trophy id="041" hidden="yes" ttype="S" pid="000">
+  <name>Timey Wimey</name>
+  <detail>Complete a Time Corridor in 2 minutes</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="S" pid="000">
+  <name>Universal Destruction Avoided</name>
+  <detail>Complete the game</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="S" pid="000">
+  <name>Flying Doctor</name>
+  <detail>Complete the game in 300 minutes</detail>
+ </trophy>
+ <trophy id="044" hidden="no" ttype="B" pid="000">
+  <name>Puzzler</name>
+  <detail>Complete the game on puzzle medium difficulty</detail>
+ </trophy>
+ <trophy id="045" hidden="no" ttype="S" pid="000">
+  <name>High IQ</name>
+  <detail>Complete the game on puzzle hard</detail>
+ </trophy>
+ <trophy id="046" hidden="no" ttype="G" pid="000">
+  <name>Diarist</name>
+  <detail>Collect all the Diary Pages</detail>
+ </trophy>
+ <trophy id="047" hidden="no" ttype="G" pid="000">
+  <name>Mad Hatter</name>
+  <detail>Collect all the Hats</detail>
+ </trophy>
+</trophyconf>

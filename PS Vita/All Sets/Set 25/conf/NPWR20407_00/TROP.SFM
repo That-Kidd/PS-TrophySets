@@ -1,0 +1,60 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000cc51ea1a8811f5c332d26a7cf83335d9acf0df468c9bf83540787b0149b81e1fced3b5cfff99a64279fcc450847b0d86366c7b9eb1843e4ade1a3ed2b3e8edabd481bd231471cbfe5d420f1c0dc489f5075fcff4cdaef1a72fec56af1ab3e1c46a931fbb403dda3cc5868aa2c5a7254c691365a8b14974aa2379b1c258119f9ac1b011905995c08f83ea0767e015712775e8cca2-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR20407_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Mushroom Heroes</title-name>
+ <title-detail>All trophies</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>All trophies</name>
+  <detail>All trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>Bye Bye Boduria</name>
+  <detail>Pass the first world&#x0a;</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>Hot time</name>
+  <detail>Pass the second world</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>Heroes</name>
+  <detail>Destroy Gaddar</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>Beginer Mushroom</name>
+  <detail>Optain your first three mushrooms (not tutorial)</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>Senior mushroom</name>
+  <detail>Obtain 9 mushrooms</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>undecided</name>
+  <detail>Change 100 time your mushroom</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>you're a rockstar</name>
+  <detail>Obtain 32 mushrooms&#x0a;</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>Adventurer</name>
+  <detail>Obtain 64 mushrooms</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>God of Mushrooms</name>
+  <detail>Obtain all mushrooms</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>Attack of the killer mushrooms</name>
+  <detail>Obtain 5000 points</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>Start the adventure</name>
+  <detail>Pass tutorial</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>Herbicide</name>
+  <detail>Die 30 times</detail>
+ </trophy>
+</trophyconf>

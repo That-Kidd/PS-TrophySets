@@ -1,0 +1,100 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000fcf551e6990b8996c95c515f59bf47d5ee5e74239ea7b35378eb923c528b1127f22f0a2bf3174467b7ea167b8cf8d295940bbf7d91c5e8adcb519bafe424f46f8da6b0d421ff82ef3c39114d3a0d29ab5d9447ecf89178ee9bcf3019dfa9e355fed961623439249b64de44205593127b406659dd3c279c0ad417834660cb509caf96c114b54bf5c3b28ef0e08db744c39a2e965e-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR16642_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Dragon Fantasy: Volumes of Westeria</title-name>
+ <title-detail>Pure 8-bit RPG Love!</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>The Fantastical Dragon!</name>
+  <detail>Unlock All Trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>Ogden's Story</name>
+  <detail>Complete Chapter 1: Dragon Fantasy</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>Anders' Story</name>
+  <detail>Complete Chapter 2: The Heir Unapparent</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>Jerald's Story</name>
+  <detail>Complete Chapter 3: Operation Desert Plunder</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>High-tech Weaponry</name>
+  <detail>Receive the Woodsman's Finest Pokin' Stick</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>Well Educated</name>
+  <detail>Read 30 Different Books in Ogden's Story.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>With a Little Help...</name>
+  <detail>As Anders, Recruit Punchy, Casty, and Serps at the Same Time</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>Man of Shadows</name>
+  <detail>See How the Cave Troll Acquires the Rusty Helmet&#x0a;</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>Fund Raising</name>
+  <detail>Have Jerald Pick-pocket 25 People&#x0a;</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>Treasure Hunter</name>
+  <detail>Find the Bandit Treasure Room in the Bandit Cave</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>Intermission M</name>
+  <detail>Complete Intermission M: A Minecraft Story</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>Gotta Catch a Few</name>
+  <detail>Have Woodsy Capture 4 Unique Monster Types</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>Intermission R</name>
+  <detail>Complete Intermission R: Ramona's Sneaky Summer</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>Sneaky Sneaky</name>
+  <detail>Complete Intermission R without being seen more than necessary.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>Good Habits</name>
+  <detail>Make a Deposit into the Muteki International Bank</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>Practically Rich</name>
+  <detail>Deposit 25,000 Gold into the Bank</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>With All Due Respect</name>
+  <detail>Pay your respects to MAC</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Making a Better Future</name>
+  <detail>Craft an Item in Intermission M</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>Ooh, So Crafty</name>
+  <detail>Craft 20 Items in Intermission M</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="G" pid="000">
+  <name>The Hard Way</name>
+  <detail>Complete Ogden's Story Without Buying Any Weapons or Armor</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="G" pid="000">
+  <name>Grinding It Out</name>
+  <detail>Complete Jerald's Story Without Completing All the Thieve's Guild Missions</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>Romancing the Orb</name>
+  <detail>Find the Orb Atop The Mountain</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>Thirsty Much?</name>
+  <detail>Retrieve the Pirate's "Soda"</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,60 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000009519863498f33474fee9eb23b1c07aae3290f90635246ac3a7582a1fbdf3a1a668596062e9352f041fa34e89977cfc633d62abda86925893678ec087c8ad1cc5ff3f98617d816d7b9ba5f23a31a58fe960800ee0804abfde93a9dd8a201e265578ddb04dc3a6bb664db1004d89b5a96c1765ae859b2e6a3fe7e0325f1ddbc7b984917589b7e253660843bd6c2cff59d2d838088d-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR21312_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Norman's Great Illusion</title-name>
+ <title-detail>Norman's Great Illusion</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Norman's Great Illusion Platinum</name>
+  <detail>Good job! Completed all tasks!</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>Need to start from something</name>
+  <detail>You have made your first choice</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>It's the End</name>
+  <detail>You have completed the game</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>Three endings</name>
+  <detail>You have reached the ending three times</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>Employee of the month</name>
+  <detail>You have earned a promotion</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>Your kind is not welcomed here</name>
+  <detail>You were fired</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>Real pedestrian</name>
+  <detail>You broke your car</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>This is not rocket science</name>
+  <detail>You failed work minigame</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>You got a reward</name>
+  <detail>You got a bonus</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>Very expensive lesson</name>
+  <detail>You got a penalty</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>Terror is always a bad idea</name>
+  <detail>You burned factory's owner house</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>Undergrounder</name>
+  <detail>You became a member of an underground organization</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>Merry Christmas</name>
+  <detail>You attended a Christmas party</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,132 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000b04245e1040629980992a049241c95ea3c7599c98f32aa2ddb9651fa016b91bd681f3a2038cdd1833ed4e3fb78018e3272552f256529efc12dcc853b1f7a0ecc89767a9c5017bdf0c371c7fdd25eb7f89c0760bf7ef83884f67956dcadff653ea8ae3a5ef88c3135a762bce1ef5fb7c6927ba88aa9571e0215a83ce4d9a6d62c83dba0a29e12a9716087f493e5b2554e1f0bd48b-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR08475_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>신 하야리가미</title-name>
+ <title-detail>신 하야리가미 트로피</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>트로피 완료</name>
+  <detail>모든 트로피를 얻음</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>엔딩 달성률 100%</name>
+  <detail>엔딩을 100% 달성</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>일러스트 획득률 100%</name>
+  <detail>일러스트를 100% 얻음</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>음악 습득률 100%</name>
+  <detail>음악을 100% 얻음</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>데이터베이스 획득률 100%</name>
+  <detail>데이터베이스를 100% 얻음</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>모든 루트 S랭크 클리어</name>
+  <detail>모든 루트를 S랭크로 클리어</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>엔딩 달성률 50%</name>
+  <detail>엔딩 50%이상 달성</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>일러스트 획득률 50%</name>
+  <detail>일러스트를 50%이상 얻음</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>음악 습득률 50%</name>
+  <detail>음악을 50%이상 얻음</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>데이터베이스 획득률 50%</name>
+  <detail>데이터베이스를 50%이상 얻음</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>블라인드맨 편 클리어</name>
+  <detail>블라인드맨 편을 클리어</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>악령 편 클리어</name>
+  <detail>악령 편을 클리어</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>사취 편 클리어</name>
+  <detail>사취 편을 클리어</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>제물 편 클리어</name>
+  <detail>제물 편을 클리어</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>팬더믹 편 클리어</name>
+  <detail>팬더믹 편을 클리어</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="S" pid="000">
+  <name>세뇌 편 클리어</name>
+  <detail>세뇌 편을 클리어</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="S" pid="000">
+  <name>기생충 편 클리어</name>
+  <detail>기생충 편을 클리어</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="S" pid="000">
+  <name>인형 편 클리어</name>
+  <detail>인형 편을 클리어</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="S" pid="000">
+  <name>비밀클럽 편 클리어</name>
+  <detail>비밀클럽 편을 클리어</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>게임 시작</name>
+  <detail>게임을 시작함</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>무비 감상</name>
+  <detail>오프닝 무비를 봄</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>용기 있는 결단</name>
+  <detail>첫 커리지 포인트를 사용</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="B" pid="000">
+  <name>명 추리</name>
+  <detail>첫 추리 로직에서「優」를 받음</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>용기가 나질 않아</name>
+  <detail>커리지 포인트를 모두 사용함</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="000">
+  <name>난 거짓말은 못 해</name>
+  <detail>라이어즈 아트를 한 번도 선택하지 않음</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="B" pid="000">
+  <name>여왕님과 순종적인 돼지</name>
+  <detail>여왕 같은 말투로 가나야를 기쁘게 함</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>내가 혹시 블라인드맨?</name>
+  <detail>내가 바로 블라인드맨이라고 추리함</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="B" pid="000">
+  <name>나 전생이 너구리였나?</name>
+  <detail>전생에 너구리였다는 헛소리를 함</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="B" pid="000">
+  <name>가위바위보 승리</name>
+  <detail>생사를 건 가위바위보에서 승리함</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="B" pid="000">
+  <name>햄으로 보이는 걸</name>
+  <detail>세키모토가 햄인 줄 착각함</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="B" pid="000">
+  <name>손님을 홀리는 응대법</name>
+  <detail>접대부로 히로무땅에게 최고의 응대를 함</detail>
+ </trophy>
+</trophyconf>

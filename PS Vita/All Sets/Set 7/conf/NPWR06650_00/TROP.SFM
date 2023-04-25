@@ -1,0 +1,160 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000e8e41e5fd8a706309ace10473bb7be32ae49585d600ab7728c6a70d69fd26454e6d9beaffb492edb5756f46cbb29700db309f3bc35f6b5ae8a776a16b3ad7b1d4c81ec574ff422317ccd8c90458ebaa8c77ccabd12dfb656b441c8a0cbeec4be85d9439aba745415c38a4c9d34a86bef300b74e50c54ca3fe0cd38be7949fa438ed9995309925f89cb01dbfc85b3d11384b328af-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR06650_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>LEGO® Ninjago™: Nindroids™</title-name>
+ <title-detail>LEGO® Ninjago™: Nindroids™</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>¡Maestro de Ninjago!</name>
+  <detail>Colecciona todos los trofeos</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>Dedicación</name>
+  <detail>Completa el juego al 100%</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="G" pid="000">
+  <name>Dragón dorado</name>
+  <detail>Construye el dragón dorado en el centro</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>Cinturón negro</name>
+  <detail>Completa todos los niveles en historia</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>A mitad del camino</name>
+  <detail>Completa ''Movida ofensiva''</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>Un nuevo contrincante</name>
+  <detail>Completa todos los desafíos en el juego</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>Con mucho talento</name>
+  <detail>Completa todos los multidesafíos</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>¡Suficiente para construir mi propio Dojo!</name>
+  <detail>Recoge 100.000.000 de piezas</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>Millonario</name>
+  <detail>Recoge 1.000.000 de piezas</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>Cambio suelto</name>
+  <detail>Recoge 100.000 piezas</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>Acaparador</name>
+  <detail>Recoge todos los minikits</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>Completo</name>
+  <detail>Recoge y compra todos los ladrillos rojos</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>Una multitud</name>
+  <detail>Desbloquea y compra todos los personajes en el juego</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>Incendio incontrolable</name>
+  <detail>Desbloquea todas las versiones de Kai</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>Ataque relámpago</name>
+  <detail>Desbloquea todas las versiones de Jay</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>Temporal de nieve</name>
+  <detail>Desbloquea todas las versiones de Zane</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Terremoto</name>
+  <detail>Desbloquea todas las versiones de Cole</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Toque dorado</name>
+  <detail>Desbloquea todas las versiones de Lloyd</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>Ejército de esqueletos</name>
+  <detail>Desbloquea todos los esqueletos</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Ascenso de las serpientes</name>
+  <detail>Desbloquea todas las serpientes</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>Me encantan los ladrillos rojos</name>
+  <detail>Usa cada ladrillo rojo al menos una vez para completar un nivel</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>Basura</name>
+  <detail>Vence a 500 Nindroides</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>Inmutable</name>
+  <detail>Vence a 50 Nindroides con escudos</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>Ojos láser</name>
+  <detail>Vence a 25 Nindroides que disparan láseres</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>Maestro del Spinjitzu</name>
+  <detail>Vence a 100 enemigos usando movimientos especiales</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>Solo abrazando</name>
+  <detail>Vence a 25 enemigos usando el ataque de agarrar</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>Ataque desde arriba</name>
+  <detail>Vence a 10 enemigos usando el ataque golpe al suelo</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>Tostado</name>
+  <detail>Vence a 10 enemigos con fuego de LEGO</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>A caballito</name>
+  <detail>Vence a 20 robots saltando encima de sus espaldas</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>Rabieta</name>
+  <detail>Pisotea 50 objetos usando robots</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>Noveno kyu</name>
+  <detail>Completa la dificultad fácil en el Dojo</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="S" pid="000">
+  <name>Quinto kyu</name>
+  <detail>Completa la dificultad media en el Dojo</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="G" pid="000">
+  <name>Primer dan</name>
+  <detail>Completa la dificultad difícil en el Dojo</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>Piratería</name>
+  <detail>Completa el minijuego de piratear 10 veces</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>Demoledor</name>
+  <detail>Destroza 500 objetos</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>Refrescarse</name>
+  <detail>Destroza 25 bocas de incendios</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>Maestro constructor</name>
+  <detail>Construye 50 objetos</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>Plaza de la ciudad</name>
+  <detail>Desbloquea el centro</detail>
+ </trophy>
+</trophyconf>

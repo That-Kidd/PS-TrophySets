@@ -1,0 +1,72 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000064e733238d276be404bcac318f2fb45e4b223f29465aaf5766f11aaedae2fa06421345fec63d49d5220640dcece1788366adca34d88cc8028803344893e4593a280ab004ba51f6576216a08345fc980afddf88e83e65e1bf9775787c3f36a85d940c701603c48c5c8a6a43e7f9c059871019bd12e1af84ecc5ae69844dd674028191b1dd1ff92ec89b65720b7473c2abbaae225a-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="small">
+ <npcommid>NPWR13615_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>INK</title-name>
+ <title-detail>INK</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>INKtroduction</name>
+  <detail>Welcome to INK. Good luck! (Die the First Time)</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>INKompetent</name>
+  <detail>How can you be so bad? (Die 10 times in less than 30 seconds)</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>INKjustice</name>
+  <detail>What did it ever do you? (Defeat the First Boss)</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>INKarnation</name>
+  <detail>They just keep coming back! (Defeat 300 enemies)</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>INKsolent</name>
+  <detail>Better show some respect (Defeat the Second Boss)</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>INKapacited</name>
+  <detail>Are you OK? (Die 500 times)</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>INKling</name>
+  <detail>i had a feeling something was here...(Find and collect 5 hidden coins)</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>INKfamous</name>
+  <detail>I've heard bad things about you... (Defeat the Third Boss)</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>INKoming</name>
+  <detail>Didn't see me coming now, did ya? (Defeat 6 enemies without touching the ground)</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>INKvisible</name>
+  <detail>Find 10 hidden messages (Find and collect 10 hidden coins)</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>INKgenious</name>
+  <detail>Didn't know you could do that (Beat Level 66 without Double Jumping)</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="-1">
+  <name>INKognito</name>
+  <detail>Should hide things better next time (Find and collect 20 hidden coins)</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="-1">
+  <name>INKredible</name>
+  <detail>You really are amazing! (100% the game)</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="-1">
+  <name>INKvinsible</name>
+  <detail>Nothing can stop you (Beat World 1 without dying)</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="-1">
+  <name>INKfirmary</name>
+  <detail>How have you not had a heart attack yet? (Beat World 2 without dying)</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="-1">
+  <name>INKferno</name>
+  <detail>You probably went throught hell to get this. (Beat World 3 without dying)</detail>
+ </trophy>
+</trophyconf>

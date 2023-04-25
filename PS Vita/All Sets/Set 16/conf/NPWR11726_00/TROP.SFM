@@ -1,0 +1,92 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000033844feced865e2ca86192652142e3e3d2a82a74233024c0df6d505bca01343c77a922a315e9f15602db5fdf02197efdbbc1416f9e32f759dbd3d7b14095bd4c37b7b6d735cd11a6fec46dcc1a6cc18d814459ab18bc7fe1ff9034c9f1baf81bc1f35bea98b1b51a4c7f935212c937e8777027dc940e037c0d8c312a759f727da3582df242ba6a7853c751917ef0ff9430a7a9c6-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR11726_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>らぶおぶ恋愛皇帝 of LOVE！</title-name>
+ <title-detail>『らぶおぶ恋愛皇帝 of LOVE！』トロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>支持率99.9％</name>
+  <detail>『らぶおぶ恋愛皇帝 of LOVE！』を全てプレイしていただき、ありがとうございました</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>プロローグ</name>
+  <detail>プロローグを読み終える</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>イサミと遭遇</name>
+  <detail>「榊原イサミ」と出会った</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>学園長と遭遇</name>
+  <detail>「学園長」と出会った</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>みおと遭遇</name>
+  <detail>「木ノ下みお」と出会った</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>中嶋と遭遇</name>
+  <detail>「中嶋」と出会った</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>ノゾエと遭遇</name>
+  <detail>「ノゾエ広人」と出会った</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>境と遭遇</name>
+  <detail>「境東」と出会った</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>ルキナルート</name>
+  <detail>「一之瀬ルキナ」ルートに入った</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>エリカルート</name>
+  <detail>「鳳エリカ」ルートに入った</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>スールート</name>
+  <detail>「芒乃数」ルートに入った</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>千歳ルート</name>
+  <detail>「楠木千歳」ルートに入った</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>稲穂ルート</name>
+  <detail>「稲穂・ギ・ひかり」ルートに入った</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="G" pid="000">
+  <name>ルキナエンド</name>
+  <detail>「一之瀬ルキナ」ルートを読み終えた</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="G" pid="000">
+  <name>エリカエンド</name>
+  <detail>「鳳エリカ」ルートを読み終えた</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="G" pid="000">
+  <name>スーエンド</name>
+  <detail>「芒乃数」ルートを読み終えた</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="G" pid="000">
+  <name>千歳エンド</name>
+  <detail>「楠木千歳」ルートを読み終えた</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="G" pid="000">
+  <name>稲穂エンド</name>
+  <detail>「稲穂・ギ・ひかり」ルートを読み終えた</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="G" pid="000">
+  <name>ＣＧコンプリート</name>
+  <detail>全てのＣＧを観た</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="G" pid="000">
+  <name>ＢＧＭコンプリート</name>
+  <detail>全てのＢＧＭを聴いた</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="G" pid="000">
+  <name>ＨＥＲＯＩＮＥコンプリート</name>
+  <detail>全てのルートを読み終えた</detail>
+ </trophy>
+</trophyconf>

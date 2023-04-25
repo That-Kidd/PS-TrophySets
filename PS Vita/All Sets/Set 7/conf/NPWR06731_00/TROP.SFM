@@ -1,0 +1,60 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000fef3d525d8a61c55fe8896729923b4b399bd89cabad2e2483915b7c5bda4b67adbcadd58ca75b826f2d75d0cd3cc156cd47106c79441b74b3a160d03fdfd32f2d4ba48212905f16fe179cf455a59d707b7aaed1be923a84257c222f6d68975dcdf16d7b3d92aa466bf0a2e510a99f4132aaee298fc4a08969c8512f5847e027b6cc6e58f3538973985f80ad3b1deda34d07d34df-->
+<trophyconf version="1.1" platform="psp2" policy="freemium">
+ <npcommid>NPWR06731_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Fat Princess - Piece of Cake</title-name>
+ <title-detail>Fat Princess - Piece of Cake</title-detail>
+ <trophy id="000" hidden="no" ttype="S" pid="-1">
+  <name>Dedication</name>
+  <detail>Complete 55 normal levels</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="-1">
+  <name>Obsessive</name>
+  <detail>Complete 10 challenge levels</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Fat General</name>
+  <detail>Defeat 500 enemies</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Epic</name>
+  <detail>Purchase 12 hero upgrades</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Sincerely Dead</name>
+  <detail>Die 300 times</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Just Resting</name>
+  <detail>Revive 50 heroes</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Heavy Artillery</name>
+  <detail>Launch 25 princess attacks</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="-1">
+  <name>Blinged Out</name>
+  <detail>Match 5000 diamonds</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Big Whoop</name>
+  <detail>Complete 1 normal level</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>Massive!</name>
+  <detail>8 match cascade</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>Match Master</name>
+  <detail>Achieve 555 match 5's</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="-1">
+  <name>Superhero</name>
+  <detail>Use 6 power ups</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="-1">
+  <name>Big Cascader</name>
+  <detail>Complete 250 cascades</detail>
+ </trophy>
+</trophyconf>

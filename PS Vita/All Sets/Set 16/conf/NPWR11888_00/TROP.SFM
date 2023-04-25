@@ -1,0 +1,124 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000bef0277f2d76bef366e8da0892945d2924a043434f5c9bb9d7a0207cad9e97e50607a0f8c4c57140da47919e44fb2555ee63876be57bdcffcb88490c92534ba70911cec4870ab54aab5c33b69f97ee606ab6c532ef8df58078a8c13dcb9e7f04f4e93fc0f082ffd2b8de78ee9b61626e61c1ae1ef0163b3992e8f3395db0e866b1c20c742b8e39e23a1e59603c0b01666b991d8a-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR11888_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>剣が君　百夜綴り</title-name>
+ <title-detail>剣が君　百夜綴りのトロフィーセットです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>全トロフィー獲得</name>
+  <detail>全てのトロフィーを獲得</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="000">
+  <name>天竺葵の書</name>
+  <detail>天竺葵の書をすべて綴った</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>山茶花の書</name>
+  <detail>山茶花の書をすべて綴った</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>桜の書</name>
+  <detail>桜の書をすべて綴った</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>彼岸花の書</name>
+  <detail>彼岸花の書をすべて綴った</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>山吹の書</name>
+  <detail>山吹の書をすべて綴った</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>菖蒲の書</name>
+  <detail>菖蒲の書をすべて綴った</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>梅の書</name>
+  <detail>梅の書をすべて綴った</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>紫陽花の書</name>
+  <detail>紫陽花の書をすべて綴った</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>金盞花の書</name>
+  <detail>金盞花の書をすべて綴った</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>二輪草の書</name>
+  <detail>二輪草の書をすべて綴った</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>江戸菊の書</name>
+  <detail>江戸菊の書をすべて綴った</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="G" pid="000">
+  <name>百日草の書</name>
+  <detail>百日草の書をすべて綴った</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>物語を始めた</name>
+  <detail>序章の物語を見た</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>読了数・一</name>
+  <detail>一個の物語を綴った</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>読了数・五</name>
+  <detail>五個の物語を綴った</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>読了数・十</name>
+  <detail>十個の物語を綴った</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>読了数・二十</name>
+  <detail>二十個の物語を綴った</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>読了数・三十</name>
+  <detail>三十個の物語を綴った</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="000">
+  <name>読了数・四十</name>
+  <detail>四十個の物語を綴った</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>読了数・五十</name>
+  <detail>五十個の物語を綴った</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>読了数・六十</name>
+  <detail>六十個の物語を綴った</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>読了数・七十</name>
+  <detail>七十個の物語を綴った</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>読了数・八十</name>
+  <detail>八十個の物語を綴った</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>読了数・九十</name>
+  <detail>九十個の物語を綴った</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="G" pid="000">
+  <name>読了数・百</name>
+  <detail>百夜の物語を綴った</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="G" pid="000">
+  <name>貸本を集めた</name>
+  <detail>貸本をすべて集めた</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="G" pid="000">
+  <name>画廊を満たした</name>
+  <detail>イベントグラフィックをすべて集めた</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="G" pid="000">
+  <name>絵草子を満たした</name>
+  <detail>特別グラフィックをすべて集めた</detail>
+ </trophy>
+</trophyconf>

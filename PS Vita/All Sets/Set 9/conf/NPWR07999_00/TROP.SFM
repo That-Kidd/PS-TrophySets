@@ -1,0 +1,144 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000083925c8b7ac999367851d2c7061d55d3c767a6d60761e766dc7f9f8580f691d88a7e99b5225c4dac903715689410596398320572a495f8e2ffa82c0fe00bd6f70a56a89037e5090ea6057bece345c30b33e21f29e26df345d50b009b5ae0f4ea5aad199072152d027b28b09158561fe579d6a5138c976e391faec85596aa0f4e632438a4f76335ab31443501c99f6b472c54cd53-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR07999_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>カレイドイヴ</title-name>
+ <title-detail>カレイドイヴのトロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Kaleidoeve</name>
+  <detail>全てのトロフィーを獲得した</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="S" pid="000">
+  <name>ファーストEND Clear！</name>
+  <detail>攻略できるキャラクターが新たにオープンした</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="G" pid="000">
+  <name>END All Complete！</name>
+  <detail>全てのエンディングを見た</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>星空の祝福</name>
+  <detail>五十嵐馨ルートのハッピーエンディングを見た</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>優しき嘘</name>
+  <detail>五十嵐馨ルートのバッドエンディングを見た</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="S" pid="000">
+  <name>馨END Complete！</name>
+  <detail>五十嵐馨ルートの全てのエンディングを見た</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>Happy Beach！</name>
+  <detail>鷹宮大地ルートのハッピーエンディングを見た</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>赤く染まる指先</name>
+  <detail>鷹宮大地ルートのバッドエンディングを見た</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>大地END Complete！</name>
+  <detail>鷹宮大地ルートの全てのエンディングを見た</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="000">
+  <name>ありがとう</name>
+  <detail>月島紘一郎ルートのハッピーエンディングを見た</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="000">
+  <name>青い石の指輪</name>
+  <detail>月島紘一郎ルートのバッドエンディングを見た</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>紘一郎END Complete！</name>
+  <detail>月島紘一郎ルートの全てのエンディングを見た</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="B" pid="000">
+  <name>告白</name>
+  <detail>村瀬洋ルートのハッピーエンディングを見た</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="000">
+  <name>永い眠り</name>
+  <detail>村瀬洋ルートのバッドエンディングを見た</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>洋END Complete！</name>
+  <detail>村瀬洋ルートの全てのエンディングを見た</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>舞降る想い</name>
+  <detail>真柴拓海ルートのハッピーエンディングを見た</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>ガラスの檻の中で</name>
+  <detail>真柴拓海ルートのバッドエンディングを見た</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="S" pid="000">
+  <name>拓海END Complete！</name>
+  <detail>真柴拓海ルートの全てのエンディングを見た</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>カレイドイヴ</name>
+  <detail>葉山黎ルートのハッピーエンディングを見た</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>さよなら…</name>
+  <detail>葉山黎ルートのバッドエンディングを見た</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="S" pid="000">
+  <name>黎END Complete！</name>
+  <detail>葉山黎ルートの全てのエンディングを見た</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>馨CG Complete！</name>
+  <detail>五十嵐馨のCGを全てオープンした</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>大地CG Complete！</name>
+  <detail>鷹宮大地のCGを全てオープンした</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>紘一郎CG Complete！</name>
+  <detail>月島紘一郎のCGを全てオープンした</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>洋CG Complete！</name>
+  <detail>村瀬洋のCGを全てオープンした</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="S" pid="000">
+  <name>拓海CG Complete！</name>
+  <detail>真柴拓海のCGを全てオープンした</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="S" pid="000">
+  <name>黎CG Complete！</name>
+  <detail>葉山黎のCGを全てオープンした</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="S" pid="000">
+  <name>共通CG Complete！</name>
+  <detail>共通のCGを全てオープンした</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="G" pid="000">
+  <name>GALLERY All Complete！</name>
+  <detail>GALLERY内のCGを全てオープンした</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="S" pid="000">
+  <name>MUSIC All Complete！</name>
+  <detail>MUSICを全てオープンした</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="S" pid="000">
+  <name>CHARACTER All Complete！</name>
+  <detail>CHARACTERを全てオープンした</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="S" pid="000">
+  <name>RELATIONSHIP All Complete！</name>
+  <detail>RELATIONSHIPを全てオープンした</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="S" pid="000">
+  <name>AFTERSTORY All Complete！</name>
+  <detail>AFTERSTORYを全てオープンした</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="G" pid="000">
+  <name>Congratulation！</name>
+  <detail>EXTRAを全てオープンした</detail>
+ </trophy>
+</trophyconf>

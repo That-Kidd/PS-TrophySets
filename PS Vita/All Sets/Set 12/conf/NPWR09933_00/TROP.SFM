@@ -1,0 +1,148 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000ac30cd0e7e0780bc35e00599d7183c4223cd015d3600592fa019f0522b5928c532a3c8ff42bafba0cedc67758df593ed4652de2e47d5586e9ba6516084abb328e4c380d8fbf3abd001dfd6e4d41fe51ad5b3778fa523088b1029c83b0983bbe3755ae5e6a107c4aa7688172adcb38f959108e40295b38232c08a39c927384e76a444ae0bfd1eb723a6f45e127bd4d7b9f6d58d2f-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR09933_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>ニル・アドミラリの天秤 帝都幻惑綺譚</title-name>
+ <title-detail>「ニル・アドミラリの天秤 帝都幻惑綺譚」トロフィーリスト</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>ニル・アドミラリの天秤 帝都幻惑綺譚</name>
+  <detail>全てのトロフィーを獲得した</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>運命の分かれ道</name>
+  <detail>共通ルートを終えた</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>天地神明にかけて・再</name>
+  <detail>尾崎隼人とハッピーエンドを迎えた</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>月に行きましょう</name>
+  <detail>鴻上滉とハッピーエンドを迎えた</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>波の音を聞きながら</name>
+  <detail>星川翡翠とハッピーエンドを迎えた</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>優しい歌声</name>
+  <detail>鵜飼昌吾とハッピーエンドを迎えた</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>甘い甘いお菓子の食べ方</name>
+  <detail>汀紫鶴とハッピーエンドを迎えた</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>とある普通の恋人達の昼下がり</name>
+  <detail>鷺澤累とハッピーエンドを迎えた</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>鳥籠のホットケーキ</name>
+  <detail>久世ヒタキエンドを迎えた</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="000">
+  <name>いつもの日常</name>
+  <detail>大団円を迎えた</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="000">
+  <name>消えることのない炎</name>
+  <detail>尾崎隼人のバッドエンドを迎えた</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>死よりも永い絶望の果て</name>
+  <detail>鴻上滉のバッドエンドを迎えた</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="B" pid="000">
+  <name>遠いところへ</name>
+  <detail>星川翡翠のバッドエンドを迎えた</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="000">
+  <name>裏切られた男</name>
+  <detail>鵜飼昌吾のバッドエンドを迎えた</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="B" pid="000">
+  <name>最期の睦言</name>
+  <detail>汀紫鶴のバッドエンドを迎えた</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>奈落</name>
+  <detail>鷺澤累のバッドエンドを迎えた</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>帝都心中</name>
+  <detail>鷺澤累のカグツチエンドを迎えた</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>終の鳥籠</name>
+  <detail>隠由鷹のバッドエンドを迎えた</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>突然の悲劇</name>
+  <detail>尾崎隼人の中途バッドエンドを迎えた</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>新しい鳥籠</name>
+  <detail>鴻上滉の中途バッドエンドを迎えた</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="000">
+  <name>残酷なる捕獲</name>
+  <detail>星川翡翠の中途バッドエンドを迎えた</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>届かない声</name>
+  <detail>鵜飼昌吾の中途バッドエンドを迎えた</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="B" pid="000">
+  <name>嗤い声</name>
+  <detail>汀紫鶴の中途バッドエンドを迎えた</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>散華</name>
+  <detail>鷺澤累の中途バッドエンドを迎えた</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>尾崎隼人の比翼の鳥</name>
+  <detail>尾崎隼人のイベントグラフィックを全て取得した</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="S" pid="000">
+  <name>鴻上滉の比翼の鳥</name>
+  <detail>鴻上滉のイベントグラフィックを全て取得した</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="S" pid="000">
+  <name>星川翡翠の比翼の鳥</name>
+  <detail>星川翡翠のイベントグラフィックを全て取得した</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="S" pid="000">
+  <name>鵜飼昌吾の比翼の鳥</name>
+  <detail>鵜飼昌吾のイベントグラフィックを全て取得した</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="S" pid="000">
+  <name>汀紫鶴の比翼の鳥</name>
+  <detail>汀紫鶴のイベントグラフィックを全て取得した</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="S" pid="000">
+  <name>鷺澤累の比翼の鳥</name>
+  <detail>鷺澤累のイベントグラフィックを全て取得した</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="G" pid="000">
+  <name>幸福な睦言</name>
+  <detail>システムボイスを全て取得した</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="G" pid="000">
+  <name>忘我の蒐集家</name>
+  <detail>画廊のイベントグラフィックを全て取得した</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="G" pid="000">
+  <name>夢裏の好事家</name>
+  <detail>動画を全て取得した</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="G" pid="000">
+  <name>一途なレコードコレクター</name>
+  <detail>音楽を全て取得した</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="G" pid="000">
+  <name>心酔のビブリオマニア</name>
+  <detail>短編物語を全て取得した</detail>
+ </trophy>
+</trophyconf>

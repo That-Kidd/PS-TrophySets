@@ -1,0 +1,96 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000009694e46b889058c33e7bc4958521393a90318a880207157aaba7d5e5cf45a9cb26819ffe3a36c490f870b351418d9b80cb07935e808c917c9caafb7ac411a34b7d0ccee9e8d27d7f8a283f642f78ecca4eb9683d59025f93873a59437fae3fe4ecb1804dbbee896ae2b8b2feee86a1cccf719b7f6e80625407b4d95bacf0272a827a6bad1aff7fa9197eb3be41e9d98fcfe7694f-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR04921_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>MLB® 14 The Show™</title-name>
+ <title-detail>The trophy set of MLB® 14 The Show™</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Done!</name>
+  <detail>Earn all of the MLB® 14 The Show™ Trophies.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Walk Off</name>
+  <detail>In any game mode, win a game on a walk off hit. Must be done in a full, uninterrupted, 9 inning game. Changing teams during the game or using the Quick Counts feature will invalidate this trophy.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Grand Salami</name>
+  <detail>In any game mode, hit a grand slam. Must be done in a full, uninterrupted, 9 inning game. Changing teams during the game or using the Quick Counts feature will invalidate this trophy.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>Consistency</name>
+  <detail>In any game mode, strike out the side with the same out pitch, with the same pitcher. Must be done in a full, uninterrupted, 9 inning game. Changing teams during the game or using the Quick Counts feature will invalidate this trophy.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>Back-To-Back</name>
+  <detail>Hit back-to-back HRs in a game (excludes HRD, Practice, and RTTS modes). Must be done in a full, uninterrupted, 9 inning game. Changing teams during the game or using the Quick Counts feature will invalidate this trophy.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>Frozen</name>
+  <detail>Strike out a batter looking in any game mode (excludes Practice modes). Must be done in a full, uninterrupted, 9 inning game. Changing teams during the game or using the Quick Counts feature will invalidate this trophy.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>Patience is a Virtue</name>
+  <detail>In any single plate appearance, see 10 or more pitches. Must be done in a full, uninterrupted, 9 inning game. Changing teams during the game or using the Quick Counts feature will invalidate this trophy.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>Knock Out Punch</name>
+  <detail>In any game mode, knock out the opponent's starting pitcher before the end of the 3rd inning (excludes any All-Star game). Must be done in a full, uninterrupted, 9 inning game. Changing teams during the game or using the Quick Counts feature will invalidate this trophy.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>Extras Win!</name>
+  <detail>In any game mode, win a game in extra innings. Must be done in a full, uninterrupted, 9 inning game. Changing teams during the game or using the Quick Counts feature will invalidate this trophy.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>Getting a Piece</name>
+  <detail>In any mode, excluding RTTS, play an entire 9 inning game without striking out. Must be done in a full, uninterrupted, 9 inning game. Changing teams during the game or using the Quick Counts feature will invalidate this trophy.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>Fence Posts</name>
+  <detail>Score a single run in every inning of a full 9 inning game (excludes RTTS). Must be done in a full, uninterrupted, 9 inning game. Changing teams during the game or using the Quick Counts feature will invalidate this trophy.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>Chris "Crush" Davis</name>
+  <detail>In any game mode with Chris Davis, have a 2 home run, 5 RBI performance in a single game. Must be done in a full, uninterrupted, 9 inning game. Changing teams during the game or using the Quick Counts feature will invalidate this trophy.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>Miguel "MC Hammer" Cabrera</name>
+  <detail>In any game mode with Miguel Cabrera, hit 3 home runs while having a perfect day at the plate in a single game. Must be done in a full, uninterrupted, 9 inning game. Changing teams during the game or using the Quick Counts feature will invalidate this trophy.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="000">
+  <name>Mike "The Millville Meteor" Trout</name>
+  <detail>In any game mode with Mike Trout, hit for the cycle and steal a base in a single game. Must be done in a full, uninterrupted, 9 inning game. Changing teams during the game or using the Quick Counts feature will invalidate this trophy.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="000">
+  <name>"King" Felix Hernandez</name>
+  <detail>In any game mode with Felix Hernandez, allow no earned runs and strike out 9 while earning the win. Must be done in a full, uninterrupted, 9 inning game. Changing teams during the game or using the Quick Counts feature will invalidate this trophy.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>Yu "Brother Dal" Darvish</name>
+  <detail>In any game mode with Yu Darvish, throw 7 complete innings, strike out 14 en route to the win. Must be done in a full, uninterrupted, 9 inning game. Changing teams during the game or using the Quick Counts feature will invalidate this trophy.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="G" pid="000">
+  <name>Jose "Gigante" Altuve</name>
+  <detail>In any game mode with Jose Altuve, get 3 hits and steal 3 bases in a single game. Must be done in a full, uninterrupted, 9 inning game. Changing teams during the game or using the Quick Counts feature will invalidate this trophy.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>Craig "Blitzcraig" Kimbrel</name>
+  <detail>In any game mode with Craig Kimbrel, strike out 3 batters and earn the save in a single game. Must be done in a full, uninterrupted, 9 inning game. Changing teams during the game or using the Quick Counts feature will invalidate this trophy.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="G" pid="000">
+  <name>David "Captain America" Wright</name>
+  <detail>In any game mode with David Wright, hit 2 doubles, a triple, and a home run in a single game. Must be done in a full, uninterrupted, 9 inning game. Changing teams during the game or using the Quick Counts feature will invalidate this trophy.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="000">
+  <name>Paul "America's First Baseman" Goldschmidt</name>
+  <detail>In any game mode with Paul Goldschmidt, collect 4 hits, drive in 4 RBI, and score 4 runs in a single game. Must be done in a full, uninterrupted, 9 inning game. Changing teams during the game or using the Quick Counts feature will invalidate this trophy.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="G" pid="000">
+  <name>Yasiel "The Wild Horse" Puig</name>
+  <detail>In any game mode with Yasiel Puig, hit a double, triple, and steal 2 bases in a single game. Must be done in a full, uninterrupted, 9 inning game. Changing teams during the game or using the Quick Counts feature will invalidate this trophy.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="G" pid="000">
+  <name>Stephen "The Soul Crusher" Strasburg</name>
+  <detail>In any game mode with Stephen Strasburg, strike out 12 and allow no earned runs en route to the win. Must be done in a full, uninterrupted, 9 inning game. Changing teams during the game or using the Quick Counts feature will invalidate this trophy.</detail>
+ </trophy>
+</trophyconf>

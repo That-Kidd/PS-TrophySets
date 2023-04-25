@@ -1,0 +1,64 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000005535e0d393da1b6234a96f1522ee3517fdc9dca7acf24bdfccaff10a897932d198430583e9e540a7be3d2ab225c22c71cc97cb5fd57d68d4a37a0beddaf2333a82e55f2a9a1cdca0bc364b8749eff8c4e4a009c3b0ff73f02a7a197f5e7a1c72335b911b0dc1c5b3049e77226466e0da114894b26c886500cf4123d40642cf4d37da331e91ff448cf82ae6d070c3cb93ed9ad3db-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR18094_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Rush Rover</title-name>
+ <title-detail>Rush Rover</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Platinum Rover</name>
+  <detail>Get all the trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Blitz bronze</name>
+  <detail>Finished blitz 1 time in one game</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>Blitz silver</name>
+  <detail>Finished blitz 3 times in one game</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>Blitz gold</name>
+  <detail>Finished blitz 5 times in one game</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>Unscathed bronze</name>
+  <detail>Get unscathed 1 time in one game</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>Unscathed silver</name>
+  <detail>Get unscathed 3 times in one game</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>Unscathed gold</name>
+  <detail>Get unscathed 5 times in one game</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>Dodge bronze</name>
+  <detail>Survival 25 seconds in the dodge challenge</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>Dodge silver</name>
+  <detail>Survival 35 seconds in the dodge challenge</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>Dodge gold</name>
+  <detail>Survival 45 seconds in the dodge challenge</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>Guardian</name>
+  <detail>Killed a Guardian</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>Reaper bronze</name>
+  <detail>Eliminate 10 robots in one game</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>Reaper silver</name>
+  <detail>Eliminate 20 robots in one game</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="000">
+  <name>Reaper gold</name>
+  <detail>Eliminate 30 robots in one game</detail>
+ </trophy>
+</trophyconf>

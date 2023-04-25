@@ -1,0 +1,92 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000f0e87c776a4c1787bb0a57fae5e2acbb3de206b240309110e889c2b88b66123534e169fc670d2cf27fbb40337f66c1549d8ae75112df65ac90eb719be0f41394f98876fcf4a8b6f8dffa0c565baabce7bd6727b591a0b492bac13f2b6720626737b23011b48b85df43b9102b01f2a60ec68835c39d7166448d6d6dbf301f3a71dc4ebfa11cb60447be16b355b8427fa4a6417a56-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR04776_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>るいは智を呼ぶ</title-name>
+ <title-detail>るいは智を呼ぶの トロフィーセットです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>るいが智を呼んでから</name>
+  <detail>全てのトロフィーを獲得しました。</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>あなたはスカートです</name>
+  <detail>「るいは智を呼ぶ」をプレイ開始しました。</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>同盟、はじめました</name>
+  <detail>同盟を結成しました。</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>ノロイ</name>
+  <detail>ノロイに遭遇しました。</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>まだ見ぬ明日を夢に見て</name>
+  <detail>るいルートをクリアしました。</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>雲のように、ゆっくりと</name>
+  <detail>花鶏ルートをクリアしました。</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>ピンク・ポッチーズよ、永遠に</name>
+  <detail>こよりルートをクリアしました。</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>いつか君に届いて</name>
+  <detail>伊代ルートをクリアしました。</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>あなたに会えたから</name>
+  <detail>茜子ルートをクリアしました。</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>思い出を集めて</name>
+  <detail>「るいは智を呼ぶ」のイベントＣＧを全て回収しました。</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="G" pid="000">
+  <name>呪われた世界から</name>
+  <detail>「るいは智を呼ぶ」をクリアしました。</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>そして僕らは</name>
+  <detail>「るいは智を呼ぶファンディスク－明日のむこうに視える風－」を開始しました。</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>これも、呪いの話</name>
+  <detail>バカンス編をクリアしました。</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="G" pid="000">
+  <name>世界最強の和久津さまストーカー</name>
+  <detail>宮和ルートをクリアしました。</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>フルーツ味の悪夢？</name>
+  <detail>夢編をクリアしました。</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="G" pid="000">
+  <name>光差す場所</name>
+  <detail>央輝ルートをクリアしました。</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>終わりの始まりへ</name>
+  <detail>悪夢編をクリアしました。</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="G" pid="000">
+  <name>主なるものの祝福</name>
+  <detail>惠ルートをクリアしました。</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="G" pid="000">
+  <name>ありがとう</name>
+  <detail>真耶ルートをクリアしました。</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="G" pid="000">
+  <name>もう一つの思い出</name>
+  <detail>るいは智を呼ぶファンディスク－明日のむこうに視える風－」のイベントＣＧをすべて回収しました。</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="G" pid="000">
+  <name>そして僕らはまた出会う</name>
+  <detail>「るいは智を呼ぶファンディスク－明日のむこうに視える風－」をクリアしました。</detail>
+ </trophy>
+</trophyconf>

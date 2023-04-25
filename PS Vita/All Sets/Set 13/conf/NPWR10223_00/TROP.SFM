@@ -1,0 +1,136 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000000e05219889fd7b318538156c1c995f5940aea3c1c001b63f985d0ffc202087af2f59cf44cf40cd481ad2be61f3f6e25c60e9e3aaff54f7b202dc5b6ca86b83549b72cbacf6d49b5169096122636160ad1cab18809f741e359b8012a45770f2295bbd6cf28c6d54f5b8ae4471c405e23cce4a43fdf8d500408aec8506cec00b9657e5e7f58cf310646a14e36aafc6ce2f56ae9b0f-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR10223_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>ダブルフォーカス-文と椛の弾丸取材紀行- PlayStation®Vita Edition</title-name>
+ <title-detail>ダブルフォーカス　のトロフィー</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>幻想郷ピューリッツァー賞</name>
+  <detail>全てのトロフィーを入手した</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="G" pid="000">
+  <name>ロストフェアリー</name>
+  <detail>迷子の妖精を助けた</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>敏腕ジャーナリスト</name>
+  <detail>文々。新聞スナップアーカイブ取得率100％</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>幻想郷最速</name>
+  <detail>タイムアタックモードを1時間以内にクリア (難易度「ふつう」以上)</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>医者イラズ</name>
+  <detail>回復系スキルを使用せずにクリア (難易度「ふつう」以上)</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>不信心者</name>
+  <detail>１度もセーブせずにクリア (難易度「ふつう」以上)</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="000">
+  <name>身から出た錆</name>
+  <detail>虚構霊夢を撃破</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>剣闘坊主</name>
+  <detail>40秒以内に白蓮に勝利 (難易度「ふつう」以上)</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>にゃんにゃん叩き</name>
+  <detail>50秒以内に青娥に勝利 (難易度「ふつう」以上)</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>スウィートメイズランナー</name>
+  <detail>60秒以内に針妙丸に勝利 (難易度「ふつう」以上)</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>仮面武闘会</name>
+  <detail>45秒以内にこころに勝利 (難易度「ふつう」以上)</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>討ち撮ったり</name>
+  <detail>白蓮、青娥、こころ、虚構霊夢の4体のボスに激写でトドメをさした</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>異世界巡り</name>
+  <detail>マップ踏破率100％</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>宝探し</name>
+  <detail>アイテム取得率100％</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>根源にして至高の器</name>
+  <detail>キスメに全ての器を渡した</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>お城エリア探索開始!</name>
+  <detail>お城エリアに入った</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>白亜の城、座すは住職</name>
+  <detail>白蓮に勝利</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>完全勝利 -聖白蓮-</name>
+  <detail>ノーダメージで白蓮に勝利 (難易度「ふつう」以上)</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>砂漠エリア探索開始!</name>
+  <detail>砂漠エリアに入った</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>熱砂に潜む邪仙</name>
+  <detail>青娥に勝利</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="000">
+  <name>完全勝利 -霍青娥-</name>
+  <detail>ノーダメージで青娥に勝利 (難易度「ふつう」以上)</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>童話エリア探索開始!</name>
+  <detail>童話エリアに入った</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="B" pid="000">
+  <name>お菓子の家の一寸法師</name>
+  <detail>針妙丸に勝利</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>完全勝利 -少名針妙丸-</name>
+  <detail>ノーダメージで針妙丸に勝利 (難易度「ふつう」以上)</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="000">
+  <name>水の都エリア探索開始!</name>
+  <detail>水の都エリアに入った</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="B" pid="000">
+  <name>水面にたゆたう面霊気</name>
+  <detail>こころに勝利</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>完全勝利 -秦こころ-</name>
+  <detail>ノーダメージでこころに勝利 (難易度「ふつう」以上)</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>強制送還</name>
+  <detail>100体の妖精を幻想郷に帰した</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="B" pid="000">
+  <name>お急ぎ便</name>
+  <detail>10秒以内にアメちゃんを届けた</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="B" pid="000">
+  <name>小脇に怪談</name>
+  <detail>小鈴に赤蛮奇ヘッドを見せた</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="B" pid="000">
+  <name>地下道の廃円盤</name>
+  <detail>封獣ぬえを撮影した</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="B" pid="000">
+  <name>妬みの視線</name>
+  <detail>水橋パルスィを撮影した</detail>
+ </trophy>
+</trophyconf>

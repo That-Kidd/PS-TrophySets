@@ -1,0 +1,72 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000004a3ebb3b44d1f3397e7a28f92f98878f0440b1a47596590f0134dd84a14812fca6f642ca54fe6a793c18a5f292f7edf5e14ad9ded4271ae3f8171ed120ca4333ec177e33ec52e24fe1e20aa4da899c12bb1eb3e8359ad6885b82da2c8c170c39a1bda5bfb395802fb44ade07e72626b6a4bea8bedc8f82e09f1b170c1bbf9a3942d85a0b66eb8dcabef652ab02ca627373c71032-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR13213_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>甘えかたは彼女なりに。</title-name>
+ <title-detail>『甘えかたは彼女なりに。』トロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>甘えベタな私なりに。</name>
+  <detail>『甘えかたは彼女なりに。』を全てプレイしていただき、ありがとうございました</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>どこで食べるつもりなの？</name>
+  <detail>最初の選択肢を選ぶ</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>なにもしないっていう選択肢はないんですか？</name>
+  <detail>全ての選択肢を選んだ</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="S" pid="000">
+  <name>朋美ルート</name>
+  <detail>朋美ルートに入った</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="S" pid="000">
+  <name>のはなルート</name>
+  <detail>のはなルートに入った</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="S" pid="000">
+  <name>叶恵ルート</name>
+  <detail>叶恵ルートに入った</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="000">
+  <name>みゆきルート</name>
+  <detail>みゆきルートに入った</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="G" pid="000">
+  <name>アシスト会</name>
+  <detail>プロローグを読み終えた</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="G" pid="000">
+  <name>甘えかたはそれなりに。</name>
+  <detail>ＢＡＤＥＮＤルートを読み終えた</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="G" pid="000">
+  <name>甘えかたは朋美なりに。</name>
+  <detail>朋美ルートを読み終えた</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="G" pid="000">
+  <name>甘えかたはのはななりに。</name>
+  <detail>のはなルートを読み終えた</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="G" pid="000">
+  <name>甘えかたは叶恵なりに。</name>
+  <detail>叶恵ルートを読み終えた</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="G" pid="000">
+  <name>甘えかたはみゆきなりに。</name>
+  <detail>みゆきルートを読み終えた</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="G" pid="000">
+  <name>ＢＧＭコンプリート</name>
+  <detail>全てのＢＧＭを聴いた</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="G" pid="000">
+  <name>ＣＧコンプリート</name>
+  <detail>全てのイベントＣＧを見た</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="G" pid="000">
+  <name>ＥＶＥＮＴコンプリート</name>
+  <detail>全てのイベントを読んだ</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,36 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000009989071fa18dff73fecf3f45f858ed5d92932e31530b2e6693c5dff1a1fa95f31cf2428cb79a22a95fe5a04c22a46de5c35ffef2ec5db1e3d5e50642e1e8bbf88492c17c7b0000b92f1ac57fcb4861730d9ed93c630932e7a6f47a6fb4e62ef52073c0949834258ddc5384b9f604dcd3a33cf497082d7a2f2c3f1903f9c21a10ebc8a4be75f9062c8989e9d99e031bc16dc1887e-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR09063_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>幻想英雄传</title-name>
+ <title-detail>幻想英雄传的奖杯项目。</title-detail>
+ <trophy id="000" hidden="yes" ttype="B" pid="-1">
+  <name>哪有这种事！？</name>
+  <detail>踩到香蕉皮。</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="S" pid="-1">
+  <name>故事开始了。</name>
+  <detail>主线任务“一切的开始”过关。</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="S" pid="-1">
+  <name>肌肉！！肌肉！！</name>
+  <detail>学会任一个角色的最高级技能。</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="S" pid="-1">
+  <name>来看看会发生什么事。</name>
+  <detail>完成所有的支线任务。</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="S" pid="-1">
+  <name>谢谢你……机器人。</name>
+  <detail>达到等级25。</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="G" pid="-1">
+  <name>冒险将会再次开始……</name>
+  <detail>完成所有的主线任务。</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="G" pid="-1">
+  <name>大叔，你的手艺真不赖！！</name>
+  <detail>强化一件武器超过30次。</detail>
+ </trophy>
+</trophyconf>

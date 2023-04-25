@@ -1,0 +1,148 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000b7eda3b0d73a57a82577a313e39a108e2b6d136116dc5d4ddaaeca25ea5d2dfa2821e596e76e88ea518dbc466e33974f54e0dbca24255c294db029062aa4d4dd7f0039a987ca7ba689af65b0f11238c5f73ab88a14833c81b91df60086fd601bb8259bb9d31518721a388a3d076cc2663d420aab36720bb8773c089e8258d089df573602b8a0cb83dccad254f9f299db4c3a26e9-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR07539_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>LEGO® Ninjago™: Shadow of Ronin</title-name>
+ <title-detail>LEGO® Ninjago™: Shadow of Ronin</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Master of Spinjitzu</name>
+  <detail>Collect all other trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>Level With Me</name>
+  <detail>Complete all "Level Complete" challenges</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>Deep Pockets</name>
+  <detail>Complete all "True Ninja" challenges</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>Not So Humble Collector</name>
+  <detail>Complete all "Collector" challenges</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>Challenge Accepted</name>
+  <detail>Complete all challenges</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>Character Party</name>
+  <detail>Unlock all characters</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>Martial Arts Expert</name>
+  <detail>Perform 50 finishing moves</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>I Know Spinjitzu</name>
+  <detail>Defeat 100 enemies with Spinjitzu</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>Surprise Party</name>
+  <detail>Perform 10 takedowns from stealth</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>Hypnosisss</name>
+  <detail>Hypnotize 10 enemies</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>Ninja Go</name>
+  <detail>Unlock all Ninja characters</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>Slither Pit</name>
+  <detail>Unlock all Serpentine characters</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>Bad to the Bone</name>
+  <detail>Unlock all Skulkin characters</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>Nindroids 2.0</name>
+  <detail>Unlock all Nindroid characters</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>Tournament of Elements</name>
+  <detail>Unlock all Tournament characters</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>Selective Memory</name>
+  <detail>Finish Chapter 1</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Snakes in the Sand</name>
+  <detail>Finish Chapter 2</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Earth to Cole</name>
+  <detail>Finish Chapter 3</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>Volcanic Activity</name>
+  <detail>Finish Chapter 4</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Chill Out</name>
+  <detail>Finish Chapter 5</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>Fully Charged</name>
+  <detail>Finish Chapter 6</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>Not my Vault</name>
+  <detail>Finish Chapter 7</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>Finders Keepers</name>
+  <detail>Finish Chapter 8</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>Bitter Suite Memories</name>
+  <detail>Finish Chapter 9</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>Out Of This World</name>
+  <detail>Finish Chapter 10</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="S" pid="000">
+  <name>Dragon's Eye View</name>
+  <detail>Explore all the areas on the Ninjago Island map</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>Scrap That</name>
+  <detail>Complete all Scrap Builds in the game</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>Tornado of Creation</name>
+  <detail>Complete all Tornado of Creations in the game</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>I Dareth You</name>
+  <detail>Defeat 10 enemies using Dareth's Zoojitzu moves</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>The Purple One</name>
+  <detail>Collect a purple stud</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>Unstoppable Object</name>
+  <detail>Smash through 20 objects using vehicle boost in the driving levels</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>Burn Nation</name>
+  <detail>Smash 10 objects on the Ninjago Island Map</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>Hit and Missile</name>
+  <detail>Defeat 6 enemies in a row with missiles in a flying jet level</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>Bad Breath</name>
+  <detail>Defeat 3 enemies in a row with dragon breath in a flying dragon level</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>Solid Snike</name>
+  <detail>Defeat 10 enemies in a level with Snike</detail>
+ </trophy>
+</trophyconf>

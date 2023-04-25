@@ -1,0 +1,60 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000008ee9bae56caac1d7835ec3b7b819e5d9016feaad2db3a6a2283a11d4c75ee0dfb0f5d75edcd40d551b8961589894cc78287a834bfa901f000f609364c708090bc43a27e92e6c02c2272a01c51ae8544903e2dc677906b9084f6e99a0aa5097d0319fbe475cfc41b8e60d095d7a6556d5342466365b6812236199d6f2dc2a3539d70599582538a8deac3f794a5a68c537849100e6-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR06166_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Futuridium EP Deluxe</title-name>
+ <title-detail>Trophies for Futuridium EP Deluxe</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>It's just the beginning</name>
+  <detail>Finish Zone 1</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>A bit more difficult</name>
+  <detail>Finish Zone 2</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Down the rabbit hole</name>
+  <detail>Finish Zone 3&#x0a;</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Danger Zone</name>
+  <detail>Finish Zone 4</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="-1">
+  <name>The end...?</name>
+  <detail>Reach the end of the Final Zone</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="-1">
+  <name>Classic smasher</name>
+  <detail>Finish the Classic mode on a single credit</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>I'm the chain master!</name>
+  <detail>Perform a 100 cube chain</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Flappy flappy!</name>
+  <detail>Score 50 in Flappyridium</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="-1">
+  <name>All the secrets...</name>
+  <detail>Find and destroy all the NegaCubes</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>Rookie</name>
+  <detail>Get 10 medals</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>Master</name>
+  <detail>Get 50 medals</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="-1">
+  <name>Legend</name>
+  <detail>Get 100 medals&#x0a;</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="-1">
+  <name>You're the best!</name>
+  <detail>Get all the 150 medals</detail>
+ </trophy>
+</trophyconf>

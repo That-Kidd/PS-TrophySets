@@ -1,0 +1,148 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000f540f201c5561efb5e5d5a09d6e3bf58876994b321c1014e95a37d0544da683d0345b0e25132e014acb32788858c5cb0c71fe1ed119e0cc9eed9a723ee7d7cc00ab115fc0dbbd1ef3d7d3edd0f16579a72be52f4e13378ce76540feb0ac751aa1d14f044e4f9448a6200b361bb6746f3891c803be82c666bc1a17a92c18730bf9542f433bc33746474fffc846a05df56a8bfd53e-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR11236_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>DIABOLIK LOVERS LOST EDEN</title-name>
+ <title-detail>DIABOLIK LOVERS LOST EDENのトロフィーです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>トロフィー All Complete !</name>
+  <detail>全てのトロフィーを獲得した</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>共通プロローグ Clear !</name>
+  <detail>共通プロローグをクリアした</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>逆巻プロローグ Clear !</name>
+  <detail>逆巻プロローグをクリアした</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>無神プロローグ Clear !</name>
+  <detail>無神プロローグをクリアした</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>月浪プロローグ Clear !</name>
+  <detail>月浪プロローグをクリアした</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>キノプロローグ Clear !</name>
+  <detail>キノプロローグをクリアした</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>ファーストエンディング Clear !</name>
+  <detail>最初のエンディングをクリアした</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>アヤトのアルバム</name>
+  <detail>アヤトのイベントCGを全てオープンした</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>カナトのアルバム</name>
+  <detail>カナトのイベントCGを全てオープンした</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>ライトのアルバム</name>
+  <detail>ライトのイベントCGを全てオープンした</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>シュウのアルバム</name>
+  <detail>シュウのイベントCGを全てオープンした</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>レイジのアルバム</name>
+  <detail>レイジのイベントCGを全てオープンした</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>スバルのアルバム</name>
+  <detail>スバルのイベントCGを全てオープンした</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>ルキのアルバム</name>
+  <detail>ルキのイベントCGを全てオープンした</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>コウのアルバム</name>
+  <detail>コウのイベントCGを全てオープンした</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>ユーマのアルバム</name>
+  <detail>ユーマのイベントCGを全てオープンした</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>アズサのアルバム</name>
+  <detail>アズサのイベントCGを全てオープンした</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>カルラのアルバム</name>
+  <detail>カルラのイベントCGを全てオープンした</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>シンのアルバム</name>
+  <detail>シンのイベントCGを全てオープンした</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="000">
+  <name>キノのアルバム</name>
+  <detail>キノのイベントCGを全てオープンした</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>AYATO Congratulations !</name>
+  <detail>アヤトのエンディングを全て見た</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>KANATO Congratulations !</name>
+  <detail>カナトのエンディングを全て見た</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>LAITO Congratulations !</name>
+  <detail>ライトのエンディングを全て見た</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>SHU Congratulations !</name>
+  <detail>シュウのエンディングを全て見た</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>REIJI Congratulations !</name>
+  <detail>レイジのエンディングを全て見た</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="S" pid="000">
+  <name>SUBARU Congratulations !</name>
+  <detail>スバルのエンディングを全て見た</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="S" pid="000">
+  <name>RUKI Congratulations !</name>
+  <detail>ルキのエンディングを全て見た</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="S" pid="000">
+  <name>KOU Congratulations !</name>
+  <detail>コウのエンディングを全て見た</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="S" pid="000">
+  <name>YUMA Congratulations !</name>
+  <detail>ユーマのエンディングを全て見た</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="S" pid="000">
+  <name>AZUSA Congratulations !</name>
+  <detail>アズサのエンディングを全て見た</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="S" pid="000">
+  <name>CARLA Congratulations !</name>
+  <detail>カルラのエンディングを全て見た</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="S" pid="000">
+  <name>SHIN Congratulations !</name>
+  <detail>シンのエンディングを全て見た</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="S" pid="000">
+  <name>KINO Congratulations !</name>
+  <detail>キノのエンディングを全て見た</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="G" pid="000">
+  <name>アルバム All Complete !</name>
+  <detail>イベントCGを全てオープンした</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="G" pid="000">
+  <name>ストーリー All Complete！</name>
+  <detail>攻略キャラ全てのシナリオをプレイした</detail>
+ </trophy>
+</trophyconf>

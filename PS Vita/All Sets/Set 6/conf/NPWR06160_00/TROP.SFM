@@ -1,0 +1,196 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000009554cd75ecd784181994bfbcf1bf8aceb9cee1d58f5439cbf7f96c241ab04a4c015d720d567ea1e060f19e765f1e4ebf22165ac1fd95717cf6ceda8ec1b5937f1f52f617d132f1f9cdbdbe39e82b757ea0cf80e3b9e880e8c55532b1aadadc1ff0799e1bd9dd19b506701ba5e00a0720bd18345930027e9d9317916d560bf4fdb35c16d0b731a48dbeb7b3f3526d451e3f7da586-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR06160_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>ファンタシースター ノヴァ</title-name>
+ <title-detail>「ファンタシースター ノヴァ」のトロフィーセットです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>ファンタシースター ノヴァ マスター</name>
+  <detail>今ここに、新たな英雄の名が刻まれた。そして伝説へ。</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>日記はじめました</name>
+  <detail>これから毎日日記をつけていくことにしたよ。勝手に見ちゃ駄目なんだからね、相棒！</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>ギガンテスバスター</name>
+  <detail>はじめてギガンテスを討伐！&#x0a;これでヘイロウの使い方もばっちり。</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>いないというか……いるというか……</name>
+  <detail>ユノにも好きな人がいるみたい。どんな人なんだろう？　まぁ、セイルじゃないってことはわかったけどね！</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>ギガンテスキャプチャー</name>
+  <detail>はじめてギガンテスを捕獲！&#x0a;これでパイルの使い方もばっちり。ギガンテスとも仲良し。</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>交錯する思惑</name>
+  <detail>脱出を優先するフィルディアと探査の続行を主張するレイヴァンが対立する。グラン・ドライブ完成まであとわずか……。</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>喪失、そして惑星との新たな戦いの始まり</name>
+  <detail>マグナス艦長、フィルディア艦長の意思を引き継いでいく。新たな艦長として仲間達を無事生きてこの惑星から脱出させることが使命だ。</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>滅びの歴史</name>
+  <detail>宝石に記された記録を調べれば、この惑星の歴史が分かる筈。悲しき過去に向き合わなくてはならない。</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>大型パイルラストワン！</name>
+  <detail>大型パイルは残す所１本。立ちはだかる彼の目的とは一体？　彼は一体どうしてしまったと言うのだろうか？</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="G" pid="000">
+  <name>ひとつの物語の幕引き……そして……</name>
+  <detail>長い時を経て、古代の約束は果たされた。あたし達が出会ったこの惑星の物語は、今幕を閉じる。</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>復興への一歩</name>
+  <detail>さぁ、街づくりの第一歩だよ！&#x0a;これからあたし達だけの街を作っていこうね！&#x0a;相棒はどんな街にしてみたい？</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>探検発見みんなの街</name>
+  <detail>だいぶ発展してきたね！&#x0a;これからあたしたち色に染め上げた街を作っちゃおう！</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>業物誕生</name>
+  <detail>★７の武器を作成！&#x0a;これさえあれば怖いもの無し。貫けぬものない仲間達の矛となれ。</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>大業物誕生</name>
+  <detail>★１０の武器を作成！&#x0a;この得物の前に敵うものなし。目の前に立ちふさがる全てを……斬る！</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>鉄壁の盾</name>
+  <detail>★７の防具を作成！&#x0a;これさえあれば大丈夫。この防具で自分だけじゃなく仲間達も守ってみせる！</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>最強の盾</name>
+  <detail>★１０の防具を作成！&#x0a;全ての悪災をふり払い、仲間達を守り通す、最強の盾となれ。</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>自由自在</name>
+  <detail>★７のアタッチパーツを作成！&#x0a;これで自分の武器を自由自在に彩ろう。戦場で目立つこと間違い無し。</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>変幻自在</name>
+  <detail>★１０のアタッチパーツを作成！&#x0a;これで自分の武器を変幻自在に彩ろう。武器をふるう度に羨望の眼差しを受けること間違い無し。</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>これぞ俺流</name>
+  <detail>４個のアタッチパーツを同時装着！&#x0a;だってカッコイイんだもん！&#x0a;たくさんつけて、己の道を突き進め！</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>ずっと相棒と一緒</name>
+  <detail>役に立たなくても、わがままでも、ずっとそばにいたいの。こんなあたしだけど許してね？　これからもよろしく、相棒！</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="000">
+  <name>不倒のセイル</name>
+  <detail>あの時オレを救ってくれた金髪とピンク頭の二人組の女たちは一体……？&#x0a;今でもアークスとして活躍しているなら一言礼が言いたいぜ。</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>チーズケーキの味</name>
+  <detail>今まで私は、姉と疎遠になっていたんです。無事にこの惑星から脱出できたら、その姉に会いに行くつもりです。</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="B" pid="000">
+  <name>遥かな時と銀河を超えて出会った二人</name>
+  <detail>運命という言葉は信じない。そんな安い言葉では言い知れないからだ。ただ彼女と出会えた奇跡に感謝し、この感情を分かち合いたい。</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>オペレーターとして</name>
+  <detail>今まで一人で抱えていた気持ちを、あなたに聞いてもらえて良かった。これからもオペレーターとして、私はあなたを支え続けるわ。</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="000">
+  <name>体調管理は大事です</name>
+  <detail>素行の悪い人はお仕置きです。極太お注射であなたの急所を狙い打ち！&#x0a;ですよ？</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="B" pid="000">
+  <name>職人の心意気</name>
+  <detail>お前達が結果を出したのだから、ここからは俺の領分だな。言葉で感謝を伝えるのは容易いが、もっと確かな手応えを与えよう。</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>オルクスパパと家族の絆</name>
+  <detail>やっとカミさんからの便りを読むことができた。また家族と会いたいと思えるようになったのは、お前達のお陰だ。感謝してるぜ。</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="B" pid="000">
+  <name>当たり前の料理</name>
+  <detail>みなさん慌てず召し上がれ。ところであの話はどこまで本当か？ですって～？&#x0a;それは……内緒なのですよ！</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="B" pid="000">
+  <name>オレは武器職人王になる！</name>
+  <detail>武器を作る者と扱う者、両者が互いに切磋することで高みへと近付いていくんだな。オレとお前なら、新しい伝説も生み出せる筈だ！</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="B" pid="000">
+  <name>恋人は仕事……？</name>
+  <detail>私は……あの人の喜んでいる顔を見たくて、仕事をしていたのでしょうか？&#x0a;んー、んー、解析不能です。</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="B" pid="000">
+  <name>英雄の意思</name>
+  <detail>お前らならやれると信じてるぞ。見ててやるから、好き放題暴れてみせろ！&#x0a;いつかエスコートしてくれるのを待ってるからな！</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>師範代</name>
+  <detail>レベル５０を達成！&#x0a;かなり熟練した戦士。そろそろ弟子でもとったらどうですか？</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="S" pid="000">
+  <name>師範</name>
+  <detail>レベル１００を達成！&#x0a;アークス最強の戦士に仲間入り。これであなたもモッテモテ！</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>はじめての解凍</name>
+  <detail>はじめてクルーを解凍！&#x0a;記念すべき仲間第一号はどんな子かな？&#x0a;これから一緒にこの惑星を探索していこう！</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>クルー増加中</name>
+  <detail>様々なクルーを解凍！&#x0a;そろそろお気に入りの子は出てきたかな？　自分のお気に入りの子だけを揃えて最強の部隊を作ろう！</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="S" pid="000">
+  <name>クルーいっぱい</name>
+  <detail>多くのクルーを解凍！&#x0a;あんな子もこんな子も命令し放題。適材適所で自分だけの帝国を作ろう！</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>英雄の勲章</name>
+  <detail>ダーカーを１１１１体撃破！&#x0a;これであの人に少しは近づけた筈。もらった勲章は大切にしよう。</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="S" pid="000">
+  <name>英雄王の勲章</name>
+  <detail>エネミーを１１１１１体撃破！&#x0a;伝説に残る偉業を達成。これであの人と肩を並べる英雄になれた筈。その勲章に恥じぬアークスとなろう。</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="S" pid="000">
+  <name>ギガンテススレイヤー</name>
+  <detail>ギガンテスを１１１体撃破！&#x0a;その骸の先に何があるのか！？&#x0a;ギガンテス殺しの二つ名を得た君が見据えるその先にあるモノとは……&#x0a;&#x0a;※シミュレーター、訓練のギガンテスは対象外</detail>
+ </trophy>
+ <trophy id="039" hidden="yes" ttype="B" pid="000">
+  <name>アルテイオスハンター</name>
+  <detail>アルテイオスに勝利！&#x0a;でっかい甘えん坊竜をおしおき！&#x0a;もう大砲だってへっちゃら！</detail>
+ </trophy>
+ <trophy id="040" hidden="yes" ttype="B" pid="000">
+  <name>ヴィヴリュードハンター</name>
+  <detail>ヴィヴリュードに勝利！&#x0a;でっかいエビをおしおき！&#x0a;今夜はギガ海鮮丼・特盛り！</detail>
+ </trophy>
+ <trophy id="041" hidden="yes" ttype="B" pid="000">
+  <name>グラヴディオンハンター</name>
+  <detail>グラヴディオンに勝利！&#x0a;でっかいお馬さんをおしおき！&#x0a;これでチェーンソーの騒音も解消！</detail>
+ </trophy>
+ <trophy id="042" hidden="yes" ttype="B" pid="000">
+  <name>デェフキュオネハンター</name>
+  <detail>デェフキュオネに勝利！&#x0a;でっかいうねうねをおしおき！&#x0a;これで大火事の心配もナッシング！</detail>
+ </trophy>
+ <trophy id="043" hidden="yes" ttype="B" pid="000">
+  <name>リベルゲンテハンター</name>
+  <detail>リベルゲンテに勝利！&#x0a;虫のような列車のようなギガンテスから、何とか拠点と仲間達を守り切ることに成功。</detail>
+ </trophy>
+ <trophy id="044" hidden="yes" ttype="S" pid="000">
+  <name>レイヴガイストハンター</name>
+  <detail>レイヴガイストに勝利！&#x0a;惑星ノヴァ最強の守護神を超え、英雄達の新たな最強伝説が始まる。</detail>
+ </trophy>
+ <trophy id="045" hidden="yes" ttype="G" pid="000">
+  <name>ソードDEデート</name>
+  <detail>エスコートの約束を果たしてくれてありがとな。背中を預けられる安心感ってヤツを思い出したよ。またつきあってくれるよな相棒！</detail>
+ </trophy>
+ <trophy id="046" hidden="yes" ttype="G" pid="000">
+  <name>湯けむりの向こう側へ</name>
+  <detail>覗かなかった者は一流のアークス。最後まで覗いた者もまた、一流のアークス。&#x0a;そんな気がしてならない！</detail>
+ </trophy>
+</trophyconf>

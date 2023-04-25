@@ -1,0 +1,212 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000679d329978c8c73e13e604a840c719808eeed8a05cf8c35bf0701adf012d1bd7ad68f9e798b4ff81b2ca06ee769d4535c32cd3d325795cd4de0e87bd3bc59ab03b0258799394fdd680ce813ed4ba261eab6e16d0752fa3733b49eb535f95404d6e33c20bb3dcd07dc324a3145c07504515380727a490878cab636fe855f697cff1279e30f7f688b62a66c7dd002f695cd300eb32-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR04528_00</npcommid>
+ <trophyset-version>01.02</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>MotoGP™13</title-name>
+ <title-detail>Trofeos de MotoGP™13</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>¡Campeón de MotoGP™!</name>
+  <detail>Consigue todos los trofeos</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Jugador ocasional</name>
+  <detail>Alcanza 60 minutos de carrera en partidas online válidas</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Jugador leal</name>
+  <detail>Alcanza 3 horas de carreras en partidas online válidas</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Piloto wild card online</name>
+  <detail>Completa un Gran Premio online</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>Contendiente online</name>
+  <detail>Completa un Campeonato online</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>Creemos en ti</name>
+  <detail>Firma tu primer contrato en el modo Trayectoria</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>Red social</name>
+  <detail>Entra en la página Redes sociales en el modo Trayectoria</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>Famoso local</name>
+  <detail>Consigue 40.000 seguidores en el modo Trayectoria</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>Buen trabajo, chaval</name>
+  <detail>Consigue un objetivo en el modo Trayectoria</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>Buen comienzo</name>
+  <detail>Consigue 20.000 seguidores en el modo Trayectoria</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>¡Bienvenido!</name>
+  <detail>Crea tu primer piloto personalizado</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>Novato</name>
+  <detail>Alcanza el nivel GP 5</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>Paso a paso</name>
+  <detail>Alcanza el nivel GP 10</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>Trotamundos</name>
+  <detail>Completa una carrera válida en todos los circuitos del juego</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>Caballito salvaje</name>
+  <detail>Acumula 2 minutos haciendo caballitos</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>Una reverencia</name>
+  <detail>Acumula 2 minutos haciendo Stoppies</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Coleccionista</name>
+  <detail>Aumenta tu nivel GP para desbloquear un equipo</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>La seguridad es lo primero</name>
+  <detail>Aumenta tu nivel GP para desbloquear un casco</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>Maestro titiritero</name>
+  <detail>Aumenta tu nivel GP para desbloquear un piloto</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Adicto a la moda</name>
+  <detail>Cambia el casco de tu piloto en la sección Personalización del piloto</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>¿Piloto o mecánico?</name>
+  <detail>Entra en el menú de ajustes de la moto en boxes</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>Confío en ti</name>
+  <detail>Usa la reunión técnica en boxes para cambiar los ajustes de la moto</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>Cuestión de puntos de vista</name>
+  <detail>Corre usando la vista de casco</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>El más rápido</name>
+  <detail>Da la vuelta rápida en una carrera offline</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>Real como la vida misma</name>
+  <detail>Elige la física Pro en Ayudas de conducción y completa una carrera</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>Segunda oportunidad</name>
+  <detail>Sal a pista y usa un Rewind</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>Rey de la lluvia</name>
+  <detail>Gana en condiciones de lluvia (Lluvia o Lluvia ligera)</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>Semental italiano</name>
+  <detail>Gana una carrera en un circuito italiano con un piloto italiano</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>Furia española</name>
+  <detail>Gana una carrera en un circuito español con un piloto español</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>Momentos mágicos</name>
+  <detail>Entra en el modo Repetición por primera vez</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>Mis dulces 15</name>
+  <detail>Alcanza el nivel GP 15</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>Claiming Rule Team</name>
+  <detail>Gana una carrera de MotoGP™ con una de estas motos: ART, TR, FTR Kawasaki, FTR Honda, Suter, PBM</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>Black Mamba</name>
+  <detail>Gana una carrera en Mugello como J. Lorenzo</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>El monstruo de la Laguna</name>
+  <detail>Gana una carrera en Laguna Seca como V. Rossi</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>Popular en Japón</name>
+  <detail>Gana una carrera en Motegi como D. Pedrosa</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>Vuelve Kentucky Kid</name>
+  <detail>Gana una carrera en Laguna Seca como N. Hayden</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>Texas Terror</name>
+  <detail>Gana una carrera en el circuito de las Américas como B. Spies</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>Fenómeno</name>
+  <detail>Alcanza el nivel GP 20</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>Pole</name>
+  <detail>Consigue una pole en una carrera offline</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="S" pid="000">
+  <name>Como el rayo</name>
+  <detail>Alcanza los 300 km/h (187 mph) en cualquier modo de juego</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="S" pid="000">
+  <name>En portada</name>
+  <detail>Aparece en la portada de la revista "Bike Today" en el modo Trayectoria</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="S" pid="000">
+  <name>Estrella</name>
+  <detail>Consigue 1.000.000 de seguidores en el modo Trayectoria</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="S" pid="000">
+  <name>Veterano</name>
+  <detail>Firma tu primer contrato de categoría MotoGP en el modo Trayectoria</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="S" pid="000">
+  <name>Piloto de fábrica</name>
+  <detail>Firma un contrato de categoría MotoGP con Ducati, Honda o Yamaha</detail>
+ </trophy>
+ <trophy id="044" hidden="no" ttype="S" pid="000">
+  <name>Profesional</name>
+  <detail>Alcanza el nivel GP 25</detail>
+ </trophy>
+ <trophy id="045" hidden="no" ttype="S" pid="000">
+  <name>Distancia media</name>
+  <detail>Pilota durante al menos 1.000 km (622 millas) en cualquier modo de juego offline</detail>
+ </trophy>
+ <trophy id="046" hidden="no" ttype="S" pid="000">
+  <name>Triplete</name>
+  <detail>Consigue la pole, la vuelta rápida y la victoria en el mismo fin de semana offline</detail>
+ </trophy>
+ <trophy id="047" hidden="no" ttype="S" pid="000">
+  <name>Como Márquez</name>
+  <detail>Gana una carrera saliendo el último</detail>
+ </trophy>
+ <trophy id="048" hidden="no" ttype="S" pid="000">
+  <name>Apasionado</name>
+  <detail>Alcanza el nivel GP 40</detail>
+ </trophy>
+ <trophy id="049" hidden="no" ttype="G" pid="000">
+  <name>Campeón del mundo</name>
+  <detail>Gana el mundial de pilotos en cualquier categoría en el modo Trayectoria</detail>
+ </trophy>
+ <trophy id="050" hidden="no" ttype="G" pid="000">
+  <name>¿Doctor? ¿Qué Doctor?</name>
+  <detail>Termina por delante de Valentino Rossi en un campeonato basado en el calendario oficial</detail>
+ </trophy>
+</trophyconf>

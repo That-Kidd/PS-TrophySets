@@ -1,0 +1,160 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000117688b88f37c251fed9154e3bf3eaefe490600a73f76895a569a28de007d13e69a1d7e67f9a2faa31841c72fc6450997052dcc3347a1240a7b6d7d0038a336bebc5c691db6cbb0cf9f1780cbceed6db23589f12626d7ebaef67ae5019e69905d66a640c154c00484674b00e62711095f75e08a15c2add15a9d325124ae3afef802a3d1616a5afa426dcc65c6124edc865ff0426-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR04770_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Rayman® Legends</title-name>
+ <title-detail>Rayman® Legends</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>¡Auténtica leyenda!</name>
+  <detail>Ganar todos los trofeos del juego.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>¡Qué barbaridad tan Bárbara!</name>
+  <detail>Rescate de Bárbara</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>¡Salvaprincesas!</name>
+  <detail>Rescatar a las 10 princesas.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>Directos a la Luna</name>
+  <detail>Librarte de los cinco diminutos oscuros.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>La cooperativa</name>
+  <detail>Ganar todas las criaturas.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>Nostalgia</name>
+  <detail>Terminar tu primer cuadro de "Vuelta a los Orígenes".</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>El historiador</name>
+  <detail>Terminar todos los cuadros de "Vuelta a los Orígenes".</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>Amigo de los diminutos</name>
+  <detail>Liberar 100 diminutos.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>Héroe de los diminutos</name>
+  <detail>Liberar 300 diminutos.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>El resplandor</name>
+  <detail>Desbloquear al diminuto dorado.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>¡Un golpe limpio!</name>
+  <detail>Salvar a todos los diminutos de un mundo para ganar una copa de diamante.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>Legendario</name>
+  <detail>Ganar todas las copas de diamante de Legends.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>Volver a empezar</name>
+  <detail>Ganar todas las copas de diamante de "Vuelta a los Orígenes".</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>¡El contendiente!</name>
+  <detail>Ganar una copa al final de un reto.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>¡Espíritu ganador!</name>
+  <detail>Desbloquear todos los cuadros de reto.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="G" pid="000">
+  <name>¡Campeón!</name>
+  <detail>Ganar una copa de diamante al final de un reto.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Toque perfecto</name>
+  <detail>Completar un cuadro de reto de Murfy sin recibir ni un golpe.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="G" pid="000">
+  <name>¡Millonario!</name>
+  <detail>Recoger 1 millón de lums para desbloquear el héroe final.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>¡Suertudo!</name>
+  <detail>Rascar 10 billetes de la suerte.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Podríamos ser héroes</name>
+  <detail>Recoger lums suficientes para desbloquear 10 cuadros de héroes en la galería de héroes.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>¡Tomayaaaaa!</name>
+  <detail>Sacar un nabo de la tierra con un aplastataque, y luego atizarle con una saltopatada.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>Destrozanabos</name>
+  <detail>Acabar con 10 enemigos a "nabazo" limpio.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>El matadragones</name>
+  <detail>Disparar a todos los dragones con el tirachinas en "Cómo estresar a tu dragón".</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>¡Terminator!</name>
+  <detail>Acabar con todos los esbirros del sapo jefe.</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>Patinaje sobre hacha</name>
+  <detail>Deslizarte durante 30 metros.</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>El hombre en la sombra</name>
+  <detail>Terminar un cuadro de "Veinte mil lums de viaje submarino" sin ser detectado por una luz o un láser.</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>El cosquilleador</name>
+  <detail>Hacer cosquillas a 50 enemigos.</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>Un mal chiste</name>
+  <detail>Destrozar el paracaídas de 5 enemigos para hacer que caigan.</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>Dedazo de oro</name>
+  <detail>Conseguir 5 000 lums con Murfy.</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>¡Háblale a mi mano!</name>
+  <detail>Estrujar a 20 criaturas del escenario controlando a Murfy.</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="G" pid="000">
+  <name>¡Alucina-cinante!</name>
+  <detail>Alcanzar el nivel final de Alucinagenialidad.</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="S" pid="000">
+  <name>Plantar cara a la oscuridad</name>
+  <detail>Dar un puñetazo a una criatura oscura en "Dioses del Oh-limpio"</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="S" pid="000">
+  <name>¡Qué atropello!</name>
+  <detail>En una ronda de "Lucha libre y pies en polvorosa", hacer que el luchador arroye a 10 enemigos por ti.</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>Fuego amigo</name>
+  <detail>Eliminar a un sapo usando su proyectil eléctrico.</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>Fuego con fuego</name>
+  <detail>Contrarrestar 10 bolas de fuego de los sapos con el puñetazo volador.</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>¡Perfecto!</name>
+  <detail>Conseguir las 3 copas de lums y las 3 copas de diminutos de un cuadro.</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>¡A saco!</name>
+  <detail>Librarte de 100 enemigos con el puñetazo volador.</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>Patos de goma</name>
+  <detail>Destruir 5 patos de goma enviados por los tiburhombres.</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,52 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000068fff33275b91e712de199904d093a1f3dcb4f38b0ba9b8ad034ec1b808a94fa1605441ab052e6ea277d3343958d271818cd3f8b974eda20feef4073436f279c4643f132a48b825b60a0eff212ee9f1c3be1f52e4a68e86bbfb343aef5da31a51c9e30d5e24464bd83c745e0978adbef14295d65780d0193caf532d5acf37208a1946afe839d2f71a4e1cacbaf810d5916530164-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR05667_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Tadeo Jones</title-name>
+ <title-detail>Tadeo Jones Game</title-detail>
+ <trophy id="000" hidden="no" ttype="G" pid="-1">
+  <name>Completar el juego</name>
+  <detail>Completar el juego.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="-1">
+  <name>Recoleccion obsesiva</name>
+  <detail>Recoge 1000 monedas.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="-1">
+  <name>Intocable</name>
+  <detail>Completar un nivel sin morir.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="-1">
+  <name>Ganar a Kopponen</name>
+  <detail>Ganar a Kopponen</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Recolector</name>
+  <detail>Recoger todas las monedas de un mapa</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Completar el tutorial</name>
+  <detail>Completar el mundo de 'Tutorial'</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Completar los origenes</name>
+  <detail>Completar el mundo de 'Los Origenes'</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Completar el sotano maldito</name>
+  <detail>Completar el mundo de 'El sotano maldito'</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Completar las aventuras de tadeo</name>
+  <detail>Completar el mundo de 'Las aventuras de tadeo'</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>Primeras cinco</name>
+  <detail>Recoge 5 monedas </detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>Completar un mapa</name>
+  <detail>Completar un mapa</detail>
+ </trophy>
+</trophyconf>

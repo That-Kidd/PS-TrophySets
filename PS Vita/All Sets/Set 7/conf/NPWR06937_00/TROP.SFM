@@ -1,0 +1,144 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000056319fabf177b854a69ab1725ca8ddf8b6723ad10b37bd303f9854794d2c0ecfe3e2a0f85030a4709c801fd0d7a0766e35b57ca19299688af47e42b2ef4aec13d5d81c62757df05edd7170393058f0907974e9b893ea5e218f11f699cf82e8ba9521c7ce780dfe9d24a550ab0909bfe4a6bad3e8f54cfc6dcd3b724f7a66aa670e29279f4b75ea4ffb1afe1193ffcd064b1aeded-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR06937_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>FIFA 15</title-name>
+ <title-detail>FIFA 15 Trophies</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Football Legend</name>
+  <detail>Unlock all other trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Pinpoint Accuracy</name>
+  <detail>Score a goal using the screen (touchscreen) shot, or a rear touch pad shot</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>Sharp Shooter</name>
+  <detail>Score 50 goals using a touch shot</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Pressure is On</name>
+  <detail>Score a penalty kick using a touch shot</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>You Pointing at Me?</name>
+  <detail>Make a successful direct pass using the touchscreen</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>Thread the Needle</name>
+  <detail>Make a successful through pass using the touchscreen</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>Control the Open Space</name>
+  <detail>Make a successful lob pass using the touchscreen in a match</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>Nimble Fingers</name>
+  <detail>Score a touchscreen or rear touch pad goal from a touchscreen pass</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>Pass Master</name>
+  <detail>Make 100 successful passes using the touchscreen</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>All My Own Work</name>
+  <detail>Win a Match with Manual Controls</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>Good Week!</name>
+  <detail>Get yourself selected in the Team of the Week in Career Mode</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>Great Month!</name>
+  <detail>Win the Manager of the Month award in Career Mode</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>Folklore</name>
+  <detail>Become a Legend as a player in Career Mode</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>Woodwork and In!</name>
+  <detail>Score off the post or cross bar in a match</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>In the Game</name>
+  <detail>Create a Virtual Pro</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>Classy</name>
+  <detail>Complete 5 Kit &amp; Appearance Accomplishments</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Trait-or</name>
+  <detail>Unlock a trait for your Virtual Pro</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Massive Signing</name>
+  <detail>Sign a player better than anyone else on your club during the transfer window</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>FIFA Fair Play</name>
+  <detail>Play 5 consecutive matches without getting any cards (Bookings must be enabled in the settings)</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="G" pid="000">
+  <name>Tour Bus</name>
+  <detail>Complete a match in every stadium</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>Challenging Schedule</name>
+  <detail>Complete a Manager Mode Season without simming a game</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>Cup Upset</name>
+  <detail>Win a Tournament that starts with sixteen teams with a 1 Star rating team </detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>Custom Sixty Four Winner</name>
+  <detail>Win a Created Tournament that starts with sixty four teams</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>Festive</name>
+  <detail>Complete 5 Accomplishments that unlock Celebrations Packs</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="G" pid="000">
+  <name>Back to Back</name>
+  <detail>Win consecutive League titles in any top tier League in Manager Mode</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="G" pid="000">
+  <name>Fortress</name>
+  <detail>Don't lose any matches played at Home in a season.</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>A Man Down</name>
+  <detail>Win a game when down one man before half-time.</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>Don't Blink</name>
+  <detail>Score within the first 5 minutes of the game in a game vs the CPU</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="S" pid="000">
+  <name>No Draw for You!</name>
+  <detail>Score a 90th minute winner in a game vs the CPU</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>Ruud boy</name>
+  <detail>Score a goal from a volley</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>One Goal a Season</name>
+  <detail>Score a goal with a defender</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="S" pid="000">
+  <name>Tiki Taka</name>
+  <detail>Make 20 consecutive passes between at least 3 players in the opponent's half</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="G" pid="000">
+  <name>Sparkly Clean</name>
+  <detail>Keep a clean sheet on World Class difficulty or higher</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="S" pid="000">
+  <name>Off the Top of my Hat</name>
+  <detail>Score a Hat Trick with your Virtual Pro</detail>
+ </trophy>
+</trophyconf>

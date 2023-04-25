@@ -1,0 +1,228 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000083fc5ee5f7c1c43ad3e1b8f97ab0eaea705c1b848f5d59581cca137fbc2a2e83bead1d01dd4d7fba9e771a937ee5e5f8ea7efabba313e85a20268a23a80b18b0f8e1e559ca0defa74bce0ea2169083e0023dcad35821fcb8232e29dbeffb7d9afb9ed909babbc9d3ee2c18b5ebb1771067a59474b3d1029c2cb11e876d4a01f7e986ca160ab27ccdfdf1b1b2491fd616fdf9a2be-->
+<trophyconf version="1.1" platform="psp2">
+ <npcommid>NPWR02957_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Little Deviants™</title-name>
+ <title-detail>The Little Deviants are here and causing chaos everywhere!</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Trophyumphant</name>
+  <detail>Unlock all other trophies.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>Devilish Deviant</name>
+  <detail>Win a gold spaceship on all games.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>Competent Deviant</name>
+  <detail>Win at least a silver spaceship on all games.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>Cat-alogued</name>
+  <detail>All Moggers collected.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>Exhibitionist</name>
+  <detail>All gallery items unlocked.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>Terminated</name>
+  <detail>Destroy 2,500 Botz.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>Grave Digger</name>
+  <detail>Destroy 500 Dead 'Uns.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>Starry Eyed</name>
+  <detail>Collect 5,000 Stars.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>Find the Time</name>
+  <detail>Collect 1,000 Clocks.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>Over-boinged</name>
+  <detail>Bounce a Deviant 1,500 times.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>Fun Deviant</name>
+  <detail>Win at least a bronze spaceship on all games.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>Dipped into Deviants</name>
+  <detail>Win your first bronze spaceship.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>Mmm, hardware</name>
+  <detail>Use each of the PlayStation®Vita system's input devices that are featured in Little Deviants.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>Taste of Victory</name>
+  <detail>Win your first gold spaceship.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>Meow!</name>
+  <detail>Collect your first Mogger.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>Twisty Root Grove</name>
+  <detail>Unlock Twisty Root Grove region.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Chillrock Gorge</name>
+  <detail>Unlock Chillrock Gorge region.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Surfcrest Bay</name>
+  <detail>Unlock Surfcrest Bay region.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>Metroburg</name>
+  <detail>Unlock Metroburg region.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Blackrust Refinery</name>
+  <detail>Unlock Blackrust Refinery region.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>Scored!</name>
+  <detail>Post a score to the online leaderboard.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>Throwdown</name>
+  <detail>Challenge a PlayStation®Network friend.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>Honour Upheld</name>
+  <detail>Defeat a challenge from a PlayStation®Network friend.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>Long Way Roller</name>
+  <detail>Roll 500,000m.</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>Air Miles And Miles</name>
+  <detail>Fly 1,000,000m.</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>Full Controller</name>
+  <detail>Complete Rolling Pastures with full health at the end of the game.</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>Kyle says, "Don't touch..."</name>
+  <detail>Score over 35,000 points in Shack Shover without hitting a Whoman or a Deviant.</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>No-Electro Hero</name>
+  <detail>Complete Corridor Caper without using any EMP pickups.</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>The Mighty Boost</name>
+  <detail>Boost through all the rings in any single stage of Cloud Rush.</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>Day None Patch</name>
+  <detail>Complete Hot Air Hero without patching the balloon once.</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>Dead 'Un Masher</name>
+  <detail>Splat 6 or more Dead 'Uns with one shot in Rotten Rumble.</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>Bomb 'Em, Man</name>
+  <detail>Destroy 2 or more Dead 'Uns with one fire attack in Corridor Calamity.</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>They mostly come at night, mostly</name>
+  <detail>Play Rolling Horror between 00:00 and 01:00.</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>Stay on target!</name>
+  <detail>Boost 5 times in a row without crashing in Death Speeder.</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>Sharpshooter</name>
+  <detail>Destroy 10 Botz without missing a shot in a game of Botz Invasion.</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>Timeless</name>
+  <detail>Score at least 28,000 points in Chalet Shover without using any Clock pickups.</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>Blink and you'll miss it</name>
+  <detail>Pick up a Star from the secret chamber in Risky Rambler.</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>Storm Chaser</name>
+  <detail>Hit at least 10 different wind vortices in Depth Dive and still complete the game.</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>Smooth Mover</name>
+  <detail>Complete Depth Charge without hitting any walls.</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="000">
+  <name>I didn't wipe</name>
+  <detail>Complete Botz Blast without wiping any green goo from the screen.</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="B" pid="000">
+  <name>Cave Brave</name>
+  <detail>Collect at least 120 pickups in a single game of Risky Trails.</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="B" pid="000">
+  <name>Star Barred</name>
+  <detail>Complete Aqua Speeder without picking up more than 20 Stars.</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="B" pid="000">
+  <name>Crate Breaker</name>
+  <detail>Break open a crate in under half a second in Rolling Shores.</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="B" pid="000">
+  <name>Jump Around</name>
+  <detail>Jump on one platform 5 times in Bouncer Trouncer.</detail>
+ </trophy>
+ <trophy id="044" hidden="no" ttype="B" pid="000">
+  <name>Just made it!</name>
+  <detail>Finish Stage 4 of Depth Avenger with at least 10 seconds remaining.</detail>
+ </trophy>
+ <trophy id="045" hidden="no" ttype="B" pid="000">
+  <name>Laaaaaaaaaaaaaa!</name>
+  <detail>Hold a note in Smashing Tune for at least 5 seconds.</detail>
+ </trophy>
+ <trophy id="046" hidden="no" ttype="B" pid="000">
+  <name>Perfect 12</name>
+  <detail>In City Shover hit all 12 Number-Botz in sequence.</detail>
+ </trophy>
+ <trophy id="047" hidden="no" ttype="B" pid="000">
+  <name>Watch the Birdy</name>
+  <detail>Collect 3 bird pickups in a single game of Tower of Boing.</detail>
+ </trophy>
+ <trophy id="048" hidden="no" ttype="B" pid="000">
+  <name>A Head for Heights</name>
+  <detail>Complete Stage 1 of Risky Inclination with at least 30 seconds remaining.</detail>
+ </trophy>
+ <trophy id="049" hidden="no" ttype="B" pid="000">
+  <name>Deviant Storm</name>
+  <detail>Boost over the finishing line in Street Speeder.</detail>
+ </trophy>
+ <trophy id="050" hidden="no" ttype="B" pid="000">
+  <name>Stream Saver</name>
+  <detail>Complete Neutron Nudger without any Botz damaging the energy sphere.</detail>
+ </trophy>
+ <trophy id="051" hidden="no" ttype="B" pid="000">
+  <name>The right way is the wrong way</name>
+  <detail>Complete Manic Melter by only twisting the platform clockwise.</detail>
+ </trophy>
+ <trophy id="052" hidden="no" ttype="B" pid="000">
+  <name>Cold as Ice</name>
+  <detail>Smash 5 frozen Botz or more in a game of Corridor Complications.</detail>
+ </trophy>
+ <trophy id="053" hidden="no" ttype="B" pid="000">
+  <name>Heavy Metal</name>
+  <detail>Destroy 20 Botz in Destructor Constructor.</detail>
+ </trophy>
+ <trophy id="054" hidden="no" ttype="B" pid="000">
+  <name>Teacher's Pet</name>
+  <detail>Input 3 consecutive codes correctly in Cannon Codes. </detail>
+ </trophy>
+</trophyconf>

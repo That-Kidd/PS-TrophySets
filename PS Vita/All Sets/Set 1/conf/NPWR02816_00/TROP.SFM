@@ -1,0 +1,144 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000006669301350205610f76b5811d7be29c80b1f77cac7d214ac602aef120928d4acc122b601b783680785cc10e45b5218dce03ab714baef58586acda1fedbafe611046b8a80d39d75fec0d23c2237a91e391ea2bbfffd57073511b18ee05c9daa18bf7954ab4f44f0fba4407e0989f5ab5ff3187f1741e4c87544358bdabb6662df171623e84ab5f41021c0f2f769695fa46e948742-->
+<trophyconf version="1.1" platform="psp2">
+ <npcommid>NPWR02816_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Asphalt: Injection</title-name>
+ <title-detail>Asphalt: Injection</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Asphalt Domination</name>
+  <detail>Collect all Asphalt trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>First First!</name>
+  <detail>Finish in 1st place!</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Three in a Row!</name>
+  <detail>Finish in 1st place 3 times in a row!</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>Contender</name>
+  <detail>Win 10 multiplayer races</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>Legend</name>
+  <detail>Win 100 multiplayer races</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>Photo Finish</name>
+  <detail>Finish 1st in a MP race less than 1s ahead of the 2nd-place finisher</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>Persistent</name>
+  <detail>Complete 50 races</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>Veteran</name>
+  <detail>Complete 100 multiplayer races</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>Perfectionist</name>
+  <detail>Obtain the maximum amount of stars for all events in a league&#x0a;</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>Accomplished</name>
+  <detail>Finish every race in Career Mode</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>Lickety Split</name>
+  <detail>Collect 25 Nitro power-ups in a single race</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>Velocious</name>
+  <detail>Collect 35 Nitro power-ups in a single race</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>Collection Master</name>
+  <detail>Collect more than half of the purple cash items in a Collector race</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>Brute</name>
+  <detail>Knock down 10 opponents in a race</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>CARnage!</name>
+  <detail>Knock down 15 opponents in a race</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>1, 2, 3</name>
+  <detail>Perform 3 knockdowns in 10 seconds</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>Berserk</name>
+  <detail>Perform 5 knockdowns in 20 seconds</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Harasser</name>
+  <detail>Perform at least 3 knockdowns on the same opponent</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="G" pid="000">
+  <name>Shakedown</name>
+  <detail>Knock down each opponent at least once in a single race</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="G" pid="000">
+  <name>Drift Warrior</name>
+  <detail>Knock down an opponent while drifting</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>Drifter</name>
+  <detail>Earn over 2000 drift points in a single race</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>Tyre-Grater</name>
+  <detail>Earn over 3000 drift points in a single race</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="G" pid="000">
+  <name>Around the World</name>
+  <detail>Earn over 1000 drift points in a single drift</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>Drift to the Beat</name>
+  <detail>Earn over 500 drift points in a Beat 'em All race</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>Bouncing Bucket</name>
+  <detail>Jump 1000m in a single race</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="S" pid="000">
+  <name>Catapulting Clunker</name>
+  <detail>Jump 1500m in a single race</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>Safety First</name>
+  <detail>Complete a Normal Race without crashing once</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>Spotless</name>
+  <detail>Complete a Normal Race without touching a wall</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>Get Away From Me!</name>
+  <detail>Complete a Normal Race without touching an opponent</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>Survivor</name>
+  <detail>Win an Under Pressure race without crashing once</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>Air Time</name>
+  <detail>Hit at least 1 jump in each lap in a single race</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>Blowout</name>
+  <detail>Finish each lap in first place in a single race</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>Show-Off</name>
+  <detail>Cross the finish line while drifting</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>Too Good</name>
+  <detail>Win a race without using Nitro</detail>
+ </trophy>
+</trophyconf>

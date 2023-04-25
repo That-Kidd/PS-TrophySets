@@ -1,0 +1,276 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000155d00e8edb29e90cc1a3b4012c028ca47028f778b88c3f0db9d87d0f770e1df8210bff8dcd79e1d3ea8f40b4e90b8816cec14ca1b6ade6bbfca77065effeaa53d89a8de63f39e8b6349a4a1e17762f510a0521819ce91ec9359b1993f5e68e5c12c5b6f743776e9015fa846bdfe6d2d9c28a4b0783bd62cb39b04c9ba6e5962e67113a78cd2aa386b641e4804adaed6b711fba6-->
+<trophyconf version="1.1" platform="psp2">
+ <npcommid>NPWR02457_00</npcommid>
+ <trophyset-version>01.03</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>GRAVITY RUSH™</title-name>
+ <title-detail>GRAVITY RUSH™ Trophies</title-detail>
+ <group id="001">
+  <name>Maid Pack</name>
+  <detail>The Maid Pack Trophies</detail>
+ </group>
+ <group id="002">
+  <name>Spy Pack</name>
+  <detail>The Spy Pack Trophies</detail>
+ </group>
+ <group id="003">
+  <name>Special Forces Pack</name>
+  <detail>The Special Forces Pack Trophies</detail>
+ </group>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>It's all Relative</name>
+  <detail>Collected every trophy. Congratulations!</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Lost Kat</name>
+  <detail>Awakened in Auldnoir.</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>Learner's Permit</name>
+  <detail>Mastered the fundamentals of gravity.</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>From Oblivion</name>
+  <detail>Completed Episode 1.</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>Shadows Over the City</name>
+  <detail>Completed Episode 2.</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>Home Sweet Home</name>
+  <detail>Completed Episode 3.</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>The Hekseville Phantom</name>
+  <detail>Completed Episode 4.</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>A Meeting with Destiny</name>
+  <detail>Completed Episode 5.</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>The Lost City</name>
+  <detail>Completed Episode 6.</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="000">
+  <name>Too Many Secrets</name>
+  <detail>Completed Episode 7.</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="000">
+  <name>A Hundred and One Nights</name>
+  <detail>Completed Episode 8.</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>Letting Old Ghosts Die</name>
+  <detail>Completed Episode 9.</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="B" pid="000">
+  <name>Curiosity Killed the Cat</name>
+  <detail>Completed Episode 10.</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="000">
+  <name>Thick Skin</name>
+  <detail>Completed Episode 11.</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="B" pid="000">
+  <name>Look Out Below</name>
+  <detail>Completed Episode 12.</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>Kids Just Don't Understand</name>
+  <detail>Completed Episode 13.</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>The Lost Tribe</name>
+  <detail>Completed Episode 14.</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>Memories of Another World</name>
+  <detail>Completed Episode 15.</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>Children of the Past</name>
+  <detail>Completed Episode 16.</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>Fading Light</name>
+  <detail>Completed Episode 17.</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="000">
+  <name>Adreaux On Call</name>
+  <detail>Completed Episode 18.</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>Falling to Pieces</name>
+  <detail>Completed Episode 19.</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="B" pid="000">
+  <name>An Unguarded Moment</name>
+  <detail>Completed Episode 20.</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="G" pid="000">
+  <name>No Rest for the Virtuous</name>
+  <detail>Completed Episode 21.</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>Ancient Game Hunter</name>
+  <detail>Defeated the rare Nevi in Rift Planes: The Ruins.</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="S" pid="000">
+  <name>Burning Game Hunter</name>
+  <detail>Defeated the rare Nevi in Rift Planes: The Inferno.</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="S" pid="000">
+  <name>Illusory Game Hunter</name>
+  <detail>Defeated the rare Nevi in Rift Planes: The Mirage.</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="S" pid="000">
+  <name>Frequent Flyer</name>
+  <detail>Landed 10 gravity kicks without landing or taking damage.</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="S" pid="000">
+  <name>Throwing Machine</name>
+  <detail>Hurled 10 objects into enemies without missing or taking damage.</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="S" pid="000">
+  <name>Gravitational Anomaly</name>
+  <detail>Defeated 8 enemies with one special attack.</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>New Challenger</name>
+  <detail>Cleared a challenge.</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>True Challenger</name>
+  <detail>Cleared EVERY challenge.</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>Gold Medalist</name>
+  <detail>Gold-medaled a challenge.</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="S" pid="000">
+  <name>Silver Lining</name>
+  <detail>Earned a silver or better in every challenge.</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="G" pid="000">
+  <name>All That Glitters</name>
+  <detail>Gold-medaled EVERY challenge.</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="S" pid="000">
+  <name>Going Underground</name>
+  <detail>Discovered every manhole.</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="S" pid="000">
+  <name>Lost in Time and Space</name>
+  <detail>Heard the mysterious couple's complete story.</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="S" pid="000">
+  <name>Gem Collector</name>
+  <detail>Collected a total of 20,000 precious gems.</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="G" pid="000">
+  <name>Gem Aficionado</name>
+  <detail>Collected a total of 40,000 precious gems.</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="G" pid="000">
+  <name>Top Cat</name>
+  <detail>Raised Kat's reputation to “Top Cat.”</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>In Service</name>
+  <detail>Obtained the Maid costume.</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>The Diary of a Maid</name>
+  <detail>Completed The Diary of a Maid.</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>The Madam and the Shifter</name>
+  <detail>Completed The Madam and the Shifter.</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>Rooftop Walker</name>
+  <detail>Earned a silver medal or better in Auldnoir Free Race II.</detail>
+ </trophy>
+ <trophy id="044" hidden="no" ttype="S" pid="-1" gid="001">
+  <name>Rooftop Runner</name>
+  <detail>Earned a gold medal in Auldnoir Free Race II.</detail>
+ </trophy>
+ <trophy id="045" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>Unlimited Shifter</name>
+  <detail>Earned a silver medal or better in the Rift Plane Unlimited Time Attack.</detail>
+ </trophy>
+ <trophy id="046" hidden="no" ttype="S" pid="-1" gid="001">
+  <name>Maximum Shifter</name>
+  <detail>Earned a gold medal in the Rift Plane Unlimited Time Attack.</detail>
+ </trophy>
+ <trophy id="047" hidden="no" ttype="S" pid="-1" gid="001">
+  <name>Head of the Household</name>
+  <detail>Cleared every mission and challenge mission in the Maid Pack.</detail>
+ </trophy>
+ <trophy id="048" hidden="no" ttype="B" pid="-1" gid="002">
+  <name>Undercover</name>
+  <detail>Obtained the Spy costume.</detail>
+ </trophy>
+ <trophy id="049" hidden="no" ttype="B" pid="-1" gid="002">
+  <name>A Time to Play</name>
+  <detail>Completed A Time to Play.</detail>
+ </trophy>
+ <trophy id="050" hidden="no" ttype="B" pid="-1" gid="002">
+  <name>The Dreamlife of Ghosts</name>
+  <detail>Completed The Dreamlife of Ghosts.</detail>
+ </trophy>
+ <trophy id="051" hidden="no" ttype="B" pid="-1" gid="002">
+  <name>Second String Thrower</name>
+  <detail>Earned a silver medal or better in the Pleajeune Throwing Challenge.</detail>
+ </trophy>
+ <trophy id="052" hidden="no" ttype="S" pid="-1" gid="002">
+  <name>All Star Thrower</name>
+  <detail>Earned a gold medal in the Pleajeune Throwing Challenge.</detail>
+ </trophy>
+ <trophy id="053" hidden="no" ttype="B" pid="-1" gid="002">
+  <name>Magma Racer</name>
+  <detail>Earned a silver medal or better in the Rift Plane Health Race.</detail>
+ </trophy>
+ <trophy id="054" hidden="no" ttype="S" pid="-1" gid="002">
+  <name>Fireproof Racer</name>
+  <detail>Earned a gold medal in the Rift Plane Health Race.</detail>
+ </trophy>
+ <trophy id="055" hidden="no" ttype="S" pid="-1" gid="002">
+  <name>Superspy</name>
+  <detail>Cleared every mission and challenge mission in the Spy Pack.</detail>
+ </trophy>
+ <trophy id="056" hidden="no" ttype="B" pid="-1" gid="003">
+  <name>New Recruit</name>
+  <detail>Obtained the Special Forces costume.</detail>
+ </trophy>
+ <trophy id="057" hidden="no" ttype="B" pid="-1" gid="003">
+  <name>The Rules of War</name>
+  <detail>Completed The Rules of War.</detail>
+ </trophy>
+ <trophy id="058" hidden="no" ttype="B" pid="-1" gid="003">
+  <name>The Phantom of Bravery</name>
+  <detail>Completed The Phantom of Bravery.</detail>
+ </trophy>
+ <trophy id="059" hidden="no" ttype="B" pid="-1" gid="003">
+  <name>Apprentice Plumber</name>
+  <detail>Earned a silver medal or better in Endestria Energy Race II.</detail>
+ </trophy>
+ <trophy id="060" hidden="no" ttype="S" pid="-1" gid="003">
+  <name>World-Class Plumber</name>
+  <detail>Earned a gold medal in Endestria Energy Race II.</detail>
+ </trophy>
+ <trophy id="061" hidden="no" ttype="B" pid="-1" gid="003">
+  <name>Mushroom Slider</name>
+  <detail>Earned a silver medal or better in the Rift Plane Sliding Race.</detail>
+ </trophy>
+ <trophy id="062" hidden="no" ttype="S" pid="-1" gid="003">
+  <name>Truffle Slider</name>
+  <detail>Earned a gold medal in the Rift Plane Sliding Race.</detail>
+ </trophy>
+ <trophy id="063" hidden="no" ttype="S" pid="-1" gid="003">
+  <name>Special Forces</name>
+  <detail>Cleared every mission and challenge mission in the Special Forces Pack.</detail>
+ </trophy>
+</trophyconf>

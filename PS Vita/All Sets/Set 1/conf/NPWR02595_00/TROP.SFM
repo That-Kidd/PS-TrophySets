@@ -1,0 +1,212 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000ef79f909fd1cb5f454dc1e13e6d95aa3d02172198ba4703a43a40e6250dbae1324563576770e6b7dd74047aa13066c97b509444db33807838343946c1bdc1f65f15aa12cd5278b395038659554c44aff268533d5d54570c7b2a43fcbc8383d4fdbfa99aaeaef02682c73a5320b3c811fd269e4253050f6d3a168f48682c63e51035622ec2058d9c453daa2482c05d47e2f06892f-->
+<trophyconf version="1.1" platform="psp2">
+ <npcommid>NPWR02595_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>忍道２　散華 トロフィーセット</title-name>
+ <title-detail>忍道２　散華 のトロフィーセットです</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>忍道制覇</name>
+  <detail>すべてのトロフィーを獲得した</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>散る華　燃ゆる華</name>
+  <detail>第一章をクリアした</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>再会</name>
+  <detail>第二章をクリアした</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>執念</name>
+  <detail>第三章をクリアした</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>想うはあなた一人</name>
+  <detail>第四章をクリアした</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>華二輪</name>
+  <detail>エンディング「華二輪」を観た</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>華一輪</name>
+  <detail>エンディング「華一輪」を観た</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>現せ身</name>
+  <detail>エンディング「現せ身」を観た</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>見習い忍者</name>
+  <detail>難易度「易しい」でゲームをクリア</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>一人前の忍者</name>
+  <detail>難易度「普通」でゲームをクリア</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>一流の忍者</name>
+  <detail>難易度「難しい」でゲームをクリア</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="G" pid="000">
+  <name>伝説の忍者</name>
+  <detail>難易度「戒モード」でゲームをクリア</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>忍道の始まり</name>
+  <detail>初めて任務を成功させた</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>忍者入門</name>
+  <detail>初めて熟練度が上昇した</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>血祀殺法</name>
+  <detail>初めて血祀殺法を成功させた</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>劣勢を撥ね除ける</name>
+  <detail>初めて見斬を成功させた</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>刻を止め　斬り裂く</name>
+  <detail>初めて斬刻を成功させた</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>暗殺者の系譜</name>
+  <detail>特殊な血祀をすべて成功させた</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>漆黒の空を翔る</name>
+  <detail>初めて風黒羽を使い空を飛んだ</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>調合師への一歩</name>
+  <detail>調合を行い、初めてオリジナルの忍具を作った</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>調合王</name>
+  <detail>調合王の証を作成した</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>ねこばばやろう</name>
+  <detail>ねこばばしちゃったの？</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>手裏剣の使い手</name>
+  <detail>手裏剣の強さを証明した</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>回復薬好き</name>
+  <detail>瀕死から生還するのも忍道</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>鉤鎖使い</name>
+  <detail>投げろ！！　鉤鎖！！</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>ピヨピヨ　カタカタ</name>
+  <detail>ピヨピヨ　カタカタ　大好き</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>見斬の達人</name>
+  <detail>危機は好機なり</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>埋火職人</name>
+  <detail>踏む方が悪い</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>忍具職人</name>
+  <detail>調合した忍具を愛した</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>強引な御人</name>
+  <detail>力尽くで多くの敵を仕留めた</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="S" pid="000">
+  <name>聖人君子</name>
+  <detail>敵も味方も無い、慈愛の心も忍道</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="B" pid="000">
+  <name>一条の太平</name>
+  <detail>一条のエンディングイベントを観た</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="B" pid="000">
+  <name>季判の新たな旅</name>
+  <detail>季判のエンディングイベントを観た</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="B" pid="000">
+  <name>風天の野望は続く</name>
+  <detail>風天のエンディングイベントを観た</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="B" pid="000">
+  <name>楓はかわいい</name>
+  <detail>楓ってかわいいよね　使いたくなるよね</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="S" pid="000">
+  <name>稼ぎ頭</name>
+  <detail>貯蓄も忍道なり</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>隠密忍者</name>
+  <detail>忍びたる者、見つかるべからず</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>口封じの鬼</name>
+  <detail>目撃は口封じで取り返す</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>勤勉家</name>
+  <detail>修行を全部完了させた</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="S" pid="000">
+  <name>鬼神</name>
+  <detail>血祀殺法の使い手となった</detail>
+ </trophy>
+ <trophy id="040" hidden="yes" ttype="B" pid="000">
+  <name>斬刻なる者</name>
+  <detail>斬刻の使い手となった</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="S" pid="000">
+  <name>山菜に首ったけ</name>
+  <detail>全ての効果の草を集めた</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="S" pid="000">
+  <name>キノコの里</name>
+  <detail>全ての効果のきのこを集めた</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="S" pid="000">
+  <name>ヤモリハンター</name>
+  <detail>ヤモリ系の素材を全種類集めた</detail>
+ </trophy>
+ <trophy id="044" hidden="no" ttype="S" pid="000">
+  <name>万能者</name>
+  <detail>様々な仕事をこなすのも忍道</detail>
+ </trophy>
+ <trophy id="045" hidden="yes" ttype="B" pid="000">
+  <name>連殺劇</name>
+  <detail>２人以上の敵を同時に斬刻で倒した</detail>
+ </trophy>
+ <trophy id="046" hidden="no" ttype="B" pid="000">
+  <name>鮭鮭鮭</name>
+  <detail>鮭、愛していますか……？</detail>
+ </trophy>
+ <trophy id="047" hidden="no" ttype="S" pid="000">
+  <name>忍者狩り</name>
+  <detail>忍者共を刈り尽くせ</detail>
+ </trophy>
+ <trophy id="048" hidden="no" ttype="B" pid="000">
+  <name>山賊狩り</name>
+  <detail>山賊共を刈り尽くせ</detail>
+ </trophy>
+ <trophy id="049" hidden="no" ttype="S" pid="000">
+  <name>野生の王</name>
+  <detail>森の長、熊とは思えぬ熊に出会った</detail>
+ </trophy>
+ <trophy id="050" hidden="no" ttype="B" pid="000">
+  <name>懐かしき者</name>
+  <detail>懐かしきあの忍者に出会った</detail>
+ </trophy>
+</trophyconf>

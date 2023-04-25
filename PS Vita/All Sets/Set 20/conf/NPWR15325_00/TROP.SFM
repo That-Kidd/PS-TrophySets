@@ -1,0 +1,56 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000c1c430468633424fd15db0ccb5b06f5ac0c54069c17eabb189a8d221bd14ff5d1bfdae210153e82b30d59c4d5bcbdefa013a4c5f1beab0dd422f817def0ed96a85c11b6e5b836dff4f947f9b98a10ed87bc3f6f26027a851914de6bad8034cd2f38fb12a098a9a74b92d3c0743a24eebc63caf10b91b095e07b106b6c72e14b57c9d9132db7ec92a8d2480f43dc14bfb851c1e05-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR15325_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>アマツツミ</title-name>
+ <title-detail>アマツツミのトロフィーです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>コンプリート</name>
+  <detail>全てのトロフィーを獲得</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="G" pid="000">
+  <name>まだ、何色でもない</name>
+  <detail>ほたると約束をした</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="G" pid="000">
+  <name>‐絆‐ 穏やかな時間</name>
+  <detail>「第一話　織部こころ」を読んだ</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="G" pid="000">
+  <name>将来の家族のキス</name>
+  <detail>「こころエピローグ」を読んだ</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="G" pid="000">
+  <name>‐声‐ 別世界の友人</name>
+  <detail>「第二話　朝比奈響子」を読んだ</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="G" pid="000">
+  <name>花開くような笑み</name>
+  <detail>「響子エピローグ」を読んだ</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="G" pid="000">
+  <name>‐雪‐ 冷たい夏</name>
+  <detail>「第三話　恋塚愛」を読んだ</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="G" pid="000">
+  <name>僕の婚約者</name>
+  <detail>「愛エピローグ」を読んだ</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="G" pid="000">
+  <name>‐蛍‐ 最後の１週間</name>
+  <detail>「最終話　水無月ほたる」を読んだ</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="G" pid="000">
+  <name>夏の空の色</name>
+  <detail>「ほたるエピローグ２」を読んだ</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>CGコンプリート</name>
+  <detail>CG鑑賞をコンプリートした</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>BGMコンプリート</name>
+  <detail>音楽鑑賞をコンプリートした</detail>
+ </trophy>
+</trophyconf>

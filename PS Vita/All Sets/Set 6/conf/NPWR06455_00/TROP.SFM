@@ -1,0 +1,68 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000735e2aa5414ea7e730a63f3a9fe0982db3fbc77688a1037e38af5bb7ad60e05690f5943535d4a00b15a0cb0c06e5830d5e56c171bb7f49b56f3509ec46eb9f806c9249bcd598c012c276f7e02a8c15334c2ca8b811bb25cdd7cee8b9ede8aac0479a11041c98e3c8d59c93518e972e0a9d72a9da30f1431cc6b8283ee322c5c02051e933cddc7829f1ce931d361c7f512106ccd7-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR06455_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Boss</title-name>
+ <title-detail>Boss</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Gladiator</name>
+  <detail>Reach 250 score on the arena</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Never saw it coming</name>
+  <detail>Reach 5000 Score on Run Hero Run</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="-1">
+  <name>Super boss</name>
+  <detail>Reach level 25</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Its raining heroes</name>
+  <detail>Reach 15000 Score on Falling Heroes</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Gotcha</name>
+  <detail>Survive an explosive princess</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Strike</name>
+  <detail>Make 50 hits with an object</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Want fries with that</name>
+  <detail>Reach a 99 hit combo</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Big expender</name>
+  <detail>Buy 40 items</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Poison ivy</name>
+  <detail>Poison 10 enemies simultaneously</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>I like ice cream</name>
+  <detail>Freeze 14 enemies simultaneously</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>I like them crispy</name>
+  <detail>Burn 14 enemies simultaneously</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="-1">
+  <name>Hardened</name>
+  <detail>Beat the third castle of Trogon Kingdom on Hardcore</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="-1">
+  <name>Get a teddy</name>
+  <detail>Beat Santa’s Workshop</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="-1">
+  <name>I want candy</name>
+  <detail>Beat the Haunter Factory</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="-1">
+  <name>Multiple personality</name>
+  <detail>Get 9 evolutions</detail>
+ </trophy>
+</trophyconf>

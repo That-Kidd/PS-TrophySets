@@ -1,0 +1,148 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000054fcdf6f165acaa1410381a02030ad26176a6a648e8437894d51b6c74eec830307aa1d2c4e1ce14f4a1d97d9330e5ebf9d7b2d491d157328df2c6f98e90583cf7c9fb5e91feac82838c22af1c8a64f3ee6d0a9e64b6dbced94719c7ef81ed777436176dc347f8adfa23dc338c6172cd546cf9d6da8fffc923f3007449a576fed818be21afa01c8dd12b33b9223a2c4fe1833c894-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR13742_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>SteamWorld Dig 2</title-name>
+ <title-detail>Trophy set for SteamWorld Dig 2</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>A Miner You Were Meant to Be</name>
+  <detail>Collect every trophy in SteamWorld Dig 2</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>The Guiding Light</name>
+  <detail>Defeat the first boss.</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>A Mysterious Garden</name>
+  <detail>Enter Yarrow and discover a strangely verdant area.</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>A Shining City</name>
+  <detail>Discover the last refuge of a fallen civilization, The Oasis.</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>The Enlightened</name>
+  <detail>Defeat the Great Prophet.</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>Ghost Of The Machine</name>
+  <detail>Escape the grasp of Vectron.</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>A New Frontier</name>
+  <detail>Leave the Earth with your companion in tow.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>Speedrunner</name>
+  <detail>Finish the game with a gold star in the Time category. How fast is that, exactly? It’s up to you to find out!</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>Explorer</name>
+  <detail>Finish the game with a gold star in the Secrets category.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>Hardcore</name>
+  <detail>Finish the game with a gold star in the Deaths category. You can’t even die once, buddy!</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>Gold Farmer</name>
+  <detail>Finish the game with a gold star in the Wealth category. Get filthy rich!</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>The Impossible Dream</name>
+  <detail>Finish the game with a gold star in every category.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>Maximum Potential</name>
+  <detail>Reach experience level 14.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>O Brother, Where Art Thou?</name>
+  <detail>Find all missing Yonker brothers.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>Hobbyist Collector</name>
+  <detail>Collect 10 artifacts.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>Skilled Collector</name>
+  <detail>Collect 25 artifacts.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="G" pid="000">
+  <name>Master Collector</name>
+  <detail>Collect all artifacts.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>It Makes the World Go Round</name>
+  <detail>Sell $2,500 worth of resources.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>Barnacle’s BFF</name>
+  <detail>Sell resources for $10,000.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>My Very Own Sun</name>
+  <detail>Upgrade your lamp to the highest level possible.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>Is It Even a Pickaxe Anymore?</name>
+  <detail>Upgrade your pickaxe to the highest level possible.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>Hard Carry</name>
+  <detail>Upgrade your backpack to the highest level possible.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>That’s Armor-e</name>
+  <detail>Upgrade your armor to the highest level possible.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="G" pid="000">
+  <name>Hopeless Gearhead</name>
+  <detail>Reach highest upgrade level on all tools.</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>Hook, Line and Sinker</name>
+  <detail>Collect 15 resources with your Hook Shot.</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>Friendly Neighborhood Spider-Bot </name>
+  <detail>Hit 15 flyers with your Hook Shot.</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>Two Birds, One Stone</name>
+  <detail>Kill two enemies with one crushing rock.</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>Cave Diver</name>
+  <detail>Complete 5 caves.</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="S" pid="000">
+  <name>Splendiferous Spelunker</name>
+  <detail>Complete 20 caves.</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="S" pid="000">
+  <name>At Least It’s Shiny</name>
+  <detail>Collect 10 Silver ore resources.</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="S" pid="000">
+  <name>Solid Sneak</name>
+  <detail>Do not trigger the alarm in Vectron more than twice.</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="S" pid="000">
+  <name>Sequence Breaker</name>
+  <detail>Destroy all devices before anyone asks you to.</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>Right Back at Ya!</name>
+  <detail>Kill an enemy with its own projectile.</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="S" pid="000">
+  <name>Lazy Person</name>
+  <detail>Travel a distance of 100 tiles horizontally without touching the controls.</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="G" pid="000">
+  <name>To Hell and Back</name>
+  <detail>Survive the Ultimate Trial.</detail>
+ </trophy>
+</trophyconf>

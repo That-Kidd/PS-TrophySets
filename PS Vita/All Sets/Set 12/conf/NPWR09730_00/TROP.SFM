@@ -1,0 +1,104 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000002cc5dd3cbabd9a78460b8c6dbc2dcbdb8aaf8cdc27648a6416eaff3dc0749d1588b7e4ab9e6c75264bc6de96013665d3d3640348646213a2ee774b18149c3709c188fc54502e1590e347e82a90549d86a48d1953110237e1a8d2edd40f827d153b6c97f4173327a04e6f91abb0081fa718a74b2de6186af9ea77468e762acdda458f8854aa0dfb48e1dfe9a01940150f6769d37b-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR09730_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Super Meat Boy</title-name>
+ <title-detail>Super Meat Boy</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Super Meat Boy!</name>
+  <detail>Unlock all other trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Nostalgia</name>
+  <detail>You found a warp zone! Now pay me for the door repair!</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Living in the Past</name>
+  <detail>You conquered 5 warp zones! you're so old school...&#x0a;</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>The Commander</name>
+  <detail>You unlocked Commander Video! Double rainbow all da way!</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>Business Time</name>
+  <detail>You unlocked Tim by collecting 50 bandages! He's weird...</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>The End</name>
+  <detail>You beat the game!... but that's not the end, is it?&#x0a;</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>The Real End</name>
+  <detail>You completed the Dark World... you are awesome.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>Suffragette</name>
+  <detail>You've beaten the Cotten Alley all by yourself! </detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>The Kid</name>
+  <detail>You unlocked The Kid!  </detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>I'm A Golden God!</name>
+  <detail>You got 100% on Super Meat Boy, start bragging! </detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>Wood Boy</name>
+  <detail>Beat The Forest light world without dying</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>Squirrel Boy</name>
+  <detail>Beat The Forest dark world without dying</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>Needle Boy</name>
+  <detail>Beat The Hospital light world without dying</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="000">
+  <name>Blood Clot Boy</name>
+  <detail>Beat The Hospital dark world without dying</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>Salt Boy</name>
+  <detail>Beat The Salt Factory light world without dying</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="G" pid="000">
+  <name>Missile Boy</name>
+  <detail>Beat The Salt Factory dark world without dying</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>Brimstone Boy</name>
+  <detail>Beat Hell light world without dying</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="G" pid="000">
+  <name>Demon Boy</name>
+  <detail>Beat Hell dark world without dying</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>Maggot Boy</name>
+  <detail>Beat The Rapture light world without dying</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="G" pid="000">
+  <name>Zombie Boy</name>
+  <detail>Beat The Rapture dark world without dying</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>Girl Boy</name>
+  <detail>Beat Cotton Alley light world without dying</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="G" pid="000">
+  <name>Impossible Boy</name>
+  <detail>Beat Cotton Alley dark world without dying</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>Old School</name>
+  <detail>Beat 10 Warpzones</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>Retro Rampage</name>
+  <detail>Beat All Warpzones</detail>
+ </trophy>
+</trophyconf>

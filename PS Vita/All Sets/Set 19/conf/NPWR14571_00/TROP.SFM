@@ -1,0 +1,72 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000c6a81863de5d1ff43bbabcfe5087b605a7c6520b65776b9c6ff3676422bf7adb2435546ac8f7044a2a2a8487d50daa0325323258cd7437088dc0552c5f750b2f73887bce6ce7a739a38a9a80ee23955527547f2f29098a133726ba9622d2d29962d01d893092becef6e6a0aeb0d710f71097577e366c6b2647b5aac440cdddd1f0e7c0dac950bdf5e1f181eb285af209cc9e75f4-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR14571_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>London Detective Mysteria</title-name>
+ <title-detail>London Detective Mysteria Trophies.</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>World-class Detective</name>
+  <detail>Obtained all trophies.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Darling Debut</name>
+  <detail>Completed the prologue.</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>Dear Diary</name>
+  <detail>Recorded the day's events for the first time.</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="G" pid="000">
+  <name>One Woman to Him</name>
+  <detail>Discovered true love with Holmes.</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="G" pid="000">
+  <name>Never Elementary</name>
+  <detail>Discovered true love with Watson.</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="G" pid="000">
+  <name>The Last Love</name>
+  <detail>Discovered true love with Lupin.</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="G" pid="000">
+  <name>From Hell to Heaven</name>
+  <detail>Discovered true love with Jack.</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="G" pid="000">
+  <name>Kogoro's Kokoro</name>
+  <detail>Discovered true love with Akechi.</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="G" pid="000">
+  <name>A Performance Slated to Bomb</name>
+  <detail>Witnessed a performance you'll never forget.</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>In St. Mary Mead</name>
+  <detail>Discovered true friendship with Marple.</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>Boy Detectives Club</name>
+  <detail>Discovered true friendship with Kobayashi.</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>The Calm Before the Storm</name>
+  <detail>Gathered everyone for a lovely picnic.</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="G" pid="000">
+  <name>Becoming a Fine Lady</name>
+  <detail>Persevered to the very end.</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="G" pid="000">
+  <name>Happily Ever After</name>
+  <detail>Completed all epilogues.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>Sketch Artist</name>
+  <detail>Discovered half of the event artwork in the game.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="G" pid="000">
+  <name>Illustrator</name>
+  <detail>Discovered all event artwork in the game.</detail>
+ </trophy>
+</trophyconf>

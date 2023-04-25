@@ -1,0 +1,132 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000008b6b6777db8efeac0078a88b102de545ecb61a2c033430a3bf2c67d5d20e749c253fda63a2278b8ee0a93f45707dd167d9c3c15d08484c0c1e036e2c62bccdfa6837c8d0042a13d8e655a922fdc6ab2a8cdc1873f4216d25bb336646a5e3e1dcc28efa2349e3ff43d21f8bd4481c0fddbdf04de4b2be2f883d971fe2224dd98fc51b97515a4322f6aec126f58c8500a34b2fe421-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR13599_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Save the Ninja Clan</title-name>
+ <title-detail>Save the Ninja Clan</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Save the Ninja Clan Platinum</name>
+  <detail>Good job! Completed all tasks!</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Beat Level One</name>
+  <detail>Beat the first level</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Seppuku</name>
+  <detail>Kill yourself with your own weapon.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Never Surrender!</name>
+  <detail>Attempt a level 10 times.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>2 Stones 1 Bird</name>
+  <detail>Attempt a level 25 times.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>Controls Reversed</name>
+  <detail>Beat level 4 with controls reversed.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>Teachers Pet</name>
+  <detail>Beat a level with an A+ time.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>Battle Hardened</name>
+  <detail>Beat 5 levels without dying.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>The Legend</name>
+  <detail>Beat 10 levels without dying.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>Eat My Dust</name>
+  <detail>Beat the first boss.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>I Am &gt; Than Mechs</name>
+  <detail>Beat the second boss.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>Who's Laughing Now</name>
+  <detail>Beat the third boss.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>You have found a bug.</name>
+  <detail>Complete one secret.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>Smiley</name>
+  <detail>Level 9, see a smiley face.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>Stop breaking the game.</name>
+  <detail>Complete 10 secrets.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>Cloud Nine</name>
+  <detail>Level 25, ride a cloud.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Death is my friend!</name>
+  <detail>Die 50 times.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>You're good at dying.</name>
+  <detail>Die 100 times.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>Upgraded!</name>
+  <detail>Get a knife modification.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Killing Spree</name>
+  <detail>Kill 25 enemies.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>God Like</name>
+  <detail>Kill 50 enemies.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>Spontaneous Combustion</name>
+  <detail>Explode 50 times</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="G" pid="000">
+  <name>For Debugging Only!</name>
+  <detail>Find and complete the secret ending.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="G" pid="000">
+  <name>Completely Completed</name>
+  <detail>Complete all the levels.</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>The Collector</name>
+  <detail>Collect 15 Collectables.</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>You fell for it!</name>
+  <detail>Fall for it on level two.</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>Off to the Slammer</name>
+  <detail>Level 11, go to "prison".</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="S" pid="000">
+  <name>Oops! Yea that's a bug.</name>
+  <detail>Level 19, crash the game.</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>Living On a Prayer</name>
+  <detail>Beat half the levels.</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>Play Pong!</name>
+  <detail>Play Pong in the game.</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="S" pid="000">
+  <name>New Perspective</name>
+  <detail>Level 29, play as a scroll.</detail>
+ </trophy>
+</trophyconf>

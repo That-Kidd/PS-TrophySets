@@ -1,0 +1,144 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000f431d498882b5044edc4895c7980105eb9581be33551224910c19a836b3ed7485327b0839755b1ae5737ba3644233961c76497712ccd0b121823ff44d9982015d42734e613c53912392ea1b5fdc9097440e028dfb4d73ea52e46ff8c3d97e8a20d6bd9552003ed7065c9934fc261d6f84a584fbc1df87e388757fd8159f7cf150243bb0c9ca6b43e804579842c703e1c310169f8-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR18000_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>蒼き翼のシュバリエ</title-name>
+ <title-detail>蒼き翼のシュバリエ トロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>蒼き翼のシュバリエ</name>
+  <detail>蒼き翼のシュバリエの全トロフィーを取得しました。ここまで遊んでくれてありがとうございます！</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="S" pid="000">
+  <name>初めての生徒</name>
+  <detail>最初の生徒が仲間に加わりました。長い戦いの始まりです。</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="S" pid="000">
+  <name>天駆ける城の復活</name>
+  <detail>ロンドエールを手に入れました。円卓の騎士の伝説が蘇ります。</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="S" pid="000">
+  <name>不死鳥のかけら</name>
+  <detail>最初のリーアリスを解放しました。フェニックスの力を取り戻すに残りのリーアリスを探しましょう。</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="S" pid="000">
+  <name>集う円卓の生徒達</name>
+  <detail>生徒の数が９人になりました。後は絆を深めるだけです。</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="S" pid="000">
+  <name>深まる絆</name>
+  <detail>いずれかの生徒のソウルランクを５に上げました。サブクラスを活用してみましょう。</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="000">
+  <name>竜の子との遭遇</name>
+  <detail>魔王のしもべと化したオル=ペイデと遭遇しました。はたして救う事ができるでしょうか？</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>伝説のシュバリエユース</name>
+  <detail>クラゼリオスとクランナリンを入手しました。しかしまだ伝説の武器は輝きを取り戻していません。</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>闇を切り裂く希望</name>
+  <detail>精霊神の力で闇のヴェールを突破しました。ここから先は敵の本拠地です。</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>純白の乙女たち</name>
+  <detail>生徒たちがシュバリエの力に目覚めました。決戦の時は近い…</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="G" pid="000">
+  <name>取り戻した平和</name>
+  <detail>魔王オル＝オーマを倒してエンディングを迎えました。百年越しの勝利です。</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>最後の生徒</name>
+  <detail>最後の生徒が加わりました。ビシバシと鍛えてあげましょう。</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>永遠の絆</name>
+  <detail>いずれかの生徒のソウルランクを１０に上げました。更に仲良くなるとプレゼントがもらえるかもしれません。</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="G" pid="000">
+  <name>冥府の王の覚醒</name>
+  <detail>冥府の王を倒しました。蘇ったらまた倒してやりましょう。</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="G" pid="000">
+  <name>竜を倒せし者</name>
+  <detail>神の座をクリアしました。しかしあなたはまだオブリスの本当の力を知らない…</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="S" pid="000">
+  <name>試練を越えし者</name>
+  <detail>特殊訓練「人」を達成しました。それは百年前の「もしも」の可能性…</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>隠された武器庫</name>
+  <detail>エセルガルドの隠された武器庫の財宝を発見しました。</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>アマイノダイスキ♪</name>
+  <detail>ムカブにチョコレートを与えました。クロイカタマリ、ダイスキ！</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>さまよえる太古の精霊</name>
+  <detail>エルダーウィスプを倒しました。稀に貴重な宝石を落とす事があるそうです。</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="000">
+  <name>ゴブリンハンター</name>
+  <detail>フューミ渓谷のトラップポイントを全て制圧しました。</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>深緑を駆ける狩人</name>
+  <detail>モルロックのトラップポイントを全て制圧しました。</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>祭殿の守護者</name>
+  <detail>イーンシリンのトラップポイントを全て制圧しました。</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>死者にやすらぎを</name>
+  <detail>エセルガルドのトラップポイントを全て制圧しました。</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>廃坑の制圧者</name>
+  <detail>バルハール大坑道のトラップポイントを全て制圧しました。</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>海底の覇者</name>
+  <detail>エスリンの神殿のトラップポイントを全て制圧しました。</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="S" pid="000">
+  <name>道が無ければ切り開け</name>
+  <detail>死者の道のトラップポイントを全て制圧しました。</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>許すまじ魔物ども</name>
+  <detail>討伐クエストのランク９にしました。闇の魔物どもにかける慈悲はなし！</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="S" pid="000">
+  <name>炉の達人</name>
+  <detail>強化クエストのランク９にしました。高性能な武具ほど強化の加護を大きく受けるようです。</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="S" pid="000">
+  <name>神殺しの斧</name>
+  <detail>バールスレイヤーを手に入れました。「神殺しの斧」という名にふさわしい威力です。</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>千年の刻を越えた究極の味</name>
+  <detail>神歴納豆を手に入れました。納豆への愛が極まっています。</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="S" pid="000">
+  <name>妖刀村正</name>
+  <detail>村正を手に入れてロンドエールへ持ち帰りました。伝説の妖刀で敵を一刀両断しましょう。</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="B" pid="000">
+  <name>村正を超えたもの</name>
+  <detail>大村正を手に入れてロンドエールへ持ち帰りました。その強運には感服するばかりです。</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="B" pid="000">
+  <name>好きで堪らないんだろう？</name>
+  <detail>生徒に大好物の食事を食べさせました。生徒の心と胃袋をわしづかみにする姿は「食卓の騎士」と呼ぶに相応しいでしょう。</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="B" pid="000">
+  <name>四の五の言わずに食べろ！</name>
+  <detail>生徒に大嫌いな食事を食べさせました。イジメはほどほどに…</detail>
+ </trophy>
+</trophyconf>

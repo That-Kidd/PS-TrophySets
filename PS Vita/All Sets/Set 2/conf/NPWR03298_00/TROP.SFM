@@ -1,0 +1,56 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000005469becd38e2f6f4eb358e14c0d49e2c48edc2536c5122bcb645084631094ec5ab8c384d560d22dcc3673b687f4505ae63da32bbda0606140267c28ca6ac995e1404057cb975422dc023c8591e6df6ff0996716c69a9daee63de75fc05ec892b04986d5d6f78aeb7a3f711ddfcb9283b7e60532bb1c314d7e22feaf718b27f0f92235b28efce1000d4a4f911a4d5233ca1309923-->
+<trophyconf version="1.1" platform="psp2">
+ <npcommid>NPWR03298_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Sine Mora</title-name>
+ <title-detail>Sine Mora Trophies</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Nascentes Morimur</name>
+  <detail>Promoted to Airman</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Lex Talionis</name>
+  <detail>Promoted to Sergeant</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Tempus Neminem Manet</name>
+  <detail>Promoted to Master Sergeant</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Salva Veritate</name>
+  <detail>Promoted to Lieutenant</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Repetitio Est Mater Memoriae</name>
+  <detail>Promoted to First Lieutenant</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Inter Caecos Regnat Strabo</name>
+  <detail>Promoted to Captain</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Melius Frangi Quam Flecti</name>
+  <detail>Promoted to Major</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="-1">
+  <name>Suaviter In Modo</name>
+  <detail>Promoted to Colonel</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="-1">
+  <name>Fortiter Fideliter Feliciter</name>
+  <detail>Promoted to Major General</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="-1">
+  <name>Dies Irae</name>
+  <detail>Promoted to General of the Air Force</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>Stercus Accidit</name>
+  <detail>Fail the Prologue</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="-1">
+  <name>Sine Mora</name>
+  <detail>Destroy everything in the Prologue and remain unharmed</detail>
+ </trophy>
+</trophyconf>

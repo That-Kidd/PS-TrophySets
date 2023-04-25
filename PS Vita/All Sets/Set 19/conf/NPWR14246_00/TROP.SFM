@@ -1,0 +1,92 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000009dfa8c342f5b1353086440e1bf790cbb55c285052e1ce3790dbe93263e55a5f46a24a765fe260531bf3ffa7d35b647783b77b8aa8c6f2e8eef83346e611a60196782c6111f87a6f210f45e9d00de00611ff8a5ac9cf9e9a46bc5ac67126ace7403c075657ec7daf00526a552f144aed46c84675bdd3c1b8ea15476b8bd4ad1fe29d955ce379242f33101716160b59eb3f923ee66-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR14246_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>戦御村正ＤＸトロフィー</title-name>
+ <title-detail>戦御村正ＤＸのトロフィーです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>大戦の魔人</name>
+  <detail>おめでとうございます。トロフィーを全て獲得しました。</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>皇旗ここに翻り</name>
+  <detail>初勝利。おめでとうございます。</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>士道ここにあり</name>
+  <detail>初撃破。おめでとうございます。</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>解体するのだ</name>
+  <detail>初めて兵器を研究しました。</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>使えるものはなんとやら</name>
+  <detail>敵兵器を鹵獲しました。</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>明日のつわもの</name>
+  <detail>士官の練度が上がりました。</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>息抜きも必要</name>
+  <detail>逢瀬を行いました。</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>海の要塞</name>
+  <detail>戦艦の経路図を１種開発しました。</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>陸の獅子</name>
+  <detail>中戦車の経路図を１種開発しました。</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>空の隼</name>
+  <detail>戦闘機の経路図を１種開発しました。</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>歴戦のつわもの</name>
+  <detail>士官の練度が最大になりました。</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>鹵獲マニア</name>
+  <detail>敵の兵器を５０部隊鹵獲しました。</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>研究マニア</name>
+  <detail>５０の兵器を研究しました。</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="000">
+  <name>富国強兵</name>
+  <detail>機能の拡張が最大に達しました。</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="000">
+  <name>財閥</name>
+  <detail>軍資金が最大に達しました。</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="G" pid="000">
+  <name>真田世界一の兵</name>
+  <detail>ゲームクリアおめでとうございます。</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="G" pid="000">
+  <name>ザ･マッサージ</name>
+  <detail>別にいやらしい思いなんて…。</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="G" pid="000">
+  <name>好感度マックス！</name>
+  <detail>いづれかの士官の好感度が100以上になりました。</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="G" pid="000">
+  <name>皇国陸海空</name>
+  <detail>「空」「陸」「海」の経路図を１種ずつ開発しました。</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="G" pid="000">
+  <name>撃墜王出撃</name>
+  <detail>敵の部隊を５０部隊撃破しました。</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="G" pid="000">
+  <name>戦御村正</name>
+  <detail>呼ばれしその名は戦御村正</detail>
+ </trophy>
+</trophyconf>

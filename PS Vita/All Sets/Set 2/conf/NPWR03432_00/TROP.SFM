@@ -1,0 +1,128 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000007649fa0433963c2fb035c82d5ec8529ae61efbe1557697ab0c5f794acb6d181fd11c5c3cb5b5a795ea1644cc8afc16810efffeb5bf9f3fbd522389566557ffc564d41ffff44ce1de88108a6701fc1003a0c4423d733ba58d2b5f04086ab81c6c1b1d1a9c115f5beb2af3bf53ee5ad52681bc2c039735641f6cc0529822b1ccca0fd40e788b5ed75904833f5fe986336f26322d9c-->
+<trophyconf version="1.1" platform="psp2">
+ <npcommid>NPWR03432_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>MLB® 13 The Show™ (VITA)</title-name>
+ <title-detail>The trophy set of MLB® 13 The Show™</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>In the Books</name>
+  <detail>Earn all of the MLB® 13 The Show™ Trophies.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="000">
+  <name>Escape Artist</name>
+  <detail>As the pitcher, escape from a no out, bases loaded jam without any of the runners scoring (only earned if playing an uninterrupted game against the CPU, without switching sides or fast forwarding).</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>Payback Time</name>
+  <detail>After getting hit by a pitch, hit a home run on that player's following at-bat (only earned if playing an uninterrupted game against the CPU, without switching sides or fast forwarding).</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Bringing the Heat</name>
+  <detail>Earn a save by throwing all fastballs (one and two-out saves don't qualify; only earned if playing an uninterrupted 9-inning game against the CPU, without switching sides or fast forwarding).</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>Dreaded Leadoff Walk</name>
+  <detail>Draw a walk with the first hitter of an inning (only earned if playing an uninterrupted game against the CPU, without switching sides or fast forwarding).</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>Average Boost</name>
+  <detail>Get 5 hits in a single game, with a single player (only earned if playing an uninterrupted game against the CPU, without switching sides or fast forwarding).</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>Disrespected</name>
+  <detail>Hit a home run immediately after an intentional walk (only earned if playing an uninterrupted game against the CPU, without switching sides or fast forwarding).</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>2-Out Rally</name>
+  <detail>Score 3 or more runs after the first two batters of an inning made outs (not achievable in RTTS; only earned if playing an uninterrupted game against the CPU, without switching sides or fast forwarding).</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>Quick Thinking</name>
+  <detail>Pull off a successful 1-2-3 double play (not achievable in RTTS; only earned if playing an uninterrupted game against the CPU, without switching sides or fast forwarding).</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>Small Ball</name>
+  <detail>With a runner on second and/or third with no outs, hit a ground out to the right side of the field that advances the runner(s) (only earned if playing an uninterrupted game against the CPU, without switching sides or fast forwarding).</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>Brand New Ballgame</name>
+  <detail>Tie the score after being down by 4 runs in a game (not achievable in RTTS; only earned if playing an uninterrupted game against the CPU, without switching sides or fast forwarding).</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>Sitting Dead Red</name>
+  <detail>Hit a home run after having successfully guessed fastball (only earned if playing an uninterrupted game against the CPU, without switching sides or fast forwarding).</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>Didn't Even Break a Sweat</name>
+  <detail>Have your starting pitcher throw a complete game with 58 or fewer pitches thrown (only earned if playing an uninterrupted 9-inning game against the CPU, without switching sides or fast forwarding).</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>Worm Killer</name>
+  <detail>As the pitcher, induce 15 or more ground outs in a single game (only earned if playing an uninterrupted game against the CPU, without switching sides or fast forwarding).</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>Strike ‘Em Out, Throw ‘Em Out</name>
+  <detail>Turn a double play by striking out the batter and throwing out the runner stealing (not achievable in RTTS; only earned if playing an uninterrupted game against the CPU, without switching sides or fast forwarding).</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>Piling On</name>
+  <detail>In a single game, score 20 or more runs (not achievable in RTTS; only earned if playing an uninterrupted game against the CPU, without switching sides or fast forwarding).</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="G" pid="000">
+  <name>Number 17</name>
+  <detail>In a single game, hit 4 or more home runs with the same player (not achievable in Home Run Derby™; only earned if playing an uninterrupted game against the CPU, without switching sides or fast forwarding).</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="G" pid="000">
+  <name>Winning Combo</name>
+  <detail>Throw a combined no-hitter with 2 or more pitchers (not achievable in RTTS; only earned if playing an uninterrupted 9-inning game against the CPU, without switching sides or fast forwarding).</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="G" pid="000">
+  <name>Credit Extension</name>
+  <detail>In Citi Field™ (NYM), have a player hit for the cycle (only earned if playing an uninterrupted game against the CPU, without switching sides or fast forwarding).</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="G" pid="000">
+  <name>Bang the Drum</name>
+  <detail>In Turner Field™ (ATL), hit a home run to center field that hits the bongo drum (on the fly).</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>So Close, Yet...</name>
+  <detail>In Oriole Park (BAL), hit the scoreboard in right field (on the fly, in fair territory).</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>Brewed Fresh</name>
+  <detail>In Miller Park™ (MIL), hit a home run in the stands to the right of the center field hitter's eye (on the fly).</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>Bronx Bomber</name>
+  <detail>In Yankee Stadium™ (NYY), hit a home run into the second deck of the right field stands (excludes classic stadiums).&#x0a;</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>Arr, Matey!</name>
+  <detail>In PNC Park™ (PIT), hit a home run that hits the PIRATES hedge in center field (on the fly).</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>Land Ho!</name>
+  <detail>In Safeco Field™ (SEA), hit a home run into the bullpens in left-center that lands on dirt.</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="S" pid="000">
+  <name>Hail to the Chief</name>
+  <detail>In Nationals Park™ (WAS), hit a home run off the right field foul pole.</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>Latest and Greatest</name>
+  <detail>Complete a The Show™ Live game (only earned if playing an uninterrupted 9-inning game against the CPU, without switching sides or fast forwarding).</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>Fall Ball</name>
+  <detail>Complete a Postseason Mode game (only earned if playing an uninterrupted 9-inning game against the CPU, without switching sides or fast forwarding).</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="S" pid="000">
+  <name>Derby King</name>
+  <detail>Win an Online Home Run Derby™ contest.</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>First Steps</name>
+  <detail>Advance to Beginner Hitting Rank 2 (not achievable in Practice or Training modes; only earned if playing an uninterrupted game against the CPU, without switching sides or fast forwarding).</detail>
+ </trophy>
+</trophyconf>

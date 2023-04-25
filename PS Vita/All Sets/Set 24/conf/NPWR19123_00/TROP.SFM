@@ -1,0 +1,160 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000fe6856ec06fa527e683e073bcda68580544acdf03188ff486ebc0f1dd60bc838eadd169f5e932420f311e59032b9f4997546ccb795496e1676c7e72f5f316fecc83092cb182a76513e29499b575c133dc17f553748b779847ebd6ae07309254b1721755a172ab67990c599c49f61a34ddc0e0d33e07c740eb4f90e12609e4bf6844610feba04b656c62305bb3b087babfba7465f-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR19123_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Red Bow</title-name>
+ <title-detail>Red Bow</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Platinum Bow</name>
+  <detail>Get all other trophies.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Keys unlock the world</name>
+  <detail>Or at least the front door.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Making new friends?</name>
+  <detail>My name is Kubi!</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Floating above the floor</name>
+  <detail>My name is Akira!</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>Rock a bye baby.</name>
+  <detail>In the cold cot.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>*Sigh* Another sink eh?</name>
+  <detail>C'mon Stranga!</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>Hush little baby.</name>
+  <detail>Mama's gonna find you a way back home.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>A hanging shadow.</name>
+  <detail>The silhouette of a broken woman. </detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>It gleams in the gray.</name>
+  <detail>A red glow.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>Self sacrifice.</name>
+  <detail>The greatest of all deeds?</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>Forgiveness</name>
+  <detail>It can't be heard by those who can't hear it.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>A second chance?</name>
+  <detail>Lives are precious.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>The grocery store.</name>
+  <detail>Just pop down to the shops!</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>Pretty vogue.</name>
+  <detail>A smile goes a long way.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>A cat!</name>
+  <detail>You could try calling it?</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>Happy 4th of July!</name>
+  <detail>Fireworks in a pan!</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Smile for the camera!</name>
+  <detail>This woman looks familiar...</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Am I pretty?</name>
+  <detail>Well... am I?</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>A random caller?</name>
+  <detail>Keep calling! I love that ringing sound!</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Always look twice!</name>
+  <detail>You'll never know what you might find!</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>Into the sewers we go!</name>
+  <detail>Hope there's no gators down there!</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>Deep fried Roh!</name>
+  <detail>Whoops!</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>Two birds one stone.</name>
+  <detail>Better go check on them!</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>Burn the bride.</name>
+  <detail>Happiness dies in flames.</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>An undying love.</name>
+  <detail>Sparked by our memories.</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="S" pid="000">
+  <name>Thank you Mr. Kitty!</name>
+  <detail>And sorry about the loud noise!</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="S" pid="000">
+  <name>I'm on a boat?!</name>
+  <detail>The sea, a place where dreams drown.</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="S" pid="000">
+  <name>The truth hurts.</name>
+  <detail>In more ways than one.</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="S" pid="000">
+  <name>An unfixable mistake.</name>
+  <detail>But too learn from it.</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="S" pid="000">
+  <name>A bottle for a map?</name>
+  <detail>A map to nowhere.</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="S" pid="000">
+  <name>What shall we do with the drunken sailor!</name>
+  <detail>Early in the mourning.</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="S" pid="000">
+  <name>I am Umbi.</name>
+  <detail>I am more than meets the eye.</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="S" pid="000">
+  <name>A bottomless fate.</name>
+  <detail>The last glimpse of light.</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="G" pid="000">
+  <name>Takes a lot to sink a friendship!</name>
+  <detail>Even after a few a few storms.</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="G" pid="000">
+  <name>The end of the line?</name>
+  <detail>What is this place?</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="G" pid="000">
+  <name>Awaken.</name>
+  <detail>Good Ending.</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="G" pid="000">
+  <name>Well... I tried.</name>
+  <detail>There is a better ending.</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="G" pid="000">
+  <name>Giving up?</name>
+  <detail>But we all depend on you, Roh!</detail>
+ </trophy>
+</trophyconf>

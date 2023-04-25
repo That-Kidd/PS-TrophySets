@@ -1,0 +1,40 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000001c2b967895d49fc608450286bf9482eabb81b99d34d8ea8b416b51041bd256eb58ebfd8f27af34391d52952afe7aaf314842f609e8612d0c9cbc95a8b6259787bdd35a65085d3b694578cbb735d2fbd888f2cdc2b86ceed86e74e540761d8de79d66b400537350aa1c51fd71dc8d2b871efbb5ba8c46d588001618531356ada86f4f8c8bf1ba892ed9703e1d669c19ffaea65f3f-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR07925_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Looney Tunes™ Galactic Sports</title-name>
+ <title-detail>Looney Tunes™ Galactic Sports</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Road To Success</name>
+  <detail>Win your first Tournament in the Galactic Games.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Your First Buy</name>
+  <detail>Buy your first gadget in the ACME Shop.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Making Friends</name>
+  <detail>Complete your first competition in the Multiplayer mode.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Even More Difficult</name>
+  <detail>Complete your first Marvin’s Quest.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="-1">
+  <name>Shopaholic</name>
+  <detail>Buy all the gadgets in the ACME Shop.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="-1">
+  <name>Space Dream Team</name>
+  <detail>Unlock all the characters.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="-1">
+  <name>Super Space Athlete</name>
+  <detail>Complete the Galactic Games mode.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="-1">
+  <name>Invincible</name>
+  <detail>Complete all of Marvin’s Quests.</detail>
+ </trophy>
+</trophyconf>

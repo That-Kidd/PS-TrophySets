@@ -1,0 +1,56 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000f6b4c94addd3ba4fbee670249746c3ab90993010b1b8f0d532c24e9bd2419ae455d00566ee8f0979cefa4b6997e872d4c0a5557b75d2419fe31e258ff3b03a1c6095244d17c5b3eb01a0671687b65e147147b4465f57b29f901b910791ad5182e4c06839e9bc42b98cc7e99450737cf7a3a8fd41bd6f3d4b3a883053ef099a7d8701848cc32e6cddd643f10d0307b52ff0300f55-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR07719_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Strike Solitaire</title-name>
+ <title-detail>Trophy set for "Strike Solitaire"&#x0a;</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Bronze Pin</name>
+  <detail>Hit the first Strike</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Silver Pin</name>
+  <detail>Hit 2 Strikes in a row</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Gold Pin</name>
+  <detail>Hit 3 Strikes in a row</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Master's Kit</name>
+  <detail>Buy 3 card slots</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Juniors Talisman</name>
+  <detail>Complete a lane with 300 points in the Junior Club</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Profis Talisman</name>
+  <detail>Complete a lane with 300 points in the Pro Club</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Juniors Cup</name>
+  <detail>Complete all lanes in the Junior Club</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="-1">
+  <name>Throw Expert</name>
+  <detail>Earn 500 000 coins</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="-1">
+  <name>Throw Master</name>
+  <detail>Earn 1 000 000 coins</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="-1">
+  <name>Juniors Trophy</name>
+  <detail>Complete 12 lanes with 300 points in the Junior Club</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="-1">
+  <name>Profis Cup</name>
+  <detail>Complete all lanes in the Pro Club</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="-1">
+  <name>Gold Bowl</name>
+  <detail>Complete 12 lanes with 300 points in the Pro Club</detail>
+ </trophy>
+</trophyconf>

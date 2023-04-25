@@ -1,0 +1,56 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000054f1a6083d362e314e7db2d08e3f0c2cdc9341f43a16e49f543cac18718856acb2a40fdde60a001faa27724f95d4e16f0a038b2785b8bb19d3c2f7078a93bb20cc7583667efda9c406c94315a516a986571abd90e0c2a97c37b642ab522fd2a74e5be454e30322d3d3629638200de755eef02335d4cacfb4d4a87119a78a3033429106189f0a1d8f09ac786d53cbbecccddae412-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR02775_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Urban Trial Freestyle Trophies</title-name>
+ <title-detail>Trophies for Urban Trial Freestyle Game</title-detail>
+ <trophy id="000" hidden="no" ttype="G" pid="-1">
+  <name>It's a lifestyle</name>
+  <detail>Set a 5 star rank in every level</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="-1">
+  <name>Rough n' tough</name>
+  <detail>Finish any track using only acceleration and brake</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="-1">
+  <name>Twist again</name>
+  <detail>Make 500 flips total</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="-1">
+  <name>Rise to the Challenge</name>
+  <detail>Complete all Challenges</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="-1">
+  <name>Streets paved with gold</name>
+  <detail>Find all the cash lying on the tracks</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Piece of cake</name>
+  <detail>Complete a track without crashing</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Free Spirit</name>
+  <detail>Complete all tracks in Downtown Area</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Ripping up the Suburbs</name>
+  <detail>Complete all tracks in Outskirts Area</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Conquering the depths</name>
+  <detail>Complete all tracks in Underground Area</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>Warehouse Wasteland</name>
+  <detail>Complete all tracks in Industrial Area</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>The Great Getaway</name>
+  <detail>Complete all tracks in Train Depot Area</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="-1">
+  <name>Mayhem</name>
+  <detail>Crash 100 times</detail>
+ </trophy>
+</trophyconf>

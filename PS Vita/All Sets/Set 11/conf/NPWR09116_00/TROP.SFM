@@ -1,0 +1,116 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000421cf5316d4d1998306e728817099c326771dfe18a28353b035194ec7bd2838e689445cbdb5a8ebbc06510b540651dd288c696f481d2f60f49dabc528baef412d931112040ca0e04177159d4e7bb19768f7915de04c81ceb641b0c9135a35861b59cd4317f981fd3bb9dba3b7ececf0fc8bed522ac966b2c429eb4f8fdf27a2cf729e929b956b96bd951d00bf605bc2dddb82cf7-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR09116_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>あやかしごはん～おおもりっ！～</title-name>
+ <title-detail>あやかしごはん～おおもりっ！～</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>あやかしごはん～おおもりっ！～</name>
+  <detail>全てのトロフィーを獲得した</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>“私”になるみちのり</name>
+  <detail>少女時代編をクリアした</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>ヒトとあやかしの恋</name>
+  <detail>謡のベストエンディングをクリアした</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>夢、現、象り描く恋蛍</name>
+  <detail>詠のベストエンディングをクリアした</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>この想いを花びらにのせて</name>
+  <detail>萩之介のベストエンディングをクリアした</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>私の、一番の彼</name>
+  <detail>蘇芳のベストエンディングをクリアした</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>玲瓏なる未来</name>
+  <detail>真夏のベストエンディングをクリアした</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>大団円</name>
+  <detail>浅葱のグッドエンディングをクリアした</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>あやかし絵巻・謡</name>
+  <detail>謡のスチルをすべて開放した</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>あやかし絵巻・詠</name>
+  <detail>詠のスチルをすべて開放した</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>あやかし絵巻・萩之介</name>
+  <detail>萩之介のスチルをすべて開放した</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>あやかし絵巻・蘇芳</name>
+  <detail>蘇芳のスチルをすべて開放した</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>あやかし絵巻・真夏</name>
+  <detail>真夏のスチルをすべて開放した</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="000">
+  <name>あやかし絵巻・浅葱</name>
+  <detail>浅葱のスチルをすべて開放した</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>あやかし絵巻・共通</name>
+  <detail>共通のスチルをすべて開放した</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>あやかし絵巻・ちびキャラ</name>
+  <detail>ちびキャラスチルをすべて開放した</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="G" pid="000">
+  <name>お絵かき収集家</name>
+  <detail>綴の落書きをすべて集めた</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>ずっとこのままで</name>
+  <detail>謡のおまけシナリオを見た</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>一生の約束</name>
+  <detail>詠のおまけシナリオを見た</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="000">
+  <name>「おやすみ」</name>
+  <detail>萩之介のおまけシナリオを見た</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>一番大切で、特別な人</name>
+  <detail>蘇芳のおまけシナリオを見た</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>少しずつ、深く</name>
+  <detail>真夏のおまけシナリオを見た</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>初めまして</name>
+  <detail>浅葱のおまけシナリオを見た</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>千年の時を超えて</name>
+  <detail>吟のおまけシナリオを見た</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>来年も再来年も</name>
+  <detail>綴のおまけシナリオ人間編を見た</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>特別な日、幸せの味</name>
+  <detail>綴のおまけシナリオあやかし編を見た</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>いつもありがとう</name>
+  <detail>神様のおまけシナリオを見た</detail>
+ </trophy>
+</trophyconf>

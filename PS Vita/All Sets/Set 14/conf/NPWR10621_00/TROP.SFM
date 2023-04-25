@@ -1,0 +1,56 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000004939282fb5b95063302bab03e932763757e693c3464f89dd4c2dbd47e19bc05d173f8498b1ee856cc4912220f7a0f513e467a6d1a8fe98154233fdb3f9691466989898db113dd90997f1698afb450c6f62c5ecb0145308086999aa3586b3a493d217210b66a84fe9286ecc37122fe845a4ddcb81630757d4e4a87b86fc84cca75322a9412a686e64fb8cb17eb0819568391446e8-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR10621_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Element4l</title-name>
+ <title-detail>Element4l Trophy Set</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Ready Player One</name>
+  <detail>Finish level S1l1...</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Elementalist</name>
+  <detail>Finish a level with less than 30 actions</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Gone in 60 seconds</name>
+  <detail>Finish a level in less than 60 seconds</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Gold</name>
+  <detail>Achieve a gold medal in any level</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Heart</name>
+  <detail>Finish "Heart" stages</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Mind</name>
+  <detail>Finish "Mind" stages</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Willpower</name>
+  <detail>Finish "Willpower" stages</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="-1">
+  <name>Element4l hero</name>
+  <detail>Finish Element4l</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="-1">
+  <name>Treasure hunter</name>
+  <detail>Find all lost sparks</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>Rollercoaster</name>
+  <detail>Finish the rollercoaster level(S3L3) in less than 60 seconds</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="-1">
+  <name>Fast</name>
+  <detail>Beat Mr. Smooth in any level</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="-1">
+  <name>Very fast</name>
+  <detail>Beat the Mr.David in any level</detail>
+ </trophy>
+</trophyconf>

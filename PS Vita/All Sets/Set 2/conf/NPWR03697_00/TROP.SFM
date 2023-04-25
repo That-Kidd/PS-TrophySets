@@ -1,0 +1,56 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000002363904d6f837d0ffc7b16f14a10138eece37ffb311b13a339e390a80656ab085bcf5efbb2f20e3222426fef84922e6cd9d7188cfb1d2c0f95181ab541f661b4bdcffedea68fdf9181a33ad64b05cabdb009c5d13040037ae8c1f95542c11f663f569bfcf98874ac24598db75cffc65bed2eb9e3cb2b8a5daf12337cbce2a1dda473ab3e9506d65df93a3625ac758de74d328cb2-->
+<trophyconf version="1.1" platform="ps3,psp2" policy="small">
+ <npcommid>NPWR03697_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Germinator</title-name>
+ <title-detail>Germinator Trophies</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>The Inoculator</name>
+  <detail>Survive for 5 minutes or more in Arcade Mode</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Clean-a-rama</name>
+  <detail>Get a combo-pop of 100 or more germs with one shot </detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="-1">
+  <name>Mother of all Pops</name>
+  <detail>Pop a germ of size 25x or greater </detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>The Marksman</name>
+  <detail>Finish any Puzzle level with a single shot </detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="-1">
+  <name>Germ-a-thon</name>
+  <detail>Complete 20 different levels in a single run in Puzzle Mode </detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="-1">
+  <name>Micro-Cleaner</name>
+  <detail>Complete all Story Mode levels</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="-1">
+  <name>Sound Logic</name>
+  <detail>Complete all Puzzle Mode levels</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="-1">
+  <name>Photo Finish</name>
+  <detail>Win the 15th round in a Duel match against “The Germinator”</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Oozie</name>
+  <detail>Fire 50 germs in a single Story, Duel, or Arcade level</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>Feverish Cleaning</name>
+  <detail>Complete a Story Mode level in under 30 seconds</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="-1">
+  <name>All Gummed Up</name>
+  <detail>Lose any Story Mode level within 5 seconds</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="-1">
+  <name>The Germinator</name>
+  <detail>Collect all stars in Puzzle and Story Mode </detail>
+ </trophy>
+</trophyconf>

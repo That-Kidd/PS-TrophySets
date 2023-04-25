@@ -1,0 +1,60 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000560a3899adbca2eb7195f0108c4488a78074c3be4a8736ba6648629b5cd85f64ed7b4cc683b0da31eba30b888d84726894c05bb3f5b517a241800436f46cffc58217aee7f7e7d154d2b1c8a23fcbff8a027297a7f75f125cf06ca22801c49362fe37ef51a6f888ef6511318eae8eefe915a1e742148df5e686561a1ef0f7e5630f39d40637fdc92d940e94a1500194a49455c342-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR14267_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>GALTIA V Edition</title-name>
+ <title-detail>GALTIA V Edition のトロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>GALTIA</name>
+  <detail>全てのトロフィーを獲得した</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>CONGRATULATIONS</name>
+  <detail>全てのエンディングを見た</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="G" pid="000">
+  <name>遠い昔の、はじまりの日</name>
+  <detail>オマケエピソードを見た</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="G" pid="000">
+  <name>永久に</name>
+  <detail>グランドエンディングを見た</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="G" pid="000">
+  <name>星への誓い</name>
+  <detail>センリのエンディングを見た</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="G" pid="000">
+  <name>共に行く者</name>
+  <detail>ジークのエンディングを見た</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="G" pid="000">
+  <name>青空の下で</name>
+  <detail>ラウルスのエンディングを見た</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="G" pid="000">
+  <name>和平への前進</name>
+  <detail>ディアゴのエンディングを見た</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>MAPコンプリート</name>
+  <detail>MAPを全てオープンした</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>CHARACTERコンプリート</name>
+  <detail>CHARACTERを全てオープンした</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>WORDコンプリート</name>
+  <detail>WORDを全てオープンした</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>MUSICコンプリート</name>
+  <detail>MUSICを全てオープンした</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>真実の道へ</name>
+  <detail>ゼノルートが解放した</detail>
+ </trophy>
+</trophyconf>

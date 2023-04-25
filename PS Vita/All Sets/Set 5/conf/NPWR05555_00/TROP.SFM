@@ -1,0 +1,56 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000137e74d07cf8269e32d504fbfa609291ee957cd06dfaa11d6c5366ac78f324189eb2a6efbdea0f3d16966426177a4f8de354de6413507d5d033cfe2a3772748a60f89f308090b77d54b5c098488f3ec5cfbed853a0d99c61b917099f03d168e351ecb830227b2768474626ecc362da5d9ac124ea3eae3091133899123a00acdaae20cfbfe6c8bf0add2d857673360861b0642e99-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR05555_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Treasures of Montezuma Arena</title-name>
+ <title-detail>Treasures of Montezuma Arena</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>The last effort</name>
+  <detail>Defeat the enemy with 5 lives or less</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Flawless victory</name>
+  <detail>Finish the fight with full HP</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Death bringer</name>
+  <detail>Defeat the enemy using skull attacks only</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Immortal</name>
+  <detail>Revive twice for one battle</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Lingering death</name>
+  <detail>Kill your enemy with poison</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>First challenge</name>
+  <detail>Defeat any player</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Lethal weapon</name>
+  <detail>Deal a fatal blow using a bonus</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="-1">
+  <name>Unconquerable</name>
+  <detail>Defeat 5 players in a row</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="-1">
+  <name>Armory</name>
+  <detail>Acquire all the in-game items</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="-1">
+  <name>Experienced</name>
+  <detail>Defeat 100 players</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="-1">
+  <name>Point of honor</name>
+  <detail>Earn 10,000 honor points</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="-1">
+  <name>Elite</name>
+  <detail>To participate in 100 elite tournaments</detail>
+ </trophy>
+</trophyconf>

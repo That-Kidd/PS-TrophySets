@@ -1,0 +1,52 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000728efaf24b2918b5982fe732d6edeef52d499516ac59e1b3f6d2f8afcc09d2aa89e059d17b9a68a7171499879de95089513f372f6797e27bda6d02ba4fbed408491c506a70da5b9067885be6baada8187cc1159e924d75a3ea55eadd1db79573fd9c33919fdafc0d15ac40eb3449e62c2fb60beda85aa53cbe55f514c837980a1c1a8d1f4060facf13ecd06deb1f4ec8af7f0e45-->
+<trophyconf version="1.1" platform="psp2" policy="freemium">
+ <npcommid>NPWR11641_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>ねぷねぷ☆コネクト カオスチャンプル</title-name>
+ <title-detail>ねぷねぷ☆コネクト カオスチャンプルのトロフィーリストです。</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>ようこそ、混沌の世界へ</name>
+  <detail>チュートリアルをクリアした。</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>旅の寄り道</name>
+  <detail>エクストラクエストをクリアした。</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>特訓！</name>
+  <detail>キャラクターを強化した。</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>コレクター</name>
+  <detail>キャラクターを「50種類」集めた。</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>未知なる領域へ</name>
+  <detail>キャラクターのレベル上限を解放した。</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="S" pid="-1">
+  <name>将来の夢はお嫁さん</name>
+  <detail>エピソードクエスト「ユリーナの手料理」をクリアした。</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="-1">
+  <name>平和に過ごしたい</name>
+  <detail>エピソードクエスト「Ｄジョーク」をクリアした。</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="-1">
+  <name>熟練の冒険者</name>
+  <detail>プレイヤーランクが「30」になった。</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="-1">
+  <name>混沌のチカラを使いなさい</name>
+  <detail>「カオスキャラクター」を入手した。</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="-1">
+  <name>混沌に染まりし者</name>
+  <detail>「カオスキャラクター」を3種類以上、デッキに加えた。</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="G" pid="-1">
+  <name>混沌世界の強者</name>
+  <detail>降臨クエストの難易度「Extreme」をクリアした。</detail>
+ </trophy>
+</trophyconf>

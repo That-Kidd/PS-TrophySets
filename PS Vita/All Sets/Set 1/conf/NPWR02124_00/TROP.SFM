@@ -1,0 +1,180 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000f88179f7c1af7fcb54dad61c6c1a0ef6da02081459b737f19079fae6189da11a16a4019a1de4da4b715166affd704793b4737ab10475d0973af956f67c4e80541f0c9c040ad90b08a7bc239c32ece9865e494db2e78984c9154caedf539080ac63d7a1a9bfdc23a3cbe865929250b53b668777b140452e881343d227b67a0bd45f584e4375e9887fe6290bd4f8a10deeb2435d62-->
+<trophyconf version="1.1" platform="psp2">
+ <npcommid>NPWR02124_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Plantas Contra Zombis</title-name>
+ <title-detail>Conjunto de trofeos</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>El Zombie Completo</name>
+  <detail>Has ganado todos los trofeos, has subido todas las montañas, has derrotado a todos los zombis, has sembrado todas las plantas. ¡Felicitaciones!</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="000">
+  <name>Pelouse protégée</name>
+  <detail>Récupérez les 49 plantes du jeu</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>Maestro morticultor</name>
+  <detail>Recolecta 49 plantas en el juego</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Ramitas listillas</name>
+  <detail>Haz que el Árbol de la sabiduría crezca 100 metros o más</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>La caída del Titán</name>
+  <detail>Vence a tu primer Zombistein</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>Sopa sin guisantes</name>
+  <detail>Completa un nivel con piscina de día sin usar Lanzaguisantes de ningún tipo.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>Vivito y conreando</name>
+  <detail>Sobrevive a 40 oleadas de pura ferocidad zombi</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>Plantaplantas</name>
+  <detail>Planta tus 10 primeros Lanzaguisantes</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>Rodarán cabezas</name>
+  <detail>Derriba a 5 zombis con una única nuez.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>Explonado</name>
+  <detail>¡Lanza por los aires a 10 zombis de un solo Petacerezazo!</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>Corte apurado</name>
+  <detail>Supera cualquier nivel tras usar las 5 cortadoras de césped</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>Comprador compulsivo</name>
+  <detail>Date el capricho y gástate 25.000 euros o más en la tienda de Crazy Dave</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>Ñam ñam ñam</name>
+  <detail>Detén a la horda sólo con Girasoles, Nueces y Plantas carroñívoras en cualquier nivel</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>En sus puestos</name>
+  <detail>Completa un nivel de tejado normal sin usar ninguna planta catapulta.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>Zombiólogo</name>
+  <detail>Descubre al zombi Yeti.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>La Pela es la Pela</name>
+  <detail>Recoge 30 monedas seguidas en un nivel sin que desaparezca ninguna.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Días de sol</name>
+  <detail>Acumula 8.000 soles en un solo nivel.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Fiesta de Palomitas</name>
+  <detail>Derrota a 2 zombisteins con Mazorcañones en un solo nivel.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>¿Un Cafecito?</name>
+  <detail>Completa un nivel de día plantando solo setas y granos de café.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="000">
+  <name>Yo no tengo Hongos</name>
+  <detail>Completa un nivel de noche sin plantar ninguna seta.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>Última cortadora de césped</name>
+  <detail>Derrota al último zombi de un nivel con una cortadora de césped.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>20 bajo cero</name>
+  <detail>Inmoviliza a 20 zombis de tamaño completo con una única seta congelada.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>Flower Power</name>
+  <detail>Mantén 10 Birasoles vivos en un mismo nivel.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>Piromanía</name>
+  <detail>Completa un nivel usando sólo plantas explosivas para matar a los zombis.</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>Hombre cortacésped</name>
+  <detail>Elimina a 10 zombis con una única cortadora de césped.</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>A tomar el fresquito</name>
+  <detail>Siente el ritmo, siente la rima... es hora de los jalapeños, ¡arriba! Solo te queda un nivel para destruir 3 Zombis de Bobsleigh.</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>Mazorcañón 5</name>
+  <detail>Planta 5 mazorcañones en un mismo nivel.</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>Puré de zombis</name>
+  <detail>Destruye 5 zombis con un único Apisonaflor.</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>Fe ciega</name>
+  <detail>Completa un nivel de nieblina extrema sin usar ningúna Planterna ni ningún Trebolador.</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="S" pid="000">
+  <name>Piscina cerrada</name>
+  <detail>Completa un nivel de piscina sin usar plantas acuáticas.</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>Formen filas</name>
+  <detail>Planta una Melonpulta congelada en cada fila.</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="G" pid="000">
+  <name>Segunda vida</name>
+  <detail>Completa el modo Aventura por segunda vez.</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="S" pid="000">
+  <name>Ruleta de la suerte</name>
+  <detail>Consigue 3 diamantes en la máquina tragaperras</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="S" pid="000">
+  <name>Sin pique</name>
+  <detail>Completa ¡Formen! ¡Arr! sin usar ningún Jalapeño</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>Iluminado</name>
+  <detail>Recoge todas las plantas del Jardín Zen, el Jardín de Setas y el Acuario Zen</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>Diamante Bezombied</name>
+  <detail>Mejora todas tus plantas convirtiéndolas en Bezombied</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>Mano para la jardinería</name>
+  <detail>Haz crecer 10 plantas a tamaño completo en tu Jardín Zen</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>Ataque de nueces</name>
+  <detail>Completa Vegezombis sin usar ninguna nuez, nuez cáscara-rabia ni calabaza.</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="G" pid="000">
+  <name>¡Desde el más alla!</name>
+  <detail>Supera los 20 minijuegos</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="S" pid="000">
+  <name>Lluvia de estrellas</name>
+  <detail>Completa Viendo las estrellas antes de que aparezca el primer Zombi Abanderado</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="B" pid="000">
+  <name>Sol Invictus</name>
+  <detail>Completa El último batallón con 2.000 soles restantes</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="B" pid="000">
+  <name>¡Poing! ¡Poing!</name>
+  <detail>Completa Saltimbanquis sin usar ninguna Nuez cáscara-rabias ni ninguna Magnetoseta</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="B" pid="000">
+  <name>¡¡PLACA!!</name>
+  <detail>Haz saltar por los aires a un zombi con una Patatapum.</detail>
+ </trophy>
+</trophyconf>

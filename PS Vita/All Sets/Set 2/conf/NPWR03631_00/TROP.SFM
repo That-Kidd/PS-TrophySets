@@ -1,0 +1,188 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000049b251c40c056db9c7646fe8f43f1edf923131f515bce0c4326af730a7d11cabab5a3930b31ff0374ca0d9522a345503b6cd502baf2f4dade052f5215e82934874c377ae1e40ff0453430ed46ac41245561d66726b4dafaf0e2d0a964a75671744150166709116299984192d431b334b4de67b63153fdc78010b239bd3f6d382c7771977dae9f6a3de8a55d997a041782402f805-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR03631_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>ダンボール戦機W</title-name>
+ <title-detail>ダンボール戦機Wのトロフィー</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>君は最高のＬＢＸプレイヤーだ！</name>
+  <detail>すべてのトロフィーを獲得した</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>ランキングバトル100位到達</name>
+  <detail>ランキングバトルで100位に到達した</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="S" pid="000">
+  <name>ランキングバトル50位到達</name>
+  <detail>ランキングバトルで50位に到達した</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="G" pid="000">
+  <name>ランキングバトル制覇！</name>
+  <detail>ランキングバトルを制覇した</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>ガシャポン初挑戦</name>
+  <detail>ガシャポンをした</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>クエスト初達成</name>
+  <detail>クエストをクリアした</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="000">
+  <name>クエスト制覇！</name>
+  <detail>全てのクエストをクリアした</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>初めての呼び出しバトル</name>
+  <detail>呼び出しバトルを行った</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>呼び出しバトル制覇！</name>
+  <detail>全ての呼び出しバトルに勝利した</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>マイＬＢＸネーム</name>
+  <detail>カスタムネームを登録した</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>物語の始まり</name>
+  <detail>ネームエントリーを行った</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>LBXを手に入れた</name>
+  <detail>LBXを入手した</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>LBXの変更</name>
+  <detail>LBXを乗り換えた</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>コアカスタマイズ</name>
+  <detail>コアパーツをカスタマイズした</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>LBXダンジョンバトル初挑戦</name>
+  <detail>ダンジョンバトルに挑戦した</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="G" pid="000">
+  <name>LBXダンジョンバトル制覇！</name>
+  <detail>全てのダンジョンバトルを制覇した</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>これがシーカーボード！？</name>
+  <detail>シーカーボードを初めて使用した</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="S" pid="000">
+  <name>シーカーボードマスター</name>
+  <detail>シーカーボードで50回ポストした</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>1章クリア</name>
+  <detail>第1章をクリアした</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>2章クリア</name>
+  <detail>第2章をクリアした</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>3章クリア</name>
+  <detail>第3章をクリアした</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>4章クリア</name>
+  <detail>第4章をクリアした</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>5章クリア</name>
+  <detail>第5章をクリアした</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>6章クリア</name>
+  <detail>第6章をクリアした</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>7章クリア</name>
+  <detail>第7章をクリアした</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>8章クリア</name>
+  <detail>第8章をクリアした</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>9章クリア</name>
+  <detail>第9章をクリアした</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="S" pid="000">
+  <name>10章クリア</name>
+  <detail>第10章をクリアした</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>初通信対戦</name>
+  <detail>通信バトルをプレイした</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>通信対戦初勝利</name>
+  <detail>通信バトルで勝利した</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>通信バトルで勝利した</name>
+  <detail>通信バトルで協力プレイをした</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>アーマークラス100達成！</name>
+  <detail>ACが100に達した</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="S" pid="000">
+  <name>アーマークラス200達成！</name>
+  <detail>ACが200に達した</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>プレイヤーLv100達成！</name>
+  <detail>Lvが100に達した</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="S" pid="000">
+  <name>プレイヤーLv200達成！</name>
+  <detail>Lvが200に達した</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>ファイナルブレイク初成功</name>
+  <detail>ファイナルブレイクを成功させた</detail>
+ </trophy>
+ <trophy id="036" hidden="yes" ttype="S" pid="000">
+  <name>ファイナルブレイクマスター</name>
+  <detail>ファイナルブレイクを30回成功させた</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>必殺ファンクションブレイク</name>
+  <detail>超必殺ファンクションブレイクを成功させた</detail>
+ </trophy>
+ <trophy id="038" hidden="yes" ttype="S" pid="000">
+  <name>必殺ファンクションブレイクマスター</name>
+  <detail>超必殺ファンクションブレイクを10回成功させた</detail>
+ </trophy>
+ <trophy id="039" hidden="yes" ttype="B" pid="000">
+  <name>これが、Σオービスだ！</name>
+  <detail>合体を成功させた</detail>
+ </trophy>
+ <trophy id="040" hidden="yes" ttype="S" pid="000">
+  <name>必殺ファンクションマスター</name>
+  <detail>必殺ファンクションを全て習得した</detail>
+ </trophy>
+ <trophy id="041" hidden="yes" ttype="S" pid="000">
+  <name>チャリン、チャリン</name>
+  <detail>獲得したクレジットが100万に達した</detail>
+ </trophy>
+ <trophy id="042" hidden="yes" ttype="S" pid="000">
+  <name>友情の絆！</name>
+  <detail>全ての仲間が加入した</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="S" pid="000">
+  <name>100体撃破！</name>
+  <detail>LBXを100体倒した</detail>
+ </trophy>
+ <trophy id="044" hidden="yes" ttype="S" pid="000">
+  <name>300体撃破！</name>
+  <detail>LBXを300体倒した</detail>
+ </trophy>
+</trophyconf>

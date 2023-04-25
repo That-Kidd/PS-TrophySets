@@ -1,0 +1,128 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000622c0ae9bb44d2c607c0ac88ef321a6d32a2056828d418e51c4eb4e21d7c6510055823c226b9f1d9befa4272d977e46780bab514515df9e1e49b4b919eb83898aa7bf25b3056434761f42502591b0610053a075375a60b131f6582dab2a9e98ef6b07df26efa2550dec68a08760c12c8b544c0778c18856249e9fc06c7459af870da70f51db03b23e7eed34a9f5e290d21180307-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR04314_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Frozen Synapse Prime</title-name>
+ <title-detail>Trophy Set for Frozen Synapse Prime</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Prime Directive</name>
+  <detail>Earn all of the other trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Nice Shot</name>
+  <detail>Watch a Kill Cam replay</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Thoughtful Killer</name>
+  <detail>Complete both Tutorials</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Right Man for the Job</name>
+  <detail>Complete the first Campaign mission.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>Not On My Watch!</name>
+  <detail>Complete Nashar: Extraction with both bodyguards alive</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>Data Mining</name>
+  <detail>In the Campaign extract all of the collectables in any Extraction mission</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>Devastating</name>
+  <detail>Make a kill with the Devastator unit</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>Go Commando</name>
+  <detail>Make a kill with the Commando unit</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>Tactics</name>
+  <detail>Get a Silver rank on any Campaign mission</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>Charon's Palm</name>
+  <detail>Get a Gold rank on any Campaign mission</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>Ouroboros</name>
+  <detail>Complete the campaign</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>First Blood</name>
+  <detail>Win a multiplayer match</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>Master Tactician</name>
+  <detail>Win a multiplayer match without losing a single unit</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>Digital Thug</name>
+  <detail>Kill 25 enemy units in Multiplayer</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>Networked Assassin</name>
+  <detail>Kill 50 enemy units in multiplayer</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="G" pid="000">
+  <name>Binary Hitman</name>
+  <detail>Kill 100 enemy units in Multiplayer</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Seasoned Veteran</name>
+  <detail>Play every game mode at least once</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Brrrappp!</name>
+  <detail>Get 20 kills with the Machine Gun unit</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>Close Combat</name>
+  <detail>Get 20 kills with the Shotgun unit</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>This is My Rifle</name>
+  <detail>Get 20 kills with the Sniper unit</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>Rocketman</name>
+  <detail>Get 20 kills with the Rocket Launcher unit</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>Grenadier</name>
+  <detail>Get 20 kills with the Grenade Launcher unit</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>Noob No More</name>
+  <detail>Win your first Instant Skirmish match</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="G" pid="000">
+  <name>Optimal Prime</name>
+  <detail>Win an Instant Skirmish match in 1 turn</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>Splatforms</name>
+  <detail>Kill 3 enemy units with 1 explosion</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="S" pid="000">
+  <name>Sniper Wolf</name>
+  <detail>In a match kill 3 enemy units with 1 Sniper unit</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="S" pid="000">
+  <name>Pinball Wizard</name>
+  <detail>Kill an enemy unit by bouncing a grenade off a wall</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="S" pid="000">
+  <name>I See You!</name>
+  <detail>Have 3 or more enemy units visible in a match with visibilty set to 'Dark'</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="G" pid="000">
+  <name>Hero</name>
+  <detail>With 1 unit wipe out an entire enemy team of 4 or more units</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>Double 11</name>
+  <detail>Play the game at either 11:11 am or 11:11 pm</detail>
+ </trophy>
+</trophyconf>

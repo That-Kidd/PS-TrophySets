@@ -1,0 +1,132 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000e22728102b9a1721d578de5ddcff5caf8700592a532da53cabe55a7c3cf6ef9f999f6b74b236ddb1c31a66dacdcb9da68db0633b45e7a9750a9c5495d734b13f948eb243d0f0db21a6ebd3cbfd0e3958ea72e282eeca8d1de51cec5a5785322e9aaa04c5ddbcb04e4dff22095a0c9ea9beb8ca5950378100e5aa7d9bcd0a3e16346400b0ad92ffccb8c6aaec10cd7d557c25b10d-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR05304_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>WHITE ALBUM2 幸せの向こう側</title-name>
+ <title-detail>WHITE ALBUM2 幸せの向こう側 トロフィー</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>ホワイトアルバム2マイスター</name>
+  <detail>全てのトロフィーを獲得した、マイスターの証。</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>introductory chapterクリア</name>
+  <detail>introductory chapterをクリアした。</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>introductory chapter２周目クリア</name>
+  <detail>introductory chapter２周目をクリアした。</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>introductory chapter千晶エピソード</name>
+  <detail>introductory chapter千晶エピソードを見た。</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="S" pid="000">
+  <name>小木曽雪菜エンド</name>
+  <detail>小木曽雪菜エンディングを迎えた。</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="S" pid="000">
+  <name>杉浦小春エンド</name>
+  <detail>杉浦小春エンディングを迎えた。</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="000">
+  <name>和泉千晶エンド</name>
+  <detail>和泉千晶エンディングを迎えた。</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>和泉千晶ノーマルエンド</name>
+  <detail>和泉千晶ノーマルエンディングを迎えた。</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>風岡麻理エンド</name>
+  <detail>風岡麻理エンディングを迎えた。</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="G" pid="000">
+  <name>codaかずさエンド</name>
+  <detail>codaかずさエンディングを迎えた。</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="G" pid="000">
+  <name>coda雪菜エンド</name>
+  <detail>coda雪菜エンディングを迎えた。</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="G" pid="000">
+  <name>coda浮気エンド</name>
+  <detail>coda浮気エンディングを迎えた。</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="G" pid="000">
+  <name>不倶戴天の君へ</name>
+  <detail>エクストラエピソードをクリアした。</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="000">
+  <name>closing chapterノーマルエンド</name>
+  <detail>closing chapterノーマルエンディングを迎えた。</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="B" pid="000">
+  <name>codaノーマルエンド</name>
+  <detail>codaノーマルエンディングを迎えた。</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="S" pid="000">
+  <name>ビジュアルCGコンプリート</name>
+  <detail>全てのビジュアルCGを見た。</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="S" pid="000">
+  <name>ミュージックコンプリート</name>
+  <detail>全てのBGMを聴いた。</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="S" pid="000">
+  <name>デジタルノベルコンプリート</name>
+  <detail>全てのデジタルノベルを読んだ。</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="S" pid="000">
+  <name>ボイスドラマコンプリート</name>
+  <detail>全てのボイスドラマを聴いた。</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="S" pid="000">
+  <name>introductory chapterコンプリート</name>
+  <detail>introductory chapterの全エピソードを見た。</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="S" pid="000">
+  <name>closing chapterコンプリート</name>
+  <detail>closing chapterの全エンディングを見た。</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="S" pid="000">
+  <name>codaコンプリート</name>
+  <detail>codaの全エンディングを見た。</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="G" pid="000">
+  <name>本編コンプリート</name>
+  <detail>introductory chapterコンプリート、closing chapterコンプリート、codaコンプリートを取った。</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>雪が解け、そして雪が降るまで</name>
+  <detail>デジタルノベル「雪が解け、そして雪が降るまで」 を読んだ。</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="000">
+  <name>彼の神様、あいつの救世主</name>
+  <detail>デジタルノベル「彼の神様、あいつの救世主」を読んだ。</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="B" pid="000">
+  <name>祭りの前～ふたりの二十四時間～</name>
+  <detail>ボイスドラマ「祭りの前～ふたりの二十四時間～」を聴いた。</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>祭りの後～雪菜の三十分～</name>
+  <detail>デジタルノベル「祭りの後～雪菜の三十分～」を読んだ。</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="B" pid="000">
+  <name>Twinkle Snow～夢想～</name>
+  <detail>デジタルノベル「Twinkle Snow～夢想～」を読んだ。</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="B" pid="000">
+  <name>歌を忘れた偶像(アイドル)</name>
+  <detail>デジタルノベル「歌を忘れた偶像(アイドル)」を読んだ。</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="B" pid="000">
+  <name>祭りの日～舞台の下の物語～</name>
+  <detail>ボイスドラマ「祭りの日～舞台の下の物語～」を聴いた。</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="B" pid="000">
+  <name>一泊二日の凱旋</name>
+  <detail>ボイスドラマ「一泊二日の凱旋」を聴いた。</detail>
+ </trophy>
+</trophyconf>

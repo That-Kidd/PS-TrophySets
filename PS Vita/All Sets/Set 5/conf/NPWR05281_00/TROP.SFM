@@ -1,0 +1,48 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000d92dcc0215fa7a14bbbb483c93ce46b298911f69bdc333759b2cf52ffd10712519176a83e440fea5b7be120f418d360353e0fca6b943c897bd331a135421901bb5e4d745737fdf876968e5c00a8a163f13cc7e0b46d886463613111561c871dc38ea372a247d1bc4dfda9afdc002a5324d714eb21570291d8142bc05634f3854e0363a548187f5c447d20bd0b839219a063c6d9e-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR05281_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>TxK Trophies</title-name>
+ <title-detail>Play well and unlock them.</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Completed Rings Bonus</name>
+  <detail>Finish one Rings Bonus round</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Completed Path Bonus</name>
+  <detail>Finish one Path Bonus round</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>A good start</name>
+  <detail>Get to level 16</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="-1">
+  <name>Halfway there</name>
+  <detail>Reach level 51</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="-1">
+  <name>Completed</name>
+  <detail>Finish all game levels</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="-1">
+  <name>Long march</name>
+  <detail>Complete all the game in Pure mode</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="-1">
+  <name>Ultra Survival</name>
+  <detail>Complete all game in Survival mode</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Max lives</name>
+  <detail>Max out lives counter</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Risky rescue</name>
+  <detail>Get rescued by AI droid at distance</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="-1">
+  <name>Pure skill</name>
+  <detail>Complete level 1-33 without dying</detail>
+ </trophy>
+</trophyconf>

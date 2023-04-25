@@ -1,0 +1,144 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000071b329d7d5f6f63c48415e8cf1e4a65ee5604d991773fda038e5fe9c5517b96d16fcbccd639d6e5f35636029f5b46dc95aaf80ce26cf43de3532fc7e075e408ecb4d6b479395d91ad6fd687816d614af6ff177951f19fbe6f6fdea9e551bcc1528f5595394f662c8983a6963f20cec93cf13d81ec243a431d8ef353079ab50b9614d0e830d35a2a79b1aa64705a5df851cc82042-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR03875_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Call of Duty® Black Ops: Declassified</title-name>
+ <title-detail>Call of Duty® Black Ops: Declassified Trophy Pack</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>No More Worlds to Conquer</name>
+  <detail>Earn all available Trophies for Call of Duty® Black Ops: Declassified.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Can't Beat Fresh Meat</name>
+  <detail>Start Operations mode on any difficulty.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>Bang for Your Buck</name>
+  <detail>Kill 4 enemies with a single grenade in any Operation. </detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>Cut and Run</name>
+  <detail>Melee 5 enemies in a row in any Operation.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>Headbanger</name>
+  <detail>Perform 10 head shots in a row in any Operation.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>Parking Violation</name>
+  <detail>Destroy 20 total cars in Operations mode.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>A Need to Bleed</name>
+  <detail>Melee 100 total enemies in Operations mode.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>Extreme Prejudice</name>
+  <detail>Kill 10 enemies in less than 5 seconds in any Operation.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>Justice Is Blind</name>
+  <detail>Kill 4 enemies who are stunned by a Flashbang Grenade in any Operation.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>Stick It to the Man</name>
+  <detail>Kill 5 enemies by sticking Semtex to each one in any Operation.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>Bang-up Job</name>
+  <detail>Kill 15 enemies with RPG in ‘Three Point Landing’ Operation.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>Conservative Values</name>
+  <detail>Complete ‘Escort Service’ Operation without reloading.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>Going Ballistic</name>
+  <detail>Kill 10 enemies with Ballistic Knife melee attack in ‘Rocket's Red Glare’ Operation.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>Pure as the Driven Snow</name>
+  <detail>Complete ‘Rocket's Red Glare’ Operation without taking damage.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>Not Afraid of the Dark</name>
+  <detail>Complete ‘Active Measures’ Operation without using Night Vision Goggles.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>Crack Shot</name>
+  <detail>Perform 10 head shots with the .357 Magnum in ‘OPS M.I.A.’ Operation.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>Double Down</name>
+  <detail>Kill 8 enemies with 4 or fewer bullets in ‘OPS M.I.A.’ Operation.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>Waste Not, Want Not</name>
+  <detail>Complete ‘OPS M.I.A.’ Operation with 100% accuracy.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>The Sky Is Mauling!</name>
+  <detail>Kill 3 enemies with Mortar Strike in ‘Air Traffic Control’ Operation.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>World's Best Babysitter</name>
+  <detail>Save all Analysts in ‘Air Traffic Control’ Operation.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>Delivery and Takeout </name>
+  <detail>Plant C4 in less than 60 seconds in ‘Self Destructive’ Operation.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>Doctorate in Thermodynamics</name>
+  <detail>Kill 2 scientists with a single grenade in ‘Self Destructive’ Operation.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>Troglodyte</name>
+  <detail>Kill all scientists with head shots in ‘Self Destructive’ Operation.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>The Sound of One Hand Capping</name>
+  <detail>Complete ‘Got Your Back’ Operation with only a handgun.</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>Working Vice</name>
+  <detail>Shoot 10 stacks of cocaine in ‘Hostile Takeover’ Operation.</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="S" pid="000">
+  <name>Making a Point</name>
+  <detail>Kill both bosses with head shots in ‘Hostile Takeover’ Operation.</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="S" pid="000">
+  <name>Enthusiasms</name>
+  <detail>Kill Torres with a melee attack in ‘Hostile Takeover’ Operation.</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>Test the Product</name>
+  <detail>Knife 10 stacks of cocaine in ‘Hostile Takeover’ Operation. </detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>Been Around the Block</name>
+  <detail>Complete all Operations on any difficulty.</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>Some Quality Time</name>
+  <detail>Complete all Time Trial missions on any difficulty.</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="G" pid="000">
+  <name>Hostile Witness</name>
+  <detail>Survive to wave 13 in Hostiles mode.</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="G" pid="000">
+  <name>Blood and Guts</name>
+  <detail>Earn 3 stars in each Operation.</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="G" pid="000">
+  <name>The Best of Times</name>
+  <detail>Earn 3 stars in each Time Trial mission.</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="G" pid="000">
+  <name>Hostile Work Environment</name>
+  <detail>Earn 3 stars in each Hostiles mission.</detail>
+ </trophy>
+</trophyconf>

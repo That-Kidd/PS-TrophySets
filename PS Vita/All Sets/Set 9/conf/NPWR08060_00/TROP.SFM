@@ -1,0 +1,40 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000086de8d08e0f2ef042e92094caed344358cc2c92d9c0008805092ce852dd1bc537591f66959b2db788c9d24fccfd65d106023d75e61108e1445f5ed2f44a341e986f9593955889c4d7d847f516ed0a390ce41885031d7321f1d6483994a312a62547d7190261d0ed469c7acb86dccf46f5e6a7b8dedf2bcfe5e3726437fa51908211daea130ff9082a179cb83ed557d5e42eb9dce-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR08060_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Sketchcross&#x0a;</title-name>
+ <title-detail>Developed by Spiky Fish Games</title-detail>
+ <trophy id="000" hidden="no" ttype="G" pid="-1">
+  <name>Puzzle Master</name>
+  <detail>Complete all the puzzles on hard. </detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="-1">
+  <name>No Page Unturned</name>
+  <detail>Beat all the par times in every book. </detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="-1">
+  <name>Frenzy Addict</name>
+  <detail>Complete 100 Total Frenzy Puzzles. </detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="-1">
+  <name>Frenzy Beginner </name>
+  <detail>Complete 5 Frenzy Puzzles in a row. </detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="-1">
+  <name>Half Way There</name>
+  <detail>Beat the par times for 5 books.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Just Starting Out </name>
+  <detail>Finish your first puzzle. </detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>To The Shelf</name>
+  <detail>Beat the par times for one book. </detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Getting the Hang of it </name>
+  <detail>Finish 20 Puzzles.</detail>
+ </trophy>
+</trophyconf>

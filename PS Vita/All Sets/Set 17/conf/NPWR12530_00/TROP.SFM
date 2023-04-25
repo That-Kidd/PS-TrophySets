@@ -1,0 +1,160 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000a886c47378706f892cae9fff81fbbbbfbda8b31727c8d82c84b1e4c3e058d5f121b2edcf26dc15092bfff5edca888bee9d400a34c9f99142fce03488bf91aa873e6913dec8814aa1a2f0e0a8dbdc88cd99a336baef63a71bd198287297368d4fac39e02d794335a54fb4c99913348c52dfdefb719bb4706662be31096dca0d80f6cace4af8a58f816521170ecbc03d48b47996f6-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR12530_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>無雙☆群星大會串</title-name>
+ <title-detail>無雙☆群星大會串獎盃組</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>白金☆群星</name>
+  <detail>獲得所有獎盃</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>最初的一步</name>
+  <detail>在最初的戰鬥獲得勝利</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>新王・環</name>
+  <detail>引導環成為新王</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>新王・剎那</name>
+  <detail>引導剎那成為新王</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>新王・志貴</name>
+  <detail>協助志貴，讓泉水枯竭</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>拯救世界的英雄們</name>
+  <detail>封印夜見，拯救異世界</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="G" pid="000">
+  <name>純潔的女神</name>
+  <detail>淨化夜見，讓異世界恢復原來的樣貌</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>只為一心守護</name>
+  <detail>為了守護環，踏上跟環不同的道路</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>被奪走的記憶</name>
+  <detail>在異世界也失去記憶</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="000">
+  <name>所向無敵的鬼神</name>
+  <detail>證明最強的武藝</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="000">
+  <name>歸還之後</name>
+  <detail>遭到強制送還</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>承讓的天下</name>
+  <detail>統一天下並退讓</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="B" pid="000">
+  <name>閃亮的異世界偶像</name>
+  <detail>成為異世界的頂尖偶像</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="000">
+  <name>引憐飛舞的蝴蝶</name>
+  <detail>決定身為異世界的女忍者而活</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="B" pid="000">
+  <name>真正的英雄</name>
+  <detail>為了拯救異世界而蒙騙眾人</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>即使無緣再會</name>
+  <detail>捉捕住惡人</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>永遠的別離</name>
+  <detail>彰顯勇者之力</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>狂熱時刻</name>
+  <detail>在１場戰鬥中，發動無雙狂熱３次以上</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="G" pid="000">
+  <name>動作巨星</name>
+  <detail>開放所有角色的行動</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>如同與守護靈的情誼</name>
+  <detail>發動合體技</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>最後要無比華麗</name>
+  <detail>以必殺技在戰鬥中獲勝</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="G" pid="000">
+  <name>心跳加速的注視</name>
+  <detail>觀看所有角色的澡堂事件</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>激烈火熱的交情</name>
+  <detail>與任一角色的友好度達到上限</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="G" pid="000">
+  <name>感謝命運的邂逅</name>
+  <detail>用任一角色與所有角色的友好度達到上限</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>戰鬥……不會結束！</name>
+  <detail>任一角色的等級達到上限</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>桶～子！</name>
+  <detail>調查桶子</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>再來唯有墮落一途</name>
+  <detail>在聖域觀看任一角色的第３階段對話事件</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>聽得見素材的聲音！？</name>
+  <detail>獲得素材</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="G" pid="000">
+  <name>環遊世界１０秒之旅</name>
+  <detail>在３小時內完成故事模式</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>貓神大人</name>
+  <detail>持有金錢達到１０００００以上</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>踏遍大陸</name>
+  <detail>開放世界地圖的所有領域</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="G" pid="000">
+  <name>無雙☆群星大會串 is my life.</name>
+  <detail>完成所有的故事・英雄・戲劇性戰鬥</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="S" pid="000">
+  <name>神速</name>
+  <detail>在２分鐘內完成任一戰鬥</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="S" pid="000">
+  <name>為了生存而殺</name>
+  <detail>在不受到損傷的情況下完成任一戰鬥</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>可靠的夥伴</name>
+  <detail>在１場戰鬥中用英雄技能擊破８名以上的武將</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>貓大人午餐</name>
+  <detail>在１場戰鬥中吃下１０個以上的肉包</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>請救救我！</name>
+  <detail>在１場戰鬥中救援夥伴達５次以上</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>蘭德羅爾護衛</name>
+  <detail>在１場戰鬥中獲得５０００以上的經驗值</detail>
+ </trophy>
+</trophyconf>

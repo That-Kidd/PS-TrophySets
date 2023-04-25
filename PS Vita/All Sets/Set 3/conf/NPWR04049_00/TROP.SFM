@@ -1,0 +1,60 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000035069e9882ca830184c960e3d11433480a11091a88200aff89ab8947e29edfe3545955f81f9f62ff1f953180a7cd2adbb14c4387232cbf43f1b0f4ca6ab5c816fc39def9dd2cef85f3fe9628adf38d50bf4e1af24002da3911262c301b945256e684c7cd7e81fd2e233ac734e7d49ed56e49503cce0498ac09d593852f8548eb35b174d79290477d4e8cc6cd7464a4565f9976f1-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR04049_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Draw Slasher</title-name>
+ <title-detail>Draw Slasher Trophies</title-detail>
+ <trophy id="000" hidden="yes" ttype="B" pid="-1">
+  <name>Bamboo Ranger</name>
+  <detail>Kill Stomper in Story Mode</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="-1">
+  <name>High Noon</name>
+  <detail>Kill Gunslinger in Story Mode</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="-1">
+  <name>Monkey Spider</name>
+  <detail>Kill Octo in Story Mode</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="-1">
+  <name>Minefield</name>
+  <detail>Kill Hangman in Story Mode</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="-1">
+  <name>Spooky Keeper</name>
+  <detail>Kill Phantom in Story Mode</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="-1">
+  <name>Way of the Ninja</name>
+  <detail>Kill Demon Samurai in Story Mode</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="-1">
+  <name>Way of the Samurai</name>
+  <detail>Do not kill Demon Samurai in Story Mode</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="-1">
+  <name>Shadow Warrior</name>
+  <detail>Complete Story Mode</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="-1">
+  <name>1st Chamber</name>
+  <detail>Obtain at least one flame in all basic Challenges</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="-1">
+  <name>36th Chamber</name>
+  <detail>Master all Challenges</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>Grilled Bear</name>
+  <detail>Play all Arcade Modes&#x0a;</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="-1">
+  <name>The Cleaner</name>
+  <detail>Kill 5000 Pirate Monkey Zombies™</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="B" pid="-1">
+  <name>No Remorse</name>
+  <detail>Play as Samurai</detail>
+ </trophy>
+</trophyconf>

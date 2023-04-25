@@ -1,0 +1,120 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000001bfa2e178b8e57ddea65958465f90a30451c7357197969531183c7a4f01449edb94b9e31e0c7fc42127fb5310d7a677c7cf45afaf76d662aef3b09e168e7a315d6260d814b49117a808401d7574277f8f85fab98e8cbff86444bd87c57466d0a0cbdc6af47a16dbf1c8be90b299a46739c3cc3ba4bf39c6a038a268bfd9c736af0de78ae10f187f1bde037d715c6a8ef9144208a-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR09428_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>SA7 -Silent Ability Seven-</title-name>
+ <title-detail>SA7 -Silent Ability Seven-</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>MISSION ACCOMPLISHED</name>
+  <detail>すべてのトロフィーを獲得した。</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="G" pid="000">
+  <name>任務の報告</name>
+  <detail>すべてのチャートをコンプリートした。</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="G" pid="000">
+  <name>任務の記憶</name>
+  <detail>すべてのイベントスチルをコンプリートした。</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="G" pid="000">
+  <name>機密文書閲覧</name>
+  <detail>Dictionaryにすべての単語が登録された。&#x0a;</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="G" pid="000">
+  <name>小さな標的</name>
+  <detail>すべてのマイプチをコンプリートした。</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="G" pid="000">
+  <name>ベテランエージェント</name>
+  <detail>すべてのエンドをクリアした。</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="G" pid="000">
+  <name>MISSION IMPOSSIBLE？</name>
+  <detail>すべてのタイムイベントを成功させた。</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>成瀬伶トゥルーエンドクリア</name>
+  <detail>成瀬伶のトゥルーエンドをクリアした。</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>日向翔太トゥルーエンドクリア</name>
+  <detail>日向翔太のトゥルーエンドをクリアした。</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>橘理人トゥルーエンドクリア</name>
+  <detail>橘理人のトゥルーエンドをクリアした。</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>近衛累トゥルーエンドクリア</name>
+  <detail>近衛累のトゥルーエンドをクリアした。</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>有働巽トゥルーエンドクリア</name>
+  <detail>有働巽のトゥルーエンドをクリアした。</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>アーサートゥルーエンドクリア</name>
+  <detail>アーサーのトゥルーエンドをクリアした。</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>成瀬伶ノーマルエンドクリア</name>
+  <detail>成瀬伶のノーマルエンドをクリアした。</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>日向翔太ノーマルエンドクリア</name>
+  <detail>日向翔太のノーマルエンドをクリアした。</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>橘理人ノーマルエンドクリア</name>
+  <detail>橘理人のノーマルエンドをクリアした。</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>近衛累ノーマルエンドクリア</name>
+  <detail>近衛累のノーマルエンドをクリアした。</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>有働巽ノーマルエンドクリア</name>
+  <detail>有働巽のノーマルエンドをクリアした。</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>アーサーノーマルエンドクリア</name>
+  <detail>アーサーのノーマルエンドをクリアした。</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>幼なじみは新人エージェント</name>
+  <detail>伶＝ゼロだと気付く。</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="000">
+  <name>エージェントは路上で歌う</name>
+  <detail>翔太＝エイジだと気付く。</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>不審者は司令官？</name>
+  <detail>理人＝リードだと気付く。</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="B" pid="000">
+  <name>おまわりさんはエージェント</name>
+  <detail>累＝エルだと気付く。</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>パパはスナイパー</name>
+  <detail>巽＝キールだと気付く。</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="000">
+  <name>美しき死神</name>
+  <detail>アーサーに攫われる。</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>ARKとの遭遇</name>
+  <detail>攫われそうになったところをARKのエージェントに助けられる。</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>エージェント見習い</name>
+  <detail>ARKのエージェントになる。</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>MISSION FAILED</name>
+  <detail>バッドエンドを迎える。</detail>
+ </trophy>
+</trophyconf>

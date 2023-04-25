@@ -1,0 +1,132 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000a60f33cb2e55bed43fa6db173da9dbc6584649995336521ec4ec04824ad638756b9fa17cc702294e2ad60a6b55cf24076795c151705c8ccb424a0949a86462b34d54a423aec1e35d5ed87d368e5c43eb52083c18e37ae01da2e8bd78c43fdf578236d47f9d464d8380bedb8fda21f4b5b79148a8abeca0201f82fd77edc6c6afb7e0f8a80ecbc24526eff4cc7c351755ded09e8b-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR10279_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>SwapQuest</title-name>
+ <title-detail>Trophies for SwapQuest</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Globetrotter</name>
+  <detail>You found everything there is in SwapQuest!</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Bug Catcher</name>
+  <detail>Defeat Ghargon, the evil bug!</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>Extinguisher</name>
+  <detail>Beat Xerberus, the three-headed hound!</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="S" pid="000">
+  <name>Under the Surface</name>
+  <detail>Defeat Ulthros, the giant kraken!</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="S" pid="000">
+  <name>The Horde Defeated</name>
+  <detail>Something's lurking in the dark.</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="G" pid="000">
+  <name>Rainbow Slime Defeated</name>
+  <detail>King of the Slimes!</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>Fly Catcher</name>
+  <detail>Defeat 50 Enemies.</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>Hero</name>
+  <detail>Defeat 100 enemies.</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="G" pid="000">
+  <name>Master</name>
+  <detail>Defeat 200 Enemies.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>Swap Trainee</name>
+  <detail>Swap 500 Tiles.</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>Swap Junior</name>
+  <detail>Swap 1.000 Tiles.</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="G" pid="000">
+  <name>Swap Master</name>
+  <detail>Swap 2.500 Tiles.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>Pocket Money</name>
+  <detail>Collect 1.000 Jewels.</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>Wealthy</name>
+  <detail>Collect 5.000 Jewels.</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="G" pid="000">
+  <name>Rich</name>
+  <detail>Collect 15.000 Jewels.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>A Worthy Foe Appears</name>
+  <detail>Defeat a midboss.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>999</name>
+  <detail>Collect 999 Jewels in one level.</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>Class Change</name>
+  <detail>Reach your first class change.</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="S" pid="000">
+  <name>Ultimate Class</name>
+  <detail>Reach your second class change.</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="S" pid="000">
+  <name>Treasure Hunt</name>
+  <detail>Find all the hidden jewels.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>Until the End</name>
+  <detail>Watch the credits.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>Challenge Completed</name>
+  <detail>Finish every challenge level.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>New Skill</name>
+  <detail>Use an active ability.</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="S" pid="000">
+  <name>Skill Rookie</name>
+  <detail>Use an active ability 10 times.</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="G" pid="000">
+  <name>Skill Scholar</name>
+  <detail>Use an active ability 50 times.</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="S" pid="000">
+  <name>Skill Master</name>
+  <detail>Master an ability.</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="S" pid="000">
+  <name>Weapon Master</name>
+  <detail>Master a weapon.</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="S" pid="000">
+  <name>Armor Master</name>
+  <detail>Master an armor.</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="S" pid="000">
+  <name>Level Up</name>
+  <detail>Reach level 25.</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="S" pid="000">
+  <name>Ghostly Apparition</name>
+  <detail>Find the hidden challenge level.</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="S" pid="000">
+  <name>A special Slime</name>
+  <detail>Find the hidden boss.</detail>
+ </trophy>
+</trophyconf>

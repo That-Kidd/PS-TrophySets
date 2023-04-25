@@ -1,0 +1,56 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000324a2bfe41d37dd6d417e3af8e09c0eef73a73dcad771aafb401e1245a307077bace8e8fca2ccbce2e774abf9e45dcd599064c611657511d82910b93f933edb49b99554a08c734be4dc5e032eecc744d9534701a25d833a45c001d197106528bfe6718a568005d866378a585dd8cf02dd6d59a7d4f18f159c8847052337aca9f3939eff4f7286b574924682e4dd2a8d48dcc3e01-->
+<trophyconf version="1.1" platform="ps3,psp2,ps4" policy="small">
+ <npcommid>NPWR05906_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Ultratron</title-name>
+ <title-detail>Ultratron</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Ieiunitas</name>
+  <detail>Defeated Ieiunitas</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Healthy Diet</name>
+  <detail>Consumed 10 consecutive fruits</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Bellum</name>
+  <detail>Defeated Bellum</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Challenge Perfect</name>
+  <detail>Got 100% on a challenge stage</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>The Artful Dodger</name>
+  <detail>Got 100% on a dodge stage</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Lues</name>
+  <detail>Defeated Lues</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="-1">
+  <name>Double Dose</name>
+  <detail>Defeated two bosses</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Unexpected Item In Bagging Area</name>
+  <detail>Quantum-shifted through a boss</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="-1">
+  <name>Max Pet Upgrades</name>
+  <detail>Pets can level up, and have maxed Scan Range, Rocket, Laser and Shooty Pet upgrades </detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="-1">
+  <name>Crufts</name>
+  <detail>Didn't let any pets take damage for 10 levels</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="-1">
+  <name>Supervisory Position</name>
+  <detail>Beat a level without firing a single shot</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="-1">
+  <name>Letum</name>
+  <detail>Defeated Letum</detail>
+ </trophy>
+</trophyconf>

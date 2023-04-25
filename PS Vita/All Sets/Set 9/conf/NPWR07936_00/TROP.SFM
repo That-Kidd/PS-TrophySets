@@ -1,0 +1,164 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000043bd6c5b16702babadd7704e24b06a29654ee7f3c047e49cfd93c4d20121eccf01421b1830b6c2e8ac95f5013b458aa71b44b3a81f2751668ee8dce6b4ad7803e775bf3af0275496fe76755818e0e67b4a12becaf89857719f0ebda27808933ab5ab94a983841209c5b47737b4793a135ecb194e771be5c16deef81e62986fc602083713279368a8fd451a55001ba1d1de61786d-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR07936_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>東京新世録 オペレーションバベル</title-name>
+ <title-detail>東京新世録 オペレーションバベルのトロフィーセットです</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>ミッションコンプリート</name>
+  <detail>オペレーションバベルの全てを極めました。&#x0a;たくさん遊んでいただきありがとうございます。</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>初めての任務</name>
+  <detail>初めての任務を達成しました。&#x0a;これからエクス隊員としての生活が始まります。</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>過去への架け橋</name>
+  <detail>時を越えて再び東京へと戻ってきました。&#x0a;未来を変えるための戦いが幕を開けます。</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>タナトス討伐</name>
+  <detail>万死の化身タナトスを倒しました。</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>ヴァルプルギス討伐</name>
+  <detail>蠱惑の化身ヴァルプルギスを倒しました。</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>フューラー討伐</name>
+  <detail>破滅の化身フューラーを倒しました。</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>バッカニア討伐</name>
+  <detail>劫略の化身バッカニアを倒しました。</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>ジョーカー討伐</name>
+  <detail>幻影の化身ジョーカーを倒しました。</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>ドレッドノート討伐</name>
+  <detail>砲撃の化身ドレッドノートを倒しました。</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="000">
+  <name>シンマ討伐</name>
+  <detail>殺戮の化身シンマを倒しました。</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>人としての意志</name>
+  <detail>キエルの呪縛を乗り越え、ヒカルはヒトの道を選びました。&#x0a;人であろうとする意志が彼女の強さなのです。</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="G" pid="000">
+  <name>平和と犠牲</name>
+  <detail>エンブリオを打ち倒し、世界に平和を取り戻しました。&#x0a;しかし失った代償はあまりにも大きい…。</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>マスコット捕獲完了</name>
+  <detail>無事、ムーラを捕獲しました。&#x0a;真麻は家族が戻ってきたことに感謝感激の様子。</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>新たなる道</name>
+  <detail>再び過去に舞い戻り、望むべき未来を手に入れました。&#x0a;ヒカルとキエルの二人に新たなる道筋を。</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>最後の試練</name>
+  <detail>村正天明から課せられた最後の試練を乗り越えました。&#x0a;これからの未来を守るのは我々エクス隊です。</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="G" pid="000">
+  <name>最強のコードライザー</name>
+  <detail>アリス隊長を退け、実力を示しました。&#x0a;名実共に最強のコードライザーとなった瞬間です。</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>装着！クロスブラッド！</name>
+  <detail>二種類のブラッドコードを選択しました。&#x0a;得手不得手を理解し、最強の高みを目指しましょう。</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>手配異形討伐！</name>
+  <detail>初めて手配異形を討伐しました。&#x0a;これで漸く一人前のエクス隊員です。</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>手配異形殲滅！</name>
+  <detail>全ての手配異形を討伐しました。&#x0a;名のある異形全てを倒したエリートの証です！</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="S" pid="000">
+  <name>エンブリオウォーカー</name>
+  <detail>エンブリオアークを全て制覇しました。&#x0a;もはやエンブリオは自分の庭のようなものです。</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="G" pid="000">
+  <name>戦いの申し子</name>
+  <detail>リーサルホールを制覇しました。&#x0a;＊　クリア　＊　＊　おめでと　＊</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>大金持ち</name>
+  <detail>50万GP貯めました。&#x0a;さぁ、後は使うだけです！</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>大盤振る舞い</name>
+  <detail>開発ラボで累計10万GPも買い物しました。&#x0a;ご利用はどうぞ計画的に。</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>スキルコレクター</name>
+  <detail>エクステンドスキルアイテムをたくさん集めました。&#x0a;後はどう使うかが腕の見せどころです。</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>ユニークコレクター</name>
+  <detail>ユニークアイテムをたくさん集めました。&#x0a;しかし、レアなアイテムはまだまだ存在します。</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="B" pid="000">
+  <name>妖刀村正</name>
+  <detail>妖刀と呼ばれる幻の刀を集めました。&#x0a;持つものを蝕む代償に優れた力を授かるでしょう。</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>機械仕掛の妖刀</name>
+  <detail>機械で作られた刀を集めました。&#x0a;モーター駆動の刃があらゆるものを斬り裂きます。</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="S" pid="000">
+  <name>軍神の武具</name>
+  <detail>軍神の名を冠した武具を集めました。&#x0a;神の如き強さで戦場を統べる支配者となれ。</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="G" pid="000">
+  <name>神槍バルキリアス</name>
+  <detail>神槍と名高いバルキリアスを集めました。&#x0a;汝、其の槍を以って全てを貫かん。</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="G" pid="000">
+  <name>最後の村正</name>
+  <detail>天にすら名を轟かせる最強の妖刀を手に入れました。&#x0a;この刀に斬れぬものなど存在しません。</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>転ばぬ先の杖</name>
+  <detail>アビス内にメモをたくさん設置しました。&#x0a;このメモが後々役立つ日がきっと来ます。</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>リスクジャンキー</name>
+  <detail>ゲージ最大状態で連続30回の戦闘を生き残りました。&#x0a;これからも危険な状態に酔いしれましょう。</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>結束の力</name>
+  <detail>ユニオンスキルをたくさん使いました。&#x0a;仲間との連携が生き残るための秘訣です。</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>物々交換</name>
+  <detail>ソウルトークンを別のアイテムと交換しました。&#x0a;物々交換もたまにはいいものです。</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>自家製コード</name>
+  <detail>アイテム合成をたくさん行いました。&#x0a;作れるものは自分で作りましょう。</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>本当の自分</name>
+  <detail>自分の本当の性格に気が付きました。&#x0a;思いがけない出来事が性格に影響を与えます。</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>気分は南国</name>
+  <detail>医療ラボでバカンスを堪能しました。&#x0a;南国気分で燃え尽きも一発回復！</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>異形処理スペシャリスト</name>
+  <detail>様々な種類の異形を大量に処理しました。&#x0a;これからも立ち塞がる脅威は全て排除しましょう。</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>マルチフォース</name>
+  <detail>２つ目の部隊を編制しました。&#x0a;あらゆる任務に万全の態勢で臨みましょう。</detail>
+ </trophy>
+</trophyconf>

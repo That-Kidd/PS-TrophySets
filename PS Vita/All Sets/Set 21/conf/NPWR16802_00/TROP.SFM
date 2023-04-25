@@ -1,0 +1,140 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000001ad4d596e45fca88bebdbc338f9310ee4b4e7097088e27455225a24aa653b9cab1f5f02a64011dfdaae8d16355e89f669bc719a1be6607c24510413dc11cda60363251fed49a37a4dfe2c4e907948c93d71e043698c840ddd5ef9e54fa7a8b12928b45d37f869332a03c083b74c265b85ef356f4918d41afa35376849a821e1765fddb48a01ec39223f1064f402c39a92cb673ec-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR16802_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>プロ野球スピリッツ2019</title-name>
+ <title-detail>トロフィーコレクション</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>プロスピマスター</name>
+  <detail>すべてのトロフィーを獲得</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="000">
+  <name>プロスピ入門マスター</name>
+  <detail>プロスピ入門をすべてクリア</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>チームプレイで5試合達成</name>
+  <detail>ペナントレースモードのチームプレイで5試合達成する</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>チームプレイで10試合達成</name>
+  <detail>ペナントレースモードのチームプレイで10試合達成する</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>監督プレイで5試合達成</name>
+  <detail>ペナントレースモードの監督プレイで5試合達成する</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>監督プレイで10試合達成</name>
+  <detail>ペナントレースモードの監督プレイで10試合達成する</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>フィールドプレイで5試合達成</name>
+  <detail>ペナントレースモードのフィールドプレイで5試合達成する</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>フィールドプレイで20試合達成</name>
+  <detail>ペナントレースモードのフィールドプレイで20試合達成する</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>FA選手獲得</name>
+  <detail>ペナントレースモードでFA選手を1人獲得する</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>まだまだ1年目</name>
+  <detail>ペナントレースモードを1年プレイする　　　＊（日程スキップ可）</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>ようやく5年目</name>
+  <detail>ペナントレースモードを5年プレイする　　　＊（日程スキップ可）</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>10年間おつかれさまでした</name>
+  <detail>ペナントレースモードを10年プレイする　　　＊（日程スキップ可）</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>ルーキー</name>
+  <detail>スタープレイヤーモードを1年プレイした</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>一軍昇格</name>
+  <detail>スタープレイヤーモードを新規選手で開始して一軍に昇格した</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>1億円プレイヤー</name>
+  <detail>スタープレイヤーモードを新規選手で開始して年俸1億円以上で新年を迎えた</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>スターへの第一歩</name>
+  <detail>スタープレイヤーモードでスターレベルが上がった</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>選手交友ビギナー</name>
+  <detail>スタープレイヤーモードで1人以上の選手の親友イベントが発生した</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>選手交友マスター</name>
+  <detail>スタープレイヤーモードで5人以上の選手の親友イベントが発生した</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>人物交友ビギナー</name>
+  <detail>スタープレイヤーモードで1人の人物の評価が最大になった</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="000">
+  <name>人物交友マスター</name>
+  <detail>スタープレイヤーモードで3人の人物の評価が最大になった</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>買い物上手</name>
+  <detail>スタープレイヤーモードでアイテムを1つ購入した</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="G" pid="000">
+  <name>スタープレイヤー</name>
+  <detail>スタープレイヤーモードを新規選手で開始してスターレベル50に到達する</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="G" pid="000">
+  <name>1年MVPチャレンジャー</name>
+  <detail>甲子園スピリッツモードの「1年チャレンジ」で★600の選手を作成</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>1年マスターチャレンジャー</name>
+  <detail>甲子園スピリッツモードで「1年チャレンジ」をドラフト1位クリア</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>1年チャレンジャー</name>
+  <detail>甲子園スピリッツモードで「1年チャレンジ」をクリア</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="G" pid="000">
+  <name>大会MVPチャレンジャー</name>
+  <detail>甲子園スピリッツモードの「大会チャレンジ」で★550の選手を作成</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="S" pid="000">
+  <name>大会マスターチャレンジャー</name>
+  <detail>甲子園スピリッツモードで「大会チャレンジ」をドラフト1位クリア</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>大会チャレンジャー</name>
+  <detail>甲子園スピリッツモードで「大会チャレンジ」をクリア</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="G" pid="000">
+  <name>練習MVPチャレンジャー</name>
+  <detail>甲子園スピリッツモードの「練習チャレンジ」で★500の選手を作成</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="S" pid="000">
+  <name>練習マスターチャレンジャー</name>
+  <detail>甲子園スピリッツモードの「練習チャレンジ」で★400の選手を作成</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>練習チャレンジャー</name>
+  <detail>甲子園スピリッツモードで「練習チャレンジ」をクリア</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="S" pid="000">
+  <name>ハリキリマン</name>
+  <detail>甲子園スピリッツモードの「練習チャレンジ」でハリキリレベルMAXに到達</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="S" pid="000">
+  <name>筋トレマニア</name>
+  <detail>甲子園スピリッツモードの「練習チャレンジ」で「潜在チャレンジ」が大成功</detail>
+ </trophy>
+</trophyconf>

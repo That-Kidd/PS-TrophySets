@@ -1,0 +1,60 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000cafd2e920acf6ae511fad67303c8b59f6d2781a23093f9302a398dfd5b2ee094995233568a130b06b7a7c2e1b6c859a76c449af3e17f3c5f6ac2686c7b7a10fa7b91fc26990ed15e82f422d14a8b54eabdbc6406259609a68abe99de3e624602768325d588d7aa7a3f46f4349f0b5ca30244f38f2db6c68747c27cdefe0ce84299ca9c3808130a1f859f6e6db96c7c7e51ebdd30-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR03687_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Table Ice Hockey</title-name>
+ <title-detail>The trophies available in Table Ice Hockey.</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Teachers Pet</name>
+  <detail>Complete all Tutorials in the game.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Penalty</name>
+  <detail>Receive a Penalty.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Name Changer</name>
+  <detail>Change a player's name.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Victory!</name>
+  <detail>Win your first game of Table Ice Hockey.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Rookie Hockey Player</name>
+  <detail>Win 5 Games.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>You can't win them all</name>
+  <detail>Lose a Game.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Face to Face</name>
+  <detail>Win a Face-Off.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>You have the power!</name>
+  <detail>Score a goal when on a Power Play.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Defeat the Human</name>
+  <detail>Beat an Ad-Hoc Network Opponent.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="-1">
+  <name>Against The Odds</name>
+  <detail>Score a goal when you are shorthanded.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="-1">
+  <name>Intermediate Hockey Player</name>
+  <detail>Win 25 Games.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="-1">
+  <name>Cup Winner</name>
+  <detail>Win the Tournament Cup.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="-1">
+  <name>Champion Hockey Player</name>
+  <detail>Win 50 Games.</detail>
+ </trophy>
+</trophyconf>

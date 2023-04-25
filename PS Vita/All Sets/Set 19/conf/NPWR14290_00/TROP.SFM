@@ -1,0 +1,144 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000001ee523732780b48f001d4e082f694a704241124064d59ec1afb3a7443ad68fe93dda4494bb3a94a3d21d79037dff1a04db17220b6e0c603489c631032d7ef65c7e4f8d7282eee152099074256e4d1015c00fea485170e4305fc20256e33d836eb85a5530ca3aa30073d03183259983fe7edb5cdb9bd4dafb6d46292a254575db87002314404f469a8d3a704acf5ae361001652bd-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR14290_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>黑蝶幻境</title-name>
+ <title-detail>「黑蝶幻境」獎盃信息。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>黑蝶幻境</name>
+  <detail>獲得所有獎盃</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>記憶的碎片</name>
+  <detail>看完一個短篇故事</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>初次狩獵</name>
+  <detail>第一次狩獵黑蝶</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>洋樓中的甦醒</name>
+  <detail>通過序章</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>萬花筒的指引</name>
+  <detail>通過一章</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>短暫的團圓</name>
+  <detail>通過二章</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>變異</name>
+  <detail>通過三章</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>兒時玩伴</name>
+  <detail>通過四章</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>主人的真面目</name>
+  <detail>通過五章</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="000">
+  <name>心之漬</name>
+  <detail>通過六章</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="000">
+  <name>蝴蝶的祈願</name>
+  <detail>通過七章</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>洋樓之夢</name>
+  <detail>看完主要結局</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>深淵</name>
+  <detail>看完不幸結局</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>依賴</name>
+  <detail>看完山都結局</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>無知</name>
+  <detail>看完鴉翅結局</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="S" pid="000">
+  <name>期盼的世界</name>
+  <detail>看完鈎翅結局</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="S" pid="000">
+  <name>泡沫</name>
+  <detail>看完紋白結局</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="S" pid="000">
+  <name>慟哭之後</name>
+  <detail>看完緋影結局</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="S" pid="000">
+  <name>序幕</name>
+  <detail>看完現實世界的結局</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="S" pid="000">
+  <name>歸來</name>
+  <detail>看完和也結局</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="S" pid="000">
+  <name>走向明天</name>
+  <detail>看完阿明結局</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="S" pid="000">
+  <name>緞帶之絆</name>
+  <detail>看完拓也結局</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="S" pid="000">
+  <name>夏日的大門</name>
+  <detail>看完大團圓結局</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>Ending　50％</name>
+  <detail>結局完成率達到50％</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="000">
+  <name>Short Ep　50％</name>
+  <detail>短篇故事完成率達到50％</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="B" pid="000">
+  <name>Scene　50％</name>
+  <detail>場景完成率達到50％</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="S" pid="000">
+  <name>神槍手</name>
+  <detail>在黑蝶狩獵中取得Ａ評價</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="S" pid="000">
+  <name>GALLERY　50％</name>
+  <detail>畫廊完成率達到50％</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="S" pid="000">
+  <name>Ending　100％</name>
+  <detail>結局完成率達到100％</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="S" pid="000">
+  <name>Short Ep　100％</name>
+  <detail>短篇故事完成率達到100％</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="S" pid="000">
+  <name>Scene　100％</name>
+  <detail>場景完成率達到100％</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="G" pid="000">
+  <name>蝴蝶老獵人</name>
+  <detail>在黑蝶狩獵中取得Ｓ評價</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="G" pid="000">
+  <name>GALLERY　100％</name>
+  <detail>畫廊完成率達到100％</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="G" pid="000">
+  <name>MEMORIES　100％</name>
+  <detail>回憶完成率達到100％</detail>
+ </trophy>
+</trophyconf>

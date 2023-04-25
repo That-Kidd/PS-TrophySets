@@ -1,0 +1,52 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000055bdda5d7382196e95b46598c4af8c84be9c5e659a335cfca7be1daf33c6f55128601eb66f4bbb4fc06910777ad74425bfc634761168bfaf818736e7e0e7acfaf9d78b7d774c83c17c59738c4c6683d5cb22111777e049b5276fbdeec415f8a3f20a7d89c31f448517cbd93cdfc5eab94955219b2dba7b2ea36263c7fc4203bf83753d5c6db13fc2bdfad035a11994cf4aa883ab-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR09888_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Polara</title-name>
+ <title-detail>Polara</title-detail>
+ <trophy id="000" hidden="no" ttype="G" pid="-1">
+  <name>Legendary Runner</name>
+  <detail>Clear all stages without "Death" in Story Mode.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="-1">
+  <name>Psychotic Collector</name>
+  <detail>Complete all "Special"and "POLARA".</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>No pain no gain</name>
+  <detail>Get a "Special".</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Separated word</name>
+  <detail>Complete "POLARA" in one stage.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Destroy the wall</name>
+  <detail>Beat the BOSS down.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Face the truth</name>
+  <detail>Clear 30 stages in Story Mode.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="-1">
+  <name>Reborn</name>
+  <detail>Clear all stages in Story Mode.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="-1">
+  <name>Gold Digger</name>
+  <detail>Score $500 or higher in any Mode.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="-1">
+  <name>Unbreakable</name>
+  <detail>Reach 500m in Random-Insane.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>Stubborn Challenger</name>
+  <detail>Unlock all Modes.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>Never give up</name>
+  <detail>Get 200 or more Deaths in any single level.</detail>
+ </trophy>
+</trophyconf>

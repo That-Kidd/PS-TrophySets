@@ -1,0 +1,156 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000b246eacf533cc1e123468d0b70ac577d289f992d10190004e676e97044f3783d8034fa274b26b126ce7bba8c674f7855f55363d99246def402a2062d1473bbca99c564ba93d56698f1eac75d8a90bd943328959f3d6b701fbe3d261a6d3a8660b47fce16e038303765a67e4b5d6431f892e868c7dbb32ceab69636010cfa25454d51ef6ef2d5f9cd822ce9fdf5ade109beb2d29d-->
+<trophyconf version="1.1" platform="psp2">
+ <npcommid>NPWR03015_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Everybody's Golf</title-name>
+ <title-detail>Everybody's Golf&#x0a;Trophy Set</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>All our thanks to Everybody's Golfers!</name>
+  <detail>Get every trophy.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Overwhelming Power</name>
+  <detail>Hit a drive over 350 yards&#x0a;in an official round.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Putting Pro</name>
+  <detail>Sink a putt over 15m long&#x0a;in an official round.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Watery Wonder</name>
+  <detail>Skip the ball across water&#x0a;three or more times in a&#x0a;row in an official round.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>My First Chip-In</name>
+  <detail>Perform a chip-in in an&#x0a;official round.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>My First Birdie</name>
+  <detail>Score a birdie in an&#x0a;official round.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>Rockin' Score</name>
+  <detail>Score an eagle in an&#x0a;official round.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>It's a Miracle!</name>
+  <detail>Score an albatross in an&#x0a;official round.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>Go for the Ace!</name>
+  <detail>Score an hole-in-one in&#x0a;an official round.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>Greased Lightning</name>
+  <detail>Perform a rising shot in&#x0a;an official round.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>Perfect Spiral</name>
+  <detail>Perform a spiral shot in&#x0a;an official round.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>Chaser of the Flame</name>
+  <detail>Perform a homing shot in&#x0a;an official round.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>Daily Participant</name>
+  <detail>Enter a Daily Int'l&#x0a;Tournament and complete&#x0a;the round.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>Fancy Dresser</name>
+  <detail>Purchase a costume.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>Absolute Class</name>
+  <detail>Purchase a Lv3 club or ball.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>Gear Master</name>
+  <detail>Purchase Lv3 versions of&#x0a;every ball and club with&#x0a;levels.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>True Dedication</name>
+  <detail>Raise one character's loyalty&#x0a;to max.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="G" pid="000">
+  <name>I Love Everybody!</name>
+  <detail>Raise all characters' loyalty&#x0a;to max.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>Courses Complete!</name>
+  <detail>Gain membership to every&#x0a;course.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Audiophile</name>
+  <detail>Purchase every Music track.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>Gear Collector</name>
+  <detail>Purchase every type of ball&#x0a;and club.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>Art Fancier</name>
+  <detail>Purchase every piece of&#x0a;concept art.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="G" pid="000">
+  <name>SOLD OUT</name>
+  <detail>Purchase every item in the&#x0a;shop.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>Starry Night</name>
+  <detail>Collect every star in&#x0a;Challenge Mode.</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="G" pid="000">
+  <name>King of Kings</name>
+  <detail>Collect every crown in&#x0a;Challenge Mode.</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>Lobby Character Part Collector</name>
+  <detail>Collect over 50% of the&#x0a;normal parts.</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="S" pid="000">
+  <name>Lobby Character Part Lover</name>
+  <detail>Collect over 50% of the&#x0a;special parts.</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="G" pid="000">
+  <name>Lobby Character Part Maniac</name>
+  <detail>Collect over 50% of the&#x0a;deluxe parts.</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="B" pid="000">
+  <name>Shot Type Selector</name>
+  <detail>Use every shot type in&#x0a;an official round.</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="B" pid="000">
+  <name>Fear the Receptionist!</name>
+  <detail>Gain access to Amy as&#x0a;a playable character.</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="B" pid="000">
+  <name>The Challenge Begins</name>
+  <detail>Win VS Isabelle on&#x0a;Beginner Rank.</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="B" pid="000">
+  <name>So Long, Amateur League</name>
+  <detail>Win VS Pancho on&#x0a;Amateur Rank.</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="B" pid="000">
+  <name>A True Everybody's Golfer</name>
+  <detail>Win VS Grace on&#x0a;Pro Rank.</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="B" pid="000">
+  <name>Chewing Up Challenges</name>
+  <detail>Win VS Stuart on&#x0a;Bronze Rank.</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="B" pid="000">
+  <name>The Climax!</name>
+  <detail>Win VS Max on&#x0a;Silver Rank.</detail>
+ </trophy>
+ <trophy id="035" hidden="yes" ttype="S" pid="000">
+  <name>Journey's End...?</name>
+  <detail>Win VS Pandora on&#x0a;Gold Rank.</detail>
+ </trophy>
+ <trophy id="036" hidden="yes" ttype="G" pid="000">
+  <name>The Real Ending!</name>
+  <detail>Win VS Izzak on&#x0a;Platinum Rank.</detail>
+ </trophy>
+</trophyconf>

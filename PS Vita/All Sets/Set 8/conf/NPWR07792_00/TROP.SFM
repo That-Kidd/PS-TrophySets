@@ -1,0 +1,100 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000680f54db311ebaa60a291fe16e5b94a4c910cdc892ac084935f9ec0c957ccc4e53c1334faf3abdf9e8c23ede573bd9d72b3a5f9dfa59dc28f650b4c109b1e74c0028b5c47a0f3d5e2b99c1796ef1184a13a385e6545427546be2fa28b44047c87180c2b7c5fd6ba3cd32cf98152bc8e6e2ccb72f33f34d0d6acb982932749845e70524b9784dd048aa8e50e728197c624d0d8d84-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR07792_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>ひとつ飛ばし恋愛Ｖ</title-name>
+ <title-detail>ひとつ飛ばし恋愛Ｖのトロフィーです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>ひとつ飛ばし恋愛</name>
+  <detail>全てのトロフィーを獲得した</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>新しい学園生活が始まる</name>
+  <detail>ゲームを開始する</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>設定変更</name>
+  <detail>初めてＳｙｓｔｅｍで設定を変更する</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>お前に俺達の希望を託す</name>
+  <detail>初めてイベントＣＧを見た</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>フッ。世話を焼かせるわね</name>
+  <detail>全てのイベントＣＧを見た</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>これで、完璧！</name>
+  <detail>全てのＢＧＭを聴いた</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>みんな……俺は高みへ行くよ</name>
+  <detail>全てのヒロインルートをクリアした</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>だって、先輩にはあたしと紅が付いていますから</name>
+  <detail>園原碧里ルートをクリアした</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>千乃ちゃん大好きっ！好き好きだーいすきっ！！！</name>
+  <detail>玉森桜ルートをクリアした</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>細けぇことぁいいんだよ！あたしとお前と、姐さんがいりゃ！</name>
+  <detail>寿りさルートをクリアした</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>勘弁してよメグーーーーーーーーっっっっ！！！！</name>
+  <detail>蒼木夏芽ルートをクリアした</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>私も、キスしたい……です</name>
+  <detail>神木明日葉ルートをクリアした</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>この人となら家族になりたいと思ったから</name>
+  <detail>神木いくるルートをクリアした</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>買い物は召使いを従えて歩くに限るわ</name>
+  <detail>三枝紅と買い物に出かけた</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>持つべきものは幼馴染だねぇ</name>
+  <detail>五味渕千乃とソフトクリームを食べた</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>アタシはわかってるから。従姉妹だし、な？</name>
+  <detail>羽田野阿知華とエアホッケーを遊んだ</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>僕の大切な遊び道具</name>
+  <detail>三枝メグと出かけた</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>電車内で雨漏り？まさか……</name>
+  <detail>園原碧里と出会った</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>千乃の友達か？</name>
+  <detail>玉森桜と出会った</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>は？お連れ様？</name>
+  <detail>寿りさと出会った</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>あの胸……どこかで…………</name>
+  <detail>蒼木夏芽と出会った</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>お姉ちゃんは清楚で大人っぽい雰囲気だ。</name>
+  <detail>神木明日葉と出会った</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>今の俺、ちょっとカッコイイ？</name>
+  <detail>神木いくると出会った</detail>
+ </trophy>
+</trophyconf>

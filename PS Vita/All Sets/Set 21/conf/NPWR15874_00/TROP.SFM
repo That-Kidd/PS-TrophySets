@@ -1,0 +1,84 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000da842dc12a3a395f12a5e5f61e7e9fd51a9eeae8a9d03992a2e6ec697695c4ab83dfb01c2a05ab2c991804abc2e2c07d247afd16e2bc5117ce2daa2ad36a2ade482626928c594dcd6dd1c707eed6a9aa28dfa77648da98747582fc05c24e7e7cec75c905dba34fb1720301d521a72df42cc95367a36bb2cf363133ce5e99d946860b47d6a1fd002d64d6190ef71dc44cda08177c-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR15874_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Waking Violet</title-name>
+ <title-detail>Waking Violet, trophies list</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Dream job</name>
+  <detail>Get all other trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>A good start</name>
+  <detail>Complete the first level.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Sailing past the Pillars of Hercules</name>
+  <detail>Complete the first block of levels</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Snow or never</name>
+  <detail>Complete the first ice level</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>Let's do it again</name>
+  <detail>Replay a level</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>Apprentice alchemist</name>
+  <detail>Complete 15 levels</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>Senior alchemist</name>
+  <detail>Complete 30 levels</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="G" pid="000">
+  <name>Trap-door murderer</name>
+  <detail>Kill a monster with a door</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>Master alchemist</name>
+  <detail>Learn all powers</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="000">
+  <name>Clumsy</name>
+  <detail>Die outside levels</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="G" pid="000">
+  <name>Not afraid to ask</name>
+  <detail>Use a hint</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>Things get steamy</name>
+  <detail>Reach the final levels</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>What's this key for ?</name>
+  <detail>Beat a secret level</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="G" pid="000">
+  <name>I might need a keyring</name>
+  <detail>Beat both secret levels</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="G" pid="000">
+  <name>Unmistaken</name>
+  <detail>Complete five levels without using undo</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="G" pid="000">
+  <name>Intrepid</name>
+  <detail>Complete the game without using hints</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="G" pid="000">
+  <name>The dream is still alive</name>
+  <detail>Wake up from the dream</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="G" pid="000">
+  <name>A broken dream</name>
+  <detail>Free the alchemist in the real world</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="G" pid="000">
+  <name>Sweet dreams</name>
+  <detail>Defeat the alchemist once and for all</detail>
+ </trophy>
+</trophyconf>

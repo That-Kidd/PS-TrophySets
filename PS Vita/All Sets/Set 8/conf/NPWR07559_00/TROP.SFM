@@ -1,0 +1,112 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000009cad4141c4f7675ec104140be2ca94bcde00bd1bc1d6bd7a833e8500cd647af944ab84710add05bfb5d5e1f1fbd413935eea6bc7761dccda8bfcfe65d96441fa0b7b41f1a1c54ccb0316b115178456f75c98ae71b81adf45803b6335e77a35f310cfcbea28b1f41766107151a9d8b50687bd158ca7cddc52831321101b046627e2178246b407e6901899020b5f9485fd5a6f3444-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR07559_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>いろとりどりのセカイ WORLD'S END -RE:BIRTH-</title-name>
+ <title-detail>いろとりどりのセカイ WORLD'S END -RE:BIRTH-  トロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>いろとりどりのセカイ</name>
+  <detail>全てのトロフィーを獲得</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>空から少女</name>
+  <detail>第一話『空から少女』読了</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>観波加奈は泣いたりしない</name>
+  <detail>第二話『観波加奈は泣いたりしない』読了</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>君を連れ去る最果ての風</name>
+  <detail>第三話『君を連れ去る最果ての風』読了</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>胡蝶の式</name>
+  <detail>第四話『胡蝶の式』読了</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>開かず扉の向こう側</name>
+  <detail>第五話『開かず扉の向こう側』読了</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>如月澪は振り返らない</name>
+  <detail>第六話『如月澪は振り返らない』読了</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>敷島鏡は笑わない</name>
+  <detail>第七話『敷島鏡は笑わない』読了</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>東峰つかさは頑張りたい</name>
+  <detail>第八話『東峰つかさは頑張りたい』読了</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="000">
+  <name>君がここにいる不思議</name>
+  <detail>第九話『君がここにいる不思議』読了</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="000">
+  <name>海</name>
+  <detail>第十話『海』読了</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>祟り</name>
+  <detail>第十一話『祟り』読了</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="B" pid="000">
+  <name>二階堂真紅は眠らない</name>
+  <detail>第十二話『二階堂真紅は眠らない』読了</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>たったひとつの大切なもの</name>
+  <detail>真紅ルート『たったひとつの大切なもの』読了</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>あなたが傍にいてほしい</name>
+  <detail>加奈ルート『あなたが傍にいてほしい』読了</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="S" pid="000">
+  <name>いつか、水平線の彼方へと</name>
+  <detail>澪ルート『いつか、水平線の彼方へと』読了</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="S" pid="000">
+  <name>さよならまたね</name>
+  <detail>鏡ルート『さよならまたね』読了</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="S" pid="000">
+  <name>ありがとうを伝えたい</name>
+  <detail>つかさルート『ありがとうを伝えたい』読了</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="S" pid="000">
+  <name>真紅せんせいのホットケーキ</name>
+  <detail>幕間『真紅せんせいのホットケーキ』読了</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="G" pid="000">
+  <name>真紅アフター前編</name>
+  <detail>真紅アフター前編読了</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="G" pid="000">
+  <name>真紅アフター後編</name>
+  <detail>真紅アフター後編読了</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="G" pid="000">
+  <name>加奈アフター</name>
+  <detail>加奈アフター読了</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="G" pid="000">
+  <name>澪アフター</name>
+  <detail>澪アフター読了</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="G" pid="000">
+  <name>鏡アフター</name>
+  <detail>鏡アフター読了</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="G" pid="000">
+  <name>つかさアフター</name>
+  <detail>つかさアフター読了</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="G" pid="000">
+  <name>藍アナザー</name>
+  <detail>藍アナザー読了</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,40 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000009610b6c3637b7687fb2bd240499234255777d596976bedb8371367247c97de84ede45c34f34875c94976638527e5dd73ca01c2a6a6c4a25bf48bc2b0d52fb34b459386d3dd8b5897f49c2aa9a7b002f6719a5f67bb292b59a22fd031d3875d6f139f76529f57604b830a52276c96c77fb8dc4f552d049698f76f492ebad1f00a6717155362730be35a91d36ae4b2957f39737eab-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR04421_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Coconut Dodge Revitalised</title-name>
+ <title-detail>Coconut Dodge Revitalised Trophies</title-detail>
+ <trophy id="000" hidden="no" ttype="G" pid="-1">
+  <name>Boss Skills</name>
+  <detail>Reach level 30 without losing a life.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="-1">
+  <name>Crabtastic!</name>
+  <detail>Complete Maze 29.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="-1">
+  <name>Mad Skills</name>
+  <detail>Reach level 20 without losing a life.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="-1">
+  <name>Houdini</name>
+  <detail>Score 2000 points without collecting any treasure.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="-1">
+  <name>Dodger</name>
+  <detail>Score 1000 points without collecting any treasure.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Skills</name>
+  <detail>Reach level 10 without losing a life.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Dare Devil</name>
+  <detail>High risk gold grab.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Smooth Mover</name>
+  <detail>High risk beach ball bounce.</detail>
+ </trophy>
+</trophyconf>

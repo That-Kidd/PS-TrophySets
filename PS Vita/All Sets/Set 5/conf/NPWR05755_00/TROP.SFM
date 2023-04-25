@@ -1,0 +1,40 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000cb2f168e7d7554bce3131728483097f9ed0473ce41b3406a9512cbc16707054d4d5c1fe97fa6f034c8427132ed921c13cef55b19201f199e00ef91d8e23970e40b8caaa122bce49edcb88de9814198c90d9335737fc966e72c6917754e5e730a950c7a26d70efd5d2ece0992e65863a4fd96762d3ef112da9b347033ffb2a5a8d535b5e26a5e5644d11ba18ea429b4450e36d703-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR05755_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>もっと２０倍！　麻雀が強くなる方法　～初中級者編～</title-name>
+ <title-detail>日本プロ麻雀連盟公認の麻雀教本です。</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>立直</name>
+  <detail>立直をかけてアガる。</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>一気通貫</name>
+  <detail>一気通貫をアガる。</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>七対子</name>
+  <detail>七対子をアガる。</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="-1">
+  <name>海底撈月</name>
+  <detail>海底撈月(ツモ)でアガる。</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="-1">
+  <name>二盃口</name>
+  <detail>二盃口をアガる。</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="-1">
+  <name>清一色</name>
+  <detail>清一色をアガる。</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="-1">
+  <name>役満</name>
+  <detail>役満をアガる。</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="-1">
+  <name>修了認定テスト</name>
+  <detail>修了認定テストに合格する。</detail>
+ </trophy>
+</trophyconf>

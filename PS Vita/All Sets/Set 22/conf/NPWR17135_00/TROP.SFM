@@ -1,0 +1,96 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000dc97120692dd14b7ae1fd76885e8b392bedd2aeec9d5f018b26e76389a38ec6f50ca829439b12ef0faf2afb10f5ae4b5c4ded4535d7bdb90fb1cb4c1668288afac4a4a47434f420dc27b761167e02e60c1914f840cf4943d7ae37ea334f04cd608908f6e0ed7446ac05ba1ef983bde9720ee92f0570e9b56f67fe051e9bce914ec37229a542d0601e846d4b4fe22ace34dd4c59e-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR17135_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>メモリーズオフ -Innocent Fille- for Dearest</title-name>
+ <title-detail>メモリーズオフ -Innocent Fille- for Dearest のトロフィーセットです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Innocent Fille for Dearest</name>
+  <detail>全てのトロフィーを獲得した。</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Harmonie</name>
+  <detail>『ノエル Harmonie』を開始した</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Honest</name>
+  <detail>『寿奈桜 Honest』を開始した</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Birth</name>
+  <detail>『柚莉 Birth』を開始した</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>Rebirth</name>
+  <detail>『琴莉 Rebirth』を開始した</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>Reverse</name>
+  <detail>『瑞羽 Reverse』を開始した</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="G" pid="000">
+  <name>木漏れ日の笑顔</name>
+  <detail>『ノエル Harmonie』BEST ENDをクリア</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>最終電車</name>
+  <detail>『ノエル Harmonie』BAD ENDをクリア</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="G" pid="000">
+  <name>honest.</name>
+  <detail>『寿奈桜 Honest』BEST ENDをクリア</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>理解あるカノジョでいたいから</name>
+  <detail>『寿奈桜 Honest』BAD ENDをクリア</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="G" pid="000">
+  <name>続く幸せ、抱き合う家族</name>
+  <detail>『柚莉 Birth』BEST END-Aをクリア</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="G" pid="000">
+  <name>続く幸せ、抱き合う家族-Twins-</name>
+  <detail>『柚莉 Birth』BEST END-Bをクリア</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="G" pid="000">
+  <name>飛び立ったその先で</name>
+  <detail>『琴莉 Rebirth』BEST ENDをクリア</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>ふたりだけの世界</name>
+  <detail>『琴莉 Rebirth』BAD END-Aをクリア</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>必然から成るアンビギュアス</name>
+  <detail>『琴莉 Rebirth』BAD END-Bをクリア</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="S" pid="000">
+  <name>桜の一片～encore～</name>
+  <detail>『瑞羽 Reverse』NORMAL ENDをクリア</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="G" pid="000">
+  <name>最愛～Dearest～</name>
+  <detail>『瑞羽 Reverse』BEST ENDをクリア</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="S" pid="000">
+  <name>繋がり、届く想い</name>
+  <detail>クロスオーバーイベントを全て見た</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>Music Gallery</name>
+  <detail>Musicコンプリート！</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="000">
+  <name>Visual Gallery</name>
+  <detail>Albumコンプリート！</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>警告劇場</name>
+  <detail>警告劇場を見た。</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="G" pid="000">
+  <name>for Dearest</name>
+  <detail>全てのエンディングを見た。</detail>
+ </trophy>
+</trophyconf>

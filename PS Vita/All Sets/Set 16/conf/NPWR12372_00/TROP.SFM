@@ -1,0 +1,144 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000164ac91559fa2267223fee15f7ef7444f1cb539a5df441f8f4a73bc1432b0b572171aa527e98e9263046c388ed46315847917cb84d5f831b531e8d3975a2f2d1caab3c3d86592da4dc4caa7830d6e6e1b20a776811eb633a90effc8b2da84659adf31121308e05fd5173b8149321ebcf7131014473dcfe7122fe93a0d97a81715122018415bb7e6d924e7fac7c853bdda903ed7c-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR12372_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>CHAOS;CHILD</title-name>
+ <title-detail>The CHAOS;CHILD Trophy Set.</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Super-Perfectionst</name>
+  <detail>Mastered Chaos;Child</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>Digital Native</name>
+  <detail>Started Chapter 1</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>Sumo Sticker</name>
+  <detail>Started Chapter 2</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>School Festival!</name>
+  <detail>Started Chapter 3</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>Her Words</name>
+  <detail>Started Chapter 4</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>Gigalomaniacs</name>
+  <detail>Started Chapter 5</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>Their Resistance I</name>
+  <detail>Started Chapter 6</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>Their Resistance II</name>
+  <detail>Started Chapter 7</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>Betrayal</name>
+  <detail>Started Chapter 8</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="000">
+  <name>Duel</name>
+  <detail>Started Chapter 9</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="000">
+  <name>Serika Onoe</name>
+  <detail>Started Chapter 10</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>Takuru Miyashiro</name>
+  <detail>Started Chapter 11</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="B" pid="000">
+  <name>Give Up on the Case, Takuru</name>
+  <detail>Discovered Nono Kurusu’s Chapter</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="000">
+  <name>Adios Gracias!</name>
+  <detail>Discovered Hinae Arimura’s Chapter</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="B" pid="000">
+  <name>U-Umm…</name>
+  <detail>Discovered Uki Yamazoe’s Chapter</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>Mmm!</name>
+  <detail>Discovered Hana Kazuki’s Chapter</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>Okay</name>
+  <detail>Discovered the True Route</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="S" pid="000">
+  <name>First Ending</name>
+  <detail>Reached the Over Sky End</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="S" pid="000">
+  <name>Heads or Tails</name>
+  <detail>Reached the Real Sky End</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="S" pid="000">
+  <name>True World</name>
+  <detail>Reached the Dark Sky End</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="S" pid="000">
+  <name>Butterfly</name>
+  <detail>Reached the Dream Sky End</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="S" pid="000">
+  <name>Pandemic Call</name>
+  <detail>Reached the Deep Sky End</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="S" pid="000">
+  <name>Chaos Child</name>
+  <detail>Reached the Silent Sky End</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>My First Delusion Trigger</name>
+  <detail>Didn’t Get Scared, and Tried a Delusion Trigger</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>A Positive Person (Third Time)</name>
+  <detail>Saw All Positive Delusions</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="S" pid="000">
+  <name>A Negative Person (Third Time)</name>
+  <detail>Saw All Negative Delusions</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="G" pid="000">
+  <name>Gigalomaniac</name>
+  <detail>Tried All Delusion Triggers</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="G" pid="000">
+  <name>I Am a Right-Sider</name>
+  <detail>Made No Mistakes When Putting Up The Data</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="S" pid="000">
+  <name>I Knew You Were a Wrong-Sider</name>
+  <detail>Got It Wrong On a Mapping Trigger 20 Times</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>Enough. I'm Disappointed.</name>
+  <detail>Reached the Bad End</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>A Wind is Blowing. I Can Feel It.</name>
+  <detail>An Amazing Wind Blew</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="G" pid="000">
+  <name>CG Complete</name>
+  <detail>Saw All Event CG</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="G" pid="000">
+  <name>TIPS Complete</name>
+  <detail>Saw All TIPS</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="G" pid="000">
+  <name>Sound Complete</name>
+  <detail>Listened to All Sound</detail>
+ </trophy>
+</trophyconf>

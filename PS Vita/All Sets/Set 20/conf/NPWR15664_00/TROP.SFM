@@ -1,0 +1,48 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000b7b22cc8e0282cbd4af4ca1c2028665921135a1018f3ce04621be5c5fc22aab9b81309a5c1594da8ea2cc747a745468ef983b4c378b83accd24c13485def9a79386bc2a4536bacd07f9e524dd6ab013cb18e50cf73e7bf1441314c83ab2738d1c048e23c7823db977b1933736691fecce1aaeb3203d111664a7c53cd4a4279680f0db56d41c07682404845a30047e023ab3166d6-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR15664_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>The Dreamlands: Aisling's Quest</title-name>
+ <title-detail>The Dreamlands: Aisling's Quest Trophies</title-detail>
+ <trophy id="000" hidden="yes" ttype="B" pid="-1">
+  <name>Enter The Dreamlands</name>
+  <detail>Learn about The Dreamlands</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="-1">
+  <name>Mom's ring</name>
+  <detail>Find the first treasure</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="-1">
+  <name>A golden medal</name>
+  <detail>Find the second treasure</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="-1">
+  <name>The guiding light</name>
+  <detail>Find the third treasure</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="-1">
+  <name>Dear Diary</name>
+  <detail>Pick all the diary pages</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="-1">
+  <name>A younger self</name>
+  <detail>Meet with your younger self</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="-1">
+  <name>The Gloom</name>
+  <detail>Find The Gloom</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="-1">
+  <name>A child's doll</name>
+  <detail>Pick all the stuffed dolls</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="G" pid="-1">
+  <name>The Source of The Nightmare</name>
+  <detail>Defeat The Mourner</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="G" pid="-1">
+  <name>Save The Dreamlands</name>
+  <detail>Save The Dreamlands</detail>
+ </trophy>
+</trophyconf>

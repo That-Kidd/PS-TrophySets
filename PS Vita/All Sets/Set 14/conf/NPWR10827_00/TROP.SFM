@@ -1,0 +1,84 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000001db38eb4d198fea92f71eb7f56ad79c6e99654458a6bfed186dde148e0217680309ebfa74ff4ee94ab9aad01639da9a7895e5a7c49cf08273476c33e7a770d79c70e27add4984e3fb1f5250811c34abbe27ff55ef09cd269138b67fa5c792860263f38c46df4ca918aba4eb8d5e36f4d4255a16f54f4184fdd0ca072562d6547767679b6c7e25be9ef032e92ccc032158389c5b1-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR10827_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>大正×対称アリス all in one</title-name>
+ <title-detail>大正×対称アリス all in one のトロフィーです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>コンプリート</name>
+  <detail>全てのトロフィーを獲得</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>シンデレラとの別れ</name>
+  <detail>シンデレラ編のバッドエンドを全て見た</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="G" pid="000">
+  <name>番の鳥</name>
+  <detail>シンデレラ編のハッピーエンドをクリア</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>赤ずきんとの別れ</name>
+  <detail>赤ずきん編のバッドエンドを全て見た</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="G" pid="000">
+  <name>赦し</name>
+  <detail>赤ずきん編のハッピーエンドをクリア</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>かぐやとの別れ</name>
+  <detail>かぐや編のバッドエンドを全て見た</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="G" pid="000">
+  <name>仮面の下の本当の素顔</name>
+  <detail>かぐや編のハッピーエンドをクリア</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>グレーテルとの別れ</name>
+  <detail>グレーテル編のバッドエンドを全て見た</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="G" pid="000">
+  <name>縁を結ぶリボン</name>
+  <detail>グレーテル編のハッピーエンドをクリア</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="000">
+  <name>魔法使いの役割</name>
+  <detail>バッドエンド「魔法使いの役割」を全て見た</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="G" pid="000">
+  <name>俺は君の王子様</name>
+  <detail>白雪編のハッピーエンドをクリア</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>失敗したヒロインの末路</name>
+  <detail>バッドエンド「失敗したヒロインの末路」を全て見た</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="G" pid="000">
+  <name>猫を被って</name>
+  <detail>魔法使い編のハッピーエンドをクリア</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="000">
+  <name>最悪のエピローグ</name>
+  <detail>バッドエンド「最悪のエピローグ」を見た</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>虹を渡って</name>
+  <detail>アリス編のグッドエンドをクリア</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="G" pid="000">
+  <name>めでたしめでたし</name>
+  <detail>アリス編のグランドエンドをクリア</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="G" pid="000">
+  <name>もうひとつの物語</name>
+  <detail>もうひとつの物語をクリア</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="G" pid="000">
+  <name>CGコンプリート</name>
+  <detail>CG鑑賞をコンプリート</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="G" pid="000">
+  <name>BGMコンプリート</name>
+  <detail>BGM鑑賞をコンプリート</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,88 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000f1a867e50f248ce2417e162e2a01355d00a112c14065d52b4c0773152fd6b4f7d0cbda2509ef161a46501baecc368171338890d48a353f70ecd44661641fe98981de0d22f535155d11b98ca01b96220524d3943d8d70969cc768c735756bfb9b7230c4adcb34209a742374a536164064757d85e84db1cb0892d684a567322f18dec27ea42a657d1f8e7dce0169afe22c7492424f-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR19654_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>FoxyLand 2</title-name>
+ <title-detail>FoxyLand 2</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Platinum Team Foxy</name>
+  <detail>Get all other trophies.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Don't stop!</name>
+  <detail>Die on any level.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>The first coin</name>
+  <detail>Get your 1st FoxyCoin.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Strong head</name>
+  <detail>Destroy your first box.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>Second chance</name>
+  <detail>Get your 1st life.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>Coin collector</name>
+  <detail>Collect 5 FoxyCoins.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>Big coin collector</name>
+  <detail>Collect 10 FoxyCoins.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>A real FoxyCoin collector</name>
+  <detail>Collect 20 FoxyCoins.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>Dangerous Jax</name>
+  <detail>Defeat wolf Jax.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>Green jumper</name>
+  <detail>Defeat a toad.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>Agile beast</name>
+  <detail>Defeat an opossum.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>High flying bird</name>
+  <detail>Defeat an eagle.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>Desert agile beast</name>
+  <detail>Defeat a desert-opossum.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="000">
+  <name>Desert green jumper</name>
+  <detail>Defeat a desert-toad.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="000">
+  <name>Desert high flying bird</name>
+  <detail>Defeat a desert-eagle.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="G" pid="000">
+  <name>IndianaFox</name>
+  <detail>Find a hidden level.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="G" pid="000">
+  <name>The adventure begins</name>
+  <detail>Complete 5 levels.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="G" pid="000">
+  <name>Conqueror of the forest</name>
+  <detail>Complete 10 levels.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="G" pid="000">
+  <name>Conqueror of the desert</name>
+  <detail>Complete 15 levels.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="G" pid="000">
+  <name>A great adventurer</name>
+  <detail>Complete 20 levels.</detail>
+ </trophy>
+</trophyconf>

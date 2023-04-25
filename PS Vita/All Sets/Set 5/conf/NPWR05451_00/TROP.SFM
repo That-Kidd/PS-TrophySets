@@ -1,0 +1,36 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000bea105ebadd8d130bec8661fdb619d468413c06f374a6a449619cacb87c28777aa082824c91ebaa22726e8b935cb83bbe185fb9e1e3cbbfe013bbaaabe7773fcc6dc452a435db161c71894bda87eb765c93c58be699a3e0de07ec3684b1bd384efca02022cec44e77495cae3b1713e31f15417802dfe054d19cde30fcdee812c5ce25aff30148cf3c0e5a988d7d8c25c215ad30f-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR05451_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>FANTASY HERO</title-name>
+ <title-detail>FANTASY HERO Trophy Set</title-detail>
+ <trophy id="000" hidden="yes" ttype="B" pid="-1">
+  <name>そんなバナナ!?</name>
+  <detail>バナナで転ける。</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="S" pid="-1">
+  <name>はじまり、はじまり</name>
+  <detail>ストーリーミッション「初めの始まり」をクリアした。</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="S" pid="-1">
+  <name>マッスル！！　マッスル！！</name>
+  <detail>任意のキャラクターの最大スキルを習得した。</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="S" pid="-1">
+  <name>さてさて、どうしたものか</name>
+  <detail>全てのフリーミッションをクリアした。</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="S" pid="-1">
+  <name>ありがと…ロボトン</name>
+  <detail>レベル25に到達した。</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="G" pid="-1">
+  <name>And so it repeats once again</name>
+  <detail>全てのストーリーミッションをクリアした。</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="G" pid="-1">
+  <name>おっさん、いい感じに仕上がってるぜ！！</name>
+  <detail>１つの武器を30回以上強化した。</detail>
+ </trophy>
+</trophyconf>

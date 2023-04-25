@@ -1,0 +1,28 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000007a794af351740025e32ac398c372111ef9634f5c94bf257ced3aaab86014b82e8bb69490abe5cfae426b7fa691bf52fe584c98a560156f1a0715cf339332c20381600f26310437e0092348963666024cdc5f2ab656c4b2d4fe0612af3f77ecbc183eb56f3487e7ef8d46f17772a9a8288fa3c323030a2a0fb02cf29bfff99a1502ab46e4154c69b23468eccd87d4dead1bfa2912-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR04096_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Aabs Animals</title-name>
+ <title-detail>Aabs Animals Trophies</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Kawaii</name>
+  <detail>15 seconds to play</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="-1">
+  <name>Charming</name>
+  <detail>45 seconds to play</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="-1">
+  <name>Cute</name>
+  <detail>135 seconds to play</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="-1">
+  <name>Lovely</name>
+  <detail>225 seconds to play</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="-1">
+  <name>Pretty</name>
+  <detail>315 seconds to play</detail>
+ </trophy>
+</trophyconf>

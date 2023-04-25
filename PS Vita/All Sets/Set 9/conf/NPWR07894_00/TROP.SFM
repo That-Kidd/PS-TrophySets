@@ -1,0 +1,228 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000831886f9aea19344771f5d25d46725805c52f51c40c52de5b793833239bf81e7ea656fe43af6de70bf1cacfb7ba4933989205ba6190a622d0f92ae79c1fe1743f6c8a7180c4e04220a35b2eb24bb524fd0d0248f1c7f408d53abe98b5c9ed0e09612b81281d74d21cd6a3a75a1afa782fd9348bb0bdfa3ecb731e91ffe226b1d4be77175fca1fa097c965bc91571b82e8b706dbd-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR07894_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>不思議のダンジョン　風来のシレン5 plus</title-name>
+ <title-detail>不思議のダンジョン　風来のシレン5 plus　フォーチュンタワーと運命のダイス</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>風来人</name>
+  <detail>トロフィーを全て獲得した</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>まず一歩</name>
+  <detail>ネコマネキ村に辿り着いた</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>３つのダイス</name>
+  <detail>３つのダイスをそろえた</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>リーバ像撃破</name>
+  <detail>リーバ像を倒した</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="S" pid="000">
+  <name>大リーバ像撃破</name>
+  <detail>大リーバ像を倒した</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="S" pid="000">
+  <name>ゲンドリューシュカ撃破</name>
+  <detail>ゲンドリューシュカを倒した</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="000">
+  <name>フォーチュンタワー　踏破</name>
+  <detail>フォーチュンタワーをクリアした</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>イノリの洞窟　踏破</name>
+  <detail>イノリの洞窟をクリアした</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="G" pid="000">
+  <name>原始に続く穴　踏破</name>
+  <detail>原始に続く穴をクリアした</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>運命の地下　踏破</name>
+  <detail>運命の地下をクリアした</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>異次元の塔　踏破</name>
+  <detail>異次元の塔をクリアした</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>おにぎり穴　踏破</name>
+  <detail>おにぎり穴をクリアした</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="B" pid="000">
+  <name>人生の落し穴　踏破</name>
+  <detail>人生の落し穴をクリアした</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="000">
+  <name>天上の池　踏破</name>
+  <detail>天上の池をクリアした</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="B" pid="000">
+  <name>旧道　踏破</name>
+  <detail>旧道をクリアした</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>ゲンさんのシマ　踏破</name>
+  <detail>ゲンさんのシマをクリアした</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>迷いの井戸　踏破</name>
+  <detail>迷いの井戸をクリアした</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>爆発の岩場　制覇</name>
+  <detail>爆発の岩場を全てクリアした</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>地底の館　踏破</name>
+  <detail>地底の館を全区画クリアした</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>石像の洞窟　制覇</name>
+  <detail>石像の洞窟を全てクリアした</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>ハンターの池　踏破</name>
+  <detail>ハンターの池をクリアした</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>警告の谷　踏破</name>
+  <detail>警告の谷をクリアした</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>武器職人</name>
+  <detail>道具図鑑の武器を全て集めた</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>盾職人</name>
+  <detail>道具図鑑の盾を全て集めた</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>腕輪　鑑定師</name>
+  <detail>道具図鑑の腕輪を全て集めた</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>矢　コレクター</name>
+  <detail>道具図鑑の矢を全て集めた</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>石　マニア</name>
+  <detail>道具図鑑の石を全て集めた</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>グルメ探求家</name>
+  <detail>道具図鑑のおにぎり、桃を全て集めた</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>ベジタリアン</name>
+  <detail>道具図鑑の草を全て集めた</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>研究熱心</name>
+  <detail>道具図鑑の巻物を全て集めた</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>杖使い</name>
+  <detail>道具図鑑の杖を全て集めた</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>貼りまくり</name>
+  <detail>道具図鑑の札を全て集めた</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>壺じじぃ</name>
+  <detail>道具図鑑の壺を全て集めた</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="G" pid="000">
+  <name>シレン　マニア</name>
+  <detail>道具図鑑を完成させた</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="S" pid="000">
+  <name>モンスター博士</name>
+  <detail>モンスター図鑑を完成させた</detail>
+ </trophy>
+ <trophy id="035" hidden="yes" ttype="B" pid="000">
+  <name>盗人</name>
+  <detail>泥棒に成功した</detail>
+ </trophy>
+ <trophy id="036" hidden="yes" ttype="B" pid="000">
+  <name>救助隊への一歩</name>
+  <detail>救助を成功した</detail>
+ </trophy>
+ <trophy id="037" hidden="yes" ttype="B" pid="000">
+  <name>覚醒</name>
+  <detail>スーパーシレンに覚醒した</detail>
+ </trophy>
+ <trophy id="038" hidden="yes" ttype="B" pid="000">
+  <name>夜の達人</name>
+  <detail>技を全て覚えた</detail>
+ </trophy>
+ <trophy id="039" hidden="yes" ttype="B" pid="000">
+  <name>お金持ち！</name>
+  <detail>銀行をギタンでいっぱいにした</detail>
+ </trophy>
+ <trophy id="040" hidden="yes" ttype="B" pid="000">
+  <name>願いは叶う</name>
+  <detail>ラッキーキャットを集め願いを叶えた</detail>
+ </trophy>
+ <trophy id="041" hidden="yes" ttype="B" pid="000">
+  <name>壺よどこへゆく…</name>
+  <detail>合成の壺を遠投した</detail>
+ </trophy>
+ <trophy id="042" hidden="yes" ttype="B" pid="000">
+  <name>アンラッキー</name>
+  <detail>仲間に倒された</detail>
+ </trophy>
+ <trophy id="043" hidden="yes" ttype="B" pid="000">
+  <name>悪いことしましたね…</name>
+  <detail>泥棒に失敗した</detail>
+ </trophy>
+ <trophy id="044" hidden="yes" ttype="B" pid="000">
+  <name>落ち着いていきましょう</name>
+  <detail>レベル１で倒れた</detail>
+ </trophy>
+ <trophy id="045" hidden="yes" ttype="B" pid="000">
+  <name>長居はほどほどに</name>
+  <detail>突風で村に戻された</detail>
+ </trophy>
+ <trophy id="046" hidden="yes" ttype="B" pid="000">
+  <name>いきなりピンチ！</name>
+  <detail>モンスターハウスに投げられた</detail>
+ </trophy>
+ <trophy id="047" hidden="yes" ttype="B" pid="000">
+  <name>教訓　寝てたら飲まない</name>
+  <detail>寝ているマゼルン種に武器か盾を投げた</detail>
+ </trophy>
+ <trophy id="048" hidden="yes" ttype="B" pid="000">
+  <name>明日があるさ</name>
+  <detail>超不幸の種を飲んだ</detail>
+ </trophy>
+ <trophy id="049" hidden="yes" ttype="B" pid="000">
+  <name>ぱりーん</name>
+  <detail>転んで壺を割った…</detail>
+ </trophy>
+ <trophy id="050" hidden="yes" ttype="B" pid="000">
+  <name>焼けたっ！</name>
+  <detail>おにぎりが焼けた</detail>
+ </trophy>
+ <trophy id="051" hidden="yes" ttype="B" pid="000">
+  <name>期限切れ</name>
+  <detail>桃がくさった…</detail>
+ </trophy>
+ <trophy id="052" hidden="yes" ttype="B" pid="000">
+  <name>幸運の持ち主</name>
+  <detail>あまぐりん種の経験値倍率が1024倍まで到達した</detail>
+ </trophy>
+ <trophy id="053" hidden="yes" ttype="B" pid="000">
+  <name>未確認物体</name>
+  <detail>ＦＯ－Ｕβ種を直接攻撃で倒した</detail>
+ </trophy>
+ <trophy id="054" hidden="yes" ttype="B" pid="000">
+  <name>悪魔ハンター</name>
+  <detail>ひとくいデビル種を倒した</detail>
+ </trophy>
+</trophyconf>

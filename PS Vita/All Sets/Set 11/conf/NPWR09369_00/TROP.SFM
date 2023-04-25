@@ -1,0 +1,156 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000011e48ca880aea083ce61845d23bce6ab9586552bae9a50c5087f519851245bfe7b55bc733b85830a9ad869fbc1743dbdff77320283323ab751a8aa178c21744e7ae5d1e2c51240569aeeea62b701d4eb5974fbcbbfa1dd06d4063445a105e48e2037cc32f73a2c5010705b09831b7c439840a74afa069d58ddaadd3b0655c5595df66d0f1c12273ea465fd8bc5c32ab3a303838e-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR09369_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>干物妹！うまるちゃん ～干物妹！育成計画～</title-name>
+ <title-detail>干物妹！うまるちゃん ～干物妹！育成計画～&#x0a;トロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>コンプリート</name>
+  <detail>全てのトロフィーを獲得した</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="000">
+  <name>「外 うまる」グッドエンド</name>
+  <detail>「外 うまる」ルートのグッドエンドを見た</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>「外 うまる」ノーマルエンド</name>
+  <detail>「外 うまる」ルートのノーマルエンドを見た</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>「家 うまる」グッドエンド</name>
+  <detail>「家 うまる」ルートのグッドエンドを見た</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>「家 うまる」ノーマルエンド</name>
+  <detail>「家 うまる」ルートのノーマルエンドを見た</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>「U・M・R」グッドエンド</name>
+  <detail>「U・M・R」ルートのグッドエンドを見た</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>「U・M・R」ノーマルエンド</name>
+  <detail>「U・M・R」ルートのノーマルエンドを見た</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>「海老名菜々」グッドエンド</name>
+  <detail>「海老名菜々」ルートのグッドエンドを見た</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>「海老名菜々」ノーマルエンド</name>
+  <detail>「海老名菜々」ルートのノーマルエンドを見た</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>「本場切絵」グッドエンド</name>
+  <detail>「本場切絵」ルートのグッドエンドを見た</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>「本場切絵」ノーマルエンド</name>
+  <detail>「本場切絵」ルートのノーマルエンドを見た</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>「橘・シルフィンフォード」グッドエンド</name>
+  <detail>「橘・シルフィンフォード」ルートのグッドエンドを見た</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>「橘・シルフィンフォード」ノーマルエンド</name>
+  <detail>「橘・シルフィンフォード」ルートのノーマルエンドを見た</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="000">
+  <name>ＣＧギャラリーコンプリート</name>
+  <detail>イベントＣＧを全部集めた</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="000">
+  <name>シーンギャラリーコンプリート</name>
+  <detail>シーンを全部集めた</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>サウンドコンプリート</name>
+  <detail>音楽を全部集めた</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>アイテムコンプリート</name>
+  <detail>設置アイテムを全て交換できた&#x0a;※「強くてニューゲーム」を使用してもＯＫ&#x0a;※消費アイテムは対象外です</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>うまるスーツコンプリート</name>
+  <detail>全てのうまるスーツを手に入れた&#x0a;※「強くてニューゲーム」を使用してもＯＫ</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="G" pid="000">
+  <name>うまる育成エンドコンプリート</name>
+  <detail>うまるの育成エンドを全部見た</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="000">
+  <name>「外 うまる」乱入イベントコンプリート</name>
+  <detail>「外 うまる」の乱入イベントを全部見た</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>「家 うまる」乱入イベントコンプリート</name>
+  <detail>「家 うまる」の乱入イベントを全部見た</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>「Ｕ・Ｍ・Ｒ」乱入イベントコンプリート</name>
+  <detail>「Ｕ・Ｍ・Ｒ」の乱入イベントを全部見た</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>「海老名菜々」乱入イベントコンプリート</name>
+  <detail>「海老名菜々」の乱入イベントを全部見た</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>「本場切絵」乱入イベントコンプリート</name>
+  <detail>「本場切絵」の乱入イベントを全部見た</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>「橘・シルフィンフォード」乱入イベントコンプリート</name>
+  <detail>「橘・シルフィンフォード」の乱入イベントを全部見た</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>「外 うまる」ルート開始</name>
+  <detail>「外 うまる」ルートを始めることができた</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>「家 うまる」ルート開始</name>
+  <detail>「家 うまる」ルートを始めることができた</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>「Ｕ・Ｍ・Ｒ」ルート開始</name>
+  <detail>「Ｕ・Ｍ・Ｒ」ルートを始めることができた</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>「海老名菜々」ルート開始</name>
+  <detail>「海老名菜々」ルートを始めることができた</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>「本場切絵」ルート開始</name>
+  <detail>「本場切絵」ルートを始めることができた</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>「橘・シルフィンフォード」ルート開始</name>
+  <detail>「橘・シルフィンフォード」ルートを始めることができた</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>初めてのアイテム交換</name>
+  <detail>初めてアイテムを交換した</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>初めてのアイテム配置</name>
+  <detail>初めてアイテムを配置した</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>初めてのアイテム使用</name>
+  <detail>初めてアイテムを使用した</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>初めてのうまる</name>
+  <detail>初めてうまるコマンドを使用した</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>初めての着替え</name>
+  <detail>初めてうまるの着替えを行った</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>強くてニューゲーム</name>
+  <detail>初めて「強くてニューゲーム」でゲームを始めた</detail>
+ </trophy>
+</trophyconf>

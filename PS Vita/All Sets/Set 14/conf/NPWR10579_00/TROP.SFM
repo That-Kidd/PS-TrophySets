@@ -1,0 +1,124 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000fcd1e349170dc491f3fb63ad78042c11d2e71fe6bbe596afa6ef03a47335878760bf89f0f3e51f5f3c6b215a9da99e5bf5200bbbac71ef3f59840a0aff47d4880dd7ba1318f032ccfd6f5b9d1059ccb33ab6c1440b656ae63453188ebf8a5928f43864def0d0016ca2bb825cdb2984c924ffc5166e0911f5d943cbc9159eedc4d470d61a2ef80edf6d58b56a71b3f123df6745bc-->
+<trophyconf version="1.1" platform="ps3,psp2,ps4" policy="large">
+ <npcommid>NPWR10579_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Tumblestone</title-name>
+ <title-detail>Tumblestone is an action-packed puzzle game. Race your friends in multiplayer or challenge yourself in story mode. Solve progressively more difficult and creative puzzles, help a sausage make friends, and find out what happened to the Tumblecrown.</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Tumblecrowned</name>
+  <detail>Earn every Tumblestone trophy.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>Crossing the Rubicon</name>
+  <detail>Complete World 1.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>Stupid Lake</name>
+  <detail>Complete World 2.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>My Darkest Hour</name>
+  <detail>Complete World 3.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>Don't get Snooty</name>
+  <detail>Complete World 4.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>One Apology and Explanation Later</name>
+  <detail>Complete World 5.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>Mrrmmmppphhh!!!</name>
+  <detail>Complete World 6.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>Sausage Not Good Frozen!</name>
+  <detail>Complete World 7.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>Welcome to Castle Terror. No Pets Allowed</name>
+  <detail>Complete World 8.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>Off With His Head!</name>
+  <detail>Complete World 9.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>Go Deep</name>
+  <detail>Complete World 10.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>One Groovy Explanation Later</name>
+  <detail>Complete World 11.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>Thank You for a Very Enjoyable Game</name>
+  <detail>Complete the Story Mode.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>Orion's Belt</name>
+  <detail>Solve a 3-star Practice Puzzle.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>A Step in the Right Direction</name>
+  <detail>Solve Puzzle 2-8 using 44 moves.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>Off to the Races</name>
+  <detail>Win an online Puzzle Race match.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>Super Genius</name>
+  <detail>Win a Puzzle Race match using a modifier.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>Get Rect</name>
+  <detail>Win an online Battle match.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>Dreamcatcher</name>
+  <detail>Win a Battle match against 3 Nightmare bots.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="000">
+  <name>Unstoppable</name>
+  <detail>Win an online Tug of War match.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>Fugue</name>
+  <detail>Win a Tug of War match against 3 Nightmare bots.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>Adrenaline Rush</name>
+  <detail>Get a score of 333 in Heartbeat.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>Heartbreaker</name>
+  <detail>Empty the board in Heartbeat.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>Deep One</name>
+  <detail>Get a score of 500 in Infinipuzzle.</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>Deep Six</name>
+  <detail>Get a score of 333 in Infinipuzzle using a modifier.</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="S" pid="000">
+  <name>Remember the Athenians</name>
+  <detail>Get a score of 1,234 in Marathon.</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="S" pid="000">
+  <name>Toastmaster</name>
+  <detail>Empty the board in Marathon.</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="G" pid="000">
+  <name>Big Cheese</name>
+  <detail>Reach rank 25.</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="G" pid="000">
+  <name>Overachiever</name>
+  <detail>Complete 25 quests.</detail>
+ </trophy>
+</trophyconf>

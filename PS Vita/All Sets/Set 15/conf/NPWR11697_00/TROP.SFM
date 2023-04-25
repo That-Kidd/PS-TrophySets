@@ -1,0 +1,120 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000007ab7967e0eb83e8399cab0de21a8e39cebf1a8d357aa27a84538deef0d544577e351a4067ad1bb938f9fb6ad37801d3f3400cc2490fb18bf89656d966bbdb240a26134c2d16ac7e608cf0c048658f52b5b8576d89177c46ab7e75a1e75ef12f442101bb373d8abce528d1e41c8fd61199cfbf6b441be9b2cf854db4acc4b8447e4faf7a9e5d3443d4dd6dfbbde6d592992e73a26-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR11697_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Valkyria Revolution</title-name>
+ <title-detail>The trophy set for Valkyria Revolution.</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Grand Cordon of the Azure Wolf</name>
+  <detail>Obtained all trophies.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Crafting Commemoration Medal</name>
+  <detail>Created your first piece of gear at Tomasson's Workshop.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>Gear Development Coin</name>
+  <detail>Created 30 pieces of gear at Tomasson's Workshop.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Sabancci &amp; Co. Commemoration Medal</name>
+  <detail>Upgraded an alchemic weapon for the first time at Sabancci &amp; Co.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>Alchemic Device Development Coin</name>
+  <detail>Completed upgrading all alchemic weapons at Sabancci &amp; Co.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>Research &amp; Development Coin</name>
+  <detail>Developed all secondary weapons at Sabancci &amp; Co.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>Golden Flower Commemoration Medal</name>
+  <detail>Spent over 300,000 kr at the shop.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>Meritorious Results Award</name>
+  <detail>Made 100 battle reports.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>Azure Stone Commemoration Medal</name>
+  <detail>Obtained rank 30 ragnite.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>Distinguished Silver Sword Medal</name>
+  <detail>Defeated 1,000 enemies.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>Distinguished Gold Sword Medal</name>
+  <detail>Defeated 3,000 enemies.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>Distinguished Crimson Claw Medal</name>
+  <detail>Defeated an ace for the first time.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>Distinguished Violet Claw Medal</name>
+  <detail>Defeated 30 aces.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>Distinguished Occupation Medal</name>
+  <detail>Captured 50 enemy bases.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>Distinguished Ordnance Disposal Medal</name>
+  <detail>Disposed of 100 explosives or land mines.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>Royal Army Attack Cross</name>
+  <detail>Won an offensive battle.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Royal Army Defense Cross</name>
+  <detail>Won a defensive battle.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="G" pid="000">
+  <name>Royal Army Veteran Cross</name>
+  <detail>Achieved S rank result in all story missions.</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="G" pid="000">
+  <name>Royal Army Hero Cross</name>
+  <detail>Drove back the Valkyria that appears in tactical missions.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="000">
+  <name>Royal Army Skirmish Cross</name>
+  <detail>Cleared 100 free missions.</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="000">
+  <name>Royal Army Wolf Pack Medal</name>
+  <detail>Launched a surprise attack on the imperial army's outpost in Molda.</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="S" pid="000">
+  <name>Molda Campaign Medal</name>
+  <detail>Defeated Grand General Balthus and recaptured Molda.</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="S" pid="000">
+  <name>Avalune Campaign Medal</name>
+  <detail>Defeated Grand General Gustav and recaptured Avalune's mana industry area.</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="S" pid="000">
+  <name>Velgiev Campaign Medal</name>
+  <detail>Defeated Grand General Viktor and captured the Velgiev logistics hub.</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="S" pid="000">
+  <name>Battle of Sevast Campaign Medal</name>
+  <detail>Defeated Grand General Gilouche and captured the Sevast citadel.</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="G" pid="000">
+  <name>Dirge of the Valkyria Medal</name>
+  <detail>Defeated the Valkyria.</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>Amity Commemoration Medal</name>
+  <detail>Viewed a community event for the first time.</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="S" pid="000">
+  <name>Friendship Commemoration Medal</name>
+  <detail>Viewed all community events.</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,52 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000085313cddf0225c8eabe3b2ae48cbd124243432c8866e7e8052a1303779e2f15dd2897ea5e98f3a3b9fbf13a69d6df690cca0b9a42050816067c4c2eaf303db6d616b5c0c4cd1c46290f86866e22a3a4aaf28d1e4e09934fbef0e3bbd509d9410882b0dcb72182be3de67ae3aa626d4d8525a6f2ca8c3701dbf0660b94c863b996962203530a57f1947a5545ac708c1d5088e888c-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR12620_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>ラビ×ラビ-パズルアウトストーリーズ-</title-name>
+ <title-detail>ラビ×ラビ-パズルアウトストーリーズ-のトロフィーセットです。</title-detail>
+ <trophy id="000" hidden="no" ttype="G" pid="-1">
+  <name>ラビ×ラビシリーズゴールデンクリア</name>
+  <detail>全シリーズのノーマルモードのステージ１～５０で金メダル以上を獲得する。</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>ラビ×ラビクリア</name>
+  <detail>ラビ×ラビ（シリーズ１作目）のステージ１～５０をクリアする。</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="-1">
+  <name>ラビ×ラビノーマルクリア</name>
+  <detail>ラビ×ラビ（シリーズ１作目）のノーマルモードのステージ１～５０で銀メダル以上を獲得する。</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>えぴそーど２クリア</name>
+  <detail>ラビ×ラビえぴそーど２のステージ１～５０をクリアする。</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="-1">
+  <name>えぴそーど２ノーマルクリア</name>
+  <detail>ラビ×ラビえぴそーど２のノーマルモードのステージ１～５０で銀メダル以上を獲得する。</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>えぴそーど３クリア</name>
+  <detail>ラビ×ラビえぴそーど３のステージ１～５０をクリアする。</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="-1">
+  <name>えぴそーど３ノーマルクリア</name>
+  <detail>ラビ×ラビえぴそーど３のノーマルモードのステージ１～５０で銀メダル以上を獲得する。</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>外伝クリア</name>
+  <detail>ラビ×ラビ外伝Witch's Catのステージ１～５０をクリアする。</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="-1">
+  <name>外伝ノーマルクリア</name>
+  <detail>ラビ×ラビ外伝Witch's Catのノーマルモードのステージ１～５０で銀メダル以上を獲得する。</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>エクストラクリア</name>
+  <detail>ラビ×ラビシリーズの全エクストラステージをクリアする。</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="-1">
+  <name>エクストラノーマルクリア</name>
+  <detail>ラビ×ラビシリーズのノーマルモードの全エクストラステージで銀メダル以上を獲得する。</detail>
+ </trophy>
+</trophyconf>

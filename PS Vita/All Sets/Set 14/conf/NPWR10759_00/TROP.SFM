@@ -1,0 +1,60 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000fbbd0ade81684b02ed0b87750aaeaea6c82bf60f19c86a71f28079d60034a3ee499dea6ff92b9c0e471e89f47decb8319cfe4fa131fb27532d951b110d3270e449f500e0ec2555939083e5b23f10768bced39df528f305fd10213f60215a8ef77583b82dcadb57dac38ef1244bba30b655bba416d6608209ff01b3109b150bdae3c923bdc890fc98c2c849f486cd40dabddd0fec-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR10759_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Krinkle Krusher Trophy Set</title-name>
+ <title-detail>Krinkle Krusher Trophy Set</title-detail>
+ <trophy id="000" hidden="yes" ttype="S" pid="-1">
+  <name>The greatest mage of all time</name>
+  <detail>Complete every stage with 3 stars and get all magical gems.</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="G" pid="-1">
+  <name>You shall not, pass!</name>
+  <detail>Complete every stage with "Flawless Victory".</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="S" pid="-1">
+  <name>The day after tomorrow</name>
+  <detail>Imprison the King Krinkle forever!</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="-1">
+  <name>Spellcraft</name>
+  <detail>Upgrade the 5 elemental rings to level 5.</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="-1">
+  <name>50 shades of bones</name>
+  <detail>Defeat the Kranium Krinkle.</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="-1">
+  <name>Heavy Metal</name>
+  <detail>Defeat the Mecha Krinkle.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>I'm the one who Knocks... Back!</name>
+  <detail>Knock back the King with spikes and tornados.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>That’s A Spicy Meatball!</name>
+  <detail>Feed Kranium with some spicy krinkles!</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Bombs Away!</name>
+  <detail>Knock back the Mecha Krinkle with his own bomb.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>Say "Hello" to my little friends!</name>
+  <detail>Get all spells.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>Krin-KABUM!</name>
+  <detail>Use an elemental krinkle explosion to kill 4 other krinkles.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="-1">
+  <name>Let´s make some magic!</name>
+  <detail>Unlock the Mage's Room.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="-1">
+  <name>Call 2 Duty</name>
+  <detail>Show who's the best by defending the castle!</detail>
+ </trophy>
+</trophyconf>

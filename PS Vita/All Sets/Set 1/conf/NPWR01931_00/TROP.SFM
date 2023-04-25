@@ -1,0 +1,108 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000002912c54456b3ca9eea21458bb93690417278cfcba591015504b27b24aef7c6b1e04d150e962c0d3f7e114540b32fdb74323559e0a58cc03c792c1bd5bd09b9467ca95f22321bf540a0c29e991b8dd53b986f17326ce2ba4a9c9b15feab2ab1be02e1213592b539d361c09e2b78f5983a0e910bab7e4a7c27e991b86e0f61844ac0188c519e15772aa5d6aef2375261b65d922b7f-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR01931_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Resistance: Burning Skies™</title-name>
+ <title-detail>Resistance: Burning Skies™ Trophy Pack</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Platinum</name>
+  <detail>Earn all trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Staten Island</name>
+  <detail>Successfully complete level 1</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Military Ocean Terminal</name>
+  <detail>Successfully complete level 2</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>George Washington Bridge</name>
+  <detail>Successfully complete level 3</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>Ellis Island</name>
+  <detail>Successfully complete level 4</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>Protection Camp</name>
+  <detail>Successfully complete level 5</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>Conversion Tower</name>
+  <detail>Successfully complete level 6</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="G" pid="000">
+  <name>G-man</name>
+  <detail>Kill Gorrell</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>Upgrade</name>
+  <detail>Upgrade a weapon in the Single Player Campaign</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>Combine</name>
+  <detail>Upgrade both slots of a weapon in the Single Player Campaign</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>Customize</name>
+  <detail>Upgrade all weapons in the Single Player Campaign</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>Indiscriminate</name>
+  <detail>Kill an enemy with every weapon in the Single Player Campaign</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>Variety</name>
+  <detail>Use the secondary fire of each weapon in the Single Player Campaign</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>Dangerous</name>
+  <detail>Kill 250 Chimera in the Single Player Campaign</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>Deadly</name>
+  <detail>Kill 500 Chimera in the Single Player Campaign</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="G" pid="000">
+  <name>Lethal</name>
+  <detail>Kill 1000 Chimera in the Single Player Campaign</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>Axed</name>
+  <detail>Kill 50 Chimera with Riley's axe in the Single Player Campaign</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>Overheat</name>
+  <detail>Kill 50 Chimera by detonating their heatstacks in the Single Player Campaign</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>Boom</name>
+  <detail>Kill 100 Chimera with headshots in the Single Player Campaign</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="000">
+  <name>Impaled</name>
+  <detail>Kill an Impaler</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>Executed</name>
+  <detail>Kill an Executioner</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="G" pid="000">
+  <name>Giant</name>
+  <detail>Kill any combination of 18 Impalers or Executioners</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="G" pid="000">
+  <name>Unnatural</name>
+  <detail>Kill the Abomination</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="G" pid="000">
+  <name>Inhuman</name>
+  <detail>Kill the Leviathan</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="G" pid="000">
+  <name>Incite</name>
+  <detail>Complete one round of multiplayer</detail>
+ </trophy>
+</trophyconf>

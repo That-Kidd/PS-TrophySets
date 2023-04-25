@@ -1,0 +1,152 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000f7e48c5a1c59a9da55884db1da31d343a5da209b077e4afa6580685b9a390f0a34d04c6695c4c46e77e1c6bad117e5840912c76bf61641601df2743d567a500c43ce999466abb84aa84a884e31f6bdef797f9e2ba0ac161a4d32b50be851124d67b25da5a85e92c42d101682cbdf76b271ec5ee22f2c3412a7e59ded80ccf3b03a90abfbb9d2bbdd97c098b34cf5115f631e7334-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR06410_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Bodycheck Trophies</title-name>
+ <title-detail>Trophies for Bodycheck.</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Platinum</name>
+  <detail>Get them all and then get platinum!</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="000">
+  <name>Brute Strength</name>
+  <detail>Win 10 matches without using magic.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>Versus Champion</name>
+  <detail>Win the Versus Tournament.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>Give No Ground</name>
+  <detail>Win 10 matches without conceding any points (including knock outs).</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>Triple Threat Champion</name>
+  <detail>Win the Triple Threat Tournament.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>Quadrophobia Champion</name>
+  <detail>Win the Quadrophobia Tournament.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>League Champion</name>
+  <detail>Win a three-season League Championship.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>Egalitarian</name>
+  <detail>Win a match with every team in the game.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>Winner by Knockout</name>
+  <detail>Win a match just by scoring knockouts.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>Physical Friends</name>
+  <detail>Win a local multiplayer match.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>Virtual Friends</name>
+  <detail>Win an online multiplayer match.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>Invincibles</name>
+  <detail>Win a league season undefeated.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>I See No Ships</name>
+  <detail>Knock out all players from an opposing team.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>Sudden Victory</name>
+  <detail>Win a match in Sudden Death.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>Good Arm</name>
+  <detail>Score 50 long-range goals.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>Tapas</name>
+  <detail>Use every spell in the game at least once.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Keeper Turned Poacher</name>
+  <detail>Score a goal with your designated goalkeeper.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Swift Comeback</name>
+  <detail>Come from behind to win a match in the last 10 seconds.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>Comeback</name>
+  <detail>Come from 10 points down to win a 2 team match.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Comeback King</name>
+  <detail>Come from 20 points down to win a 2 team match.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>Fiery Death</name>
+  <detail>Knock 3 or more players down with one Fireball.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>Windy Death</name>
+  <detail>Knock 3 or more players down with one Cyclone.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>Only A Scratch</name>
+  <detail>Win a match with only 4 players in your team.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>First Blood</name>
+  <detail>Win a match.</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>Triple Comeback</name>
+  <detail>Come from 20 points down to win a 3 team match.</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>Quad Comeback</name>
+  <detail>Come from 20 points down to win a 4 team match.</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>Icy Death</name>
+  <detail>Knock down any 6 or more players using one Shield of Ice.</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>Watery Death</name>
+  <detail>Knock down any 8 or more players using one Waterwall.</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>Death by Potato</name>
+  <detail>Score a knockout using the Hot Potato spell.</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>Electric Death</name>
+  <detail>Knock down 3 or more players with one Electric Lance.</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>The Big Dipper</name>
+  <detail>Score 40+ points with one player in a single match.</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>Sticky Death</name>
+  <detail>Knock down 3 or more players with one Firestick.</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>Four in a Bath</name>
+  <detail>Catch 4 or more players in an Icebath.</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>Threezeray</name>
+  <detail>Knock down 3 or more players with one Freezeray.</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>Electric Six</name>
+  <detail>Knock down any 6 or more players using Electrotherapy.</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>Do Over</name>
+  <detail>Complete every scenario twice</detail>
+ </trophy>
+</trophyconf>

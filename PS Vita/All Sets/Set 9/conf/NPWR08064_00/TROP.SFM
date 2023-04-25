@@ -1,0 +1,88 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000d00a8cd2225601df8418d704805467472febe196a283659838bac8b7f30d0dcab5ed804c18d44b4fc8b50629b3cda210ad6c34f9531538e01d07b33afb38b8c8d07a511166303a510400f16d361ce77bf721c60f835d37d93e3b4c6c1e0d633bcb0d11ff36460398dfb0a575bd2e522cf884e91b564ff71f7fa277cb93f08d8c088d44cbe5e7038ae82c0c70b3c1e8e37e656317-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR08064_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>ChuSingura46+1 -忠臣蔵46+1- V</title-name>
+ <title-detail>ChuSingura46+1 -忠臣蔵46+1- V  トロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>全てのトロフィーを取得</name>
+  <detail>全てのトロフィーを取得しました。</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="G" pid="000">
+  <name>完全読了</name>
+  <detail>全てのシナリオを読了しました。</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="G" pid="000">
+  <name>CG全回収</name>
+  <detail>全てのCGを見ました。</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="G" pid="000">
+  <name>ムービー全回収</name>
+  <detail>全てのムービーを見ました。</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="G" pid="000">
+  <name>人物録完成</name>
+  <detail>全ての人物録が閲覧可能になりました。</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="G" pid="000">
+  <name>假名手本忠臣蔵編 読了</name>
+  <detail>假名手本忠臣蔵編を読了しました。</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="G" pid="000">
+  <name>江戸急進派編 読了</name>
+  <detail>江戸急進派編を読了しました。</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="G" pid="000">
+  <name>百花魁編 読了</name>
+  <detail>百花魁編を読了しました。</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="G" pid="000">
+  <name>仇華・宿怨編 読了</name>
+  <detail>仇華・宿怨編を読了しました。</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="G" pid="000">
+  <name>刃・忠勇義烈編 読了</name>
+  <detail>刃・忠勇義烈編を読了しました。</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>假名手本忠臣蔵編 CG全回収</name>
+  <detail>假名手本忠臣蔵編のCGを全て見ました。</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>江戸急進派編 CG全回収</name>
+  <detail>江戸急進派編のCGを全て見ました。</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>百花魁編 CG全回収</name>
+  <detail>百花魁編のCGを全て見ました。</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>仇華・宿怨編 CG全回収</name>
+  <detail>仇華・宿怨編のCGを全て見ました。</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>刃・忠勇義烈編 CG全回収</name>
+  <detail>刃・忠勇義烈編のCGを全て見ました。</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>Dearest Sword,Dearest Wish（OPムービー1）</name>
+  <detail>假名手本忠臣蔵編のOPムービーを見ました。</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>ADABANA ～仇華～（OPムービー2）</name>
+  <detail>江戸急進派編のOPムービーを見ました。</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>Dearest Sword,Dearest Wish（OPムービー3）</name>
+  <detail>百花魁編のOPムービーを見ました。</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>ADABANA ～仇華～（OPムービー4）</name>
+  <detail>仇華・宿怨編のOPムービーを見ました。</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>凛武繚乱（OPムービー5）</name>
+  <detail>刃・忠勇義烈編のOPムービーを見ました。</detail>
+ </trophy>
+</trophyconf>

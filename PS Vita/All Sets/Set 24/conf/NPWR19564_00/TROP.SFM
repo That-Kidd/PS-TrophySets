@@ -1,0 +1,92 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000011fe4c785e79f9c2c85d2ca0f4992c2e5da026609025e6c559fcbd3d7e8e83af91f7c57974f81ed0b6d84679a3906e8cc5fd93f145372c650b3582dd23222e519000031332fe67eddef2608e7d0453a0287495ce0092e3252cf5450d1e0c28b9e945416893a6b9c41b424d73af3a8bebcaa8a3b749fbb8387b6aec1be51cd0e7b01451b5e5df4299b6529a3a36a7b9f32768c0fc-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR19564_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Kid Tripp</title-name>
+ <title-detail>Kid Tripp</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>大師級</name>
+  <detail>贏得所有獎盃</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>享受陽光</name>
+  <detail>完成世界1</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>洞穴探險愛好者</name>
+  <detail>完成世界2</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>零以下</name>
+  <detail>完成世界3</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>結束</name>
+  <detail>完成遊戲</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>充足的備用</name>
+  <detail>一次過保持15條生命</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>我很富有！</name>
+  <detail>一次過持有1000枚硬幣</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>濕了腳</name>
+  <detail>跌落水並生存</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>作弊死亡</name>
+  <detail>下降到此級別的最低水平並生存</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>奧林匹亞</name>
+  <detail>在每個級別都獲得金牌</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>有技巧的</name>
+  <detail>使用少於500條生命去完成遊戲</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>專家</name>
+  <detail>使用少於100條生命去完成遊戲</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>大師</name>
+  <detail>沒有使用繼續的情況下完成遊戲</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>精於躲避暴躁的動物</name>
+  <detail>沒有傷害一個壞蛋去完成一個級別</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>金幣收藏家</name>
+  <detail>獲取金牌</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="G" pid="000">
+  <name>完美無瑕</name>
+  <detail>沒有失去一條生命去完成遊戲</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="G" pid="000">
+  <name>極有效率</name>
+  <detail>沒有使用1塊石頭去完成遊戲</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="G" pid="000">
+  <name>擊敗開發者 - 第1部分</name>
+  <detail>比MICK WAITES (5M 59.93S) 更快的去完成遊戲</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="G" pid="000">
+  <name>擊敗開發者 - 第2部分</name>
+  <detail>比MICK WAITES (3266) 得到更多金幣去完成遊戲</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>畢業</name>
+  <detail>完成教學</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>沒有謹慎行事的時間</name>
+  <detail>不用步行去完成遊戲</detail>
+ </trophy>
+</trophyconf>

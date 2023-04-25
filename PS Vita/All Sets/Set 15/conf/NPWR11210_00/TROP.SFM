@@ -1,0 +1,108 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000000f694816cc07f9dbd36f2b502ae53dd7e3c490c61d67df68a69ad224f262d49d29b16999a1b8cf5daa7fec0825e504130e7b5a17498817ab654086379343634179e2bab8ee431d795679c46453f3d593a451a3789e2f9003920166bd3e045a2be6982a9ae6107d252bdddde5224955a6c61a23e24fce1ae55e4c7c42759eb60f1a9e033909559dd40c75c36b3fb930d21c5dfe62-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR11210_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>VOLUME</title-name>
+ <title-detail>Volume Trophy</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>The Platinum Arrow</name>
+  <detail>Gain all trophies in Volume</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>The First Ballad</name>
+  <detail>Complete 25 core levels</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>Semi Final</name>
+  <detail>Complete 50 core levels</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>The Darkest Couple of Hours</name>
+  <detail>Complete 75 core levels</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>The Complete Works</name>
+  <detail>Complete all core levels</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>Imperial March</name>
+  <detail>Travel 1 mile</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>A Long Walk</name>
+  <detail>Travel 3 miles</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>Warming Up</name>
+  <detail>Play for 20 minutes</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>Light Reading</name>
+  <detail>Read 25% of text in the core levels</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>Illuminated Manuscripts</name>
+  <detail>Read 50% of text in the core levels</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>Compiled Texts</name>
+  <detail>Read 75% of text in the core levels</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>Lore of the Things</name>
+  <detail>Read 100% of the text in the core levels</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>Hidden in the shadow of Moses</name>
+  <detail>Hide in 50 lockers in the core levels</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>Leaps of faith</name>
+  <detail>Jump 25 walls in the core levels</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="000">
+  <name>Because it’ll hurt more</name>
+  <detail>Stun enemies 100 times in the core levels, with the Blackjack</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="G" pid="000">
+  <name>Always the Taffer</name>
+  <detail>Be seen by enemies 300 times in the core levels</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Rogue Unlike</name>
+  <detail>Die once</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>Arcade Flynn</name>
+  <detail>Die 200 times</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>Wearing Lincoln Green</name>
+  <detail>Play a level with a customized character</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Be Heard</name>
+  <detail>Fire the bugle 50 times in core levels</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>Enjoy your trip</name>
+  <detail>Place 20 follies in core levels</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>If it bleeds...</name>
+  <detail>Go invisible 30 times in core levels</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>Ghost from the...</name>
+  <detail>Fire 40 figments in core levels</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="G" pid="000">
+  <name>Agent 48</name>
+  <detail>Wear a disguise 100 times in core levels</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="G" pid="000">
+  <name>Q</name>
+  <detail>Use every gadget in the core levels</detail>
+ </trophy>
+</trophyconf>

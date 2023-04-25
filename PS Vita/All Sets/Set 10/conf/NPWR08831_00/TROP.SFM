@@ -1,0 +1,172 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000201ea17b527f10be1865bb541b146c121e0aa1988dd07968daa9fff0ec1e66923b890dd6f13b28b490ce80345e470187058a7645ec0756bc82a434059e06a4f33bf338ed9e51f023783f66a0240a1090bd71c7442bc191cd6453d788fb7be5efa856b667b45f834142405b948a9eae73fc5c1f58d3acfc056340b0b7f5557a8e310fdbbc8ea2a3fc7bc782aa6a81acdf76362614-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR08831_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Air Race Speed</title-name>
+ <title-detail>Air Race Speed</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Air Ace!</name>
+  <detail>Earn all achievements and become the supreme champion of Air Race Speed!</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Up to the challenge</name>
+  <detail>Complete all non-bonus levels with the jet Fatboy</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>So close...</name>
+  <detail>Crash after completing 99% of any level.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Wealthy garage</name>
+  <detail>Unlock all the jets</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>Bonus knight</name>
+  <detail>Complete one bonus level&#x0a;</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>Bonus king</name>
+  <detail>Complete all bonus levels</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>Finger stuck on nitro</name>
+  <detail>Complete one level (min 2 laps) with the nitro constantly running and without crashing.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>Crash proof</name>
+  <detail>Complete one level (of min 2 laps) without crashing</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>Legend</name>
+  <detail>Win 35 gold stars!</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>Bronze master</name>
+  <detail>Win 24 bronze stars.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>Silver master</name>
+  <detail>Win 24 silver stars.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>TIER 1 master</name>
+  <detail>Complete all the levels of TIER 1</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>TIER 2 master</name>
+  <detail>Complete all the levels &#x0a;of TIER 2</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="000">
+  <name>TIER 3 master</name>
+  <detail>Complete all the levels of TIER 3</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="000">
+  <name>Flight maniac</name>
+  <detail>Fly more than 2500 Mi overall.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>Flight lover</name>
+  <detail>Fly more than 250 Mi overall.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Super captain</name>
+  <detail>Fly more than &#x0a;10 hours overall.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Captain</name>
+  <detail>Fly more than 5 hours overall.&#x0a;</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="G" pid="000">
+  <name>Expert</name>
+  <detail>Complete any level 30 seconds faster than the gold star time objective.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Gold is not enough</name>
+  <detail>Complete any level 10 seconds faster than the gold star time objective.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>Ultramarathon</name>
+  <detail>Pass at least 10 stages of any endless level.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>Marathon</name>
+  <detail>Pass at least 5 stages of any endless level.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="G" pid="000">
+  <name>The Neverending Story</name>
+  <detail>Pass at least 20 stages of any endless level.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>Flight addict</name>
+  <detail>Fly more than 1000 Mi overall.</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>Gold digger</name>
+  <detail>Win 12 gold stars.</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>Greedy!</name>
+  <detail>Win 24 gold stars.</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>Bad luck</name>
+  <detail>Miss the gold star objective of any level by 0.50 seconds.</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>Obsession</name>
+  <detail>Restart the same level 30 times.</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>Serial crasher</name>
+  <detail>Crash 100 times overall.</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>Crash maniac</name>
+  <detail>Crash 1000 times overall.</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>Crash collector</name>
+  <detail>Crash 500 times overall.</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>Experienced pilot</name>
+  <detail>Fly more than 2 hours overall.</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="S" pid="000">
+  <name>Ain't nobody got time for lap</name>
+  <detail>Complete one full lap with the nitro constantly running and without crashing.</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>Tough</name>
+  <detail>Complete one full lap without crashing.</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>Can't touch this</name>
+  <detail>Complete one full level without touching any wall.</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="S" pid="000">
+  <name>Haphephobia</name>
+  <detail>Complete 5 full levels without touching any wall.</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>Crush</name>
+  <detail>Complete the same level 10 times.</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>Frigate bird</name>
+  <detail>Fly 15 seconds with the nitro constantly running and without crashing.</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>Hipster</name>
+  <detail>Fly more than 20 seconds wrong way</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="000">
+  <name>Unbreakable</name>
+  <detail>Complete 10 non-bonus levels without crashing!</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="B" pid="000">
+  <name>Nitro maniac</name>
+  <detail>Complete 10 different levels with the nitro constantly running and without crashing.</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,164 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000008f89cc4acef01cf377a584474b3854fba685fad1c457fc6f73a0182ad1fba71d9f7fd963af5df2c78dd3550c516662a859d5b45bad8b3dbdd8a984e8a5a1c273a20d724c8f71f1c24ab9b2ea19f5355bddb3d99a5a197d1befa88d49692a18ebd643e3e5399de83e7b3070448d5168cf3868ce5d910d2a6c14bde0576fde6c4da64c2537ea22a565247c62d6ed3964e481a0e47f-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR05016_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>古色迷宮輪舞曲 ～La Roue de fortune～</title-name>
+ <title-detail>古色迷宮輪舞曲 ～La Roue de fortune～のトロフィーです</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>古色迷宮輪舞曲</name>
+  <detail>全てのトロフィーを解放した</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="G" pid="000">
+  <name>運命の支配者</name>
+  <detail>運命表の完成度を１００％にした</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="G" pid="000">
+  <name>ワード収集家</name>
+  <detail>全てのワードを集めた</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="G" pid="000">
+  <name>百聞は一見にしかず</name>
+  <detail>全てのＣＧを見た</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="G" pid="000">
+  <name>事象の観測者</name>
+  <detail>全てのイベントを見た</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>事象の終着点</name>
+  <detail>初めてエンディングを見た</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="000">
+  <name>妹と一緒に</name>
+  <detail>咲　月エンドを見た</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>幼馴染と描く未来</name>
+  <detail>和奏　月エンドを見た</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>可愛い後輩</name>
+  <detail>一葉　月エンドを見た</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>運命からの解放</name>
+  <detail>美月　月エンドを見た</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>過去の光</name>
+  <detail>サキ　月エンドを見た</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>帰るべき場所</name>
+  <detail>美月・美星　月エンドを見た</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>サドンデス</name>
+  <detail>強制ＤＥＡＤエンドを全て見た</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>恋人は店長</name>
+  <detail>シナリオ「古色迷宮輪舞曲」をプレイした</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="B" pid="000">
+  <name>ボンソワール　習うより慣れろ</name>
+  <detail>初めて行人の運命量が０となった</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>悲劇へようこそ　サキ</name>
+  <detail>初めてサキの運命量が０となった</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>悲劇へようこそ　咲</name>
+  <detail>初めて咲の運命量が尽きかけた</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>悲劇へようこそ　和奏</name>
+  <detail>初めて和奏の運命量が０となった</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>悲劇へようこそ　一葉</name>
+  <detail>初めて一葉の運命量が０となった</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>悲劇へようこそ　美月</name>
+  <detail>初めて美月の運命量が０となった</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="000">
+  <name>悲劇へようこそ　美星</name>
+  <detail>初めて美星の運命量が０となった</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>事象の旅人１</name>
+  <detail>シナリオ「迷宮の入口」が出現</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>事象の旅人２</name>
+  <detail>シナリオ「噂話をすると……」が出現</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>事象の旅人３</name>
+  <detail>シナリオ「通学」が出現</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>事象の旅人４</name>
+  <detail>シナリオ「美味しい紅茶」が出現</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>事象の旅人５</name>
+  <detail>シナリオ「制服は灰になった」が出現</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>事象の旅人６</name>
+  <detail>シナリオ「出立の朝」が出現</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>事象の旅人７</name>
+  <detail>シナリオ「推理Ⅲ」が出現</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>事象の旅人８</name>
+  <detail>シナリオ「残り二日の朝」が出現</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>事象の旅人９</name>
+  <detail>シナリオ「最後の朝」が出現</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="B" pid="000">
+  <name>事象の旅人１０</name>
+  <detail>シナリオ「ミツキウサギⅠ」が出現</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="B" pid="000">
+  <name>事象の旅人１１</name>
+  <detail>シナリオ「ミツキウサギⅡ」が出現</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="B" pid="000">
+  <name>事象の旅人１２</name>
+  <detail>シナリオ「ミツキウサギⅢ」が出現</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="B" pid="000">
+  <name>事象の旅人１３</name>
+  <detail>シナリオ「事象、最後の朝、支度」が出現</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="B" pid="000">
+  <name>事象の旅人１４</name>
+  <detail>シナリオ「始点」が出現</detail>
+ </trophy>
+ <trophy id="035" hidden="yes" ttype="B" pid="000">
+  <name>事象の旅人１５</name>
+  <detail>シナリオ「鍵を入れれば回すだけ」が出現</detail>
+ </trophy>
+ <trophy id="036" hidden="yes" ttype="B" pid="000">
+  <name>事象の旅人１６</name>
+  <detail>シナリオ「狂った運命の改変へ」が出現</detail>
+ </trophy>
+ <trophy id="037" hidden="yes" ttype="B" pid="000">
+  <name>事象の旅人１７</name>
+  <detail>シナリオ「過去の光へ」が出現</detail>
+ </trophy>
+ <trophy id="038" hidden="yes" ttype="B" pid="000">
+  <name>事象の旅人１８</name>
+  <detail>シナリオ「裏表の世界」が出現</detail>
+ </trophy>
+</trophyconf>

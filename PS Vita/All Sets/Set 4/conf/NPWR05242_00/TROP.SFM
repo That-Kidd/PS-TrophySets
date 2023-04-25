@@ -1,0 +1,60 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000005f2333ff370063ce96ab9b8025f604bc880b316d66b7795e6ed1c893abb0a69bb1a933b370a66b1c9f374a3db976ce062c8c15834500fa1ce1cb011326d2a852e1d30a448dce4f8f007f46809639a96df8095ef8bda65f5895db4c76c8d8dd759cbcc7e7ac498d24a1d60351a8ceb06ba510e69dabef1c45bd441b5aac90efb4b9d714354e871f45cdbbf2a823161daa017a3807-->
+<trophyconf version="1.1" platform="ps3,psp2" policy="small">
+ <npcommid>NPWR05242_00</npcommid>
+ <trophyset-version>01.02</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Dustforce</title-name>
+ <title-detail>Dustforce</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>The Janitor Possesses the Keys</name>
+  <detail>Obtain a red key</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Are you the Key Master?</name>
+  <detail>Obtain a gold key</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Triple threat</name>
+  <detail>Use area attack three times in a single player level</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Into the Trees</name>
+  <detail>Unlock all Forest levels</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Maid Service</name>
+  <detail>Unlock all Mansion levels</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>City Ordinance</name>
+  <detail>Unlock all City levels</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>E-Waste Disposal</name>
+  <detail>Unlock all Laboratory levels</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>The Clean Up Crew</name>
+  <detail>Score double-S in a silver level in each hub</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Spotless Shine</name>
+  <detail>Score a flawless victory in a four-player online match</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="-1">
+  <name>Bathroom breaks are for the weak</name>
+  <detail>Pass a red level without respawning</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="-1">
+  <name>Easy Does it </name>
+  <detail>Score double-S in all combat levels without using area attack</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="-1">
+  <name>One man’s Trash...</name>
+  <detail>Sweep 50 apples</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="-1">
+  <name>Master of the Custodial Arts</name>
+  <detail>Score double-S in all original single player levels</detail>
+ </trophy>
+</trophyconf>

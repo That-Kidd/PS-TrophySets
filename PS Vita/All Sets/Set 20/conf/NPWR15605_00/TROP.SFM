@@ -1,0 +1,72 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000005431199c013f5a1920cfd8967eac72a11f59ff57b9a4d02f434eff54a3d919e3f96704627db6db3ba5d3261cc79452ec9ace472eb9fe1ce377d1123510b06f0292f18a799b181f4176db175e240c74566a6dba85c16983c3b6e118a260d43afd169b6b47d85606300047a0d34eccd007ec06aece526885e6215f9a9049608cc9a4504a4aa986b684e2ef15609d11f0b735596716-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR15605_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Muv-Luv</title-name>
+ <title-detail>Muv-Luv Trophy Set</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Muv-Luv</name>
+  <detail>Aquire all trophies.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>EXTRA</name>
+  <detail>Started Muv-Luv!</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>Girl Next Door</name>
+  <detail>Saw Sumika ending in EXTRA</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>Wedding Crasher</name>
+  <detail>Saw Meiya ending in EXTRA</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>Taming of the Shrew</name>
+  <detail>Saw Chizuru ending in EXTRA</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>Yakisoba Krusaderz</name>
+  <detail>Saw Kei ending in EXTRA</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>Arrow to the Feels</name>
+  <detail>Saw Miki ending in EXTRA</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>Brocean Safari</name>
+  <detail>Saw Common End 1 ending in EXTRA</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>I Luv Lacrosse</name>
+  <detail>Saw Common End 2 ending in EXTRA</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="G" pid="000">
+  <name>Extra Complete!!</name>
+  <detail>Saw all possible endings of EXTRA</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>UNLIMITED</name>
+  <detail>Ready for Unlimited</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="G" pid="000">
+  <name>Songs of Distant Earth</name>
+  <detail>Saw one possible ending of Unlimited</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="G" pid="000">
+  <name>Unlimited Complete!!</name>
+  <detail>Saw all possible endings of UNLIMITED</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="000">
+  <name>Punch Drunker</name>
+  <detail>Took five Drill Milky Punches to the face</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="000">
+  <name>JUKEBOX</name>
+  <detail>Unlocked Jukebox mode</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="G" pid="000">
+  <name>ALBUM 100%</name>
+  <detail>Completed the CG Gallery</detail>
+ </trophy>
+</trophyconf>

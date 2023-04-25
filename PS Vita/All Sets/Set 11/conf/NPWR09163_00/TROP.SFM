@@ -1,0 +1,64 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000045f129969ef2cf144022d8037f63493e517a560e08748f74c867e78327fb0af1f3ad005167efd4f1bc31287f0403f3d08ab41a2f9b70bfd484bfa3ad4dfc624da156c0128fc6aa4415ca4b237d2d60081334327a5811ae523564d35a68b4ed7cba48442da77e3019031f3a0e4f1b4feb4f0d76926b80c10a516e5cedac502e3e0f2285b01f66ed62ad86fec827287a49b23a5205-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="small">
+ <npcommid>NPWR09163_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Poncho</title-name>
+ <title-detail>Save humanity, earn trophies!</title-detail>
+ <trophy id="000" hidden="yes" ttype="S" pid="-1">
+  <name>Absolution</name>
+  <detail>Choose to live, leaving the world as it is...</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="S" pid="-1">
+  <name>Saviour</name>
+  <detail>Make the ultimate sacrifice to save humanity.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="-1">
+  <name>Gotta Fix 'Em All!</name>
+  <detail>Find and repair all of the Junkyard King's broken robot minions.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>The Journey Begins</name>
+  <detail>Activate the first teleporter.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>The Forest</name>
+  <detail>Activate the second teleporter.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>The Junkyard</name>
+  <detail>Activate the third teleporter.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>And The World Shifts With You</name>
+  <detail>Activate the fourth teleporter.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>The Mannequin Tribe</name>
+  <detail>Climb to the top of the tribal village.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Through The Caves</name>
+  <detail>Activate the sixth teleporter.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>The Great Lake</name>
+  <detail>Activate the seventh teleporter.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>The Overgrown Remnants</name>
+  <detail>Activate the final teleporter.</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="-1">
+  <name>Hamster Casserole</name>
+  <detail>Make yourself a casserole...</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="B" pid="-1">
+  <name>Poncho SMASH!</name>
+  <detail>Unlock the Smash ability.</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="-1">
+  <name>Good Day, Minion!</name>
+  <detail>Meet the Junkyard King.</detail>
+ </trophy>
+</trophyconf>

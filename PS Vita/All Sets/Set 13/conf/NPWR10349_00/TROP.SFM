@@ -1,0 +1,24 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000c078ccd792dcfa53d2c50315c1cf9d430795945871b94af2ad8ebac857c504c1a824a4c9175e3a79b213268cd843e23dc5a12e3ac66252a20e27af3d425391e77baf7a334640adaf01c488b36783d36030682771de61beeed04e59863909a1536e8a3b05c3fe9a9d40bd5dc87ff7b8e743c59bb854e7349b6a1b7f152627d170daf84018f23c3f8efe12f746159c35f93be127c9-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="small">
+ <npcommid>NPWR10349_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Neverending Nightmares</title-name>
+ <title-detail>Trofeos de Neverending Nightmares</title-detail>
+ <trophy id="000" hidden="no" ttype="G" pid="-1">
+  <name>Descenso final</name>
+  <detail>Has completado la pesadilla "Descenso final".</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="-1">
+  <name>Sueños destrozados</name>
+  <detail>Has completado la pesadilla "Sueños destrozados".</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="-1">
+  <name>Soñador obstinado</name>
+  <detail>Has completado la pesadilla "Soñador obstinado".</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="-1">
+  <name>Venas</name>
+  <detail>Desbloqueadas todas las rutas ramificadas en la pantalla Seleccionar pesadilla.</detail>
+ </trophy>
+</trophyconf>

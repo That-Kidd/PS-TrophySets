@@ -1,0 +1,140 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000007af7e570e4cd327a157a9eda79334269a8a74b56899e3e28a8013e01aa887cbd7872cbc011aa5c8671ad5fa91cd26e12e328d846a3d191178fd569935653ab2aa5a9e29dd0f6f061c545ad38f41865b7d5eaf1182d08318aede7c2e648d0ef2f9da562d2dc29f2d7ee949acb336a00e1889841d89c35aa6f15ac39c927b8b02dc96cf492215feba3e3f26b69ee42735c2df278ed-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR08110_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Sayonara UmiharaKawase +</title-name>
+ <title-detail>Trophy set for Sayonara UmiharaKawase +.</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Until We Meet Again</name>
+  <detail>Earn all available Trophies for Sayonara UmiharaKawase +.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="000">
+  <name>Gone Fishin'</name>
+  <detail>Clear Sayonara UmiharaKawase +.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>Almost There!</name>
+  <detail>Unlock all Stages.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>Who Needs Doors?</name>
+  <detail>Clear all doors.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>Golden Oldie</name>
+  <detail>Play the original Umihara Kawase.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>Old School Umihara</name>
+  <detail>Watch the ending of the original Umihara Kawase.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>The Whole Gang</name>
+  <detail>Use all characters.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>Outdoorsy Type</name>
+  <detail>Acquire a backpack.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>Backpacker</name>
+  <detail>Acquire 10 backpacks.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>Superpacker</name>
+  <detail>Acquire 10 backpacks.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>Perfectpacker</name>
+  <detail>Acquire 45 backpacks.</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>Froggy Fun</name>
+  <detail>Clear Tadpole.</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>Crabsolutey</name>
+  <detail>Clear Crab.</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>Prickly Customer</name>
+  <detail>Clear Balloonfish.</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>Froggy Fever</name>
+  <detail>Clear Tadpole 2.</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="S" pid="000">
+  <name>Crabulous!</name>
+  <detail>Clear Crab 2.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Rise to the Challenge</name>
+  <detail>Play Survival Challenge</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>Made It!</name>
+  <detail>Clear Survival Challenge.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="G" pid="000">
+  <name>I'm a Survivor!</name>
+  <detail>Clear all routes on Survival Challenge.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Art Enthusiast</name>
+  <detail>Browse the Illustration Gallery.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>Art Collector</name>
+  <detail>View everything in the Illustration Gallery.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>Music Enthusiast</name>
+  <detail>Browse the Sound Gallery.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>My Ears Are Happy!</name>
+  <detail>Play everything in the Sound Gallery.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>Helping Hand</name>
+  <detail>Check all Walkthrough Tips in the Gallery.</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="000">
+  <name>Revision Demon</name>
+  <detail>Watch the Stage Tutorial of a Stage you've cleared.</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="B" pid="000">
+  <name>Ready for Anything</name>
+  <detail>Watch all Stage Tutorials.</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>Self-Appreciation</name>
+  <detail>Play your own Replay 10 times.</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="B" pid="000">
+  <name>You're Mine!</name>
+  <detail>Catch a Tadpole.</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="B" pid="000">
+  <name>Back Entrance</name>
+  <detail>Clear the second door in a Stage.</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="B" pid="000">
+  <name>Heavy Load</name>
+  <detail>Fail a Stage while holding a backpack.</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="B" pid="000">
+  <name>Extra Storage</name>
+  <detail>Acquire two backpacks at the same time.</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="B" pid="000">
+  <name>Keep At It!</name>
+  <detail>Fail a Stage 20 times.</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="S" pid="000">
+  <name>It All Builds Character</name>
+  <detail>Fail a Stage 50 times.</detail>
+ </trophy>
+</trophyconf>

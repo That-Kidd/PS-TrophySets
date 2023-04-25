@@ -1,0 +1,56 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000b59d42ddae1df47333596f05f9fb52c5278820bf7ebdf791cf1cabb85ba15d1651b801adc1f9000f85bc9191efb15ddec5e5a62eb8326fc8e63b2865a9472cd2c4dac9c06867c3d56f73f0a38f5e7da6b206605a94f441a53cc819371fe1a3da11a4b628dae9cf56fa91ef47abd85a5a3d90f422d4ed908833988a3d92f9e0caf076ec9e0507a192c06c905e8bc2f8a148e8d73f-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR17097_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Dreamwalker</title-name>
+ <title-detail>Dreamwalker</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Silent Slumber</name>
+  <detail>Complete a non-tutorial Early Bird level</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Snooze</name>
+  <detail>Complete a non-tutorial Alarm Clock level</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Into the Night Sky</name>
+  <detail>Get abducted by a UFO</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>I Need to Lie Down</name>
+  <detail>Complete a non-tutorial Spinner level</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>40 Winks</name>
+  <detail>Complete a non-tutorial Teleporter level</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="-1">
+  <name>Mid-Night</name>
+  <detail>Complete half the levels in the game</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="-1">
+  <name>Lucid Dreaming</name>
+  <detail>Complete all levels in the game</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="-1">
+  <name>Cold Sweat</name>
+  <detail>Complete a non-tutorial Night Mare level</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="-1">
+  <name>Gentle Nudge</name>
+  <detail>Collect 10 "restful night" stars</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="-1">
+  <name>Dreaming My Dream of Ewe</name>
+  <detail>Collect 10 "sweet dreams" stars</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="-1">
+  <name>The Cows Jumped over the Moon</name>
+  <detail>Collect all cows from the UFO</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="-1">
+  <name>Power Nap</name>
+  <detail>Collect 10 "early riser" stars</detail>
+ </trophy>
+</trophyconf>

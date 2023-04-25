@@ -1,0 +1,188 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000be565b77579b95a586327845278776693d8c0d8925f9a563065c70af455af5a08f1d86d8c507ff07f5651cfe5b8eeb23667700c6b1d38e30266c8c7262086b59ae6752417f10d1a07bbeb5e91cf386877f5b2cdc15ed848909b7fd35b979b26314f009f5d7fed6f763889a6b19e9597d1ce52b4eb41f558c0efc612477d58712d89e70f709416d978dc7203f8d7b488aafedcabe-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR17965_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>神凪ノ杜 五月雨綴り</title-name>
+ <title-detail>神凪ノ杜 五月雨綴り で獲得できるトロフィー</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>虹がかかる</name>
+  <detail>すべてのトロフィーを獲得</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>新たな日々の始まり</name>
+  <detail>ＯＰムービーを見た</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>雨月村のくらし</name>
+  <detail>妖狐編共通ルートを最後まで見た&#x0a;</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>不安な一歩</name>
+  <detail>龍神編共通ルートを最後まで見た&#x0a;</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>傘を閉じて</name>
+  <detail>ハッピーエンドのムービーを見た</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>冷たい雨</name>
+  <detail>バッドエンドのムービーを見た</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>仁科直・ハッピーエンド</name>
+  <detail>仁科直のハッピーエンドを見た</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>仁科直・バッドエンド</name>
+  <detail>仁科直のバッドエンドを見た</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>仁科直エンドコンプリート</name>
+  <detail>仁科直の全エンドを見た</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>沢木宋太・ハッピーエンド</name>
+  <detail>沢木宋太のハッピーエンドを見た</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>沢木宋太・バッドエンド</name>
+  <detail>沢木宋太のバッドエンドを見た</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>沢木宋太エンドコンプリート</name>
+  <detail>沢木宋太の全エンドを見た</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>市丸･ハッピーエンド</name>
+  <detail>市丸のハッピーエンドを見た</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>市丸･バッドエンド</name>
+  <detail>市丸のバッドエンドを見た</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>市丸エンドコンプリート</name>
+  <detail>市丸の全エンドを見た</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>旭・ハッピーエンド</name>
+  <detail>旭のハッピーエンドを見た</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>旭・バッドエンド</name>
+  <detail>旭のバッドエンドを見た</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>旭エンドコンプリート</name>
+  <detail>旭の全エンドを見た</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>日向･ハッピーエンド</name>
+  <detail>日向のハッピーエンドを見た</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>日向･バッドエンド</name>
+  <detail>日向のバッドエンドを見た</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>日向エンドコンプリート</name>
+  <detail>日向の全エンドを見た</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>東雲・ハッピーエンド</name>
+  <detail>東雲のハッピーエンドを見た</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>東雲・バッドエンド</name>
+  <detail>東雲のバッドエンドを見た</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>東雲エンドコンプリート</name>
+  <detail>東雲の全エンドを見た</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>妖狐奇譚コンプリート</name>
+  <detail>妖狐編のキャラすべてのエンドを見た</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="S" pid="000">
+  <name>龍神奇譚コンプリート</name>
+  <detail>龍神編のキャラすべてのエンドを見た</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="G" pid="000">
+  <name>五月雨綴りコンプリート</name>
+  <detail>全キャラすべてのエンドを見た</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>仁科直の記憶</name>
+  <detail>仁科直のスチルを全部見た</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>沢木宋太の記憶</name>
+  <detail>沢木宋太のスチルを全部見た</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>市丸の記憶</name>
+  <detail>市丸のスチルを全部見た</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>旭の記憶</name>
+  <detail>旭のスチルを全部見た</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>日向の記憶</name>
+  <detail>日向のスチルを全部見た</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>東雲の記憶</name>
+  <detail>東雲のスチルを全部見た</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>大切な記憶</name>
+  <detail>共通のスチルを全部見た</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="S" pid="000">
+  <name>画像コンプリート</name>
+  <detail>スチルをすべて見た</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="G" pid="000">
+  <name>雨が上がる</name>
+  <detail>フルコンプスチルを見た</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>仁科直との日々</name>
+  <detail>仁科直のおまけシナリオを全部見た</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>沢木宋太との日々</name>
+  <detail>沢木宋太のおまけシナリオを全部見た</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>市丸との日々</name>
+  <detail>市丸のおまけシナリオを全部見た</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="000">
+  <name>旭との日々</name>
+  <detail>旭のおまけシナリオを全部見た</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="B" pid="000">
+  <name>日向との日々</name>
+  <detail>日向のおまけシナリオを全部見た</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="B" pid="000">
+  <name>東雲との日々</name>
+  <detail>東雲のおまけシナリオを全部見た</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="B" pid="000">
+  <name>いつかの日々</name>
+  <detail>共通のおまけシナリオを全部見た</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="S" pid="000">
+  <name>おまけコンプリート</name>
+  <detail>おまけシナリオを全部見た</detail>
+ </trophy>
+ <trophy id="044" hidden="no" ttype="B" pid="000">
+  <name>仁科葵攻略</name>
+  <detail>仁科葵に告白された</detail>
+ </trophy>
+</trophyconf>

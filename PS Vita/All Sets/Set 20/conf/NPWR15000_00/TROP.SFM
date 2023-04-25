@@ -1,0 +1,52 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000002e1457d79ff413644931f7e7a77c2fcfc006fde1a2f44a2f1b6a53533b405ad0ee77fc93187978f68be65c45992708fd96879f9516bbab766a996e57484b58875424093223b49cf3230432bf6d910f1e7a00ecbff5bdcbe80dfa1147244256a3d89f7089922630ca1ac3815d699b5c18e22936a987314aa5526925f7701098e442b505ca63c7e4ce293f6064467d0e1ae0eec2b7-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="small">
+ <npcommid>NPWR15000_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Iconoclasts</title-name>
+ <title-detail>Iconoclasts trophies</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Feature Creep</name>
+  <detail>Made a tweak.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Parrying Mechanic</name>
+  <detail>Use the wrench to deflect danger.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Coloring Agent</name>
+  <detail>Survive the encounter with an agent.</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="-1">
+  <name>Pearly Gates</name>
+  <detail>Reach the city.</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="-1">
+  <name>Pitch Black</name>
+  <detail>Protect the rocket.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Life Experience</name>
+  <detail>Complete the game.</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="-1">
+  <name>Psychopomps</name>
+  <detail>Defeat Mother's Corners.</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="-1">
+  <name>Melodrama</name>
+  <detail>Defeat Fitzroy.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="-1">
+  <name>Multitool</name>
+  <detail>Make all main tweaks.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="-1">
+  <name>Beaucoup Booty</name>
+  <detail>Get all chests in one playthrough.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="-1">
+  <name>One-Hit Wonder</name>
+  <detail>Beat Challenge mode.</detail>
+ </trophy>
+</trophyconf>

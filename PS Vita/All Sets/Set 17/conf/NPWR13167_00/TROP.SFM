@@ -1,0 +1,136 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000029250ee435f7e1ed1f7ec1b572e3242354231ae12815994bf369f89dadc075ee46a47a24f8a0736eaa4534b9784f7c67f55ecca85c67f4c634b9379b57bd05112e1db31528af11dbe47d876767413c5e85959d53c2079b8cfd0366f6d67e1e101efddd65de80f5b3a32bbf69b6b7f2411948c3603a6e400178bc5cd9f514c97b202240ab5ed3db04229735c41f3ada43c2bec09-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR13167_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>ワールド・エレクション</title-name>
+ <title-detail>ワールド・エレクションのトロフィーセットです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>世界の選択</name>
+  <detail>全てのトロフィーを取得しました。</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>CG鑑賞コンプリート</name>
+  <detail>CGをコンプリートしました。</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>シーン回想コンプリート</name>
+  <detail>回想をコンプリートしました。</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>音楽鑑賞コンプリート</name>
+  <detail>BGMをコンプリートしました。</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>TIPSコンプリート</name>
+  <detail>TIPSをコンプリートしました。</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="G" pid="000">
+  <name>想いを重ねて</name>
+  <detail>トゥルールートをクリアしました。</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="000">
+  <name>破壊神の女の子</name>
+  <detail>クルルルートをクリアしました。</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>劫魔界のお姫様</name>
+  <detail>ソフィアルートをクリアしました。</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>妹の居場所</name>
+  <detail>伊織ルートをクリアしました。</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>恋天使の恋煩い</name>
+  <detail>パーフィルルートをクリアしました。</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>狼の本能</name>
+  <detail>ファウラルートをクリアしました。</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>アニキへの想い</name>
+  <detail>ポン子ミニルートをクリアしました。</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>機械のキモチ</name>
+  <detail>ミナヨミニルートをクリアしました。</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>メイドの乱心</name>
+  <detail>メロウミニルートをクリアしました。</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>きょうふをこくふく</name>
+  <detail>チコミニルートをクリアしました。</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="S" pid="000">
+  <name>教師と教え子</name>
+  <detail>ミリエルミニルートをクリアしました。</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="S" pid="000">
+  <name>謎の多い管理人さん</name>
+  <detail>紗月ミニルートをクリアしました。</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="S" pid="000">
+  <name>カラスの恩返し</name>
+  <detail>ムシュアミニルートをクリアしました。</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>隠されたデータ</name>
+  <detail>コードを入力しました。</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>クルルCGコンプリート</name>
+  <detail>クルルのCGをコンプリートしました。</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>ソフィアCGコンプリート</name>
+  <detail>ソフィアのCGをコンプリートしました。</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>伊織CGコンプリート</name>
+  <detail>伊織のCGをコンプリートしました。</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>パーフィルCGコンプリート</name>
+  <detail>パーフィルのCGをコンプリートしました。</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>ファウラCGコンプリート</name>
+  <detail>ファウラのCGをコンプリートしました。</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>その他CGコンプリート</name>
+  <detail>その他のCGをコンプリートしました。</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>SDCGコンプリート</name>
+  <detail>SDCGをコンプリートしました。</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>クルル回想コンプリート</name>
+  <detail>クルルの回想をコンプリートしました。</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>ソフィア回想コンプリート</name>
+  <detail>ソフィアの回想をコンプリートしました。</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>伊織回想コンプリート</name>
+  <detail>伊織の回想をコンプリートしました。</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>パーフィル回想コンプリート</name>
+  <detail>パーフィルの回想をコンプリートしました。</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>ファウラ回想コンプリート</name>
+  <detail>ファウラの回想をコンプリートしました。</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>その他回想コンプリート</name>
+  <detail>その他の回想をコンプリートしました。</detail>
+ </trophy>
+</trophyconf>

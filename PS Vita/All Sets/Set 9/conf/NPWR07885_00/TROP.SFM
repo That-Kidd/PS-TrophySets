@@ -1,0 +1,176 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000007912a3c5d29a38cc547fa684c67ac6dc2e41d3079ced9b6ce4998e58126fec40dd0203bdfab3ac57c566306078554fec0b6eee51c5536629d38e3e6a41171cfd428af26baa0e755160f1f71d079b461f80afc8e334bbc88989efccc107b8661b1597881e8031d3d401fcaf2c4ebc0855e50ed6bf634b0b997f0419c1c3e42ac3406fbe48edbe6448178aa82ae51048b57e63827f-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR07885_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>한계돌파 모에로 크로니클</title-name>
+ <title-detail>한계돌파 모에로 크로니클의 트로피입니다.</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>한계를 모두 돌파 한 자</name>
+  <detail>수많은 위업을 이루어낸 용사의 증표.</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>버섯쑥쑥 숲 구원!</name>
+  <detail>제1지역을 구해냈다.</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>끈적끈적 뽀얀호 구원!</name>
+  <detail>제2지역을 구해냈다.</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>거대누님 유적 구원!</name>
+  <detail>제3지역을 구해냈다.</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>히트프로원 구원!</name>
+  <detail>제4지역을 구해냈다.</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>고스로쿼츠 구원!</name>
+  <detail>제5지역을 구해냈다.</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>화이트 리미트 구원!</name>
+  <detail>제6지역을 구해냈다.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>그래도 세계는 돌아간다</name>
+  <detail>시나리오 엔딩을 봤다.</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="G" pid="000">
+  <name>역시 이래야지!</name>
+  <detail>진 엔딩을 봤다.</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="000">
+  <name>첫 경험!!</name>
+  <detail>게임을 처음 플레이 했다.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>잡았다!</name>
+  <detail>처음으로 몬스터걸을 동료로 만들었다.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>이렇게 예쁜 애들을 그냥 둘 순 없지!</name>
+  <detail>몬스터걸을 10명 동료로 만들었다.</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>하렘왕</name>
+  <detail>모든 몬스터걸을 동료로 만들었다.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>리모델링! 러브하우스</name>
+  <detail>숙소의 방을 개축했다.</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>최고의 서비스</name>
+  <detail>숙소의 방을 하나 최고 랭크로 올렸다.</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="G" pid="000">
+  <name>장인의 기술</name>
+  <detail>숙소의 방을 모두 최고 랭크로 올렸다.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>뭐냐…이 감각은!?</name>
+  <detail>심쿵 스크래치로 몬스터걸의 호감도를 10회 올렸다.</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>손이 멈추지 않아</name>
+  <detail>심쿵 스크래치로 몬스터걸의 호감도를 50회 올렸다.</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="S" pid="000">
+  <name>골드 핑거</name>
+  <detail>심쿵 스크래치로 몬스터걸의 호감도를 100회 올렸다.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>몬스토피아 불가사의</name>
+  <detail>변태 몬스터 도감을 50종 채웠다.</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="S" pid="000">
+  <name>별에 별 녀석이 다 있구나</name>
+  <detail>변태 몬스터 도감을 모두 채웠다.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>이, 이게 팬티란 건가요!?</name>
+  <detail>처음으로 잡 팬티를 손에 넣었다.</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="S" pid="000">
+  <name>전설의 처녀의 팬티 사냥꾼</name>
+  <detail>모든 잡 팬티를 손에 넣었다.</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>몬스토피아의 안내인?</name>
+  <detail>수많은 플로어에 진입했다.</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="S" pid="000">
+  <name>몬스토피아는 나의 정원</name>
+  <detail>모든 플로어에 진입했다.</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="B" pid="000">
+  <name>자, 태어난 그대로의 모습으로!!</name>
+  <detail>무의를 파괴했다.</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>나의 ○○○를 낳아줘!</name>
+  <detail>처음으로 알 시스템을 사용했다.</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="S" pid="000">
+  <name>네가 준 것</name>
+  <detail>알 시스템으로 방 랭크 아이템을 생성했다.</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="B" pid="000">
+  <name>받아주세요!</name>
+  <detail>처음으로 몬스터걸에게 선물을 줬다.</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="S" pid="000">
+  <name>너의 미소엔 못 당하겠어</name>
+  <detail>몬스터걸이 가장 기뻐하는 선물을 줬다.</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="B" pid="000">
+  <name>화이팅! 나는 뒤에서 지켜볼게</name>
+  <detail>처음으로 전투에 승리했다.</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="B" pid="000">
+  <name>나도 할 수 있는 게 있어!</name>
+  <detail>처음으로 「내뿜기」를 사용했다.</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="B" pid="000">
+  <name>나와 계약해줘</name>
+  <detail>변태 몬스터를 펫으로 만들었다.</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>절친 파티</name>
+  <detail>5 오라 콤보를 성공시켰다.</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="B" pid="000">
+  <name>숙련 파티</name>
+  <detail>10 오라 콤보를 성공시켰다.</detail>
+ </trophy>
+ <trophy id="035" hidden="yes" ttype="S" pid="000">
+  <name>최고의 파티</name>
+  <detail>20 오라 콤보를 성공시켰다.&#x0a;</detail>
+ </trophy>
+ <trophy id="036" hidden="yes" ttype="S" pid="000">
+  <name>이것도 하나의 엔딩</name>
+  <detail>처음으로 몬스터걸의 친밀도를 최고로 만들었다.</detail>
+ </trophy>
+ <trophy id="037" hidden="yes" ttype="G" pid="000">
+  <name>한 명만 고를 수 없어</name>
+  <detail>모든 몬스터걸과 사랑이 깊어졌다.</detail>
+ </trophy>
+ <trophy id="038" hidden="yes" ttype="S" pid="000">
+  <name>너희들 것은 나의 것</name>
+  <detail>유니크 아이템을 10종류 손에 넣었다.</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="000">
+  <name>너희들 덕분</name>
+  <detail>몬스터를 100마리 쓰러뜨렸다.</detail>
+ </trophy>
+ <trophy id="040" hidden="yes" ttype="B" pid="000">
+  <name>너희들에겐 감사한 마음뿐</name>
+  <detail>몬스터를 1000마리 쓰러뜨렸다.</detail>
+ </trophy>
+ <trophy id="041" hidden="yes" ttype="S" pid="000">
+  <name>너희들 모두 최고다!!</name>
+  <detail>몬스터를 10000마리 쓰러뜨렸다.</detail>
+ </trophy>
+</trophyconf>

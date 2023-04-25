@@ -1,0 +1,72 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000054057e8a135dc851d50e75c4d90d36d6a41feddb0985341bd3d1c96efa7535daf0a82ac5d821ce4815e2c942a1969a3100f2929e46bb3975a32a419672a2e379d745c917635dd1525a1890793be9bca56f2d03ac7b9241980614fb415a66a718f004b400802afe230e9d7a2483b65fef0b7503fa512e481b690d178431160d0d8cbeb2b90db710a0c46f69ecc21ea7cf3b736484-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR09059_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>ナツメグ</title-name>
+ <title-detail>『ナツメグ』トロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>コンプリート</name>
+  <detail>『ナツメグ』を全てプレイしていただき、ありがとうございました。</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>由佳子好感度10達成</name>
+  <detail>由佳子の好感度が10に達しました。</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>実梨好感度10達成</name>
+  <detail>実梨の好感度が10に達しました。</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>まどか好感度10達成</name>
+  <detail>まどかの好感度が10に達しました。</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>セリス好感度10達成</name>
+  <detail>セリスの好感度が10に達しました。</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>ほとり好感度10達成</name>
+  <detail>ほとりの好感度が10に達しました。</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>『東雲由佳子』ルート開始</name>
+  <detail>由佳子の個別ルートに入りました。</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>『乾実梨』ルート開始</name>
+  <detail>実梨の個別ルートに入りました。</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>『小早川円』ルート開始</name>
+  <detail>まどかの個別ルートに入りました。</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>『セリス・アルフォード』ルート開始</name>
+  <detail>セリスの個別ルートに入りました。</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>『野島ほとり』ルート開始</name>
+  <detail>ほとりの個別ルートに入りました。</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>『東雲由佳子』ルート終了</name>
+  <detail>由佳子の個別ルートが終了しました。</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>『乾実梨』ルート終了</name>
+  <detail>実梨の個別ルートが終了しました。</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="000">
+  <name>『小早川円』ルート終了</name>
+  <detail>まどかの個別ルートが終了しました。</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="000">
+  <name>『セリス・アルフォード』ルート終了</name>
+  <detail>セリスの個別ルートが終了しました。</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="G" pid="000">
+  <name>『野島ほとり』ルート終了</name>
+  <detail>ほとりの個別ルートが終了しました。</detail>
+ </trophy>
+</trophyconf>

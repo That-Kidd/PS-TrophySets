@@ -1,0 +1,184 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000385597f5a55b4c0eda6349d99cdaea031908e21318d9c2cdf2b57c1d90ff2e583a8b2728b6823e77a3c6015955dd2851f852cf2f5888a73e852c553d33019f709088a1e16e0ad8df02cbcca0ec4ac431bc0a6c6ca0198f14f8d0f8efd6fd6cfa16e6194853df798dc49d91884a682129ce4e9061a611323e531229a51f17c810dac89d6a66d6a9a977c272ed15410bddbfaa9d05-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR11981_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>真・三國無雙 英傑傳</title-name>
+ <title-detail>真・三國無雙 英傑傳的獎盃組</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>英傑傳</name>
+  <detail>獲得所有獎盃</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="G" pid="000">
+  <name>繼承大志，創造未來者</name>
+  <detail>通過第二輪故事</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="G" pid="000">
+  <name>人生百態</name>
+  <detail>播放過所有武將的天命鏡事件</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="G" pid="000">
+  <name>天衣無縫</name>
+  <detail>完成所有武將的八卦泉</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="S" pid="000">
+  <name>神機妙算</name>
+  <detail>１回合發動３次「共鳴」</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="S" pid="000">
+  <name>一身是膽</name>
+  <detail>趙雲總計擊破１０００個單位</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="000">
+  <name>一騎當千</name>
+  <detail>單獨出陣擊破２０個單位以上</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>富貴滿堂</name>
+  <detail>持有金達１００００００以上</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>武器蒐集</name>
+  <detail>得到所有武器</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>道具蒐集</name>
+  <detail>得到所有道具</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>千軍萬馬</name>
+  <detail>任一單位的等級達到最高</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>千錘百鍊</name>
+  <detail>通過所有的自由戰鬥</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>一網打盡</name>
+  <detail>共鳴時，一次擊破１５個單位</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>百花繚亂</name>
+  <detail>有５個不同類型的單位共鳴</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>電光石火</name>
+  <detail>１回合就戰鬥勝利</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="S" pid="000">
+  <name>畫龍點睛</name>
+  <detail>共鳴亂舞的傷害獎勵達１００％</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>常山拂曉</name>
+  <detail>通過第１章</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>洛陽焦土</name>
+  <detail>通過第２章</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>徐州遺憾</name>
+  <detail>通過第３章</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>獸奪下邳</name>
+  <detail>通過第４章</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="000">
+  <name>水攻下邳城</name>
+  <detail>通過第５章</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>小虎馳騁江東</name>
+  <detail>通過第６章</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="B" pid="000">
+  <name>仁德重啟新野</name>
+  <detail>通過第７章</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>四股力量聚赤壁</name>
+  <detail>通過第８章</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="000">
+  <name>邪霧罩成都</name>
+  <detail>通過第９章</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="B" pid="000">
+  <name>天下亡亦天下生</name>
+  <detail>通過第１０章</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>奮武揚威</name>
+  <detail>發動共鳴</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="B" pid="000">
+  <name>急速充電</name>
+  <detail>１回合發動２次「共鳴」</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="B" pid="000">
+  <name>日新月異</name>
+  <detail>使用ＥＸ攻擊</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="B" pid="000">
+  <name>銅牆鐵壁</name>
+  <detail>有５人「防禦」並結束該回合</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="B" pid="000">
+  <name>命運交錯</name>
+  <detail>播放天命鏡事件</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="B" pid="000">
+  <name>天災地變</name>
+  <detail>發動「寶珠之力」</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="B" pid="000">
+  <name>不屈不撓</name>
+  <detail>敗北時重新戰鬥</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="B" pid="000">
+  <name>天下無雙</name>
+  <detail>以呂布擊破敵軍</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="B" pid="000">
+  <name>前後左右</name>
+  <detail>一次攻擊行動四個方向全部都攻擊</detail>
+ </trophy>
+ <trophy id="035" hidden="yes" ttype="B" pid="000">
+  <name>四面楚歌</name>
+  <detail>前後左右被敵軍包圍</detail>
+ </trophy>
+ <trophy id="036" hidden="yes" ttype="B" pid="000">
+  <name>危急存亡</name>
+  <detail>夥伴遭擊破，只剩１個單位</detail>
+ </trophy>
+ <trophy id="037" hidden="yes" ttype="B" pid="000">
+  <name>學有所成</name>
+  <detail>通過所有的指南劇本</detail>
+ </trophy>
+ <trophy id="038" hidden="yes" ttype="B" pid="000">
+  <name>桃園結義</name>
+  <detail>以劉備、關羽、張飛發動共鳴亂舞</detail>
+ </trophy>
+ <trophy id="039" hidden="yes" ttype="B" pid="000">
+  <name>五虎大將軍</name>
+  <detail>以關羽、張飛、趙雲、馬超、黃忠發動共鳴亂舞</detail>
+ </trophy>
+ <trophy id="040" hidden="yes" ttype="B" pid="000">
+  <name>魏之五子良將</name>
+  <detail>以張遼、樂進、于禁、張郃、徐晃發動共鳴亂舞</detail>
+ </trophy>
+ <trophy id="041" hidden="yes" ttype="B" pid="000">
+  <name>孫氏一家</name>
+  <detail>以孫堅、孫策、孫權、孫尚香發動共鳴亂舞</detail>
+ </trophy>
+ <trophy id="042" hidden="yes" ttype="B" pid="000">
+  <name>魏蜀吳同盟</name>
+  <detail>以曹操、孫權、劉備發動共鳴亂舞</detail>
+ </trophy>
+ <trophy id="043" hidden="yes" ttype="B" pid="000">
+  <name>豪華絢爛</name>
+  <detail>以５個女性武將發動共鳴亂舞</detail>
+ </trophy>
+</trophyconf>

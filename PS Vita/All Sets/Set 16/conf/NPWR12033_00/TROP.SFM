@@ -1,0 +1,64 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000b7c9f0ff2605601126fa2325d45d472fa73e89444dd48a2dcfbe528dd9535fd8af887174823b2748ce378ae6e9818655ab1c9bf1aa32b96510cdc43bdaace911595f1033dfe89e4ce050f1451a00aeb8f086427695134ab7e08086036f4fe8bdd12c80938e5806bee1cfdc6f858ea7a586ce57eb86548962a5cae64c5448308c44531713feeb7482bccab4e87698d998935f4fcb-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="small">
+ <npcommid>NPWR12033_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Fat City: NYC Trophy Set</title-name>
+ <title-detail>All trophies acquired in New York</title-detail>
+ <trophy id="000" hidden="no" ttype="G" pid="-1">
+  <name>Diamonds Are Forever</name>
+  <detail>Earn three diamonds on all jobs.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="-1">
+  <name>The Last Heist</name>
+  <detail>Complete the last known job in NYC.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="-1">
+  <name>Just Missed Me</name>
+  <detail>Barely evade 30 cops.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Smash And Grab</name>
+  <detail>Complete a job by triggering an alarm without getting caught.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Brooklyn In The Bag</name>
+  <detail>Complete every job in Brooklyn</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Bought Out Bronx</name>
+  <detail>Complete every job in Bronx.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Captured Queen</name>
+  <detail>Complete every job in Queens.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Off The Island</name>
+  <detail>Complete every job in Staten Island.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Big Bite of the Apple</name>
+  <detail>Complete every job in Lower Manhattan.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>Fog Of War</name>
+  <detail>Disable 10 cops using Fish's Tactical Smoke Grenade.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>Master Hacker</name>
+  <detail>Hack 10 alarms using Ace's Alarm Jammer.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="-1">
+  <name>Pop A Wheelie</name>
+  <detail>Disable 10 cops using Dali's Tire Spikes.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="-1">
+  <name>Fast And Furious</name>
+  <detail>Complete a job in half the time limit.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="-1">
+  <name>Knox's Training Day</name>
+  <detail>Complete every training job for Knox.</detail>
+ </trophy>
+</trophyconf>

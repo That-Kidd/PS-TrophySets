@@ -1,0 +1,112 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000059a9d4522ac20f3bd19d532bd2729cd5574853bd3c2da29285d3cd6afd5c9c78d66fa34826ad754f580d2a3d8765929d679594441851f9a38cfda1c118c6bd58be67f68dcf4dc3a948c6f2105075a0225b38f24c4a42deecad11114b306628f1c9449b149284ee75eb431fd2e326725187c74d52699bf8712c48ecad7eebb4d1db6b0f100f9deac52a120aa06d05fb25992c368e-->
+<trophyconf version="1.1" platform="ps3,psp2" policy="large">
+ <npcommid>NPWR04492_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Turbo: Super Stunt Squad</title-name>
+ <title-detail>Turbo: Super Stunt Squad Trophy Set</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Everything!</name>
+  <detail>Earn every Trophy in the game</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Stunt Starter!</name>
+  <detail>Finish All Tutorials</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>Nailed It!</name>
+  <detail>Unlock The Nail Salon</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>To Go!</name>
+  <detail>Unlock the Dos Bros Patio</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>Auto-Matic!</name>
+  <detail>Unlock The Autobody Shop</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>Hobby Time!</name>
+  <detail>Unlock the Hobby Shop</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>Neon Glow!</name>
+  <detail>Unlock the Dos Bros Roof</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>Custom!</name>
+  <detail>Unlock A Custom Shell</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>Super Custom!</name>
+  <detail>Unlock All Custom Shells</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>Painter!</name>
+  <detail>Customize A Snail</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>Specialist!</name>
+  <detail>Use A Special Ability</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>Super Tricky!</name>
+  <detail>Perform A Special Trick</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>Way To Go!</name>
+  <detail>Complete An Objective</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>The Whole Enchilada!</name>
+  <detail>Complete All Objectives in a Level</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>Turbo 20!</name>
+  <detail>Complete 20 Objectives with Turbo</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>Whiplash 20!</name>
+  <detail>Complete 20 Objectives with Whiplash</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>Skidmark 20!</name>
+  <detail>Complete 20 Objectives with Skidmark</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>Smoove Move 20!</name>
+  <detail>Complete 20 Objectives with Smoove Move</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>Burn 20!</name>
+  <detail>Complete 20 Objectives with Burn</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="000">
+  <name>Letter Collector!</name>
+  <detail>Collect All T-U-R-B-O Sets</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="G" pid="000">
+  <name>Got Character!</name>
+  <detail>Collect All Character Pickup Sets</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="G" pid="000">
+  <name>Got 'Em All!</name>
+  <detail>Collect All Tomato Pickup Sets in Timed Mode</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>Slices!</name>
+  <detail>Collect all Tomatoes on One level in Freeplay</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="G" pid="000">
+  <name>The Whole Tomato!</name>
+  <detail>Collect All Tomatoes in Freeplay</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>Score!</name>
+  <detail>Beat the Turbo Score on a Level</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="G" pid="000">
+  <name>Super Score!</name>
+  <detail>Beat the Turbo Score on All Levels</detail>
+ </trophy>
+</trophyconf>

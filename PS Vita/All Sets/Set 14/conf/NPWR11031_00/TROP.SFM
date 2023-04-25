@@ -1,0 +1,140 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000744c9b48cad9525dd5208d32b9e4defca30458cb5b4594aa94b48136866a75ff0898fdb06d0632f668508b460ad1d228456560309c4dba5d17a752b630ffa66862e6c3cd2db54ea1aa68ffc46eb0126b7f5a255c0b0135252e85e2ecc0806f5203382924f9b023fdc7b1401498bd8e4290e5219b336b1cf958035f48e0da87934c20f0d81fd7ac7bfa05a630ee66e7bb8d3f5a02-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR11031_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Dex</title-name>
+ <title-detail>Dex Trophy Set</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Dex</name>
+  <detail>Complete the game</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>I am invincible!</name>
+  <detail>Show THE Armagear hacker who's boss</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>New circle</name>
+  <detail>Help an old man off the street</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Hackers and children first</name>
+  <detail>Don't leave anyone behind</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>Back to the kitchen</name>
+  <detail>Rescue Shen</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>The Tranquil</name>
+  <detail>Find Soto</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="000">
+  <name>No touching!</name>
+  <detail>Resist the allure of a Flesh-and-Blood</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>Tricks of the trade</name>
+  <detail>Had a taste of all the 'professionals'</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>Best a war machine</name>
+  <detail>Bested a war machine</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="G" pid="000">
+  <name>Happy ending</name>
+  <detail>Reunited ill-fated lover</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>Twice beaten, twice shy</name>
+  <detail>Defeated an old acquaintance for the second time</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>PTSD</name>
+  <detail>Forced Mitchell to confront his past</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>Farewell-we-miss-you</name>
+  <detail>Opened Ellie's eyes</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>Papers please!</name>
+  <detail>Expose Crash's identity to the world</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>Assassin</name>
+  <detail>Perform 20 Takedowns in a single playthrough</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>Sniper</name>
+  <detail>Perform a headshot</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Silver-tongued</name>
+  <detail>Successfully use the Convince option in a dialog</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Lock, stock and barrel</name>
+  <detail>Pick 10 locks</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>Anti-terrorist</name>
+  <detail>Neutralize the TruBody gang</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Thug</name>
+  <detail>Reach level 5</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>Mercenary</name>
+  <detail>Reach level 10</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>Runner</name>
+  <detail>Reach level 15</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="G" pid="000">
+  <name>Light 'em up</name>
+  <detail>Acquire the laser gun</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>Cyborg</name>
+  <detail>Install 7 implants</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>Professional</name>
+  <detail>Maximize a Major skill to level 6</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>Software Engineer</name>
+  <detail>Upgrade a software to its maximum level</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>Collector</name>
+  <detail>Complete Hank's collection</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>Gods of Beauty</name>
+  <detail>Open the safe in the Aphrodite</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>From Prague with love</name>
+  <detail>Open the safe on the Eclipse</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>Out with the old</name>
+  <detail>Meet the new BiofarmTech receptionist</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="G" pid="000">
+  <name>Haven't you been busy?</name>
+  <detail>Met the original</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="G" pid="000">
+  <name>Ready-Set-Energo!</name>
+  <detail>Drank more than 10 Energo Colas</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="G" pid="000">
+  <name>Elevator pitch</name>
+  <detail>Got crushed by an elevator</detail>
+ </trophy>
+</trophyconf>

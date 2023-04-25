@@ -1,0 +1,200 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000689f448eb05feefe6bb649db8e5f21f033e440c3898571a8edefb41ee9395d78b68450b86b991ea57de9f73e8423f1de1834867f2a6f1268dd2b97d7434df615f0fca968c2ae60647f33b2ef1f4f1ff92612624fb063daa6719ea041891e078251a8fec5746cef5e141f8996fdb90cbe087281afaf4e0f8fd4a0f67fff9d55ffc31f7b9c308b3de5a196924c482f608cc3a474b0-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR05230_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>スロッターマニアＶ 学園黙示録 HIGH SCHOOL OF THE DEAD</title-name>
+ <title-detail>スロッターマニアＶ 学園黙示録 HIGH SCHOOL OF THE DEADのトロフィーアイコンです</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>学園黙示録 HIGH SCHOOL OF THE DEAD</name>
+  <detail>すべてのトロフィーを獲得した&#x0a;</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>スペシャルエンディングで衝撃の結末・・・</name>
+  <detail>Storyを全て見た</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>Desperate BONUS 脅威のストック</name>
+  <detail>Desperate BONUS　合計50secストックした</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>RAGING RUSH 脅威の上乗せ</name>
+  <detail>（SUPER）RAGING RUSH　合計700G上乗せ</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>毒島覚醒 脅威の上乗せ</name>
+  <detail>毒島３連撃で300G上乗せ</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>万枚GET</name>
+  <detail>差枚数で１万枚以上獲得した</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>「H」がいっぱい！</name>
+  <detail>SUPER RAGING RUSHに突入した</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>驚き！回胴逆回転！</name>
+  <detail>単独青７より　 Desperate BONUSに突入した</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>All DEAD'S Attack を体感せよ！</name>
+  <detail>All DEAD'S Attack に突入した</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>prologue</name>
+  <detail>Storyに突入した</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>「H」をねらえ！</name>
+  <detail>RAGING RUSHに突入した</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>停止トリガー連動ガチ抽選！</name>
+  <detail>毒島覚醒に突入した</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>BIG BONUS突入！</name>
+  <detail>BIG BONUSに突入した</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>殲滅 BONUS突入！</name>
+  <detail>殲滅 BONUSに突入した</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>暴走 BONUS突入！</name>
+  <detail>暴走 BONUSに突入した</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>殲滅完了！</name>
+  <detail>殲滅BONUS １００体殲滅</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>暴走の先に・・・</name>
+  <detail>暴走BONUS中にStory以上が確定</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>H.O.T.D.成立</name>
+  <detail>擬似連４回（毒島 or 全員）</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>両方とはめずらしい</name>
+  <detail>スクデッドジャッジ　「両方」</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>射的のヒーロー！</name>
+  <detail>学園祭　射的成功</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>ドライビングテクニック！</name>
+  <detail>駐車　成功</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>秀才現る！</name>
+  <detail>期末テスト　成功</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>本当の恐怖！</name>
+  <detail>学園祭　お化け屋敷　成功</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>熱い女の戦い！</name>
+  <detail>体育祭　騎馬戦　勝利</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>女のプライド！</name>
+  <detail>学園祭　ミスコン　勝利</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>毒島斬り！</name>
+  <detail>毒島斬りでART or ボーナス</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>屋上までの階段！</name>
+  <detail>VS「奴ら」　勝利</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>脇坂に勝利！</name>
+  <detail>VS脇坂　勝利</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>エピソードバトル１で勝利！</name>
+  <detail>エピソードバトル１　高城救出</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>エピソードバトル２で勝利！</name>
+  <detail>エピソードバトル２　冴子＆鞠川</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>エピソードバトル３で勝利！</name>
+  <detail>エピソードバトル３　高城＆平野</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>エピソードバトル４で勝利！</name>
+  <detail>エピソードバトル４　孝</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>EXCELLENT</name>
+  <detail>スクデッドチャンス　成功</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>エプロンと言えば・・・</name>
+  <detail>階段　裸エプロン</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>星になった王子様？</name>
+  <detail>通過　星になった平野</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>鞠川に首ったけ</name>
+  <detail>廊下通過　貼り紙　鞠川LOVE</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>ジークの一撃！</name>
+  <detail>ジークの一撃でART or ボーナス</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>保健室で勢揃い</name>
+  <detail>ど忘れ 写真 プレミア</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>手遅れ</name>
+  <detail>診察 永は手遅れ</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="000">
+  <name>メガネでオシャレ度MAX！？</name>
+  <detail>メガネに確定の文字</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="B" pid="000">
+  <name>まさかの群予告・・・</name>
+  <detail>永群でART or ボーナス</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="B" pid="000">
+  <name>まだまだこれから！</name>
+  <detail>僕らはまだ生きている</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="B" pid="000">
+  <name>テレビの時間</name>
+  <detail>テレビ放送でART or ボーナス</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="B" pid="000">
+  <name>何のお店！？</name>
+  <detail>デート ピンク看板 プレミア</detail>
+ </trophy>
+ <trophy id="044" hidden="no" ttype="B" pid="000">
+  <name>激熱以上！</name>
+  <detail>書道 胸熱 プレミア</detail>
+ </trophy>
+ <trophy id="045" hidden="no" ttype="B" pid="000">
+  <name>ヒロイン登場！</name>
+  <detail>カットインプレミア</detail>
+ </trophy>
+ <trophy id="046" hidden="no" ttype="B" pid="000">
+  <name>屋上までもう少し！</name>
+  <detail>DEAD OR ALIVEでレインボー</detail>
+ </trophy>
+ <trophy id="047" hidden="no" ttype="B" pid="000">
+  <name>麗開眼！</name>
+  <detail>麗CHALLENGEでART or ボーナス</detail>
+ </trophy>
+</trophyconf>

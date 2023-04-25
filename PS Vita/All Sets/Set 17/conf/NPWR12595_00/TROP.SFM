@@ -1,0 +1,108 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000f47c0a29d1a9d427b9153de2b920c03fb89e42cc28040e05e55752f16a11cd1c99563b436f28722882c39d1e106c7fe01beeb229f5d30ba7ac6c62c1076c77202cac5a8b5c549ad3093affbea81bb6f6f1b074f144a6eb2f5e56a4aa0a413ac78df0b25ada5bdf6f7192b047e46e733f97456605261630b42f047a849c3f2329f06f58d28f91c3769ff470b5ff43f9f209ed4999-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR12595_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>ISLAND</title-name>
+ <title-detail>ISLANDのトロフィーです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>コンプリート</name>
+  <detail>全てのトロフィーを獲得</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>バタフライ・エフェクト</name>
+  <detail>END『バタフライ・エフェクト』を見た</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>輪廻の終焉</name>
+  <detail>END『輪廻の終焉』を見た</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>二人目のタイムトラベラー</name>
+  <detail>END『二人目のタイムトラベラー』を見た</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>新たなる世界、本当の自分</name>
+  <detail>END『新たなる世界、本当の自分』を見た</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>軌跡と奇跡</name>
+  <detail>END『軌跡と奇跡』を見た</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>夢は夢のままで</name>
+  <detail>END『夢は夢のままで』を見た</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>バトンタッチ</name>
+  <detail>END『バトンタッチ』を見た</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>夏蓮</name>
+  <detail>夏蓮エンドをクリア</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="000">
+  <name>三人目のタイムトラベラー</name>
+  <detail>END『三人目のタイムトラベラー』を見た</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="000">
+  <name>妥協の終着点</name>
+  <detail>END『妥協の終着点』を見た</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>蛇に魅入られた男</name>
+  <detail>END『蛇に魅入られた男』を見た</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="B" pid="000">
+  <name>あのこどこのこ</name>
+  <detail>END『あのこどこのこ』を見た</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="000">
+  <name>Think about her</name>
+  <detail>END『Think about her』を見た</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="B" pid="000">
+  <name>ありがとう、さようなら</name>
+  <detail>END『ありがとう、さようなら』を見た</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="S" pid="000">
+  <name>紗羅</name>
+  <detail>紗羅エンドをクリア</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="S" pid="000">
+  <name>希望の箱舟</name>
+  <detail>夏編をクリア</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="G" pid="000">
+  <name>NEVER ISLAND</name>
+  <detail>冬編をクリア</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="G" pid="000">
+  <name>凛音</name>
+  <detail>凛音エンドをクリア</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="G" pid="000">
+  <name>Re:</name>
+  <detail>Re:エンドをクリア</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="G" pid="000">
+  <name>明日、わたしは――</name>
+  <detail>「明日、わたしは――」を読んだ</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="G" pid="000">
+  <name>CGコンプリート</name>
+  <detail>CG鑑賞をコンプリート</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="G" pid="000">
+  <name>BGMコンプリート</name>
+  <detail>BGM鑑賞をコンプリート</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="G" pid="000">
+  <name>ムービーコンプリート</name>
+  <detail>ムービー鑑賞をコンプリート</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="G" pid="000">
+  <name>エンディングコンプリート</name>
+  <detail>エンディングリストをコンプリート</detail>
+ </trophy>
+</trophyconf>

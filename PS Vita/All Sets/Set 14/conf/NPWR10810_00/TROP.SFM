@@ -1,0 +1,192 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000008e51a5f9a1f869f785ec5c45a0f0bce059c33a173b6947fa07315eb9bbcb81c4bd9d310a1b4dc8f783ca261e614a9ca29af1a95865c5af18c2537ec1046a6d57f0c5ea0a165b1c3a052057de8b73b2025205601ae2d08be5b42a06d9a9ad93225b79cdedfd2e5239ced9501bcfb2b1a76f5a98d5d1617abe1025cfc5fdaf3b036c03bac04465c2c67ef64798f562ebdfe7bfd57e-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR10810_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Grand Kingdom</title-name>
+ <title-detail>Collecting trophies is part of the experience. If you're gonna play the game to the fullest, then set your sights on Platinum!</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Hero of Resonail</name>
+  <detail>Congratulations on getting all the trophies!</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>The Beginning of War</name>
+  <detail>You are now affiliated with the Guild.</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="G" pid="000">
+  <name>Golden Baku</name>
+  <detail>You finally obtained a Golden Baku!</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Fledging Mercenaries</name>
+  <detail>You hired a new unit.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>Novice Blacksmith</name>
+  <detail>Forged something at the blacksmith.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>A Sharper Sword</name>
+  <detail>Upgraded equipment at the blacksmith.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>One of a Kind</name>
+  <detail>Synthesized equipment at the blacksmith.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>Leave It To Me!</name>
+  <detail>Finished off an enemy with an Assist.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>True Grit</name>
+  <detail>Used Grit to avoid an enemy attack.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>Four Great Nations</name>
+  <detail>Visited each capital of the Four Great Nations.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>Obstacle Crusher</name>
+  <detail>Removed every type of obstacle on the field.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>Angels in White</name>
+  <detail>Met and received treatment from all 4 Healing Sisters.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>Worn-out shoes</name>
+  <detail>Walked 20000 steps.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>The Road's End</name>
+  <detail>Went to all areas on a Travel Quest.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>Bounty Hunter</name>
+  <detail>Defeated every Bounty Head!</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>Max Stat</name>
+  <detail>Reach 99 in any stat on any unit.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>First Class Up</name>
+  <detail>Performed a Class Up!</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>Class Master</name>
+  <detail>Leveled a unit to level 99!</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>Skill Completionist</name>
+  <detail>Learned every possible skill on one of your units.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="000">
+  <name>Flag Collector</name>
+  <detail>Obtained 20 flags.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>Great Order</name>
+  <detail>Obtain 150 total policy points.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="G" pid="000">
+  <name>Guild Ace</name>
+  <detail>Achieved Mercenary Rank of S!</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>An Amazing New Record!</name>
+  <detail>Knocked back a unit 8 character-lengths. </detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>Isn't It Beautiful?</name>
+  <detail>Launched a unit 9 character-heights.</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>High Damage</name>
+  <detail>Dealt 20000 damage with one attack.</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="S" pid="000">
+  <name>Combo Master</name>
+  <detail>Performed a 99-hit combo during one turn.</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>Boundless Courage</name>
+  <detail>Achieve victory while morale is low.</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="S" pid="000">
+  <name>Beyond the Threshold of Death</name>
+  <detail>Achieve victory with just 1 HP remaining.</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>Double Finish</name>
+  <detail>Killed 2 enemies simultaneously.</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>Triple Finish</name>
+  <detail>Killed 3 enemies simultaneously!</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>Major Accident</name>
+  <detail>Killed an enemy using knockback damage.</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>Object Breaker</name>
+  <detail>Destroyed an object while a unit was on top of it.</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>Was Someone There?</name>
+  <detail>Killed an invisible unit while it was still invisible.</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>Leave Me Behind!</name>
+  <detail>Prepared to flee from battle, then fled after a unit died.</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="B" pid="000">
+  <name>Oops, My bad!</name>
+  <detail>Attack an ally unit with an area-of-effect attack.</detail>
+ </trophy>
+ <trophy id="035" hidden="yes" ttype="B" pid="000">
+  <name>Watch Your Step!</name>
+  <detail>Die by stepping on a hazard.</detail>
+ </trophy>
+ <trophy id="036" hidden="yes" ttype="B" pid="000">
+  <name>Yum, Yum, Yum!</name>
+  <detail>An ally was eaten by a Slime.</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>A Lovely Present</name>
+  <detail>A Rogue picked up a item containing explosives.</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="S" pid="000">
+  <name>Skillful</name>
+  <detail>An ally Shaman reflected an attack to kill an enemy.</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="000">
+  <name>The Final Explosion</name>
+  <detail>Win a battle using the Challenger's self-destruct skill, resulting in a double KO.</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="S" pid="000">
+  <name>Winner of a fierce battle</name>
+  <detail>Defeated the Grand Mercenary Squad with a lower-level squad.</detail>
+ </trophy>
+ <trophy id="041" hidden="yes" ttype="B" pid="000">
+  <name>Stylish</name>
+  <detail>Equip glasses on one of your units.</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="B" pid="000">
+  <name>A Strong Mercenary</name>
+  <detail>Adjust a quest's difficulty before clearing it.</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="S" pid="000">
+  <name>Lone Warrior</name>
+  <detail>Clear a Target Quest with just one unit.</detail>
+ </trophy>
+ <trophy id="044" hidden="no" ttype="S" pid="000">
+  <name>Furious Success</name>
+  <detail>Clear a Destination Quest without using field skills and items. (Spy Quests excluded)</detail>
+ </trophy>
+ <trophy id="045" hidden="no" ttype="S" pid="000">
+  <name>The Very Model of a Modern Mercenary</name>
+  <detail>Clear a Destination Quest without engaging in battle! (Spy Quests excluded)</detail>
+ </trophy>
+</trophyconf>

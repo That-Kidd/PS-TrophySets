@@ -1,0 +1,208 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000bdf5d94ee966199936739f666916c3f8832aa5b8a21d2150f42728087e92d091259e1bbad771b440f9b4e4c96384a2d3957602388a010d9f0ce5b2c804f4db12206571a19858bcc94573120f2c91f7baa497ad75cec4d22dbb96d9656b9494f4440f3fc072dca370d88357781054c9d5e2f09100f95801c89d9d026a27d502e221798409ceeb161f3b002f842afe552af384a624-->
+<trophyconf version="1.1" platform="ps3,psp2" policy="large">
+ <npcommid>NPWR05794_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Jスターズ ビクトリーバーサス</title-name>
+ <title-detail>Jスターズ ビクトリーバーサスのトロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Jスターズ ビクトリーバーサス</name>
+  <detail>全てのトロフィーを獲得する</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>大冒険の始まり</name>
+  <detail>Ｊアドベンチャーでメモリアルジャンプ号を入手する</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>最終決戦に臨む</name>
+  <detail>Ｊアドベンチャーでメモリアルジャンプ号を最終形態にする</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>クエスト初クリア！</name>
+  <detail>Ｊアドベンチャーでクエストを１回クリアする</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>我こそはクエスト仕事人</name>
+  <detail>Ｊアドベンチャーでクエストを３０回クリアする</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>お宝見ーつけた！</name>
+  <detail>Ｊアドベンチャーで宝の地図を１枚クリアする</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>トレジャーハンター</name>
+  <detail>Ｊアドベンチャーで宝の地図を１０枚クリアする</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>悪者退治！</name>
+  <detail>Ｊアドベンチャーでダークファントム船に１勝する</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>ファントムキラー</name>
+  <detail>Ｊアドベンチャーでダークファントム船に３０勝する</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>腕試し！</name>
+  <detail>Ｊアドベンチャーで謎の声船に１勝する</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>向かうところ敵なし</name>
+  <detail>Ｊアドベンチャーで謎の声船に３０勝する</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>恐れ知らずのチャレンジャー</name>
+  <detail>Ｊアドベンチャーのカリン塔バトルで１勝する</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>世界最強のチャレンジャー</name>
+  <detail>Ｊアドベンチャーのカリン塔バトルで１０勝する</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>ドカンと一発</name>
+  <detail>Ｊアドベンチャーでモンスターを１体倒す</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>射撃の名手</name>
+  <detail>Ｊアドベンチャーでモンスターを１０体倒す</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>大海の射撃王</name>
+  <detail>Ｊアドベンチャーでモンスターを全種類倒す</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>見習い船大工</name>
+  <detail>Ｊアドベンチャーでメモリアルジャンプ号の強化パーツを１つ装備する</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>最高の船大工</name>
+  <detail>Ｊアドベンチャーでメモリアルジャンプ号の強化パーツを３つ装備する</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>一人前になりました</name>
+  <detail>Ｊアドベンチャーで１キャラクターのレベルを３０にする</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="000">
+  <name>世界を制する者</name>
+  <detail>Ｊアドベンチャーを１編クリアする</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="G" pid="000">
+  <name>キング・オブ・Ｊアドベンチャー</name>
+  <detail>Ｊアドベンチャーを全編クリアする</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>強者への道</name>
+  <detail>ビクトリーロードで１勝する</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>勝利への道</name>
+  <detail>ビクトリーロードで２０勝する</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="G" pid="000">
+  <name>栄光への道</name>
+  <detail>ビクトリーロードを制覇する</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>記憶に残る１勝</name>
+  <detail>フリーバトルで１勝する</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>バトルマスター</name>
+  <detail>フリーバトルで２０勝する</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>ようこそオンラインバトルへ！</name>
+  <detail>オンラインバトルで１回対戦する</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>オンラインバトルの常連</name>
+  <detail>オンラインバトルで２０回対戦する</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>初の称号</name>
+  <detail>オンラインバトルの称号を１つ入手する</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>初のプレイヤーアイコン</name>
+  <detail>オンラインバトルのプレイヤーアイコンを１つ入手する</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>カスタマイズの第一歩</name>
+  <detail>Ｊカスタマイズでカスタマイズする</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>ナイスボーナス！</name>
+  <detail>Ｊカスタマイズで１ラインのコンビネーションボーナスをつくる</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="S" pid="000">
+  <name>カスタマイズの天才</name>
+  <detail>Ｊカスタマイズで全６ラインのコンビネーションボーナスをつくる</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>コツコツ貯めよう！</name>
+  <detail>Ｊポイントをバトルで入手する</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>ショップの商品が増えるよ！</name>
+  <detail>努力、友情、勝利のいずれかのゲージのレベルを１上げる</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>初めての買い物</name>
+  <detail>Ｊポイントを使う</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>セレブヒーロー</name>
+  <detail>Ｊポイントを累計で１００００使う</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>何がでるかな！？</name>
+  <detail>コイン使ってＪスターズカードを入手する</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>カードゲット！</name>
+  <detail>Ｊスターズカードを１枚入手する</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="S" pid="000">
+  <name>カードコレクター</name>
+  <detail>Ｊスターズカードを１００枚入手する</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="S" pid="000">
+  <name>超レアゲットー！！</name>
+  <detail>Ｊスターズカードで★★★★を入手する</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="S" pid="000">
+  <name>バトルスター大集結</name>
+  <detail>全てのバトルキャラクターを使用可能にする</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="S" pid="000">
+  <name>サポートスター大集結</name>
+  <detail>全てのサポートキャラクターを使用可能にする</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="B" pid="000">
+  <name>お好きなＢＧＭでどうぞ</name>
+  <detail>ＢＧＭエディットでＢＧＭを編集する</detail>
+ </trophy>
+ <trophy id="044" hidden="no" ttype="B" pid="000">
+  <name>アピール名人</name>
+  <detail>アピールをトータルで５０回出す</detail>
+ </trophy>
+ <trophy id="045" hidden="no" ttype="B" pid="000">
+  <name>アルティメットファイター</name>
+  <detail>超必殺技をトータルで５０回出す</detail>
+ </trophy>
+ <trophy id="046" hidden="no" ttype="B" pid="000">
+  <name>爆裂神</name>
+  <detail>ビクトリーバーストをトータルで５０回発動させる</detail>
+ </trophy>
+ <trophy id="047" hidden="no" ttype="B" pid="000">
+  <name>固く結ばれた絆</name>
+  <detail>クロスブレイクをトータルで２０回出す</detail>
+ </trophy>
+ <trophy id="048" hidden="no" ttype="B" pid="000">
+  <name>ディフェンスの鬼</name>
+  <detail>ジャストガードをトータルで２０回出す</detail>
+ </trophy>
+ <trophy id="049" hidden="no" ttype="B" pid="000">
+  <name>サポート愛！</name>
+  <detail>サポートキャラクターをトータルで１００回出す</detail>
+ </trophy>
+</trophyconf>

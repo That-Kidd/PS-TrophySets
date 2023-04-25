@@ -1,0 +1,36 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000027121d091a6911d10500283fe02304aa3d333d318959958d11d834b2e0e024c891b1e82783fdf70f34eeb9bdd9dd4f2d3e43032cdf388df10713c9dd56412abd2fd67abcae551271b3a9f8c808a81701637e0e15b2f6200b2b3e4eebd5b87a632cbc45e5ec2783d63f324d9c75cf7d036b2e178de6db4e13655f2de54b6244cc3145c40df3360fce38fb31c21c52488253b3847b-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR05112_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Fieldrunners 2</title-name>
+ <title-detail>Assemble all of the Trophies in Fieldrunners 2.</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Grunt Deck</name>
+  <detail>Accomplish all cards in The Grunt Deck.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Iron Deck</name>
+  <detail>Achieve all cards in The Iron Deck.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Bird Deck</name>
+  <detail>Attain all cards in The Bird Deck.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="-1">
+  <name>Whirly Deck</name>
+  <detail>Accrue all cards in The Whirly Deck.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="-1">
+  <name>Fun Deck</name>
+  <detail>Acquire all cards in The Fun Deck.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="-1">
+  <name>World Deck</name>
+  <detail>Accumulate all cards in The World Deck.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="-1">
+  <name>Hardcore Deck</name>
+  <detail>Amass all cards in The Hardcore Deck.</detail>
+ </trophy>
+</trophyconf>

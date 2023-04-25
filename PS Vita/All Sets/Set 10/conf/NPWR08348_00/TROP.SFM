@@ -1,0 +1,148 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000ea767f9f9bc25f18603cdb6af869482f979d9a70b9569fb0fa5965feb99903b468c4f1eb52dcd2844f5c71aafa3ff0ff1ae6dab4addc21e910910a63f41b2a00c2b1ca4698de28ca254a277f6c66aa1c1ca14da7976aca13c810c3ad854f802e82431b92ab70ba864eabc8428b81ece8f4df90a068fefd71c1d05ff486e843bd6df4bf2b7e7002a62fe719ceaa2f4b1fbbc3ce9e-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR08348_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Hyperdimension Action Neptunia U</title-name>
+ <title-detail>Hyperdimension Action Neptunia U</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Platinum Action Unleashed!</name>
+  <detail>You did everything you could do in Hyperdimension Neptunia U: Action Unleashed!&#x0a;"Congrats, completionists! Maybe I'll see you in a canonical game soon!"</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>Quest Master</name>
+  <detail>Cleared all Quests in Story mode.&#x0a;"You kept clearing Quests even after being the final boss? Well, go you!"</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="G" pid="000">
+  <name>Event Master</name>
+  <detail>Watched all events.&#x0a;"It's great that you saw everything, but, um... That means you saw EVERYTHING we did?! Uh-oh."</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="G" pid="000">
+  <name>Gauntlet Domination</name>
+  <detail>All characters won the Gamindustri Gauntlet at least once.&#x0a;"This gauntlet thing was one heck of a tournament! Seems we're all winners, so let's go and make Gamindustri peaceful again!"</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="G" pid="000">
+  <name>Neptral Force</name>
+  <detail>All characters cleared Neptral Tower.&#x0a;"We all made it! I expected an upside-down Neptral Tower at the top, but hey!"</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="G" pid="000">
+  <name>The Spectral One</name>
+  <detail>Defeated Next-Gen Mech at the top of Neptral Tower at Level 1.&#x0a;"You seriously did this with base-level stats? You're so good that being weak doesn't even matter! Did you cheat? No...?"</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>Lily Lord</name>
+  <detail>Raised the Lily Rank of all characters to MAX.&#x0a;"We're all so buddy-buddy that we just hug and giggle instead of argue anymore. And that lovely image is all thanks to you!"</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>Chapter 3 Clear!</name>
+  <detail>Cleared Chapter 3 in Story mode.&#x0a;"We introduce our special guest...uh, wait, since when did we have a special guest?!"</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>The First Taste</name>
+  <detail>Won the Gamindustri Gauntlet for the first time.&#x0a;"Like, almost every entrant was a CPU or a CPU Candidate, so... No wonder nobody else wanted to try except for that goofy dogoo. Use the prize wisely!"</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>The First Climb</name>
+  <detail>Cleared Neptral Tower for the first time.&#x0a;"Did you see that view?! I was like 'wow, what a view' and stuff! I bet if everyone made it up there, it'd be a viewtacular extravagander or whatever!"</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>Max Level</name>
+  <detail>Raised a character's level to 99.&#x0a;"The cap is 99 this time. I mean, c'mon, you can whomp n' stomp anything now."</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>Accessory Fanatic</name>
+  <detail>Collected all accessories.&#x0a;"Good going on hoarding trinkets! They all have neat effects, so use them properly."</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>Medal Fanatic</name>
+  <detail>Acquired all medal bonuses.&#x0a;"As the king, I appreciate you giving me these medals. Er, well, that's from a game. I understand the desire to collect them all. Really, I do."</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>Neptune, I Choose You!</name>
+  <detail>You started a new game!&#x0a;"Pretty awesome to get a trophy for starting the game! Make sure you mention it in reviews, Gamindustri journalists!"</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>Nepgear, I Choose You!</name>
+  <detail>You started a new game!&#x0a;"This is a nice treat for the little sister fans out there. Root for our little'uns, 'cuz they're the future and all that jazz."</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>Chapter 1 Clear!</name>
+  <detail>Cleared Chapter 1 in Story mode.&#x0a;"Take your time and enjoy clearing Quests, or speed through the story-related ones. Captain Nep says, the power is yours!"</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Chapter 2 Clear!</name>
+  <detail>Cleared Chapter 2 in Story mode.&#x0a;"Forgot to do some Quests? It's okay, my completionist buddy. You can take care of them whenever. Those pesky newsies will appreciate it!"</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>HDDimension</name>
+  <detail>Cleared a Quest with HDD mode active.&#x0a;"You're a natural at this transforming thing! But, uh, you won't force us to keep HDD active forever, right? It's so tiring..."</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>It Done Got Ripped!</name>
+  <detail>Triggered Costume Break during a Quest.&#x0a;"Do we get stronger the more skin we show? Even if it helps us complete Quests, none of us really want to stay like this for long. CPUs have feelings too, y'know!"</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>CPU Voyeur</name>
+  <detail>Watched a CPU go about her daily duties.&#x0a;"Peeping Tom! Just kidding. We've got a lot to show, so be sure to stop by and join in the fun!"</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>Audiomension</name>
+  <detail>Performed a sound test.&#x0a;"Yo, yo, yo. We've got so much music, your head's gonna spin like a record. Take a gander with your ears!"</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>Journalistic Integrity</name>
+  <detail>A new character joined.&#x0a;"Pretty impressive that we got two major news outlets in one game! More friends are always welcome, so, hooray!"</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>Please Help!</name>
+  <detail>Uncovered Irregular Quest conditions.&#x0a;"This was originally a programming glitch, so maybe it should've been removed. Huh? Oh, sorry, I'm told that's taking breaking the 4th wall TOO far."</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>Uphill Struggle</name>
+  <detail>Cleared a Quest while wearing an accessory with negative effects.&#x0a;"That was kinda tough. Did you ever think about taking on the strongest enemy in the game at Level 1? Or putting on a CPU Chastity Be--ow! Ow...ow, just...ow."</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>Lily Special</name>
+  <detail>Learned a Lily Special.&#x0a;"A special combo attack using two friendly folks! Everyone got a dance partner?"</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>EXE Drive</name>
+  <detail>Used EXE Drive.&#x0a;"This is still a pretty broken feature, even in this action game. It can be used outside of HDD as well, so use it as your personal WIN button!"</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>Maximum Firepower</name>
+  <detail>Dealt 999,000 damage in a combo.&#x0a;"Yikes! Nice numbers you got there, pal. Nothing can survive that blast of digits!"</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>Eternal Combo Champion Redux</name>
+  <detail>Performed a 999-hit combo.&#x0a;"Pretty skillful use of button mashing! I bet you had to make sure the enemies wouldn't all turn to mincement first, didn't ya?"</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>Reaper of Souls</name>
+  <detail>Defeated 999 enemies in a single Quest.&#x0a;"Whoa, someone's got some pent-up rage. Where did you even FIND that many monsters?"</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>Character-driven Game</name>
+  <detail>Used all characters in Quests.&#x0a;"Who's your fave? It's cool, I won't get jealous if you don't say me. I say that because I know you'll say me anyway. I just wanted to play it cool."</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>Anything For A Scoop</name>
+  <detail>Selected the two Gamindustri journalists for a Quest.&#x0a;"I had no idea they were such forces to be reckoned with! Well, guess this gives me time to play some games...er...time to...uh...catch up on work."</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>The Purple Haze</name>
+  <detail>Selected Neptune and Nepgear for a Quest.&#x0a;"C'mon, Nep Jr.! We're both the main characters today!"</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>The Double Negative</name>
+  <detail>Selected Noire and Uni for a Quest.&#x0a;"One acts contrary, and the other acts contrary about the contrary comment! At least they seem to enjoy saying what they don't mean to each other."</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>The Happy Family</name>
+  <detail>Selected Blanc and either Rom or Ram for a Quest.&#x0a;"You can only pick two in this game, so I bet one of those kidlets cried over this. Blanc sure is lucky to have two kids who love her that much!"</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="B" pid="000">
+  <name>It Was Bound To Happen</name>
+  <detail>Selected Vert and Nepgear for a Quest.&#x0a;"This joke again?! WHYYYYY?! Why do they get a trophy, developers?! Vert's getting way too attached to Nep Jr., so...please, just give her a little sister."</detail>
+ </trophy>
+</trophyconf>

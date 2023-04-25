@@ -1,0 +1,56 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000007546b2c1a136853e747a9de2f03144325361da9758f8e2f744db0b0f44bd1750d9dc39251427ea95636c8f34458656dc5805cdba41aa34116ab61cafad0e50035b330b0ffaa887c26f994cba0daeb7fff5afc1e71a1c1a1c8cef0dc8f982d72d1f64b5ed4a9966fa03308738a284f18029cc12697b9c913c9c9cb1a7f7abc1392b78d6146176fdc1ed01974f47b7faee56586e6e-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR05081_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Tennis in the Face</title-name>
+ <title-detail>Tennis in the Face</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Serves Them Right</name>
+  <detail>In a level with at least three enemies, knock everyone out with the first serve.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Sparing Bounces</name>
+  <detail>Knock out 5 enemies before the fourth bounce.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Ball Saver</name>
+  <detail>Earn at least one extra ball from every level in the first district.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>25k</name>
+  <detail>Score 25,000 points with a single serve.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Tennis In The Face</name>
+  <detail>Get five headshots with a single serve.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="-1">
+  <name>100 Bounces</name>
+  <detail>Serve a ball that bounces 100 times.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="-1">
+  <name>Explodz Junkie</name>
+  <detail>Knock out six opponents with a single Explodz explosion.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Glass Destroyer</name>
+  <detail>Destroy 10 pieces of glass during one level.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Main Menu Enthusiast</name>
+  <detail>Earn 1,000,000 points in the main menu.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="-1">
+  <name>Vending Champion</name>
+  <detail>Destroy three vending machines with a ball and a single serve.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="-1">
+  <name>10tons Defeater</name>
+  <detail>Defeat the 10tons crew.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="-1">
+  <name>Cash Cow</name>
+  <detail>Collect three briefcases with a single serve.</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,56 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000718e33734f035e670880aeccb53010b117c45739aca0076420383e842167596158d705b1b060ce18f54a02dc6c7fa0ef3c3b724c2fe99af0d64aa965b30ee44b0a0429c89403aa2a2e374c5006420cb85ca9360254abbfbcbd3d700b76d7ddb1030785a0ead80065c7ad1e0774d9fcc29b0595473d241911f9b475eac9b99415e94f8d7d78331492bfa0eba81f6f707fb2876212-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR04788_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Atomic Ninjas</title-name>
+ <title-detail>Atomic Ninjas</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Fresh out of school</name>
+  <detail>Complete the Ninja Academy.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Ninja costume party</name>
+  <detail>Unlock a new ninja.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Let the party begin!</name>
+  <detail>Create &amp; start an online match with three other people in it.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Small victory</name>
+  <detail>Win a round in Objectives in online match.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Massacre</name>
+  <detail>Get 1000 score in a single Deathmatch online match.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="-1">
+  <name>Overpowered</name>
+  <detail>Fully upgrade a Super Ability</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="-1">
+  <name>Trials and tribulations</name>
+  <detail>Complete all Ninja Trials.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="-1">
+  <name>Deathmatch champion</name>
+  <detail>Win a four-player Deathmatch online match.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="-1">
+  <name>Objectives champion</name>
+  <detail>Win a four-player Objectives online match.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="-1">
+  <name>Atomic Ninja</name>
+  <detail>Reach rank 30.</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="-1">
+  <name>Don't follow the light!</name>
+  <detail>Die 20 times in a single online match.</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="-1">
+  <name>Happy New Year!</name>
+  <detail>Explode the rocket.</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,140 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000005f7033d6186c9f9f71f5f87769a93a229643f718a3076abdc2870f7340ac87954e6613c965b74e5cde904ff9d5472e5b7d78d6c1af3a33269db8b43ef40899af99e4463e9678e5b388fe6faf425818ce59680dca8c1c2974d4a7a777c1cf763325b3595787ee56c4928cf6c3a8e69ad8767a00eece32a15e2ebb0d95c103a52c42e3ee0177d641e6ab244f2539ab6ece59604023-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR13977_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>VitaminX Destination</title-name>
+ <title-detail>VitaminX Destination のトロフィーセットです</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>ALLトロフィー入手</name>
+  <detail>全てのトロフィーを入手した</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>プロローグ終了</name>
+  <detail>プロローグを終了した</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>翼 PERFECT STORY クリア</name>
+  <detail>翼の PERFECT STORY をクリアした</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>翼 DREAM STORY クリア</name>
+  <detail>翼の DREAM STORY をクリアした</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>翼 NORMAL STORY クリア</name>
+  <detail>翼の NORMAL STORY をクリアした</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>翼 ALL APPEND クリア</name>
+  <detail>翼の全ての APPEND をクリアした</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>翼 ALL クリア</name>
+  <detail>翼の全てのストーリーをクリアした</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>一 PERFECT STORY クリア</name>
+  <detail>一の PERFECT STORY をクリアした</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>一 DREAM STORY クリア</name>
+  <detail>一の DREAM STORY をクリアした</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>一 NORMAL STORY クリア</name>
+  <detail>一の NORMAL STORY をクリアした</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>一 ALL APPEND クリア</name>
+  <detail>一の全ての APPEND をクリアした</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>一 ALL クリア</name>
+  <detail>一の全てのストーリーをクリアした</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>瞬 PERFECT STORY クリア</name>
+  <detail>瞬の PERFECT STORY をクリアした</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>瞬 DREAM STORY クリア</name>
+  <detail>瞬の DREAM STORY をクリアした</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>瞬 NORMAL STORY クリア</name>
+  <detail>瞬の NORMAL STORY をクリアした</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>瞬 ALL APPEND クリア</name>
+  <detail>瞬の全ての APPEND をクリアした</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="G" pid="000">
+  <name>瞬 ALL クリア</name>
+  <detail>瞬の全てのストーリーをクリアした</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>清春 PERFECT STORY クリア</name>
+  <detail>清春の PERFECT STORY をクリアした</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>清春 DREAM STORY クリア</name>
+  <detail>清春の DREAM STORY をクリアした</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>清春 NORMAL STORY クリア</name>
+  <detail>清春の NORMAL STORYを クリアした</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>清春 ALL APPEND クリア</name>
+  <detail>清春の全ての APPEND をクリアした</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="G" pid="000">
+  <name>清春 ALL クリア</name>
+  <detail>清春の全てのストーリーをクリアした</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>悟郎 PERFECT STORY クリア</name>
+  <detail>悟郎の PERFECT STORY をクリアした</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>悟郎 DREAM STORY クリア</name>
+  <detail>悟郎の DREAM STORY をクリアした</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>悟郎 NORMAL STORY クリア</name>
+  <detail>悟郎の NORMAL STORY をクリアした</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="S" pid="000">
+  <name>悟郎 ALL APPEND クリア</name>
+  <detail>悟郎の全ての APPEND をクリアした</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="G" pid="000">
+  <name>悟郎 ALL クリア</name>
+  <detail>悟郎の全てのストーリーをクリアした</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>瑞希 PERFECT STORY クリア</name>
+  <detail>瑞希の PERFECT STORY をクリアした</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>瑞希 DREAM STORY クリア</name>
+  <detail>瑞希の DREAM STORY をクリアした</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>瑞希 NORMAL STORY クリア</name>
+  <detail>瑞希の NORMAL STORY をクリアした</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="S" pid="000">
+  <name>瑞希 ALL APPEND クリア</name>
+  <detail>瑞希の全ての APPEND をクリアした</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="G" pid="000">
+  <name>瑞希 ALL クリア</name>
+  <detail>瑞希の全てのストーリーをクリアした</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="S" pid="000">
+  <name>T6ボーナスシナリオクリア</name>
+  <detail>T6ボーナスシナリオをクリアした</detail>
+ </trophy>
+</trophyconf>

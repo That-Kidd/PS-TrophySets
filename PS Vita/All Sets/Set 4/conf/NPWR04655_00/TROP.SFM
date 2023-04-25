@@ -1,0 +1,60 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000040cac2afbe5a3be94c479e02f10ed5fd9b0a91763b17aace343e8966e64d8396bd635b32193d6b7a130cd0298b799e68449871f6dd47181f2bcb897d255181103754fb2e641d93bdcf61abad7e5834e1b36f543ca6ce4f474bb2038baa7a82dba96aea154548302b1dfd78d7c3233e0731d0336da7c8a5b21306a292649396bf08fc32e85157ae7242c78d5d31e4fb352a3e9aa4-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR04655_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>BigFest™</title-name>
+ <title-detail>Troféus BigFest</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Superfreaky</name>
+  <detail>Coleciona todos os troféus.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="000">
+  <name>I wanna live forever</name>
+  <detail>Melhora o Palco para nível 4.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>BigNotes rule everything around me</name>
+  <detail>Melhora o Gabinete de Segurança para nível 6.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>A bridge over troubled waters</name>
+  <detail>Melhora a Rede de Esgotos para nível 5.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>Turn it down for what?</name>
+  <detail>Melhora a Mesa de Mistura para nível 3.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>Danger! High Voltage</name>
+  <detail>Melhora o Gerador para nível 3.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>A big yellow taxi</name>
+  <detail>Remove 50 Árvores e Lixo.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>We are the World</name>
+  <detail>Põe 5 bandas de diferentes géneros como Headliner.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>Did Video kill the Radio Star?</name>
+  <detail>Põe 20 bandas como Headliner.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>C'mon, Vogue</name>
+  <detail>Coleciona 50 customizações.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>Get your money for nothing</name>
+  <detail>Alcança o número máximo de BigNotes num Gabinete de Segurança de Nível 6.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>You are the wind beneath my wings</name>
+  <detail>Utiliza uma banda 10 vezes seguidas.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>Party all the time</name>
+  <detail>Usa 50 vales Faz-a-Festa.</detail>
+ </trophy>
+</trophyconf>

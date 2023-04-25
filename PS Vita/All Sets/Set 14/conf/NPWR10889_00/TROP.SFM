@@ -1,0 +1,124 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000e7799e0ab5f2c3f3f124d5f952d1c8ce2ef45bfa125bdb889e84a5df1355d698343909e8acc116c3ecd0a61ff4bb5249678324171dc0ad565d1f68ffb9bf1ec4ec9033e8815d5b0fc17056daec21e9a420bf9e3443a434677bef05507b4c2138725bde78bc3eaa8d47ef7c893fceb2496281ca49e9ba981f36263d25783cc0b1ac44779dc0bad2ec3821847e3370675584572615-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR10889_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>로제와 황혼의 고성</title-name>
+ <title-detail>로제와 황혼의 고성의 트로피 세트입니다.</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>로제와 황혼의 고성</name>
+  <detail>모든 트로피를 획득했다!</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>신속의 별</name>
+  <detail>totaltime 1:20:00 안에 타임 어택을 완료했다.</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="G" pid="000">
+  <name>아름다운 마지막 장미</name>
+  <detail>비올라를 쓰러트렸다.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>장미 꽃다발</name>
+  <detail>모든 피의 기억을 몸에 품었다.</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="G" pid="000">
+  <name>어둠 속의 빛</name>
+  <detail>100회 사망했다.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>금강산도 식후경</name>
+  <detail>컬렉션을 모두 모았다.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>광속의 별</name>
+  <detail>totaltime 1:50:00 안에 타임 어택을 완료했다.</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>홀로서기</name>
+  <detail>블랑을 쓰러트렸다.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>한 송이 장미</name>
+  <detail>피의 기억 10개를 몸에 품었다.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>퀵 스타</name>
+  <detail>타임 어택으로 시계탑 위층을 1:50 안에 완료했다.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>달걀 내구도 실험</name>
+  <detail>고성의 가장 낙차가 큰 장소에서 거인이 뛰어내렸다.</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>로제와의 인연</name>
+  <detail>납치된 로제를 구출했다.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>피로 물든 꽃</name>
+  <detail>심층 복도를 클리어했다.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>아기 새의 공중 산책</name>
+  <detail>심층 복도-1에서 버섯에 닿지 않고 지나갔다.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>로제와 반신</name>
+  <detail>시계탑을 클리어했다.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>카나리아의 지혜</name>
+  <detail>서고를 클리어했다.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>붉은 달</name>
+  <detail>고성에서 달을 보았다.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>아무는 씨앗</name>
+  <detail>30회 사망했다.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>음속의 별</name>
+  <detail>totaltime 2:40:00 안에 타임 어택을 완료했다.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>장미 꽃잎</name>
+  <detail>피의 기억 5개를 몸에 품었다.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>스피드 스타</name>
+  <detail>타임 어택으로 심층 복도-2를 2:10 안에 완료했다.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>유성 소녀</name>
+  <detail>로제를 100회 던졌다.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>꺾인 꽃봉오리</name>
+  <detail>거인이 로제를 던져서 죽게 했다.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>별이 되다</name>
+  <detail>짐승의 최후를 곁에서 지켜보았다.</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>식화식물</name>
+  <detail>안뜰-4에서 로제를 정확하게 던졌다.</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>장미가 지배하는 정원</name>
+  <detail>안뜰을 클리어했다.</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>새장 속의 새</name>
+  <detail>무기고를 클리어했다.</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>닿지 않는 지저귐</name>
+  <detail>지하 감옥을 클리어했다.</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>가시밭길</name>
+  <detail>10회 사망했다.</detail>
+ </trophy>
+</trophyconf>

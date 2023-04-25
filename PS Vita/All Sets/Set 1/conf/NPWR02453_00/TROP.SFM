@@ -1,0 +1,136 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000385e212b57c9da6da140182b54ee29e65a3e67a056da8f1f7e583422870418f83a0db5d43cda8d2473575e01bb5cc67112ff2b5014776732213594e8dd029ed433714617bbe8cab0b596ac7c6c144a01a892a90fa0511662d0e18dd6ac148431029284a9819b4115dae1550677408bdba73b5d7f832857fc4d1dd8a1e7b478e31c06dcb71752039b0a619248b9e76728d293e8c5-->
+<trophyconf version="1.1" platform="ps3,psp2" policy="small">
+ <npcommid>NPWR02453_00</npcommid>
+ <trophyset-version>01.05</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>CastleStorm - Complete Edition</title-name>
+ <title-detail>Trophies for CastleStorm</title-detail>
+ <group id="001">
+  <name>From Outcast to Savior</name>
+  <detail>Trophies for From Outcast to Savior additional content</detail>
+ </group>
+ <group id="002">
+  <name>The Warrior Queen</name>
+  <detail>Trophies for The Warrior Queen additional content</detail>
+ </group>
+ <trophy id="000" hidden="no" ttype="G" pid="-1">
+  <name>All-Star</name>
+  <detail>Reach 100% completition in Campaign mode by obtaining all the stars.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="-1">
+  <name>Peace... Forever?</name>
+  <detail>Finish the Campaign mode.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="-1">
+  <name>Upgrayedded</name>
+  <detail>Upgrade a troop, projectile, spell or bonus room to its maximum level in any game mode.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Jewel Heist</name>
+  <detail>Unlock 'Donkey Island' in the Campaign mode.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Rock Blocked</name>
+  <detail>Unlock 'Mountain Passage' in the Campaign mode.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>A Fistful of Hammers</name>
+  <detail>Unlock 'Norsheim' in the Campaign mode.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Dragon Slayer</name>
+  <detail>Kill a dragon with any hero in any game mode.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Troll Hunter</name>
+  <detail>Kill a troll in with any hero in any game mode.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Crowd Control</name>
+  <detail>Score a x5 or higher multikill.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>Dropping Like Flies</name>
+  <detail>Score a x10 or higher killing streak.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>Angry Demolition</name>
+  <detail>Destroy 3 enemy rooms with one shot.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="-1">
+  <name>Fight in the Shade</name>
+  <detail>Shoot at least 30 javelins within a shooting frenzy.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="-1">
+  <name>Ten Heads</name>
+  <detail>Make 10 headshot kills in a row in any game mode.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="-1">
+  <name>Hard Hat Area</name>
+  <detail>Kill an enemy troop by collapsing his own castle on him in any game mode.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>Chip Off the Old Block</name>
+  <detail>Win the King's Tournament with the mystery knight.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>Princesslessness</name>
+  <detail>Hold back all the attackers in the Shiny Forest.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>Princess Rescued</name>
+  <detail>Rescue the Princess from the city of Stonecrest.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>Flight to Vikingland</name>
+  <detail>Secure the Royal Airport to get a flight to Vikingland.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>LZ Secured</name>
+  <detail>Capture the Skyship Harbor of Vikingland.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="-1" gid="001">
+  <name>Monster Killer</name>
+  <detail>Kill the monster protecting Bladgard.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="-1" gid="001">
+  <name>Royal Revenge</name>
+  <detail>Defeat the final boss of the Royal Guard campaign.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="-1" gid="001">
+  <name>Superstar</name>
+  <detail>Earn all the stars of the Royal Guard campaign.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="-1" gid="002">
+  <name>Prison Breaker</name>
+  <detail>Escape from the prison of Vikingland.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="-1" gid="002">
+  <name>This is My Town!</name>
+  <detail>Liberate Norsheim.</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="-1" gid="002">
+  <name>Throwing Like a Girl</name>
+  <detail>Prove yourself a worthy leader in the Battle Arena.</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="-1" gid="002">
+  <name>Unwelcome Arrival</name>
+  <detail>Capture the Royal Airport.</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="-1" gid="002">
+  <name>No Kingdom for the Old Man</name>
+  <detail>Secure King Edgar's safety.</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="S" pid="-1" gid="002">
+  <name>Fate of Traitors</name>
+  <detail>Defeat the traitor's army at Stonecrest.</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="S" pid="-1" gid="002">
+  <name>For My Father</name>
+  <detail>Defeat the final boss of the Viking Elites campaign.</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="S" pid="-1" gid="002">
+  <name>Megastar</name>
+  <detail>Earn all the stars of the Viking Elites campaign.</detail>
+ </trophy>
+</trophyconf>

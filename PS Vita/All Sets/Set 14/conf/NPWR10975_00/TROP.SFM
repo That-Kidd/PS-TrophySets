@@ -1,0 +1,60 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000ef925be2dcf39657b5accd03e810c59dca5777c952401db070fcb572ddc57fa7f1c801e3b5a33045c9e39097a6916d909a144250adb75d0cfb83c9a2cee1a893082a0a92ccb9dc412ad70eab0aeb16b7da83b38163f5755f94a47f37dc832f66acb7b520bdcbb301188b48f0766d2aa3fbd0ba42ef0257205c08431bee0c4630378dd704f29f7ec53579fd06e3b6bea7cdc8b3c7-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR10975_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Xenoraid</title-name>
+ <title-detail>Xenoraid</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Vanguard</name>
+  <detail>Complete Battle 1</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Heroes of Mars</name>
+  <detail>Complete Battle 2</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Moonraiders</name>
+  <detail>Complete Battle 3</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Mars, God of War</name>
+  <detail>Complete Battle 4</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="-1">
+  <name>Fortress Earth</name>
+  <detail>Complete Battle 5</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="-1">
+  <name>Seven Minutes of Terror</name>
+  <detail>Survive seven minutes or more in Survival I</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="-1">
+  <name>Hundred to One</name>
+  <detail>Destroy 400 enemies in Survival II</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="-1">
+  <name>Survival Star</name>
+  <detail>Score 20000 points or more in Survival III</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="-1">
+  <name>Stellar Ace</name>
+  <detail>Destroy 500 enemies with a single fighter during a Battle</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="-1">
+  <name>Hard Fought Victory</name>
+  <detail>Complete campaign in Hard Mode</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="-1">
+  <name>Major Force</name>
+  <detail>Finish Battle 2 with four pilots ranked as Major</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="-1">
+  <name>Smart Bomb</name>
+  <detail>Destroy eight or more enemies with a single Cluster Bomb</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="-1">
+  <name>Sharp Shooter</name>
+  <detail>Destroy six or more enemies with a single Railgun blast</detail>
+ </trophy>
+</trophyconf>

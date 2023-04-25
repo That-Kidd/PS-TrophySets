@@ -1,0 +1,80 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000061df98c61cf7970b7a3c24726648f00ff6deb459c7dabe12e10031ee0389a43b16efb6547eaae628816b24be34ac8dc6c8d830e5162a4637b7c0b9a11bf260c35601597b3cee2d155e385193fe75a0deea9f4da2719e06d3a614cfe447e598d4324724d74e3416f91808a1cf71c0ec3eefc798da0517e8511799bf95392fc4f35dfb1d4099e7aca5b288704177f650f28dbb1485-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR13214_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>キミの瞳にヒットミー</title-name>
+ <title-detail>『キミの瞳にヒットミー』トロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Hit Your Heart</name>
+  <detail>『キミの瞳にヒットミー』を全てプレイしていただき、ありがとうございました</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>ROUTE 4</name>
+  <detail>最初の移動選択を選ぶ</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>もっと逢いましょ</name>
+  <detail>全ての移動選択を選んだ</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="S" pid="000">
+  <name>いますぐHit me！</name>
+  <detail>プロローグを読み終えた</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="S" pid="000">
+  <name>お笑い部</name>
+  <detail>瞳ルートに入った</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="S" pid="000">
+  <name>素敵発見部</name>
+  <detail>詩菜ルートに入った</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="000">
+  <name>世界征服部</name>
+  <detail>つばさルートに入った</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>青春部</name>
+  <detail>みこルートに入った</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>生徒会</name>
+  <detail>歩鳥ルートに入った</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="G" pid="000">
+  <name>新しい世界へ</name>
+  <detail>ＢＡＤＥＮＤルートを読み終えた</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="G" pid="000">
+  <name>そろそろ行きましょうか、章</name>
+  <detail>瞳ルートを読み終えた</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="G" pid="000">
+  <name>ふつつかものですが、よろしくお願いしますっ！</name>
+  <detail>詩菜ルートを読み終えた</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="G" pid="000">
+  <name>これからも一緒に居てくれますか？</name>
+  <detail>つばさルートを読み終えた</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="G" pid="000">
+  <name>私のメガネに手を出すなー！</name>
+  <detail>みこルートを読み終えた</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="G" pid="000">
+  <name>……聞いてて、私の夢への第一歩</name>
+  <detail>歩鳥ルートを読み終えた</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="G" pid="000">
+  <name>ＢＧＭコンプリート</name>
+  <detail>全てのＢＧＭを聴いた</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="G" pid="000">
+  <name>ＣＧコンプリート</name>
+  <detail>全てのＣＧを見た</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="G" pid="000">
+  <name>ＥＶＥＮＴコンプリート</name>
+  <detail>全てのイベントを読んだ</detail>
+ </trophy>
+</trophyconf>

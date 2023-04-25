@@ -1,0 +1,212 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000078819df3d98295717b41df2fbe73a079dd5e64f91610759572c08703667a87c5b1c4e3629e4c438b7a68e24e6b7dc0be6250edcc0fbed40f22e03a844cd4733a1f87eff2ff59c5d1135ff308f58136b6e4834b8b486d522ccbcd1ab1dfc740655fd0e2e7f7e531f93e2a636102f18c4b328a0fab4b21ecf810bf546b6ca2970c7c486aa956b18b6739c3a4a1a9c2d75360934c8b-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR10872_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>イースVIII -Lacrimosa of DANA-</title-name>
+ <title-detail>イースVIII -Lacrimosa of DANA- のトロフィーセットです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>稀代の冒険家</name>
+  <detail>アドル・クリスティン著『ゲーテ海案内記』を熟読した証。</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>完全なる地図</name>
+  <detail>セイレン島の地図を完成させた。</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>アイテム収集家</name>
+  <detail>アイテム収集率・１００％達成。</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>財宝ハンター</name>
+  <detail>宝箱発見率・１００％達成。</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>頼れる相談相手</name>
+  <detail>冒険日誌「人物」開封率・１００％達成。</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>無人島シェフ</name>
+  <detail>冒険日誌「料理」開封率・１００％達成。</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>凄腕アングラー</name>
+  <detail>冒険日誌「釣り」開封率・１００％達成。</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>モンスター博士</name>
+  <detail>冒険日誌「モンスター」開封率（暴魚以外）・１００％達成。</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>マテリアル研究家</name>
+  <detail>冒険日誌「素材・食材」登録率・１００％達成。</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>遥かなる探索</name>
+  <detail>総移動距離・３００クリメライ達成。</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>浪漫の探究者</name>
+  <detail>ロケーションポイント発見率・１００％達成。</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>活気ある集落</name>
+  <detail>漂流村の人数が最大になった。</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>堅牢なる集落</name>
+  <detail>漂流村強化率・１００％達成。</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>マメな御用聞き</name>
+  <detail>漂流村クエスト達成率・１００％達成。</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>漂流村のスター</name>
+  <detail>好感度達成率・１００％達成。</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>いっぱしの強化職人</name>
+  <detail>いずれかの武器をＬｖＭＡＸまで強化した。</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>至高の練成職人</name>
+  <detail>全ての武器練成を行った。</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>トリプルエイト</name>
+  <detail>いずれかのアイテムを８８８個以上所持した。</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>ビーストバスター</name>
+  <detail>モンスター撃破数・２０００体達成。</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>ダイナスレイヤー</name>
+  <detail>竜型古代種撃破数・１００体達成。</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>スキルフィニッシャー</name>
+  <detail>スキルフィニッシュ発動回数・１０００回達成。</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>グランブレイカー</name>
+  <detail>ブレイク発動回数・１０００回達成。</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>フラッシュガーダー</name>
+  <detail>フラッシュガード発動回数・１００回達成。</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>フラッシュムーバー</name>
+  <detail>フラッシュムーブ発動回数・１００回達成。</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>エクストラマスター</name>
+  <detail>ＥＸＴＲＡスキル発動回数・１００回達成。</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>華麗なる迎撃</name>
+  <detail>いずれかの迎撃戦でＳランクを取った。</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>歴戦の迎撃士</name>
+  <detail>全ての迎撃戦をクリアした。</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>至境の技巧家</name>
+  <detail>全てのスキルをＬｖＭＡＸにした。</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>赤毛の冒険家</name>
+  <detail>アドルでとことん冒険した。</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>気高き貴族子女</name>
+  <detail>ラクシャでとことん冒険した。</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>豪放なる漁師</name>
+  <detail>サハドでとことん冒険した。</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>孤高の運び屋</name>
+  <detail>ヒュンメルでとことん冒険した。</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>勤勉なる野生少女</name>
+  <detail>リコッタでとことん冒険した。</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="B" pid="000">
+  <name>優しきお転婆巫女</name>
+  <detail>ダーナでとことん冒険した。</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="B" pid="000">
+  <name>栄えし王国</name>
+  <detail>エタニアクエスト達成率・１００％達成。</detail>
+ </trophy>
+ <trophy id="035" hidden="yes" ttype="B" pid="000">
+  <name>轟く勇名</name>
+  <detail>名声値が２００以上になった。</detail>
+ </trophy>
+ <trophy id="036" hidden="yes" ttype="B" pid="000">
+  <name>沈黙を破りし者</name>
+  <detail>《沈黙の塔》でメフォラシュムを倒した。</detail>
+ </trophy>
+ <trophy id="037" hidden="yes" ttype="S" pid="000">
+  <name>悪夢を超えし者</name>
+  <detail>難易度ナイトメアで真エンディングを見た。</detail>
+ </trophy>
+ <trophy id="038" hidden="yes" ttype="B" pid="000">
+  <name>新たなる冒険</name>
+  <detail>新たなる冒険を開始した。</detail>
+ </trophy>
+ <trophy id="039" hidden="yes" ttype="B" pid="000">
+  <name>ゲーテ海の夜</name>
+  <detail>プロローグ「ゲーテ海の夜」をクリアした。</detail>
+ </trophy>
+ <trophy id="040" hidden="yes" ttype="B" pid="000">
+  <name>セイレン島</name>
+  <detail>第一部「セイレン島」をクリアした。</detail>
+ </trophy>
+ <trophy id="041" hidden="yes" ttype="B" pid="000">
+  <name>隆起珊瑚の森</name>
+  <detail>《隆起珊瑚の森》を突破した。</detail>
+ </trophy>
+ <trophy id="042" hidden="yes" ttype="B" pid="000">
+  <name>暗き浸食谷</name>
+  <detail>《浸食谷》を突破した。</detail>
+ </trophy>
+ <trophy id="043" hidden="yes" ttype="B" pid="000">
+  <name>漂流者たちの狂宴</name>
+  <detail>第二部「漂流者たちの狂宴」をクリアした。</detail>
+ </trophy>
+ <trophy id="044" hidden="yes" ttype="S" pid="000">
+  <name>ジャンダルムを越えて</name>
+  <detail>第三部「ジャンダルムを越えて」をクリアした。</detail>
+ </trophy>
+ <trophy id="045" hidden="yes" ttype="B" pid="000">
+  <name>失われし世界</name>
+  <detail>第四部「失われし世界」をクリアした。</detail>
+ </trophy>
+ <trophy id="046" hidden="yes" ttype="B" pid="000">
+  <name>古の斜塔</name>
+  <detail>《バハの斜塔》を攻略した。</detail>
+ </trophy>
+ <trophy id="047" hidden="yes" ttype="S" pid="000">
+  <name>果たされた宿願</name>
+  <detail>宿敵オケアノスを倒した。</detail>
+ </trophy>
+ <trophy id="048" hidden="yes" ttype="B" pid="000">
+  <name>大樹の巫女</name>
+  <detail>第五部「大樹の巫女」をクリアした。</detail>
+ </trophy>
+ <trophy id="049" hidden="yes" ttype="B" pid="000">
+  <name>絶海のラクリモサ</name>
+  <detail>第六部「絶海のラクリモサ」をクリアした。</detail>
+ </trophy>
+ <trophy id="050" hidden="yes" ttype="G" pid="000">
+  <name>蒼き波濤の果て</name>
+  <detail>エピローグ「蒼き波濤の果て」をクリアし、真エンディングを見た。</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,76 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000004ef4cebb2c7623bf420307f725d048a54e4112e3320a82e1e6a30ec3abba420f1b6e5a4545a6050111a917c87c5f04022497b4043205ef65249c492f17e5db7ecbb729645542655dd5a5f56f6328e9e923ee632a64bf7ae81dab068414ce2427f085b3684d7f7cdf21178b1c8803e012d5db2f2f5596e3b52b85175777edecac10e98c3f88a4da8c0ffc5738249084201cf583f4-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR03973_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Uncharted™ Fight for Fortune</title-name>
+ <title-detail>Uncharted™ Fight for Fortune</title-detail>
+ <group id="001">
+  <name>Uncharted™ Fight For Fortune - Among Thieves Expansion</name>
+  <detail>Uncharted™ Fight For Fortune - Among Thieves Expansion</detail>
+ </group>
+ <group id="002">
+  <name>Uncharted™ Fight For Fortune - Drake's Deception Expansion</name>
+  <detail>Uncharted™ Fight For Fortune - Drake's Deception Expansion</detail>
+ </group>
+ <trophy id="000" hidden="no" ttype="G" pid="-1">
+  <name>Master Fortune Hunter</name>
+  <detail>Unlock everything in Uncharted™ Fight for Fortune</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="-1">
+  <name>Professional Fortune Hunter</name>
+  <detail>Complete each Fortune Hunter match at least once</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="-1">
+  <name>Over 9000</name>
+  <detail>Bank 9,001 Fortune in Fortune Hunter</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>License to Hunt</name>
+  <detail>Complete the Fortune Hunter Tutorial</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Baby Got Back</name>
+  <detail>Unlock all Card Backings</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Avatar Hunter</name>
+  <detail>Unlock all Avatars</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Card Collector</name>
+  <detail>Unlock all Cards</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Behind the Scenes</name>
+  <detail>Unlock all Backgrounds</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Change it Up</name>
+  <detail>Customize your Faction Deck, Avatar, Card Backing &amp; Background</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="-1">
+  <name>Plundered!</name>
+  <detail>Unlock all Rewards in a Fortune Hunter Match</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>Kitty Got Wet</name>
+  <detail>Win your first online Multiplayer Match</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="-1" gid="001">
+  <name>Professional Fortune Hunter II</name>
+  <detail>Complete each Uncharted™ Fight for Fortune - Among Thieves Expansion match at least once</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="-1" gid="001">
+  <name>Master Fortune Hunter II</name>
+  <detail>Unlock everything in Uncharted™ Fight for Fortune - Among Thieves Expansion</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="-1" gid="002">
+  <name>Professional Fortune Hunter III</name>
+  <detail>Complete each Uncharted™ Fight for Fortune - Drake's Deception Expansion match at least once</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="-1" gid="002">
+  <name>Master Fortune Hunter III</name>
+  <detail>Unlock everything in Uncharted™ Fight for Fortune - Drake's Deception Expansion</detail>
+ </trophy>
+</trophyconf>

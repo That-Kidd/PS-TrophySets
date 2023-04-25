@@ -1,0 +1,144 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000083a30af33a431001aefecd80764a803c0d979f81588ca40e629f5481ac836afc92bd4f7e39c8edc55699923d34b678935bb348344ae00309062c6a9ea5536ea2bc43f103d0ba7f4518a087ba2680d88e3c466e7ed5d043a586dec7867b9a974f45c7456c0e85f2d9bbec27ee5476b584b7e1aec8081cf00c7aca254a6b46dc87c62d973ed3ee283f9b172ae286e255136e9bf78a-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR07405_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>FLOWERS</title-name>
+ <title-detail>FLOWERSのトロフィーです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>コンプリート</name>
+  <detail>全てのトロフィーを獲得</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="G" pid="000">
+  <name>刻まれているもの</name>
+  <detail>マユリシナリオをクリア</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="G" pid="000">
+  <name>自分の居場所</name>
+  <detail>立花シナリオをクリア</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>冷たい視線</name>
+  <detail>バッドエンド１をクリア</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>掛けられた誤解</name>
+  <detail>バッドエンド２をクリア</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>彼女の寂しげな背</name>
+  <detail>バッドエンド３をクリア</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>七不思議の呪い</name>
+  <detail>バッドエンド４をクリア</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>二人の陰</name>
+  <detail>バッドエンド５をクリア</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>彼女の心境</name>
+  <detail>バッドエンド６をクリア</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="000">
+  <name>陰のある笑み</name>
+  <detail>バッドエンド７をクリア</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>柔らかな疼痛</name>
+  <detail>バッドエンド８をクリア</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>わたしの名前</name>
+  <detail>chapter２の推理パートをクリア</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>忌み数字</name>
+  <detail>chapter３の推理パートをクリア</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>“沙沙貴苺の消失”</name>
+  <detail>chapter５の推理パートをクリア</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>八代譲葉殴打事件</name>
+  <detail>chapter７の推理パートをクリア</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>お気に入りの場所</name>
+  <detail>立花に学校を案内してもらった</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>お花のお手入れ</name>
+  <detail>ダリア先生のお手伝いをした</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>寄宿舎の幽霊</name>
+  <detail>ダリア先生との会話から事件解決のヒントを得た</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>“嵐が丘”になぞらえた彼女</name>
+  <detail>マユリ・立花との会話から事件解決のヒントを得た</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>最良の日</name>
+  <detail>譲葉とハンバーグを作った</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="000">
+  <name>彼女の体温</name>
+  <detail>ネリネに足を洗ってもらった</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>バスキア教諭の言葉</name>
+  <detail>ダリア先生と菜の花畑へ行った</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="B" pid="000">
+  <name>壁だと思え</name>
+  <detail>えりかに悩みを相談した</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>伝説の恋バナ</name>
+  <detail>立花・苺と恋バナをした</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="000">
+  <name>夢だった怪談話</name>
+  <detail>マユリ・林檎と怪談話をした</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="B" pid="000">
+  <name>ピアノの指導</name>
+  <detail>立花にピアノを教えた</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>笑いかけてくれる彼女</name>
+  <detail>マユリとバレエの練習をした</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="B" pid="000">
+  <name>友達なら当然</name>
+  <detail>苺・林檎と事件を調査した</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="B" pid="000">
+  <name>助けようと思う気持ち</name>
+  <detail>立花・えりかと事件を調査した</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="S" pid="000">
+  <name>密会デート</name>
+  <detail>マユリと密会デートをした</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="B" pid="000">
+  <name>至福の瞬間</name>
+  <detail>アミティエでケーキを食べた</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="G" pid="000">
+  <name>GRAPHICコンプリート</name>
+  <detail>GRAPHICをコンプリート</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="G" pid="000">
+  <name>MUSICコンプリート</name>
+  <detail>MUSICをコンプリート</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="G" pid="000">
+  <name>ENDLISTコンプリート</name>
+  <detail>ENDLISTをコンプリート</detail>
+ </trophy>
+</trophyconf>

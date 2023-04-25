@@ -1,0 +1,108 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000001c957267636880b6ee945b8b90429e805092ae5042404fd5a077a447f41235e3e8e97e5f8bc8086b547639d65bc7569546487963140bb5f2802c68ca92c6ec6d20bcba6cddfdbcdcf2fb46d337c4990d8386b02d9bcfb96fb08bcd0976e2fd0888d59ea08611bdad8778cf1d64141aa86adc80899fd9c6198f3ac6e6005b6114fc95e3ea23509804c7610a22a25afa7cabcbd366-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR17724_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>夢現Re:Master</title-name>
+ <title-detail>夢現Re:Masterトロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>夢現Re:Masterマスターアップ</name>
+  <detail>すべてのトロフィーの解除を達成</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="G" pid="000">
+  <name>こころグッドエンド</name>
+  <detail>こころのグッドエンドをクリアした</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="G" pid="000">
+  <name>さきグッドエンド</name>
+  <detail>さきのグッドエンドをクリアした</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="G" pid="000">
+  <name>ななグッドエンド</name>
+  <detail>ななのグッドエンドをクリアした</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="G" pid="000">
+  <name>マリーグッドエンド</name>
+  <detail>マリーのグッドエンドをクリアした</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="G" pid="000">
+  <name>こころバッドエンド</name>
+  <detail>こころのバッドエンドをクリアした</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="G" pid="000">
+  <name>さきバッドエンド</name>
+  <detail>さきのバッドエンドをクリアした</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="G" pid="000">
+  <name>ななバッドエンド</name>
+  <detail>ななのバッドエンドをクリアした</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="G" pid="000">
+  <name>マリーバッドエンド</name>
+  <detail>マリーのバッドエンドをクリアした</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>ノーマルエンド</name>
+  <detail>森の夢を見なくなった</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>「こころを受け入れる」を選択</name>
+  <detail>二人で幸せになった</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>「優しく」を選択</name>
+  <detail>さきを甘やかせてしまった</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>「ななさんの意思を尊重する」を選択</name>
+  <detail>ベストではないがベターな判断をした</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>「わたしはマリアさんをかばった」を選択</name>
+  <detail>マリアを信じ切れなかった</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="B" pid="000">
+  <name>一章終了</name>
+  <detail>一章を終了した</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>二章終了</name>
+  <detail>二章を終了した</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>三章終了</name>
+  <detail>三章を終了した</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>四章終了</name>
+  <detail>四章を終了した</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>全員の水着</name>
+  <detail>海で全員のイベントを見た</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>左のグラス</name>
+  <detail>敢えて左のグラスを飲んだ</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="000">
+  <name>こころの方言</name>
+  <detail>こころの方言を聞いた</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>なな好感度パーフェクト</name>
+  <detail>ななルートですべて正しい選択をした</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="B" pid="000">
+  <name>迷探偵なな</name>
+  <detail>ななが推理で迷探偵ぶりを発揮</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>さき好感度パーフェクト</name>
+  <detail>さきルートですべて正しい選択をした</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="000">
+  <name>ニエ魔女コンプリート</name>
+  <detail>ニエ魔女の選択肢を全て選んだ</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,56 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000cfe045d011a8d0a0821fe5a5254292b60667c6bc91b15063e476dcc1c39f18f7d70f99ffeaa21626a22203dc49140431d9285c9fe836d9e089fdfe1758d6c686145db34f10ef9ab9f0153cf7f4c17dde482ec85eef24eea49e509017a33856928ea70c4e86f6daa95afba3d74a294a1e9a2ac5b3b03e6d8061ffd602c88b00dd92f4b35e8f7daea2807f7d402185505f7fc601dc-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR20421_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Reed 2</title-name>
+ <title-detail>Reed 2</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Platinum Reed 2</name>
+  <detail>Get all the trophies.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>Just Starting</name>
+  <detail>Get your first cube.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>Backup lost</name>
+  <detail>Die once.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>The Unknown Character</name>
+  <detail>Find the hidden character from Prisonela.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>The Duck</name>
+  <detail>Find the hidden Duck.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>The Arcade Machine</name>
+  <detail>Find the hidden Arcade Machine.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>The Horse</name>
+  <detail>Find the hidden Horse.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>The Sword</name>
+  <detail>Find about the Sword you can't pick up....</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>The Snow</name>
+  <detail>Find snow on a level.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>Lucky Guess</name>
+  <detail>Find the 1st hidden level.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>Secrets Finder</name>
+  <detail>Find the 2nd hidden level.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>Detective</name>
+  <detail>Find the 3rd hidden level.</detail>
+ </trophy>
+</trophyconf>

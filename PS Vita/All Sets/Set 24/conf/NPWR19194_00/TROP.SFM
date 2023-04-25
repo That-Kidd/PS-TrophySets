@@ -1,0 +1,92 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000088081ac2ad8381196e5ca3c2bf00b2095a50eaff249735d461490f958645e2414c3ca35e18fa7b79a5652a15073f86538d2b1a62d6158002d60a6447f10812e852a00f0b8692ffd68ffc477742e858520c0b479a7a2436f68a34a4e6d50dd23ee9f6265ff79bca2b3090e5e8d0070daf9102e77561545df010f7d6adfdad20f0268a0d1b836c21d088ee06daf022a389118eedfe-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR19194_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Miles &amp; Kilo</title-name>
+ <title-detail>Miles &amp; Kilo</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Grandmaster</name>
+  <detail>Earn every trophy</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="000">
+  <name>Pursuer of Cats</name>
+  <detail>Completed the beach world.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>Master of Sands</name>
+  <detail>Completed the desert world.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>Conquerer of Rocks</name>
+  <detail>Completed the mountain world.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>Bane of Buccaneers</name>
+  <detail>Completed the ruins world.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>Escaped!</name>
+  <detail>Completed the volcano world.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>Swimming Is For Fish</name>
+  <detail>Jumped off the surface of the water.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>Seriously Skilled</name>
+  <detail>Completed a time attack with less than 10 deaths.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>Treasure Hunter</name>
+  <detail>Collected all coins in every level.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>Dedicated</name>
+  <detail>Earned an S-rank in every level.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>First Try!</name>
+  <detail>Beat a level without dying in time attack mode.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>Racing Against The Clock</name>
+  <detail>Beat a level within the target time.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>Waste Not, Want Not</name>
+  <detail>Completed a level without throwing any fruit.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>Kind-Hearted Ninja</name>
+  <detail>Completed a level without KO'ing any baddies.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>Rampage!</name>
+  <detail>KO'd every baddie in a level.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="G" pid="000">
+  <name>Super Marathon Runner</name>
+  <detail>Ran a total of 50 kilometers.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Persistence Pays Off</name>
+  <detail>Completed a level after failing 25 times.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="G" pid="000">
+  <name>Seven Digits</name>
+  <detail>Got a total score of 1,000,000 in PLAY mode.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>Perfect!</name>
+  <detail>Earned an S-Rank in a level.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="G" pid="000">
+  <name>Gotta Go Fast!</name>
+  <detail>Completed a Time Attack.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="G" pid="000">
+  <name>Amphibious</name>
+  <detail>Completed WORLD 1-6 without surfing.</detail>
+ </trophy>
+</trophyconf>

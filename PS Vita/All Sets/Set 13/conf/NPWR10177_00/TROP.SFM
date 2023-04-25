@@ -1,0 +1,60 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000174a8847a7513e10ad92c64bf420ccdff98ea82b313f5a89c698c4ccce8d7845e9e93ad2b0c42c11d57c96e87da8e734255fb8e03c6772130c5b7a551444ebc694475e91f439d9a1e11d436da3d105255fae71a9d795d78be8b09e6ac4954939ceb8d2e2fd53888533fe05e01e57d8acb6a4f7db28ef510187e7337213d163aa9470b2a4932ba871dd627fc6082c11f733f5c311-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR10177_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>どぎめぎインリョクちゃん ラブ＆ピース</title-name>
+ <title-detail>マゾいトロフィーもあるけど、あなたの腐パワーを信じてるよ。（インリョクちゃんより）</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>初恋</name>
+  <detail>ノーマルモード、ステージ１クリア。</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>大人の恋の始まり</name>
+  <detail>ヘルモード、ステージ１クリア。</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>キュンの瞬間がたまらないの！</name>
+  <detail>矢を1000本放った。</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>キュンキュンズキューン</name>
+  <detail>矢を3000本放った。</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>トキメキに飢えています</name>
+  <detail>敵を100体昇天させた。</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>もっとトキメいて！</name>
+  <detail>敵を1000体昇天させた。</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="-1">
+  <name>私がカップルにできない魔物なんていない！</name>
+  <detail>敵を3000体昇天させた。</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>恋のキューピッドは不滅です！</name>
+  <detail>50回、コンテニューした。</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>キューピッドの戦いはこれからよ！</name>
+  <detail>クリアステージが25ステージ突破！&#x0a;※全モードが対象で、初クリアしたステージが25になったら獲得。</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="-1">
+  <name>沢山の愛、ごっつぁんです！</name>
+  <detail>クリアステージが50ステージ突破！&#x0a;※全モードが対象で、初クリアしたステージが50になったら獲得。</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="-1">
+  <name>愛の到達点！</name>
+  <detail>全ステージクリア！&#x0a;※全モードの全ステージをクリアしたら達成です。</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="-1">
+  <name>手当たり次第にキュンキュンズキューン</name>
+  <detail>どのモードでも良いので、&#x0a;クリアタイム、3時間を切った。</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="-1">
+  <name>キューピッドのお仕事ってなんだっけ……</name>
+  <detail>どのモードでも良いので、&#x0a;クリアタイム、1時間を切った。</detail>
+ </trophy>
+</trophyconf>

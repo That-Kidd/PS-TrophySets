@@ -1,0 +1,128 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000e1605695cbd7a2a950262e5b869d32bc275a8f1ebf11b1c762d1dd35d3cfa810ef6780f1e5b6e90a210bc0a074e2896d3c251659074169dc6af37d5cedc75231614eb332665410643dbb9318cb9acfa455467926fad80d3e825e834f88ba767e7b5e48106d55aa0f952cfa961bb0f6b4339315e6abddafa896b38603b51ac58d526cd6e828f0e0ae996d17ee0ee11cc75e3b710b-->
+<trophyconf version="1.1" platform="psp2" policy="freemium">
+ <npcommid>NPWR04275_00</npcommid>
+ <trophyset-version>01.05</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>拡散性ミリオンアーサー</title-name>
+ <title-detail>拡散性ミリオンアーサー トロフィー</title-detail>
+ <group id="001">
+  <name>聖杯探求編</name>
+  <detail>Ver1.07 で追加されたトロフィー</detail>
+ </group>
+ <group id="002">
+  <name>聖槍編 1章～3章</name>
+  <detail>Ver1.11 で追加されたトロフィー</detail>
+ </group>
+ <group id="003">
+  <name>聖槍編 4章～7章</name>
+  <detail>Ver1.15 で追加されたトロフィー</detail>
+ </group>
+ <group id="004">
+  <name>Ver1.17追加トロフィー</name>
+  <detail>Ver1.17 で追加されたトロフィー</detail>
+ </group>
+ <group id="005">
+  <name>Ver1.18追加トロフィー</name>
+  <detail>Ver1.18 で追加されたトロフィー</detail>
+ </group>
+ <trophy id="000" hidden="no" ttype="G" pid="-1">
+  <name>デッキランクSS</name>
+  <detail>デッキランクがSSになった</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="-1">
+  <name>デッキランクAAA</name>
+  <detail>デッキランクがAAAになった</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="-1">
+  <name>皆勤賞</name>
+  <detail>ログインボーナスをすべて取得した</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>秘境踏破</name>
+  <detail>秘境『錯乱の平原』を踏破した</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>『名乗りを上げたのは』</name>
+  <detail>ストーリー1章をクリアした</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>『敵情の解析』</name>
+  <detail>ストーリー2章をクリアした</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>『暗躍』</name>
+  <detail>ストーリー3章をクリアした</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>『緊急事態』</name>
+  <detail>ストーリー4章をクリアした</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>『そもそもの脅威』</name>
+  <detail>ストーリー5章をクリアした</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>共闘</name>
+  <detail>フレンド5人以上と協力して自分が発見した妖精と戦った</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>妖精要請応答</name>
+  <detail>フレンドが発見した妖精を攻撃した</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="-1">
+  <name>限界突破</name>
+  <detail>限界突破合成をした</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="B" pid="-1">
+  <name>AROUSAL</name>
+  <detail>カードがレベルMAXになった</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="-1">
+  <name>SUPER RARE</name>
+  <detail>SRカードをデッキに加えた</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>『試練を乗り越えた者』</name>
+  <detail>ストーリー第2部をクリアした</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="-1" gid="001">
+  <name>常勝無敗</name>
+  <detail>アーサーコロシアムで20,000BP以上獲得した</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="-1" gid="002">
+  <name>『水面下』</name>
+  <detail>ストーリー第3部 1章 『水面下』をクリアした</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="-1" gid="002">
+  <name>『状況５０１３β』</name>
+  <detail>ストーリー第3部 2章 『状況５０１３β』をクリアした</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="-1" gid="002">
+  <name>『疑惑』</name>
+  <detail>ストーリー第3部 3章 『疑惑』をクリアした</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="-1" gid="003">
+  <name>『黒幕は寄り添っている』</name>
+  <detail>ストーリー第3部 4章 『黒幕は寄り添っている』をクリアした</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="-1" gid="003">
+  <name>第3部 聖槍編クリア</name>
+  <detail>ストーリー第3部を全てクリアした</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="-1" gid="004">
+  <name>ABILITY MASTER</name>
+  <detail>アビリティ効果が合計30%以上付いた状態でスキルを発動させた</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="-1" gid="004">
+  <name>思い出の一枚</name>
+  <detail>OP-EYEのフロントカメラを使ってツーショット写真を撮影した</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="-1" gid="005">
+  <name>EXアビリティクリエイター</name>
+  <detail>EXアビリティを付与したカードを4枚以上デッキに入れてバトルした</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="-1" gid="005">
+  <name>更に闘う者達</name>
+  <detail>Lv300以上の強敵とバトルした</detail>
+ </trophy>
+</trophyconf>

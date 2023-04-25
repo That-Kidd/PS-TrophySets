@@ -1,0 +1,84 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000000ec53f86df338abc01edd6cfc34d43897fe9e7ff1bbe1546f45a34bb5f8fcb345f62500abd0644726c8bd861d67dba7807958fb521478cab95dbae0fc76cf64d0f8537457f2cabc557801d2133856ee43dde882d7e14193998b560932e7c025d2a34261b5eca61a6b9b99e08ad3c2b3f13ad1f6538c665892dbb06dfccb124014721cc85dfe2fa1d1fe36cbab5da6cf4c638b7dd-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR07791_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>グリザイアの楽園 -LE EDEN DE LA GRISAIA-</title-name>
+ <title-detail>グリザイアの楽園 -LE EDEN DE LA GRISAIA-のトロフィーです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>コンプリート</name>
+  <detail>全てのトロフィーを獲得</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="S" pid="000">
+  <name>Bang The Jawohller</name>
+  <detail>雄二の弱さを知った</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="S" pid="000">
+  <name>タナトス・システム</name>
+  <detail>雄二が“タナトス・システム”になった一姫と再会した</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="S" pid="000">
+  <name>抜錨の時ぞ来る</name>
+  <detail>５人が美浜学園を巣立った</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="S" pid="000">
+  <name>死神誕生</name>
+  <detail>一姫が“タナトス・システム”になるまでの経緯を知った</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="S" pid="000">
+  <name>Open Fire.</name>
+  <detail>雄二を奪還した</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="000">
+  <name>再会、そして…</name>
+  <detail>一姫が合流した</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>星屑症候群</name>
+  <detail>雄二がテュポーンを倒した</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="G" pid="000">
+  <name>全世界の敵</name>
+  <detail>雄二がヒース・オスロになった</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="G" pid="000">
+  <name>グリザイアの楽園</name>
+  <detail>ブランエールの種をクリア</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>赤鬼</name>
+  <detail>天音が美浜学園にやってきた</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>なんかメンドクサイ金髪</name>
+  <detail>みちるが美浜学園にやってきた</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>機械仕掛けの虹の女神</name>
+  <detail>蒔菜が美浜学園にやってきた</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>普通の子</name>
+  <detail>幸が美浜学園にやってきた</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="G" pid="000">
+  <name>灰色の果樹園</name>
+  <detail>PROLOGUE DE LA GRISAIAをクリア</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="G" pid="000">
+  <name>アイドルかつ魔法かつ少女！</name>
+  <detail>アイドル魔法少女ちるちる☆みちる第１話をクリア</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="G" pid="000">
+  <name>シナリオコンプリート</name>
+  <detail>シナリオ進行度が全て100%になった状態でクリアした</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="G" pid="000">
+  <name>CGコンプリート</name>
+  <detail>CGギャラリーをコンプリート</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="G" pid="000">
+  <name>BGMコンプリート</name>
+  <detail>BGM鑑賞をコンプリート</detail>
+ </trophy>
+</trophyconf>

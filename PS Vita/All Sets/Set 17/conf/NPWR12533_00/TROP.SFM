@@ -1,0 +1,136 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000003c9d91a45614e26b6cbfcd1ee87fa848735233fc0618d2aed58481c008e62efbd84f1e6ffc7607ead75e1120bc41e66816011f0e333d4dfbd87f566f0fd790241bf1706ecb1150d0d326e0d7c6de812c50038a1bb562d3beeaf7cb1360c2ced0e48495268e481d55a985401317d1ec3575a0d6588c257326e8284e9139ffe4f8a55d3f48307ababf5ead69db025b3b3e76f868cb-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR12533_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>「戦極姫７～戦雲貫く紅蓮の遺志～」トロフィーセット</title-name>
+ <title-detail>「戦極姫７～戦雲貫く紅蓮の遺志～」のトロフィーセットです。頑張ってコンプリートしましょう。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>戦極７完全制覇！</name>
+  <detail>全てのトロフィーを獲得する</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>初めての絆</name>
+  <detail>いずれかの武将の忠誠度が『絆』に到達する</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>天下をつなぐ絆（序）</name>
+  <detail>『絆』に到達した武将が10名に到達する</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>天下をつなぐ絆（破）</name>
+  <detail>『絆』に到達した武将が30名に到達する</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>天下をつなぐ絆（急）</name>
+  <detail>『絆』に到達した武将が60名に到達する</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>天下をつなぐ絆（結）</name>
+  <detail>『絆』に到達した武将が100名に到達する</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>武将たちの記憶（初）</name>
+  <detail>史事回想の達成率を1％以上にする</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>武将たちの記憶（序）</name>
+  <detail>史事回想の達成率を10％以上にする</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>武将たちの記憶（破）</name>
+  <detail>史事回想の達成率を30％以上にする</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>武将たちの記憶（急）</name>
+  <detail>史事回想の達成率を60％以上にする</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>武将たちの記憶（結）</name>
+  <detail>史事回想の達成率を90％にする</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>武将たちの雄姿（初）</name>
+  <detail>彩画鑑賞の達成率を1％以上にする</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>武将たちの雄姿（序）</name>
+  <detail>彩画鑑賞の達成率を10％以上にする</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>武将たちの雄姿（破）</name>
+  <detail>彩画鑑賞の達成率を30％以上にする</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>武将たちの雄姿（急）</name>
+  <detail>彩画鑑賞の達成率を60％以上にする</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="G" pid="000">
+  <name>武将たちの雄姿（結）</name>
+  <detail>彩画鑑賞の達成率を90％にする</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>武田家ルートクリア！</name>
+  <detail>武田家ルートをクリアする</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>豊臣家ルートクリア！</name>
+  <detail>豊臣家（十勇士編）ルートをクリアする</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>真田家ルートクリア！</name>
+  <detail>真田家（幸村編）ルートをクリアする</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="000">
+  <name>徳川家ルートクリア！</name>
+  <detail>徳川家ルートをクリアする</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>織田家ルートクリア！</name>
+  <detail>織田家ルートをクリアする</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>上杉家ルートクリア！</name>
+  <detail>上杉家ルートをクリアする</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>伊達家ルートクリア！</name>
+  <detail>伊達家ルートをクリアする</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>大友家ルートクリア！</name>
+  <detail>大友家ルートをクリアする</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="G" pid="000">
+  <name>全シナリオクリア！</name>
+  <detail>全ての大名家シナリオをクリアした</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="S" pid="000">
+  <name>武将伝モードクリア！</name>
+  <detail>武将伝モードをクリアする</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="S" pid="000">
+  <name>群雄モードクリア！</name>
+  <detail>群雄モードを何れかの大名家でクリアする</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>祝！初勝利</name>
+  <detail>合戦手動で初めて勝利する</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>鍔迫り合い（甲）</name>
+  <detail>合戦手動で20回勝利する</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="S" pid="000">
+  <name>鍔迫り合い（乙）</name>
+  <detail>合戦手動で50回勝利する</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="S" pid="000">
+  <name>鍔迫り合い（丙）</name>
+  <detail>合戦手動で100回勝利する</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="S" pid="000">
+  <name>鍔迫り合い（丁）</name>
+  <detail>合戦手動で200回勝利する</detail>
+ </trophy>
+</trophyconf>

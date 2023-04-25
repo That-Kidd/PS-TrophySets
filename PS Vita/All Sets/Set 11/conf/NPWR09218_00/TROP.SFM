@@ -1,0 +1,120 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000015d4ccce6de242edcfb3b5e25cdb0b68dc1e91d28a44cf575c44e983dc880588330a70df3be932b11601531e4c2a3d801074bb7c4b8a302d6e8533c0528320ae529207d0a4632b86f508ef2c89faa6d6d6ae55065ddf23d1dbb49bacd0bf9ce0c5924f528ab68588bf9ea686df874e82adaf2c16c52af53f8210866f428d6d53492490757e6dba95a39afadfd499ba3fc94ac309-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR09218_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>STEINS;GATE 0</title-name>
+ <title-detail>『STEINS;GATE 0』のトロフィーセットです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>約束のあの場所へ</name>
+  <detail>STEINS;GATE 0をやり尽くす</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Open the NewGate</name>
+  <detail>STEINS;GATE 0を開始した</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="S" pid="000">
+  <name>零化域のミッシングリンク</name>
+  <detail>「零化域のミッシングリンク」をクリアした</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="S" pid="000">
+  <name>閉時曲線のエピグラフ</name>
+  <detail>「閉時曲線のエピグラフ」をクリアした</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="S" pid="000">
+  <name>亡失流転のソリチュード</name>
+  <detail>「亡失流転のソリチュード」をクリアした</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="S" pid="000">
+  <name>軌道秩序のエクリプス</name>
+  <detail>「軌道秩序のエクリプス」をクリアした</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="000">
+  <name>二律背反のデュアル</name>
+  <detail>「二律背反のデュアル」をクリアした</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="G" pid="000">
+  <name>盟誓のリナシメント</name>
+  <detail>「盟誓のリナシメント」をクリアした</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>双対福音のプロトコル</name>
+  <detail>「双対福音のプロトコル」をクリアした</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>永劫回帰のパンドラ</name>
+  <detail>「永劫回帰のパンドラ」をクリアした</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>弾性限界のリコグナイズ</name>
+  <detail>「弾性限界のリコグナイズ」をクリアした</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="G" pid="000">
+  <name>無限遠点のアルタイル</name>
+  <detail>「無限遠点のアルタイル」をクリアした</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>私秘鏡裏のスティグマ</name>
+  <detail>「私秘鏡裏のスティグマ」をクリアした</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>存在証明のオートマトン</name>
+  <detail>「存在証明のオートマトン」をクリアした</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>相互再帰のマザーグース</name>
+  <detail>「相互再帰のマザーグース」をクリアした</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="G" pid="000">
+  <name>交差座標のスターダスト</name>
+  <detail>「交差座標のスターダスト」をクリアした</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>レキを求めるモノたち</name>
+  <detail>CLEAR LISTを開いた</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>ヱを求めるモノたち</name>
+  <detail>CG LIBRARYを開いた</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>オトを求めるモノたち</name>
+  <detail>SOUND LIBRARYを開いた</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>ドウを求めるモノたち</name>
+  <detail>MOVIE LIBRARYを開いた</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>格物致知のメティス</name>
+  <detail>TIPS LISTを開いた</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>CGの達成率25%</name>
+  <detail>CGを25%見た</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>CGの達成率50%</name>
+  <detail>CGを50%見た</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>CGの達成率75%</name>
+  <detail>CGを75%見た</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="G" pid="000">
+  <name>CGの達成率100%</name>
+  <detail>全CGを見た</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="G" pid="000">
+  <name>洽覧深識のエンキ</name>
+  <detail>全TIPSを見た</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>共鳴のリアクション ランヴォア</name>
+  <detail>誰かからのメッセージに返信した</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>忘却のメッセージ ランヴォア</name>
+  <detail>既読スルーをしたままクリアした</detail>
+ </trophy>
+</trophyconf>

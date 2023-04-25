@@ -1,0 +1,132 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000003919158279b3c4cdb30865ac4231d34cf2faf5fd00ebc91a0a92747f6a6b3a198263ce8730efb0308302385204e75336b389236c0cdb3f89da0a71bac534ca7a6239dfc315ff528090a85302ee576f1a533138e43cdd9a6bb6987e81aac9ba1a9cf5bfd20740549ab8d06feb190cb00df696c845ab03a470092a90df8c5c5ca537f29c7c11d1809398226a672fdeb8f16f882158-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR17896_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Habroxia</title-name>
+ <title-detail>Trophies for Habroxia</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Habroxia Platinum</name>
+  <detail>Earn every other trophy</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Level 1 Complete</name>
+  <detail>Finish Level 1 and destroy the Boss</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Level 2 Complete</name>
+  <detail>Finish Level 2 and destroy the Boss</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Level 3 Complete</name>
+  <detail>Finish Level 3 and destroy the Boss</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>Level 4 Complete</name>
+  <detail>Finish Level 4 and destroy the Boss</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>Level 5 Complete</name>
+  <detail>Destroy the Level 5 Boss</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>Level 6 Complete</name>
+  <detail>Finish Level 6 with at least one astronaut rescued </detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>Level 7 Complete</name>
+  <detail>Finish Level 7 and destroy Boss</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>Level 8 Complete</name>
+  <detail>Finish Level 8 and destroy Boss</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>Level 9 Complete</name>
+  <detail>Finish Level 9 and destroy Boss</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>Level 10 Complete</name>
+  <detail>Destroy the Level 10 Boss</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>Level 11 Complete</name>
+  <detail>Finish Level 11 and destroy the Boss</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>Level 12 Complete</name>
+  <detail>Finish Level 12 with at least one astronaut rescued</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>Level 13 Complete</name>
+  <detail>Finish Level 13 and destroy the Boss</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>Level 14 Complete</name>
+  <detail>Finish Level 14 and destroy the Boss</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="G" pid="000">
+  <name>Level 15 Complete</name>
+  <detail>Finish the level 15 Boss</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>Friend Magnet</name>
+  <detail>Rescue all 6 of the astronauts in one run of levels 6 or 12</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>In for a penny</name>
+  <detail>Purchase an upgrade for the ship</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>No powerups needed</name>
+  <detail>Finish a level without collecting any powerups</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="000">
+  <name>Power Mad</name>
+  <detail>Purchase the final upgrade of any varierty</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>Shooter</name>
+  <detail>Destroy 500 enemy ships overall</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="G" pid="000">
+  <name>Destroyer</name>
+  <detail>Destroy 2500 enemy ships overall</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>Combo Appreciation</name>
+  <detail>Achieve a combo of 50</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>Swing and a miss</name>
+  <detail>Miss 50 enemies in one level</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>Mistakes add up</name>
+  <detail>Miss 500 enemies overall</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="G" pid="000">
+  <name>Wave Goodbye</name>
+  <detail>Make it to Wave 13 in Invasion Mode</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="G" pid="000">
+  <name>Safety First</name>
+  <detail>Survive for 180 seconds in Shield Maiden Mode</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="G" pid="000">
+  <name>Crowded Ship</name>
+  <detail>Rescue 8 astronauts in one run of Rescue Mode</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="G" pid="000">
+  <name>Collector</name>
+  <detail>Discover all 12 of the lost astronauts in levels 6 and 12</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="S" pid="000">
+  <name>Baking an egg</name>
+  <detail>Find the Perils of Baking easter egg on Level 14</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>Evasive Character</name>
+  <detail>Finish a level without taking damage</detail>
+ </trophy>
+</trophyconf>

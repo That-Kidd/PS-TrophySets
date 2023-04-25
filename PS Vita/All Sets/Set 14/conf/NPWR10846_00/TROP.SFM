@@ -1,0 +1,120 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000448626169f1abe36c9a1dc80fdb41a682c9e477e70086e1e97e66a73ade652db0a0bca2e4c3be47545bd43ec9592fcddabd0413c76a49528f1c52cfec387a8bdadebc8ef0f4034da16ab206a7af597f92429bacc1627b3d31fb36fa134c990c01c9605a2a9498e1b277e3c5750a23ae347ff5d0546a49d274983c776a4e7a3782fb90c21f249393f04e60862b408600f9cc5cc12-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR10846_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>STEINS;GATE 0</title-name>
+ <title-detail>『STEINS;GATE 0』의 트로피 세트입니다.</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>약속의 그 장소로</name>
+  <detail>STEINS;GATE 0를 완료했다</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Open the NewGate</name>
+  <detail>STEINS;GATE 0를 시작했다</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="S" pid="000">
+  <name>영화역의 미싱링크</name>
+  <detail>「영화역의 미싱링크」를 클리어했다</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="S" pid="000">
+  <name>폐시곡선의 에피그래프</name>
+  <detail>「폐시곡선의 에피그래프」를 클리어했다</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="S" pid="000">
+  <name>망실유전의 솔리튜드</name>
+  <detail>「망실유전의 솔리튜드」를 클리어했다</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="S" pid="000">
+  <name>궤도질서의 이클립스</name>
+  <detail>「궤도질서의 이클립스」를 클리어했다</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="000">
+  <name>이율배반의 듀얼</name>
+  <detail>「이율배반의 듀얼」을 클리어했다</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="G" pid="000">
+  <name>맹세의 리나시멘토</name>
+  <detail>「맹세의 리나시멘토」를 클리어했다</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>쌍대복음의 프로토콜</name>
+  <detail>「쌍대복음의 프로토콜」을 클리어했다</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>영겁회귀의 판도라</name>
+  <detail>「영겁회귀의 판도라」를 클리어했다</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>탄성한계의 리코그나이즈</name>
+  <detail>「탄성한계의 리코그나이즈」를 클리어했다</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="G" pid="000">
+  <name>무한원점의 알타이르</name>
+  <detail>「무한원점의 알타이르」를 클리어했다</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>사비경리의 스티그마</name>
+  <detail>「사비경리의 스티그마」를 클리어했다</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>존재증명의 오토마톤</name>
+  <detail>「존재증명의 오토마톤」을 클리어했다</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>상호재귀의 마더구스</name>
+  <detail>「상호재귀의 마더구스」를 클리어했다</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="G" pid="000">
+  <name>교차좌표의 스타더스트</name>
+  <detail>「교차좌표의 스타더스트」를 클리어했다</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>이력을 추구하는 자들</name>
+  <detail>CLEAR LIST를 개방했다</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>그림을 추구하는 자들</name>
+  <detail>CG LIBRARY를 개방했다</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>소리를 추구하는 자들</name>
+  <detail>SOUND LIBRARY를 개방했다</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>영상을 추구하는 자들</name>
+  <detail>MOVIE LIBRARY를 개방했다</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>격물치지의 메티스</name>
+  <detail>TIPS LIST를 개방했다</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>CG 달성률 25%</name>
+  <detail>CG를 25% 보았다</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>CG 달성률 50%</name>
+  <detail>CG를 50% 보았다</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>CG 달성률 75%</name>
+  <detail>CG를 75% 보았다</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="G" pid="000">
+  <name>CG 달성률 100%</name>
+  <detail>모든 CG를 보았다</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="G" pid="000">
+  <name>흡람심식의 에다</name>
+  <detail>모든 TIPS를 보았다</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>공명의 리액션 램보어</name>
+  <detail>누군가에게 메시지를 답장했다</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>망각의 메시지 램보어</name>
+  <detail>메시지를 읽고 답장을 하지 않은 채로 클리어 했다</detail>
+ </trophy>
+</trophyconf>

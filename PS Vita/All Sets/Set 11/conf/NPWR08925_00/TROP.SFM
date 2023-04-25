@@ -1,0 +1,132 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000004c7649813ab1d29fe5262210c85b5db7c233b0a5620fad92bcc7af76f188787cd61814d1dae2e4a9d4a6e9edd3e2edd13d80419d235c5b2a9ca25d254d9082bb749a684eef96d07627c82eff75d11e1d49e7176c8db94a61cd2686725ac541975bfbc39738006568da2031972b883418b4244d3b522b3b1c7a7442304fff43be80ea4d299bdf7d866491aa6de7ba9f41c3d735c7-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR08925_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Dungeon Travelers 2</title-name>
+ <title-detail>Dungeon Travelers 2 Trophy Set</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Master of the Royal Library</name>
+  <detail>Acquire all trophies.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>Advanced Class</name>
+  <detail>Level up to an advanced class.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>Monster Obliterator</name>
+  <detail>Defeat 20,000 monsters.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>Legendary Forger</name>
+  <detail>Enchant a piece of equipment to&#x0a;max rank at the Blacksmith Shop.</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="G" pid="000">
+  <name>We Need to Go Deeper!</name>
+  <detail>Unlock the Royal Library Depths.</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="G" pid="000">
+  <name>Where is Your God Now?</name>
+  <detail>Defeat the Demon God.</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="000">
+  <name>The Good Samara-tan</name>
+  <detail>Unlock the Samara Passage.</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>Tree's Company!</name>
+  <detail>Unlock the Giant Tree of Tver.</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>Use It or Rousset</name>
+  <detail>Unlock the Rousset Imperial Villa.</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>Life On Mars-ala?</name>
+  <detail>Unlock the Marsala Onsen.</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>Sopping Wet</name>
+  <detail>Unlock the Underground Waterway.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>Monster Exterminator</name>
+  <detail>Defeat 5,000 monsters.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>Intermediate Class</name>
+  <detail>Level up to an intermediate class.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>Team Play</name>
+  <detail>Use a joint skill.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>Solidarity</name>
+  <detail>Activate a party skill.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>We've Only Just Begun</name>
+  <detail>Reach client level 3 at the Quest Desk.</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>That's a Wrapp!</name>
+  <detail>Unlock the Temple of Wrappl.</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>Pie in the Sky</name>
+  <detail>Unlock the Tower of Piertan.</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>Mo' Catacombs, Mo' Problems</name>
+  <detail>Unlock the Mostar Catacombs.</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>Shahr-ing is Caring</name>
+  <detail>Unlock the Khorramshahr Village.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>Monster Suppressor</name>
+  <detail>Defeat 100 monsters.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>Monster Annihilator</name>
+  <detail>Defeat 500 monsters.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>Monster Decimator</name>
+  <detail>Defeat 1,000 monsters.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>Stop, Hammer Time</name>
+  <detail>Enchant a piece of equipment at the&#x0a;Blacksmith Shop.</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>Portal to the Ramen Dimension</name>
+  <detail>Eat at the Ramen Shop.</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>I Scream for Ice Cream</name>
+  <detail>Eat at the Ice Cream Shop.</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>Begone, Foul One!</name>
+  <detail>Create a Sealbook.</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>Violent Creature, Return to My Book!</name>
+  <detail>Create a Grand Sealbook.</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>One Good Deed a Day</name>
+  <detail>Complete a quest.</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>Penny Pincher</name>
+  <detail>Acquire 10,000 gold.</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>Filthy Rich</name>
+  <detail>Acquire 100,000 gold.</detail>
+ </trophy>
+</trophyconf>

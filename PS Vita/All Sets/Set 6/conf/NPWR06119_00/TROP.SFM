@@ -1,0 +1,52 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000045a8b6c108d139737a1cc64d8acfc58fadb3fb7033f37072081635e4afb6a3a68b474dd0470c4a0316f8c9c0706d8e7707c049ef3fab0990fe056c5876f8ea32183b36a58d8e17655b07e948dd9999f0c5e2f2ccfea6acc51d9442cc52ddc64586146a5bfb0486310f5a1a96c5b879a071bf8c92337919486c117fc91e076736a1c59c41aff75f567565a8aaf6bd0e04faf41062-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR06119_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>この歌が終わったら</title-name>
+ <title-detail>この歌が終わったら・トロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>はじめまして</name>
+  <detail>初めてゲームを起動しました。</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>『起』の章</name>
+  <detail>『起』の章を開始しました。</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>『承』の章</name>
+  <detail>『承』の章を開始しました。</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>『転』の章</name>
+  <detail>『転』の章を開始しました。</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>『結』の章</name>
+  <detail>『結』の章を開始しました。</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="-1">
+  <name>全員脱出</name>
+  <detail>全員で脱出しました。</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="-1">
+  <name>藻との未来</name>
+  <detail>藻と生還しました。</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="-1">
+  <name>響との未来</name>
+  <detail>響と生還しました。</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="-1">
+  <name>朱音との未来</name>
+  <detail>朱音と生還しました。</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="-1">
+  <name>飛鳥との未来</name>
+  <detail>飛鳥と生還しました。</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="-1">
+  <name>それぞれの未来へ</name>
+  <detail>藻、響、朱音、飛鳥のエンディングをすべて見ました。</detail>
+ </trophy>
+</trophyconf>

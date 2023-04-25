@@ -1,0 +1,92 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000091f1c605080a24523c80836b47790d3e780186e8daf4de7f1ad79a3adeca9b84c0934d5b050e1f3e80837754267f76f767818374a9bd3acce9437909dd767af5b94bcc6ef9031776b788be1ecb1494e9e38819fef4b126a33484f74f713367fa53a3934e6bae881a3f088fa7cd9484e7f9eee71027879839f4dfdf2f6a9fe85b0009840bfdae7ebd1138dd2a2f4a23e8673eaa1-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR18384_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Kid Tripp</title-name>
+ <title-detail>Kid Tripp</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Grandmaster</name>
+  <detail>Earn every trophy</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Fun In The Sun</name>
+  <detail>Complete World 1</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>Spelunker</name>
+  <detail>Complete World 2</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>Below Zero</name>
+  <detail>Complete World 3</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>The End</name>
+  <detail>Complete the game</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>Plenty To Spare</name>
+  <detail>Hold 15 lives at once</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>I'm Rich!</name>
+  <detail>Hold 1000 coins at once</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>Wet Feet</name>
+  <detail>Fall in the water and survive</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>Cheating Death</name>
+  <detail>Fall off the bottom of the level and survive</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>Olympian</name>
+  <detail>Earn a gold medal in every level</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>Skilled</name>
+  <detail>Complete the game using fewer than 500 lives</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>Expert</name>
+  <detail>Complete the game using fewer than 100 lives</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>Master</name>
+  <detail>Complete the game without using a continue</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>Proficiently Evading Testy Animals</name>
+  <detail>Complete a level without harming any baddies</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>Coin Collector</name>
+  <detail>Earn a gold medal</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="G" pid="000">
+  <name>Flawless</name>
+  <detail>Complete the game without losing a life</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="G" pid="000">
+  <name>Extreme Efficiency</name>
+  <detail>Complete the game using no more than 1 stone</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="G" pid="000">
+  <name>Beat The Developer - Part 1</name>
+  <detail>Complete the game faster than Mick Waites (5m 59.93s)</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="G" pid="000">
+  <name>Beat The Developer - Part 2</name>
+  <detail>Complete the game with more coins than Mick Waites (3266)</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Graduate</name>
+  <detail>Complete the tutorial</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>No Time For Caution</name>
+  <detail>Complete the game without ever walking</detail>
+ </trophy>
+</trophyconf>

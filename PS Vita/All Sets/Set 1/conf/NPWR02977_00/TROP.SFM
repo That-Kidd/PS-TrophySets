@@ -1,0 +1,140 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000032923a22bbaa1228a2f2fb4081d595b58242592e528d1f3a51a82521dee40341720c205f4b1be6b3d871399de2f7d27d0479f03a2f89b5e095487353ddc9f28cc4f50ed56afb6d53353360d17711cfc02fdbf38db23b4eceb2207abcc13f11729ee50986df13a6d223aa7e6a917ecb6ff5364585898909bcc6b4c7a3df7edb09002d1dcfe2745273c9b55cf2a505e14009532a7a-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR02977_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Wanted Corp.</title-name>
+ <title-detail>Wanted Corp.</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Legendary hunter</name>
+  <detail>All trophies have been unlocked.&#x0a;&#x0a;</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>Mission 1: Pacified zone!</name>
+  <detail>Successfully complete mission 1.&#x0a;</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>Mission 2: Pacified zone!</name>
+  <detail>Successfully complete mission 2.&#x0a;</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>Mission 3: Pacified zone!</name>
+  <detail>Successfully complete mission 3.&#x0a;</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="G" pid="000">
+  <name>In the can King Kong!</name>
+  <detail>Capture Big Monkey Grunk and transfer him to Wanted Corp.&#x0a;</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>Mission 5: Pacified zone!</name>
+  <detail>Successfully complete mission 5.&#x0a;</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>Mission 6: Pacified zone!</name>
+  <detail>Successfully complete mission 6.&#x0a;</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>Mission 7: Pacified zone!</name>
+  <detail>Successfully complete mission 7.&#x0a;</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="G" pid="000">
+  <name>Disbanded sect</name>
+  <detail>Capture Barghest and transfer her to Wanted Corp.&#x0a;</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>Back in jail</name>
+  <detail>Capture a fugitive and transfer him to Wanted Corp.&#x0a;</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>True or false?</name>
+  <detail>First archive found.&#x0a;</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>Healer</name>
+  <detail>Give 50% of life to your teammate with INCANDESCENCE spell.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>First aid</name>
+  <detail>Pick up a fallen teammate.&#x0a;</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>Back to the front</name>
+  <detail>Use a teleportation terminal to send back a teammate from an arena.&#x0a;</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>Casual buyer</name>
+  <detail>1st purchase from the store.&#x0a;</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>Deadly blow</name>
+  <detail>Kill a fugitive with a tank.&#x0a;</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Jaws</name>
+  <detail>Dodge the attack of a codilus.&#x0a;</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>A safer world</name>
+  <detail>Capture 100 fugitives.&#x0a;</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>Planet at peace</name>
+  <detail>Capture 200 fugitives.&#x0a;</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Diamond dust</name>
+  <detail>Transform a frozen fugitive into diamond dust with Maddogg.&#x0a;</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>Chef's skewer</name>
+  <detail>Get a bonus of more than 5.000 credits with a series of captures.&#x0a;</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>Royal skewer</name>
+  <detail>Get a bonus of more than 10.000 credits with a series of captures.&#x0a;</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>Tri-band</name>
+  <detail>Arrest a fugitive with a ring after 3 successive bounces.&#x0a;</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>Spring cleaning</name>
+  <detail>Complete a Barghest arena before time runs out.&#x0a;</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>Group rate</name>
+  <detail>Kill three fugitives with a single grenade.&#x0a;</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="S" pid="000">
+  <name>Untouchable</name>
+  <detail>Complete a mission without getting hit.&#x0a;</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="S" pid="000">
+  <name>Perfectionist</name>
+  <detail>Purchase all the upgrades of a weapon or power.&#x0a;</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="S" pid="000">
+  <name>Money travels</name>
+  <detail>Open all the briefcases of a level.&#x0a;</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="S" pid="000">
+  <name>Backlash</name>
+  <detail>Destroy a sentry gun.&#x0a;</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="S" pid="000">
+  <name>Pay day</name>
+  <detail>Exceed 500.000 credits during a mission.&#x0a;</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="G" pid="000">
+  <name>Crime doesn't pay</name>
+  <detail>Exceed 800.000 credits during a mission.&#x0a;</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="G" pid="000">
+  <name>Nerd fighter</name>
+  <detail>Collect all the game’s archives. &#x0a;</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="G" pid="000">
+  <name>Shopaholic</name>
+  <detail>Buy all the store’s upgrades.&#x0a;</detail>
+ </trophy>
+</trophyconf>

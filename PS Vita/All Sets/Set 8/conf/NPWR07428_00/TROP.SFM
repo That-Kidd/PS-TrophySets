@@ -1,0 +1,56 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000306b9ae0a6c906006c864e307e8e96af1a3db2678bea3585e42553593d9c6225cc043510339e209028236a922f5235a2f5c58f939bca168b2547b72012db220005c9069e19f68479c0f429daaa76e1c37cf16004329a1c9388c4a16e89847604ff74769e27398bdaeb19341d8798a3eb4c86132d7b244ea7e62f08a709080b57348ace30da4e8468ba70f13c153d170d875fb290-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR07428_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Reel Fishing: Master's Challenge</title-name>
+ <title-detail>Reel Fishing: Master's Challenge Trophy Set</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Completed Chapter 1 Summer</name>
+  <detail>Story: Complete Chapter 1</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Completed Chapter 2 Fall</name>
+  <detail>Story: Complete Chapter 2</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Completed Chapter 3 Winter</name>
+  <detail>Story: Complete Chapter 3</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Completed Chapter 4 Spring</name>
+  <detail>Story: Complete Chapter 4</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Completed Last Chapter</name>
+  <detail>Story: Complete Last Chapter</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Lure and Bait Collector</name>
+  <detail>Got all the lures and baits.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Rod Collector</name>
+  <detail>It's just a bronze, but it's out of sight</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Aquarium Collector</name>
+  <detail>Got all the aquarium items.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="-1">
+  <name>Genius Fisherman</name>
+  <detail>Received all As in missions.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="-1">
+  <name>Big Haul</name>
+  <detail>Caught 300 fish.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="-1">
+  <name>Collector Master</name>
+  <detail>Got all the items.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="-1">
+  <name>Legendary Fisherman</name>
+  <detail>Caught all fish in all sizes.</detail>
+ </trophy>
+</trophyconf>

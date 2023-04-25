@@ -1,0 +1,60 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000e2d379b19502ac025941a26fa19d12c48cfe9b6d49433432755aa9d01440bcd147c461eb0797ee52001067d1108e9021aa4d6a9231b95c17ad05d9eb1d71e8bd3142885e86b18ad7249c8d04017ae34d1d668ce4cdd4117322509d68d4bdc648dbdaab0e44b763eb315d75ebf636f8b77058938d0d0f4cfec4adc7c7d178901a88f5981f6a7c5d67fb8a457a093171fd3bcbfa30-->
+<trophyconf version="1.1" platform="psp2">
+ <npcommid>NPWR03445_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Puzzle by Nikoli V Slitherlink</title-name>
+ <title-detail>A trophy set for "Puzzle by Nikoli V Slitherlink". Complete puzzles to get all the trophies! </title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Paused a puzzle 50 times!</name>
+  <detail>Paused a puzzle more than 50 times</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Quit a puzzle 50 times!</name>
+  <detail>Quit a puzzle more than 50 times</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Used "delete" 100 times!</name>
+  <detail>Used the delete function more than 100 times</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Read all the guides!</name>
+  <detail>Read all game guides</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Played for more than 24 hours!</name>
+  <detail>Total play time exceeded 24 hours</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Used "REDO" 100 times!</name>
+  <detail>Used the redo function more than 100 times</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Used "UNDO" 100 times!</name>
+  <detail>Used the undo function more than 100 times</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Cleared 10 puzzles!</name>
+  <detail>Cleared 10 "Slitherlink" puzzles</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Cleared 20 puzzles!</name>
+  <detail>Cleared 20 "Slitherlink" puzzles</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>Cleared 30 puzzles!</name>
+  <detail>Cleared 30 "Slitherlink" puzzles</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>Cleared 40 puzzles!</name>
+  <detail>Cleared all "Slitherlink" puzzles</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="-1">
+  <name>Cleared all puzzles!</name>
+  <detail>Cleared all "Slitherlink" puzzles</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="-1">
+  <name>Cleared 15 puzzles in a row on shuffle!</name>
+  <detail>Cleared 15 puzzles in a row on shuffle</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,112 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000007be4c2da95faa92636d8ea505423bd56e40c7176537d501724549aa2a40f50ea59eb326b1d28a1867ac4d1dbcbcc414d15ab814118c4af9621aa42fda3406ce2ffc5abe9b9e961f512e9428c17f106789cc00f68df27caf992e5e4991bb221335b15b5b136db2e5a698bd96c49b90dbf1d353a5ec966c647dafd2a0413807a155a1fa3199229f09194c8204054f64910a04fcf2f-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR09403_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>LOVE：QUIZ～恋する乙女のファイナルアンサー～</title-name>
+ <title-detail>LOVE：QUIZ・トロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Complete of LOVE:QUIZ</name>
+  <detail>全てのトロフィーを獲得した</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>ミカゲ　GAME OVERエンドクリア</name>
+  <detail>ミカゲ　GAME OVERエンドをクリアした</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>ハヅキ　GAME OVERエンドクリア</name>
+  <detail>ハヅキ　GAME OVERエンドをクリアした</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>トワダ　GAME OVERエンドクリア</name>
+  <detail>トワダ　GAME OVERエンドをクリアした</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>シノ　GAME OVERエンドクリア</name>
+  <detail>シノ　GAME OVERエンドをクリアした</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>GAME OVERエンド初期三人コンプリート</name>
+  <detail>ミカゲ・ハヅキ・トワダのGAME OVERエンドをコンプリートした</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>GAME OVERエンドオールコンプリート</name>
+  <detail>全てのGAME OVERエンドをクリアした</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>ミカゲ　ハッピーエンドクリア</name>
+  <detail>ミカゲ　ハッピーエンドをクリアした</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>ハヅキ　ハッピ－エンドクリア</name>
+  <detail>ハヅキ　ハッピ－エンドをクリアした</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>トワダ　ハッピ－エンドクリア</name>
+  <detail>トワダ　ハッピ－エンドをクリアした</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>シノ　ハッピ－エンドクリア</name>
+  <detail>シノ　ハッピ－エンドをクリアした</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>ハッピーエンド初期三人コンプリート</name>
+  <detail>ミカゲ・ハヅキ・トワダのハッピーエンドをコンプリートした</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>ハッピーエンドオールコンプリート</name>
+  <detail>全てのハッピーエンドをクリアした</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="000">
+  <name>MEMORIAL　フルコンプリート</name>
+  <detail>MEMORIALを全て解放した</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="000">
+  <name>GALLERY　フルコンプリート</name>
+  <detail>GALLERYを全て解放した</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="G" pid="000">
+  <name>Beginning of 『LOVE:QUIZ』</name>
+  <detail>Beginning of 『LOVE:QUIZ』をクリアした</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>LOVE:QUIZ sideMクリア</name>
+  <detail>LOVE:QUIZ sideMをクリアした</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>LOVE:QUIZ sideHクリア</name>
+  <detail>LOVE:QUIZ sideHをクリアした</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>LOVE:QUIZ sideTクリア</name>
+  <detail>LOVE:QUIZ sideTをクリアした</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="000">
+  <name>LOVE:QUIZ sideSクリア</name>
+  <detail>LOVE:QUIZ sideSをクリアした</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>ミカゲアフターストーリークリア</name>
+  <detail>ミカゲアフターストーリーをクリアした</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>ハヅキアフターストーリークリア</name>
+  <detail>ハヅキアフターストーリーをクリアした</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>トワダアフターストーリークリア</name>
+  <detail>トワダアフターストーリーをクリアした</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>シノアフターストーリークリア</name>
+  <detail>シノアフターストーリーをクリアした</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="G" pid="000">
+  <name>Complete of Special story</name>
+  <detail>全てのSpecial storyをクリアした</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="G" pid="000">
+  <name>Master of LOVE:QUIZ</name>
+  <detail>クイズでチーズを20個集めた</detail>
+ </trophy>
+</trophyconf>

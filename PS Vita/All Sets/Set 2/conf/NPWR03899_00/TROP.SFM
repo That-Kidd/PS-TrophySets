@@ -1,0 +1,56 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000008aa9911807791ce9151b036053dcd1beb9310d290521fda9fbf973e59f15e15c99da310ea10e38ac0d18cad86b5563de6501ccbfa037e8d17589195268942670720cc73b0afcf3ee1b08950223d620f258186803fb2374b37788f27bf975964d0483eebbc908383e470b0f0cfd92e52557aa9f5ff4fe8b1b04eb7896795fce3b40ce8ee5965e066133f949b76c4444e25f170a2e-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR03899_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>A-men 2</title-name>
+ <title-detail>A-men 2</title-detail>
+ <trophy id="000" hidden="no" ttype="G" pid="-1">
+  <name>Game Master</name>
+  <detail>Complete all missions in the Night Missions, in the Suburbs and in the Hidden Labs with S rank.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="-1">
+  <name>Nightmaster</name>
+  <detail>Complete all missions in the Night Missions with S rank.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Nightlander</name>
+  <detail>Complete all missions in the Night Missions without dying</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="-1">
+  <name>Night Rider</name>
+  <detail>Complete all missions in the Night Missions in less then 60 minutes.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Collector</name>
+  <detail>Find all A-cogs in the Night Missions</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="-1">
+  <name>King of the Hill</name>
+  <detail>Complete all missions in the Suburbs with S rank.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Sapper </name>
+  <detail>Disarm 50 mines.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Medusa </name>
+  <detail>Fear to death 50 enemies.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Brutus </name>
+  <detail>Turn off 30 enemies.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>Cog maniack!</name>
+  <detail>Find all A-cogs in the Suburbs.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="-1">
+  <name>Lab geek</name>
+  <detail>Complete all missions in the Hidden Labs with S rank.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="-1">
+  <name>Hidden Cog</name>
+  <detail>Find all A-Cogs in the Hidden Labs.</detail>
+ </trophy>
+</trophyconf>

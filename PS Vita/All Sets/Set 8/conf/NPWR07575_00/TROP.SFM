@@ -1,0 +1,160 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000004b111fc8c0b0761c114824153a03a442445b223f769536ed85b2e36268846665235633ae787e59ecee569b8902134bc153215b419b0e748cbf8e9ac7daa4db91e5b60539149e639c8d0431c60331c80f98e057c12d7221e42b089e55a0b29971c28f9b97dbf8e6aa364834760782bc53e50df2f35b9989615269d71175fb654bed9b5aa077f73accc27918583fde7084728b26a1-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR07575_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>M3～ソノ黑キ鋼～///MISSION MEMENTO MORI</title-name>
+ <title-detail>M3～ソノ黑キ鋼～///MISSION MEMENTO MORIのトロフィーセットです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>過去現在未来</name>
+  <detail>全てのトロフィーを獲得した</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>初メテノ感情入力</name>
+  <detail>初めて感情入力を行った</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="S" pid="000">
+  <name>喜ビノ達人</name>
+  <detail>１プレイの間で感情入力「喜」を１５回選択した</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="S" pid="000">
+  <name>怒リノ達人</name>
+  <detail>１プレイの間で感情入力「怒」を１５回選択した</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="S" pid="000">
+  <name>哀シミノ達人</name>
+  <detail>１プレイの間で感情入力「哀」を１５回選択した</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="S" pid="000">
+  <name>悩ミノ達人</name>
+  <detail>１プレイの間で感情入力「悩」を１５回選択した</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="000">
+  <name>無視ノ達人</name>
+  <detail>１プレイの間で感情入力を１５回無視した</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>第１ノ犠牲者</name>
+  <detail>イワトがチームから外れた</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>第２ノ犠牲者</name>
+  <detail>エミルがチームから外れた</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>第３ノ犠牲者</name>
+  <detail>ササメがチームから外れた</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="000">
+  <name>ササメノ告白</name>
+  <detail>ササメの隠しエピローグを見た</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>エミルノ想イ</name>
+  <detail>エミルの隠しエピローグを見た</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="B" pid="000">
+  <name>ヘイトノ変化</name>
+  <detail>ヘイトの隠しエピローグを見た</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="000">
+  <name>模擬戦ノ勝者</name>
+  <detail>模擬戦で勝利した</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>模擬戦ノ達人</name>
+  <detail>模擬戦で使用可能な全てのコマンドを１回実行した</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>人任セ</name>
+  <detail>１プレイの間で戦闘中にＡＵＴＯコマンドを２５回実行した</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="S" pid="000">
+  <name>人任セノ達人</name>
+  <detail>１プレイの間で戦闘中にＡＵＴＯコマンドを５０回実行した</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>一般旅行者</name>
+  <detail>１プレイの間で戦闘中に移動コマンドを２５回実行した</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="S" pid="000">
+  <name>旅行ノ達人</name>
+  <detail>１プレイの間で戦闘中に移動コマンドを５０回実行した</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>助ケ合イ</name>
+  <detail>１プレイの間で戦闘中に援護コマンドを２５回実行した</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="S" pid="000">
+  <name>助ケ合イノ達人</name>
+  <detail>１プレイの間で戦闘中に援護コマンドを５０回実行した</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>出番待チ</name>
+  <detail>１プレイの間で戦闘中に待機コマンドを２５回実行した</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="S" pid="000">
+  <name>出番待チノ達人</name>
+  <detail>１プレイの間で戦闘中に待機コマンドを５０回実行した</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="S" pid="000">
+  <name>共信ノ達人</name>
+  <detail>戦闘中にＡＳＰを１回発動させた</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="S" pid="000">
+  <name>信頼ノ証</name>
+  <detail>１プレイの間で戦闘中に１０回援護された</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="S" pid="000">
+  <name>イマシメ狩人</name>
+  <detail>１プレイの間でイマシメを２０体倒した</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="G" pid="000">
+  <name>瀬戸際ノ戦イ</name>
+  <detail>戦闘を残り時間３０秒以下でクリアした</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>動キ出ス運命</name>
+  <detail>第１章「動キ出ス運命」をクリアした</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>死神ノ胎動</name>
+  <detail>第２章「死神ノ胎動」をクリアした</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>過去カラノ呼ビ声</name>
+  <detail>第３章「過去カラノ呼ビ声」をクリアした</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>無明領域ヘ招待</name>
+  <detail>第４章「無明領域ヘ招待」をクリアした</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>真実ヘ続ク扉</name>
+  <detail>第５章「真実ヘ続ク扉」をクリアした</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>忘却ノ島</name>
+  <detail>第６章「忘却ノ島」をクリアした</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>彷徨エル思イ</name>
+  <detail>第７章「彷徨エル思イ」をクリアした</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>動キ出ス時間</name>
+  <detail>第８章「動キ出ス時間」をクリアした</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>下級ノ収集者</name>
+  <detail>イベントＣＧを５０枚開放した</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="S" pid="000">
+  <name>中級ノ収集者</name>
+  <detail>イベントＣＧを１００枚開放した</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="G" pid="000">
+  <name>上級ノ収集者</name>
+  <detail>イベントＣＧを全て開放した</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,152 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000022c65345f513af136bbd8dd41f40ccaa541757c44c9551fd7d4166984c099c25e627f06ab2196e7ff5046fc8e60985a737c97622cbab03724c44491e5b381cf42134c3cef7accfc729ab345ac70ae86c2ea4edabf38d886079b1b6c249a6301aa8383f334634b7f1bcbffc6b2cbf3978d473e8390159fa589da950d4ec0753fc2a5822b4db0a8cd3a3fa19639f070df1e1e7878-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR13433_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Touhou Kobuto V: Burst Battle</title-name>
+ <title-detail>Touhou Kobuto V: Burst Battle Trophy Set</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>New Owner of the Scarlet Devil Mansion</name>
+  <detail>Proves that you earned all the trophies. Maybe you could run the Scarlet Devil Mansion...</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>First Decision</name>
+  <detail>Welcome! You got your first taste of victory.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Reimu's Solution</name>
+  <detail>Cleared Reimu Hakurei's story.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Marisa's Solution</name>
+  <detail>Cleared Marisa Kirisame's story.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>Lumia's Solution</name>
+  <detail>Cleared Lumia's story.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>Cirno's Solution</name>
+  <detail>Cleared Cirno's story.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>Meiling's Solution</name>
+  <detail>Cleared Meiling Hong's story.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>Patchouli's Solution</name>
+  <detail>Cleared Patchouli Knowledge's story.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>Sakuya's Solution</name>
+  <detail>Cleared Sakuya Izayoi's story.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>Remilia's Solution</name>
+  <detail>Cleared Remilia Scarlet's story.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>Flan's Solution</name>
+  <detail>Cleared Flandre Scarlet's story.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>Everyone's Solution</name>
+  <detail>Cleared the stories of Reimu, Marisa, Lumia, Cirno, Meiling, Patchouli, Sakuya, Remilia, and Flandre.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>First Synergy</name>
+  <detail>Won a match versus a human for the first time.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>Reimu's Commitment</name>
+  <detail>Beat 7 enemies in a row with Reimu Hakurei in Arcade Mode.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>Marisa's Commitment</name>
+  <detail>Beat 7 enemies in a row with Marisa Kirisame in Arcade Mode.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>Lumia's Commitment</name>
+  <detail>Beat 7 enemies in a row with Lumia in Arcade Mode.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Cirno's Commitment</name>
+  <detail>Beat 7 enemies in a row with Cirno in Arcade Mode.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Meiling's Commitment</name>
+  <detail>Beat 7 enemies in a row with Meiling Hong in Arcade Mode.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>Patchouli's Commitment</name>
+  <detail>Beat 7 enemies in a row with Patchouli Knowledge in Arcade Mode.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Sakuya's Commitment</name>
+  <detail>Beat 7 enemies in a row with Sakuya Izayoi in Arcade Mode.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>Remilia's Commitment</name>
+  <detail>Beat 7 enemies in a row with Remilia Scarlet in Arcade Mode.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>Flan's Commitment</name>
+  <detail>Beat 7 enemies in a row with Flandre Scarlet in Arcade Mode.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="G" pid="000">
+  <name>Everyone's Commitment</name>
+  <detail>Beat 7 enemies in a row with Reimu, Marisa, Lumia, Cirno, Meiling, Patchouli, Sakuya, Remilia, and Flandre in Arcade Mode.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>Reimu's Benefit</name>
+  <detail>Earned 1,000,000 points with Reimu Hakurei in Score Attack.</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>Marisa's Benefit</name>
+  <detail>Earned 1,000,000 points with Marisa Kirisame in Score Attack.</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="S" pid="000">
+  <name>Lumia's Benefit</name>
+  <detail>Earned 1,000,000 points with Lumia in Score Attack.</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="S" pid="000">
+  <name>Cirno's Benefit</name>
+  <detail>Earned 1,000,000 points with Cirno in Score Attack.</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="S" pid="000">
+  <name>Meiling's Benefit</name>
+  <detail>Earned 1,000,000 points with Meiling Hong in Score Attack.</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="S" pid="000">
+  <name>Patchouli's Benefit</name>
+  <detail>Earned 1,000,000 points with Patchouli Knowledge in Score Attack.</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="S" pid="000">
+  <name>Sakuya's Benefit</name>
+  <detail>Earned 1,000,000 points with Sakuya Izayoi in Score Attack.</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="S" pid="000">
+  <name>Remilia's Benefit</name>
+  <detail>Earned 1,000,000 points with Remilia Scarlet in Score Attack.</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="S" pid="000">
+  <name>Flan's Benefit</name>
+  <detail>Earned 1,000,000 points with Flandre Scarlet in Score Attack.</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="G" pid="000">
+  <name>Everyone's Benefit</name>
+  <detail>Earned 1,000,000 points with Reimu, Marisa, Lumia, Cirno, Meiling, Patchouli, Sakuya, Remilia, and Flandre in Score Attack.</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="G" pid="000">
+  <name>First Competitor</name>
+  <detail>End a round in a draw for the first time.</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="S" pid="000">
+  <name>Maid Trainee at the Scarlet Devil Mansion</name>
+  <detail>Won 3 times versus a human. Do your best to reach the top.</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="G" pid="000">
+  <name>Official Maid at the Scarlet Devil Mansion</name>
+  <detail>Won 10 times versus a human. You're a pro now! Aren't danmaku battles fun!?</detail>
+ </trophy>
+</trophyconf>

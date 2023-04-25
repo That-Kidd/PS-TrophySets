@@ -1,0 +1,164 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000005b8b4a5619a3dc4102a22ae49c54bbc3ef0dcbc6bef38390b1714d470d6c36cc4f112253646bd9d89ea3eee03b6f76407e9a79d7ef7f126bbfd00c80e3b3fb7b2ee4df1e6adca9500bf833c1ddc7fe2438c855dc87646d31d8604da25c4470bdc8fa41099bc502e8186345b325090750d4b9cb4c7a02e7495cf0de098f6f12bfcc1a8192cd5a162c6e3a738aaef77c594eb4186e-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR13192_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>とある魔術の電脳戦機</title-name>
+ <title-detail>とある魔術の電脳戦機トロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>オールクリア</name>
+  <detail>とある魔術の電脳戦機のトロフィーを全て取得した。</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>ファースト　ストーリークリア</name>
+  <detail>STORYのファーストでメインをクリアした。</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>セカンド　ストーリークリア</name>
+  <detail>STORYのセカンドでメインをクリアした。</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>サード　ストーリークリア</name>
+  <detail>STORYのサードでメインをクリアした。</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>フォース　ストーリークリア</name>
+  <detail>STORYのフォースでメインをクリアした。</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>フィフス　ストーリークリア</name>
+  <detail>STORYのフィフスでメインをクリアした。</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>背景　コンプリート</name>
+  <detail>パーソナルカードの背景を全て入手した。</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>称号　コンプリート</name>
+  <detail>パーソナルカードの称号を全て入手した。</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>勲章　コンプリート</name>
+  <detail>パーソナルカードの勲章を全て入手した。</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>リプレイ 再生</name>
+  <detail>リプレイを5回再生した。</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>Thank you for playing</name>
+  <detail>起動時間が10時間を超えた。</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>お金持ち</name>
+  <detail>リソースを300000入手した。</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>バーチャロンプロ</name>
+  <detail>プレイヤーレベルが20を超えた。</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="000">
+  <name>バーチャロンマスター</name>
+  <detail>プレイヤーレベルが50を超えた。</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>トレーニング　プレイ</name>
+  <detail>TRAININGをプレイした。</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>ネットワークプロ</name>
+  <detail>ランクポイントを3000ポイント溜めた。</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>ミッションプロ</name>
+  <detail>トータルミッションスコアを30000ポイント溜めた。</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>ブースト・ウェポン　マスター</name>
+  <detail>ブースト・ウェポンを100回以上使用した。</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>ポイント大量</name>
+  <detail>バトルで累計500ポイント獲得した。</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>オーバーキル</name>
+  <detail>敵をWreckedさせて1ラウンド勝利した。</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>完全試合</name>
+  <detail>ポイントを取られずに1ラウンド勝利した。</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>パーフェクト勝利</name>
+  <detail>RANK MATCHで敵を撃破して1ラウンド勝利した。</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>逆転勝利</name>
+  <detail>RANK MATCHで相手よりHPが低い状態でポイント勝利した。</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>ネットワークデビュー</name>
+  <detail>PLAYER ROOMでバトルを10回した。</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>ネットワークベテラン</name>
+  <detail>PLAYER ROOMでバトルを50回した。</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>協力プレイ</name>
+  <detail>協力ミッションを5回プレイした。</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>ランクマッチ初勝利</name>
+  <detail>RANK MATCHで1回バトルに勝利した。</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="S" pid="000">
+  <name>ランクマッチ 熟練者</name>
+  <detail>RANK MATCHで10回バトルに勝利した。</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>スタンダード　ハイスコア</name>
+  <detail>MISSIONのスタンダードバトルでダメージを受けずにクリアした。</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>チャレンジ　ハイスコア</name>
+  <detail>MISSIONのチャレンジバトルで相手に一度もラウンド勝利させずにクリアした。</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>デスマッチ　ハイスコア</name>
+  <detail>MISSIONのデスマッチでダメージを受けずに敵を破壊した。</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>ランダムミラーマッチ　ハイスコア</name>
+  <detail>MISSIONのランダムミラーマッチで60カウント以内にクリアした。</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>アーケードバトル　ハイスコア</name>
+  <detail>MISSIONのアーケードバトルでチューンアップを使用せずにクリアした。</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>ボスバトル　ハイスコア</name>
+  <detail>協力ミッションのボスバトルでピットインを行わずにクリアした。</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>デストラクション　ハイスコア</name>
+  <detail>MISSIONのデストラクションで全てのWAVEを30カウント以内でクリアした。</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>エクスプロージョン・コード　ハイスコア</name>
+  <detail>協力ミッションのエクスプロージョン・コードで相手に得点を与えずにクリアした。</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>キルアタック　ハイスコア</name>
+  <detail>MISSIONのキルアタックで制限時間まで生き残ってクリアした。</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="S" pid="000">
+  <name>ミッション　オールクリア</name>
+  <detail>ソロミッションと協力ミッションを全てクリアした。</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="G" pid="000">
+  <name>ミッション　コンプリート</name>
+  <detail>全てのミッションをSランクでクリアした。</detail>
+ </trophy>
+</trophyconf>

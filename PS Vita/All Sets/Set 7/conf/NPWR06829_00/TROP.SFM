@@ -1,0 +1,188 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000e8149bc2f6d3f8c068df1c04388183cc4d994c27c47d249f6bb9f562cd5208d0c425331b5a7ac7613899048f137d37c87b8be4b67c80b71d126c55d7cbb48bd5d65a6109cbc18cf18ac143002ad31d02789af9432dd647280ddb2239434117e7f46892ffdb9d38c576805816bda8d0358dd4710e0b02cf123cb0841edca295c7859660fc203f732bef4b733932a4aa31105a2e24-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR06829_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>HIDEBOH タップダンス HERO</title-name>
+ <title-detail>HIDEBOH タップダンス HEROのトロフィーアイコンです</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>君こそタップダンスHEROだ！</name>
+  <detail>全てのトロフィーを獲得した</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="G" pid="000">
+  <name>アルティメットタップダンサー</name>
+  <detail>アーケードモードの☆11譜面でランクSSを取る</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="G" pid="000">
+  <name>オールラウンダータップダンサー</name>
+  <detail>アーケードで全曲全譜面でランクSSを取る</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="G" pid="000">
+  <name>全楽曲を極めるタップダンサー</name>
+  <detail>アーケードで全曲ランクSSを獲得する(難易度不問)</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="S" pid="000">
+  <name>「楽しさ」を伝える者達</name>
+  <detail>ストーリーモードをクリアする</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="S" pid="000">
+  <name>すごいタップダンサー</name>
+  <detail>アーケードモードの☆7譜面でランクSSを取る</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="000">
+  <name>スーパータップダンサー</name>
+  <detail>アーケードモードの☆8譜面でランクSSを取る</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>スペシャルタップダンサー</name>
+  <detail>アーケードモードの☆9譜面でランクSSを取る</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>マーベラスタップダンサー</name>
+  <detail>アーケードモードの☆10譜面でランクSSを取る</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>ガンガン進むタップダンサー</name>
+  <detail>アーケードで5曲以上ランクSSを獲得する</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>パーフェクトプレー！</name>
+  <detail>ACHIEVEMENT100%を獲得する(曲・難易度不問)</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>全ての始まり</name>
+  <detail>アーケードで1曲クリアする(難易度不問)</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="B" pid="000">
+  <name>お好みの曲はありましたか？</name>
+  <detail>全曲ランクC以上を獲得する(難易度不問)</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="000">
+  <name>お好みの譜面はありましたか？</name>
+  <detail>全曲全譜面クリアする</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>いっしょに踊らないかい？</name>
+  <detail>ストーリーモードをプレイする</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>タップダンスHEROへの第一歩</name>
+  <detail>アーケードモードをプレイする</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>練習こそ世界一への近道</name>
+  <detail>チャプター1のSTEP1をクリアする</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>君ならできると思っていたよ。</name>
+  <detail>ステージ1をクリアする</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>３人ともいい調子だね。</name>
+  <detail>ステージ2をクリアする</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>ボクだってできるんだ！</name>
+  <detail>ステージ3をクリアする</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="000">
+  <name>このままがんばろう！</name>
+  <detail>ステージ4をクリアする</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>曲にノることも大事だよ</name>
+  <detail>ステージ5をクリアする</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="B" pid="000">
+  <name>君たちの“楽しい”って気持ちが伝わってくるよ！</name>
+  <detail>ステージ6をクリアする</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>やった！　ちゃんと踊れたよっ！</name>
+  <detail>ステージ7をクリアする</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="000">
+  <name>あたしが大切なのは…</name>
+  <detail>ステージ8をクリアする</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="B" pid="000">
+  <name>その“楽しい”って気持ちを忘れないで…</name>
+  <detail>ステージ9をクリアする</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>ちょっと、このダメロボ！　ふざけてるの！？</name>
+  <detail>ステージ10をクリアする</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="B" pid="000">
+  <name>おじょ－、ダンス…　バトル、まだ…　？…</name>
+  <detail>ステージ11をクリアする</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="B" pid="000">
+  <name>アンタたちのせいだったのね－－っ！！</name>
+  <detail>ステージ12をクリアする</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="B" pid="000">
+  <name>この“楽しさ”を…　みんなに伝わるように…</name>
+  <detail>ステージ13をクリアする</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="B" pid="000">
+  <name>…ついに出会えたね。　みんな、この最高の瞬間に…</name>
+  <detail>ステージ14をクリアする</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="B" pid="000">
+  <name>5級タップダンサー</name>
+  <detail>アーケードモードの☆1譜面でランクSSを獲得する</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="B" pid="000">
+  <name>3級タップダンサー</name>
+  <detail>アーケードモードの☆2譜面でランクSSを獲得する</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="B" pid="000">
+  <name>1級タップダンサー</name>
+  <detail>アーケードモードの☆3譜面でランクSSを獲得する</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="B" pid="000">
+  <name>三段タップダンサー</name>
+  <detail>アーケードモードの☆4譜面でランクSSを獲得する</detail>
+ </trophy>
+ <trophy id="035" hidden="yes" ttype="B" pid="000">
+  <name>なかなかやるタップダンサー</name>
+  <detail>アーケードモードの☆5譜面でランクSSを獲得する</detail>
+ </trophy>
+ <trophy id="036" hidden="yes" ttype="B" pid="000">
+  <name>かなり頑張っているタップダンサー</name>
+  <detail>アーケードモードの☆6譜面でランクSSを獲得する</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>鏡の世界にようこそ</name>
+  <detail>アーケードでミラーモードを使ってプレイする。</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>じっくり見たい派</name>
+  <detail>ギャラリーでタップダンスを見る</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="000">
+  <name>あなたはどの曲がお気に入りでしょうか？</name>
+  <detail>ギャラリーでBGMを聴く</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="B" pid="000">
+  <name>超絶足技は必見！</name>
+  <detail>ギャラリーで特典映像を見る</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="B" pid="000">
+  <name>何度もトライだ！</name>
+  <detail>評価D以下を獲得する</detail>
+ </trophy>
+ <trophy id="042" hidden="yes" ttype="B" pid="000">
+  <name>究極のタップダンサーへの第一歩</name>
+  <detail>アーケードで1曲以上ランクSSを獲得する(難易度不問)</detail>
+ </trophy>
+ <trophy id="043" hidden="yes" ttype="B" pid="000">
+  <name>2級タップダンサー</name>
+  <detail>アーケードで5曲以上ランクSSを獲得する(難易度不問)</detail>
+ </trophy>
+ <trophy id="044" hidden="yes" ttype="B" pid="000">
+  <name>初段タップダンサー</name>
+  <detail>アーケードで10曲以上ランクSSを獲得する(難易度不問)</detail>
+ </trophy>
+</trophyconf>

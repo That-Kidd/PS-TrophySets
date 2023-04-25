@@ -1,0 +1,152 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000af9cb05e1acb52b4766d10087625275c910891b39e2748b52052b2143c24d262adb05de5677ca64d06829e4e6b70110b33a8ad01ccf5cc9db2719e296915915efe6afab640429c55e6e200a2a2cef37fe6eda235c7bad0dddd258ae5f19c8e7cf68bc1b959dcfc1bd1a3364d305cd266740bbc2879850cccddffe9f1e76eacaf55969fc41a0c638ffc21713cf57e0046cff1de5b-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR04600_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Worms™ Revolution</title-name>
+ <title-detail>Worms™ Revolution</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Gusano ganador</name>
+  <detail>Desbloquea todos los trofeos.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Buen alumno</name>
+  <detail>Demuestra lo rápido que aprendes y completas todas las misiones del tutorial.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>El soldado</name>
+  <detail>Demuestra que tienes lo que hay que tener para completar todas las misiones del modo Campaña.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>Gusanator</name>
+  <detail>Mata a 300 gusanos enemigos en partidas por internet.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>Monstruo social</name>
+  <detail>Disfruta de la compañía de 20 jugadores en internet.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>Cuestión de clase</name>
+  <detail>Consigue todas las clases de gusanos (4 exploradores, 4 científicos y 4 fortachones).</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>Asesino acuático</name>
+  <detail>Mata 50 gusanos enviándolos al fondo del mar.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>Compañeros</name>
+  <detail>Gana 10 partidas con aliados por internet.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>Utensilios de la parte de arriba</name>
+  <detail>¿Estás hecho un maestro? Demuéstralo completando todas las misiones del modo Rompecabezas.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>Destructor</name>
+  <detail>¿500 puntos de daño en un solo turno? ¡Demuéstralo!</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>Grúa de demolición</name>
+  <detail>Destruye todos los tipos de objetos con física.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>Glu, glu, glu...</name>
+  <detail>Ve a nadar un rato... Un rato de 5 turnos.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>De uno en uno</name>
+  <detail>Empieza las cosas con buen pie y supera un nivel para un jugador.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>Asesino de exploradores</name>
+  <detail>Mata a 10 gusanos exploradores enemigos en partidas por internet.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>Asesino de soldados</name>
+  <detail>Mata a 10 gusanos soldados enemigos en partidas por internet.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>Asesino de fortachones</name>
+  <detail>Mata a 10 gusanos fortachones enemigos en partidas por internet.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Asesino de científicos</name>
+  <detail>Mata a 10 gusanos científicos enemigos en partidas por internet.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Aplastado</name>
+  <detail>Mata a un gusano enemigo aplastándolo con un objeto con física.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>¡Bum!</name>
+  <detail>Mata a un gusano con un objeto con física explosivo.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Equus asinus</name>
+  <detail>Usa el arma definitiva: el burro volador.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>¡Qué impertinente!</name>
+  <detail>Gana 5 partidas matando al último gusano con un empujón.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>Hogar, dulce hogar</name>
+  <detail>Participa en 10 partidas del modo Fuertes en el mismo fuerte.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>Tarzán</name>
+  <detail>Balancéate 5 veces con la soga sin tocar el suelo.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>Muerte desde el aire</name>
+  <detail>Mata a un gusano usando un arma lanzada desde el paracaídas.</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>Mi ametralladora, mi asesina</name>
+  <detail>Mata a 10 gusanos enemigos con la torreta ametralladora.</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="G" pid="000">
+  <name>Gusanicida</name>
+  <detail>Mata a 1.000 gusanos enemigos.</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>Cleptómano</name>
+  <detail>¡Sé avaricioso y recoge 100 cajas de armas u objetos!</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>Curandero</name>
+  <detail>Recoge 100 cajas de salud.</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>Minando la moral</name>
+  <detail>Lanza minas como si te fuera la vida en ello; 50 para ser exactos.</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="S" pid="000">
+  <name>Disputa en Marte</name>
+  <detail>Completa todas las misiones para un jugador del contenido descargable Marte.</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>Nuevo equipamiento</name>
+  <detail>Usa el Búfalo, la Pistola de veneno, el Ataque fulminante y el Ataque de cajas una vez.</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>Resucitador</name>
+  <detail>Resucita al menos a un gusano utilizando el Ataque fulminante.</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>Pisoteado</name>
+  <detail>Mata al menos a un gusano con el Búfalo.</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="S" pid="000">
+  <name>Robot de Marte</name>
+  <detail>Gana al menos 5 partidas online en Marte</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="G" pid="000">
+  <name>Misión impecable</name>
+  <detail>Completa las 5 campañas de Marte sin perder a un solo gusano.</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>Tesoro Escondido </name>
+  <detail>Conecta con un amigo y desbloquea un regalo en el área de tesoros.</detail>
+ </trophy>
+</trophyconf>

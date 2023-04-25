@@ -1,0 +1,44 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000defc566630a19b878e12bbac4a0e708bb7f764e08f587aa9567a447711d36d9f44446f34286b12748ed48fe96c1b225ff57d5a22016c77cd459b8c361f73d4e540b4a8e466997dcc150263c510d52d3fc64461547816ac73c3586b8c41084eb9ee805dd3c02c9bfb89d8390d07c40ccc7a0efcb68c3158f011a2371c7ba8fdec839b8059bba7ae11f8b61d53704d3133da44f5e9-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR10393_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Knock-Knock</title-name>
+ <title-detail>Trophy set for Knock-Knock</title-detail>
+ <trophy id="000" hidden="yes" ttype="G" pid="-1">
+  <name>Breaking the circle</name>
+  <detail>Chose to go into the woods</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="G" pid="-1">
+  <name>Pagurian</name>
+  <detail>Chose to lock The Lodger inside the cabin and remain hidden</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="-1">
+  <name>Weaving the story</name>
+  <detail>Remembered the story of the Lost Child</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>They are legion</name>
+  <detail>Entered ten haunters</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="-1">
+  <name>Knowing the flip side</name>
+  <detail>Saw all fragments of reality</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="-1">
+  <name>Nobody home</name>
+  <detail>Managed to hide succesfully ten times</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>How's Annie?</name>
+  <detail>Turned into a doppelganger</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Through the looking glass</name>
+  <detail>Entered a breach</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Busy with paperwork</name>
+  <detail>Found five diary pages</detail>
+ </trophy>
+</trophyconf>

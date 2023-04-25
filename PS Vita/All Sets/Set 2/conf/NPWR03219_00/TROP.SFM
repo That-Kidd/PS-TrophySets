@@ -1,0 +1,68 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000094d16e49943ece7e81ba851075f5b5bb6e04ea8789b2f4455f79fed793a39cd94c74932ee81cefd032f0587e55ae82c18fb1f63d361a95cbf59c3bf236dc05040a06677f1190fc71eb3846f9d5efad59edf83913b5459f5f06888647b42153f328f46dce97cc26afd2748ede8b1d36c963891bb0bd425407ba668d11a50b6a677e47a2e775917fbbdc53ada3477340524df44341-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR03219_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>KickBeat</title-name>
+ <title-detail>Reclaim the Sphere of Music with your Kung Fu!</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Ready for More</name>
+  <detail>Complete a story track with full health left on any difficulty.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Quick As Lightning</name>
+  <detail>Complete the Mercenary Chief without getting hit on Normal or higher difficulty.&#x0a;</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Master of Missiles</name>
+  <detail>Complete the Helicopter Fight without getting hit on Hard or higher difficulty.&#x0a;</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>The One</name>
+  <detail>Complete the final battle without getting hit on Expert or Master difficulty.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Lee's Story</name>
+  <detail>Complete Lee's Story on any difficulty.&#x0a;</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Mei's Story</name>
+  <detail>Complete Mei's Story on any difficulty.&#x0a;</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Half a Master</name>
+  <detail>Complete 9 tracks with 5 stars on Master difficulty.&#x0a;</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="-1">
+  <name>A True Master</name>
+  <detail>Complete all tracks with 5 stars on Master difficulty.&#x0a;</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="-1">
+  <name>The Legend</name>
+  <detail>Counter the incoming attack of 50000 enemies.&#x0a;</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>One With The Sphere</name>
+  <detail>Complete 15 different tracks of your own in Custom mode.&#x0a;</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="-1">
+  <name>Survivor</name>
+  <detail>Survive 10 tracks in a row in Survival.&#x0a;</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="-1">
+  <name>Pure Perfection</name>
+  <detail>Complete a story track with only perfect hits on Master difficulty.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="-1">
+  <name>Fists of the White Lotus</name>
+  <detail>Complete a playlist of at least 10 tracks in Freeplay on Master difficulty without being defeated.&#x0a;</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="-1">
+  <name>I Know Kung Fu</name>
+  <detail>Reach a combo chain of 100 on Expert or Master difficulty.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="-1">
+  <name>It’s All In The Mind</name>
+  <detail>Reach a combo chain of 500 on Expert or Master difficulty.&#x0a;</detail>
+ </trophy>
+</trophyconf>

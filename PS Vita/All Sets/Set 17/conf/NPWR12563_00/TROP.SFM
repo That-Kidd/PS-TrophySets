@@ -1,0 +1,108 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000005272f3a05f4406de02c71958896c593d552e77fec8491bc1dd9007e148b41150b2647e49ad23dec52d4e51979837a897ee5510e2d11248a81ab3a632d8a7b5f7c96340581cc3065dd356fc99a54d3b6944579fda595a4cceeed52d5d9c06b8692ffbdf5a7499bb26ccfc3907a01a0f7835393b02026d8edab0af25b73a7bc1aa7d0fc5665b59adaed344140c281df9ece149e94e-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR12563_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Side Kicks!</title-name>
+ <title-detail>Side Kicks!のトロフィーです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>SIDE KICKS</name>
+  <detail>すべてのトロフィーを獲得した</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>THE BEGINNING</name>
+  <detail>Prologueをクリアした</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>TAKE COVER</name>
+  <detail>Episode1をクリアした</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>TOLD YOU SO</name>
+  <detail>Episode2をクリアした</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>MANHUNT</name>
+  <detail>Episode3をクリアした</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>THE NEWCOMER</name>
+  <detail>Episode4をクリアした</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>私がそばにいるから</name>
+  <detail>BAD END-aを見た</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>ありがとう、でもさよなら</name>
+  <detail>BAD END-bを見た</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>暗い雨</name>
+  <detail>BAD END-cを見た</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>STAND BY YOU</name>
+  <detail>Episode:CHIKAをクリアした</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>FAITHFULLY</name>
+  <detail>Episode:HIBARIをクリアした</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>SOMEBODY LIKE YOU</name>
+  <detail>Episode:SHISHIBAをクリアした</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>WON' LET U FALL</name>
+  <detail>Episode:RICOをクリアした</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>I KNOW "YOU"</name>
+  <detail>Episode5をクリアした</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>5 YEARS</name>
+  <detail>Episode:NORAをクリアした</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="S" pid="000">
+  <name>THE EVIL IN THE RAIN</name>
+  <detail>ANOTHER SIDEをクリアした</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>REMINISCENCE</name>
+  <detail>全てのPHOTO＆MOVIEを取得した</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>TRUTH SEEKER</name>
+  <detail>全てのエンディングを見た</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="G" pid="000">
+  <name>いつか俺から言うから</name>
+  <detail>EXTRA:CHIKAをクリアした</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="G" pid="000">
+  <name>僕のすべてを君に預ける</name>
+  <detail>EXTRA:HIBARIをクリアした</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="G" pid="000">
+  <name>他の誰にも見せたくない</name>
+  <detail>EXTRA:SHISHIBAをクリアした</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="G" pid="000">
+  <name>君のことを好きすぎるから</name>
+  <detail>EXTRA:RICOをクリアした</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="G" pid="000">
+  <name>それがほんの少しだけ怖い</name>
+  <detail>EXTRA:NORAをクリアした</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="G" pid="000">
+  <name>休みの日にやりたい10のこと</name>
+  <detail>EXTRA:TATEWAKIをクリアした</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="G" pid="000">
+  <name>TRUTH</name>
+  <detail>EXTRA:THE ENDをクリアした</detail>
+ </trophy>
+</trophyconf>

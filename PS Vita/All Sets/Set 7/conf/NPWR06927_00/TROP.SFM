@@ -1,0 +1,100 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000006fbecb49b11a28be755d2b1918dfedbe7007f8595e5b1f4eefc015472144977c1d1de443e16a514e3fcc453b2a24616effbbcd67866103cec62152268b810850722aca7ebcf19fb89084705d2b0da305c08b5b607cd9c3fb9f45e776ee67ab21cf3742449313c64a64a14cfd20dd8e6666a1a472de14ccf5cf79acb4660608f7bdb9852d3f0fbe6de227e1be440e30c54245c985-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR06927_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>CLANNAD</title-name>
+ <title-detail>CLANNAD Trophies</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>コンプリート</name>
+  <detail>全てのトロフィーを獲得</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>長い坂道</name>
+  <detail>プロローグをクリア</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>CLANNAD</name>
+  <detail>全てのシナリオをクリア</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="S" pid="000">
+  <name>どこまでもふたりで</name>
+  <detail>古河渚のシナリオをクリア</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="S" pid="000">
+  <name>いつか来る日</name>
+  <detail>伊吹風子のシナリオをクリア</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="S" pid="000">
+  <name>広いお庭</name>
+  <detail>一ノ瀬ことみのシナリオをクリア</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="000">
+  <name>髪、また伸ばすね</name>
+  <detail>藤林杏のシナリオをクリア</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>満開の桜</name>
+  <detail>坂上智代のシナリオをクリア</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>優しい風景</name>
+  <detail>宮沢有紀寧のシナリオをクリア</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>ずっとそばに</name>
+  <detail>相楽美佐枝のシナリオをクリア</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>楽しみを重ねて</name>
+  <detail>春原兄妹のシナリオをクリア</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>二人だけの灯り</name>
+  <detail>柊勝平のシナリオをクリア</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>旅の終わりに</name>
+  <detail>幸村俊夫のシナリオをクリア</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>これからの歩み</name>
+  <detail>藤林椋のシナリオをクリア</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>最初の輝き</name>
+  <detail>光の玉を入手</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="G" pid="000">
+  <name>幻想世界</name>
+  <detail>光の玉を全て入手</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="G" pid="000">
+  <name>小さなてのひら</name>
+  <detail>トゥルーエンド</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="G" pid="000">
+  <name>風子マスター！</name>
+  <detail>風子マスターにクラスチェンジ</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="G" pid="000">
+  <name>智代最終兵器</name>
+  <detail>智代コンボで64ヒットを達成</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="G" pid="000">
+  <name>栄光の古河ベイカーズ！</name>
+  <detail>草野球シナリオで勝利！</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="S" pid="000">
+  <name>こちらときめき☆学園</name>
+  <detail>ゲームブック「こちらときめき☆学園」をクリア</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="S" pid="000">
+  <name>ジェット斉藤出現！</name>
+  <detail>ジェット斉藤出現</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="S" pid="000">
+  <name>ひいいぃぃぃーーっ！</name>
+  <detail>春原エンド</detail>
+ </trophy>
+</trophyconf>

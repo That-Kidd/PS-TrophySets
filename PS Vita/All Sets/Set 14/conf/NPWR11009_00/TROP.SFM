@@ -1,0 +1,120 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000003759ebe456e035b9db865a3cfd15575103b1fa8a66f22f60c0b95a5f51b0b9f11bd71f18a71e2e76bc25ce292e2bf33226c1dae52912a67f261631c78eb7afbb0dd06c326e7b7e8f7f7720cf7209a8637d26baa9b906ecdae58ac53ea258454390747b8f0da86f2a2b1f1d2a813b7daabc1a844f6e88a9cf9235c15d56d2b06058734ffdff4ead17d9fd08cc7613e3a5521c0a1d-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR11009_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Yomawari: Night Alone</title-name>
+ <title-detail>Yomawari: Night Alone Trophies</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>The Night Alone</name>
+  <detail>Earned all other trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Dusk</name>
+  <detail>Cleared the opening</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Sundown</name>
+  <detail>Cleared Chapter 1</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Evening</name>
+  <detail>Cleared Chapter 2</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>Midnight</name>
+  <detail>Cleared Chapter 3</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>Moonless Night</name>
+  <detail>Cleared Chapter 4</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>Late Night</name>
+  <detail>Cleared Chapter 5</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>Dead of Night</name>
+  <detail>Cleared Chapter 6</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>Dawn</name>
+  <detail>Cleared Chapter 7</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>Long Night</name>
+  <detail>Played a total of 50 hours</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>Pitch Dark</name>
+  <detail>Played a total of 10 minutes without the flashlight on</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>Indomitable</name>
+  <detail>Suffered a Game Over a total of 30 times</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>Hide and Seek</name>
+  <detail>Hid a total of 50 times</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>Offering</name>
+  <detail>Made an offering to Jizo Statues a total of 50 times</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>Home</name>
+  <detail>Stayed home for a total of 15 minutes</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>Kick the Can</name>
+  <detail>Kicked the can a total of 50 times</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Search</name>
+  <detail>Opened Garbage Bags a total of 20 times</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Cat</name>
+  <detail>Fed a cat</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>Monster Cat</name>
+  <detail>Picked up the Big Bell</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Sis</name>
+  <detail>Talked to Sis a total of 12 times</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>Kidnapped</name>
+  <detail>Kidnapped by Mr. Yomawari</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>Award</name>
+  <detail>Picked up a trophy</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="G" pid="000">
+  <name>Wild Spirit</name>
+  <detail>Found the Tsuchinoko</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="G" pid="000">
+  <name>Memoirs</name>
+  <detail>Collected all collectable items for your room</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="G" pid="000">
+  <name>Craft</name>
+  <detail>Completed the radio</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="G" pid="000">
+  <name>Investigate</name>
+  <detail>Completed the puzzle</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="S" pid="000">
+  <name>Adventurer</name>
+  <detail>Collected all usable items</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="G" pid="000">
+  <name>Collector</name>
+  <detail>Collected all items</detail>
+ </trophy>
+</trophyconf>

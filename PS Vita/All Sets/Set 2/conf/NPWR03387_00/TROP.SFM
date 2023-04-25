@@ -1,0 +1,56 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000096be1bbd9f9e26368055eb1facff232a082e92f9bcb75d7b5f23b926f196d038bd9cb5e799815cc678879db0e33f513c0c13f85cb780ab3287f72dc8248097a3fc5b7ba4a5ea78409d7bc1c56052e8f1d9481453de354682dfefdcc5b1546a2e272b75bba81e5a7cf8571732b8c705983db18cf871dabba1b6bf8ea6a3c33c36a1a05f64080ea0d85266b4f627ddc111a554389c-->
+<trophyconf version="1.1" platform="psp2">
+ <npcommid>NPWR03387_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Foosball 2012</title-name>
+ <title-detail>Foosball 2012</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Bon Voyage</name>
+  <detail>Win a World Tour match.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Let's play</name>
+  <detail>Win an online match.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Around the world in 20 matches</name>
+  <detail>Defeat every standard World Tour opponent.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Shutout</name>
+  <detail>Defeat an "Advanced" or higher A.I. without being scored on (10 balls or more).</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Jack of all trades</name>
+  <detail>Use all types of trick shots in a single match.</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="-1">
+  <name>Booby prize</name>
+  <detail>Score an own goal.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="-1">
+  <name>One Man Team</name>
+  <detail>Score a goal using your goalkeeper.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>From zero to hero</name>
+  <detail>Go from score 0:9 to win 10:9 in a 10 goal match against Advanced A.I. or higher.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="-1">
+  <name>Your Excellency</name>
+  <detail>Defeat every standard World Tour opponent with at least "Excellent" rating.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="-1">
+  <name>Master Blaster</name>
+  <detail>Defeat all Master opponents in World Tour.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="-1">
+  <name>Mr Perfect</name>
+  <detail>Defeat every standard World Tour opponent with "Perfect" rating.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="-1">
+  <name>Owned!</name>
+  <detail>Defeat a Master opponent with "Perfect" rating in World Tour.</detail>
+ </trophy>
+</trophyconf>

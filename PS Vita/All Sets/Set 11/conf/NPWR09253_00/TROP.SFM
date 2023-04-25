@@ -1,0 +1,120 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000d0e830ab78d8a162582fe586217fd9a50cd2b89c4046bff9e9120c71e00aa203b65dcd94e418c3bdffafe48361a89eb784705c0241dfd7bcc61b69c784654288018769bd2140675e107212411379fa78daf2e7e82a1b48d4b64e337e10520b755f9e9888229a2c05abaa045a92dc8940600ff8df29a843519ddf13e3939b436172373a18305568757b51b567e0761b5b7b123897-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR09253_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>夜廻</title-name>
+ <title-detail>夜廻のトロフィーセットです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>夜廻</name>
+  <detail>全てのトロフィー取得&#x0a;</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>黄昏</name>
+  <detail>オープニングをクリアした&#x0a;</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>逢魔時</name>
+  <detail>1章をクリアした&#x0a;</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>宵の口</name>
+  <detail>2章をクリアした&#x0a;</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>夜半</name>
+  <detail>3章をクリアした&#x0a;</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>闇夜</name>
+  <detail>4章をクリアした&#x0a;</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>夜更け</name>
+  <detail>5章をクリアした</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>丑三つ時</name>
+  <detail>6章をクリアした&#x0a;</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>明け方</name>
+  <detail>7章をクリアした&#x0a;</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>夜長</name>
+  <detail>合計50時間プレイした&#x0a;</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>漆黒</name>
+  <detail>懐中電灯を消した状態で10分プレイした&#x0a;</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>不屈</name>
+  <detail>合計30回ゲームオーバーした&#x0a;</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>かくれんぼ</name>
+  <detail>かくれる行動を合計50回行った&#x0a;</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>そなえる</name>
+  <detail>お地蔵さんに合計50回おそなえものをした&#x0a;</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>おうち</name>
+  <detail>自宅マップに15分滞在した&#x0a;</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>カンけり</name>
+  <detail>缶を合計50回蹴った&#x0a;</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>物色</name>
+  <detail>ごみぶくろを合計20回あけた&#x0a;</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>ネコ</name>
+  <detail>猫に向けて食料品を投げた&#x0a;&#x0a;</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>バケネコ</name>
+  <detail>おおきなすずを拾った&#x0a;&#x0a;&#x0a;</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>おねえちゃん</name>
+  <detail>おねえちゃんに12回話しかけた&#x0a;&#x0a;</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>子取り</name>
+  <detail>よまわりさんにさらわれた&#x0a;</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>賞状</name>
+  <detail>トロフィーを拾った&#x0a;</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="G" pid="000">
+  <name>のづち</name>
+  <detail>ツチノコを発見した</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="G" pid="000">
+  <name>おもいで</name>
+  <detail>自宅配置アイテムをすべて集めた</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="G" pid="000">
+  <name>工作</name>
+  <detail>ラジオが完成した</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="G" pid="000">
+  <name>探検</name>
+  <detail>パズルが完成した</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="S" pid="000">
+  <name>冒険</name>
+  <detail>使用アイテムをすべて集めた</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="G" pid="000">
+  <name>収集</name>
+  <detail>アイテムをすべて集めた</detail>
+ </trophy>
+</trophyconf>

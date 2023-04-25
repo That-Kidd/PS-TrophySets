@@ -1,0 +1,164 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000089dbc53c1d59538e81c75464a8271c50888cac031a7e801e0e4b00503f6c5afe57986351369752295639f46665de38d1a8644e0f2a0f3e229cac41192cb692cc26cd7db8b27c8a1558e2f5dba35ccdbc3dea624d2a0b647ada23789aa9e2c869468dd4c5c3beec162bd3b99ce5f281f5a2a74fa8b6f7706598e1a3151d05813603fa8f74bf30d79bed5fb064f611d59b969b5079-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR04419_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>神次元アイドル　ネプテューヌPP</title-name>
+ <title-detail>神次元アイドル　ネプテューヌPP</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>パーフェクトプロデューサー</name>
+  <detail>全トロフィーを獲得しました。</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="G" pid="000">
+  <name>ネプテューヌ・マスター</name>
+  <detail>ネプテューヌのイベントをコンプリートしました。&#x0a;「わたしのイベントをコンプリートしたようだな……！だがすぐに第二第三の隠しイベントが……！&#x0a;　また出てきたりはしないんだ、ごめんね。&#x0a;　あなたはやりきったんだよ。お疲れ様！本当にありがとう！！」</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="G" pid="000">
+  <name>ノワール・マスター</name>
+  <detail>ノワールのイベントをコンプリートしました。&#x0a;「ふ、ふん。頑張ったじゃないのよ。&#x0a;　すこしはあなたのこと、認めてあげてもいいわよ。…ちょっとだけだから！勘違いしないでよね」</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="G" pid="000">
+  <name>ブラン・マスター</name>
+  <detail>ブランのイベントをコンプリートしました。&#x0a;「お陰様でわたしのイベントもコンプリートね。あなたがこんなに出来る人だとは思わなかった。ルウィーの次期教祖としても考えておくわ」</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="G" pid="000">
+  <name>ベール・マスター</name>
+  <detail>ベールのイベントをコンプリートしました。&#x0a;「ここまでゲームを遊んで頂いて、感無量ですわ。&#x0a;　長い道のりでしたけれど、満足して頂けました？&#x0a;　これからも宜しくお願い致しますわね。ア・ナ・タ♪」</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="S" pid="000">
+  <name>REALプラネテューヌ</name>
+  <detail>ネプテューヌのTRUEエンドを見ました。&#x0a;「朝ごはん気に入ってくれたかな」</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="000">
+  <name>REALラステイション</name>
+  <detail>ノワールのTRUEエンドを見ました。&#x0a;「キスマーク付いてるわよ」</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>REALルウィー</name>
+  <detail>ブランのTRUEエンドを見ました。&#x0a;「返事を待ってるわ」</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>REALリーンボックス</name>
+  <detail>ベールのTRUEエンドを見ました。&#x0a;「今日はどこへ行きましょうか」</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>らぶらぶネプテューヌ</name>
+  <detail>ネプテューヌとの愛情度がMAXになりました。&#x0a;「ううっ、むねがドキドキしてきたよ……！」</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>あいしてノワール</name>
+  <detail>ノワールとの愛情度がMAXになりました。&#x0a;「……なんだろう、このキモチ……」</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>こいするブラン</name>
+  <detail>ブランとの愛情度がMAXになりました。&#x0a;「わたし、顔が赤いわ。熱でもあるのかしら……」</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>むちゅうでベール</name>
+  <detail>ベールとの愛情度がMAXになりました。&#x0a;「まさか現実の恋に溺れてしまうだなんて……！」</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>ぼちぼちネプテューヌ</name>
+  <detail>ネプテューヌのGOODエンドを見ました。&#x0a;「GOODエンド到達おめでとー！　これからも楽しんでね！」</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>まぁまぁノワール</name>
+  <detail>ノワールのGOODエンドを見ました。&#x0a;「結末は他にもあるの。あなたの目で確かめてね」</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="S" pid="000">
+  <name>そこそこブラン</name>
+  <detail>ブランのGOODエンドを見ました。&#x0a;「まずは及第点といったところね。ここで満足してほしくないわ」</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="S" pid="000">
+  <name>まずまずベール</name>
+  <detail>ベールのGOODエンドを見ました。&#x0a;「お疲れ様でした！引き続き、宜しくですわ！」</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>がっかりネプテューヌ</name>
+  <detail>ネプテューヌのBADエンドを見ました。&#x0a;「まぁこんなもんだよね。しょうがないよね……」</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>どんよりノワール</name>
+  <detail>ノワールのBADエンドを見ました。&#x0a;「私の言うことをちゃんと聞かないからこうなっちゃうのよ！」</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>いらいらブラン</name>
+  <detail>ブランのBADエンドを見ました。&#x0a;「もういい。当分ほっといて」</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="000">
+  <name>とほほベール</name>
+  <detail>ベールのBADエンドを見ました。&#x0a;「人には向き不向きがあったんですわ……」</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>ネプテューヌ起動</name>
+  <detail>ゲームスタート！</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>売れっ子アイドル</name>
+  <detail>楽曲が１位にチャートインしました。</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>おまえがナンバーワンだ</name>
+  <detail>シェア１位になりました。</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>アイドルやってます</name>
+  <detail>はじめての営業活動を行いました。</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>ワンツー！</name>
+  <detail>はじめてのレッスンを行いました。</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>ファーストライブ</name>
+  <detail>はじめてのライブを行いました。</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>お引っ越し</name>
+  <detail>事務所を移転しました。</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>元気でやってる？</name>
+  <detail>遊びに行きました。</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>女神候補生登場！</name>
+  <detail>妹たちに殴られました。</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>アイドルの壁</name>
+  <detail>辛い出来事を乗り越えられるのか……。</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>コーディネイター</name>
+  <detail>全てのコスチュームとアクセサリーを入手しました。</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>ミラインフィニティ♪</name>
+  <detail>全曲マスターしました。</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>女神デュオ誕生</name>
+  <detail>はじめてのデュオを結成しました。</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>女神トリオ誕生</name>
+  <detail>はじめてのトリオを結成しました。</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>チャレンジャー魂</name>
+  <detail>プロデュウスモードでライブを５０回行いました。</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>ライブの達人</name>
+  <detail>ライブで最高ランクを獲得しました。</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>キャラクターに初タッチ☆</name>
+  <detail>キャラクターに初タッチしました。</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>また会えたね</name>
+  <detail>ビューアーモードで全てのキャラクターを登場させました。</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,44 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000a5ed589d6ec7765bae6b6a99cf1671ad02fdf19f7031c8f01ff42a782b72fd735baab7e178281be6964f4dea28163f1d5c3b3a07d9c425f2c7baef920980b64f564d10da55015e9b284fb9b28f70c4636846c632eb2d1be2af3d507d9d524ae8f15c67de83af88b854ba221c9734b1841bc5803abcc8647f354ad23202dfee230022f9901ad28acc716ec792d94615ed46f8bc71-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR09541_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>恋愛（ラブ）リベンジ</title-name>
+ <title-detail>『恋愛（ラブ）リベンジ』トロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="S" pid="-1">
+  <name>『鈴白鈴』ルート開始</name>
+  <detail>鈴の個別ルートに入りました。</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>『柊ほのか』ルート開始</name>
+  <detail>ほのかの個別ルートに入りました。</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>『リエル＝アンダーソン』ルート開始</name>
+  <detail>リエルの個別ルートに入りました。</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>『葉桜恋歌』ルート開始</name>
+  <detail>恋歌の個別ルートに入りました。</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="-1">
+  <name>『鈴白鈴』ルート終了</name>
+  <detail>鈴の個別ルートが終了しました。</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="-1">
+  <name>『柊ほのか』ルート終了</name>
+  <detail>ほのかの個別ルートが終了しました。</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="-1">
+  <name>『リエル＝アンダーソン』ルート終了</name>
+  <detail>リエルの個別ルートが終了しました。</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="-1">
+  <name>『葉桜恋歌』ルート終了</name>
+  <detail>恋歌の個別ルートが終了しました。</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="-1">
+  <name>『浅桐千里』ルート終了</name>
+  <detail>千里の個別ルートが終了しました。</detail>
+ </trophy>
+</trophyconf>

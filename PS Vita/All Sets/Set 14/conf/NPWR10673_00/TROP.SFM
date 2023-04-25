@@ -1,0 +1,100 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000006d36788903a40bcecb55cff0be521b7cb91d17c25d163886ec71b8a92788a301e5df3d4a3e18d2402e9a3aaaaaf72a468d8bd6cd5433794080ea7e53784fc3da0775e8c82576724ef085f29217a935c9feb3ccf63dfa924f56e8aeb8797db6838663675484dea23b9a203adf0dcbc83c6e0ed1fabbe869d0b04623fc6b40bad1310561db949b027c7c23d3beec5e19885ef1d23f-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR10673_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Downwell</title-name>
+ <title-detail>Downwell Trophies</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Done Well</name>
+  <detail>Completed all other trophies.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Careful Descent</name>
+  <detail>Complete a level without taking damage.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Time Never Stops</name>
+  <detail>Complete a level without visiting siderooms.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Mottainai</name>
+  <detail>Complete a level without shooting.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>Wow Combo</name>
+  <detail>Land a 10 combo.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>Whoa Combo</name>
+  <detail>Land a 30 combo.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>Masterful Descent</name>
+  <detail>Complete an area without taking damage.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>Bye Frogs</name>
+  <detail>Beat the first area.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>Bye Ghosts</name>
+  <detail>Beat the second area.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>Bye Squids</name>
+  <detail>Beat the third area</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>Bye Stuff</name>
+  <detail>Beat the fourth area.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>Bye Well</name>
+  <detail>Beat the boss.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>Pacifist</name>
+  <detail>Complete a level without killing any enemy.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>Ground Allergy</name>
+  <detail>Complete a level without landing.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>Sugoi Combo</name>
+  <detail>Land a 100 combo.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>Saving Up</name>
+  <detail>Have more than 3000 gems.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="G" pid="000">
+  <name>Clean Boots</name>
+  <detail>Complete an area without landing.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="G" pid="000">
+  <name>So Many Frogs</name>
+  <detail>Beat the first area (hard mode).</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="G" pid="000">
+  <name>So Many Ghosts</name>
+  <detail>Beat the second area (hard mode).</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="G" pid="000">
+  <name>So Many Squids</name>
+  <detail>Beat the third area (hard mode).</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="G" pid="000">
+  <name>So Much Stuff</name>
+  <detail>Beat the fourth area (hard mode).</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="G" pid="000">
+  <name>Well Master</name>
+  <detail>Beat the boss (hard mode).</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="G" pid="000">
+  <name>Frugality</name>
+  <detail>Have more than 5000 gems.</detail>
+ </trophy>
+</trophyconf>

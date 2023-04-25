@@ -1,0 +1,304 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000000637b5ab79a62fada54e4ac595fa0d6e946e7e441a0e3891409dcbc723804faf000f55cdd37d1821ae769602ff8f3b119c111d9561d6156d89877735816110bfe294803fb286577242c08dc6d9c7229a0a3361be213887e691f6da201fa88007d531a3041ff13e8065a8045d5be12ef1fe2f294de97bc1aac9c69c97ce771f5181c00dab3d2a7dcf39c62e7220725a05003a038b-->
+<trophyconf version="1.1" platform="ps3,psp2" policy="large">
+ <npcommid>NPWR01537_00</npcommid>
+ <trophyset-version>01.06</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Borderlands™ 2</title-name>
+ <title-detail>Borderlands™ 2 Trophies</title-detail>
+ <group id="001">
+  <name>Captain Scarlett and her Pirate's Booty</name>
+  <detail>Captain Scarlett and her Pirate's Booty</detail>
+ </group>
+ <group id="002">
+  <name>Mr. Torgue's Campaign of Carnage</name>
+  <detail>Mr. Torgue's Campaign of Carnage</detail>
+ </group>
+ <group id="003">
+  <name>Sir Hammerlock's Big Game Hunt</name>
+  <detail>Sir Hammerlock's Big Game Hunt</detail>
+ </group>
+ <group id="004">
+  <name>Tiny Tina's Assault on Dragon Keep</name>
+  <detail>Tiny Tina's Assault on Dragon Keep</detail>
+ </group>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Borderland Defender Round Two</name>
+  <detail>Unlocked all Borderlands 2 trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>First One's Free</name>
+  <detail>Completed the mission "My First Gun"</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>Dragon Slayer</name>
+  <detail>Completed the mission "Best Minion Ever"</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>A Road Less Traveled</name>
+  <detail>Completed the mission "The Road To Sanctuary"</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>New In Town</name>
+  <detail>Completed the mission "Plan B"</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>An Old Flame</name>
+  <detail>Completed the mission "Hunting The Firehawk"</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>No Man Left Behind</name>
+  <detail>Completed the mission "A Dam Fine Rescue"</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>Wilhelm Screamed</name>
+  <detail>Completed the mission "A Train To Catch"</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>Sky's The Limit</name>
+  <detail>Completed the mission "Rising Action"</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="000">
+  <name>Can See My House From Here</name>
+  <detail>Completed the mission "Bright Lights, Flying City"</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="000">
+  <name>Farewell, Old Girl</name>
+  <detail>Completed the mission "Wildlife Preservation"</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>Got The Band Back Together</name>
+  <detail>Completed the mission "The Once and Future Slab"</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>Identity Theft</name>
+  <detail>Completed the mission "The Man Who Would Be Jack"</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>An Angel's Wish</name>
+  <detail>Completed the mission "Where Angels Fear To Tread"</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>Bombs Away</name>
+  <detail>Completed the mission "Toil And Trouble"</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="S" pid="000">
+  <name>Knowing Is Half The Battle</name>
+  <detail>Completed the mission "Data Mining"</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="G" pid="000">
+  <name>Cool Story, Bro</name>
+  <detail>Defeated Jack</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="G" pid="000">
+  <name>Challenge Accepted</name>
+  <detail>Completed level 1 of all non-level-specific challenges with a single character</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>Goliath, Meet David</name>
+  <detail>Allowed a Goliath to level up four times before killing him</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Went Five Rounds</name>
+  <detail>Completed Round 5 of any Circle of Slaughter</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>Not Quite Dead</name>
+  <detail>Reached level 5</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>Better Than You Were</name>
+  <detail>Reached level 10</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>Always Improving</name>
+  <detail>Reached level 25</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>Capped Out...For Now</name>
+  <detail>Reached level 50</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>Arctic Explorer</name>
+  <detail>Discovered all named locations in Three Horns, Tundra Express, and Frostburn Canyon</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>Urban Explorer</name>
+  <detail>Discovered all named locations in Sanctuary, Opportunity, and Lynchwood</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>Highlands Explorer</name>
+  <detail>Discovered all named locations in The Highlands, Thousand Cuts, and Wildlife Exploitation Preserve</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>Blight Explorer</name>
+  <detail>Discovered all named locations in Eridium Blight, Arid Nexus, and Sawtooth Cauldron</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="S" pid="000">
+  <name>World Traveler</name>
+  <detail>Discovered all named locations</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>Sugar Daddy</name>
+  <detail>Tipped Moxxi $10,000</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>Decked Out</name>
+  <detail>Had Purple-rated gear or better equipped in every slot</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>Sabre Rattler</name>
+  <detail>Killed 100 enemies with the Sabre turret</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>Phased and Confused</name>
+  <detail>Phaselocked 100 enemies</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>So Much Blood!</name>
+  <detail>Gunzerked continuously for 90 seconds</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>Cute Loot</name>
+  <detail>Killed a Chubby</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>Tribute To A Vault Hunter</name>
+  <detail>Got an item from Michael Mamaril</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>Definitely An Italian Plumber</name>
+  <detail>Killed Donkey Mong</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>High-Flying Hurler</name>
+  <detail>Killed a flying enemy with a thrown Tediore weapon</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>Token Gesture</name>
+  <detail>Redeemed 25 tokens</detail>
+ </trophy>
+ <trophy id="039" hidden="yes" ttype="B" pid="000">
+  <name>What does it mean?</name>
+  <detail>I can't even capture it on my camera</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="B" pid="000">
+  <name>Unseen Predator</name>
+  <detail>Remained in Zero's Deception mode for ten seconds straight</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="B" pid="000">
+  <name>Build Buster</name>
+  <detail>Killed a Constructor without it ever building another bot</detail>
+ </trophy>
+ <trophy id="042" hidden="yes" ttype="B" pid="000">
+  <name>Well That Was Easy</name>
+  <detail>Completed the mission "Shoot This Guy in the Face"</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="B" pid="000">
+  <name>How Do I Look?</name>
+  <detail>Unlocked 10 customization items</detail>
+ </trophy>
+ <trophy id="044" hidden="yes" ttype="S" pid="000">
+  <name>Thresher Thrashed</name>
+  <detail>Defeated Terramorphous the Invincible</detail>
+ </trophy>
+ <trophy id="045" hidden="no" ttype="B" pid="000">
+  <name>Friendship Rules</name>
+  <detail>Revived someone from "Fight for Your Life!" that is on your friends list</detail>
+ </trophy>
+ <trophy id="046" hidden="no" ttype="B" pid="000">
+  <name>Better Than Money</name>
+  <detail>Purchased 5 items from the black market</detail>
+ </trophy>
+ <trophy id="047" hidden="no" ttype="B" pid="000">
+  <name>Up High, Down Low</name>
+  <detail>Gave Claptrap a high five</detail>
+ </trophy>
+ <trophy id="048" hidden="no" ttype="B" pid="000">
+  <name>Bounty Hunter</name>
+  <detail>Completed 20 side missions</detail>
+ </trophy>
+ <trophy id="049" hidden="no" ttype="S" pid="000">
+  <name>Did It All</name>
+  <detail>Completed all side missions</detail>
+ </trophy>
+ <trophy id="050" hidden="yes" ttype="B" pid="000">
+  <name>Feels Like The First Time</name>
+  <detail>Opened the chest at the bus stop in Fyrestone</detail>
+ </trophy>
+ <trophy id="051" hidden="no" ttype="G" pid="-1" gid="001">
+  <name>Treasure Hunter</name>
+  <detail>Completed the mission "X Marks the Spot"</detail>
+ </trophy>
+ <trophy id="052" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>Gadabout</name>
+  <detail>Discovered all named locations in Oasis and the surrounding Pirate's Booty areas</detail>
+ </trophy>
+ <trophy id="053" hidden="no" ttype="S" pid="-1" gid="001">
+  <name>Completionist</name>
+  <detail>Completed all Pirate's Booty side missions</detail>
+ </trophy>
+ <trophy id="054" hidden="no" ttype="B" pid="-1" gid="002">
+  <name>Explosive</name>
+  <detail>Completed the mission "Long Way To The Top"</detail>
+ </trophy>
+ <trophy id="055" hidden="no" ttype="S" pid="-1" gid="002">
+  <name>Motorhead</name>
+  <detail>Completed all Campaign of Carnage side missions</detail>
+ </trophy>
+ <trophy id="056" hidden="no" ttype="G" pid="-1" gid="002">
+  <name>Obsessed</name>
+  <detail>Collected 10 pictures of Moxxi in Campaign of Carnage</detail>
+ </trophy>
+ <trophy id="057" hidden="no" ttype="B" pid="-1" gid="003">
+  <name>Face Off</name>
+  <detail>Completed the mission "The Fall of Nakayama"</detail>
+ </trophy>
+ <trophy id="058" hidden="no" ttype="G" pid="-1" gid="003">
+  <name>Done That</name>
+  <detail>Completed all Hammerlock's Hunt side missions </detail>
+ </trophy>
+ <trophy id="059" hidden="no" ttype="S" pid="-1" gid="003">
+  <name>Been There</name>
+  <detail>Discovered all named locations in Hammerlock's Hunt</detail>
+ </trophy>
+ <trophy id="060" hidden="no" ttype="B" pid="-1" gid="004">
+  <name>I Totes Planned That Boss</name>
+  <detail>Slew Mister Boney Pants Guy</detail>
+ </trophy>
+ <trophy id="061" hidden="no" ttype="B" pid="-1" gid="004">
+  <name>Yaaaaaay</name>
+  <detail>Introduced thyself to the White Knight</detail>
+ </trophy>
+ <trophy id="062" hidden="no" ttype="S" pid="-1" gid="004">
+  <name>Shorty, You So Best</name>
+  <detail>Completed thy quest by rescuing yonder queen</detail>
+ </trophy>
+ <trophy id="063" hidden="no" ttype="B" pid="-1" gid="004">
+  <name>Girl's Gotta Eat</name>
+  <detail>Fed thy noble queen 3 times during one visit to her quarters</detail>
+ </trophy>
+ <trophy id="064" hidden="no" ttype="B" pid="-1" gid="004">
+  <name>It's Like That One Video</name>
+  <detail>Showed thine worst enemy, the abomination known as "The Darkness," who is the nerdiest of them all</detail>
+ </trophy>
+ <trophy id="065" hidden="no" ttype="B" pid="-1" gid="004">
+  <name>They Was All "Hey That's Mine"</name>
+  <detail>Unsheathed 5 swords from Immortal Skeletaurs without leaving the area</detail>
+ </trophy>
+ <trophy id="066" hidden="no" ttype="S" pid="-1" gid="004">
+  <name>Dang Girl You Ace At This Game</name>
+  <detail>Won the most challenging round in Murderlin's Temple</detail>
+ </trophy>
+ <trophy id="067" hidden="no" ttype="B" pid="-1" gid="004">
+  <name>Hmmmmm</name>
+  <detail>Wielded the Mysterious Amulet</detail>
+ </trophy>
+ <trophy id="068" hidden="no" ttype="B" pid="-1" gid="004">
+  <name>Keep Rollin' Rollin' Rollin'</name>
+  <detail>Demonstrated your skill, or lack thereof, at rolling the magical treasure orb of many sides</detail>
+ </trophy>
+ <trophy id="069" hidden="no" ttype="S" pid="-1" gid="004">
+  <name>Make it Raaaaaid</name>
+  <detail>Vanquished the Ancient Dragons of Destruction</detail>
+ </trophy>
+</trophyconf>

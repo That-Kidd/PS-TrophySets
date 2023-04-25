@@ -1,0 +1,136 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000d16ec6a8716f5e19ec19d443b64e3fddddfc560f4ccfdc9237fb3854fa1499da73c124999fa2665acd2727744b54fb75e110197482f7ba7d7ea1491403ae0218c094373aa0559731af6f2b16402d96857ae7a13b8e54a3fadbfbd5de9c8d7ce867dd197e4060cd5d47498148c9f94ba53a763cd0b2d98ab5f5775762b17b998e0638fca785e9d4fde6a465828e8bbe8c383c2077-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR16649_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Alvastia Chronicles</title-name>
+ <title-detail>Trophy set for Alvastia Chronicles</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Alvastia's Hero</name>
+  <detail>Obtain all the trophies.</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>Close Siblings</name>
+  <detail>Watched the opening.</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>Ogre Warrioress</name>
+  <detail>Second main party member joined.</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>Elf Stud</name>
+  <detail>Third main party member joined.</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>Onward to Vulcan Continent!</name>
+  <detail>Set out for Vulcan Continent.</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>Onward to Galirus Continent!</name>
+  <detail>Set out for Galirus Continent.</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>Onward to Anelphos Continent!</name>
+  <detail>Set out for Anelphos Continent.</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>Ambition Crusher</name>
+  <detail>Prepared to fight Archfiend, Valhyt.</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>Evil Plot Ender</name>
+  <detail>Prepared to fight Demon King, Wesbel.</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="G" pid="000">
+  <name>With Two, Anything Is Possible</name>
+  <detail>Earned the normal ending.</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="G" pid="000">
+  <name>Best Brother Ever</name>
+  <detail>Earned the true ending.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>Pedestrian</name>
+  <detail>Walked 5000 steps.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>Sightseer</name>
+  <detail>Walked 25000 steps.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>World Traveler</name>
+  <detail>Walked 50000 steps.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>Fortune Seeker</name>
+  <detail>Opened 50 treasure chests.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>Treasure Hunter</name>
+  <detail>Opened 100 treasure chests.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>Chest Collector</name>
+  <detail>Opened 150 treasure chests.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Combo Hotshot</name>
+  <detail>Achieved 15-hit combo.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>Combo Ace</name>
+  <detail>Achieved 30-hit combo.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="000">
+  <name>Combo Pro</name>
+  <detail>Achieved 50-hit combo.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>Striker</name>
+  <detail>Dealt 3000 damage in a single attack.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>Breaker</name>
+  <detail>Dealt 8000 damage in a single attack.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>Annihilator</name>
+  <detail>Dealt 20000 damage in a single attack.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>Weapon Tinker</name>
+  <detail>Upgraded a weapon to level 11.</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>Weapon Craftsman</name>
+  <detail>Upgraded a weapon to level 25.</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="S" pid="000">
+  <name>Weapon Master</name>
+  <detail>Upgraded a weapon to level 50.</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="G" pid="000">
+  <name>Servant of All</name>
+  <detail>Cleared all quests.</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>Contestant</name>
+  <detail>Cleared Bronze Cup at battle arena.</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>Competitor</name>
+  <detail>Cleared Silver Cup at battle arena.</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="S" pid="000">
+  <name>Duelist</name>
+  <detail>Cleared Gold Cup at battle arena.</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="G" pid="000">
+  <name>Arena Master</name>
+  <detail>Cleared Romance Cup at battle arena.</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="G" pid="000">
+  <name>Secret Arena Master</name>
+  <detail>Cleared all difficulties at secret battle arena.</detail>
+ </trophy>
+</trophyconf>

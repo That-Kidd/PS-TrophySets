@@ -1,0 +1,132 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000009bea1e27df649d36a7a551f6cab9676ad3d71dab7926f7e50b90618ca965c03198fc20c5aad8a12c0ee8d03e2b5a7beda2b032181694451e1d3f5a8004d3c282dec0bc21a18f71557296f1516d6e74503510cdee3935021f60665b041221697d5712dea0564c43b652474a53663593e5413d5a54a18d9fdbf91897d3cee0f976134eb449492ecca7cb67eba967bf9fbd31c022c-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR09012_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Space Hulk</title-name>
+ <title-detail>Space Hulk Trophies.</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Savior of Mankind</name>
+  <detail>Having Achieved The Highest Honors in Battle.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Storm of Iron</name>
+  <detail>Kill 30 Genestealers with the assault cannon.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>Pyroclast</name>
+  <detail>Kill 6 Genestealers in one shot with the flamer.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Sword of Retribution </name>
+  <detail>Kill 20 Genestealers with the power sword.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>The Emperor protects</name>
+  <detail>Survive 15 close combat encounters.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>Power of the warp</name>
+  <detail>Kill 6 Genestealers with one psychic storm.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>Slayer of Monsters</name>
+  <detail>Kill 5 Broodlords.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>Angel of Death</name>
+  <detail>Kill 1000 enemies.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>There is only war!</name>
+  <detail>Kill 40 000 enemies.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>Grant us the strength to prevail</name>
+  <detail>Win close assault against Broodlord.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>The Emperors Finest</name>
+  <detail>Customize your banner.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>Breacher</name>
+  <detail>Destroy 20 doors with a Chainfist.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>Exemplar of the Codex Astartes</name>
+  <detail>Complete a mission without using a single Command Point.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>Honor Your Wargear</name>
+  <detail>Unjam a bolter 40 times.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>Red Thirst</name>
+  <detail>Have a terminator kill 3 Genestealers in melee during one turn.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>Victory is nothing more than survival</name>
+  <detail>Survive “Suicide Mission” without any casualties.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>Exterminator</name>
+  <detail>Kill 10 Genestealers during one turn in the “Exterminate” mission.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Watch the claws</name>
+  <detail>Mission 3 - Pass the C.A.T. between at least three terminators.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>The purging flame</name>
+  <detail>Mission 4 - Cleanse both rooms during the same turn.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Our duty is done</name>
+  <detail>Mission 5 - Escape with eight or more marines.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>Unbowed and Unbroken</name>
+  <detail>Mission 6 - Wake all unconscious Marines and take no casualties.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>Relic Bearer</name>
+  <detail>Mission 7 - The marine that picks up the artefact must be the one exiting the map with it.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>Honour is my shield</name>
+  <detail>Mission 8 - Calistarius must survive.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>Stand together or fall alone</name>
+  <detail>Exit the map with at least 7 marines in the "Regroup" mission, but not before all have been put into play.</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>Stand against the tide</name>
+  <detail>Let no terminators die during "Defend" mission.</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="S" pid="000">
+  <name>Sever the head and the beast will die</name>
+  <detail>Mission 11 - Kill the broodlord.</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="S" pid="000">
+  <name>Light in the darkness</name>
+  <detail>Escape with at least two Terminators before the end of the tenth turn in "Pitfall" mission.</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="G" pid="000">
+  <name>Forged in battle</name>
+  <detail>Get all the mission specific achievements.</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>Bronze Medal For The Emperor and Saguinius!</name>
+  <detail>Finish the “Sin of damnation” campaign on easy.</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="S" pid="000">
+  <name>Silver Medal For The Emperor and Saguinius!</name>
+  <detail>Finish the “Sin of damnation” campaign on normal.</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="G" pid="000">
+  <name>Gold Medal For The Emperor and Saguinius!</name>
+  <detail>Finish the “Sin of damnation” campaign on hard.</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,56 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000093537a46caa2b6ac83767735742897d192890aad0ed337ca2ec5fd5a08a6e2a251291852f219f9c936c8f5cad40348fe3085aafed50921cfd28c2a1ef77dd4f76a9106de533c9d7c49e01c6f936cf2b16b8f0016df4f5baa9e639828af49ce19efde8daf57cff76e2a9b4590576d49d8209a9f65361a8aece7235944a65b8d5d03267b8497d5b029bf9b267762c418045860592a-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR05379_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Indoor Sports World</title-name>
+ <title-detail>Indoor Sports World Trophy Pack</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Air Hockey Pro</name>
+  <detail>Win five air hockey games</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Darts Pro</name>
+  <detail>Win five darts games</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Snooker Pro</name>
+  <detail>Win five snooker games</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Pool Pro</name>
+  <detail>Win five pool games</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="-1">
+  <name>Endurance</name>
+  <detail>Play 150 games</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Arcade Starter</name>
+  <detail>Win first match in Arcade mode</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Season Starter</name>
+  <detail>Win first tournament in Season mode</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="-1">
+  <name>Arcade Champion</name>
+  <detail>Complete Arcade Mode</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="-1">
+  <name>Super Icon Hero</name>
+  <detail>Complete Season mode</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="-1">
+  <name>High Break Hero</name>
+  <detail>Score a 50 or more break in Snooker</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="-1">
+  <name>The King</name>
+  <detail>Win 100 games</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="-1">
+  <name>Custom Gent</name>
+  <detail>Earn you first customization unlock</detail>
+ </trophy>
+</trophyconf>

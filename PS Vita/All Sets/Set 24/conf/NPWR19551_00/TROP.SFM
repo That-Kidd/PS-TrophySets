@@ -1,0 +1,76 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000019d0ef8b397560f454d5db41dd00590c9ec6e60f8a8e906968c53ea8b5d775fcf3f00fda4ecdfdee38be23d6c00f13387d91f6cd2249e1a729cdcc4a7b82773e46bc316080d591f1c41bf7b8119e798a2c0531f358c08da14361d1f3bd2f648de239975a248b6a5a9dee93a7c183dc49fa3e6ecbdcbe1065d414252e6a63c824f69809926a41e5d1fe8325bb7d7c6718d29a8d74-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR19551_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Milo's Quest</title-name>
+ <title-detail>Milo's Quest</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Platinum bone</name>
+  <detail>Get all other trophies.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Keys open doors</name>
+  <detail>Get your first silver key.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Keys also open chests</name>
+  <detail>Get your first golden key.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>Yummy!</name>
+  <detail>Get your first bonne.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>Working gloves</name>
+  <detail>Get the Gloves.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>Head butting</name>
+  <detail>Get the Helmet.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>Spying</name>
+  <detail>Get the Binoculars.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>I can see things</name>
+  <detail>Get the Special Glasses.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>He deserved it</name>
+  <detail>Kill your first ghost.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>I need to pass through</name>
+  <detail>Kill 10 ghosts.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>Killing ghosts count as murder?</name>
+  <detail>Kill 20 ghosts.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>Milo is a smart boy</name>
+  <detail>Solve your first puzzle.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>More Life!</name>
+  <detail>Get a heart extension.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="000">
+  <name>I was getting tired</name>
+  <detail>Get a Stamina extension.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="000">
+  <name>Healing</name>
+  <detail>Recover a heart</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="G" pid="000">
+  <name>Nothing can stop me</name>
+  <detail>Defeat Big Marshmallow Boo</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="G" pid="000">
+  <name>Three against one is not fair</name>
+  <detail>Defeat Super Pumpkin Bros</detail>
+ </trophy>
+</trophyconf>

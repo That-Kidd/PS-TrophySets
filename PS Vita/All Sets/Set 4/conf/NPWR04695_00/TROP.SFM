@@ -1,0 +1,100 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000054b82afc83f5c159194dd48e419647f44744eed2104f3a37621724db67161a95b0ba1350b8c2fe5afe0409668ce491f7f4668714b7fea28628e416bec62b3c2c863788e54cb0a4a2ce874804da231de2464c525cc62a3b9606e5039afc696a25513f64bb08eb2294fbba74456d927e67495358a014265a18c99becb911f0783a20962aa7e0205ff0ad5e08bca311dc596e793fd5-->
+<trophyconf version="1.1" platform="ps3,psp2" policy="large">
+ <npcommid>NPWR04695_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Ratchet &amp; Clank: Into the Nexus™</title-name>
+ <title-detail>Ratchet &amp; Clank: Into the Nexus™</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>The Pride of Fastoon</name>
+  <detail>Collect every trophy in Ratchet &amp; Clank: Into the Nexus.</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>Leap for Your Life</name>
+  <detail>Grav-Leap to the Thug ship circling the Nebulox Seven.</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>Sweet Justice</name>
+  <detail>Defeat Neftin Prog.</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>Shaky Truce</name>
+  <detail>Form an alliance with Neftin Prog.</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>Cross the Streams</name>
+  <detail>Defeat the Nether Leader and banish his kind.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>A Walk in the Park</name>
+  <detail>Beat the game on Cadet difficulty.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>The Adventurer</name>
+  <detail>Beat the game on Hero difficulty.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>The Legend</name>
+  <detail>Beat the game on Legend difficulty.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>The Show Off</name>
+  <detail>Beat the game in Challenge Mode.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>Thug Life</name>
+  <detail>Win the Destructapalooza Bronze Cup.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>Thug Rookie</name>
+  <detail>Win the Destructapalooza Silver Cup.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>Thug Champion</name>
+  <detail>Win the Destructapalooza Gold Cup.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>Vault Cracker</name>
+  <detail>Unlock the vault on planet Thram.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="000">
+  <name>In Case of Zombies...</name>
+  <detail>Purchase all weapons.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>Armored and Dangerous</name>
+  <detail>Purchase all armor.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>Going Commando</name>
+  <detail>Upgrade 1 weapon to level 6.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="G" pid="000">
+  <name>Up Your Arsenal</name>
+  <detail>Upgrade all weapons to level 6.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="G" pid="000">
+  <name>Gold Rush</name>
+  <detail>Collect all Gold Bolts.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>Greed</name>
+  <detail>Collect 1,000,000 bolts over the course of the game.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="000">
+  <name>Your Worst Nightmare</name>
+  <detail>Scare at least one of every type of enemy using the Nightmare Box.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>Precious Metal</name>
+  <detail>Collect 200 raritanium over the course of the game.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>Exterminator</name>
+  <detail>Beat Pest Control with just the Omniwrench.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>Into the Nether Region</name>
+  <detail>Complete all Netherverse segments.</detail>
+ </trophy>
+</trophyconf>

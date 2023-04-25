@@ -1,0 +1,40 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000c6496b28c35a4eb59dc6292fb4548981cc5028838345e0816be0c5c0e185688dac7f1bae4261148a961119af089291b5bdda104cc5e8fb1e490265b9adcc5ea22642fff3784bcaa7ced81721f0fe8ebc2de8e72a81625a15fdca25a6f29493390923bfc56614cd228cc3578894dc39665eac169bd2cd6be3f2b4934181e6aa7a5e17c8c82613abfb94663d0ecae8b96527d5ce23-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="small">
+ <npcommid>NPWR09010_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>1001 Spikes</title-name>
+ <title-detail>The Temple of the Dead Mourns The Living</title-detail>
+ <trophy id="000" hidden="no" ttype="S" pid="-1">
+  <name>Golden Boy</name>
+  <detail>Complete the Golden Temple</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="-1">
+  <name>Stone Cold</name>
+  <detail>Complete Antarctica</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Lost and Found</name>
+  <detail>Complete the Lost Levels</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Towerful</name>
+  <detail>Complete the Tower of Nannar</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="-1">
+  <name>Headhunter</name>
+  <detail>Collect all golden skulls</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="-1">
+  <name>Collector</name>
+  <detail>Unlock every character and costume</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="-1">
+  <name>Speed Runner</name>
+  <detail>Complete every stage of the main game as Aban Hawkins with a cumulative time of less than 30 minutes</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Serpentine</name>
+  <detail>Find the Key of Serpentis</detail>
+ </trophy>
+</trophyconf>

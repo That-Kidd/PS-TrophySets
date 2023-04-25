@@ -1,0 +1,136 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000075646cc3fa6ff962a447bf7a9501998428b46cc4131375bd1a214ca13f577c00ce3bf005b2f7e3718631166a46d8bfedc97cac28c774501225b50750ba37d07eb416515bb2fb7f3bcd9ecd75c9cccef8fa0a86dda9f9fc764295190fe064e53a049120313b9369521252d7f41a51afe5b7888e59ea618ae2ec8bde587c0f566f2781c7f4c1859c9ea01dde7a181134501fd46ec4-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR12286_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>TOUHOU DOUBLE FOCUS</title-name>
+ <title-detail>TOUHOU DOUBLE FOCUS Trophies</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Gensokyo Pulitzer Prize</name>
+  <detail>Obtain all trophies.</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="G" pid="000">
+  <name>Lost Fairy</name>
+  <detail>Help a fairy.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>Talented Journalist</name>
+  <detail>Complete the Snap Archive.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>Fastest In All of Gensokyo</name>
+  <detail>Complete Time Attack mode within an hour (Normal or above).</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>Doctor Not Required</name>
+  <detail>Clear the game without using a heal skill (Normal or above).</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>Infidel</name>
+  <detail>Clear the game without saving (Normal or above).</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="000">
+  <name>Reap What You Sow</name>
+  <detail>Defeat fictional Reimu.</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>Warrior Monk</name>
+  <detail>Defeat Byakuren in under 40 seconds (Normal or above).</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>Nyan Nyan Slap</name>
+  <detail>Defeat Seiga in under 50 seconds (Normal or above).</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>Sweet Maze Runner</name>
+  <detail>Defeat Shinmyomaru in under 60 seconds (Normal or above).</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>Masquerade Fight Party</name>
+  <detail>Defeat Kokoro in under 45 seconds (Normal or above).</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>Photo Finish</name>
+  <detail>Defeat all bosses with Perfect Shot as the finishing blow.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>Book World Complete</name>
+  <detail>Complete 100% of the map.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>Treasure Hunt</name>
+  <detail>Obtain all items.</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>Bucket List</name>
+  <detail>Give Kisume all containers.</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>Castle Area Start</name>
+  <detail>Enter Castle Area.</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>Head Monk of the White Castle</name>
+  <detail>Defeat Byakuren.</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>Victory - Byakuren Hijiri </name>
+  <detail>Defeat Byakuren without taking any damage (Normal or above).</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>Desert Area Start</name>
+  <detail>Enter Desert Area.</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>Wicked Hermit of the Burning Sand</name>
+  <detail>Defeat Seiga.</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="000">
+  <name>Victory - Seiga Kaku</name>
+  <detail>Defeat Seiga without taking any damage (Normal or above).</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>Fairy Tale Area Start</name>
+  <detail>Enter Fairy Tale Area.</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="B" pid="000">
+  <name>Inchling of the Candy House</name>
+  <detail>Defeat Shinmyomaru.</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>Victory - Shinmyomaru Sukuna </name>
+  <detail>Defeat Shinmyomaru without taking any damage (Normal or above).</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="000">
+  <name>Water City Area Search</name>
+  <detail>Enter Water City Area.</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="B" pid="000">
+  <name>Menreiki Who Drifts On Water</name>
+  <detail>Defeat Kokoro.</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>Victory - Kokoro Hata</name>
+  <detail>Defeat Kokoro without taking any damage (Normal or above).</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>Forced Deportation</name>
+  <detail>Send 100 fairies back to Gensokyo.</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="B" pid="000">
+  <name>Speedy Delivery</name>
+  <detail>Deliver candy within 10 seconds.</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="B" pid="000">
+  <name>Headless Horror</name>
+  <detail>Show Sekibanki's head to Kosuzu.</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="B" pid="000">
+  <name>Unidentified Underground Passage</name>
+  <detail>Snap a photo of Nue Houjuu.</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="B" pid="000">
+  <name>Eyes of Jealousy</name>
+  <detail>Snap a photo of Parsee Mizuhashi.</detail>
+ </trophy>
+</trophyconf>

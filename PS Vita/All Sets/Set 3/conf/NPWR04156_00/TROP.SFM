@@ -1,0 +1,432 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000fb9c249990dd2509c874c95677617264578991af75a4c7321151ec54a8ddd3851354c0909ee59af113f2d73824f33b2fbec0421dad67166796e0113c70131fdcd3b779c6600323c2b1a100545ae733fb898820e0a8d0b4311816823a8b15fcbf2179bfd2e01714fa2166088f29848666afa9afbd2703293860d412fed482ee79ad4772bc9cb863405e5c3196f80a328d6b07f1cb-->
+<trophyconf version="1.1" platform="ps3,psp2,ps4" policy="large">
+ <npcommid>NPWR04156_00</npcommid>
+ <trophyset-version>01.12</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>モンスターハンター　フロンティアＺ</title-name>
+ <title-detail>モンスターハンター　フロンティアＺ</title-detail>
+ <group id="001">
+  <name>トロフィーパック2</name>
+  <detail>トロフィーパック2</detail>
+ </group>
+ <group id="002">
+  <name>トロフィーパック3</name>
+  <detail>トロフィーパック3</detail>
+ </group>
+ <group id="003">
+  <name>トロフィーパック4</name>
+  <detail>トロフィーパック4</detail>
+ </group>
+ <group id="004">
+  <name>トロフィーパック5</name>
+  <detail>トロフィーパック5</detail>
+ </group>
+ <group id="005">
+  <name>トロフィーパック6</name>
+  <detail>トロフィーパック6</detail>
+ </group>
+ <group id="006">
+  <name>トロフィーパック7</name>
+  <detail>トロフィーパック7</detail>
+ </group>
+ <group id="007">
+  <name>トロフィーパック8</name>
+  <detail>トロフィーパック8</detail>
+ </group>
+ <group id="008">
+  <name>トロフィーパック9</name>
+  <detail>トロフィーパック9</detail>
+ </group>
+ <group id="009">
+  <name>トロフィーパック10</name>
+  <detail>トロフィーパック10</detail>
+ </group>
+ <group id="010">
+  <name>トロフィーパック11</name>
+  <detail>トロフィーパック11</detail>
+ </group>
+ <group id="011">
+  <name>トロフィーパック12</name>
+  <detail>トロフィーパック12</detail>
+ </group>
+ <group id="012">
+  <name>トロフィーパック13</name>
+  <detail>トロフィーパック13</detail>
+ </group>
+ <group id="013">
+  <name>トロフィーパック14</name>
+  <detail>トロフィーパック14</detail>
+ </group>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>ギルドのお墨付き</name>
+  <detail>一人前のハンターとして認められた。</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>初めて指定クエストをクリア</name>
+  <detail>初めてギルド指定クエストをクリア。</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>HR2に到達！</name>
+  <detail>ハンターランクを２に上げる。</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>HR2の指定クエストクリア・１</name>
+  <detail>HR2のギルド指定クエストを２つクリア。</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>HR2の指定クエストクリア・２</name>
+  <detail>HR2のギルド指定クエストを４つクリア。</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>HR3に到達！</name>
+  <detail>ハンターランクを３に上げる。</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>HR3の指定クエストクリア・１</name>
+  <detail>HR3のギルド指定クエストを２つクリア。</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>HR3の指定クエストクリア・２</name>
+  <detail>HR3のギルド指定クエストを４つクリア。</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>HR4に到達！</name>
+  <detail>ハンターランクを４に上げる。</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>HR4の指定クエストクリア・１</name>
+  <detail>HR4のギルド指定クエストを２つクリア。</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>HR4の指定クエストクリア・２</name>
+  <detail>HR4のギルド指定クエストを４つクリア。</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>スゴ腕ハンター</name>
+  <detail>ハンターランクを５に上げる。</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>究極ハンター</name>
+  <detail>ハンターランクを６に上げる。</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>初めての称号</name>
+  <detail>初めて称号を獲得する。</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>称号コレクター</name>
+  <detail>30個の称号を獲得する。</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>称号王</name>
+  <detail>100個の称号を獲得する。</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>狩猟生活の始まり</name>
+  <detail>初めて大型モンスターを狩猟する。</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>狩猟生活に開眼</name>
+  <detail>大型モンスターを50頭狩猟する。</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>ハンターライフ満喫</name>
+  <detail>大型モンスターを100頭狩猟する。</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="G" pid="000">
+  <name>モンスターハンター</name>
+  <detail>大型モンスターを1000頭狩猟する。</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>初めての剛種狩り</name>
+  <detail>初めて剛種クエストの大型モンスターを狩猟する。</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>剛種スレイヤー</name>
+  <detail>剛種クエストの大型モンスターを10頭狩猟する。</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>剛種ハンター</name>
+  <detail>剛種クエストの大型モンスターを50頭狩猟する。</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>突然変異種と初遭遇</name>
+  <detail>初めて★５ランクの変種モンスターを狩猟する。</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>突然変異種スレイヤー</name>
+  <detail>★５ランクの変種モンスターを10頭狩猟する。</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="S" pid="000">
+  <name>突然変異種ハンター</name>
+  <detail>★５ランクの変種モンスターを50頭狩猟する。</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>初めての古龍討伐</name>
+  <detail>初めて古龍種を討伐する。</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>古龍スレイヤー</name>
+  <detail>古龍種を10体討伐する。</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="S" pid="000">
+  <name>古龍ハンター</name>
+  <detail>古龍種を50体討伐する。</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>初めての生け捕り</name>
+  <detail>初めてモンスターを捕獲する。</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>可能性は無限大</name>
+  <detail>狩人珠を手に入れる。</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>気球乗り</name>
+  <detail>キャラバンクエストの★0クエストをクリアする。</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="S" pid="000">
+  <name>キャラバン王</name>
+  <detail>キャラバンクエストの★８クエストまでをすべてクリアする。</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>やりこみハンター</name>
+  <detail>プレイ時間が300時間を超える。</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>ブルジョワハンター</name>
+  <detail>所持金が200万zを超える。</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="S" pid="000">
+  <name>ベストデザイナー</name>
+  <detail>マイギャラリーのギャラリー大会で評価ポイントを100000ポイント以上獲得する。</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>ハンターへの挑戦</name>
+  <detail>VS.クエストで対戦をする。</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>仲間と共に</name>
+  <detail>２人以上のパーティーを組んでクエストをクリアする。</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>本日のスペシャル</name>
+  <detail>自分の部屋でスペシャル猫飯をふるまわれた。</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="000">
+  <name>頼狩人の初契約</name>
+  <detail>初めて頼狩人の契約を結ぶ。</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="S" pid="000">
+  <name>頼れる狩人</name>
+  <detail>武器種の解放を11種（全種）行う。</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="B" pid="000">
+  <name>強力な頼狩人への道</name>
+  <detail>武器の解放レベルを上げる。</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="B" pid="000">
+  <name>強靭な頼狩人への道</name>
+  <detail>防具の解放レベルを上げる。</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="B" pid="000">
+  <name>管理人さんとの出会い</name>
+  <detail>マイトレ管理人と初めて会話する。</detail>
+ </trophy>
+ <trophy id="044" hidden="no" ttype="S" pid="000">
+  <name>プーギー牧場は大賑わい</name>
+  <detail>マイトレでプーギーを３匹飼う。</detail>
+ </trophy>
+ <trophy id="045" hidden="no" ttype="B" pid="000">
+  <name>管理人さんからのプレゼント</name>
+  <detail>マイトレ管理人からアイテムを初めてプレゼントされる。</detail>
+ </trophy>
+ <trophy id="046" hidden="no" ttype="S" pid="000">
+  <name>商売上手</name>
+  <detail>マイトレですべてのお店を設置する。</detail>
+ </trophy>
+ <trophy id="047" hidden="no" ttype="B" pid="000">
+  <name>韋駄天杯に初参加</name>
+  <detail>公式狩猟大会 韋駄天杯のクエストを初めてクリアする。</detail>
+ </trophy>
+ <trophy id="048" hidden="no" ttype="B" pid="000">
+  <name>韋駄天仲間</name>
+  <detail>公式狩猟大会 猟団対抗韋駄天杯のクエストを初めてクリアする。</detail>
+ </trophy>
+ <trophy id="049" hidden="no" ttype="B" pid="000">
+  <name>大討伐に初参加</name>
+  <detail>大討伐クエストに参加して初めて大討伐貢献ポイントを獲得する。</detail>
+ </trophy>
+ <trophy id="050" hidden="no" ttype="B" pid="000">
+  <name>開拓者</name>
+  <detail>開拓MAPを手に入れる。</detail>
+ </trophy>
+ <trophy id="051" hidden="no" ttype="B" pid="000">
+  <name>初めて緊急クエストをクリア</name>
+  <detail>初めて緊急クエストをクリアした。</detail>
+ </trophy>
+ <trophy id="052" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>蛮竜狩猟の証</name>
+  <detail>グレンゼブルを狩猟した。</detail>
+ </trophy>
+ <trophy id="053" hidden="yes" ttype="S" pid="-1" gid="001">
+  <name>狩りの極意</name>
+  <detail>初めて秘伝書を手に入れた。</detail>
+ </trophy>
+ <trophy id="054" hidden="yes" ttype="G" pid="-1" gid="001">
+  <name>秘伝防具生産</name>
+  <detail>初めて秘伝防具を手に入れた。</detail>
+ </trophy>
+ <trophy id="055" hidden="no" ttype="B" pid="-1" gid="002">
+  <name>渾身の一振り</name>
+  <detail>初めて剛猫武器を生産した。</detail>
+ </trophy>
+ <trophy id="056" hidden="no" ttype="G" pid="-1" gid="002">
+  <name>剛猫武器コレクター</name>
+  <detail>剛猫武器を100回生産した。</detail>
+ </trophy>
+ <trophy id="057" hidden="no" ttype="B" pid="-1" gid="002">
+  <name>狩猟技クエストに初参加</name>
+  <detail>初めて狩猟技クエストに参加した。</detail>
+ </trophy>
+ <trophy id="058" hidden="no" ttype="B" pid="-1" gid="003">
+  <name>家族が増えました</name>
+  <detail>共に過ごす家族が増えました。</detail>
+ </trophy>
+ <trophy id="059" hidden="no" ttype="B" pid="-1" gid="003">
+  <name>双極の脅威</name>
+  <detail>ルコディオラを討伐した。</detail>
+ </trophy>
+ <trophy id="060" hidden="yes" ttype="S" pid="-1" gid="003">
+  <name>千載一遇</name>
+  <detail>特別なイベントに遭遇した。</detail>
+ </trophy>
+ <trophy id="061" hidden="no" ttype="B" pid="-1" gid="004">
+  <name>猛き眷族</name>
+  <detail>ゴゴモアを狩猟した。</detail>
+ </trophy>
+ <trophy id="062" hidden="no" ttype="S" pid="-1" gid="004">
+  <name>頼れる相棒</name>
+  <detail>ホルクをなつかせた。</detail>
+ </trophy>
+ <trophy id="063" hidden="no" ttype="B" pid="-1" gid="004">
+  <name>継続は力なり</name>
+  <detail>シリーズクエストの、ビギナーシリーズを１つでも最後まで遊んだ。</detail>
+ </trophy>
+ <trophy id="064" hidden="no" ttype="B" pid="-1" gid="005">
+  <name>新たなる種</name>
+  <detail>アビオルグを狩猟した。</detail>
+ </trophy>
+ <trophy id="065" hidden="yes" ttype="B" pid="-1" gid="005">
+  <name>未知の生態系</name>
+  <detail>珍しいタイクンザムザを狩猟した。</detail>
+ </trophy>
+ <trophy id="066" hidden="no" ttype="S" pid="-1" gid="005">
+  <name>突然変異</name>
+  <detail>珍しいグークをマイガーデンに迎えいれた。</detail>
+ </trophy>
+ <trophy id="067" hidden="no" ttype="B" pid="-1" gid="006">
+  <name>閃晶の瞬き</name>
+  <detail>クアルセプスを狩猟した。</detail>
+ </trophy>
+ <trophy id="068" hidden="no" ttype="G" pid="-1" gid="006">
+  <name>頼もしい相棒</name>
+  <detail>ホルクをLv3にする。</detail>
+ </trophy>
+ <trophy id="069" hidden="yes" ttype="S" pid="-1" gid="006">
+  <name>秘伝の境地</name>
+  <detail>秘伝書育成の効果を得た。</detail>
+ </trophy>
+ <trophy id="070" hidden="yes" ttype="S" pid="-1" gid="007">
+  <name>紅の楼閣</name>
+  <detail>覇種オディバトラスを討伐した。</detail>
+ </trophy>
+ <trophy id="071" hidden="yes" ttype="B" pid="-1" gid="007">
+  <name>大爆発！</name>
+  <detail>アフロ姿になりました。</detail>
+ </trophy>
+ <trophy id="072" hidden="no" ttype="B" pid="-1" gid="007">
+  <name>初段認定</name>
+  <detail>狩猟技昇段試合で初段に昇段する。</detail>
+ </trophy>
+ <trophy id="073" hidden="no" ttype="G" pid="-1" gid="008">
+  <name>G</name>
+  <detail>Ｇ級ハンターとしてギルドから認められた。</detail>
+ </trophy>
+ <trophy id="074" hidden="yes" ttype="S" pid="-1" gid="009">
+  <name>吸血の恐怖</name>
+  <detail>バルラガルを狩猟した。</detail>
+ </trophy>
+ <trophy id="075" hidden="yes" ttype="S" pid="-1" gid="009">
+  <name>白き飛竜</name>
+  <detail>ゼルレウスを狩猟した。</detail>
+ </trophy>
+ <trophy id="076" hidden="yes" ttype="B" pid="-1" gid="009">
+  <name>泉に響く歌声</name>
+  <detail>美しい歌声を取り戻した。</detail>
+ </trophy>
+ <trophy id="077" hidden="yes" ttype="S" pid="-1" gid="010">
+  <name>百・花・竜・乱</name>
+  <detail>フォロクルルを狩猟した。</detail>
+ </trophy>
+ <trophy id="078" hidden="yes" ttype="B" pid="-1" gid="010">
+  <name>絶招！龍気穿撃！</name>
+  <detail>穿龍棍を入手した。</detail>
+ </trophy>
+ <trophy id="079" hidden="yes" ttype="S" pid="-1" gid="011">
+  <name>金色の旋風</name>
+  <detail>ガルバダオラを狩猟した。</detail>
+ </trophy>
+ <trophy id="080" hidden="yes" ttype="S" pid="-1" gid="011">
+  <name>眠りに誘いし龍</name>
+  <detail>イナガミを狩猟した。</detail>
+ </trophy>
+ <trophy id="081" hidden="yes" ttype="B" pid="-1" gid="011">
+  <name>頼りにするニャ！</name>
+  <detail>パートニャーを雇用した。</detail>
+ </trophy>
+ <trophy id="082" hidden="yes" ttype="S" pid="-1" gid="012">
+  <name>こだまする三重奏</name>
+  <detail>ポボルバルムを狩猟した。</detail>
+ </trophy>
+ <trophy id="083" hidden="yes" ttype="G" pid="-1" gid="012">
+  <name>暴虐なる番人</name>
+  <detail>ドゥレムディラを討伐した。</detail>
+ </trophy>
+ <trophy id="084" hidden="yes" ttype="B" pid="-1" gid="012">
+  <name>天廊武器生産</name>
+  <detail>初めて天廊武器を手に入れた。</detail>
+ </trophy>
+ <trophy id="085" hidden="yes" ttype="S" pid="-1" gid="012">
+  <name>銀戟の猛襲</name>
+  <detail>ハルドメルグを討伐した。</detail>
+ </trophy>
+ <trophy id="086" hidden="yes" ttype="B" pid="-1" gid="012">
+  <name>狩人覚醒</name>
+  <detail>超越秘儀を使用した。</detail>
+ </trophy>
+ <trophy id="087" hidden="yes" ttype="S" pid="-1" gid="013">
+  <name>紫霧に潜む狂気</name>
+  <detail>ガスラバズラを狩猟した。</detail>
+ </trophy>
+ <trophy id="088" hidden="yes" ttype="S" pid="-1" gid="013">
+  <name>雷狼降臨</name>
+  <detail>ジンオウガを狩猟した。</detail>
+ </trophy>
+ <trophy id="089" hidden="yes" ttype="S" pid="-1" gid="013">
+  <name>絢翼の鳥竜</name>
+  <detail>トリドクレスを狩猟した。</detail>
+ </trophy>
+ <trophy id="090" hidden="yes" ttype="B" pid="-1" gid="013">
+  <name>出現！黒き絶島主！</name>
+  <detail>Ｇ級大討伐に参加した。</detail>
+ </trophy>
+ <trophy id="091" hidden="yes" ttype="S" pid="-1" gid="013">
+  <name>竜を統べし龍</name>
+  <detail>グァンゾルムを討伐した。</detail>
+ </trophy>
+ <trophy id="092" hidden="yes" ttype="B" pid="-1" gid="013">
+  <name>剣斧の継承</name>
+  <detail>スラッシュアックスＦを入手した。</detail>
+ </trophy>
+</trophyconf>

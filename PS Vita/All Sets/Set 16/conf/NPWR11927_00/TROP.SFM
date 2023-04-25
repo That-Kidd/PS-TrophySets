@@ -1,0 +1,56 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000036d2e7c8d56372cf655bb138bd3e92880ad6f71f177a13c365f61affc0b90c05ae3c9ba986911a0dca8fe2aec43d0112aa0b4514c4bdc9306451887eebcea4c98c37e12c32cf37de2c0fae8263598c08b6a2392f5ef56c4e16bc201fc239ad1a52a364196909cc07f35d9bddb67724cf1961fe437d1b896555eb15e39750a2f5cb2be706750d0b2ce290cf4c9b645638867d4a02-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR11927_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Iron Sea</title-name>
+ <title-detail>Trophy set for Iron Sea</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Builder</name>
+  <detail>Build 50 towers</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Cannoneer</name>
+  <detail>Kill 1000 enemies</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Secret weapon</name>
+  <detail>Kill 500 enemies with the secret weapon</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Seller</name>
+  <detail>Sell 50 towers</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Furious</name>
+  <detail>Launch 100 waves on one map manually</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Head Hunter</name>
+  <detail>Get 100 000 coins</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Fortune's favorite</name>
+  <detail>Complete level when your castle has 1 HP</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="-1">
+  <name>Engineer</name>
+  <detail>Build 1000 towers</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="-1">
+  <name>Commander-in-Chief</name>
+  <detail>Kill 50 000 enemies</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="-1">
+  <name>Heavy artillery</name>
+  <detail>Fully upgrade 200 towers</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="-1">
+  <name>Capitalist</name>
+  <detail>Sell 500 towers</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="-1">
+  <name>Admiral</name>
+  <detail>Complete all levels with 3 stars</detail>
+ </trophy>
+</trophyconf>

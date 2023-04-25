@@ -1,0 +1,144 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000057e335834749797fbea9ec8d636c9720659430afabf1a30d328352647f2123a597bef9a5b05a22f63980c8e9cfe2fa09eebbaefe0012060b31e15e53a729cd1bf919ff428ceeb0fffd52008926076663ce724d299b512975d18c6dd82296a12210afd6a3a5a5cf2552deaa3e6f763f10bbade02e9a87ee25f90b5d85eb19276c0678964848064a5b7cf4872eba8f1f0ae59f0647-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR13284_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>深夜廻</title-name>
+ <title-detail>深夜廻のトロフィーセットです</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>夜、深く</name>
+  <detail>全てのトロフィー取得</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>黄昏</name>
+  <detail>オープニングをクリアした</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>逢魔時</name>
+  <detail>1章をクリアした</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>宵の口</name>
+  <detail>2章をクリアした</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>夜四ツ</name>
+  <detail>3章をクリアした</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>夜半</name>
+  <detail>4章をクリアした</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>闇夜</name>
+  <detail>5章をクリアした</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>真夜中</name>
+  <detail>6章をクリアした</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>夜更け</name>
+  <detail>7章をクリアした</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>深夜</name>
+  <detail>8章をクリアした</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>丑の刻</name>
+  <detail>9章をクリアした</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>断ち切り</name>
+  <detail>悪意にうちかった</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="G" pid="000">
+  <name>夜明け</name>
+  <detail>シナリオをクリアした</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="000">
+  <name>紙飛行機</name>
+  <detail>紙飛行機を30回飛ばした</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="B" pid="000">
+  <name>電光</name>
+  <detail>5体以上もやの怪異（エクトプラズム）を消した</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="S" pid="000">
+  <name>戦利品</name>
+  <detail>トロフィーを拾った</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>隠伏</name>
+  <detail>かくれる行動を合計50回行った</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>道祖神</name>
+  <detail>お地蔵さんに合計20回おそなえものをした</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>寄り道</name>
+  <detail>缶を合計10回蹴った</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>宝探し</name>
+  <detail>ごみぶくろを合計20回あけた</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="000">
+  <name>猫</name>
+  <detail>猫を10匹以上撫でた</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>犬</name>
+  <detail>犬を10分連れ歩いた</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="S" pid="000">
+  <name>透明な何か</name>
+  <detail>透明な何かを拾った</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>廿</name>
+  <detail>合計20回ゲームオーバーした</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="S" pid="000">
+  <name>五拾</name>
+  <detail>合計50回ゲームオーバーした</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="G" pid="000">
+  <name>八十</name>
+  <detail>合計80回ゲームオーバーした</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>掲示板</name>
+  <detail>5種類の掲示板を読んだ</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="S" pid="000">
+  <name>おまもり</name>
+  <detail>おまもりをすべてあつめた</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="G" pid="000">
+  <name>収拾癖</name>
+  <detail>自宅にいろんなものをかざった</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="S" pid="000">
+  <name>探索</name>
+  <detail>パズルが完成した</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="S" pid="000">
+  <name>消耗品</name>
+  <detail>つかうものをすべて集めた</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="G" pid="000">
+  <name>思い出</name>
+  <detail>これくしょんをすべて集めた</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="S" pid="000">
+  <name>巡遊</name>
+  <detail>1000歩歩いた</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="S" pid="000">
+  <name>大鴉</name>
+  <detail>化けカラスと遭遇した</detail>
+ </trophy>
+</trophyconf>

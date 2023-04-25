@@ -1,0 +1,180 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000e3f3d556b0b48ce63826c31424baa36dea1a4fe80fbd42ed374b79d2b76683434944849563295f50db82a6b39049fa9e060d72ff6cdf723e573835061a9e80cf74db1a782ea4c8b8ed552e0cb64036e4c78aa014b7a8ea2dfa189b92b8c1724e7d2fa9234af80d6a04a4d2de59a1daca61825b0ffb6594674c8e8d7e520b89e84debd2af768c165e4e3b359cdd9990a6c96ba451-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR10101_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Crypt of the NecroDancer</title-name>
+ <title-detail>Crypt of the NecroDancer</title-detail>
+ <group id="001">
+  <name>Amplified DLC</name>
+  <detail>Amplified DLC</detail>
+ </group>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>NecroMaster!!</name>
+  <detail>Unlock all trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="000">
+  <name>In The Zone (1)</name>
+  <detail>Complete zone 1 with solo Cadence!</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>In The Zone (2)</name>
+  <detail>Complete zone 2 with solo Cadence!</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>In The Zone (3)</name>
+  <detail>Complete zone 3 with solo Cadence!</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>Merchanticide</name>
+  <detail>Kill the shopkeeper</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>Heartthrob</name>
+  <detail>Have 10 heart containers at the same time</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>In The Zone (4)</name>
+  <detail>Complete zone 4 with solo Cadence!</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>So Hardcore!</name>
+  <detail>Complete "All Zones Mode" with solo Cadence</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>Friendly Fire</name>
+  <detail>Use a red dragon's fireball to kill another miniboss</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>A Beatless Beatdown</name>
+  <detail>Complete "All Zones Mode" with solo Bard</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>Carpe Diem</name>
+  <detail>Complete a Daily Challenge</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>Lute that Loot</name>
+  <detail>Complete "All Zones Mode" with solo Melody</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>I love gooooooold!</name>
+  <detail>Have 6000 coins in a single run</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="000">
+  <name>Speed Demon</name>
+  <detail>Complete "All Zones Mode" with solo Cadence in under 15 minutes</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="000">
+  <name>Bombs Away!</name>
+  <detail>Complete "All Zones Mode" with solo Eli</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="G" pid="000">
+  <name>Two Can Tango!</name>
+  <detail>Complete "All Zones Mode" while playing Co-op</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="G" pid="000">
+  <name>Peace Out</name>
+  <detail>Complete "All Zones Mode" with solo Dove</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Mostly Harmless</name>
+  <detail>Get killed by a green slime</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>Vow down!</name>
+  <detail>Complete "All Zones Mode" with solo Monk</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Bat Trick</name>
+  <detail>Kill three green bats</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>8Ball</name>
+  <detail>Kill 8 enemies with a single bomb</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>Leaps and Bounds</name>
+  <detail>Complete "All Zones Mode" with solo Dorian</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>You Don't Miss a Beat, Do You?</name>
+  <detail>Complete "All Zones Mode" with solo Aria</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>Tachycardia</name>
+  <detail>Complete "All Zones Mode" with solo Bolt</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>Flawless Victory!</name>
+  <detail>Aria Low%. Complete "All Zones Mode" with solo Aria without picking up any items or using any shrines. (Picking up gold is permitted.)</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="G" pid="000">
+  <name>Polyamorous</name>
+  <detail>Complete an "All Chars" run</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="S" pid="000">
+  <name>Undeadly</name>
+  <detail>Get 10 wins in a row in Cadence "Deathless Mode"</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="G" pid="000">
+  <name>Impossible, Right?</name>
+  <detail>Complete "All Zones Mode" with solo Coda</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="G" pid="000">
+  <name>Lowest of the Low</name>
+  <detail>"All Chars" low%. Complete an "All Chars" run without picking up any items or using any shrines. (Picking up gold is permitted.)</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>Bat to the Bone</name>
+  <detail>Complete "All Zones Mode" with solo Nocturna</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>In The Zone (5)</name>
+  <detail>Complete zone 5!</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>No I Won't Back Down</name>
+  <detail>Complete "No Return Mode" with solo Cadence</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>Hard Act to Follow</name>
+  <detail>Complete "Hard Mode" with solo Nocturna</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>A Haunting Performance</name>
+  <detail>Complete "Phasing Mode" with any character</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>Mix Master</name>
+  <detail>Complete "Randomizer Mode" with any character</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>What Just Happened?</name>
+  <detail>Complete "Mystery Mode" with any character</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>Mode Master</name>
+  <detail>Complete "Story Mode", "Hard Mode", "Phasing Mode", "No Return Mode", "Randomizer Mode", and "Mystery Mode" with any character</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>Storybook Ending</name>
+  <detail>Complete "Story Mode"</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>Like a Bat Out of Hell</name>
+  <detail>Complete "All Zones Mode" with solo Nocturna in under 15 minutes</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>Golden Loot</name>
+  <detail>Have 8000 coins in a single run with solo Nocturna</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>ElecTrick</name>
+  <detail>Kill 8 enemies at once with electricity</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>Very Polyamorous</name>
+  <detail>Complete an "All chars (including DLC)" run</detail>
+ </trophy>
+</trophyconf>

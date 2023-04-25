@@ -1,0 +1,56 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000073cc39957c1fdc74ed6030ccc8f6fa5c7097d443266261a2a076983c5631658c47c5ed784ab4b182a18ef0d3e41fd2c720ea4d8b691545731268e3653e1a0a6ea27543d0e32f05a3c92cf5ef8e14ebd986cc6d82781b88a3cf86ea633f743514b87a5cddc2e85eafa336b41aca70a12d39869e5a99c6fb2255647145a45c5f51fba504a640d731ae1f6682627b71b7f47a502d25-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR04488_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>TOEIC(R) TEST 実戦特訓2</title-name>
+ <title-detail>『TOEIC(R) TEST 実戦特訓2』のトロフィーセットです。&#x0a;問題に正解したり、ゲーム学習で遊んだり、ショップで購入したりすることでトロフィーが獲得できます。&#x0a;たくさん学習して、すべてのトロフィーの獲得を目指しましょう。&#x0a;</title-detail>
+ <trophy id="000" hidden="no" ttype="G" pid="-1">
+  <name>全トロフィー取得</name>
+  <detail>すべてのトロフィーを獲得する。</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="-1">
+  <name>アイテムコレクター</name>
+  <detail>ポイントショップですべての商品を購入する。</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="-1">
+  <name>全問題制覇！</name>
+  <detail>収録されている問題をすべて正解する。</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="-1">
+  <name>日々の努力の成果</name>
+  <detail>プレイ時間が15時間を超える。</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>チャレンジャー</name>
+  <detail>チャレンジコースの１つを初めてクリアする。</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>学習開始！</name>
+  <detail>練習問題を初めてプレイする。</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>本番試験に臨もう！</name>
+  <detail>設定した学習完了日を経過する。</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>チェンジで</name>
+  <detail>初めてキャラクターを変更する。</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>風船割りマニア</name>
+  <detail>ゲーム学習の『BALLOON SHOOT!』で、スコア1000点以上を取得する。</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>第六感持ち</name>
+  <detail>ゲーム学習の『Ghost Hunt』で、スコア1000点以上を取得する。</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>超反応</name>
+  <detail>ゲーム学習の『Rush Attack』で、スコア1000点以上を取得する。</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="-1">
+  <name>半分できました</name>
+  <detail>模擬試験の自動生成試験で5割以上のスコアを取得する。</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,136 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000093164536cfb35d5cec1316b662750cc06fdd48141b58de1aa9795692ba6969ec1457633ff8a7999cc9013dd167929387909bb4d457456875970598892ad3de0bea4b81f54b09d4a99bea00a71d9045596951b0d00eebdd1710399832b4c6512bd683f471c78ee1889e18e3c909309eb9b78614c56a91084539092b1d58ddf012d97eddd39124bde5ad44ac8f6226de55f9419000-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR15138_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>白と黒のアリス -Twilight line-</title-name>
+ <title-detail>白と黒のアリス -Twilight line-トロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>白と黒のアリス -Twilight line-</name>
+  <detail>全てのトロフィーを獲得した</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>Lover's Day of White side -Rain-</name>
+  <detail>レインのアフタールート（白）をクリアした</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>Lover's Day of Black side -Rain-</name>
+  <detail>レインのアフタールート（黒）をクリアした</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>Lover's Day of White side -Snow-</name>
+  <detail>スノウのアフタールート（白）をクリアした</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>Lover's Day of Black side -Snow-</name>
+  <detail>スノウのアフタールート（黒）をクリアした</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>Lover's Day of White side -Minette-</name>
+  <detail>ミネットのアフタールート（白）をクリアした</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>Lover's Day of Black side -Minette-</name>
+  <detail>ミネットのアフタールート（黒）をクリアした</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>Lover's Day of White side -Jack-</name>
+  <detail>ジャックのアフタールート（白）をクリアした</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>Lover's Day of Black side -Jack-</name>
+  <detail>ジャックのアフタールート（黒）をクリアした</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="000">
+  <name>Lover's Day of White side -Nello-</name>
+  <detail>ネロのアフタールート（白）をクリアした</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="000">
+  <name>Lover's Day of Black side -Nello-</name>
+  <detail>ネロのアフタールート（黒）をクリアした</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>Lover's Day of White side -Kanon-</name>
+  <detail>カノンのアフタールート（白）をクリアした</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="B" pid="000">
+  <name>Lover's Day of Black side -Kanon-</name>
+  <detail>カノンのアフタールート（黒）をクリアした</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="G" pid="000">
+  <name>白と黒の世界</name>
+  <detail>全てのアフタールートをクリアした</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>卵が割れなかったら</name>
+  <detail>アナザールートを開始した</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>Another Line -Rain-</name>
+  <detail>レインのアナザールート（グッド）をクリアした</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>Another Line -Snow-</name>
+  <detail>スノウのアナザールート（グッド）をクリアした</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>Another Line -Minette-</name>
+  <detail>ミネットのアナザールート（グッド）をクリアした</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>Another Line -Jack-</name>
+  <detail>ジャックのアナザールート（グッド）をクリアした</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>Another Line -Nello-</name>
+  <detail>ネロのアナザールート（グッド）をクリアした</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="000">
+  <name>Another Line -Kanon-</name>
+  <detail>カノンのアナザールート（グッド）をクリアした</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="G" pid="000">
+  <name>虚の世界</name>
+  <detail>全てのアナザールート（グッド）をクリアした</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="S" pid="000">
+  <name>黒うさぎの想い出</name>
+  <detail>レインの画像を全てオープンした</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="S" pid="000">
+  <name>白うさぎの想い出</name>
+  <detail>スノウの画像を全てオープンした</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="S" pid="000">
+  <name>チェシャ猫の想い出</name>
+  <detail>ミネットの画像を全てオープンした</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="S" pid="000">
+  <name>ハートの騎士の想い出</name>
+  <detail>ジャックの画像を全てオープンした</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="S" pid="000">
+  <name>三月うさぎの想い出</name>
+  <detail>ネロの画像を全てオープンした</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="S" pid="000">
+  <name>帽子屋の想い出</name>
+  <detail>カノンの画像を全てオープンした</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="G" pid="000">
+  <name>懐中時計と蓄音機</name>
+  <detail>ＢＧＭを全てオープンした</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="G" pid="000">
+  <name>まほうの動く絵</name>
+  <detail>動画を全てオープンした</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="G" pid="000">
+  <name>不思議の国の展覧会</name>
+  <detail>画像を全てオープンした</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="G" pid="000">
+  <name>愉快なお茶会</name>
+  <detail>オマケSSをクリアした</detail>
+ </trophy>
+</trophyconf>

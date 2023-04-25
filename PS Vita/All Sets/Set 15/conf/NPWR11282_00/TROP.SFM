@@ -1,0 +1,128 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000c2bb787027b42ef521609112a980e07a9f1c55d74470bb67f4bace0ac592f79fb22210ca27dd553d3dc62fceb1556f549fad58f22871f2d9e165b3d72f29fd27f19e231d6bf233c3ed831f8c4511407bcc3588d5633078299da7fb7ba0cbf7afaacd9c747d910f23fa90f9cb78212a6695b2630910bf3b8420b411e921d5de53df107bd3d311d04b5ca73e0304c8617ce94be647-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR11282_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>プラスティック・メモリーズ</title-name>
+ <title-detail>『プラスティック・メモリーズ』のトロフィーセットです</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>忘れないで。覚えていて。</name>
+  <detail>すべてのトロフィーを獲得した</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>知らない花火</name>
+  <detail>アイラに告白した</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>ミチルのやり方</name>
+  <detail>ミチル編を開始した</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>カヅキのやり方</name>
+  <detail>カヅキ編を開始した</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>シェリーのやり方</name>
+  <detail>シェリー編を開始した</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>エルのやり方</name>
+  <detail>エル編を開始した</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="000">
+  <name>良き隣人にして良き友人</name>
+  <detail>ミチル編をクリアした</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>不器用な元パートナー</name>
+  <detail>カヅキ編をクリアした</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>一番優しいギフティア</name>
+  <detail>シェリー編をクリアした</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>騒がしいエンジニア</name>
+  <detail>エル編をクリアした</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>祭りの後</name>
+  <detail>アイラ編を開始した</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>これからは、恋人として</name>
+  <detail>初めてのスケジュール</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>君に触れる喜び</name>
+  <detail>初めてのふれあい</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>恋人、初日</name>
+  <detail>アイラ編のシナリオを1つクリア</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>優しい日々</name>
+  <detail>アイラ編のシナリオを10個クリア</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>夢のような日々</name>
+  <detail>アイラ編のシナリオを30個クリア</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>かけがえのない日々</name>
+  <detail>アイラ編のシナリオを50個クリア</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="G" pid="000">
+  <name>輝くような日々</name>
+  <detail>アイラ編のシナリオをすべてクリア</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="S" pid="000">
+  <name>いつかまた巡り会えますように</name>
+  <detail>アイラ編Ａエンドをクリア</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="G" pid="000">
+  <name>また会えたね</name>
+  <detail>アイラ編Ｂエンドをクリア</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="S" pid="000">
+  <name>逃避行の終わり</name>
+  <detail>アイラ編Ｃエンドをクリア</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>及第点の恋人</name>
+  <detail>アイラとの関係が少し良くなった</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>理想の恋人</name>
+  <detail>アイラと良い関係を築けた</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>想い出を、少しずつ</name>
+  <detail>ＣＧを25%取得し、ALBUMモードに入る</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>いくつもの想い出を</name>
+  <detail>ＣＧを50%取得し、ALBUMモードに入る</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="S" pid="000">
+  <name>想い出が埋まってく</name>
+  <detail>ＣＧを75%取得し、ALBUMモードに入る</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="G" pid="000">
+  <name>想い出をありがとう</name>
+  <detail>ＣＧをコンプリートし、ALBUMモードに入る</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>素敵な贈り物</name>
+  <detail>衣装を１つ獲得した</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="G" pid="000">
+  <name>君について知ることのすべて</name>
+  <detail>アイラの日記を全て読んだ</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="S" pid="000">
+  <name>たくさんの贈り物</name>
+  <detail>衣装をコンプリートした</detail>
+ </trophy>
+</trophyconf>

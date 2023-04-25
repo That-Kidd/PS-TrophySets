@@ -1,0 +1,144 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000008d98d779014a5c4c1dc5c50fc4cdc5072cf248e9a02a7f68498007da04a0eb8137dbaac8365fd756adb6f21b3e0d5bd9fa68df1359aa5b1db1f594ce61a862bb714f23f10b84c2a113bfd69023b4be081231ddc9c2bdb1c3db7eff6e03b562a6644eb4ac31edd501dccf9f286ce68c1a029897605292f02ac3b8e2d0446b3ed30cc49e11202b74c9e9fe2fc7896e57800c5464a-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR10538_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>花朧 ～戦国伝乱奇～</title-name>
+ <title-detail>「花朧 ～戦国伝乱奇～」のトロフィーです</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>花朧 ～戦国伝乱奇～　完全制覇！</name>
+  <detail>全てのトロフィーを獲得した。</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>後代・長政と共に</name>
+  <detail>浅井長政終ノ章愛をクリアした。</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>後代・信長と共に</name>
+  <detail>織田信長終ノ章愛をクリアした。</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>後代・信玄と共に</name>
+  <detail>武田信玄終ノ章愛をクリアした。</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>後代・勝家と共に</name>
+  <detail>柴田勝家終ノ章愛をクリアした。</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>後代・半兵衛と共に</name>
+  <detail>竹中半兵衛終ノ章愛をクリアした。</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>運命・永久に</name>
+  <detail>浅井長政終ノ章常をクリアした。</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>運命・人の世</name>
+  <detail>織田信長終ノ章常をクリアした。</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>運命・枯れた涙</name>
+  <detail>武田信玄終ノ章常をクリアした。</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>運命・後悔</name>
+  <detail>柴田勝家終ノ章常をクリアした。</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>運命・その笑顔のために</name>
+  <detail>竹中半兵衛終ノ章常をクリアした。</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>終焉・小谷城</name>
+  <detail>浅井長政終ノ章悲をクリアした。</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>終焉・本能寺</name>
+  <detail>織田信長終ノ章悲をクリアした。</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>終焉・川中島</name>
+  <detail>武田信玄終ノ章悲をクリアした。</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>終焉・賤ヶ岳</name>
+  <detail>柴田勝家終ノ章悲をクリアした。</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>終焉・三木</name>
+  <detail>竹中半兵衛終ノ章悲をクリアした。</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>越前の美丈夫</name>
+  <detail>朝倉義景のあとがたりをみた。</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>微笑みの知略家</name>
+  <detail>明智光秀のあとがたりをみた。</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>幼き槍使い</name>
+  <detail>真田幸村のあとがたりをみた。</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>守る忠義</name>
+  <detail>佐久間盛政のあとがたりをみた。</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>天下獲り</name>
+  <detail>羽柴秀吉のあとがたりをみた。</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>伝乱奇</name>
+  <detail>滝川アラン・玉藻狐のあとがたりをみた。</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>浅井長政終ノ章制覇！</name>
+  <detail>浅井長政の終ノ章を全てみた。</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>織田信長終ノ章制覇！</name>
+  <detail>織田信長の終ノ章を全てみた。</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>武田信玄終ノ章制覇！</name>
+  <detail>武田信玄の終ノ章を全てみた。</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="S" pid="000">
+  <name>柴田勝家終ノ章制覇！</name>
+  <detail>柴田勝家の終ノ章を全てみた。</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="S" pid="000">
+  <name>竹中半兵衛終ノ章制覇！</name>
+  <detail>竹中半兵衛の終ノ章を全てみた。</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="S" pid="000">
+  <name>あとがたり制覇！</name>
+  <detail>あとがたりを全てみた。</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="G" pid="000">
+  <name>浅井長政画廊制覇！</name>
+  <detail>浅井長政の画廊が全て埋まった。</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="G" pid="000">
+  <name>織田信長画廊制覇！</name>
+  <detail>織田信長の画廊が全て埋まった。</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="G" pid="000">
+  <name>武田信玄画廊制覇！</name>
+  <detail>武田信玄の画廊が全て埋まった。</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="G" pid="000">
+  <name>柴田勝家画廊制覇！</name>
+  <detail>柴田勝家の画廊が全て埋まった。</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="G" pid="000">
+  <name>竹中半兵衛画廊制覇！</name>
+  <detail>竹中半兵衛の画廊が全て埋まった。</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="G" pid="000">
+  <name>共通画廊制覇！</name>
+  <detail>共通の画廊が全て埋まった。</detail>
+ </trophy>
+</trophyconf>

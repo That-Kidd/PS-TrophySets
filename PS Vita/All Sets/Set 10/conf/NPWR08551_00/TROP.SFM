@@ -1,0 +1,164 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000d6d5e0f9b69fe4ba326b23948b5fca75e82abede5931beb41800ddcbd68850cc0cd6de2a27731dfd8f6e153ef33312bb5e587a1240d7a09e5e9bc60f1400b3d092f9c3c555cd48cd044252a0cdafc827cd92d2197501aeeb75f3fe9491353e71a641c9565034bb75da3cb786573378ed8b2bbf9fa18f3c6f11b817e4d6b288813014b8d926c25c8db1bc53c2460bc5be3fb38e41-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR08551_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>デート・ア・ライブ Twin Edition 凜緒リンカーネイション</title-name>
+ <title-detail>「デート・ア・ライブ Twin Edition 凜緒リンカーネイション」のトロフィー情報です。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>デート・ア・コンプリート</name>
+  <detail>全てのトロフィーを獲得した</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>楽園のはじまり</name>
+  <detail>凜祢ユートピアをスタートしました</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>静かな目覚め</name>
+  <detail>或守インストールをスタートしました</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>さぁ、私たちのデートを始めましょう</name>
+  <detail>マップ画面でヒロインを選択しました</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>騒がしい知人たち</name>
+  <detail>マップ画面でサブキャラクターを選択しました</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>世界の記憶</name>
+  <detail>ギャラリーでメモリーを閲覧しました</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="G" pid="000">
+  <name>君といた日々を</name>
+  <detail>全てのメモリーを回収しました</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>十香ウェディング</name>
+  <detail>十香とのグッドエンディングを迎えました</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>鳶一ファミリー</name>
+  <detail>折紙とのグッドエンディングを迎えました</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="000">
+  <name>四糸乃ロリータ</name>
+  <detail>四糸乃とのグッドエンディングを迎えました</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="000">
+  <name>狂三リメイン</name>
+  <detail>狂三とのグッドエンディングを迎えました</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>五河フォーチュン</name>
+  <detail>琴里とのグッドエンディングを迎えました</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="B" pid="000">
+  <name>凜祢ユートピア</name>
+  <detail>凜祢ユートピアでトゥルーエンティングを迎えました</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>凜祢メモリーズ</name>
+  <detail>凜祢ユートピアの全てのエンディングを迎えました</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>凜祢ファンタジア</name>
+  <detail>凜祢のIfエンディングを迎えました。&#x0a;これはあったかもしれない小さな奇跡</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>十香アデュー</name>
+  <detail>十香とのグッドエンディングを迎えました</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>折紙デザイア</name>
+  <detail>折紙とのグッドエンディングを迎えました</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>四糸乃プレイハウス</name>
+  <detail>四糸乃とのグッドエンディングを迎えました</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>狂三デュオ</name>
+  <detail>狂三とのグッドエンディングを迎えました</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>琴里トラベル</name>
+  <detail>琴里とのグッドエンディングを迎えました</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="000">
+  <name>耶倶矢ストロール</name>
+  <detail>耶倶矢とのグッドエンディングを迎えました</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>夕弦ラヴァー</name>
+  <detail>夕弦とのグッドエンディングを迎えました</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="B" pid="000">
+  <name>美九シャイネス</name>
+  <detail>美九とのグッドエンディングを迎えました</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="S" pid="000">
+  <name>或守インストール</name>
+  <detail>或守インストールでトゥルーエンディングを迎えました</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="S" pid="000">
+  <name>鞠亜リアライズ</name>
+  <detail>或守インストールの全てのエンディングを迎えました</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="B" pid="000">
+  <name>士道ダイジェスト</name>
+  <detail>ダイジェストシナリオをスタートしました</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>新たなる楽園</name>
+  <detail>凜緒リンカーネイションをスタートしました</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="S" pid="000">
+  <name>或守スクールデイズ</name>
+  <detail>或守とエンディングを迎えました</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="S" pid="000">
+  <name>鞠奈ロマンチスト</name>
+  <detail>鞠奈とエンディングを迎えました</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="S" pid="000">
+  <name>凜緒リンカーネイション</name>
+  <detail>凜緒とエンディングを迎えました</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="S" pid="000">
+  <name>凜祢ミュオソティス</name>
+  <detail>凜緒リンカーネイションでトゥルーエンディングを迎えました</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="G" pid="000">
+  <name>続いていく想い</name>
+  <detail>全てのエンディングを迎えました</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="S" pid="000">
+  <name>繰り返す世界</name>
+  <detail>全てのバッドエンディングを迎えました</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>データチェック</name>
+  <detail>CGを閲覧しました</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="S" pid="000">
+  <name>データコレクション</name>
+  <detail>CG回収率「50％」を達成しました</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="G" pid="000">
+  <name>データコンプリート</name>
+  <detail>CG回収率「100％」を達成しました</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>ムービーチェッカー</name>
+  <detail>ムービーを閲覧しました</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="S" pid="000">
+  <name>ミュージックアルバム</name>
+  <detail>全てのBGMを聴きました</detail>
+ </trophy>
+ <trophy id="038" hidden="yes" ttype="G" pid="000">
+  <name>デート・ア・サイドストーリー</name>
+  <detail>サブキャラクターのシナリオを全て閲覧しました</detail>
+ </trophy>
+</trophyconf>

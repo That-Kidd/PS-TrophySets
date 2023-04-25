@@ -1,0 +1,116 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000056aae0447dffded0eafcf8044062b113cfb1ddfd612d8be390f86e732ef09839e07dcea1d8aabfe1ba5328c598143a2bdfb23b1d438e1cb6d2b89afd3b98c612376b59d952c47d2d1fb4e8f6248f38c38b46965209813b80599f82205856a7155553a88fee3cba38d4e3cf95a31b108c1b69d65321af42edaadb7212ff00d5054b25a7b65ffc340bc2e7ae1b78a0ae1e200296a8-->
+<trophyconf version="1.1" platform="ps3,psp2,ps4" policy="small">
+ <npcommid>NPWR07140_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Stealth Inc: Ultimate Edition</title-name>
+ <title-detail>Stealth Inc: Ultimate Edition</title-detail>
+ <group id="001">
+  <name>The Teleporter Chambers</name>
+  <detail>Stealth Inc: A Clone in the Dark - The Teleporter Chambers</detail>
+ </group>
+ <group id="002">
+  <name>The Lost Clones</name>
+  <detail>Stealth Inc: A Clone in the Dark - The Lost Clones</detail>
+ </group>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>バリューリソース</name>
+  <detail>セクター001クリア - インヒューマンリソース</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>テクニカルスキル</name>
+  <detail>セクター002クリア - テクニカルダメージ</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>ジョブセキュリティ</name>
+  <detail>セクター003クリア - セキュリティクラックダウン</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>ロケーションマネージャー</name>
+  <detail>セクター004クリア - リロケーションオプション</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>ビート・ザ・スライド</name>
+  <detail>セクター005クリア - ダウンワードスライド</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>サイレントパートナー</name>
+  <detail>セクター006クリア - サイレントテイクオーバー</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>アバブ・スタンダード</name>
+  <detail>セクター007クリア - ダブルスタンダード</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="-1">
+  <name>コントラクトコンプリート</name>
+  <detail>全セクタークリア</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="-1">
+  <name>オン・ザ・ファスト－トラック</name>
+  <detail>いずれかのセクターの全ステージでSランクを取得</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="-1">
+  <name>アテンション・トゥ・ディテイル</name>
+  <detail>いずれかのセクターですべてのへリックスを発見する</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>ワーキングオーバータイム</name>
+  <detail>全ステージをアンロック</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="-1">
+  <name>イクウィップ・フォー・ビジネス</name>
+  <detail>全装備をアンロック</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="-1">
+  <name>コンセメイトプロフェッショナル</name>
+  <detail>全ステージでSランクを取得</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>トイマスター</name>
+  <detail>テレポーターチャンバーのセクター01をクリア - ニュートイズ</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>ワープマインド</name>
+  <detail>テレポーターチャンバーのセクター02をクリア - ワープシンキング</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>エコノミークラス</name>
+  <detail>自動販売機を使用せずにステージをクリア</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>フィート・オン・ザ・グラウンド</name>
+  <detail>ジャンプせずにステージをクリア</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="-1" gid="001">
+  <name>ファインダーフィー</name>
+  <detail>テレポーターチャンバーですべてのへリックスを集める</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="G" pid="-1" gid="001">
+  <name>（イ）エス　ウィーキャン！</name>
+  <detail>テレポーターチャンバーの全ステージでSランクを取得</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="-1" gid="002">
+  <name>ミックス</name>
+  <detail>ロストクローンでセクター01をクリア - ザ･ミキサー</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="-1" gid="002">
+  <name>カット・アバブ</name>
+  <detail>ロストクローンでセクター02をクリア - ファイナル・カット</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="-1" gid="002">
+  <name>クローンサバイバー</name>
+  <detail>すべてのクローンサバイバーを見つける</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="-1" gid="002">
+  <name>ハイドハーダー</name>
+  <detail>ロストクローンの5ステージを警報回数ゼロで連続クリア</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="-1" gid="002">
+  <name>アンティクエリアン</name>
+  <detail>ロストクローンですべてのへリックスを集める</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="G" pid="-1" gid="002">
+  <name>ランクス・フォー・ザ・メモリー</name>
+  <detail>ロストクローンの全ステージでSランクを取得</detail>
+ </trophy>
+</trophyconf>

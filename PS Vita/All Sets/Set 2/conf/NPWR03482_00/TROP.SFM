@@ -1,0 +1,340 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000039d48283ad4632d8c3cda8146ee70abdc0c8f2ae79d99b83eb5939668a19b3a920cff131a52eb4d4161f8d89998bcee460a349b7cc749bbe0b0f26bf136f4d4a5c187a11fa57342d8dcdd3c1a082a1fe44e05b5884fbefd783800fbc3e3e3ee4ef207054ecf9deffea703ee4037939637f65ee79deda03349422fcc2cd50ade208b6539aadd8dec11a54c8b171abf496af748802-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR03482_00</npcommid>
+ <trophyset-version>01.02</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>ＡＳＳＡＵＬＴ　ＧＵＮＮＥＲＳ</title-name>
+ <title-detail>『ＡＳＳＡＵＬＴ　ＧＵＮＮＥＲＳ』トロフィー</title-detail>
+ <group id="001">
+  <name>ウォー・ゲーム</name>
+  <detail>ＡＳＳＡＵＬＴ　ＧＵＮＮＥＲＳ　ＤＬＣ　『ウォー・ゲーム』トロフィー</detail>
+ </group>
+ <group id="002">
+  <name>マウストラップ</name>
+  <detail>ＡＳＳＡＵＬＴ　ＧＵＮＮＥＲＳ　ＤＬＣ　『マウストラップ』トロフィー</detail>
+ </group>
+ <group id="003">
+  <name>ダークネスの心臓</name>
+  <detail>ＡＳＳＡＵＬＴ　ＧＵＮＮＥＲＳ　ＤＬＣ　『ダークネスの心臓』トロフィー</detail>
+ </group>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>ＭＩＳＳＩＯＮ　ＴＯ　ＭＡＲＳ</name>
+  <detail>全てのブロンズ シルバー ゴールドトロフィーを取得する</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>ＷＥＬＣＯＭＥ　ＴＯ　ＴＨＥ　ＭＡＲＳ</name>
+  <detail>ゲームを開始する</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>宇宙騎兵</name>
+  <detail>ミッション１をクリア</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>一個小隊</name>
+  <detail>ミッション２をクリア</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>赤い大地</name>
+  <detail>ミッション３をクリア</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>火星のグランドキャニオン</name>
+  <detail>ミッション４をクリア</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>無人都市</name>
+  <detail>ミッション５をクリア</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>火星の亡霊</name>
+  <detail>ミッション６をクリア</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>地下道</name>
+  <detail>ミッション７をクリア</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>３００秒</name>
+  <detail>ミッション８をクリア</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>零下の攻防戦</name>
+  <detail>ミッション９をクリア</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>殺戮の地</name>
+  <detail>ミッション１０をクリア</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>熱気</name>
+  <detail>ミッション１１をクリア</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>亡霊</name>
+  <detail>ミッション１２をクリア</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>関門</name>
+  <detail>ミッション１３をクリア</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>異質</name>
+  <detail>ミッション１４をクリア</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>脱出</name>
+  <detail>ミッション１５をクリア</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>熱砂の海</name>
+  <detail>ミッション１６をクリア</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>確率１％</name>
+  <detail>ミッション１７をクリア</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>壁</name>
+  <detail>ミッション１８をクリア</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>カウントダウン</name>
+  <detail>ミッション１９をクリア</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>ゴーストシップ</name>
+  <detail>ミッション２０をクリア</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>希少金属の箱</name>
+  <detail>ミッション２１をクリア</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>地下へ</name>
+  <detail>ミッション２２をクリア</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>ソースコード</name>
+  <detail>ミッション２３をクリア</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="S" pid="000">
+  <name>永久に</name>
+  <detail>ミッション２４をクリア</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>計画</name>
+  <detail>ミッション２５をクリア</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>第６局面</name>
+  <detail>ミッション２６をクリア</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>記憶</name>
+  <detail>ミッション２７をクリア</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>無属性</name>
+  <detail>ミッション２８をクリア</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>選択</name>
+  <detail>ミッション２９をクリア</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="S" pid="000">
+  <name>怒涛の海</name>
+  <detail>ミッション３０をクリア</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>防衛線</name>
+  <detail>ミッション３１をクリア</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="S" pid="000">
+  <name>黙示録</name>
+  <detail>ミッション３２をクリア</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="S" pid="000">
+  <name>最終戦争</name>
+  <detail>ミッション３３をクリア</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="S" pid="000">
+  <name>ジレンマ</name>
+  <detail>ミッション３４をクリア</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="S" pid="000">
+  <name>最後の戦い</name>
+  <detail>ミッション３５をクリア</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>初めてのアセンブル</name>
+  <detail>初めてパーツを付け替える</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="S" pid="000">
+  <name>パーツコレクター</name>
+  <detail>パーツを５０種取得する</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="000">
+  <name>ルーキー</name>
+  <detail>ＬＶ２になる</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="S" pid="000">
+  <name>戦場の狼</name>
+  <detail>単機で出撃してシングルプレイのミッションをクリアする</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="G" pid="000">
+  <name>標本家</name>
+  <detail>１発のレーザーで１０機の敵を倒す</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="B" pid="000">
+  <name>研究助手</name>
+  <detail>初めてパーツをＬＶアップする</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="S" pid="000">
+  <name>偉大なる研究者</name>
+  <detail>１つのパーツを最大ＬＶにする</detail>
+ </trophy>
+ <trophy id="044" hidden="no" ttype="B" pid="000">
+  <name>僚機マニア</name>
+  <detail>僚機を３機とも生還させる</detail>
+ </trophy>
+ <trophy id="045" hidden="yes" ttype="S" pid="000">
+  <name>ぼくのひみつきち</name>
+  <detail>ミッション４の隠された部屋に入る</detail>
+ </trophy>
+ <trophy id="046" hidden="no" ttype="B" pid="000">
+  <name>トリプルキル！</name>
+  <detail>キャノン砲かグレネードの爆風で３機の敵をまとめて倒す</detail>
+ </trophy>
+ <trophy id="047" hidden="no" ttype="S" pid="000">
+  <name>戦友</name>
+  <detail>マルチプレイで１０回ミッションをクリアする</detail>
+ </trophy>
+ <trophy id="048" hidden="no" ttype="G" pid="000">
+  <name>ブラザー</name>
+  <detail>マルチプレイのインフェルノで５０ＷＡＶＥ生き残る</detail>
+ </trophy>
+ <trophy id="049" hidden="no" ttype="B" pid="000">
+  <name>一機当千</name>
+  <detail>すべての種類の武装で各１００機以上撃破する</detail>
+ </trophy>
+ <trophy id="050" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>非・武装都市</name>
+  <detail>ミッションＤＬＣ１－１をクリア</detail>
+ </trophy>
+ <trophy id="051" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>巨人の谷</name>
+  <detail>ミッションＤＬＣ１－２をクリア</detail>
+ </trophy>
+ <trophy id="052" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>爆弾解除</name>
+  <detail>ミッションＤＬＣ１－３をクリア</detail>
+ </trophy>
+ <trophy id="053" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>オリンポスの隧道</name>
+  <detail>ミッションＤＬＣ１－４をクリア</detail>
+ </trophy>
+ <trophy id="054" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>死闘、再び</name>
+  <detail>ミッションＤＬＣ１－５をクリア</detail>
+ </trophy>
+ <trophy id="055" hidden="no" ttype="S" pid="-1" gid="001">
+  <name>戦場の英雄</name>
+  <detail>追加されたミッションを全て「ハード」以上でクリア</detail>
+ </trophy>
+ <trophy id="056" hidden="yes" ttype="B" pid="-1" gid="001">
+  <name>ロシアンルーレット</name>
+  <detail>ナビゲーター「ハンター中佐」でミッションプレイ</detail>
+ </trophy>
+ <trophy id="057" hidden="yes" ttype="B" pid="-1" gid="001">
+  <name>ＡＮＹＴＩＭＥ　ＡＮＹＷＨＥＲＥ</name>
+  <detail>ナビゲーター「バスケス少佐」でミッションプレイ</detail>
+ </trophy>
+ <trophy id="058" hidden="no" ttype="S" pid="-1" gid="001">
+  <name>最強のＣＱＣ</name>
+  <detail>「ＧＲ－ＮＫＬ　Ｍ３」のみを装備してミッションをクリア</detail>
+ </trophy>
+ <trophy id="059" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>新しいもの好き</name>
+  <detail>追加された武装のみ４種を装備して出撃</detail>
+ </trophy>
+ <trophy id="060" hidden="no" ttype="B" pid="-1" gid="002">
+  <name>鋼鉄の十字路</name>
+  <detail>ミッションＤＬＣ２－１をクリア</detail>
+ </trophy>
+ <trophy id="061" hidden="no" ttype="B" pid="-1" gid="002">
+  <name>罠へと続く道</name>
+  <detail>ミッションＤＬＣ２－２をクリア</detail>
+ </trophy>
+ <trophy id="062" hidden="no" ttype="B" pid="-1" gid="002">
+  <name>九つの扉</name>
+  <detail>ミッションＤＬＣ２－３をクリア</detail>
+ </trophy>
+ <trophy id="063" hidden="no" ttype="B" pid="-1" gid="002">
+  <name>逃避行</name>
+  <detail>ミッションＤＬＣ２－４をクリア</detail>
+ </trophy>
+ <trophy id="064" hidden="no" ttype="B" pid="-1" gid="002">
+  <name>凍りついた山</name>
+  <detail>ミッションＤＬＣ２－５をクリア</detail>
+ </trophy>
+ <trophy id="065" hidden="no" ttype="B" pid="-1" gid="002">
+  <name>強化の鬼</name>
+  <detail>追加された拡張パーツを装備してミッションをクリア</detail>
+ </trophy>
+ <trophy id="066" hidden="no" ttype="S" pid="-1" gid="002">
+  <name>研究マニア</name>
+  <detail>追加された全てのボディパーツとレッグパーツを入手</detail>
+ </trophy>
+ <trophy id="067" hidden="no" ttype="S" pid="-1" gid="002">
+  <name>マスターエンジニア</name>
+  <detail>全てのボディパーツとレッグパーツをＬＶ１０にする</detail>
+ </trophy>
+ <trophy id="068" hidden="yes" ttype="S" pid="-1" gid="002">
+  <name>すーぱーふわふわたいむ</name>
+  <detail>ホバー型４機で出撃</detail>
+ </trophy>
+ <trophy id="069" hidden="no" ttype="B" pid="-1" gid="003">
+  <name>暗黒の星</name>
+  <detail>ミッションＤＬＣ３－１をクリア</detail>
+ </trophy>
+ <trophy id="070" hidden="no" ttype="B" pid="-1" gid="003">
+  <name>暗黒面</name>
+  <detail>ミッションＤＬＣ３－２をクリア</detail>
+ </trophy>
+ <trophy id="071" hidden="no" ttype="B" pid="-1" gid="003">
+  <name>闇夜</name>
+  <detail>ミッションＤＬＣ３－３をクリア</detail>
+ </trophy>
+ <trophy id="072" hidden="no" ttype="B" pid="-1" gid="003">
+  <name>棺桶</name>
+  <detail>ミッションＤＬＣ３－４をクリア</detail>
+ </trophy>
+ <trophy id="073" hidden="no" ttype="B" pid="-1" gid="003">
+  <name>ダークネスの心臓</name>
+  <detail>ミッションＤＬＣ３－５をクリア</detail>
+ </trophy>
+ <trophy id="074" hidden="no" ttype="S" pid="-1" gid="003">
+  <name>伝説の戦士</name>
+  <detail>パイロットＬＶが５０に到達</detail>
+ </trophy>
+ <trophy id="075" hidden="yes" ttype="B" pid="-1" gid="003">
+  <name>史上最大の撤退</name>
+  <detail>ナビゲーター「マーヤ軍曹」でミッションプレイ</detail>
+ </trophy>
+ <trophy id="076" hidden="yes" ttype="B" pid="-1" gid="003">
+  <name>歌う通信士</name>
+  <detail>ナビゲーター「ウフーラ中尉」でミッションプレイ</detail>
+ </trophy>
+ <trophy id="077" hidden="no" ttype="B" pid="-1" gid="003">
+  <name>新たなる大地</name>
+  <detail>追加されたバトルマップをプレイ</detail>
+ </trophy>
+ <trophy id="078" hidden="no" ttype="B" pid="-1" gid="003">
+  <name>新たなる希望</name>
+  <detail>追加されたバトルマップで１位をとる</detail>
+ </trophy>
+ <trophy id="079" hidden="no" ttype="B" pid="-1" gid="003">
+  <name>ＬＡＳＴ　ＷＡＶＥ</name>
+  <detail>追加されたインフェルノマップをプレイ</detail>
+ </trophy>
+</trophyconf>

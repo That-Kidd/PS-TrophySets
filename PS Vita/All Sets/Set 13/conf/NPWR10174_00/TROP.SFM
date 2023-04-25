@@ -1,0 +1,68 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000541c3589288a375567126a2d0e553e576d9cb6e75a739d8c1f0d128c5b7a7e215133287d4d6efc07e90e8e4b1a0131d37c24d81305b86c6f4ed1c38c5ce2922e5f422f97b3f27f281c879be9e5ed32c8aa4916dbeda86e545c4c4b2b3c003fff1e3bd5f948383ef4985320bfc6f86e654b01f4ba97db4246cad36be6ed96e9038bbdfa320800e3f23b120c69f18f9a7520c42414-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR10174_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>オメルタＣＯＤＥ: ＴＹＣＯＯＮ戒</title-name>
+ <title-detail>オメルタＣＯＤＥ: ＴＹＣＯＯＮ戒の記憶を綴るトロフィーセット。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>全トロフィーコンプリート！</name>
+  <detail>全てのトロフィーを取得した。</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>脱出成功！</name>
+  <detail>最初の記憶を取り戻し、脱出に成功した。</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="G" pid="000">
+  <name>梓ＧＯＯＤ ＥNＤ</name>
+  <detail>梓との純粋な記憶と絆を取り戻した。</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="G" pid="000">
+  <name>橘ＧＯＯＤ ＥＮＤ</name>
+  <detail>橘との心許せる記憶と絆を取り戻した。</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="G" pid="000">
+  <name>藤堂ＧＯＯＤ ＥＮＤ</name>
+  <detail>藤堂との信頼の置ける記憶と絆を取り戻した。</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="G" pid="000">
+  <name>霧生ＧＯＯＤ ＥＮＤ</name>
+  <detail>霧生との誠実な記憶と絆を取り戻した。</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="G" pid="000">
+  <name>瑠夏ＧＯＯＤ ＥＮＤ</name>
+  <detail>瑠夏との力強い記憶と絆を取り戻した。</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="G" pid="000">
+  <name>宇賀神ＧＯＯＤ ＥＮＤ</name>
+  <detail>宇賀神との繊細な記憶と絆を取り戻した。</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="G" pid="000">
+  <name>劉ＧＯＯＤ ＥＮＤ</name>
+  <detail>劉との野心あふれる記憶と絆を取り戻した。</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="G" pid="000">
+  <name>虎ＧＯＯＤ ＥＮＤ</name>
+  <detail>密林の虎の記憶と、祖国への想いを取り戻した。</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="G" pid="000">
+  <name>シオンアフター ＥＮＤ</name>
+  <detail>湾岸地域のもう一つの明日を見た。</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>楽しい学園生活</name>
+  <detail>オメルタ学園ＳＳを全て読んだ。</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>読書の季節</name>
+  <detail>雑誌掲載ＳＳの一つを読んだ。</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>ＣＧ50%達成！</name>
+  <detail>ＣＧを50%回収した。</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="000">
+  <name>ＣＧフルコンプ</name>
+  <detail>全てのＣＧを回収した。</detail>
+ </trophy>
+</trophyconf>

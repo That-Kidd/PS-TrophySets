@@ -1,0 +1,52 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000006846b4161ccd860359ec46a7f215652fe2e78aa43b7b8a0f410eaf68929758746cbcd9999dac35a41c7c93d35a763285f99f40ea48f8ed9a31af068690698826d310217a0b248ab16d24f1072a0a1b8c5e96b8f8f41807ccebc6ab91859da2c58556cf8d30da130c0de8a6e0d6dc104f079435156229e8b2d7c5b20b4fbbe6ba2e7dc44d3e5ca22e45a1ceb5908b005178deb3d6-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR03978_00</npcommid>
+ <trophyset-version>01.03</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Paint Park Plus</title-name>
+ <title-detail>Trophy set for Paint Park Plus.</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Rookie of Paint Park Plus</name>
+  <detail>Played Paint Park Plus  for the first time.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Photo master!</name>
+  <detail>Took a photo with the camera.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Love for stickers!</name>
+  <detail>Pasted a sticker.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>First touch on Photos!</name>
+  <detail>Opened Photos.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Participation matters!</name>
+  <detail>Participated in an Ad-hoc contest.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Artists know how to mix!</name>
+  <detail>Mixed colours on the palette.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Beauty of starting over!</name>
+  <detail>Pressed undo.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="-1">
+  <name>Potentially a genius…!</name>
+  <detail>Drew a picture for the first time.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="-1">
+  <name>Curiosity for colours!</name>
+  <detail>Selected colouring In mode.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="-1">
+  <name>Dots to lines!</name>
+  <detail>Selected connect the dots mode.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="-1">
+  <name>First victory!</name>
+  <detail>Won an Ad-hoc contest.</detail>
+ </trophy>
+</trophyconf>

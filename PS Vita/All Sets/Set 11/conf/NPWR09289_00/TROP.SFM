@@ -1,0 +1,160 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000009fcbdb0a7a5041aee651b56d83c336e2cfbac4de7846aebedbcd4bfa036aa3effa49af2bb4341767b795ac85508d9ebe8f98e2e89fa23d16e3b9642e73d24cc15d1061488d2db5d2d2fefea65461e3ed283c25e27d5db80423fd479cbcba991d195fa9115de731770bf4da8ea0f21e581bbbc10fe94e09c3777574695810bf68a84d9c0314994bf08bcad0657039f0455a6e2b6a-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR09289_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Rear Pheles</title-name>
+ <title-detail>リアフェレストロフィーデータ</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>リアフェレスマスター</name>
+  <detail>全てのトロフィーを獲得</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>シネマティクス</name>
+  <detail>全ての動画を見た</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>ラブエンド</name>
+  <detail>ラブエンドの動画を見た</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>ハッピーエンド</name>
+  <detail>ハッピーエンドの動画を見た</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>メリーバッドエンド</name>
+  <detail>メリーバッドエンドの動画を見た</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>終わらない悪夢？</name>
+  <detail>全てのメリーバッドエンドをクリア</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>平穏な日々</name>
+  <detail>全てのハッピーエンドクリア</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>これから先の未来</name>
+  <detail>全てのラブエンドをクリア</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>読書好きの御曹司</name>
+  <detail>六波羅ルートを攻略</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>料理上手な幼馴染</name>
+  <detail>千歳ルートを攻略</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>甘党の先輩</name>
+  <detail>十条ルートを攻略</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>オネェな先生</name>
+  <detail>亜八芽ルートを攻略</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>保健室メンバー</name>
+  <detail>攻略キャラ全員を攻略</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="000">
+  <name>絵本の中の彼</name>
+  <detail>赤ずきんルートを攻略</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>六波羅との思い出</name>
+  <detail>六波羅の画像を全て獲得</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>千歳との思い出</name>
+  <detail>千歳の画像を全て獲得</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>十条との思い出</name>
+  <detail>十条の画像を全て獲得</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>亜八芽との思い出</name>
+  <detail>亜八芽の画像を全て獲得</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="S" pid="000">
+  <name>赤ずきんとの思い出</name>
+  <detail>赤ずきんの画像を全て獲得</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="000">
+  <name>思い出</name>
+  <detail>その他の画像を全て獲得</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="G" pid="000">
+  <name>綴られた記憶</name>
+  <detail>全てのイベントスチルを獲得</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="G" pid="000">
+  <name>記念の１枚</name>
+  <detail>フルコンプイラストを獲得</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>はじめてのエスケープ</name>
+  <detail>エスケープパートのチュートリアルをクリア</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>逃亡者皆伝</name>
+  <detail>エスケープパート難易度「EASY」で全てクリア</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>並の逃亡者</name>
+  <detail>エスケープパート難易度「NORMAL」で全てクリア</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>逃亡熟練者</name>
+  <detail>エスケープパート難易度「HARD」で全てクリア</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="S" pid="000">
+  <name>かくれんぼの達人</name>
+  <detail>エスケープパートで通算１００回隠れてやり過ごす</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="S" pid="000">
+  <name>透明人間</name>
+  <detail>エスケープパート難易度「Professional」で全てクリア</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="G" pid="000">
+  <name>努力は報われる</name>
+  <detail>エスケープパートで全ての難易度をクリア</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>はじめてのハント</name>
+  <detail>ハンターパートのチュートリアルをクリア</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>捕獲成功</name>
+  <detail>ハンターパート難易度「EASY」で全てクリア</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>捕獲者皆伝</name>
+  <detail>ハンターパート難易度「NORMAL」で全てクリア</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>捕獲達成</name>
+  <detail>ハンターパート難易度「HARD」で全てクリア</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="S" pid="000">
+  <name>鷹の目の如し</name>
+  <detail>ハンターパートで３０秒以内に犯人を捕まえる</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="S" pid="000">
+  <name>オオカミハンター</name>
+  <detail>ハンターパート難易度「Professional」で全てクリア</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="G" pid="000">
+  <name>弱肉強食</name>
+  <detail>ハンターパート全ての難易度をクリア</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>落し物の持ち主は？</name>
+  <detail>エスケープ、ハンターでヒントアイテムを１つ拾う</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="S" pid="000">
+  <name>アイテム収集家</name>
+  <detail>エスケープ、ハンターでヒントアイテムを全て収集</detail>
+ </trophy>
+</trophyconf>

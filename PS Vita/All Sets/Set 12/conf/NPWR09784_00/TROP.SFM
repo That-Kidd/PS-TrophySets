@@ -1,0 +1,28 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000096ee86ddc8774022eb8e4bf7ae12329a2f9134d38768eb5fcfe27cb362b2b3287ab625cff135accfcef9771b85218bc67e360ffc7aaa68567d0ee710be239d7fb9cb2990d74b73619c48d2da0a38ae1b158f7d5673bedd55442f6f5127da24a840c540f411fc6862f2662e2bcbad2d262a6da0be27ed292971f8b164c5cfb37eca9bea0b7ba50218703d8b7667140ddb6e944940-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR09784_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Pixel Hunter</title-name>
+ <title-detail>Pixel Hunter trophies</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Tiger hunter</name>
+  <detail>Kill Tiger</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="-1">
+  <name>Goat hunter</name>
+  <detail>Kill Goat</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="-1">
+  <name>Snowman hunter</name>
+  <detail>Kill Snowman</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="-1">
+  <name>Dragon hunter</name>
+  <detail>Kill Dragon</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="-1">
+  <name>Crab hunter</name>
+  <detail>Kill Crab and complete the game</detail>
+ </trophy>
+</trophyconf>

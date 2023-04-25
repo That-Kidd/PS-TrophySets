@@ -1,0 +1,116 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000e8f58fc3651e6de0a27f037035b805f3e4318e54c6faf4d1ee33ad084e751b15b063f526e98a1b1b5f6be514633ca3c19f3bca698965daf38f29f6598883bc3ecab56c19b14d7e086940c32331d2abeb1b60c7a0bad0ec04f092aeaa277ea9f88d821490874d5c0b53407d1d7362890f11a60f54c24778a5d5780b5d41124224ad037c8e1f449eb913e5ea2584b8c19675ea736a-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR17872_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>グノーシア</title-name>
+ <title-detail>グノーシア</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>全てを見届けた</name>
+  <detail>全てのトロフィーを獲得した</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="000">
+  <name>山羊座の紫</name>
+  <detail>ジナの特記事項を全て解放した</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>牡羊座の赤</name>
+  <detail>ＳＱの特記事項を全て解放した</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>射手座の青</name>
+  <detail>ラキオの特記事項を全て解放した</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>蠍座の緑</name>
+  <detail>ステラの特記事項を全て解放した</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>天秤座の黄緑</name>
+  <detail>しげみちの特記事項を全て解放した</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>双子座の橙</name>
+  <detail>シピの特記事項を全て解放した</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>蟹座の白</name>
+  <detail>レムナンの特記事項を全て解放した</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>獅子座の黄</name>
+  <detail>コメットの特記事項を全て解放した</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>蛇遣い座の銀</name>
+  <detail>夕里子の特記事項を全て解放した</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>水瓶座の茶色</name>
+  <detail>ジョナスの特記事項を全て解放した</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>牡牛座の水色</name>
+  <detail>セツの特記事項を全て解放した</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>乙女座の桃色</name>
+  <detail>オトメの特記事項を全て解放した</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>魚座の黒</name>
+  <detail>沙明の特記事項を全て解放した</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>牡羊座の緋色</name>
+  <detail>ククルシカの特記事項を全て解放した</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="G" pid="000">
+  <name>グノーシア・ゼロ</name>
+  <detail>グノーシア０人の世界に突入した</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="G" pid="000">
+  <name>未来ある世界</name>
+  <detail>エンディングに到達した</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="G" pid="000">
+  <name>終点と始点</name>
+  <detail>真のエンディングに到達した</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>役者は揃った</name>
+  <detail>全ての登場人物が現れた</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="000">
+  <name>条件は揃った</name>
+  <detail>全ての役割が開放された</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="G" pid="000">
+  <name>全能</name>
+  <detail>全てのスキルを取得した</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>英雄</name>
+  <detail>人間側でプレイし、グノーシア６人の条件で勝利した</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>守護神</name>
+  <detail>守護天使でプレイし、１ループで２回、誰かを守ることに成功した上で勝利した</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>凄腕調査官</name>
+  <detail>エンジニアでプレイし、１ループで３回、グノーシアを発見した上で勝利した</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>忠実な下僕</name>
+  <detail>ＡＣ主義者でプレイし、不利な条件で役割に名乗り出た上で勝利した</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="S" pid="000">
+  <name>孤独な戦い</name>
+  <detail>グノーシアでプレイし、乗員数１５人、グノーシア１人の条件で勝利した</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="S" pid="000">
+  <name>宇宙の破壊者</name>
+  <detail>バグでプレイし、不利な条件で役割に名乗り出た上で勝利した</detail>
+ </trophy>
+</trophyconf>

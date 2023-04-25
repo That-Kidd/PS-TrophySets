@@ -1,0 +1,76 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000001e10c5bf1500a9798afcf42e1767ffa502a2fa409dc15d23b6891923fa78bb196b22e83e47896ddf2883e7f84adafda8731f8f583eb9aa71f453229d5a934f56ae47254ea02d15ca6d2dcc232ef4a398417a4ff865f7733ab6cb0de86db59a35d79b6aeb2d8aba14e54f2ee390d64400c449b7d48aadbfa472b04dd55c7a07eec4528a01be990eb53cbfdf35a0fbf1b14bdad6f-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR19867_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Reed Remastered</title-name>
+ <title-detail>Reed Remastered</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Platinum Reed</name>
+  <detail>Get all the trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Cubed</name>
+  <detail>Get your first cube</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Mission Failed</name>
+  <detail>Die once</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>Aggressive Bird</name>
+  <detail>Get killed by a chicken</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>Found a friend</name>
+  <detail>Meet the mouse</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>A hidden place</name>
+  <detail>Find the first secret area</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>Exploring pays of</name>
+  <detail>Find the second secret area</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>Another hidden place?!</name>
+  <detail>Find the third secret area</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>Going to places</name>
+  <detail>Find the fourth secret area</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>Novice Explorer</name>
+  <detail>Complete 5 levels</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>Apprentice Explorer</name>
+  <detail>Complete 15 levels</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>Talented Explorer</name>
+  <detail>Complete 20 levels</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>Intermediate Explorer</name>
+  <detail>Complete 25 levels</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="000">
+  <name>Trained Explorer</name>
+  <detail>Complete 30 levels</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="000">
+  <name>Advanced Explorer</name>
+  <detail>Complete 35 levels</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="G" pid="000">
+  <name>Expert Explorer</name>
+  <detail>Complete 40 levels</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="G" pid="000">
+  <name>Master Explorer</name>
+  <detail>Complete 44 levels</detail>
+ </trophy>
+</trophyconf>

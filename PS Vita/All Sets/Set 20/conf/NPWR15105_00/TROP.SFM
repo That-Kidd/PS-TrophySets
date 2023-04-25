@@ -1,0 +1,124 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000002e03556df8f2c53a2c377897f9f30af418ac9f0c22ce5d7e3f04ba593c1f428d3557c4e9b7a997d0270e934ad2902b90cf22c5d32fa58ad66ce9e4f195a84b5e789218f55045f7e1ce41f4fe01fa8b888e6ce8a36b0542e39788511ef62e310f3dbd3044403e6bec282f8f5dfcf4c103ac3a9ede2e0ce1689d83f5c619f40d44e5443bc1b1da04c62ced26f5815101510b145192-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR15105_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Dance with Devils My Carol</title-name>
+ <title-detail>Dance with Devils My Carol の トロフィーセットです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>全トロフィー獲得</name>
+  <detail>全てのトロフィーを獲得</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>闇さえひれ伏す演劇開催</name>
+  <detail>生徒会が演劇を開催することになった</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>スポットライトは私のもの</name>
+  <detail>生徒会主催の演劇が幕を下ろした</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>私の手を取ってくれ</name>
+  <detail>恋人となったレムとの物語が幕を開けた</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>君に永遠を誓おう</name>
+  <detail>恋人となったレムとの物語が幕を下ろした</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>俺だけを見ていてくれ</name>
+  <detail>恋人となったリンドとの物語が幕を開けた</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>いつまでも一緒だ</name>
+  <detail>恋人となったリンドとの物語が幕を下ろした</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>僕を愛してくれるかい？</name>
+  <detail>恋人となったウリエとの物語が幕を開けた</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>永遠の愛を君に</name>
+  <detail>恋人となったウリエとの物語が幕を下ろした</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>オレ様についてこい！</name>
+  <detail>恋人となったメィジとの物語が幕を開けた</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>ぜってぇ幸せにするぜ</name>
+  <detail>恋人となったメィジとの物語が幕を下ろした</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>オレの傍にいてくれる？</name>
+  <detail>恋人となったシキとの物語が幕を開けた</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>キミのために生きていくよ</name>
+  <detail>恋人となったシキとの物語が幕を下ろした</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>アナタをお守りしましょう</name>
+  <detail>恋人となったローエンとの物語が幕を開けた</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>この想いはただ一人のために</name>
+  <detail>恋人となったローエンとの物語が幕を下ろした</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="G" pid="000">
+  <name>恋する魔の者たち</name>
+  <detail>恋人たちの物語・終幕</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>結末をめぐるレムの物語</name>
+  <detail>レムとの結末が幕を下ろした</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>結末をめぐるリンドの物語</name>
+  <detail>リンドとの結末が幕を下ろした</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>結末をめぐるウリエの物語</name>
+  <detail>ウリエとの結末が幕を下ろした</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="000">
+  <name>結末をめぐるメィジの物語</name>
+  <detail>メィジとの結末が幕を下ろした</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>結末をめぐるシキの物語</name>
+  <detail>シキとの結末が幕を下ろした</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>結末をめぐるローエンの物語</name>
+  <detail>ローエンとの結末が幕を下ろした</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="G" pid="000">
+  <name>終わりのない物語</name>
+  <detail>結末をめぐる物語・終幕</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>とある一日</name>
+  <detail>何気ない一日を満喫した</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>レッツ・リア充！</name>
+  <detail>クリスマスデートを満喫した</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="S" pid="000">
+  <name>そうだデート行こう</name>
+  <detail>日常デートを満喫した</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="G" pid="000">
+  <name>魔に愛されし物語</name>
+  <detail>すべての物語を見た</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="G" pid="000">
+  <name>魅惑の絵画たち</name>
+  <detail>イベントグラフィックをすべて集めた</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="G" pid="000">
+  <name>カードに魅入られし者</name>
+  <detail>すべてのカードを揃えた</detail>
+ </trophy>
+</trophyconf>

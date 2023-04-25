@@ -1,0 +1,60 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000033b33607f7e1249d636e02fa5efa0092424d84422ec901d96484054fb844fdf4374386459176c8ffdc3adb1a04ff234fa419c56389fa88eace33d0b9bbee4ccd95eae474856ffa43be36f39d66df9228fa06a9dfc23e2d3a919517fa1f683beff64681d80cd65f0e48e4cc3bf3c861f51207c7e3e240333861f73c782bece2c1a231ddfcff8c57615d554419ef04dd4e6e31694-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR03586_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>International Snooker</title-name>
+ <title-detail>International Snooker</title-detail>
+ <trophy id="000" hidden="no" ttype="S" pid="-1">
+  <name>ONE TON</name>
+  <detail>SCORE 100 IN ONE BREAK</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="-1">
+  <name>TWO IN A BED</name>
+  <detail>POTTING TWO BALLS ON THE SAME SHOT</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="-1">
+  <name>147 HERO</name>
+  <detail>SCORE A 147 BREAK</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>A NICKEL</name>
+  <detail>WIN 5 QUICK PLAY GAMES</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>BANGER</name>
+  <detail>A FULL POWER SHOT THAT LEGALLY POTS A BALL</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>MEASLES</name>
+  <detail>CLEAR THE SPOTS IN ONE SITTING (FROM THE BREAK) IN US 8 BALL</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>GREEDY</name>
+  <detail>CLEAR THE TABLE IN ONE SITTING (FROM THE BREAK) IN UK 8 BALL</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>TWO BIT</name>
+  <detail>WIN 25 QUICK PLAY GAMES</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>ZEBRA</name>
+  <detail>CLEAR THE STRIPES IN ONE SITTING (FROM THE BREAK) IN US 8 BALL</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>POT BLACK</name>
+  <detail>LEGALLY POT THE BLACK</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>BULL MARKET</name>
+  <detail>EARN 1000 CREDITS THROUGH PLAYING AND WINNING</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="-1">
+  <name>HALF A TON</name>
+  <detail>SCORE 50 IN ONE BREAK</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="-1">
+  <name>THE DYNASTY</name>
+  <detail>WIN THE CHINESE TOURNAMENT IN CAREER MODE</detail>
+ </trophy>
+</trophyconf>

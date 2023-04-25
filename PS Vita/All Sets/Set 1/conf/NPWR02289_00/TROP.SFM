@@ -1,0 +1,128 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000c5cbf2fd1a749734a626452e0b31dbc59c66a15a2da6fae5da3fb00665947e8e1297aca6bff41df41a3f2328e0fe130ed338b296df0c96a2931e75ed0eb7cd6f79280a32a2b53d5f02d36a13554bd8a53fbc8ac08721cb11070da79683ec59567256a6c10b4b7479a61ec1d5059edf8c54be6f3fc4ced0821c82870c88acb09da40850c7e399f6fb95ff9277eacd1df16ebc4e9a-->
+<trophyconf version="1.1" platform="psp2">
+ <npcommid>NPWR02289_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>地獄の軍団</title-name>
+ <title-detail>『地獄の軍団』のトロフィー。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>地獄の軍団</name>
+  <detail>全てのトロフィーを獲得した。</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>復活の狼煙</name>
+  <detail>第1ステージをクリアした。</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>地獄の王</name>
+  <detail>20ステージまでクリアした。</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>地獄の戦士団</name>
+  <detail>11～20ステージのいずれか1ステージを戦士のみでクリアした。</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>地獄の槍兵団</name>
+  <detail>11～20ステージのいずれか1ステージを槍兵のみでクリアした。</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>地獄の魔法団</name>
+  <detail>11～20ステージのいずれか1ステージを魔法使いのみでクリアした。</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>地獄の名声</name>
+  <detail>11～20ステージのいずれか1ステージで総合評価のプラチナランクを取得した。</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>冥界の王</name>
+  <detail>冥界ステージ(21～30)全てをクリアした。</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>冥界の戦士団</name>
+  <detail>冥界ステージ(21～30)のいずれか1ステージを戦士のみでクリアした。</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>冥界の槍兵団</name>
+  <detail>冥界ステージ(21～30)のいずれか1ステージを槍兵のみでクリアした。</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>冥界の魔法団</name>
+  <detail>冥界ステージ(21～30)のいずれか1ステージを魔法使いのみでクリアした。</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>冥界の名声</name>
+  <detail>冥界ステージ(21～30)のいずれか1ステージで総合評価のプラチナランクを取得した。</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>奈落の王</name>
+  <detail>奈落ステージ(31～40)全てをクリアした。</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="000">
+  <name>奈落の名声</name>
+  <detail>奈落ステージ(31～40)のいずれか1ステージで総合評価のプラチナランクを取得した。</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="000">
+  <name>血塗られた栄華</name>
+  <detail>所有ジュエルが66666個を超えた。</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>凄惨なる道程</name>
+  <detail>総合評価のプラチナランクを10個以上取得した。</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>地獄の旋律</name>
+  <detail>いずれかの楽器アイテムのミニゲームで最高評価（エクセレント）を達成した。</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>大量虐殺</name>
+  <detail>敵を100体撃破した。</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>終わりなき惨劇</name>
+  <detail>敵を1,000体撃破した。</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="G" pid="000">
+  <name>地獄浄化</name>
+  <detail>敵を3,000体撃破した。</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>魔神を滅ぼす者</name>
+  <detail>全てのボスを倒した。</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>流血の果てに</name>
+  <detail>悪魔一覧をコンプリートした。</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>太古の叡智</name>
+  <detail>初めて戦士の装備を錬金した。</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>勇敢なる僕</name>
+  <detail>初めて槍兵の装備を錬金した。</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>魔導の徒</name>
+  <detail>初めて魔法使いの装備を錬金した。</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>深淵の賢者</name>
+  <detail>全ての消費アイテムを錬金した。</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="S" pid="000">
+  <name>剣盾の賢者</name>
+  <detail>全ての戦士武器・防具を錬金した。</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="S" pid="000">
+  <name>槍鎧の賢者</name>
+  <detail>全ての槍兵武器・防具を錬金した。</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="S" pid="000">
+  <name>杖服の賢者</name>
+  <detail>全ての魔法使い武器・防具を錬金した。</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="G" pid="000">
+  <name>地獄の錬金王</name>
+  <detail>全ての武器・防具・アイテムを錬金した。</detail>
+ </trophy>
+</trophyconf>

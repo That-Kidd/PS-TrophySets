@@ -1,0 +1,108 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000537833e8fbb8e599965c3015ff47ef346fd960536210cc341d0e8cb6e32099f841bbad4606f8042e67479354983b0298021bc4f3d1b12e88f3d54db0669eeef7b9471aeaba58703af15bae92162207abcaa16da3bdb265336c3dc9ebbc98dd2985a42e6cc6d677f55a83372f8242cdf314492183376f2af63bd611f8a371564c0cae40d412ad82947d98d7d3eb7230614a8efe84-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR05268_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>もっと姉、ちゃんとしようよっ！+PLUS</title-name>
+ <title-detail>もっと姉、ちゃんとしようよっ！+PLUS のトロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>姉PLUSキング授与</name>
+  <detail>キミこそキングオブ姉好きだ！</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>初めてのプレイ</name>
+  <detail>はじめましてお姉ちゃんたち</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>チュートリアル第1話クリア</name>
+  <detail>はうとぅーあねぷらす！</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>チュートリアル第2話クリア</name>
+  <detail>最後まで見られるかな？</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>チュートリアル第3話クリア</name>
+  <detail>もうひとつ見るには条件が？</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>楓子お姉ちゃんと！</name>
+  <detail>これからもよろしくお願いします！</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>灯華お姉ちゃんと！</name>
+  <detail>甘えん坊でもしっかり者!?</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>境お姉ちゃんと！</name>
+  <detail>共に闘おう！</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>鈴音お姉ちゃんと！</name>
+  <detail>恋人はアイドル!?</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>澪緒お姉ちゃんと！</name>
+  <detail>ずっと手をつないで</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>プレイ時間10時間突破</name>
+  <detail>やり過ぎに注意してネ</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>ミサお姉様と！</name>
+  <detail>親愛なるパートナー</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>アルルお姉ちゃんと！</name>
+  <detail>ツンデレが好き！</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>クララお姉ちゃんと！</name>
+  <detail>究極(？)の癒し系お姉ちゃん</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>これってあり!?</name>
+  <detail>3人でひとつ</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="S" pid="000">
+  <name>勘違いとすれ違い</name>
+  <detail>友情と恋愛</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="S" pid="000">
+  <name>新ヒロイン登場</name>
+  <detail>わかば出現！</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="S" pid="000">
+  <name>わかばお姉ちゃんと！</name>
+  <detail>月へ連れてって</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>プレイ時間24時間突破</name>
+  <detail>やり過ぎに注意してネ！</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="000">
+  <name>プレイ時間48時間突破</name>
+  <detail>もっともっと愛してね！</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="G" pid="000">
+  <name>CG鑑賞制覇</name>
+  <detail>思い出が蘇る</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="G" pid="000">
+  <name>プレイ時間72時間突破</name>
+  <detail>姉好きに不可能はない!!</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="G" pid="000">
+  <name>全ヒロイン制覇！</name>
+  <detail>お姉ちゃんが大好きだ!!</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="G" pid="000">
+  <name>チュートリアル制覇</name>
+  <detail>ここまで見てくれてありがとう!!</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="G" pid="000">
+  <name>ボイス制覇</name>
+  <detail>ボイス王おめでとう！</detail>
+ </trophy>
+</trophyconf>

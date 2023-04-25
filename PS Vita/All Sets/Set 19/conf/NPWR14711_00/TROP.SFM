@@ -1,0 +1,160 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000eadd13b9b32d5c6961584da9ff8ef27669a4bb3953fd3a06b61b51845811a4b81a413b49972bce62efe3c2d922be62da295c0b32f509310f18445b7dcf4133b83e3f9261b633b0b6c1e93a6b7d40b8c3fbbe86d72c6d5cee4c8378a9fe7409694672909111da0042f63b9c7327a6453d355d9d1ab852be4a2627399bf1bf4da15a3049151507ffc4cec93327c0ade6f1f37cd1f4-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR14711_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>ザンキゼロ</title-name>
+ <title-detail>ザンキゼロのトロフィーセットです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>全取得</name>
+  <detail>全てのトロフィーを取得した</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>プロローグクリア</name>
+  <detail>プロローグをクリアした</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>STAGE01　クリア</name>
+  <detail>STAGE01「ソロモン・グランディ」をクリアした</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>STAGE02　クリア</name>
+  <detail>STAGE02「俺はモンキー」をクリアした</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>STAGE03　クリア</name>
+  <detail>STAGE03「もう盗らないと誓ったとさ」をクリアした</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>STAGE04　クリア</name>
+  <detail>STAGE04「冷たい石のお墓に埋める」をクリアした</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>STAGE05　クリア</name>
+  <detail>STAGE05「それから回ろ　ぐるぐるぐるり」をクリアした</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>STAGE06　クリア</name>
+  <detail>STAGE06「きれいなきれいな　お姫さま」をクリアした</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>STAGE07　クリア</name>
+  <detail>STAGE07「ひとりぼっちの　ぼうやのためさ」をクリアした</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="000">
+  <name>中央塔突破</name>
+  <detail>真白ナノテクノロジー研究所の中央塔を突破した</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>FINAL STAGE　クリア</name>
+  <detail>FINAL STAGE「ハンプティを　元には戻せない」をクリア&#x0a;</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>シルバースト！</name>
+  <detail>シルバーストを使用した</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="B" pid="000">
+  <name>クリオネ</name>
+  <detail>クリオネを使用した</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="000">
+  <name>ひとつながりの手記</name>
+  <detail>全ての漂流廃墟から手記を手に入れた</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>“怠惰”の編集者</name>
+  <detail>日暮ハルトのシガバネを全て取得した</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>“嫉妬”の芸術家</name>
+  <detail>三花締リョウのシガバネを全て取得した</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>“憤怒”の農家</name>
+  <detail>玖保田ゼンのシガバネを全て取得した</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>“強欲”の医者</name>
+  <detail>一葉マモルのシガバネを全て取得した</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>“色欲”の花屋</name>
+  <detail>芒野リンコのシガバネを全て取得した</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="000">
+  <name>“暴食”のお嬢様</name>
+  <detail>真白ユマのシガバネを全て取得した</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>“傲慢”の警察官</name>
+  <detail>瀬戸内ミナモのシガバネを全て取得した</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>“原罪”の少女</name>
+  <detail>比良坂サチカのシガバネを全て取得した</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="G" pid="000">
+  <name>ガレキ島の生活改善</name>
+  <detail>全ての施設のレベルを最大にした</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>スコアランキング制覇！</name>
+  <detail>エクステンドマシンのスコアランキングを全て自分の記録で埋めた</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>やり手のゲーマー</name>
+  <detail>ステミスカイのランキングに入った</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="B" pid="000">
+  <name>哀しみ</name>
+  <detail>漏らした</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="G" pid="000">
+  <name>深層の真相</name>
+  <detail>真白ナノテクノロジー研究所にある最後の謎掛けを解き、その先にある部屋の情報を調査し尽くした</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>ブラックスミス</name>
+  <detail>武器を＋99まで強化した</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>クッキングマスター</name>
+  <detail>全ての料理を作った</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>絆</name>
+  <detail>全ての仲間の絆を最大まで上げた</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="S" pid="000">
+  <name>ネクタイ破壊</name>
+  <detail>怠惰のクリーチャのネクタイを部位破壊した</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="S" pid="000">
+  <name>ヒゲ破壊</name>
+  <detail>憤怒のクリーチャのヒゲを部位破壊した</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="S" pid="000">
+  <name>ランドセル破壊</name>
+  <detail>傲慢のクリーチャのランドセルを部位破壊した</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="S" pid="000">
+  <name>ドレス破壊</name>
+  <detail>暴食のクリーチャのドレスを部位破壊した</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="S" pid="000">
+  <name>ワニ頭破壊</name>
+  <detail>嫉妬のクリーチャの頭を部位破壊した</detail>
+ </trophy>
+ <trophy id="035" hidden="yes" ttype="S" pid="000">
+  <name>花破壊</name>
+  <detail>色欲のクリーチャの花を部位破壊した</detail>
+ </trophy>
+ <trophy id="036" hidden="yes" ttype="S" pid="000">
+  <name>アーマー破壊</name>
+  <detail>フルアーマークロスケのアーマーを全て部位破壊した</detail>
+ </trophy>
+ <trophy id="037" hidden="yes" ttype="S" pid="000">
+  <name>疑似クリオネ破壊</name>
+  <detail>エクステンド・テラシマの疑似クリオネを全て部位破壊した</detail>
+ </trophy>
+</trophyconf>

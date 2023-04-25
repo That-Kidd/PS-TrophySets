@@ -1,0 +1,132 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000088e97a432a065c5a296d69506b1dfbea21be36ffa504f1ad088b8f80c0885805cc469f0f75e4653390248234b6732e3e4899f7078e618aff0c607a07bf4bc2c4797ba5c9bfb63fc88913d20adab5d2a20832041c9e4df482c1414d7652c720951c4b517f40fdf1d96d503377007f7c175e2e60286d0a7bda4652e18aeaf6d375f3765babb02d7c4e8c93f826a9a6ab82e629bb01-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR06519_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>真 流行り神</title-name>
+ <title-detail>真 流行り神 トロフィー</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>コンプリート</name>
+  <detail>全てのトロフィーを取得した</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>エンド到達率100％</name>
+  <detail>全てのエンディングに到達した</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>イラスト取得率100％</name>
+  <detail>全てのイラストを取得した</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>音楽取得率100％</name>
+  <detail>全ての音楽を取得した</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>データベース取得率100％</name>
+  <detail>全てのデータベースを取得した</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>全ルートＳランククリア</name>
+  <detail>全てのルートをＳランクでクリアした</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>エンド到達率50％</name>
+  <detail>エンディングを50％以上到達した</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>イラスト取得率50％</name>
+  <detail>イラストを50％以上取得した</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>音楽取得率50％</name>
+  <detail>音楽を50％以上取得した</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>データベース取得率50％</name>
+  <detail>データベースを50％以上取得した</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>ブラインドマン編クリア</name>
+  <detail>ブラインドマン編をクリアした</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>悪霊編クリア</name>
+  <detail>悪霊編をクリアした</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>死臭編クリア</name>
+  <detail>死臭編をクリアした</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>生け贄編クリア</name>
+  <detail>生け贄編をクリアした</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>パンデミック編クリア</name>
+  <detail>パンデミック編をクリアした</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="S" pid="000">
+  <name>洗脳編クリア</name>
+  <detail>洗脳編をクリアした</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="S" pid="000">
+  <name>寄生虫編クリア</name>
+  <detail>寄生虫編をクリアした</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="S" pid="000">
+  <name>人形編クリア</name>
+  <detail>人形編をクリアした</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="S" pid="000">
+  <name>秘密クラブ編クリア</name>
+  <detail>秘密クラブ編をクリアした</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>プレイ開始</name>
+  <detail>ゲームを開始した</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>ムービー観賞</name>
+  <detail>オープニングムービーを観た</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>勇気ある決断</name>
+  <detail>初めてカリッジポイントを使った</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="B" pid="000">
+  <name>名推理</name>
+  <detail>初めて推理ロジックで「優」を取得した</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>勇気を使い果たした</name>
+  <detail>全てのカリッジポイントを使った</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="000">
+  <name>嘘がつけない私</name>
+  <detail>ライアーズアートで１度も何も選択しなかった</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="B" pid="000">
+  <name>女王様と従順な豚</name>
+  <detail>女王様のような言動で金谷を喜ばせた</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>私はブラインドマン？</name>
+  <detail>ブラインドマンの正体を「私」だと推理した</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="B" pid="000">
+  <name>私の前世はアライグマ？</name>
+  <detail>「前世がアライグマだった」と下手な嘘をついた&#x0a;</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="B" pid="000">
+  <name>ジャンケン勝利</name>
+  <detail>生死を決めるジャンケンに勝った</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="B" pid="000">
+  <name>ハムにしか見えない……</name>
+  <detail>私は関本をハムだと思った</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="B" pid="000">
+  <name>鬼の接客術</name>
+  <detail>キャストとしてヒロムたんに最高の接客をした</detail>
+ </trophy>
+</trophyconf>

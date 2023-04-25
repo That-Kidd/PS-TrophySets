@@ -1,0 +1,136 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000cf9daa580f44dc21acfc87e9828be1a1cc93f1220803ef60060db2bf272dee2873c10849bd97102f19949df48ba4c7b53cc736f58aab2e01ef23a4a4d76d7e5dc675ef36e07c406fc3a141581d95b274d4379d8cee53041767d5176d046f8bb2642ff33dd3c270080bf815dc9614263dc92f5d47aa32790840b09b559fb5d8aa64c4f966fff9edd55d01bce35ce507d4a1fc0a48-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR15265_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>GodWars</title-name>
+ <title-detail>GodWars　トロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>神話の語り手</name>
+  <detail>全てのトロフィーを獲得する&#x0a;</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>神々との調停者</name>
+  <detail>四ノ巻をクリアする&#x0a;</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>瑞穂を護りし者</name>
+  <detail>全ての依頼をクリアする　※オリヒメの依頼は除く&#x0a;</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>泰平への一歩</name>
+  <detail>初めて依頼をクリアする　※オリヒメの依頼は除く&#x0a;</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>黄泉からの帰還者</name>
+  <detail>三ノ巻をクリアする&#x0a;</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>神儀の担い手</name>
+  <detail>初めて神儀を発動する&#x0a;</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>術技を極めし者</name>
+  <detail>全てのスキルを極める&#x0a;</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>術技を知る者</name>
+  <detail>全てのスキルを出現させる&#x0a;</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>知識への誘い</name>
+  <detail>初めてスキルLvを上げる&#x0a;</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="000">
+  <name>八尺瓊勾玉</name>
+  <detail>二ノ巻をクリアする&#x0a;</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>秘儀の伝道者</name>
+  <detail>初めて秘儀を発動する&#x0a;</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>黄泉訪れし者</name>
+  <detail>一ノ巻をクリアする&#x0a;</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>生業を極めし者</name>
+  <detail>全ての職業Lvを最大にする</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>奥義開眼</name>
+  <detail>初めて奥儀を発動する&#x0a;</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="000">
+  <name>探索を極めし者</name>
+  <detail>全ての埋もれた宝を入手する&#x0a;</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>探索に熟する者</name>
+  <detail>埋もれた宝を３０個以上入手する</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>見つけし者</name>
+  <detail>初めて埋もれた宝を入手する&#x0a;</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="G" pid="000">
+  <name>戦を極めし者</name>
+  <detail>全ての仲間のLvを99以上にする&#x0a;</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>好奇心あふるる者</name>
+  <detail>全てのつづら箱から中身を入手する ※黄泉の迷宮の物は除く&#x0a;</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>目ざとき者</name>
+  <detail>初めてつづら箱から中身を入手する ※黄泉の迷宮の物は除く&#x0a;</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>装具を揃えし者</name>
+  <detail>全ての装備を集める　※黄泉の迷宮限定入手の装備は除く&#x0a;</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>装具を求めし者</name>
+  <detail>装備を１００種類以上集める　※黄泉の迷宮限定入手の装備は除く&#x0a;</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>よろず屋へようこそ</name>
+  <detail>初めて買い物をする&#x0a;</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>生業を知る者</name>
+  <detail>全ての職業を出現させる&#x0a;</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>百万葉を綴る者</name>
+  <detail>１００００００葉以上貯める&#x0a;</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>十万葉を綴る者</name>
+  <detail>１０００００葉以上貯める</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="S" pid="000">
+  <name>敬虔なる者</name>
+  <detail>やしろLvを最大にする&#x0a;</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>神敬いし者</name>
+  <detail>やしろのレベルを上げる&#x0a;</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>祀りし者</name>
+  <detail>初めて奉納をする&#x0a;</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="S" pid="000">
+  <name>泰平を求めし者</name>
+  <detail>依頼を３０個以上クリアする　※オリヒメの依頼は除く&#x0a;</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>願い叶えし者</name>
+  <detail>依頼を１０個以上クリアする　※オリヒメの依頼は除く&#x0a;</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>草民の願い</name>
+  <detail>初めて依頼を請ける　※オリヒメの依頼は除く</detail>
+ </trophy>
+</trophyconf>

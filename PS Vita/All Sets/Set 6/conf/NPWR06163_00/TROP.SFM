@@ -1,0 +1,56 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000f4f2300406b2cacac7bbd541b1a496775c015a32204570e43881d2a83c2e1087587a1d470c6fa119699aa25e9a2d88dddf9020424e9a933fc4fbf649110b5101506aec9fafc02e5f6b4c42d1a67adb38a6ac3da691b47668633f82e1b18a9f2f4d1348ae4a948ceeadf8e09ab3a12de7059024d6fca2ebbba6a5656a75895cc421e2f698723a999ee42093759073c8456ae76459-->
+<trophyconf version="1.1" platform="ps3,psp2,ps4" policy="small">
+ <npcommid>NPWR06163_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>MouseCraft</title-name>
+ <title-detail>MouseCraft</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Scuba Diver</name>
+  <detail>Mice spend a total of 600 seconds underwater.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Designer</name>
+  <detail>Design one level in the Level Editor.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Pyrotechnic</name>
+  <detail>Exterminate 10 Ratoids by using Explosive Bricks.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Chemist</name>
+  <detail>Exterminate 10 Ratoids by leading them into Acid Obstacles.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Smasher</name>
+  <detail>Exterminate 10 Ratoids by smashing them with Tetromino Bricks.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Wrecker</name>
+  <detail>Destroy 100 Tetromino Bricks with Bombs.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Gold Digger Enthusiast</name>
+  <detail>Earn 40 golden cogs by completing 40 levels with a Perfect score.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Crispy</name>
+  <detail>Exterminate 10 Ratoids by using Electric Bricks.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="-1">
+  <name>Collector</name>
+  <detail>Collect all Anima Shards.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="-1">
+  <name>Anarchist</name>
+  <detail>Exterminate 50 Ratoids.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="-1">
+  <name>Completionist</name>
+  <detail>Complete all 80 levels.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="-1">
+  <name>Gold Digger Expert</name>
+  <detail>Earn 80 golden cogs by completing all 80 levels with a Perfect score.</detail>
+ </trophy>
+</trophyconf>

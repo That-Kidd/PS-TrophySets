@@ -1,0 +1,212 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000260adc6be21353156cb16f9dea792c1f2431070f476e71c314fba9e108c25d16c5423c0f778730807e9f4dc451901b3b60d4492b459755b7f6458b2acdf1dabfa00aff02d8078af560405c9a337fb42c7281bef2a3dae2ad556781dec9f944e0a4880544587b05f5ea9b0b202d6cd1ef37837180382f177fb97f10fb9fd25a4acbe677dc3b97268bd8c80ef12fcf6ad037ab43ca-->
+<trophyconf version="1.1" platform="ps3,psp2,ps4" policy="large">
+ <npcommid>NPWR10432_00</npcommid>
+ <trophyset-version>01.02</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>SAMURAI WARRIORS 4 Empires</title-name>
+ <title-detail>SAMURAI WARRIORS 4 Empires Trophy Collection</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Unrivaled Warrior</name>
+  <detail>Obtain all of the trophies.</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>The First Step Towards Victory</name>
+  <detail>Capture an enemy base.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>A Clever Strategy</name>
+  <detail>Capture a chain of enemy bases.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Mercy is for the Weak</name>
+  <detail>Capture all of the enemy bases and win the battle.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>Fledgling Commander</name>
+  <detail>Obtain a formation for the first time.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>Unparalleled Commander</name>
+  <detail>Obtain all of the formations.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>Fledgling Tactician</name>
+  <detail>Obtain a Battlefield Tactic for the first time.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>Unparalleled Tactician</name>
+  <detail>Obtain all of the Battlefield Tactics.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>One Man Army</name>
+  <detail>Achieve 1,000 K.O.s in a single battle.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>Just Juggling</name>
+  <detail>Achieve a combo count of 1,000 or more.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>Future Architect</name>
+  <detail>Rebuild your home castle for the first time.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>Master Builder</name>
+  <detail>Build all the different types of castle.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>The Quality of Mercy</name>
+  <detail>Complete a scenario without executing anybody.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>The Pages of History</name>
+  <detail>Create a scenario in Genesis Mode.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>New Age Conqueror</name>
+  <detail>Clear Genesis Mode.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>A Star is Born</name>
+  <detail>Create a custom character.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="G" pid="000">
+  <name>A Land United</name>
+  <detail>Clear all Conquest Mode scenarios (excluding add-on scenarios).</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>People are a Castle</name>
+  <detail>Build a clan of at least 20 officers in Conquest Mode.</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>People are Walls</name>
+  <detail>Build a clan of at least 50 officers in Conquest Mode.</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="S" pid="000">
+  <name>People are a Moat</name>
+  <detail>Build a clan of at least 100 officers in Conquest Mode.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>A Bumper Crop</name>
+  <detail>Increase the Rice Yield for a single castle territory to its maximum level.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>Multitasker</name>
+  <detail>Increase Commerce for a single castle territory to its maximum level.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>Unassailable</name>
+  <detail>Increase Defense for a single castle territory to its maximum level.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>A Great Step Forward</name>
+  <detail>Conquer an enemy territory for the first time.</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="000">
+  <name>Tohoku United</name>
+  <detail>Unite the Tohoku region in Conquest Mode.</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="B" pid="000">
+  <name>Hokuriku United</name>
+  <detail>Unite the Hokuriku region in Conquest Mode.</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>Kanto United</name>
+  <detail>Unite the Kanto region in Conquest Mode.</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="B" pid="000">
+  <name>Chubu United</name>
+  <detail>Unite the Chubu region in Conquest Mode.</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="B" pid="000">
+  <name>Kinki United</name>
+  <detail>Unite the Kinki region in Conquest Mode.</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="B" pid="000">
+  <name>Chugoku United</name>
+  <detail>Unite the Chugoku region in Conquest Mode.</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="B" pid="000">
+  <name>Shikoku United</name>
+  <detail>Unite the Shikoku region in Conquest Mode.</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="B" pid="000">
+  <name>Kyushu United</name>
+  <detail>Unite the Kyushu region in Conquest Mode.</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="S" pid="000">
+  <name>The Land United</name>
+  <detail>Unite the land in Conquest Mode for the first time.</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>A Rapt Audience</name>
+  <detail>Unlock 25% of all events for viewing.</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>Back and Forth</name>
+  <detail>Unlock 50% of all events for viewing.</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="S" pid="000">
+  <name>The Tales of History</name>
+  <detail>Unlock 100% of all events for viewing.</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="G" pid="000">
+  <name>Star Gazing</name>
+  <detail>Unlock all of the famous officers in the Archives.</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>A Little Help From My Friends</name>
+  <detail>Establish a Friend.</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>Just the Two of Us</name>
+  <detail>Establish a Spouse.</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="000">
+  <name>My Word is My Bond</name>
+  <detail>Establish a Sworn Ally.</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="B" pid="000">
+  <name>Worthy Rivals</name>
+  <detail>Establish a Rival.</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="B" pid="000">
+  <name>Dragon vs. Tiger</name>
+  <detail>Establish a Nemesis.</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="B" pid="000">
+  <name>The Next Generation</name>
+  <detail>Establish a Master and Protege relationship.</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="B" pid="000">
+  <name>Through Thick and Thin</name>
+  <detail>Establish a Retainer.</detail>
+ </trophy>
+ <trophy id="044" hidden="no" ttype="S" pid="000">
+  <name>Rise of the Guardians</name>
+  <detail>Appoint Four Guardians of your house.</detail>
+ </trophy>
+ <trophy id="045" hidden="yes" ttype="B" pid="000">
+  <name>Banner Soldier</name>
+  <detail>Obtain a banner.</detail>
+ </trophy>
+ <trophy id="046" hidden="yes" ttype="B" pid="000">
+  <name>Banner Daimyo</name>
+  <detail>Obtain 50 banners.</detail>
+ </trophy>
+ <trophy id="047" hidden="yes" ttype="S" pid="000">
+  <name>Banner Shogun</name>
+  <detail>Obtain all of the banners.</detail>
+ </trophy>
+ <trophy id="048" hidden="yes" ttype="S" pid="000">
+  <name>Behind Every Good Man</name>
+  <detail>Appoint women as all of your Magistrates.</detail>
+ </trophy>
+ <trophy id="049" hidden="yes" ttype="S" pid="000">
+  <name>Women of Action</name>
+  <detail>Appoint women as your Four Guardians.</detail>
+ </trophy>
+ <trophy id="050" hidden="yes" ttype="B" pid="000">
+  <name>A Softer Side of Strategy</name>
+  <detail>Appoint a woman as your Strategist.</detail>
+ </trophy>
+</trophyconf>

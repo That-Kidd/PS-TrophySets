@@ -1,0 +1,64 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000005c3b73c729cd742403fc6953f83b7a27c369ad43c6306ad92d8f4a6cad2275df3dcb81c87291cb9c708e5927ba83dfebdf1c12be07bd4ef78719fddf1af0264849887266b93997335e5fd7fc4f3c053bd55a0117aac3fcb1da6606d853a7cc5e7842b9b4d09f0a4639af28804deab4c9b227573f87f73117df1430a8a0adc80e5af376be4bbbe9de9485eac789ad034927ca66cf-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR05438_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Table Top Racing</title-name>
+ <title-detail>Table Top Racing</title-detail>
+ <trophy id="000" hidden="no" ttype="G" pid="-1">
+  <name>Stellar Performance!</name>
+  <detail>Obtain all stars in all championships</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="-1">
+  <name>All-Star Specialist!</name>
+  <detail>Get three stars on all the Special Events</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="-1">
+  <name>Master Drifter!</name>
+  <detail>Score over 300,000 points in a one minute drift session.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>First Win!</name>
+  <detail>Win 3 stars in any championship race</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Online Winner!</name>
+  <detail>Win an online race</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Table Top Tourist!</name>
+  <detail>Win a race on all 16 tracks</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>You're Special!</name>
+  <detail>Gain three stars in any Special Event</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Max Power!</name>
+  <detail>Fully upgrade any car</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Lightning Strikes Twice?</name>
+  <detail>Take out two or more cars with a single EMP </detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>Photo Finish!</name>
+  <detail>Win an offline race by less than a car's length</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>BOOM!</name>
+  <detail>Hit 50 opponents with a mine!</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="-1">
+  <name>Target Practice!</name>
+  <detail>Hit 50 opponents with a missile!</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="-1">
+  <name>Table Top Torment!</name>
+  <detail>Fall off the table 10 times</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="-1">
+  <name>Show Off!</name>
+  <detail>Win whilst jumping over the finish line</detail>
+ </trophy>
+</trophyconf>

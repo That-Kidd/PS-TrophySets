@@ -1,0 +1,116 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000d2ed0cdebcfee2e2fff4bd61904e95de7d86fef8586791ff103c728b51e9f704cbb59c7411081070c2072eb37fe3fc7bba5f88c382c6b10df98e94f440f360ba42ea63c895256d7369bef37b1d4ee81567bf9f8cb192e57d924b2d6db5e7345b2cc1699dfd3323c240f4c08fa2de222a6820c77e063899908a483f2883c9193de5d81a7b3af20b7fc686b51dc5d5fd39908df784-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR13926_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>吉原彼岸花 久遠の契り</title-name>
+ <title-detail>吉原彼岸花 久遠の契りのトロフィーです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>吉原彼岸花 久遠の契り</name>
+  <detail>全てのトロフィーを獲得</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>騒がしい見舞い客</name>
+  <detail>「騒がしい見舞い客」を読んだ</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>誰にも譲らない</name>
+  <detail>「誰にも譲らない」を読んだ</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="S" pid="000">
+  <name>遠い日の約束</name>
+  <detail>「遠い日の約束」を読んだ</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>奈落の果て</name>
+  <detail>「奈落の果て」を読んだ</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="G" pid="000">
+  <name>鬼灯笛</name>
+  <detail>「鬼灯笛」を読んだ</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>袋小路</name>
+  <detail>「袋小路」を読んだ</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>格子の中</name>
+  <detail>「格子の中」を読んだ</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>白の埋葬</name>
+  <detail>「白の埋葬」を読んだ</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="G" pid="000">
+  <name>この屋根の下で</name>
+  <detail>「この屋根の下で」を読んだ</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="000">
+  <name>指切り</name>
+  <detail>「指切り」を読んだ</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>きっと取り戻す</name>
+  <detail>「きっと取り戻す」を読んだ</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="G" pid="000">
+  <name>ひらひら</name>
+  <detail>「ひらひら」を読んだ</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="000">
+  <name>虎と蛇</name>
+  <detail>「虎と蛇」を読んだ</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="B" pid="000">
+  <name>伝えられなかった言葉</name>
+  <detail>「伝えられなかった言葉」を読んだ</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="G" pid="000">
+  <name>子守唄</name>
+  <detail>「子守唄」を読んだ</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>恋盗人</name>
+  <detail>「恋盗人」を読んだ</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>裏切りの代償</name>
+  <detail>「裏切りの代償」を読んだ</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="G" pid="000">
+  <name>くちづけ</name>
+  <detail>「くちづけ」を読んだ</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>堕ちた花魁</name>
+  <detail>「堕ちた花魁」を読んだ</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="G" pid="000">
+  <name>夜明け</name>
+  <detail>「夜明け」を読んだ</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>見ている</name>
+  <detail>「見ている」を読んだ</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="G" pid="000">
+  <name>彼岸花</name>
+  <detail>「彼岸花」を読んだ</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="G" pid="000">
+  <name>おまけ読了</name>
+  <detail>全ての「おまけ」を読んだ</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="S" pid="000">
+  <name>画廊達成</name>
+  <detail>画廊の総達成率が100%になった</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="S" pid="000">
+  <name>音楽達成</name>
+  <detail>音楽の達成率が100%になった</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="S" pid="000">
+  <name>結末達成</name>
+  <detail>結末の達成率が100%になった</detail>
+ </trophy>
+</trophyconf>

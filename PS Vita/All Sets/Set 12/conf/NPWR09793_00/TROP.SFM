@@ -1,0 +1,124 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000050d215b6028098f3ed911e96381dcd6fbaa3d9a79fcf91d3ab19f327b6d8a549d32c2da439577afd99bb2f9bc1a2f2776cd20f85766fc5b397a5a401c8ca8cdc549d2e1fe18da3a3c0861d432b92dc86fb8a7d7dd202ee5dc47069ea4d69a70383d050948f8fffc5e6a142e625bf57496755260bb16f77bc80dd99846c1dacb9baae2b2c401217d98c8e76366f9d2e3a2496d34d-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR09793_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>FLOWERS夏篇</title-name>
+ <title-detail>FLOWERS夏篇のトロフィーです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>コンプリート</name>
+  <detail>全てのトロフィーを獲得</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>探偵の助手</name>
+  <detail>うさぎの消失をダリアと捜査した</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>契約成立</name>
+  <detail>うさぎの消失を千鳥と捜査した</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>秘密の勉強</name>
+  <detail>譲葉にマッサージをされた</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>這わされた手</name>
+  <detail>ダリアとバラの手入れをした</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>個人レッスン</name>
+  <detail>ダリアと朗読劇の練習をした</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>昼休みの自主練</name>
+  <detail>千鳥と朗読劇の練習をした</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>煌めく水面</name>
+  <detail>千鳥と水辺で涼んだ</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>都合の佳い考え</name>
+  <detail>千鳥と湖を眺めた</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="000">
+  <name>教職員の仕事</name>
+  <detail>ダリアと碧身のフックマンを目撃した</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="000">
+  <name>三人の魔女</name>
+  <detail>千鳥・沙沙貴姉妹と碧身のフックマンを目撃した</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>あの時のお願い</name>
+  <detail>千鳥のお願いをきいた</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>二人だけの秘密</name>
+  <detail>chapter1の推理パートをクリア</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>無垢な笑顔</name>
+  <detail>chapter3の推理パートをクリア</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>大切な友人</name>
+  <detail>chapter5の推理パートをクリア</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>静寂とは別の静けさ</name>
+  <detail>BADEND01を見た</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>当然の帰結</name>
+  <detail>BADEND02を見た</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>無味なもの</name>
+  <detail>BADEND03を見た</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>息苦しい日常</name>
+  <detail>BADEND04を見た</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>彼女の心の裡</name>
+  <detail>BADEND05を見た</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="G" pid="000">
+  <name>わたしの想い</name>
+  <detail>ダリアENDを見た</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="S" pid="000">
+  <name>わたしの名前</name>
+  <detail>離別ENDを見た</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="S" pid="000">
+  <name>一つの約束</name>
+  <detail>友達以上恋人未満ENDを見た</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="S" pid="000">
+  <name>幸せな時間</name>
+  <detail>恋人ENDを見た</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="G" pid="000">
+  <name>歌いましょう</name>
+  <detail>TrueEndを見た</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="G" pid="000">
+  <name>“真実の女神”</name>
+  <detail>EXTRA 蘇芳視点を見た</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="G" pid="000">
+  <name>GRAPHICコンプリート</name>
+  <detail>GRAPHICをコンプリート</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="G" pid="000">
+  <name>MUSICコンプリート</name>
+  <detail>MUSICをコンプリート</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="G" pid="000">
+  <name>ENDLISTコンプリート</name>
+  <detail>ENDLISTをコンプリート</detail>
+ </trophy>
+</trophyconf>

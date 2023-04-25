@@ -1,0 +1,72 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000000523053cf2fa1a15fb038a360a04e6750d41394d116fbc9fe0858283afd2c0517dc5efbcf111074fad17afa13aff403fdb43cf77264765bb71e144bd5dc4604f220a835b4839125a835dc70dbe7b4a6a59140e57ae2c8dc92550a52396889e3ec220f46f96abc2b08a7aa4fff0197580a25b56543158c9348a5b571ca802f7adb1a3cbf61fea985864f43a07ff1dfa262208c078-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR10151_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Baseball Riot</title-name>
+ <title-detail>Baseball Riot</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Extra Balls</name>
+  <detail>Earn at least two extra balls during one level in region 1.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Sparing Bounces</name>
+  <detail>Knock out 5 enemies with a single swing in region 1.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Two Stars</name>
+  <detail>Earn at least two stars from each level in region 2.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Home Run</name>
+  <detail>Knock everyone out with the first swing in a single level in region 2. Explosions don't count.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Baseball In the Face</name>
+  <detail>Get five headshots with a single swing in region 3.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>100 Bounces</name>
+  <detail>Swing a ball that bounces 100 times in region 3.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Explodz Junkie</name>
+  <detail>Knock out six enemies with a single Explodz explosion in region 4.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Glass Destroyer</name>
+  <detail>Destroy 10 pieces of glass during one level in region 4.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Foursome</name>
+  <detail>Collect four extra balls during one level in region 5.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>Vending Champion</name>
+  <detail>Destroy three vending machines with a ball and a single swing in region 5.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>Star Batter</name>
+  <detail>Complete a level with a single swing while collecting all stars in region 6.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="-1">
+  <name>All Star</name>
+  <detail>Collect three stars from every level in region 6.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="-1">
+  <name>Cash Cow</name>
+  <detail>Collect three briefcases with a single swing in region 7.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="-1">
+  <name>Unforeseen Consequences</name>
+  <detail>Knock out four scientists with a single swing in region 7.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="-1">
+  <name>Mad Batter</name>
+  <detail>Knock out all enemies in a level with the first swing and only with headshots in region 8.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="-1">
+  <name>Perfect Batter</name>
+  <detail>Get a region score of 40 points or higher in region 8.</detail>
+ </trophy>
+</trophyconf>

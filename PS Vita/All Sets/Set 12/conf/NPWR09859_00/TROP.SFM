@@ -1,0 +1,56 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000009a191cb4069d54d5152f0cb4a74bc41883e87f8aa770baa022036ee060086fdbf068c23047382644f66892212c6b0e7674e8cd78584f5eba48f1c8a19ccdb954cdb22b6b7ea01f6b38f2e41d52e6119ee03528849b591ad0b2ddc5ec46d0852b893660ed0cb62c39a28587de06d5ff6dc46f75e57159d3aeb2414eb64e78c5b3dbd79fce0ca3f06bbe95acbf218991b16203f22-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="small">
+ <npcommid>NPWR09859_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Super Star Wars</title-name>
+ <title-detail>Super Star Wars</title-detail>
+ <trophy id="000" hidden="no" ttype="G" pid="-1">
+  <name>Master Jedi</name>
+  <detail>Beat the game on Jedi difficulty without losing any lives.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="-1">
+  <name>Thermal Destruction</name>
+  <detail>Kill 5 enemies with a single thermal detonator.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="-1">
+  <name>Hot Shot</name>
+  <detail>Destroy 20 TIE fighters in the X-wing trench level.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="-1">
+  <name>Right Out of the Sky</name>
+  <detail>Kill 20 Mynocks while they are diving at you.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="-1">
+  <name>The Walking Carpet</name>
+  <detail>Defeat three bosses with Chewbacca.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>No Match for a Good Blaster</name>
+  <detail>Obtain the highest level blaster.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Saw it Coming</name>
+  <detail>Beat the Dune Sea level without getting hit by a sandworm.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Ootini</name>
+  <detail>Kill 20 Jawas in one sandcrawler level.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>If Only I'd Gone to Tosche Station!</name>
+  <detail>Run out of landspeeder fuel when you are not facing Mos Eisley or the Sandcrawler.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>Teamwork</name>
+  <detail>Play all three heroes.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>Not a Bad Bit of Rescuing</name>
+  <detail>Rescue Princess Leia with Han Solo.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="-1">
+  <name>Han Shot First!</name>
+  <detail>Play as Han Solo in the Cantina and shoot Greedo. (Yes, it's possible!)</detail>
+ </trophy>
+</trophyconf>

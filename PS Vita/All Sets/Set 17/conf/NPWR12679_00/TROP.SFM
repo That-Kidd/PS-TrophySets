@@ -1,0 +1,56 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000004e04ac03e4683021c87a32decb6af546e280ee7214db4fd9720000b85a9bf8cde416ac153e96fc668b03a8d0a1af7fe6d482a557b81fa0fea7a46134cb0d94467e97a2a772a07deed05ee3f2c3cb1a2e726e172665f2d583a1d8060b24ff32490321df3a45bc94094d40264890c55690ed0fdb9739a6a77296b9d7bf537f60c513f34c5f6ce454488548827106e93225fa8c2ee3-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR12679_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Fairune</title-name>
+ <title-detail>Fairune</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>The End</name>
+  <detail>Beat the game and watched the ending.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Item Collector</name>
+  <detail>Collected all items excluding secret items.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="-1">
+  <name>Treasure Hunter</name>
+  <detail>Collected all secret items.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Monster Hunter</name>
+  <detail>Defeated all monsters excluding rare monsters.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="-1">
+  <name>Rare Enemy Hunter</name>
+  <detail>Defeated all rare monsters.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="-1">
+  <name>Perfectionist</name>
+  <detail>Beat the game without dying.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Twice a Hero</name>
+  <detail>Beat the game twice.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>2hr Speedster</name>
+  <detail>Beat the game within 2hrs.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="-1">
+  <name>1hr Speedster</name>
+  <detail>Beat the game within 1hr.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>Monster Slayer</name>
+  <detail>Defeated 1000 monsters.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>Legendary Slayer</name>
+  <detail>Defeated 5000 monsters.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="-1">
+  <name>Rare Enemy Slayer</name>
+  <detail>Defeated 100 rare monsters.</detail>
+ </trophy>
+</trophyconf>

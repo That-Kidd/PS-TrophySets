@@ -1,0 +1,60 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000009b337debb30d7e1f8cd902785022614b4030d3e0a814dd4ca87f8cb8ac722d0d34b628951bd353b732d2944c47e08046482f3f74432c51f1f47cad6643493bb0b5c64014e283a2426db76138d8543899636c50be68a67f3ebfa48805d197e6aafe83ac7713c588c9957586cd38bb0551d04f7a5f76eac1e046f0f77e4af59a9f23dbeee2c73ebbc7035ef022a49cfb13f2c88691-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR18304_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Attack of the Toy Tanks</title-name>
+ <title-detail>Attack of the Toy Tanks</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Platinum Tank</name>
+  <detail>Get all other trophies.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>Trainee</name>
+  <detail>Destroy your first tank in battle.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>Lieutenant</name>
+  <detail>Destroy 10 tanks in battle.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>Captain</name>
+  <detail>Destroy 20 tanks in battle.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>Major</name>
+  <detail>Destroy 30 tanks in battle.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>Colonel</name>
+  <detail>Destroy 50 tanks in battle.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>General</name>
+  <detail>Destroy 70 tanks in battle.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>Small Tank</name>
+  <detail>Complete 10 levels.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>Middle Tank</name>
+  <detail>Complete 20 levels.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>Big Tank</name>
+  <detail>Complete 30 levels</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>Silver Crown</name>
+  <detail>Get silver ranking on any level.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>Gold Crown</name>
+  <detail>Get gold ranking on any level.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>Destroyed</name>
+  <detail>Die for the 1st time.</detail>
+ </trophy>
+</trophyconf>

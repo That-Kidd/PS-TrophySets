@@ -1,0 +1,44 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000007893b2049b57d5a1f206b0b1fd8602329c3496136755ede7a8b06611814a87230bb2475af4a10eecff28d0b019648c013cea0bc15b6f3f0e983322e455894bd7ff8b070b00a3767c7f14cd0c7835108b1ad71e9d0fded4a8c5a34c291d91b6e4162e90ca436adb79b0115ccd04ffc3ed15c76f8abf2feb5ffb4659c9e9487fc947cb912cc101503c69855c8cb0ee8d08b00deeda-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR03170_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Chronovolt</title-name>
+ <title-detail>An adventure in time.</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Explorer</name>
+  <detail>Unlocked World 2.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="-1">
+  <name>Keen Explorer</name>
+  <detail>Unlocked World 3.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="-1">
+  <name>Starlet</name>
+  <detail>Completed World 1 with all the stars.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="-1">
+  <name>Super Star</name>
+  <detail>Completed World 2 with all the stars.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="-1">
+  <name>Perfectionist</name>
+  <detail>Got all the stars.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="-1">
+  <name>Sniper</name>
+  <detail>Taken out a Chaser from a great distance.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Keymaster</name>
+  <detail>Opened 50 doors.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="-1">
+  <name>Show Them</name>
+  <detail>Beaten a friend.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="-1">
+  <name>Time Manipulator Extraordinaire</name>
+  <detail>Use each power 20 times.</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,92 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000006b3a102098e0a0988c0cb28ad437ee3d6403a39495525099d1f87b8b089bc760f3236db77efad8eb653ad75424dad2ed3e7571622933dd88c86450b1f860d808263a189cfd65a4a83544896fb9296ef46b5d89b7c47cf990670b6c3d8121963c0c2196ca8c8061ead32687619089785636b527f6ae2793da4d50e7a156e5894e51617da9dcc7d225481aeb57ccfde94e65097095-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR17122_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Asdivine Dios</title-name>
+ <title-detail>Trophy set for Asdivine Dios</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>World's Memoria</name>
+  <detail>Obtained all the trophies.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>First Step</name>
+  <detail>Watched the opening.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>All for One, One for All</name>
+  <detail>Gathered a party of four.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Bronze Honors</name>
+  <detail>Cleared the Bronze Cup at the battle arena.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>Silver Honors</name>
+  <detail>Cleared the Silver Cup at the battle arena.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>Gold Honors</name>
+  <detail>Cleared the Gold Cup at the battle arena.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>Maidame's Honors</name>
+  <detail>Cleared the Maid Cup at the battle arena.</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="G" pid="000">
+  <name>Damage Dealer</name>
+  <detail>Cleared the Gazillion Challenge.</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>A Deity's Legend</name>
+  <detail>Obtained the ”A Deity's Legend” ending.</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>Last Dream</name>
+  <detail>Obtained the ”Last Dream” ending.</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>Promise of a Distant Day</name>
+  <detail>Obtained the ”Promise of a Distant Day” ending.</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>Awakened by a Kiss</name>
+  <detail>Obtained the ”Awakened by a Kiss” ending.</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>He Who Watches Over the World</name>
+  <detail>Obtained the ”He Who Watches Over the World” ending.</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>Just the Two of Us</name>
+  <detail>Obtained the ”Just the Two of Us” ending.</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>Together Forever</name>
+  <detail>Obtained the ”Together Forever” ending.</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="S" pid="000">
+  <name>Millennial Crush</name>
+  <detail>Obtained the ”Millennial Crush” ending.</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="G" pid="000">
+  <name>Our Beloved Izayoi</name>
+  <detail>Obtained the ”Our Beloved Izayoi” ending.</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="G" pid="000">
+  <name>All Together</name>
+  <detail>Found all the stray sprites.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="G" pid="000">
+  <name>Servant of the Humans</name>
+  <detail>Cleared all subquests.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="G" pid="000">
+  <name>King of Treasure Hunting</name>
+  <detail>Found all treasure chests.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="G" pid="000">
+  <name>Weapon Master</name>
+  <detail>Crafted a weapon with a rank of 999.</detail>
+ </trophy>
+</trophyconf>

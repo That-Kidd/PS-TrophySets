@@ -1,0 +1,60 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000008a947611e17dca16b163b4287bf54c4f79d7ad2919481c1dcaba5113aad86dbb7c2901f9a35b5e2625d4b274c3a9d6219a51f4c9ee21ac71a26412ceccadc873923190d8fbe622ea4e7c3ef685b0dadaf41ebb7fc72419c976e2960b23d05d73cb6d4335c046b9bb66c30bb44a4f18ff8ba771d4c0818d9c6153653a1a177824c8cfbaac31f213e423b30aae97144a72454e6b10-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR17536_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Heroes Trials</title-name>
+ <title-detail>Heroes Trials</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Platinum hero</name>
+  <detail>Obtained all trophies.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="000">
+  <name>Social butterfly</name>
+  <detail>Talk to a NPC.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>In my shoes</name>
+  <detail>Buy the boots.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>Healthy diet</name>
+  <detail>Found a fruit or vegetable in the island.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>Poor thing</name>
+  <detail>Killed an enemy.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>I found my way</name>
+  <detail>Cleared the first trial.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>Frankenslime</name>
+  <detail>Defeated Potako.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>Matador</name>
+  <detail>Defeated Taurus.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>Manic hero</name>
+  <detail>Defeated Denmaku.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>Somebody set up us the bomb</name>
+  <detail>Get the bombs.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>Magical chase</name>
+  <detail>Acquired the three magic spells.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>Old heroes of Délhua</name>
+  <detail>Interacted with the Adel and Soreon statues.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>Plonida's disciple</name>
+  <detail>Cleared Plonida shrine.</detail>
+ </trophy>
+</trophyconf>

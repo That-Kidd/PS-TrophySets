@@ -1,0 +1,148 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000f56b3804e43e2e19afa87c4bfef61dbd2d1eee2d4c631e9d25700eaaf65c93d932dc9462477d786428f69bd86bc73dd357f35107084cdae43b40857813b697222dde6ed5c520e38de7a2d07e2d78b5706a7872576e2eb505658c6f6bbaefbca5699850edd2c5cc900576c7892fb535f8b35233dfef693bcb599c13591995d4758b78930f61983b14d482cf5a456f945be423c076-->
+<trophyconf version="1.1" platform="ps3,psp2" policy="large">
+ <npcommid>NPWR05207_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>第３次スーパーロボット大戦Ｚ　時獄篇</title-name>
+ <title-detail>第３次スーパーロボット大戦Ｚ　時獄篇のトロフィー。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>時獄篇マスター</name>
+  <detail>全てのトロフィーを獲得する。</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>シナリオコンプリート</name>
+  <detail>シナリオチャートをコンプリートする。</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>エンブレムコレクター</name>
+  <detail>５つのエンブレム全てを獲得する。</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>ＤＥＭのお得意様</name>
+  <detail>Ｄトレーダーの全ての定番商品（強化パーツ１８種・強化システム４種）を購入する。</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="G" pid="000">
+  <name>全ＳＲポイント制覇</name>
+  <detail>ＳＲポイントを６０ポイント獲得する。</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>ゲームクリア</name>
+  <detail>ゲームをクリアする。</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>パイロットブリーダー</name>
+  <detail>３０人以上のパイロットをエースパイロットにする。</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>カスタムキング</name>
+  <detail>３０機以上の機体にカスタムボーナスを獲得させる。</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>オンリーワンクラッシュ</name>
+  <detail>１度の戦闘で敵１機に５万以上のダメージを与える。</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>マルチクラッシュ</name>
+  <detail>マップ兵器で敵を同時に１０機以上撃墜する。</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>買い物上手</name>
+  <detail>Ｄトレーダーの全ての定番商品（強化パーツ１８種・強化システム４種）の開放条件を満たす。</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>スーパーエースパイロット</name>
+  <detail>いずれかの一人のパイロットに撃墜数２００を突破させる。</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>ゴールドフィンガー</name>
+  <detail>総獲得資金が３０００万を突破する。</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>スイートネイル</name>
+  <detail>戦闘で敵のＨＰを１ケタ台にする。</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>本気の全力攻撃</name>
+  <detail>マキシマムブレイクと援護攻撃とタクティカルコンボＭＡＸとプレースメント＋１０を組み合わせる。</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>準備万端</name>
+  <detail>ガイダンスシナリオをクリアする。</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>長き戦いの始まり</name>
+  <detail>第１話をクリアする。</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>マキシマムブレイク</name>
+  <detail>マキシマムブレイクを使用する。</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>タクティカルコンボＭＡＸ</name>
+  <detail>タクティカルコンボをＭＡＸにする。</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>エースパイロット</name>
+  <detail>いずれかのパイロットをエースパイロットにする。</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>カスタムボーナス</name>
+  <detail>いずれかの機体にカスタムボーナスを獲得させる。</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>お買い上げ感謝感激</name>
+  <detail>Ｄトレーダーのいずれかの定番商品（強化パーツ１８種・強化システム４種）を購入する。</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>休息の時</name>
+  <detail>終了メッセージを見る。</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>戦いの紋章</name>
+  <detail>エンブレムを１つ獲得する。</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>美しき戦士</name>
+  <detail>いずれかの女性パイロットをエースパイロットにする。</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>精神統一</name>
+  <detail>マップ上に出撃した味方ユニットで、全体コマンド「検索」の精神コマンドリストを全て揃える。</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>韋駄天</name>
+  <detail>一度に１５マス以上を移動する。</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="B" pid="000">
+  <name>満員御礼</name>
+  <detail>戦艦に味方ユニットを２０機以上、搭載する。</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="B" pid="000">
+  <name>愛と勇気を力に</name>
+  <detail>いずれかのユニットが精神コマンド「加速」「必中」「閃き」「熱血」「直撃」「努力」「幸運」を同時に使用する。</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="B" pid="000">
+  <name>絶好調</name>
+  <detail>いずれかのユニットがＨＰ・ＳＰが１００％の状態で気力１７０以上になる。</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>一撃二鳥</name>
+  <detail>全体攻撃で同時に敵を２機撃墜する。</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>本日ラッキーデイ</name>
+  <detail>１ステージで精神コマンド「幸運」「祝福」を合わせて１０回以上、使用する。</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="B" pid="000">
+  <name>トリプルアタック</name>
+  <detail>いずれかの味方チームが１ターンに３回以上、行動する。</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="B" pid="000">
+  <name>縁の下の力持ち</name>
+  <detail>いずれかの味方パイロットが１ターンに４回、援護攻撃をする。</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="B" pid="000">
+  <name>一機闘千</name>
+  <detail>いずれかの味方パイロットが１ステージに敵を１５機以上、撃墜する。</detail>
+ </trophy>
+</trophyconf>

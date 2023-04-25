@@ -1,0 +1,132 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000552f7ff6efea77478583cad2c432bb6841e5b937a2cb7f13de775eaa445680d9d3dadc126c1667904f5dfbae7e3d6db870949f3524a00d55cccf027f5b84985745e752cd204e2fdd9752123bdbc946beb0ea607263d1af43dd7b198fb1a1d6310de080de380fd37f1fac1c71755e2a8235bd754f18c897d1760030608b2a2e8acc7107db39031fb720526bd74744b1a2d4e5de35-->
+<trophyconf version="1.1" platform="ps3,psp2" policy="large">
+ <npcommid>NPWR04922_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Dragon Fantasy Book II</title-name>
+ <title-detail>Dragon Fantasy Book II</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Look, we've got a platinum!</name>
+  <detail>Unlock all the other trophies in this game.</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="G" pid="000">
+  <name>A Queen's Fall</name>
+  <detail>Defeat the Black Queen.</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="S" pid="000">
+  <name>Tearful Reunion</name>
+  <detail>Defeat Milly in the Coliseum.</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="S" pid="000">
+  <name>Dang that hurt.</name>
+  <detail>Ogden's collapsed at the Road House.</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="S" pid="000">
+  <name>Science'd</name>
+  <detail>Sarien sends you forth into the world.</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="S" pid="000">
+  <name>Separation Anxiety</name>
+  <detail>Our heroes go their separate ways.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>Bounty. Hunted.</name>
+  <detail>Complete 20 bounties.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>Good Bounty</name>
+  <detail>Complete 10 bounties.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>Bounty Hunter</name>
+  <detail>Complete a bounty hunt.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>Master Craftsman</name>
+  <detail>Craft 100 items.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>Craftiest</name>
+  <detail>Craft 50 items.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>Craftier</name>
+  <detail>Craft 20 items.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>Crafty</name>
+  <detail>Craft an item.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>The Stuff of Dreams</name>
+  <detail>Defeat the Dream Dragon.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="000">
+  <name>You just gotta.</name>
+  <detail>Capture 50 monsters.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>Trapper</name>
+  <detail>Capture 30 monsters.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Capturer</name>
+  <detail>Capture 10 monsters.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Gotcha</name>
+  <detail>Capture a monster.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>Dungeon Runner</name>
+  <detail>Explore all the side-dungeons.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Crawler</name>
+  <detail>Explore a side-dungeon.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="G" pid="000">
+  <name>Maxed Out</name>
+  <detail>Reach level 99 with a character.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>Ships Ahoy</name>
+  <detail>Take control of the SS Rennety.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>Cannon Fodder</name>
+  <detail>The Kraken returns.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>Rockington Falls</name>
+  <detail>Visit the Rock Monsters.</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>Pengfjord Village</name>
+  <detail>Wenk Wenk Wenk! &lt;They're just so cuddly!&gt;</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="G" pid="000">
+  <name>Riding Solo</name>
+  <detail>Defeat the Black Queen with only a single party member.</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>It's a Rock, Man.</name>
+  <detail>He's Mega powerful.</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>Weller Educated</name>
+  <detail>Read 30 books.</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>Third Time's a Charm</name>
+  <detail>Be overly protective of Sally.</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>Blockaded</name>
+  <detail>See the Northern Blockade.</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>Office Visit</name>
+  <detail>Find the developer's room.</detail>
+ </trophy>
+</trophyconf>

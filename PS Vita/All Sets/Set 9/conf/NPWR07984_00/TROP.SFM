@@ -1,0 +1,68 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000ef82d929405d42910da7bcc9ab3882f7643f9c99b9f2d1751f4d58edd2da35e4b92b3a775796ed457dcc5b1cb55df123367c115875967f471c5c696f1b7adddd58e5ce7efd32d0331293bad6d0f91478df2477aaf69e743e91b76e68b604b0868d42af462df72db685704e1b55672fc2b65cc9e28d6dec381f02a2f31e9ede3e3e81eef7e58fd524675fcfd71a53a7b6d34a27cc-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR07984_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>MXGP - The Official Motocross Videogame Compact</title-name>
+ <title-detail>Trophy set for MXGP Compact</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Warming up</name>
+  <detail>Get enough Experience Points to reach MX Level 5</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Totally ready</name>
+  <detail>Get enough Experience Points to reach MX Level 10</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="-1">
+  <name>Unstoppable</name>
+  <detail>Get enough Experience Points to reach MX Level 20</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Motorhead</name>
+  <detail>Enter the Bike Set-up menu in the Pit</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Giving it all</name>
+  <detail>Select the Pro Physics setting in the Riding Assists section and complete a valid race</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Let's see that again!</name>
+  <detail>Enter Replay mode for the first time</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>On the best gate</name>
+  <detail>Get pole position in an offline Qualifying session</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="-1">
+  <name>Nice trip!</name>
+  <detail>Ride for a total of 300 km (187 miles) in any offline mode</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>I believe I can fly!</name>
+  <detail>Spend a total of 2 minutes airborne from jumps in any offline mode</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>The perfect weekend</name>
+  <detail>Get pole position and win both Races in a single offline Grand Prix</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>Great come back</name>
+  <detail>Win a race starting from the last position</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="-1">
+  <name>Time to make new friends</name>
+  <detail>Complete an Online Grand Prix</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="-1">
+  <name>First at the first corner</name>
+  <detail>Get the Holeshot in any offline mode</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="-1">
+  <name>Holeshot master</name>
+  <detail>Get 10 Holeshots in any offline mode</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="-1">
+  <name>Around the world</name>
+  <detail>Complete one valid race on each track in the game in any offline mode</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,100 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000783f3482d08d4f025df2f63449bffc961a9dcddf4f3cba44e800c0d5f1563ce04cd8c9f86e873e98931d719a172844e9ddf1dbdda9b8a329ebb0ae28968313cb464cf3156e96637e44004484326c2d297910047d95fc1659972ba34939e3799a03f5aacd336476a1e506268ee9ef023cd1c39d945f41d300f39440eea7ed8f5e9117c79dfe03d13023fddb3e980ba2c3406c8ef5-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR18592_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Pic-a-Pix Color 2</title-name>
+ <title-detail>The trophy set of Pic-a-Pix Color 2</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Pic-of-the-Bunch</name>
+  <detail>Collect all the trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Casual Puzzler</name>
+  <detail>Solve a 10x10 puzzle</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>Casual Speed Demon</name>
+  <detail>Solve a 10x10 puzzle in under 1 minute</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>Casual Smarty Pants</name>
+  <detail>Solve a 10x10 puzzle without using an X</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>Casual Completionist</name>
+  <detail>Solve all the 10x10 puzzles</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>Casual Perfectionist</name>
+  <detail>Earn a medal for every 10x10 puzzle</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>Adept Puzzler</name>
+  <detail>Solve a 15x15 puzzle</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>Adept Speed Demon</name>
+  <detail>Solve a 15x15 puzzle in under 3 minutes</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>Adept Smarty Pants</name>
+  <detail>Solve a 15x15 puzzle without using an X</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>Adept Completionist</name>
+  <detail>Solve all the 15x15 puzzles</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>Adept Perfectionist</name>
+  <detail>Earn a medal for every 15x15 puzzle</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>Talented Puzzler</name>
+  <detail>Solve a 15x20 puzzle</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>Talented Speed Demon</name>
+  <detail>Solve a 15x20 puzzle in under 5 minutes</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="000">
+  <name>Talented Smarty Pants</name>
+  <detail>Solve a 15x20 puzzle without using an X</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>Talented Completionist</name>
+  <detail>Solve all the 15x20 puzzles</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>Talented Perfectionist</name>
+  <detail>Earn a medal for every 15x20 puzzle</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Expert Puzzler</name>
+  <detail>Solve a 20x20 puzzle</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="G" pid="000">
+  <name>Expert Speed Demon</name>
+  <detail>Solve a 20x20 puzzle in under 10 minutes</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="G" pid="000">
+  <name>Expert Smarty Pants</name>
+  <detail>Solve a 20x20 puzzle without using an X</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="000">
+  <name>Expert Completionist</name>
+  <detail>Solve all the 20x20 puzzles</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>Expert Perfectionist</name>
+  <detail>Earn a medal for every 20x20 puzzle</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="G" pid="000">
+  <name>Perfect Completionist</name>
+  <detail>Solve every puzzle</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="G" pid="000">
+  <name>Complete Perfectionist</name>
+  <detail>Earn a medal for every puzzle</detail>
+ </trophy>
+</trophyconf>

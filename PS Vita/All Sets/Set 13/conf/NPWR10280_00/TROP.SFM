@@ -1,0 +1,64 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000006e7a672fdabb1b2cdc3e103bd2b4026367426cf5919daa89c8a22d6f7f2cc49469df9506f77e0ba97b53fcfc74afa12922635934f953d6a86139a417a63401d34e47749f0436dde934469c0f4b308833f37975c7d2bc664f2e5285d312deb010b7c4b6aafe65e5a35d6c8643d1d13f1ded9d04ae1b10ac92c54dd3bbb901187df61a201be2b848d456abac81e173f6a5a07a9af8-->
+<trophyconf version="1.1" platform="psp2" policy="freemium">
+ <npcommid>NPWR10280_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>ワールドトリガー スマッシュボーダーズ</title-name>
+ <title-detail>ワールドトリガー スマッシュボーダーズのトロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="G" pid="-1">
+  <name>熟練司令官</name>
+  <detail>本部レベルを10にする</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="-1">
+  <name>みんなのヒーロー</name>
+  <detail>遠征を1000回クリアせよ</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="-1">
+  <name>鉄壁の防衛</name>
+  <detail>クエストを500回クリアせよ</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>スマッシュマスター</name>
+  <detail>敵を10000体撃破せよ</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>トリオンモンスター</name>
+  <detail>5000000トリオン集めよ</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>大金持ち</name>
+  <detail>5000000コイン集めよ</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>新米司令官</name>
+  <detail>本部レベルを3にする</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>強固な守り</name>
+  <detail>クエストを50回クリアせよ</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>陰から支える</name>
+  <detail>任務を50回行え</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>トリガー開発部員</name>
+  <detail>トリガーのレベルを10回上げよ</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>フレンド隊員現着</name>
+  <detail>フレンドのキャラとバトルを80回行え</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="-1">
+  <name>地道にコツコツと</name>
+  <detail>資源回収を1000回行え</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="-1">
+  <name>街発展</name>
+  <detail>施設を50回強化せよ</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="-1">
+  <name>街復旧</name>
+  <detail>施設を20個開発せよ</detail>
+ </trophy>
+</trophyconf>

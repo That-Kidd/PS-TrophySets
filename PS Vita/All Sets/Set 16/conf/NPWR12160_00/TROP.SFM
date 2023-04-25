@@ -1,0 +1,136 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000e0ed2f5ae91ec6ed1b871ce9292796b6feff0f490010bf5d8e07073be95f44afcf57c86973efadb17be9705dc54c14e606c8ee75acfb20c8dd160d950bb0e3b6f826bd3d6771524222a5593a1909d1c46ee77282af9faaaef9985e87bd4dc13a9b7adce5d79daa7c24cd9a2d8e302987b47b0d49f6af93decefd04b1daed23c26963e058c0add52a7910c929417de2989e7243ec-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR12160_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Cladun Returns: This is Sengoku!</title-name>
+ <title-detail>Trophy set for Cladun Returns: This is Sengoku!.</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Platdun Returns: You Did It!</name>
+  <detail>Obtain all trophies for Cladun Returns: This is Sengoku!</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Newbie's First Dungeon</name>
+  <detail>Clear Chapter 1: Anegawa.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Magic Circle Novice</name>
+  <detail>Complete the Magic Circle tutorial.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Chapter 1 Cleared!</name>
+  <detail>Clear Chapter 1 stages.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>Chapter 2 Cleared!</name>
+  <detail>Clear Chapter 2 stages.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>Chapter 3 Cleared!</name>
+  <detail>Clear Chapter 3 stages.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>Chapter 4 Cleared!</name>
+  <detail>Clear Chapter 4 stages.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>Chapter 5 Cleared!</name>
+  <detail>Clear Chapter 5 stages.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>Chapter 6 Cleared!</name>
+  <detail>Clear Chapter 6 stages.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>Chapter 7 Cleared!</name>
+  <detail>Clear Chapter 7 stages.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>Chapter 8 Cleared!</name>
+  <detail>Clear Chapter 8 stages.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>Chapter 9 Cleared!</name>
+  <detail>Clear Chapter 9 stages.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>Vocation Vacation</name>
+  <detail>Switch jobs.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>The Grind Begins</name>
+  <detail>Play a Neo-geon or Tri-geon for the first time.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>Speed Runner</name>
+  <detail>Update Clear Time for the first time.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>Challenge Accepted</name>
+  <detail>Register in Rankings for the first time. </detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Soul Mate</name>
+  <detail>Release and recruit a soul for the first time.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>Well Traveled</name>
+  <detail>Clear all stages in the story.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>Conqueror</name>
+  <detail>Clear all EX stages.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="000">
+  <name>Letter of Recommendation</name>
+  <detail>Level a character from 1 to 99.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>Only The Best Will Do</name>
+  <detail>Obtain equipment in a dungeon that has 4 titles.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>My Precious</name>
+  <detail>Obtain a rare artifact in a dungeon.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>Ally of Justice</name>
+  <detail>Recruit all Lords.&#x0a;</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>Impregnable</name>
+  <detail>Expand a fort to its maximum.</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>Monster Hunter</name>
+  <detail>Complete every entry in the Bestiary.</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="S" pid="000">
+  <name>Serving the Community</name>
+  <detail>Complete all quests in the suggestion box.&#x0a;</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="G" pid="000">
+  <name>Neo-geon Navigator</name>
+  <detail>Clear the 99th floor of a Neo-geon.</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="G" pid="000">
+  <name>Tri-geon Traveller</name>
+  <detail>Clear the 99th floor of a Tri-geon.</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="G" pid="000">
+  <name>Magic Circle Master</name>
+  <detail>Have a character learn every Magic Circle.</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="G" pid="000">
+  <name>Master-of-all-Trades</name>
+  <detail>Have a character reach LV 99 in every job.</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="G" pid="000">
+  <name>You Must Have a Death Wish</name>
+  <detail>Unlock Death-geons.</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="G" pid="000">
+  <name>World Famous</name>
+  <detail>Increase your Fame to 999.</detail>
+ </trophy>
+</trophyconf>

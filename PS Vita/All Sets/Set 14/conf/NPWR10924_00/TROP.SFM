@@ -1,0 +1,216 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000022bb0c53949c7e6b6ab02f3e3dfcbd250edc0bde6884c960ea3be70c97130a62fcafbe7a23660fa5dcc85139f032f9934192d46801cec61f8887657b4f39d78f2b9630d785246bdb99fed4f2017bf2faa7cdbf46ef3824cc1a1226ce4ad494c0a577b21fdf2c5c44dee68e457f85638e3645b489aac518860b0e849df114c078353645ba6d680e2c45b5fd5a77381d35ad7103bf-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR10924_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Tokyo Xanadu</title-name>
+ <title-detail>Tokyo Xanadu trophy set.</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>The Legend of the X.R.C.</name>
+  <detail>Obtain all trophys.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>S-S-Superman</name>
+  <detail>Clear all stages with an S rank.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>Homo Perfectus</name>
+  <detail>Max out Kou's "Wisdom, Courage, Virtue".</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>Gotta Kill Them All!</name>
+  <detail>Obtain all information on battle page in NiAR.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>5-Star Chef</name>
+  <detail>Obtain all information on recipe page in NiAR.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>Hey, Buddy!</name>
+  <detail>Obtain all information on friend page in NiAR.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>Bibliophile</name>
+  <detail>Obtain all information on book page in NiAR.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>Possession is 9/10 of the Law!</name>
+  <detail>Open all treasure chests.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>Hard-Core Collector</name>
+  <detail>Obtain every single master core.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>It Was Only a (Bad) Dream</name>
+  <detail>Clear the game on Nightmare difficulty.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>King of Infinity</name>
+  <detail>Clear the game on Infinity difficulty.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>The Good Samaritan</name>
+  <detail>Complete all side-quests.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>Working Stiff</name>
+  <detail>Amass a 500,000 yen fortune.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>Feelin' Lucky, Punk?</name>
+  <detail>Pick the most fortuitous...fortune.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>Greed Exterminator</name>
+  <detail>Defeat 100 Greeds.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>Greed-ocide</name>
+  <detail>Defeat 1000 Greeds.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Greed-pocalyspe</name>
+  <detail>Defeat 2000 Greeds.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>X-Drive(n)</name>
+  <detail>Use X-Drive 100 times.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>X-Strike From Above</name>
+  <detail>Use X-Strike 100 times.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>S-Chain Master</name>
+  <detail>Use Strike Chain 50 times.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>Elemental Killer</name>
+  <detail>Defeat 500 foes with Elemental kills.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>Fatality!</name>
+  <detail>Defeat 500 foes with Critical hits.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>The Chains That Bind</name>
+  <detail>Use Strike Chain 100 times.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>Death From Above!</name>
+  <detail>Rack up 100 Aerial kills.</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>Vulgar Display of Power</name>
+  <detail>Inflict over 5000 points of damage.</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>Flogging a Dead Greed</name>
+  <detail>Perform a 200+ hit combo.</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>100K Meters and Runnin’</name>
+  <detail>Traverse 100,000 meters.</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>Can't Touch This!</name>
+  <detail>Get through a stage without taking any damage.</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>Fast Times at Eclipse High</name>
+  <detail>Qualify for the fast clear time bonus in any stage.</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>Dude, Just Take the "S"</name>
+  <detail>Obtain an S rank in any stage.</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>Asuka con Amore</name>
+  <detail>Forge an unbreakable bond with Asuka.</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>Sparring with Sora</name>
+  <detail>Forge an unbreakable bond with Sora.</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>You, yew, ewe, and Yuu...ki</name>
+  <detail>Forge an unbreakable bond with Yuuki.</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>Shio-rizing the Neighborhood</name>
+  <detail>Forge an unbreakable bond with Shio.</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>Salutations, Milady Mistuki</name>
+  <detail>Forge an unbreakable bond with Mitsuki.</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>Up-Staging Rion</name>
+  <detail>Forge an unbreakable bond with Rion.</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>Breakfast(s) with Shiori</name>
+  <detail>Forge an unbreakable bond with Shiori.</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>That Ryouta Guy? He’s Cool.</name>
+  <detail>Forge an unbreakable bond with Ryouta.</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>A Day in Jun With You</name>
+  <detail>Forge an unbreakable bond with Jun.</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="000">
+  <name>Towa, or not Towa?</name>
+  <detail>Forge an unbreakable bond with Towa.</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="B" pid="000">
+  <name>An Ally in Gorou</name>
+  <detail>Forge an unbreakable bond with Gorou.</detail>
+ </trophy>
+ <trophy id="041" hidden="yes" ttype="B" pid="000">
+  <name>Evanescent, Everyday</name>
+  <detail>Wander into the mysterious place of wonder.</detail>
+ </trophy>
+ <trophy id="042" hidden="yes" ttype="B" pid="000">
+  <name>ECLIPSE</name>
+  <detail>Clear chapter 1 -ECLIPSE-</detail>
+ </trophy>
+ <trophy id="043" hidden="yes" ttype="B" pid="000">
+  <name>GREED</name>
+  <detail>Clear chapter 2 -GREED-</detail>
+ </trophy>
+ <trophy id="044" hidden="yes" ttype="B" pid="000">
+  <name>Word of God</name>
+  <detail>Clear chapter 3 -Word of God-</detail>
+ </trophy>
+ <trophy id="045" hidden="yes" ttype="B" pid="000">
+  <name>BLAZE: Flames of Memory</name>
+  <detail>Clear chapter 4 -BLAZE: Flames of Memory-</detail>
+ </trophy>
+ <trophy id="046" hidden="yes" ttype="B" pid="000">
+  <name>Fading of Obscuring Fog</name>
+  <detail>Clear chapter 5 -Fading of Obscuring Fog-</detail>
+ </trophy>
+ <trophy id="047" hidden="yes" ttype="B" pid="000">
+  <name>The Coming of Summer</name>
+  <detail>Clear the intermission -The Coming of Summer-</detail>
+ </trophy>
+ <trophy id="048" hidden="yes" ttype="B" pid="000">
+  <name>Taking Flight</name>
+  <detail>Clear chapter 6 -Taking Flight-</detail>
+ </trophy>
+ <trophy id="049" hidden="yes" ttype="B" pid="000">
+  <name>Hollow Quake </name>
+  <detail>Clear chapter 7 -Hollow Quake-</detail>
+ </trophy>
+ <trophy id="050" hidden="yes" ttype="B" pid="000">
+  <name>Thoughts of Tomorrow</name>
+  <detail>Clear final chaper -Thoughts of Tomorrow-</detail>
+ </trophy>
+ <trophy id="051" hidden="yes" ttype="G" pid="000">
+  <name>Dawn of a New Day</name>
+  <detail>Clear epilouge -Dawn of a New Day-</detail>
+ </trophy>
+</trophyconf>

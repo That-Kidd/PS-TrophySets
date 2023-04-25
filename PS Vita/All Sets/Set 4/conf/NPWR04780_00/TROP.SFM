@@ -1,0 +1,60 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000058bfdc2e536df05b40d90099b1d56981b18a1ec5c8a6f5961d7c89e373556cb530b4e015d76766babafec56f3cc36443366cb06d698665f87c3d9128313399be77b1780710e08407450cdbc48e43005f99b4710a88ecdb444eb4bd394d8ed6b1886aaf99d6bece89ffaf150f7994e94c82bab6cfacc3d3c4c6ac552043ac3dee68f7bfdc311848ad94c4d4b28ef5c5996b5b91f9-->
+<trophyconf version="1.1" platform="ps3,psp2" policy="freemium">
+ <npcommid>NPWR04780_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Shake Spears!</title-name>
+ <title-detail>Challanges</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Let the Battle Begin!</name>
+  <detail>First tournament win!</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Zadgetgan Champion</name>
+  <detail>Defeated every rival in the Zadgetgan tournament</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="-1">
+  <name>Spear Shaker</name>
+  <detail>Defeated every rival!</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Lucky Spear</name>
+  <detail>Made 50 successful spear strikes</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Spear of Fury</name>
+  <detail>Dealt 1,000 damage points with one strike</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Call Me Chuck!</name>
+  <detail>Dealt 5,000 damage points with one strike</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Sir Tyson</name>
+  <detail>Took 100 strikes in the helmet</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Jackpot!</name>
+  <detail>Earned 5,000 gold in one fight</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Mr. Rockefeller</name>
+  <detail>Earned 200,000 gold during your career</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>Need a Good Blacksmith?</name>
+  <detail>Destroyed 25 armor pieces</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="-1">
+  <name>Keep the Armory Busy</name>
+  <detail>Destroyed 500 armor pieces</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="-1">
+  <name>Master of Magic</name>
+  <detail>Learned every magic ability</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="-1">
+  <name>Is This Getting Old?</name>
+  <detail>Won 200 fights</detail>
+ </trophy>
+</trophyconf>

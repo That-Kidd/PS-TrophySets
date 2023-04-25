@@ -1,0 +1,72 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000bd2ac71a5ef96d3bfd29f4145e72c65c6922702572036e44e0ee365095b225c17a7ed5f861238dc181f108bd6156f9d4f04a8ccbd3ffdfd7c0fd62c4190fc2ef428f8a3df31fef0b97be811527155ea1baec8be48bc7eb7f6731e38f928af7c650b3de2310f4378e0ebb2a47e0717fb747e3e4eb806ad31fe8ef917823a7d348750c62e963447704bb22dcf0be1a0e4c286bb306-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR09680_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>英国探偵ミステリア Ｔｈｅ Ｃｒｏｗｎ</title-name>
+ <title-detail>英国探偵ミステリア Ｔｈｅ Ｃｒｏｗｎのトロフィーセットです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>全トロフィーコンプリート！</name>
+  <detail>全てのトロフィーを集めました。</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>女王陛下の探偵</name>
+  <detail>思いがけない出会いに私の胸は躍る。</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>はじめての日記</name>
+  <detail>一日の終わりに、はじめてつけた日記。</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="G" pid="000">
+  <name>ホームズＧＯＯＤＥＮＤ</name>
+  <detail>どんな霧深い道も、貴方と一緒なら迷わず進んでいける。</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="G" pid="000">
+  <name>ワトソンＧＯＯＤＥＮＤ</name>
+  <detail>貴方の隣に、私は温かな幸せを見つけた。</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="G" pid="000">
+  <name>ルパンＧＯＯＤＥＮＤ</name>
+  <detail>少し危なっかしくて、でも目が離せない貴方との恋。</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="G" pid="000">
+  <name>ジャックＧＯＯＤＥＮＤ</name>
+  <detail>ゆっくりと、一歩ずつ……育んでいく秘密の恋。</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="G" pid="000">
+  <name>明智ＧＯＯＤＥＮＤ</name>
+  <detail>遠く離れた国で生まれた、貴方と結ばれた奇跡。</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="G" pid="000">
+  <name>ベーカー街ＥＮＤ</name>
+  <detail>いつまでも忘れられない、三人だけの演奏会。</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>マープルＥＮＤ</name>
+  <detail>親友の隣で、新しいスタートを切って、歩いていく！</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>小林ＥＮＤ</name>
+  <detail>胸いっぱいの感謝で、その手を握った。</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>みんなでピクニック！</name>
+  <detail>まぶしい太陽の下、皆でランチタイムを過ごした。</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="G" pid="000">
+  <name>ロンドン・アンダーグラウンド</name>
+  <detail>大英博物館の地下、秘密の入り口が示すものは。</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="G" pid="000">
+  <name>ロンドン・ニュー・エイジ・イヴ</name>
+  <detail>ロンドンの街に、もうすぐ次の季節が訪れる。</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>ＣＧ50%達成！</name>
+  <detail>ＣＧを５０％回収しました。</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="G" pid="000">
+  <name>ＣＧフルコンプ！</name>
+  <detail>ＣＧを全て回収しました。</detail>
+ </trophy>
+</trophyconf>

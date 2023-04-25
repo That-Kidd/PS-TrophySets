@@ -1,0 +1,184 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000ab1c9be08fcf5ff0fd2bb53aa49626eab804b5263c275e4c51c4c51e29a730156b2525160c800ad7e544c4ddd8698c7424b9456ed1af9d0f117904c08b22be82d403b60d77ecd6f8cecfe688fd560f707ff63c5b8771fa8f97f2da749ec9927e34efb2e0f78d38988e171db96a54d79a211072526c142d121c069bc37981d163cc67726df8d8efd54c4b8c02fa3567a1fda00865-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR06323_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>解放少女 SIN</title-name>
+ <title-detail>解放少女 SINのトロフィーセットです</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>真ノ解放少女</name>
+  <detail>解放少女SINをやりつくす</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>歴史ノハジマリ</name>
+  <detail>プロローグをクリアした</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>指導者ハ戦場ヲ進ム</name>
+  <detail>Chapter01をクリアした</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>勉強家ハ秘密ニ浸ル</name>
+  <detail>Chapter02をクリアした</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>悪意ノ主ハソノ手ヲ伸バス</name>
+  <detail>Chapter03をクリアした</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>忠臣ハ許シヲ請ウ</name>
+  <detail>Chapter04をクリアした</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>孤独者ハ関係ヲ深メル</name>
+  <detail>Chapter05をクリアした</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>仕エル者ハ祭リヲ賑ワス</name>
+  <detail>ChapterEXをクリアした</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>強キ者ハ正義ヲ振ルウ</name>
+  <detail>Chapter06をクリアした</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="000">
+  <name>憂ウ者ハ和平ヲ信ジル</name>
+  <detail>Chapter07をクリアした</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="000">
+  <name>介スル者ハ罪ト対スル</name>
+  <detail>Chapter08をクリアした</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>本物ニナレ</name>
+  <detail>真実を知る</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>神ノ獣ハ心ヲ喰ラウ</name>
+  <detail>エンディングを見る</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="G" pid="000">
+  <name>解放スル者ハ新タナ未来ヲ紡グ</name>
+  <detail>真エンディングを見る</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="B" pid="000">
+  <name>伝説ノ賭博者</name>
+  <detail>『伝説ノ賭博者』を見る</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>腐レ女子ノ流儀</name>
+  <detail>『腐レ女子ノ流儀』を見る</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>名諜報員ノ誕生</name>
+  <detail>『名諜報員ノ誕生』を見る</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>死ニ至ル旗</name>
+  <detail>『死ニ至ル旗』を見る</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>乙女ノ異常ナ愛情</name>
+  <detail>『乙女ノ異常ナ愛情』を見る</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>未知ナル生命トノ遭遇</name>
+  <detail>『未知ナル生命トノ遭遇』を見る</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="000">
+  <name>新日本ノ夜明ケ</name>
+  <detail>『新日本ノ夜明ケ』を見る</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>憂国ノ偶像</name>
+  <detail>『憂国ノ偶像』を見る</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="B" pid="000">
+  <name>不死ノ国ノ姫君</name>
+  <detail>『不死ノ国ノ姫君』を見る</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>嗚呼夢ノ鳥人間</name>
+  <detail>『嗚呼夢ノ鳥人間』を見る</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="000">
+  <name>青キ星ノ怒リ</name>
+  <detail>『青キ星ノ怒リ』を見る</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="B" pid="000">
+  <name>逆輸入ノ解放少女</name>
+  <detail>『逆輸入ノ解放少女』を見る</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>反戦歌手、絶唱スレド……</name>
+  <detail>『反戦歌手、絶唱スレド……』を見る</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="B" pid="000">
+  <name>溶融スル自己</name>
+  <detail>『溶融スル自己』を見る</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="B" pid="000">
+  <name>並行世界ノ創造神</name>
+  <detail>『並行世界ノ創造神』を見る</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="B" pid="000">
+  <name>大統領ノ威厳ト品格</name>
+  <detail>『大統領ノ威厳ト品格』を見る</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="B" pid="000">
+  <name>貴方ガ私デ君ガ僕</name>
+  <detail>『貴方ガ私デ君ガ僕』を見る</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="B" pid="000">
+  <name>雲散霧消ノ煉獄</name>
+  <detail>『雲散霧消ノ煉獄』を見る</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="G" pid="000">
+  <name>歴史ノ語リベ</name>
+  <detail>全てのエンディングを見た</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>25％ノ絵画ヲ集メシ者</name>
+  <detail>CGコンプリート25％</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>50％ノ絵画ヲ集メシ者</name>
+  <detail>CGコンプリート50％</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>75％ノ絵画ヲ集メシ者</name>
+  <detail>CGコンプリート75％</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="S" pid="000">
+  <name>全テノ絵画ヲ集メシ者</name>
+  <detail>CGコンプリート100％</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="S" pid="000">
+  <name>全テヲ知ル識者</name>
+  <detail>TIPSを全て開く</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="S" pid="000">
+  <name>心ヲ拾ウ者</name>
+  <detail>クオリアを全て集める</detail>
+ </trophy>
+ <trophy id="039" hidden="yes" ttype="G" pid="000">
+  <name>心ヲ繋グ者</name>
+  <detail>真クオリアを全て集める</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="S" pid="000">
+  <name>精神世界ヲ旅スル者</name>
+  <detail>全ダイブの成功率80％以上</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="G" pid="000">
+  <name>精神世界ヲ包ミシ者</name>
+  <detail>全ダイブの成功率100％</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="B" pid="000">
+  <name>介入者ノチカラ</name>
+  <detail>介入ポイント7500獲得</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="S" pid="000">
+  <name>介入者ノアカシ</name>
+  <detail>介入ポイント15000獲得</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,80 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000c92296c971edf86b0bcb53af781689a1ddda6b2a5c091cb7747d009c00ab9908bd976d2def5939a6e2585fc71f1c28a777f030af333291fbc49e3b1447ec896abcaec52c48d97deb9d56253b9c2d14cc86dd454ee73c7b8c311288aa163d26243318f6e4e9c7b15b98e7af986d574b07c130bf4853c96e43198aa6af9f94d82520a665b7320b0ae8c0051da670c9f290c1ce6181-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="small">
+ <npcommid>NPWR10048_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Ninja Senki DX</title-name>
+ <title-detail>Ninja Senki DX</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Feeble Revenge</name>
+  <detail>Get the worst ending.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Path to Revenge</name>
+  <detail>Get the 2nd best ending.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Flawless Revenge</name>
+  <detail>Get the best ending.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Ultimate Revenge</name>
+  <detail>Get the best ending in "Hardcore" mode.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="-1">
+  <name>Shurikenjutsu Master</name>
+  <detail>Clear the game without dying in "Hardcore" mode.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="-1">
+  <name>High Score</name>
+  <detail>Get a score over 17500 pts. in "Hardcore" mode.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="-1">
+  <name>Speed Run</name>
+  <detail>Clear the game in 25 minutes or less in "Hardcore" mode.</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="-1">
+  <name>Musashi</name>
+  <detail>Clear the game as the Ronin.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Kick Down the Door!</name>
+  <detail>Defeat a Monban in 10 seconds or less.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>Tanuki Soup</name>
+  <detail>Defeat Tanuki in 10 seconds or less.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>Sure you can!</name>
+  <detail>Defeat Ryu in 30 seconds or less.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="-1">
+  <name>Yokai Buster</name>
+  <detail>Defeat Yurei in 40 seconds or less.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="-1">
+  <name>Exorcist</name>
+  <detail>Defeat Shiro in 25 seconds or less.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="-1">
+  <name>Untouchable</name>
+  <detail>Complete all "Perfect" challenges.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="-1">
+  <name>Merciless</name>
+  <detail>Complete all "Assassin" challenges.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="-1">
+  <name>Penny Pincher</name>
+  <detail>Complete all "Collector" challenges.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="-1">
+  <name>Lightning Fast</name>
+  <detail>Complete all "Speed Runner" challenges.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="-1">
+  <name>Shinobi World Champion</name>
+  <detail>Obtain a gold medal in "Boss Rush" mode.</detail>
+ </trophy>
+</trophyconf>

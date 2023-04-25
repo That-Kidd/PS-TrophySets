@@ -1,0 +1,148 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000dc54a3c6ad46e4d06c2e5dbde5ff2e1d0426a07c5ba3125c9494cd170c07b875fe595da9ae4deb5d61c20edc9834b0021337ddefca09e27974dfedaafc322e46656247612c960fb6bf629bc92b79f1a2b846c26163a37cc0f8d1f197c6b8073a75c5bcf5c240c1c693a4ebea091e67f42a68b127e2568c9d5bdd011afbc467f79f33c068bbe52f508d3c8e856446911c08e79692-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR12406_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>ガンガンピクシーズ</title-name>
+ <title-detail>ガンガンピクシーズのトロフィーです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>ザ・プラチナム・ギャラクシィ</name>
+  <detail>全トロフィーを獲得した&#x0a;「ついにやったね！！　パーフェクトだよ！！　ここまでやりこんでくれて、本当にありがとう！　またどこかで会おうね！！」</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="G" pid="000">
+  <name>ドラマチック・コレクター</name>
+  <detail>全ての結末を見た&#x0a;「完璧な調査だ。この調査書をもとに、ピクシーチームの選抜試験を行ってみるか」</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="G" pid="000">
+  <name>運命の操作者</name>
+  <detail>全ての選択肢を選んだ&#x0a;「これでまた厚くなるな……相方の書くレポートが……」</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="G" pid="000">
+  <name>ガールズ・セラピスト</name>
+  <detail>何度も寮生の危機を救った&#x0a;「なんかもう転職したほうがいいかもしれないね、ビーたん達……」</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="G" pid="000">
+  <name>スペースミリオネア</name>
+  <detail>これまでに集めたピコインの総額が100,000を突破した&#x0a;「この量のピコインを抱えたまま生活していると不安になってくるな……！」</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="G" pid="000">
+  <name>レジェンダリー・ヒロイン</name>
+  <detail>全ＯＲＤＥＲ"Ｓランク"クリア達成&#x0a;「まだまだ伝説の英雄には遠いです。これからも精進します……フッ」</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="G" pid="000">
+  <name>コングラチュレーション☆</name>
+  <detail>初めてエンディングを見た&#x0a;「任務は完了……まだしてないよね！？」</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>イカクラッシャー</name>
+  <detail>種類問わずイカを500匹以上倒した&#x0a;「乙女を傷つけるイカは丸焼きにしてやるサ！　……あいつらって焼けるの？」</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>凄腕の斥候</name>
+  <detail>多数の調査ポイントを調べた&#x0a;「うさーー、女子寮ってやっぱいろいろあるんだなぁ……」</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>訓練課程修了</name>
+  <detail>全ての実地演習を終えた&#x0a;「これで更なる高みを目指せるな。コンプリートにまた一歩近付いたぞ」</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>ショッピングクイーン</name>
+  <detail>全ての商品を購入した&#x0a;「これだけあれば、着せたい放題だよ！　うっさっさ♪」</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>命のせ・ん・た・く♪</name>
+  <detail>風呂場への潜入に成功&#x0a;「全ては……任務のためなんだ……」</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>コンボマスター</name>
+  <detail>コンボの累計数が"10,000"を超えた&#x0a;「へいへい！この程度、『余裕のよっちゃん』ってやつサ！」</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>小さな平和は守られた！</name>
+  <detail>第８話クリア！&#x0a;「これでりりぃぱっとの皆も大丈夫だね。“君”のおかげだよ！」</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>命令と選択</name>
+  <detail>第７話クリア&#x0a;「私がとるべき道は……！」</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>不穏な影</name>
+  <detail>第６話クリア&#x0a;「怪盗エイチは大変なものを盗んでいきました……ってやつ？」</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>姉妹の絆</name>
+  <detail>第５話クリア&#x0a;「姉妹の絆とは――母星では見ないものだな。美しい」</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>ゲイムギョウ界からの留学生</name>
+  <detail>第４話クリア&#x0a;「結局あの二人はいったい何者だったんだろう？　ま、どこかでまた会えるかもしれないよね！」</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>破壊魔と親友</name>
+  <detail>第３話クリア&#x0a;「心の病は、何よりも大敵かもしれないな。仲直りが出来て本当に良かった」</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Ｇはやっぱり乙女の敵</name>
+  <detail>第２話クリア&#x0a;「キラ殿のどこにあの量の食べものが入って行くんだろうね……」</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>初任務完了！</name>
+  <detail>第１話クリア&#x0a;「母星の命運がかかった我々の任務はまだ始まったばかりだ」</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>すっごく伸びるんです</name>
+  <detail>銃にフックショットの機能が備わった&#x0a;「ふむ。これで手が届かなかった場所にも登ることが出来るな。それにしてもパンデモの科学は凄いな。ハッピー弾の理屈からして謎ではあるが……」</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="B" pid="000">
+  <name>あなたも好きねぇ</name>
+  <detail>全てのピクシーポーズを披露した&#x0a;「ふふ、地球の文化を学んだ成果だよ！　かめぽんも何だかんだでノリノリだよね」</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>あなたが女神か</name>
+  <detail>寮生の着替えを行った&#x0a;「うひょー！　みんな何を着てもよく似合う！　着せ替える時は服のサイズに注意しよう。サイズの違う衣装は着られないからね！」</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>ピクシーのタシナミ</name>
+  <detail>主人公の着替えを行った&#x0a;「私に似合わないわけがないだろう……多分な」</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>セクシーバウンド</name>
+  <detail>リズミカルに揺らした&#x0a;「いや～よく揺れた……揺らしたもんでしょ。うさささっ！！」</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>ゴッドハンド</name>
+  <detail>お風呂で寮生を洗ってあげた&#x0a;「ま、まだこの手に感触が残ってる！　あれは事件でしたよ……一世一代のね……！」</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>ダイブ・トゥ・ヘブン</name>
+  <detail>お風呂で寮生の身体の上に乗った&#x0a;「おっしゃああ！　登頂するぞぉぉう！　ウッサーーー！！」</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="B" pid="000">
+  <name>まぶし！！</name>
+  <detail>寮生のオーラに弾かれて任務終了&#x0a;「横に動きながら撃つように心がければ、避けやすいからね！」</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="B" pid="000">
+  <name>進撃のヒロイン</name>
+  <detail>寮生に吹き飛ばされ任務終了&#x0a;「う～、皆に近づけるのはうれしいけど、距離感は大切にしませんと……！」</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>対象、沈黙！</name>
+  <detail>寮生を落ち着かせた&#x0a;「アマヨ殿を落ち着かせることに成功。経過を見守ります」</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>緊急事態発生</name>
+  <detail>衣装が破壊されてしまった&#x0a;「グワー―ッ！　生命維持装置がーー！　……なんて心配は無いのか。恥ずかしいだけじゃないこれぇ！？　もぉう……」</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>ビーたんにお任せぇ</name>
+  <detail>ビーたんで１０種類のＯＲＤＥＲをクリアした&#x0a;「地球ではこういうの、『おちゃのこさいさい』っていうんだったっけ？」</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>当然の戦果だ！</name>
+  <detail>かめぽんで１０種類のＯＲＤＥＲをクリアした&#x0a;「コマンドールズの一員として当たり前の行動をしたまでです」</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>イカとの遭遇</name>
+  <detail>全種類のイカを一度以上倒した&#x0a;「イカの開発者は２人居たのかぁ。タコ型は新型か何かなのかな……？」</detail>
+ </trophy>
+</trophyconf>

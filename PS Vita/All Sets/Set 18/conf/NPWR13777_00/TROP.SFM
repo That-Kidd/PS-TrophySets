@@ -1,0 +1,60 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000a374809d367e0432e267befc5d2ae68a7911ed2b0d6e7b0d176bb06dfd3d0c5e5db453250df7b5358d8b552c886a8ccd32be0da3d3df8b3a81e87ef07efb9e94b93822cec999ad7e6eaf53a4c9791dd88fbb37862eadb9a8b857fbd28cfc16d40d80a741c76b499a926790497b51fc572774eeacbaeaf345bae77f379672e4e750e32f839ae1652006be0746feddc437894ce7bc-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR13777_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Licky The Lucky Lizard Lives Again</title-name>
+ <title-detail>The trophy set of Licky The Lucky Lizard Lives Again</title-detail>
+ <trophy id="000" hidden="no" ttype="G" pid="-1">
+  <name>King Of The Swingers</name>
+  <detail>Achieve a score of 30,000</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="-1">
+  <name>Licky: Le Professionnel</name>
+  <detail>Achieve a score of 15,000</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Just Getting Started</name>
+  <detail>Achieve a score of 5,000</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>I'll Take Ten!</name>
+  <detail>Get x10 multiplier</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="-1">
+  <name>Getting Into The Swing Of Things</name>
+  <detail>Achieve a score of 5000 in a single combo</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Learned Lizard</name>
+  <detail>Complete the tutorial</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Amphibian</name>
+  <detail>Release 10 floods</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>He Lives... Again</name>
+  <detail>Die 10 times</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Heartbreaker</name>
+  <detail>Collect 20 health pickups</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="-1">
+  <name>The Lucky Lizard</name>
+  <detail>Survive 3 burns from the lava in a single game</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>DIY</name>
+  <detail>Grapple to 60 platforms using the manual aim</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="-1">
+  <name>Adrenaline Junkie</name>
+  <detail>Gain 15 boosts from geysers</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="-1">
+  <name>Licky Lizard: Destroyer Of Worlds</name>
+  <detail>Destroy 80 platforms or boulders</detail>
+ </trophy>
+</trophyconf>

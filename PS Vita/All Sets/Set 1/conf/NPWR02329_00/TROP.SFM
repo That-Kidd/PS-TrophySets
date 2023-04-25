@@ -1,0 +1,40 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000dcef3c89e591d1422c96ab478f7edd1164ba4d1cc42220aa5069a4ca616b83ef4e62ff617c3a382deac27ce5376547a55b255e65cd5897ffdba336afbaca24215baf4e65024378d13ed1d474640c1fd8a9a0b23eccb84f14466af8b38c91793ae9e297e8651e5dab0457f8267b37dfec298250eaed1a08d245c74d69b26d11354fe9533fc3ada1775a70549fbb646a0a06cdb25a-->
+<trophyconf version="1.1" platform="psp2">
+ <npcommid>NPWR02329_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>ＡＲコンバットデジＱ</title-name>
+ <title-detail>ＡＲコンバットデジＱのトロフィーセットです。&#x0a;ブロンズトロフィーは４個、シルバートロフィーは２個、ゴールドトロフィーは２個あります。</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>初戦突破</name>
+  <detail>一つのミッションで勝利した。</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>初合成</name>
+  <detail>部隊編成の場面で、友達戦車を合成した。</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>初招待</name>
+  <detail>招待状を発信した。</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>初フレンド戦車出撃</name>
+  <detail>フレンドの友達戦車を出撃部隊に加えて戦った。</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="-1">
+  <name>交流ポイントカード１枚達成</name>
+  <detail>交流ポイントを貯めて、カードを一杯にした。</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="-1">
+  <name>初ランキング申請</name>
+  <detail>自分の記録をランキングに申請した。</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="-1">
+  <name>戦車７種類獲得</name>
+  <detail>７種類の戦車の車輌形式を集めた。</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="-1">
+  <name>特殊兵器３０種類獲得</name>
+  <detail>３０種類の特殊兵器を集めた。</detail>
+ </trophy>
+</trophyconf>

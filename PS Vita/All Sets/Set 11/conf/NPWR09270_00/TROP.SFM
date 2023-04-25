@@ -1,0 +1,80 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000c2c71a9a6e4a970f03aebb99c27e4f1d68d174b5802479a3176a471164477e5e58bfbb8ed2d415234ecf2e200bef37d087e117dab89568613fb7699a4f0e286d712c02a45a724ae6c39593b970a424e7024e5b4cfd9a7d0ea6c4b2721a3f663928548ee1020345b7cf4e40a5691d33d4d56dafeda1f6385cfaf8b630b90a9e84a48d0beb4e76c0788cdbdf8179c069229e83c2ad-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR09270_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>あまつみそらに！ 雲のはたてに</title-name>
+ <title-detail>あまつみそらに！ 雲のはたてに のトロフィーです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>コンプリート</name>
+  <detail>全てのトロフィーを獲得</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>みんなで水着品評会！</name>
+  <detail>神奈たちが水着姿を見せ合った</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="S" pid="000">
+  <name>おまえは、俺の特別</name>
+  <detail>神奈に告白した</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="G" pid="000">
+  <name>本当の遷座祭</name>
+  <detail>神奈ルートをクリア</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="S" pid="000">
+  <name>裏切れない、気持ち</name>
+  <detail>美唯が寝ている高久にキスをした</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="G" pid="000">
+  <name>ずっと、ずっと……</name>
+  <detail>美唯ルートをクリア</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="000">
+  <name>ラケットと告白とあたし</name>
+  <detail>芹夏と恋人になった</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="G" pid="000">
+  <name>未来へ</name>
+  <detail>芹夏ルートをクリア</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>昔みたいに</name>
+  <detail>千紗と名前で呼び合うようになった</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="G" pid="000">
+  <name>残暑</name>
+  <detail>千紗ルートをクリア</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>力になりたい</name>
+  <detail>銀王に本音を話した</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="G" pid="000">
+  <name>ハッピーバースデイ</name>
+  <detail>深景ルートをクリア</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>とと、襲来。</name>
+  <detail>隠神刑部と話をした</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="G" pid="000">
+  <name>恋人たちの伝説</name>
+  <detail>穂乃里ルートをクリア</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>予想外の行動</name>
+  <detail>夏帆が深景に日焼け止めオイルを塗った</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="G" pid="000">
+  <name>おまえがヨメに来い！</name>
+  <detail>夏帆ルートをクリア</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="G" pid="000">
+  <name>CG鑑賞コンプリート</name>
+  <detail>CG鑑賞をコンプリート</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="G" pid="000">
+  <name>音楽鑑賞コンプリート</name>
+  <detail>音楽鑑賞をコンプリート</detail>
+ </trophy>
+</trophyconf>

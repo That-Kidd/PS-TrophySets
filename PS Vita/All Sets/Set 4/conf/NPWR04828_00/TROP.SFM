@@ -1,0 +1,104 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000007ce59ccf8ffb16150af7cfc1357be1d0145515d0a5761c08fdc0a4fd8c41659ff216c3fd2ce375a0bdd939594a16c737b8dabbb40cb51ab16ab8c5908b3aea222aba97619db09da2bc5b1f03279934e87ccdf1126722ed1fd36c8a1515cb2329a4b15d070c973119b8081643162d106548115a68cb1c60f27de1f1a3b0257b8912fbd5b4c397903297348510a3d54b2f74348dbb-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR04828_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>グリザイアの果実 -LE FRUIT DE LA GRISAIA-</title-name>
+ <title-detail>グリザイアの果実 -LE FRUIT DE LA GRISAIA-のトロフィーです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>グリザイアの果実</name>
+  <detail>全てのトロフィーを獲得した</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>ようこそ、美浜学園へ</name>
+  <detail>千鶴と再会した</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>謎の金髪美女</name>
+  <detail>JBと再会した</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>大事なポーチ</name>
+  <detail>雄二がちゃんと話を聞かなかった</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>戦え！マグロマン</name>
+  <detail>鮮魚超人マグロマンを見た</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>ゴリラが海に行く日</name>
+  <detail>学園の皆と海へ行った</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="000">
+  <name>『普通の』学園生活</name>
+  <detail>共通ルートを全て見た</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>失われた日々</name>
+  <detail>由美子の過去を知った</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="G" pid="000">
+  <name>ロワゾ―・ブリュー</name>
+  <detail>由美子ルートのトゥルーエンドを見た</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>ひとつの道から</name>
+  <detail>由美子ルートのノーマルエンドを見た</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="000">
+  <name>エンジェリック・ハゥル</name>
+  <detail>天音の過去を知った</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="G" pid="000">
+  <name>そして永遠に続く罰…</name>
+  <detail>天音ルートのトゥルーエンドを見た</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>小さな花の咲く丘に…</name>
+  <detail>天音ルートのバッドエンドを見た</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="000">
+  <name>みちると、みちるの少女</name>
+  <detail>みちるの過去を知った</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="G" pid="000">
+  <name>わたしのきもち</name>
+  <detail>みちるルートのトゥルーエンドを見た</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="S" pid="000">
+  <name>fool on the hill</name>
+  <detail>みちるルートのバッドエンドを見た</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>『…パパの…ウソつき…』</name>
+  <detail>蒔菜の過去を知った</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="G" pid="000">
+  <name>その先に大切な人が居る</name>
+  <detail>蒔菜ルートのトゥルーエンドを見た</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="S" pid="000">
+  <name>さらば狂犬、犬死にせし者よ</name>
+  <detail>蒔菜ルートのバッドエンドを見た</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>良い子、悪い子</name>
+  <detail>幸の過去を知った</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="G" pid="000">
+  <name>日だまりの公園</name>
+  <detail>幸ルートのトゥルーエンドを見た</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="S" pid="000">
+  <name>“どうして”</name>
+  <detail>幸ルートのバッドエンドを見た</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="G" pid="000">
+  <name>CGギャラリーコンプリート</name>
+  <detail>CGギャラリーをコンプリートした</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="G" pid="000">
+  <name>シーン回想コンプリート</name>
+  <detail>シーン回想をコンプリートした</detail>
+ </trophy>
+</trophyconf>

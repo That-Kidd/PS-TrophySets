@@ -1,0 +1,120 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000077a4d0311d150b6fd9c456ca9b87f0098f4b07882ef25093afb37aca911ff35344e94e09738ca4ee69cbca29aef508469a8dda48fcdbe6563f2b79cfbf60e6ce0b983aa761cbb5827713bfa3d765edf0ef4cecfe5197eb660f138176015cd495c0f68897276f9202e6e02ee36fd44f9ec145ff522988b86505df955342e4d5499689a054b1c49b373001fc253e36199ece493c8b-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR04989_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>うた組み５７５</title-name>
+ <title-detail>５・７・５のうたが描く、&#x0a;ゆるくてハッピーな青春ライフ。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>すごくすごいよ！</name>
+  <detail>全トロフィー獲得</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>極！</name>
+  <detail>全曲、全難易度を超大盛況でクリア</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>まだまだつづくよ！</name>
+  <detail>エンドロールをみる</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>コスプレ天国！</name>
+  <detail>小豆or抹茶、どちらかの衣装を100％収集</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>背景天国！</name>
+  <detail>背景を100％収集</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>コトバ天国！</name>
+  <detail>コトバを100％収集</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>楽曲天国！</name>
+  <detail>楽曲を100％収集</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>ロング20！</name>
+  <detail>オリジナル楽曲（ロング）を20曲クリア</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>ロング10！</name>
+  <detail>オリジナル楽曲（ロング）を10曲クリア</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>はじめてのロングクリア！</name>
+  <detail>オリジナル楽曲（ロング）をクリア</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>はじめての超大盛況！</name>
+  <detail>楽曲を超大盛況！でクリア</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>はじめてのうちきり！</name>
+  <detail>楽曲が途中で打ち切られる</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>夏が来た！</name>
+  <detail>7月のデモをみたら</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>秋深まる！</name>
+  <detail>10月のデモをみたら</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>あけおめ！</name>
+  <detail>1月のデモをみたら</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>もうすぐ春ですね！</name>
+  <detail>3月のデモをみたら</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="S" pid="000">
+  <name>カラオケ大作戦！？</name>
+  <detail>ＶＯＣＡＬ小豆＆抹茶の音量をゼロにして楽曲をプレイ</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>575をはじめてみた</name>
+  <detail>チュートリアルクリア</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>はじめての衣装がえ！</name>
+  <detail>衣装を初めて変更してみた</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>はじめての背景がえ！</name>
+  <detail>背景を初めて変更してみた</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>はじめてのアレンジ！</name>
+  <detail>アレンジをした楽曲をプレイ</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>はじめての投稿バージョン！</name>
+  <detail>投稿バージョンの楽曲をプレイ</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>はじめてのお買いもの！</name>
+  <detail>ポイントを使った</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>ドットばいドット！</name>
+  <detail>アンチエイリアスをオフにして楽曲をプレイ</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="000">
+  <name>抹茶様のターン！</name>
+  <detail>ＶＯＣＡＬ小豆の音量だけをゼロにして楽曲をプレイ</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="B" pid="000">
+  <name>小豆びいき！</name>
+  <detail>ＶＯＣＡＬ抹茶の音量だけをゼロにして楽曲をプレイ</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>ひだりきき！</name>
+  <detail>利き手を「左」にして楽曲をプレイ</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="B" pid="000">
+  <name>まてません！</name>
+  <detail>セガロゴが表示されている間にタッチスクリーンを16回以上タップ</detail>
+ </trophy>
+</trophyconf>

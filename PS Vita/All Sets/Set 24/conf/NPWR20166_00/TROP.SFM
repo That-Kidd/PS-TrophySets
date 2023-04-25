@@ -1,0 +1,104 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000003be52f15c25e505588d360ee723ee1c1255f0ce843076a26f4fbac1580def90f8fe0e9d0ce288e91ab1d2b7474a375ca7adec5d204fa84283e1b090ea32de54fb2ecb7a962db9b93182c4bd971f6dbbc313c221418226199fff9aed40818a2036cf31060b9211cc1e70ec5872f00b876eace48c8e21a632678eb88f97619ad54174309e383605cc51d1bfa623750762df41443d2-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR20166_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Pic-a-Pix Pieces 2</title-name>
+ <title-detail>The trophy set of Pic-a-Pix Pieces 2</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Piece of Cake</name>
+  <detail>Collect all the trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Unbridled Affection</name>
+  <detail>Reveal the 1st picture&#x0a;</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Not Hungry</name>
+  <detail>Reveal the 2nd picture&#x0a;</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Reining It In</name>
+  <detail>Reveal the 3rd picture</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>Making Notes</name>
+  <detail>Reveal the 4th picture&#x0a;</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>Just a Couple of Bucks</name>
+  <detail>Reveal the 5th picture</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>Pitch Perfect</name>
+  <detail>Reveal the 6th picture</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>Coasting Along</name>
+  <detail>Reveal the 7th picture</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>Still Too Tired</name>
+  <detail>Reveal the 8th picture</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>Field General</name>
+  <detail>Reveal the 9th picture</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>Blown Out of the Water</name>
+  <detail>Reveal the 10th picture</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>Cloud Commuting</name>
+  <detail>Reveal the 11th picture</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>Spotted in the Wild</name>
+  <detail>Reveal the 12th picture</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>Sundae Morning</name>
+  <detail>Reveal the 13th picture</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>Tusk Tusk</name>
+  <detail>Reveal the 14th picture</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>Family Tree</name>
+  <detail>Reveal the 15th picture</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="G" pid="000">
+  <name>Let It Slide</name>
+  <detail>Reveal the 16th picture</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="G" pid="000">
+  <name>Deer Friends</name>
+  <detail>Reveal the 17th picture</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="G" pid="000">
+  <name>Front Row</name>
+  <detail>Reveal the 18th picture</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="G" pid="000">
+  <name>Rock Stars</name>
+  <detail>Reveal the 19th picture</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="G" pid="000">
+  <name>Mother Ship</name>
+  <detail>Reveal the 20th picture</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>Heavy Medal</name>
+  <detail>Earn a medal solving a 15x15 puzzle</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>Pedal to the Medal</name>
+  <detail>Earn a medal solving a 20x20 puzzle</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="G" pid="000">
+  <name>Precious Medal</name>
+  <detail>Earn all the medals for one picture</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,132 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000b8fbf2edaeac735a28afe8c8a8460f197bc42c824bbf89dd02ea92ae1e70d868fd365815c57405abe0c2b210f598c677a5318ce8f51e7a9c42775755988b72bf5ee3d4ffcb760ca5f3c34112d255a9839c3777dc33a5847eaeaabf5348c65b575643e628c8dba86b7f44100b56af329189ec5c8065af6463523208e96c661f101de18065265ed1a50e063027549d3037eb0b4be6-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR08520_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Geometry Wars³: Dimensions</title-name>
+ <title-detail>Geometry Wars³: Dimensions</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Platinum</name>
+  <detail>Geometry Wars³ Dimensions Platinum Trophy</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Specialist</name>
+  <detail>Upgrade any Drone to its maximum level</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>Maximise</name>
+  <detail>Upgrade 5 Drones to their maximum level</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Boom</name>
+  <detail>Kill 100 enemies with a single Smart Bomb</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>First Step</name>
+  <detail>Earn 3 Stars on any level in Adventure Mode</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>Geometry Warrior</name>
+  <detail>Earn 3 Stars on all 50 levels of Adventure Mode</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>Keen Adventurer</name>
+  <detail>Beat the Topaz boss in Adventure Mode</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>Millionaire</name>
+  <detail>Score at least 1 million points on any level in Adventure Mode</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>Multi Millionaire</name>
+  <detail>Score at least 100 million points on any level in Adventure Mode</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>Geomtastic</name>
+  <detail>Earn a multiplier of at least 1000 on any level in Adventure Mode</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>Kill Them All</name>
+  <detail>Kill every enemy type found in Adventure Mode at least once</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>Dying Time</name>
+  <detail>Be killed by every enemy type found in Adventure Mode at least once</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>Powered Up</name>
+  <detail>Activate each Super State at least once</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>Best Friends</name>
+  <detail>Beat the Garnet boss in Co-op Mode</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="000">
+  <name>BFF</name>
+  <detail>Achieve 3 Stars on all 10 levels in Co-op Mode</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>Gatherer</name>
+  <detail>Collect 1 million Geoms in Adventure, Ultimate or Hardcore</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>Beat Craig</name>
+  <detail>Beat the Developer high score of 11,261,635 on Peanut Dreams in Adventure Mode</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>Beat Col</name>
+  <detail>Beat the Developer high score of 4,769,150 on Gate Dash in Adventure Mode</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>Beat Phil</name>
+  <detail>Beat the Developer high score of 21,478,525 on Nufo Flow in Adventure Mode</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Rocket Destroyer</name>
+  <detail>Destroy 10,000 Rocket enemies in total</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>Deadliest</name>
+  <detail>Complete Deadline Classic without losing a life</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>Bossman</name>
+  <detail>Defeat any boss in Adventure Mode without using a Drone Super or a Smart Bomb</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>Retro</name>
+  <detail>Score over 10 million on Evolved Classic Level before losing a life</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>Sharp Shooter</name>
+  <detail>Score over 500,000 on Twisted Blister in Adventure Mode without moving</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>Survivalist</name>
+  <detail>Survive for 30 seconds on Pacifism Classic without going through a gate</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>Peacekeeper</name>
+  <detail>Survive for 60 seconds on Deflector in Adventure Mode without shooting and pass the level</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="S" pid="000">
+  <name>Stationary</name>
+  <detail>Score over 500,000 points on Waves Classic without moving</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="S" pid="000">
+  <name>Bullet Proof</name>
+  <detail>Score over 2 million on Maze in Adventure Mode without dying</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="S" pid="000">
+  <name>Beat Andy</name>
+  <detail>Beat the Developer high score of 21,468,350 on Pacifism Classic</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="S" pid="000">
+  <name>King Killer</name>
+  <detail>Spend 60 seconds outside of the safety King Zones in King Classic</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>Cleaning Up</name>
+  <detail>Destroy the cleaner</detail>
+ </trophy>
+</trophyconf>

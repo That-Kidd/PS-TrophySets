@@ -1,0 +1,92 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000007cca3feb04472a7086346fe3c58812d9b2e9647c4554cb5063b873ef3183d3335a219f2052fe082686cde7ddcaf69769493d4ecbd3b9eff827a17be13d460f636023a4b9b09baf4dbe15b5da0afd6bc2c10d49b24cf4142e0e6c862fb4f3ecf4ea6351dfa15fba92c498f894c22bf9b5bdbf68efc449dfe2546100e60d1a2ce584a70f20c44c82aa2f9b9f85c6d0cf4d5bcd658e-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR13043_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Plantera</title-name>
+ <title-detail>Plantera</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Scarecrow</name>
+  <detail>Scare away 500 birds</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Fox Hunter</name>
+  <detail>Scare away 100 foxes</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Wolf Hunter</name>
+  <detail>Scare away 100 wolves</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Bunny Hunter</name>
+  <detail>Scare away 100 bunnies</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Expander</name>
+  <detail>Buy 3 garden expansions</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Freeholder</name>
+  <detail>Buy 6 garden expansions</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Land Owner</name>
+  <detail>Buy 12 garden expansions</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Planter</name>
+  <detail>Have planted a total of 100 plants</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Grower</name>
+  <detail>Have planted a total of 100 bushes</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>Landscaper</name>
+  <detail>Have planted a total of 100 trees</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>Lots of Friends</name>
+  <detail>Have bought a total of 100 animals</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="-1">
+  <name>Taking Out the Trash</name>
+  <detail>Trash 10 items</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="-1">
+  <name>Rich</name>
+  <detail>Gather 10.000 Coins</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="-1">
+  <name>Wealthy</name>
+  <detail>Gather 100.000 Coins</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="-1">
+  <name>Worth A Million</name>
+  <detail>Gather 1.000.000 Coins</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="-1">
+  <name>Starting Out</name>
+  <detail>Reach level 10</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="-1">
+  <name>Apprentice</name>
+  <detail>Reach level 50</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="-1">
+  <name>Journeyman</name>
+  <detail>Reach level 100</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="-1">
+  <name>Entomologist</name>
+  <detail>Collect 500 butterflies</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="-1">
+  <name>Whack-A-Mole</name>
+  <detail>Bash 50 moles</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="-1">
+  <name>Ladybug</name>
+  <detail>Collect 10 ladybugs</detail>
+ </trophy>
+</trophyconf>

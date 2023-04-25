@@ -1,0 +1,108 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000013a4f9ef84893960e0f8cfccb39dac29ad78bd3aba5f672d23ddf1e4faa1b4d1b3fcc0906a8c8116d441806f44a84032d6afa9b1302d731ec2d85f4545f9e134f59852e58f63ee6d2ff27404e11ed94ae754338c29966534a37ec74f30c256c3d889fdf34b2ae873169ec06084d63785677e029608deacc85668b42f56c0839d9342737d33715c10f85f39924d3deecc8df11500-->
+<trophyconf version="1.1" platform="ps3,psp2,ps4" policy="large">
+ <npcommid>NPWR16845_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Almost There: The Platformer</title-name>
+ <title-detail>Almost There: The Platformer</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Almost There: The Platinum</name>
+  <detail>Earn every trophy</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Learning to Jump</name>
+  <detail>Complete World 1 Tier 1</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Lasers and Spikes</name>
+  <detail>Complete World 1 Tier 2</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>More Lasers and More Spikes</name>
+  <detail>Complete World 1 Tier 3</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>So Many Lasers and Spikes!</name>
+  <detail>Complete World 1 Tier 4</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>Dexterity</name>
+  <detail>Complete World 1 Tier 5</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>The Floor Is Collapsing</name>
+  <detail>Complete World 2 Tier 1</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>Bouncing To Greater Heights</name>
+  <detail>Complete World 2 Tier 2</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>Jumping Through Saw Blades</name>
+  <detail>Complete World 2 Tier 3</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>Invincibility</name>
+  <detail>Complete World 2 Tier 4</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>Hello Missiles</name>
+  <detail>Complete World 3 Tier 1</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>Hello Spinning Lasers</name>
+  <detail>Complete World 3 Tier 2</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>Hello Everything At Once</name>
+  <detail>Complete World 3 Tier 3</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="000">
+  <name>Insanity</name>
+  <detail>Complete World 3 Tier 4</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>Getting Started</name>
+  <detail>Earn 10 Stars</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>This is Easy</name>
+  <detail>Earn 25 Stars</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>It's Still Easy...</name>
+  <detail>Earn 50 Stars</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Getting Harder...</name>
+  <detail>Earn 100 Stars</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>Okay It's Tough Now</name>
+  <detail>Earn 200 Stars</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="000">
+  <name>Almost Almost There</name>
+  <detail>Earn 300 Stars</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="G" pid="000">
+  <name>Almost There</name>
+  <detail>Earn 400 Stars</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="G" pid="000">
+  <name>All The Way There</name>
+  <detail>Earn All Stars</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="G" pid="000">
+  <name>Jumping Mastery</name>
+  <detail>Earn All Stars in World 1</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="G" pid="000">
+  <name>Climbing Mastery</name>
+  <detail>Earn All Stars in World 2</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="G" pid="000">
+  <name>Dodging Mastery</name>
+  <detail>Earn All Stars in World 3</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,76 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000008e2d24731c17843317bb3c4a38673a0c81c3009994cb1af270ea739eee515b882f4409132d2dfe0fd84e78caa26679692610199f460f69ea5e852814ea8702d2b63d4204c93af09cec9d8f9ccde2c6ce40ccae4143fb2c9abdf6b398af5c41ce7c5cedda55737569b44b64798bf9e3a5c2e85c316032f8c79b250cb89fdcd02c055de321121dd527cdb9c89011dbb0df62269054-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR20301_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Thy Sword</title-name>
+ <title-detail>Thy Sword</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Platinum Hero</name>
+  <detail>Get all other trophies.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Heads up</name>
+  <detail>Headchop an enemy.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Treasure</name>
+  <detail>Get the key to a chest.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Bullseye</name>
+  <detail>Get hit by your own arrow.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>Marksman</name>
+  <detail>Kill a flying enemy with an arrow.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>Smithereens</name>
+  <detail>Get killed by an explosive barrel.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>Ready for battle</name>
+  <detail>Finish the tutorial.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>Ring the Bell</name>
+  <detail>Hit the lantern on the title screen</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>Loot!</name>
+  <detail>Find the secret gate to the loot room.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>Head collector</name>
+  <detail>Chop 15 heads enemies in one game.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>Arachnicide</name>
+  <detail>Kill the Spider Queen.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>Back to the Abyss</name>
+  <detail>Kill the Lurking Horror.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>Dragonslayer</name>
+  <detail>Kill the Dragon Lord.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="000">
+  <name>Might over magic</name>
+  <detail>Kill the Sorcerer of Thorn.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="000">
+  <name>Pile of bones</name>
+  <detail>Kill the Lich King &amp; Queen.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="G" pid="000">
+  <name>Unite the crystals</name>
+  <detail>Gain all five crystals.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="G" pid="000">
+  <name>Victory!</name>
+  <detail>Finish the game.</detail>
+ </trophy>
+</trophyconf>

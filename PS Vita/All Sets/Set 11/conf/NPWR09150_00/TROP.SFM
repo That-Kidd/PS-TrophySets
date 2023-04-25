@@ -1,0 +1,56 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000c12b247d14ada7cbccda79e1e7e5845659439b6a05b48b223b6c8889e012b91ef401510945a8ae3a5395b0bf16713d2217f4e04f49cf24fdc3633abedd9b0644a2e7a7dbd522cd5d27569fc95b7144f34abcf495a34c1922777f84a296ea898e7f687a885a0db71c90ecb5038acafbaeaf5162624c012fde044d38e1f86fc2b82c2d2acac9c9ac19bf52e3dce017d79bee9871a6-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR09150_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Rally Copters</title-name>
+ <title-detail>Trophy set for Rally Copters</title-detail>
+ <trophy id="000" hidden="no" ttype="G" pid="-1">
+  <name>Never gonna give you up</name>
+  <detail>Complete all phase 3 levels with the Mosquito</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="-1">
+  <name>Full hangar</name>
+  <detail>Unlock all helicopters</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="-1">
+  <name>All the way</name>
+  <detail>Complete all levels</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="-1">
+  <name>The specialist</name>
+  <detail>Get a platinum medal</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Earn your wings</name>
+  <detail>Complete a flag run without taking damage</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Can’t touch this</name>
+  <detail>Perform a successful flip-dodge</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>The bomber</name>
+  <detail>Travel 100 meters in a single dive</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>The golden child</name>
+  <detail>Earn a gold-plus (or platinum-plus) medal </detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Flying blind</name>
+  <detail>Complete a phase-3 level with no guideline in one try</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="-1">
+  <name>Determined</name>
+  <detail>Reach 50 tries in a level</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="-1">
+  <name>Crash landing</name>
+  <detail>Crash your helicopter after crossing a finish line</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="-1">
+  <name>Nailed it!</name>
+  <detail>Obtain a full landing bonus</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,100 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000357dbc5c09c7cd17a4be7ee915efc1d82b2badec16e86b23c9502119d387dcc388881cf913e85764cebc394596bb4704dc57fd36d1075a38e3d46190cdbcc9ad1d28e5c119dffe30720b17e4ed6dc6560edd388f129fc3c7e14f6e6f8d115d1cfd4caefda4d4a0035f3cf26cdf4c42349ec72a2dcf8ad5a379905bb9b1821f88c2a6d28355bb046dc0e50f482a47d542746fa40e-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR14306_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Monster Slayers</title-name>
+ <title-detail>Monster Slayers</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Guild Master</name>
+  <detail>Collect all trophies to unlock the platinum </detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Tutelage</name>
+  <detail>Complete the Tutorial.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>Boss Slain</name>
+  <detail>Defeat a Boss.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Tough as Nails</name>
+  <detail>Have a hero with at least 200 HP.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>Level 15</name>
+  <detail>Reach level 15 with a hero.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>Master Thief</name>
+  <detail>Defeat the Harbinger with a Rogue.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>Master Archer</name>
+  <detail>Defeat the Harbinger with a Ranger.&#x0a;</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>Archmage</name>
+  <detail>Defeat the Harbinger with a Wizard.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>Champion Knight</name>
+  <detail>Defeat the Harbinger with a Knight.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>Barbarian King</name>
+  <detail>Defeat the Harbinger with a Barbarian.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>Master Healer</name>
+  <detail>Defeat the Harbinger with a Cleric.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>Monster Slayer</name>
+  <detail>Defeat the Harbinger with all 6 starting classes.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>Silent Assassin</name>
+  <detail>Defeat the Harbinger with an Assassin.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>The King of Bones</name>
+  <detail>Defeat the Harbinger with a Necromancer.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>Lord of the Jungle</name>
+  <detail>Defeat the Harbinger with a Beastmaster.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>The Pharmacist</name>
+  <detail>Defeat the Harbinger with an Apothecary.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>Kung Fu Master</name>
+  <detail>Defeat the Harbinger with a Monk.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>A Big Guy, For You</name>
+  <detail>Defeat the Harbinger with a Brute.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="G" pid="000">
+  <name>Legendary Slayer</name>
+  <detail>Complete a game in Legendary Mode.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="G" pid="000">
+  <name>Capitalism Ho!</name>
+  <detail>Defeat the Harbinger with a Merchant.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="G" pid="000">
+  <name>Giant Lizard</name>
+  <detail>Defeat the Harbinger with a Dragon.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="G" pid="000">
+  <name>The Big Six</name>
+  <detail>Complete Legendary mode with 6 different classes.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="G" pid="000">
+  <name>The Dirty Dozen</name>
+  <detail>Complete Legendary mode with 12 different classes.</detail>
+ </trophy>
+</trophyconf>

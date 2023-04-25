@@ -1,0 +1,176 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000003d114373e8f959f786870cbfe8a0f4e33a90049066577b2c519a8e94f545f9a140b17a486028a651167a52b9d5c3b220f3b6c3868ad384ce99577758a6842bfe31980c8ef07a06b642d5904961dc1ada8942b5887f27b60de5813e8ade270050268bf6e041498486aa03c408ca6d53c209eec4f943bca5cd77eafa8f98e38e3dd2a30570e77148e476875f8b64ddfe148d477d26-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR05377_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>The Amazing Spider-Man</title-name>
+ <title-detail>Trofeos de The Amazing Spider-Man</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>¡Hace lo mismo que una araña!</name>
+  <detail>Desbloquea todos los trofeos.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Peter Parker</name>
+  <detail>Termina el juego en dificultad humano.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>Justiciero</name>
+  <detail>Termina el juego en dificultad héroe.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>Spiderman</name>
+  <detail>Termina el juego en dificultad superhéroe.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>Al vuelo</name>
+  <detail>Obtén las 700 páginas de los cómics de Spiderman.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>Bibliotecario</name>
+  <detail>Obtén todas las revistas.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>Tecnócrata</name>
+  <detail>Obtén toda la tecnología oculta.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>Corporativo</name>
+  <detail>Obtén todos los manuales de Oscorp.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>Periodista</name>
+  <detail>Obtén todas las pruebas sonoras.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>¡Estoy en racha!</name>
+  <detail>Consigue una racha de combos de 42.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>Oye, que soy Spiderman</name>
+  <detail>Haz 25 movimientos característicos.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>Porrazo</name>
+  <detail>Da un puñetazo con impulso de red.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>Todos juntos</name>
+  <detail>Inmoviliza a 6 enemigos a la vez con redes.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>Seguir el plan</name>
+  <detail>Derrota a 50 enemigos con eliminaciones sigilosas.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>Bien atado</name>
+  <detail>Derrota a 100 enemigos con eliminaciones sigilosas.</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>¿Quién es la presa?</name>
+  <detail>Gana la primera pelea contra los robots cazadores.</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>Contra todo pronóstico</name>
+  <detail>Gana la segunda pelea contra los robots cazadores.</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="S" pid="000">
+  <name>Asedio evitado</name>
+  <detail>Derrota al S-01.</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="S" pid="000">
+  <name>Gran manzana, gran gusano</name>
+  <detail>Derrota al S-02</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="S" pid="000">
+  <name>El futuro está a salvo</name>
+  <detail>Derrota al S-03</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>Victoria limpia</name>
+  <detail>Derrota a un cazador sin usar los lanzarredes.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>El cielo es el límite</name>
+  <detail>Derrota al S-01 sin tocar el suelo.</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="S" pid="000">
+  <name>Apagado</name>
+  <detail>Rescata a Alistaire Smythe.</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>¿Cola? Tú pierdes</name>
+  <detail>Derrota a Escorpión en cuarentena.</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="000">
+  <name>Gafado</name>
+  <detail>Derrota a Felicia.</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="B" pid="000">
+  <name>Nos olemos luego</name>
+  <detail>Derrota a Alimaña.</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>Lo lamento profundamente</name>
+  <detail>Derrota a Nattie.</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="S" pid="000">
+  <name>Bienvenido de nuevo, amigo</name>
+  <detail>Derrota al Lagarto.</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>Peso ligero</name>
+  <detail>Derrota a 100 enemigos.</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="S" pid="000">
+  <name>Peso medio</name>
+  <detail>Derrota a 500 enemigos.</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="G" pid="000">
+  <name>Peso pesado</name>
+  <detail>Derrota a 1.000 enemigos.</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>Spiderman definitivo</name>
+  <detail>Consigue todas las mejoras.</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>Capitán del aire</name>
+  <detail>Encadena 10 impulsos con red en la ciudad.</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>Desinfectado</name>
+  <detail>Rescata a todos los civiles infectados.</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>Conciencia tranquila</name>
+  <detail>Lleva a todos los fugados a la policía.</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>De coche en coche</name>
+  <detail>Supera todas las persecuciones de coches.</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>Negociador</name>
+  <detail>Resuelve todos los bloqueos policiales.</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>Llamada interrumpida</name>
+  <detail>Destruye un buscador antes de que llame a un cazador.</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>Amistoso vecino</name>
+  <detail>Salva a un rehén involucrado en un delito menor.</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="000">
+  <name>Gladiador</name>
+  <detail>Completa todos los laboratorios de investigación secretos de Oscorp.</detail>
+ </trophy>
+ <trophy id="040" hidden="yes" ttype="B" pid="000">
+  <name>Se avecina un bache</name>
+  <detail>Derrota a Rino en la ciudad.</detail>
+ </trophy>
+ <trophy id="041" hidden="yes" ttype="B" pid="000">
+  <name>Control de plagas</name>
+  <detail>Derrota a Escorpión en la ciudad.</detail>
+ </trophy>
+</trophyconf>

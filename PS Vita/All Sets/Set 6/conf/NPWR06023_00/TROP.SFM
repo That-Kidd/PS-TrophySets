@@ -1,0 +1,64 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000497f241652ea1a1922b47446003c8f5fc706873985c6572571daf2bcd0cfe239da5debedf0f5381a0621bbb8a493e0d6d91e5a472c87bb1d3838f3d0952b200a4946a5db79351bf7c7b2b9dfe9cffd756baf20cd776ccec86b85dd9efba8c9cd91076f9465f6056da7d7cf58ce9ff971191362cdb33bc286472015ae89338c83c34b9a6356842248af1dc5387642f33f84f92c87-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR06023_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Miku Miku Hockey</title-name>
+ <title-detail>Miku Miku Hockey トロフィー</title-detail>
+ <trophy id="000" hidden="no" ttype="G" pid="-1">
+  <name>フルコンプリート！</name>
+  <detail>すべてのトロフィーを入手した！</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="-1">
+  <name>ミクダヨーさんに勝利！</name>
+  <detail>観戦モードでミクダヨーさんに勝利した！</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="S" pid="-1">
+  <name>あのお方を超えた</name>
+  <detail>ミクダヨーさんとの直接対決に勝利した！</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="-1">
+  <name>レベルマックス！</name>
+  <detail>いずれかのパラメータがレベル10になった！</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>上手になってきた？</name>
+  <detail>レベルの合計が25を超えた！</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>拾い上手</name>
+  <detail>1ゲームでラリーを最大20回以上続けた！</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>カウンターポイント！</name>
+  <detail>カウンターで得点した！</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>可愛く撮れた？</name>
+  <detail>スクリーンショットを撮った！</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>はじめてのチューニング</name>
+  <detail>チューニングした！</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>毎日ミクさん</name>
+  <detail>3日連続でゲームを起動した！</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>色々押してみた</name>
+  <detail>すべてのモードを試してみた！</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="-1">
+  <name>ミクさんかわいい</name>
+  <detail>ミクさんのタップリアクションを3回見た！</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="-1">
+  <name>ストレート勝利！</name>
+  <detail>練習モードでミクさんにストレート勝ちした！</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="-1">
+  <name>ミクさんに勝利！</name>
+  <detail>練習モードでミクさんに勝利した！</detail>
+ </trophy>
+</trophyconf>

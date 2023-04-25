@@ -1,0 +1,84 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000016817b6eae93a08925972d5089a2e185927091b1000ade22feb562c620fe39d4c2b6daf0be0498e59a6d20d6e71df81790d0162e8cd4caf9525837471c08378c90340af2e1161b68fd8edd0043a3e83f2e2a74974908828e8bb14ed7655071e6672cb85cca2f92d1f2a1676b5233a10a3ddf7ae1fe25101d34b2e4332902a9862339e630dde321f2362847db4d7b96a1a0d4c256-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR15241_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Cafe Cuillere ～カフェ キュイエール～</title-name>
+ <title-detail>Cafe Cuillere ～カフェ キュイエール～ のトロフィーデータです</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>カフェキュイエール</name>
+  <detail>全てのトロフィーを獲得した</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="000">
+  <name>同じ道を２人で</name>
+  <detail>東雲景太とスイートエンドを迎えた</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>どんな未来でも一緒に</name>
+  <detail>東雲景太とのアフターシナリオを見た</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>嬉しい変化</name>
+  <detail>四条涼介とスイートエンドを迎えた</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>最高のプレゼント</name>
+  <detail>四条涼介とのアフターシナリオを見た</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>自分らしく</name>
+  <detail>咲久間陽とスイートエンドを迎えた</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>ずっとこの場所で</name>
+  <detail>咲久間陽とのアフターシナリオを見た</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>並んで歩きたい</name>
+  <detail>咲久間湊とスイートエンドを迎えた</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>２人だけの花火</name>
+  <detail>咲久間湊とのアフターシナリオを見た</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>ケーキより甘いもの</name>
+  <detail>咲久間樹とスイートエンドを迎えた</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>パティシエとして、男として</name>
+  <detail>咲久間樹とのアフターシナリオを見た</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>パーティーを抜け出して</name>
+  <detail>永瀬響平とスイートエンドを迎えた</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>いつか同じ苗字に</name>
+  <detail>永瀬響平とのアフターシナリオを見た</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>進化するスペシャリテ</name>
+  <detail>ロジェ・美ツ森とスイートエンドを迎えた</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>想定外のパーティー</name>
+  <detail>ロジェ・美ツ森とハッピーエンドを迎えた</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>ベストパートナー</name>
+  <detail>美ツ森弾睦とスイートエンドを迎えた</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>私だけの先生</name>
+  <detail>美ツ森弾睦とハッピーエンドを迎えた</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="G" pid="000">
+  <name>明日はきっと天気</name>
+  <detail>全てのシナリオを解放した</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="G" pid="000">
+  <name>夜明けの星</name>
+  <detail>全てのイベント絵を解放した</detail>
+ </trophy>
+</trophyconf>

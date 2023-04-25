@@ -1,0 +1,88 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000000fd75b64d026208840214569d34e79ea2e2ab74c021b6b04cf04e52b31ceb5f39ad401847b3b1e41911506a6ddba5479eef1efebe76a347638de6dbba7fe4c4c4f440bce93253e8d5db8fd8a64f258fea3647a68650d196586fa5e92ea34489192036bcef8bab2854a6d5c1418f820286470f957390873714826db3c9b9e17fab142163bacd848feadd0c33d7fb4b415609ee525-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR11087_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>鳥籠のマリアージュ ～初恋の翼～</title-name>
+ <title-detail>鳥籠のマリアージュ ～初恋の翼～  トロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>鳥籠のマリアージュ</name>
+  <detail>全てのトロフィーを取得しました。</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="G" pid="000">
+  <name>とても素敵な世界</name>
+  <detail>全てのキャラクターの攻略度100%を達成しました。</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="G" pid="000">
+  <name>たくさんの思い出</name>
+  <detail>ギャラリーのCGを全てコンプリートしました。</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="G" pid="000">
+  <name>僕の元へ戻ってきてくれないか？</name>
+  <detail>悠人の攻略度100%を達成しました。</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="G" pid="000">
+  <name>これからも俺の傍にいてくれ</name>
+  <detail>翔太の攻略度100%を達成しました。</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="G" pid="000">
+  <name>もっと叱って下さーい！</name>
+  <detail>司の攻略度100%を達成しました。</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="G" pid="000">
+  <name>君の未来は俺が守る</name>
+  <detail>惣一の攻略度100%を達成しました。</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="G" pid="000">
+  <name>僕も君のこと、大好きだよ</name>
+  <detail>睦の攻略度100%を達成しました。</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>悠人との思い出</name>
+  <detail>ギャラリーの悠人のCGをコンプリートしました。</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>翔太との思い出</name>
+  <detail>ギャラリーの翔太のCGをコンプリートしました。</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>司との思い出</name>
+  <detail>ギャラリーの司のCGをコンプリートしました。</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>惣一との思い出</name>
+  <detail>ギャラリーの惣一のCGをコンプリートしました。</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>睦との思い出</name>
+  <detail>ギャラリーの睦のCGをコンプリートしました。</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>あの空へはばたく</name>
+  <detail>悠人シナリオのハッピーエンドを見ました。</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>もう一度始めから</name>
+  <detail>翔太シナリオのハッピーエンドを見ました。</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="S" pid="000">
+  <name>最高の微笑み</name>
+  <detail>司シナリオのハッピーエンドを見ました。</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="S" pid="000">
+  <name>実った初恋</name>
+  <detail>惣一シナリオのハッピーエンドを見ました。</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="S" pid="000">
+  <name>変わる未来</name>
+  <detail>睦シナリオのハッピーエンドを見ました。</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>それぞれのその後</name>
+  <detail>シーン回想のおまけシナリオを初めてクリアしました。</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>籠の鳥</name>
+  <detail>オープニングムービーを見ました。</detail>
+ </trophy>
+</trophyconf>

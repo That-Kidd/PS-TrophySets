@@ -1,0 +1,56 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000081ff5046668d83f2d5a8b9b8a8ba7f8bfd47d166c88174ebf272544f14b16696c56466282be89c0b064e1f49d08b0122325ec382cbe0a9185c014bc251e7c73bc04853df3720958c10844a7a8bd047a01d3c9a12ef48da67aefa0c11b3cbb0ce05947ed88e7d537d09d9636277f13e88a054de98ccf31445dc1fc4a9b2b0da48b1ae39f06abec66851c99ca2efa9ef91c007f19e-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR19975_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Super Destronaut: Land Wars</title-name>
+ <title-detail>Super Destronaut: Land Wars</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Platinum Alien</name>
+  <detail>Get all the trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>Starting an invasion</name>
+  <detail>Complete at least one challenge with a ranking.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>Killing poor creatures</name>
+  <detail>Complete at least three challenges with a ranking.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>Destroying villages</name>
+  <detail>Complete at least six challenges with a ranking.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>Eradicating cities</name>
+  <detail>Complete at least nine challenges with a ranking.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>Conquering unknown planets</name>
+  <detail>Complete at least twelve challenges with a ranking.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>Planter Conqueror</name>
+  <detail>Complete at least fifteen challenges with a ranking.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>Starting easy</name>
+  <detail>Reach to 300.000 points in Classic Mode.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>The Hard Way</name>
+  <detail>Reach to 30.000 points in Hardcore Mode.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>Combo Breaker</name>
+  <detail>Reach to 100.000 points in Combo Breaker.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>Increasing difficulty</name>
+  <detail>Reach to 125.000 points in Maximum Strength.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>Slow as Snail</name>
+  <detail>Reach to 30.000 points in Snail Mode.</detail>
+ </trophy>
+</trophyconf>

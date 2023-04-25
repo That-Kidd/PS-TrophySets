@@ -1,0 +1,164 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000d0be8c8d14fc66cf7e9d9c9977f3189a6cb1d8967b81d4a7af98f846b992d75c72efa031445b1254318a29b961e9f2a0a02f750cd727660feb85428345815b601fee96acebc533e1a04aa38b761cdf5d96b6933ad4d4567d156e4c80f650533d10cc53b1b9a50def9ba554575c68672046560f764d8e400cd9c7f9434e3bc158ac7f75aa29952b5d57f598969997105dc643c013-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR05899_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>いますぐお兄ちゃんに妹だっていいたい！</title-name>
+ <title-detail>いますぐお兄ちゃんに妹だっていいたい！</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>コンプリート！</name>
+  <detail>全てのトロフィーを獲得した</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>CGコンプリート！</name>
+  <detail>全てのCGをコンプリートした</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>EPILOGUEコンプリート！</name>
+  <detail>全てのEPILOGUEをコンプリートした</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>BGMコンプリート！</name>
+  <detail>全てのBGMをコンプリートした</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="G" pid="000">
+  <name>また、会おうね</name>
+  <detail>グランドエンディングを見た</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="S" pid="000">
+  <name>歩夢CGコンプリート！</name>
+  <detail>歩夢のCGをコンプリートした</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="000">
+  <name>奉莉CGコンプリート！</name>
+  <detail>奉莉のCGをコンプリートした</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>真央CGコンプリート！</name>
+  <detail>真央のCGをコンプリートした</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>希実花CGコンプリート！</name>
+  <detail>希実花のCGをコンプリートした</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>歩夢ルートクリア</name>
+  <detail>歩夢ルートをクリアした</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>奉莉ルートクリア</name>
+  <detail>奉莉ルートをクリアした</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>真央ルートクリア</name>
+  <detail>真央ルートをクリアした&#x0a;</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>希実花ルートクリア</name>
+  <detail>希実花ルートをクリアした</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="000">
+  <name>歩夢エピローグ</name>
+  <detail>歩夢のエピローグを開始した</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="B" pid="000">
+  <name>奉莉エピローグ</name>
+  <detail>奉莉のエピローグを開始した</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>真央エピローグ</name>
+  <detail>真央のエピローグを開始した</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>希実花エピローグ</name>
+  <detail>希実花のエピローグを開始した</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>歩夢の日記</name>
+  <detail>プロローグを開始した</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>おはよう、おにいちゃん</name>
+  <detail>歩夢に起こしてもらった</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>おはよーっ！！</name>
+  <detail>奉莉に起こしてもらった</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>おはよう</name>
+  <detail>真央に起こしてもらった</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>お、おはようございます</name>
+  <detail>希実花に起こしてもらった</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="B" pid="000">
+  <name>いますぐお兄ちゃんに妹だっていいたい！</name>
+  <detail>オープニングムービーを見た</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>合格、おめでとうございます！</name>
+  <detail>朝岡学園に合格した</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="000">
+  <name>おにいちゃんがほしいです</name>
+  <detail>歩夢登場</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="B" pid="000">
+  <name>わが盟友</name>
+  <detail>奉莉登場</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>か、かわいいとか言うなっ！！</name>
+  <detail>真央登場</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="B" pid="000">
+  <name>え、ええと……</name>
+  <detail>希実花登場</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="B" pid="000">
+  <name>紳士だ！</name>
+  <detail>章介登場</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="B" pid="000">
+  <name>狼少年……？</name>
+  <detail>琉伍登場</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="B" pid="000">
+  <name>ちょっとドジなんで</name>
+  <detail>夏奏登場</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="B" pid="000">
+  <name>イチゴは全人類の夢だ</name>
+  <detail>直真登場</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="B" pid="000">
+  <name>１０歳もサバよんじゃダメだよ</name>
+  <detail>良子登場</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="B" pid="000">
+  <name>お兄ちゃぁ――――んっ！！</name>
+  <detail>未玖登場</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="B" pid="000">
+  <name>洋菓子が食べたくなってきたわ</name>
+  <detail>皐月登場</detail>
+ </trophy>
+ <trophy id="035" hidden="yes" ttype="B" pid="000">
+  <name>チョコが苦手で……</name>
+  <detail>千里登場</detail>
+ </trophy>
+ <trophy id="036" hidden="yes" ttype="B" pid="000">
+  <name>無限開真流宗家四世</name>
+  <detail>鋼造登場</detail>
+ </trophy>
+ <trophy id="037" hidden="yes" ttype="B" pid="000">
+  <name>母さんの夢</name>
+  <detail>母さんの夢を見た</detail>
+ </trophy>
+ <trophy id="038" hidden="yes" ttype="B" pid="000">
+  <name>郁美の手紙</name>
+  <detail>母さんの手紙を読んだ</detail>
+ </trophy>
+</trophyconf>

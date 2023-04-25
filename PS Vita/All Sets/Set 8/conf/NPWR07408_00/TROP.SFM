@@ -1,0 +1,52 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000192f3d78d31d193b52130635fc7a1f4442779e0ab0a0c15a5dc48466622cdbaf1d631461642cb6b577079b423d63de50aea3e9f3f0eb6cbbb755c376568b5a9f12d8d49f1932f641ff19cd4a881936a43e3636fbca8dc07eaf520378a233f3219f7b2a1b30e2b6cf70acab60fdd6ed8cfcc206d0179a34fac992c02f6d06fb6a4fbd2210de993715642c12df51962ba58ee5fb7a-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR07408_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Pix The Cat</title-name>
+ <title-detail>Trophies&#x0a;</title-detail>
+ <trophy id="000" hidden="no" ttype="S" pid="-1">
+  <name>CREME DE LA CREME</name>
+  <detail>SCORE 2 000 000 POINTS IN THE ARCADE MAIN GRID</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="-1">
+  <name>HOW DID YOU DO THAT?!</name>
+  <detail>SCORE 1 500 000 POINTS IN THE ARCADE DESSERT GRID</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="-1">
+  <name>TOP 10 CREW!</name>
+  <detail>TOP 10 OF AN ARCADE DAILY LEADERBOARD</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="-1">
+  <name>TOP 100 GANG!</name>
+  <detail>TOP 100 OF AN ARCADE DAILY LEADERBOARD</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>FOCUS... STEADY...</name>
+  <detail>SCORE 1 000 000+ PTS IN 5 ARCADE GAMES IN A ROW</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="-1">
+  <name>I GOT A FEVER</name>
+  <detail>FEVER MODE FRENZY IN THE ARCADE FOR 120 SECONDS</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>PERFECTAMUNDO</name>
+  <detail>PERFORM 10 PERFECTS IN THE ARCADE IN A ROW</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>WORLD CLASS SURGEON</name>
+  <detail>FINISH EACH AND EVERY PUZZLE IN THE LAB</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="-1">
+  <name>NOBEL PRIZE WINNER</name>
+  <detail>ALL LAB LEVELS SUCCEEDED WITH PERFECT BONUS... GOOD LUCK</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>B&amp;W PRINCE</name>
+  <detail>FINISH EVERY SINGLE LEVEL OF THE NOSTALGIA</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="-1">
+  <name>B&amp;W KING</name>
+  <detail>ALL NOSTALGIA LEVELS SUCCEEDED WITH FLOWER BONUS... NOT POSSIBLE</detail>
+ </trophy>
+</trophyconf>

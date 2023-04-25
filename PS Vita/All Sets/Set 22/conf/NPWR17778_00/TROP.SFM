@@ -1,0 +1,84 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000058b0538e64423fca912a6e2763d856bbf0a69da150d95fbbc5226e53428326a8c1ca104279aa550ebf757665b8a7b9438c14bce11c5b1eff5f54b3676179f4b2c3f0a32cd6527319f91707ecc8d0baca95cd2297c6e705e5468f72b7a20f7da603e6b7854ccaec35cb73c646caa69a36b0af0527fc9d22a37e5794e391894a922f533adb6d2615dc3b81f0fcff3047593d12f2c9-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR17778_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Steam Tactics</title-name>
+ <title-detail>Steam Tactics</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Steam Tactics Platinum</name>
+  <detail>Good job! Completed all tasks!</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Off to a good start</name>
+  <detail>Achieve your first victory</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="S" pid="000">
+  <name>Selva</name>
+  <detail>Piracy is fun but unsustainable</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>First steps</name>
+  <detail>Level up a pilot for the first time</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>First upgrade</name>
+  <detail>Upgrade an item for the first time</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>Not bad!</name>
+  <detail>Upgrade an item to level 10</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>They're cute in their teens</name>
+  <detail>Level up a pilot to level 10</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>Two is better than one</name>
+  <detail>Acquire a two-star item</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>Luxury</name>
+  <detail>Acquire a three-star item</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>Ship collector</name>
+  <detail>Acquire all ships</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>Gun collector</name>
+  <detail>Acquire all guns</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>Halfway</name>
+  <detail>Complete the first chapter</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="G" pid="000">
+  <name>Family ties</name>
+  <detail>Defeat Hades</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="G" pid="000">
+  <name>The Grand Inquisitor</name>
+  <detail>Defeat Nicholaus</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="G" pid="000">
+  <name>And the story ends</name>
+  <detail>Complete the second chapter</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>It's getting hot in here</name>
+  <detail>Acquire a flamethrower</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>Range matters</name>
+  <detail>Acquire a torpedo launcher</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>It smells funny</name>
+  <detail>Acquire an acid gun</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>Musk recommends</name>
+  <detail>Acquire a tesla gun</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,108 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000008ba803591284c3982abddc460ea2a34558b114ef5c6c32328444aeb012ee532aec0b7e15cc562b021d0ed185dfa29489b54580c90b5f6155c291ea20ff2ac401431dbabc0391885554107ec688e27bd75bfb45aa7daffcefa491c644d4809591c31a3fe10d1b690f13acd4897823cfc428de4603ca4cb580659984ce9e1dcf70571ce8e44bbb26b37a1fac94e86a654dfb9428fe-->
+<trophyconf version="1.1" platform="psp2">
+ <npcommid>NPWR02837_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>RUGBY CHALLENGE</title-name>
+ <title-detail>Rugby Challenge Trophy Set</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Rugby Challenge Accepted</name>
+  <detail>Get all Rugby Challenge Trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="000">
+  <name>Good Sport</name>
+  <detail>Complete 25 online matches</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>Online Captain</name>
+  <detail>Complete 50 online matches</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Tall as Metcalfe</name>
+  <detail>Win 60% of lineouts in a match that aren't thrown by your team</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="S" pid="000">
+  <name>Oh The Memories!</name>
+  <detail>Score 4 consecutive tries with Jonah Lomu vs England</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>World Champ Domination</name>
+  <detail>Win the World Championship Competition without losing or drawing a match</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>Possessed</name>
+  <detail>Maintain Over 60% possession in a match</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>This is My House</name>
+  <detail>Maintain over 60% territory in a match</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>Lack of Discipline</name>
+  <detail>The ref calls one red card against you</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>A Gentleman's Game</name>
+  <detail>Do not concede more than 2 penalties in a single match</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>End-To-End</name>
+  <detail>Make a try-scoring run which starts within your own in-goal area</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>Conversion Point Pro</name>
+  <detail>Score a conversion on pro difficulty</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>Team Player</name>
+  <detail>Win 10 matches, each as a different team</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>Played for Our Sins</name>
+  <detail>Win a match with 2 players sent off</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>The Catt Memorial Service</name>
+  <detail>Break through a full back with Jonah Lomu</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>Where is Tim Timber?</name>
+  <detail>Win the ITM Cup Competition</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Super, Thanks For Asking</name>
+  <detail>Win the Rugby 15 Competition</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>There's No Forfeiting This One</name>
+  <detail>Win the Top 14 Competition</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>Working On My Quads</name>
+  <detail>Win the Quad Nations Competition</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="G" pid="000">
+  <name>Hardcore Fan</name>
+  <detail>Complete Career Mode</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="000">
+  <name>Thanks Team</name>
+  <detail>Watch through the credits</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="G" pid="000">
+  <name>Tribute</name>
+  <detail>Unlock 'Team Lomu'</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="G" pid="000">
+  <name>Bank of Toulon</name>
+  <detail>Collect $100,000 Rugby Dollars</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>No School Boy Difficulty Here</name>
+  <detail>Get gold medals in every tutorial</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>That's No Oil Painting, But OK</name>
+  <detail>Create and save a custom player</detail>
+ </trophy>
+</trophyconf>

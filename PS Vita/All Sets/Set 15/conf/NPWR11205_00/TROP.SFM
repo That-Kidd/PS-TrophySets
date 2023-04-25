@@ -1,0 +1,156 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000004d07df774b69040257c706687043c80f016f200a34f1cbc39c3da5ee43dcdfbf3284c0024891a99c5126cf88632ff7e358efe420d414f3c3e3959a1ba34c6f81de03895b1011b46561de710d5bb88fe85a93dda120a66c012617dc4710d2019b692e8fd114687a008b97f16d2c71fd4abfcc3e59ff51064c487d769fcbf7445e287d82d38d02995d1146d8de6a3f95f7570a4d78-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR11205_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>MeiQ</title-name>
+ <title-detail>Trophies for MeiQ: Death Under the Labyrinth.</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Master Completionist</name>
+  <detail>Obtained all trophies!</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Thanks For Starting</name>
+  <detail>Selected your first command.</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>Black Tower Conqueror</name>
+  <detail>Cleared chapter 1.&#x0a;</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>Red Tower Conqueror</name>
+  <detail>Cleared chapter 2.</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>Blue Tower Conqueror</name>
+  <detail>Cleared chapter 3.</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>White Tower Conqueror</name>
+  <detail>Cleared chapter 4.</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>Central Temple Conqueror</name>
+  <detail>Cleared chapter 5.</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>Planet Savior</name>
+  <detail>Cleared the final chapter!</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>Metal Crest Dungeon Conqueror</name>
+  <detail>Cleared the Metal Crest dungeon!</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>Wood Crest Dungeon Conqueror</name>
+  <detail>Cleared the Wood Crest dungeon!</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="G" pid="000">
+  <name>Fire Crest Dungeon Conqueror</name>
+  <detail>Cleared the Fire Crest dungeon!</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>Wood Crest Obtained</name>
+  <detail>Cleared the game on Hard!</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>Fire Crest Obtained</name>
+  <detail>Cleared the game on Devil!&#x0a;</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="G" pid="000">
+  <name>God Crest Obtained</name>
+  <detail>Cleared the game on Hell!</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>Guild Quest Completionist</name>
+  <detail>Cleared all Guild missions!</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="S" pid="000">
+  <name>Zodiac Beast Slayer</name>
+  <detail>Destroyed all 12 Zodiac Beasts!</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>Monster Completionist</name>
+  <detail>Completed the monster encyclopedia.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>Guardian Part Completionist</name>
+  <detail>Completed the parts encyclopedia.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>Estra the Strong</name>
+  <detail>Estra reached level 99.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Connie the Strong</name>
+  <detail>Connie reached level 99.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>Flare the Strong</name>
+  <detail>Flare reached level 99.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>Maki the Strong</name>
+  <detail>Maki reached level 99.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>Setia the Strong</name>
+  <detail>Setia reached level 99.</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="S" pid="000">
+  <name>Ultimate Estra</name>
+  <detail>Estra reached level 999.</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="S" pid="000">
+  <name>Ultimate Connie</name>
+  <detail>Connie reached level 999.</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="S" pid="000">
+  <name>Ultimate Flare</name>
+  <detail>Flare reached level 999.</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="S" pid="000">
+  <name>Ultimate Maki</name>
+  <detail>Maki reached level 999.</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="S" pid="000">
+  <name>Ultimate Setia</name>
+  <detail>Setia reached level 999.</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="S" pid="000">
+  <name>All-Season Form</name>
+  <detail>Raised Estra's proficiency in all forms to maximum!&#x0a;</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="G" pid="000">
+  <name>Guardian Master</name>
+  <detail>All Guardians reached level 99!&#x0a;</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>Novice Machina Mage</name>
+  <detail>Destroyed 500 enemies!</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="B" pid="000">
+  <name>Expert Machina Mage</name>
+  <detail>Destroyed 1000 enemies!</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="B" pid="000">
+  <name>Pro Machina Mage</name>
+  <detail>Destroyed 3000 enemies!</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="B" pid="000">
+  <name>Guild Master</name>
+  <detail>Destroyed 5000 enemies!&#x0a;</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="S" pid="000">
+  <name>Grand Master</name>
+  <detail>Destroyed 10000 enemies!</detail>
+ </trophy>
+ <trophy id="035" hidden="yes" ttype="S" pid="000">
+  <name>Super Machina Mage</name>
+  <detail>Destroyed 20000 enemies!</detail>
+ </trophy>
+ <trophy id="036" hidden="yes" ttype="G" pid="000">
+  <name>Ultimate Machina Mage</name>
+  <detail>Destroyed 30000 enemies!</detail>
+ </trophy>
+</trophyconf>

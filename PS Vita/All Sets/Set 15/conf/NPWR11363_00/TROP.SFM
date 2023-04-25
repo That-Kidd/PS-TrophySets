@@ -1,0 +1,152 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000000cfcdd89edd592132bbf03a075b96520843b79459c98d661388514f94fcba4d1841b8fbf05b9ffe782f041b7ec7c00d34acada35acd0d67c5630d7769f8e7e0dde8717206e6d289d5a2adee175c8b8c81eeb34d22cfbdb448484e3221f8b301f52714ed2406a9cf33003c9df79481c73d092b2f66b9d34af01bbac2dca2cbc8e6c72b252ea2403524dfa379d9d609648b7053456-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR11363_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>クランク・イン</title-name>
+ <title-detail>クランク・イン</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>クランク・アップ</name>
+  <detail>すべてのトロフィーを獲得した。</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="G" pid="000">
+  <name>あなたのための脚本</name>
+  <detail>すべてのチャートをコンプリートした。</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="G" pid="000">
+  <name>名シーンをもう一度</name>
+  <detail>すべてのイベントスチルをコンプリートした。</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="G" pid="000">
+  <name>欠かせない小道具</name>
+  <detail>すべてのマイプチをコンプリートした。</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="G" pid="000">
+  <name>エンドロールの最後まで</name>
+  <detail>すべてのエンディングをコンプリートした。</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="S" pid="000">
+  <name>女優の才能</name>
+  <detail>女優度がMAXになる。</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="000">
+  <name>神楽坂悠真HAPPY END</name>
+  <detail>神楽坂悠真のハッピーエンドをクリアした。</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>周柊HAPPY END</name>
+  <detail>周柊のハッピーエンドをクリアした。</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>逢坂聖HAPPY END</name>
+  <detail>逢坂聖のハッピーエンドをクリアした。</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>徒野真澄HAPPY END</name>
+  <detail>徒野真澄のハッピーエンドをクリアした。</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>村雲朔HAPPY END</name>
+  <detail>村雲朔のハッピーエンドをクリアした。</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>逢坂忍HAPPY END</name>
+  <detail>逢坂忍のハッピーエンドをクリアした。</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>櫻井時雨HAPPY END</name>
+  <detail>櫻井時雨のハッピーエンドをクリアした。</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>神楽坂悠真ANOTHER END</name>
+  <detail>神楽坂悠真のアナザーエンドをクリアした。</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>周柊ANOTHER END</name>
+  <detail>周柊のアナザーエンドをクリアした。</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="S" pid="000">
+  <name>逢坂聖ANOTHER END</name>
+  <detail>逢坂聖のアナザーエンドをクリアした。</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="S" pid="000">
+  <name>徒野真澄ANOTHER END</name>
+  <detail>徒野真澄のアナザーエンドをクリアした。</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="S" pid="000">
+  <name>村雲朔ANOTHER END</name>
+  <detail>村雲朔のアナザーエンドをクリアした。</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="S" pid="000">
+  <name>逢坂忍ANOTHER END</name>
+  <detail>逢坂忍のアナザーエンドをクリアした。</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="S" pid="000">
+  <name>櫻井時雨ANOTHER END</name>
+  <detail>櫻井時雨のアナザーエンドをクリアした。</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="000">
+  <name>突然のスカウト</name>
+  <detail>２つの中学校の男の子たちにスカウトされる。</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>家庭教師の時雨先生</name>
+  <detail>家庭教師の櫻井時雨と会う。</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="B" pid="000">
+  <name>緑ヶ島中学でクランク・イン</name>
+  <detail>緑ヶ島中学での映画の撮影がはじまる。</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>聖エドワード学園でクランク・イン</name>
+  <detail>聖エドワード学園での映画の撮影がはじまる。</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="000">
+  <name>悔しい準優勝</name>
+  <detail>出演した中学校は優勝できなかった。</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="B" pid="000">
+  <name>緑ヶ島中学校優勝END</name>
+  <detail>緑ヶ島中学のみんなとのエンディングを迎えた。</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>聖エドワード学園優勝END</name>
+  <detail>聖エドワード学園のみんなとのエンディングを迎えた。</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="B" pid="000">
+  <name>神楽坂悠真 中学編END</name>
+  <detail>中学生の神楽坂悠真とのエンディングを迎えた。</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="B" pid="000">
+  <name>周柊 中学編END</name>
+  <detail>中学生の周柊とのエンディングを迎えた。</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="B" pid="000">
+  <name>逢坂聖 中学編END</name>
+  <detail>中学生の逢坂聖とのエンディングを迎えた。</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="B" pid="000">
+  <name>徒野真澄 中学編END</name>
+  <detail>中学生の徒野真澄とのエンディングを迎えた。</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="B" pid="000">
+  <name>村雲朔　中学編END</name>
+  <detail>中学生の村雲朔とのエンディングを迎えた。</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="B" pid="000">
+  <name>逢坂忍　中学編END</name>
+  <detail>中学生の逢坂忍とのエンディングを迎えた。</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="B" pid="000">
+  <name>櫻井時雨　中学編END</name>
+  <detail>家庭教師の櫻井時雨とのエンディングを迎えた。</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="B" pid="000">
+  <name>目指すは名脇役</name>
+  <detail>ノーマルエンドを迎えた。</detail>
+ </trophy>
+ <trophy id="035" hidden="yes" ttype="B" pid="000">
+  <name>オーディション落選</name>
+  <detail>バッドエンドを迎えた。</detail>
+ </trophy>
+</trophyconf>

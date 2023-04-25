@@ -1,0 +1,68 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000573e641e11a803412408dc2ef40c38295202d989798c0dc604d71eebc4e6595ecce2af97126b835b690d5102c7e06a77e9d5e7339bca2a82043309435df224e229cdc0b8e4eb90169ae74200dec00c9d86c7b47d4318c8f46db03e170d87369e47b5c090e18410b92802c1f55027c38c0500e76898d72275aed9e68a82660deef7645449104ff400b4b28616ea5aca9ede4771a2-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR05473_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>flOw</title-name>
+ <title-detail>trophies for flOw</title-detail>
+ <group id="001">
+  <name>flOw</name>
+  <detail>trophies for flOw</detail>
+ </group>
+ <trophy id="000" hidden="yes" ttype="G" pid="-1">
+  <name>Zen</name>
+  <detail>Leave game on idle in the end of credits for 5 minutes.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="-1">
+  <name>Beauty</name>
+  <detail>Complete any campaign without being hurt.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="-1">
+  <name>Peace</name>
+  <detail>Complete any campaign without eating anything.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="-1">
+  <name>Swift</name>
+  <detail>Complete any campaign within 120 seconds.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Adventure</name>
+  <detail>Start the first campaign after installing.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Evolve</name>
+  <detail>Unlock the second creature.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Giant</name>
+  <detail>Complete any campaign with a creature of 25 segments or longer.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Fashion</name>
+  <detail>Decorate your creature with more than 10 alternating segments.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Vegetarian</name>
+  <detail>Eat all foods in a campaign without killing any advanced creature.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>Cannibalism</name>
+  <detail>Eat all advanced creatures in a campaign without eating any food.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>Gratitude</name>
+  <detail>Consume all credit foods.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="-1">
+  <name>Devious</name>
+  <detail>Paralyze the same creature 5 times without killing it.</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="B" pid="-1">
+  <name>Gaia</name>
+  <detail>Eat every level complete egg.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>Memory</name>
+  <detail>Take more than 10 screenshots.</detail>
+ </trophy>
+</trophyconf>

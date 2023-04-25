@@ -1,0 +1,164 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000837fcc17b84ff627c0af14ae36269a8c8b89127d98ebee3267e0283744ee1c56579d67361f976f6c819f194268cb496718c1ce73cceb8a698de63c370268cd1096e24cbcfb36e94b7ed3f5acb60684fb14f6c049c44998bf3f6ba607da975889cdd2522e253063b06230acb1e4954f83edfa2d5769c2f06db598d05510e410dd8d1447ffbb13c13147789dd40fcf3af40bc29ab1-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR18826_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Perils of Baking - Refrosted</title-name>
+ <title-detail>Trophies for Perils of Baking - Refrosted</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Rewards of Baking</name>
+  <detail>Earn every other trophy</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>If I wasn't a baker...</name>
+  <detail>Then why would I wear this hat? &#x0a;Reach full health</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Soggy popcorn</name>
+  <detail>Reach a checkpoint underwater</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Warp 1</name>
+  <detail>Unlock the first warp</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>Warp 2</name>
+  <detail>Unlock the second warp</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>Warp 3</name>
+  <detail>Unlock the third warp</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>Warp 4</name>
+  <detail>Unlock the fourth warp</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>Boss 1</name>
+  <detail>Win the first Boss Fight</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>Boss 2</name>
+  <detail>Win the second Boss Fight</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>Boss 3</name>
+  <detail>Win the third Boss Fight</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>All Bosses defeated</name>
+  <detail>Win the final Boss fight</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>Finish the game</name>
+  <detail>Complete the 40 main levels</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>Secret Connoisseur</name>
+  <detail>Finish all secret levels</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>Secret 1</name>
+  <detail>Finish the first secret level</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>Secret 2</name>
+  <detail>Finish the second secret level</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>Secret 3</name>
+  <detail>Finish the third secret level</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Secret 4</name>
+  <detail>Finish the fourth secret level</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>5 bounces</name>
+  <detail>Bounce on 5 enemies in a row without touching the ground.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>Learning to eat (500 food)</name>
+  <detail>Collect 500 points worth of food</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Casual snacker (1,000 food)</name>
+  <detail>Collect 1,000 points worth of food</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>Eating isn't just a hobby! (5,000 food)</name>
+  <detail>Collect 5,000 points worth of food</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="G" pid="000">
+  <name>Morbidly obsessed with collecting food (10,000 food)</name>
+  <detail>Collect 10,000 points worth of food</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="G" pid="000">
+  <name>Finish High and Dry, high and dry</name>
+  <detail>Complete level 39 while in a minecart</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>Learning to drive</name>
+  <detail>Finish the first minecart level</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>Learning to swim</name>
+  <detail>Finish the first underwater level</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>Learning to fly</name>
+  <detail>Finish the first balloon level</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>Friendly fire</name>
+  <detail>A cupcake explodes killing another enemy</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>Learning to bake</name>
+  <detail>Use an oven</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>Get out of the kitchen</name>
+  <detail>Have an oven send out flame enemies</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="G" pid="000">
+  <name>Find all bonus rooms</name>
+  <detail>Find all bonus rooms</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="S" pid="000">
+  <name>Find 5 bonus rooms</name>
+  <detail>Find 5 bonus rooms</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>Find 1 bonus room</name>
+  <detail>Find your first bonus room</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>Bubble expert</name>
+  <detail>Throw a projectile into a bubble jet</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>Overworld death</name>
+  <detail>The fish in the overworld got you</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>Hat reclaimed</name>
+  <detail>Grabbed a hat pickup after losing it</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>Big cookie, big fall</name>
+  <detail>Lure a big cookie off an edge, to it's death</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>No hats allowed!</name>
+  <detail>Leave a hat behind in a no hat zone</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>Learning to spell</name>
+  <detail>Collect the B-A-K-E cookies in one level</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>Quickdraw</name>
+  <detail>Shoot a spike as it is falling</detail>
+ </trophy>
+</trophyconf>

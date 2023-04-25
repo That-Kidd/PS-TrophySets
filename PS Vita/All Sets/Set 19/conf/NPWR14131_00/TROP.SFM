@@ -1,0 +1,168 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000005d48ae1132175270535ac8d9dfd3ac37e411dcb1881730b48d4747cb81021d1a6ff39b3cb8495da459e2f57b653a433cfe7c7bc5ffca296abf40641cf15f2dc8190d331863da6605d5d59490bd55431143a5b227e854fa0bc6aee9d7d50458166c1936725e71594a3fec07598324d72e6e491c1c70e1690bafbc9e7a5d0942f46a98103d11f0a09d147915326e46b11a08a77f00-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR14131_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>俺達の世界わ終っている。</title-name>
+ <title-detail>俺達の世界わ終っている。のトロフィーセット……いや『聖なる戦いの記録』と言うべきか……健闘を祈る！</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>トロフィーの獲得は終っている。</name>
+  <detail>全てのトロフィーを獲得をした</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>イベントＣＧの閲覧は終っている。</name>
+  <detail>全てのイベントＣＧを閲覧した</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>全ての選択は終っている。</name>
+  <detail>選択肢の分岐を全て見た</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="S" pid="000">
+  <name>尾張エンドわ終っている。</name>
+  <detail>尾張とエンディングを迎えた</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="S" pid="000">
+  <name>イルカエンドわ終っている。</name>
+  <detail>イルカ２号とエンディングを迎えた</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="S" pid="000">
+  <name>アサノエンドわ終っている。</name>
+  <detail>アサノとエンディングを迎えた</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="000">
+  <name>七罪エンドわ終っている。</name>
+  <detail>七罪とエンディングを迎えた</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>タチアナエンドわ終っている。</name>
+  <detail>タチアナとエンディングを迎えた</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>ユウノエンドわ終っている。</name>
+  <detail>ユウノとエンディングを迎えた</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>玲菜エンドは終っている。</name>
+  <detail>玲菜とエンディングを迎えた</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>プロローグは終っている。</name>
+  <detail>プロローグをクリアした</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>１章は終っている。</name>
+  <detail>１章をクリアした</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="B" pid="000">
+  <name>２章は終っている。</name>
+  <detail>２章をクリアした</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="000">
+  <name>３章は終っている。</name>
+  <detail>３章をクリアした</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="B" pid="000">
+  <name>４章は終っている。</name>
+  <detail>４章をクリアした</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>５章は終っている。</name>
+  <detail>５章をクリアした</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>６章は終っている。</name>
+  <detail>６章をクリアした</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>７章は終っている。</name>
+  <detail>７章をクリアした</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>８章は終っている。</name>
+  <detail>８章をクリアした</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>９章は終っている。</name>
+  <detail>９章をクリアした</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="000">
+  <name>インタールードは終っている。</name>
+  <detail>インタールードをクリアした</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>１０章は終っている。</name>
+  <detail>１０章をクリアした</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="B" pid="000">
+  <name>１１章は終っている。</name>
+  <detail>１１章をクリアした</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>１２章は終っている。</name>
+  <detail>１２章をクリアした</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="000">
+  <name>１３章は終っている。</name>
+  <detail>１３章をクリアした</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="B" pid="000">
+  <name>１４章は終っている。</name>
+  <detail>１４章をクリアした</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>１５章は終っている。</name>
+  <detail>１５章をクリアした</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="B" pid="000">
+  <name>１６章は終っている。</name>
+  <detail>１６章をクリアした</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="B" pid="000">
+  <name>１７章わ終っている。</name>
+  <detail>１７章をクリアした</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="B" pid="000">
+  <name>エピローグわ終っている</name>
+  <detail>エピローグをクリアした</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="S" pid="000">
+  <name>ノーマルエンドは終っている。</name>
+  <detail>ノーマルエンドを迎えた</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="S" pid="000">
+  <name>尾張との夏は終っている。</name>
+  <detail>分岐イベントで全て尾張のイベントを見た</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="S" pid="000">
+  <name>イルカとの夏は終っている。</name>
+  <detail>分岐イベントで全てイルカのイベントを見た</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="S" pid="000">
+  <name>アサノとの夏は終っている。</name>
+  <detail>分岐イベントで全てアサノのイベントを見た</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="S" pid="000">
+  <name>七罪との夏は終っている。</name>
+  <detail>分岐イベントで全て七罪のイベントを見た</detail>
+ </trophy>
+ <trophy id="035" hidden="yes" ttype="S" pid="000">
+  <name>タチアナとの夏は終っている。</name>
+  <detail>分岐イベントで全てタチアナのイベントを見た</detail>
+ </trophy>
+ <trophy id="036" hidden="yes" ttype="S" pid="000">
+  <name>ユウノとの夏は終っている。</name>
+  <detail>分岐イベントで全てユウノのイベントを見た</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>初めてのS.O.S.は終っている。</name>
+  <detail>S.O.S.システムを１回体験した</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>初めての時間切れは終っている。</name>
+  <detail>S.O.S.システムでタイムオーバーを体験した</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="S" pid="000">
+  <name>優柔不断すぎて終っている。</name>
+  <detail>S.O.S.システムで２０回のタイムオーバーを体験した</detail>
+ </trophy>
+</trophyconf>

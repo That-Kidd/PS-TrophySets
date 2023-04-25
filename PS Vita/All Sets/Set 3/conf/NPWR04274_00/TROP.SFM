@@ -1,0 +1,288 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000f6e6ef81486b7b8155802e589c708772d2cbdc6e71afcac7746cad21e3944cde8ea486c3a5d00cb75a76b694b835d0d2edf41f9ae3d765323354416278205691e463c22d056e64dd588932d34326279db6a4183eac521b0ddd6a1586498b509f54b4c92b33d93dc4cd93088f7b89f92910c4a8538907dfe556adc69232911c30e73e42f436e68d57574249eee3a7d3db30a6821b-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR04274_00</npcommid>
+ <trophyset-version>01.04</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>朧村正</title-name>
+ <title-detail>朧村正</title-detail>
+ <group id="001">
+  <name>津奈缶猫魔稿</name>
+  <detail>追加コンテンツ第一弾</detail>
+ </group>
+ <group id="002">
+  <name>大根義民一揆</name>
+  <detail>追加コンテンツ第二弾</detail>
+ </group>
+ <group id="003">
+  <name>七夜祟妖魔忍伝</name>
+  <detail>追加コンテンツ第三弾</detail>
+ </group>
+ <group id="004">
+  <name>角隠女地獄</name>
+  <detail>追加コンテンツ第四弾</detail>
+ </group>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>朧流完全制覇！</name>
+  <detail>すべてのトロフィーを獲得！</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>忍の流儀</name>
+  <detail>鬼助でチュートリアルを完遂</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>抜け忍と化け狐</name>
+  <detail>妖刀村正忍法帖の序幕を攻略</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>虎穴に入らずんば</name>
+  <detail>妖刀村正忍法帖の二幕を攻略</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>馬上の鬼姫</name>
+  <detail>妖刀村正忍法帖の三幕を攻略</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>過去との対峙</name>
+  <detail>妖刀村正忍法帖の四幕を攻略</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>刀守りの巫女</name>
+  <detail>妖刀村正忍法帖の五幕を攻略</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>修羅の戦場</name>
+  <detail>妖刀村正忍法帖の六幕を攻略</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>富士の龍神</name>
+  <detail>妖刀村正忍法帖の七幕を攻略</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="000">
+  <name>輪廻</name>
+  <detail>妖刀村正忍法帖の大詰めを攻略</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>新たなる船出</name>
+  <detail>妖刀村正忍法帖の全結末を攻略</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>女剣士覚醒</name>
+  <detail>百姫でチュートリアルを完遂</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="B" pid="000">
+  <name>拐かされた魂</name>
+  <detail>朧剣百鬼夜行の序幕を攻略</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="000">
+  <name>吉原遊里に火車駆ける</name>
+  <detail>朧剣百鬼夜行の二幕を攻略</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="B" pid="000">
+  <name>柳生新陰流</name>
+  <detail>朧剣百鬼夜行の三幕を攻略</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>飛騨の大猪</name>
+  <detail>朧剣百鬼夜行の四幕を攻略</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>悪代官の化けの皮</name>
+  <detail>朧剣百鬼夜行の五幕を攻略</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>太刀を求めて地獄まで</name>
+  <detail>朧剣百鬼夜行の六幕を攻略</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>天への道</name>
+  <detail>朧剣百鬼夜行の七幕を攻略</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>慈悲</name>
+  <detail>朧剣百鬼夜行の大詰めを攻略</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="S" pid="000">
+  <name>村正の導く答え</name>
+  <detail>朧剣百鬼夜行の全結末を攻略</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>勇み足</name>
+  <detail>序幕攻略前に最初の結界を調べた</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>奥義の神髄</name>
+  <detail>奥義で親玉に止めを刺した</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>津々浦々街道巡り</name>
+  <detail>全ての街道の封印を解除した</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>湯煙温泉三昧</name>
+  <detail>全ての温泉イベントを見た</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>無疵の大将討ち</name>
+  <detail>親玉を無傷で撃破した</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="S" pid="000">
+  <name>千手の剣</name>
+  <detail>999連斬を達成した</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="S" pid="000">
+  <name>大海の覇者</name>
+  <detail>海坊主を討伐した</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>無疵の魔窟破り</name>
+  <detail>魔窟を無傷で攻略した</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="B" pid="000">
+  <name>妖刀の破壊神</name>
+  <detail>108本の刀が折れた</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>血祀の大剣豪</name>
+  <detail>666匹の妖怪を倒した</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>魂の救済者</name>
+  <detail>道中の魂を666個取得した</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="S" pid="000">
+  <name>海原の人魚</name>
+  <detail>人魚に遭遇した</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="S" pid="000">
+  <name>妖刀百八本揃い踏み</name>
+  <detail>全ての刀を入手した</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="S" pid="000">
+  <name>秘剣朧流討ち取ったり</name>
+  <detail>親玉戦で鬼助と百姫を倒した</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="S" pid="000">
+  <name>装身具収集家</name>
+  <detail>全ての装飾品を入手した</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="S" pid="000">
+  <name>蛇含草</name>
+  <detail>お店で料理を88回食べた</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="S" pid="000">
+  <name>韋駄天</name>
+  <detail>3時間以内に攻略した</detail>
+ </trophy>
+ <trophy id="038" hidden="yes" ttype="S" pid="000">
+  <name>三本刀の舞</name>
+  <detail>「憑き落とし」「無銘玉ノ緒」「朧村正」を同時に装備した</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="G" pid="000">
+  <name>魔窟の支配者</name>
+  <detail>鬼助と百姫で全ての魔窟を攻略した</detail>
+ </trophy>
+ <trophy id="040" hidden="yes" ttype="G" pid="000">
+  <name>神業・隠村正千影万華</name>
+  <detail>流儀「死狂」で妖刀村正忍法帖の全結末を攻略</detail>
+ </trophy>
+ <trophy id="041" hidden="yes" ttype="G" pid="000">
+  <name>美技・朧剣百花繚乱</name>
+  <detail>流儀「死狂」で朧剣百鬼夜行の全結末を攻略</detail>
+ </trophy>
+ <trophy id="042" hidden="yes" ttype="B" pid="-1" gid="001">
+  <name>本懐の果てに</name>
+  <detail>津奈缶猫魔稿の大詰めを攻略</detail>
+ </trophy>
+ <trophy id="043" hidden="yes" ttype="B" pid="-1" gid="001">
+  <name>魍魎変化の凶行</name>
+  <detail>化け猫／猫之怪で親玉に止めを刺した</detail>
+ </trophy>
+ <trophy id="044" hidden="yes" ttype="B" pid="-1" gid="001">
+  <name>猫多羅韋駄天</name>
+  <detail>津奈缶猫魔稿を1時間以内に攻略</detail>
+ </trophy>
+ <trophy id="045" hidden="yes" ttype="S" pid="-1" gid="001">
+  <name>物の怪の正体見たり</name>
+  <detail>津奈缶猫魔稿の全結末を攻略</detail>
+ </trophy>
+ <trophy id="046" hidden="yes" ttype="S" pid="-1" gid="001">
+  <name>超絶・魔黒缶猫大暴</name>
+  <detail>流儀「死狂」で津奈缶猫魔稿の大詰めを攻略</detail>
+ </trophy>
+ <trophy id="047" hidden="yes" ttype="G" pid="-1" gid="001">
+  <name>魔窟の首領猫</name>
+  <detail>お恋で全ての魔窟を攻略</detail>
+ </trophy>
+ <trophy id="048" hidden="yes" ttype="B" pid="-1" gid="002">
+  <name>地獄の沙汰の…</name>
+  <detail>大根義民一揆の大詰めを攻略</detail>
+ </trophy>
+ <trophy id="049" hidden="yes" ttype="B" pid="-1" gid="002">
+  <name>百姓料理</name>
+  <detail>料理を行って食べた</detail>
+ </trophy>
+ <trophy id="050" hidden="yes" ttype="B" pid="-1" gid="002">
+  <name>命の身銭</name>
+  <detail>お金を一両貯めた</detail>
+ </trophy>
+ <trophy id="051" hidden="yes" ttype="S" pid="-1" gid="002">
+  <name>夢の仕舞い</name>
+  <detail>大根義民一揆の全結末を攻略</detail>
+ </trophy>
+ <trophy id="052" hidden="yes" ttype="S" pid="-1" gid="002">
+  <name>絶倫・漢一揆千鍬万鎌</name>
+  <detail>流儀「死狂」で大根義民一揆の大詰めを攻略</detail>
+ </trophy>
+ <trophy id="053" hidden="yes" ttype="G" pid="-1" gid="002">
+  <name>魔窟の頭目</name>
+  <detail>権兵衛で全ての魔窟を攻略</detail>
+ </trophy>
+ <trophy id="054" hidden="yes" ttype="B" pid="-1" gid="003">
+  <name>首塚の傍で</name>
+  <detail>七夜祟妖魔忍伝の大詰めを攻略</detail>
+ </trophy>
+ <trophy id="055" hidden="yes" ttype="B" pid="-1" gid="003">
+  <name>捷疾夜叉の遁</name>
+  <detail>戦闘で煙玉を10回使った</detail>
+ </trophy>
+ <trophy id="056" hidden="yes" ttype="B" pid="-1" gid="003">
+  <name>鳩摩羅天</name>
+  <detail>七夜祟妖魔忍伝を1時間以内に攻略</detail>
+ </trophy>
+ <trophy id="057" hidden="yes" ttype="S" pid="-1" gid="003">
+  <name>豪傑児雷也異聞譚</name>
+  <detail>七夜祟妖魔忍伝の全結末を攻略</detail>
+ </trophy>
+ <trophy id="058" hidden="yes" ttype="S" pid="-1" gid="003">
+  <name>覆滅・白蛇祟忍千紫万紅</name>
+  <detail>流儀「死狂」で七夜祟妖魔忍伝の大詰めを攻略</detail>
+ </trophy>
+ <trophy id="059" hidden="yes" ttype="G" pid="-1" gid="003">
+  <name>魔窟の覇王</name>
+  <detail>嵐丸で全ての魔窟を攻略</detail>
+ </trophy>
+ <trophy id="060" hidden="yes" ttype="B" pid="-1" gid="004">
+  <name>八景巡りと輿入れ</name>
+  <detail>角隠女地獄の大詰めを攻略</detail>
+ </trophy>
+ <trophy id="061" hidden="yes" ttype="B" pid="-1" gid="004">
+  <name>阿武松</name>
+  <detail>戦闘で20回満腹になった</detail>
+ </trophy>
+ <trophy id="062" hidden="yes" ttype="B" pid="-1" gid="004">
+  <name>猛る巨女の凶行</name>
+  <detail>大鬼状態で親玉に止めを刺した</detail>
+ </trophy>
+ <trophy id="063" hidden="yes" ttype="S" pid="-1" gid="004">
+  <name>鬼退治の舞台袖</name>
+  <detail>角隠女地獄の全結末を攻略</detail>
+ </trophy>
+ <trophy id="064" hidden="yes" ttype="S" pid="-1" gid="004">
+  <name>至極・角隠鬼女百花斉放</name>
+  <detail>流儀「死狂」で角隠女地獄の大詰めを攻略</detail>
+ </trophy>
+ <trophy id="065" hidden="yes" ttype="G" pid="-1" gid="004">
+  <name>魔窟の羅刹女</name>
+  <detail>羅邪鬼で全ての魔窟を攻略</detail>
+ </trophy>
+</trophyconf>

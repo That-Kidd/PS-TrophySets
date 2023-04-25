@@ -1,0 +1,124 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000abf5daa68bceec25f5904f2798e2bc5037edf4835b8a3a025eaa698e39be1b7fcb25bf0b6838ac0cc365b880e649a50fbac52ef2065f3309a5a67f71ada78943e7d7ac27cae8e0006209cc779c4647efcf01fdbb8500fb6cfd3cc00f9fe3df8b47ddd6047df0a51ceaf5148b4b47d0ebe0e7633bfcb4d3827fab22afffbff3f609228285bbd1347da1387543c778ba98989fc8e2-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR08664_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Rocketbirds 2: Evolution</title-name>
+ <title-detail>Trofeos ganados en Evolution</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Trofeo platino</name>
+  <detail>Consigue todos los trofeos.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>Hardboiled Chicken</name>
+  <detail>Completa los seis capítulos en Modo Historia.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>Sección de Asalto de Rastreo y Salvamento</name>
+  <detail>Como anfitrión, completa una misión en las cuatro ubicaciones en Modo Rescate.</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="G" pid="000">
+  <name>El camino menos transitado</name>
+  <detail>Consigue a Hardboiled Chicken para el Modo Rescate en el juego.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>Carteles de Evolution</name>
+  <detail>Encuentra los 18 carteles de los 6 capítulos en Modo Historia.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>Carteles de Hardboiled Chicken</name>
+  <detail>Encuentra 9 carteles en cualquiera de los tres capítulos en Modo Historia.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>Viva la Revolution</name>
+  <detail>Encuentra los 3 carteles de un capítulo en Modo Historia.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>A la fuga</name>
+  <detail>Mata a todos los enemigos durante la huida final de Hardboiled en el Capítulo 6.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>Salto de búhos</name>
+  <detail>Tira a seis búhos espaciales en el cieno líquido en el Capítulo 6.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>Medio minuto arácnido</name>
+  <detail>Cuando veas la barra de salud del hexápodo, derrótalo en menos de 30 segundos en el Capítulo 5.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>Nariz arácnida</name>
+  <detail>Ponte sobre la nariz del hexápodo mientras lanza misiles en el Capítulo 4.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>Bombardeo de gansos</name>
+  <detail>Detona una bomba cerca de cualquier G-Man en el combate final del Capítulo 2.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>El que obedece</name>
+  <detail>Haz que los enemigos maten a 15 de sus camaradas en el Capítulo 2.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>Infiltrado</name>
+  <detail>Mata a 15 enemigos seguidos sin hacer saltar la alarma en el Capítulo 2.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>Cazador de cabezas</name>
+  <detail>Mata a 15 enemigos seguidos de un disparo en la cabeza en el Capítulo 1.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>Chivatazo</name>
+  <detail>Consigue que alguien te cuente lo que va a ocurrir en el Capítulo 1.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Dispárate, Putzki</name>
+  <detail>Haz que Putzki se dispare a sí mismo en el Capítulo 1.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="G" pid="000">
+  <name>Gran coleccionista</name>
+  <detail>Desbloquea 100 artículos de vestimenta o armas en Modo Rescate.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="G" pid="000">
+  <name>Triunfador</name>
+  <detail>Consigue una puntuación de 3 estrellas en las cuatro ubicaciones en Modo Rescate.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="000">
+  <name>Gran tirador</name>
+  <detail>Alcanza un 80% o más de puntería en una misión en Modo Rescate.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>Construcción finalizada</name>
+  <detail>Como anfitrión, reúne los nueve artefactos en Modo Rescate.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>Rehenes del ovni</name>
+  <detail>Libera a los 4 rehenes del ovni en Modo Rescate.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>Rehenes de la jungla</name>
+  <detail>Libera a los 4 rehenes de Jungliana en Modo Rescate.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>Rehenes de la fábrica</name>
+  <detail>Libera a los 4 rehenes de la planta cárnica de Putzki en Modo Rescate.</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>Rehenes de la fortaleza</name>
+  <detail>Libera a los 4 rehenes de la fortaleza de Putzki en Modo Rescate.</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>Gran derroche</name>
+  <detail>Gasta más de 50.000 dólares en Modo Rescate.</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>Pingüinos populares</name>
+  <detail>Mata a 100 enemigos de un disparo en la cabeza en el juego.</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>Crímenes pasionales</name>
+  <detail>Mata a 100 enemigos con un arma cuerpo a cuerpo en el juego.</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>Caos de granadas</name>
+  <detail>Mata a 4 enemigos con una sola granada en el juego.</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,128 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000027d08fadfc5139fdd130d3ab301e3fe3d98ddb2c438e666f838ff6bd532a9bfdd41d9bfc97bb3196af691f9285681bdff670e58a02dec4c297e3e82d36a05adf0548e3acb57b775479145834d388fe0374f3a581d4ea74f48c0a0cbcf4464e86782de0abcb2b3a19f21d34cc4659bef1d8fddb687d7d7e39213afb4e4530837d657341559762abd5e18f6e0216225207a1a0b01c-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR11138_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>真 流行り神２</title-name>
+ <title-detail>真 流行り神 ２のトロフィーセットです</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>コンプリート</name>
+  <detail>全てのトロフィーを取得した</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>エンド到達率100％</name>
+  <detail>全てのエンディングに到達した</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>イラスト取得率100％</name>
+  <detail>全てのイラストを取得した</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>音楽取得率100％</name>
+  <detail>全ての音楽を取得した</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>データベース取得率100％</name>
+  <detail>全てのデータベースを取得した</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>全ルートＳランククリア</name>
+  <detail>全てのルートをＳランクでクリアした</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>エンド到達率50％</name>
+  <detail>エンディングを50％以上到達した</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>イラスト取得率50％</name>
+  <detail>イラストを50％以上取得した</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>音楽取得率50％</name>
+  <detail>音楽を50％以上取得した</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>データベース取得率50％</name>
+  <detail>データベースを50％以上取得した</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>第一話クリア</name>
+  <detail>第一話をクリアした</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>第二話クリア</name>
+  <detail>第二話をクリアした</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>第三話クリア</name>
+  <detail>第三話をクリアした</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>第四話クリア</name>
+  <detail>第四話をクリアした</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>最終話クリア</name>
+  <detail>最終話をクリアした</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="S" pid="000">
+  <name>愛染刹那編クリア</name>
+  <detail>愛染刹那編をクリアした</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="S" pid="000">
+  <name>オカルト博士</name>
+  <detail>全てのオカルトルートをクリアした</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="S" pid="000">
+  <name>科学博士</name>
+  <detail>全ての科学ルートをクリアした</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="S" pid="000">
+  <name>完璧な推理</name>
+  <detail>推理ロジックで全て完璧な推理を行った</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>ムービー鑑賞</name>
+  <detail>オープニングムービーを観た</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="000">
+  <name>勇気ある決断</name>
+  <detail>初めてカリッジポイントを使った</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>名推理</name>
+  <detail>初めて推理ロジックで「優」を取得した</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="B" pid="000">
+  <name>勇気を使い果たした</name>
+  <detail>全てのカリッジポイントを使った</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>話の裏側</name>
+  <detail>隙間録を一つ読了した</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="000">
+  <name>推理放棄</name>
+  <detail>推理ロジックで全て間違った推理をした</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="B" pid="000">
+  <name>ライアーズマスター</name>
+  <detail>ライアーズメーターMAXでライアーズアートを終えた</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>悲しみのバージンロード</name>
+  <detail>田中課長との結婚エンドに到達した</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="B" pid="000">
+  <name>やっぱり嘘はつけないの！</name>
+  <detail>ライアーズアートでずっと黙っていた</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="B" pid="000">
+  <name>都庁ロボ発進！</name>
+  <detail>都庁ロボを起動した</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="B" pid="000">
+  <name>エンドレスクエスチョン</name>
+  <detail>３回以上セルフクエスチョンをやり直した</detail>
+ </trophy>
+</trophyconf>

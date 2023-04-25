@@ -1,0 +1,148 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000442f852807fd45ad52bfc1ef147928c6ce86ec57bdaf82a7b404b8d4cbe75d888717ea6877098677a8006fbd2b034027f91e7ce5f261333427ead13715991c19ed83843e960d11f5dc495dc4c5ccd2a41c2aa6d75eb46a8f2855d779ef1976c1ced3b0499b09a1425cf0bc0858d74230bdc203f5f870b65fadd4541d6d1283c1dff7f1297005f231541354e3e739983fd0d22c15-->
+<trophyconf version="1.1" platform="ps3,psp2,ps4" policy="large">
+ <npcommid>NPWR08308_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>影牢 ～もう１人のプリンセス～</title-name>
+ <title-detail>影牢 ～もう１人のプリンセス～のトロフィーセットです</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>悪夢の女王は全ての悪夢に無慈悲に君臨する</name>
+  <detail>全てのトロフィーを入手する</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>人間に最初の悪夢を見せた</name>
+  <detail>クエストモードで１クエストをクリアする</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>十夜の悪夢を見せた</name>
+  <detail>クエストモードで10クエストをクリアする</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>三十夜の悪夢を見せた</name>
+  <detail>クエストモードで30クエストをクリアする</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>長い悪夢も半ばを過ぎて</name>
+  <detail>クエストモードで50クエストをクリアする</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>百夜の悪夢は終わった</name>
+  <detail>クエストモードで全てのクエストをクリアする</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="000">
+  <name>ダークサイドヘブンは幾多の魂を戦わせ凝縮した魂を作るための場所。その目的は果たされた</name>
+  <detail>クエストモードでエンディング１を見る</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>かなたは元の世界に帰る。たとえ元の世界にいられる時間が僅かなものであっても</name>
+  <detail>クエストモードでエンディング２を見る</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="G" pid="000">
+  <name>冬野かなたのダークサイドヘブンは二つの世界へと分かたれた</name>
+  <detail>クエストモードで全てのエンディングを見る</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>50の「悪夢の果実」を奪った</name>
+  <detail>クエストモードで問題の報酬を50個クリアする</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>100の「悪夢の果実」を奪った</name>
+  <detail>クエストモードで問題の報酬を100個クリアする</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>200の「悪夢の果実」を奪った</name>
+  <detail>クエストモードで問題の報酬を200個クリアする</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="G" pid="000">
+  <name>全ての「悪夢の果実」を奪った</name>
+  <detail>クエストモードで問題の報酬を全てクリアする</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>百夜の悪夢を追求し、より美しい悪夢へと練り上げることができた</name>
+  <detail>クエストモードで全てのクエストをＡランク以上でクリアする</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="G" pid="000">
+  <name>百夜の悪夢を最高の悪夢へと完成させることができた</name>
+  <detail>クエストモードで全てのクエストをＳランクでクリアする</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="G" pid="000">
+  <name>全ての罠を得たヴェルギリエは「最高の悪夢を楽しめるのはむしろこれからだ」と喜んだ</name>
+  <detail>クエストモードで全てのトラップを入手する</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="G" pid="000">
+  <name>全ての技を得たヴェルギリエは「これらの技で思うままに踏み躙ることができる」と微笑んだ</name>
+  <detail>クエストモードで全てのアビリティを入手する</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="G" pid="000">
+  <name>全ての肉体を集めたヴェルギリエはこの肉体でどんな生贄が作れるか妄想してみることにした</name>
+  <detail>クエストモードで全てのエディットパーツを入手する</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>闇の姫レグリナは自分の物語の中で「もう１人の姫」と出会った</name>
+  <detail>クエストモードでレグリナと出会う</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>闇の姫レグリナの肉体と魂を奪い「もう１人の姫」がヴェルギリエのものとなった</name>
+  <detail>クエストモードでレグリナが使えるようになる</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="000">
+  <name>刻命の姫ミレニアにはヴェルギリエが人間に見えていた</name>
+  <detail>クエストモードでミレニアと出会う</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>刻命の姫ミレニアは肉体と魂を奪われる前に幼い頃に消された記憶と感情をとり戻した</name>
+  <detail>クエストモードでミレニアが使えるようになる</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="B" pid="000">
+  <name>悲劇の姫レイナは呪いと悲劇から離れて静かに佇んでいた</name>
+  <detail>クエストモードでレイナと出会う</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>悲劇の姫レイナは肉体と魂を奪われる前に復讐する心を捨てるように訴えた</name>
+  <detail>クエストモードでレイナが使えるようになる</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="000">
+  <name>烙印の姫アリシアはダークサイドヘブンで魔手から解放された</name>
+  <detail>クエストモードでアリシアと出会う</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="B" pid="000">
+  <name>烙印の姫アリシアは肉体と魂を奪われる前に裏切りと陰謀の無い世界に身を置くことができた</name>
+  <detail>クエストモードでアリシアが使えるようになる</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>冬野かなたはヴェルギリエを見て困惑した</name>
+  <detail>クエストモードで冬野かなたと出会う</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="B" pid="000">
+  <name>冬野かなたは自分の姿をとりもどした</name>
+  <detail>クエストモードで冬野かなたが使えるようになる</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="B" pid="000">
+  <name>これでヴェルギリエは５人のエフェメラに選ばれた少女たちの肉体を自由に使うことができる</name>
+  <detail>クエストモードで全てのキャラクターが使えるようになる</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="B" pid="000">
+  <name>異なる世界に放たれた５人のエフェメラは自らが惹かれた少女に自分自身の存在を賭けたのだ</name>
+  <detail>クエストモードで５人のエフェメラと会う</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="S" pid="000">
+  <name>百の魂を「あの御方」に捧げた</name>
+  <detail>クエストモードで100人倒す</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>奪った肉体から最初の「生贄」を創造した</name>
+  <detail>影牢スタジオでエネミーキャラクターをエディットする</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>最初の「悪夢の記憶」を作成した</name>
+  <detail>影牢スタジオでリプレイ動画を作成する</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>他のダークサイドヘブンで作られた「悪夢の記憶」を覗いた</name>
+  <detail>影牢スタジオでリプレイ動画をダウンロードする</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>「自分だけの悪夢」を作れることがわかった</name>
+  <detail>影牢スタジオでクロスクエストを作成する</detail>
+ </trophy>
+</trophyconf>

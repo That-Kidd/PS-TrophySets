@@ -1,0 +1,172 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000002d3501e61125cd4f0ab498ea2496aa357c0066d2728efadc588f144de199bd0c8eb22839bc78b1c08f85f725423a3ff822450b1db5f8fe5848874c458321584dd3a71bfd705ac3fae9abb6ab61de03e513fd93be24267bc437537fc9094537b0030b047237aaa05bc6206048f509c517b9bc188a39d081b709a7e3dc3f7d073662bf71ff8cc0e330e27a56428af73667d61dcf9d-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR10403_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Dance with Devils</title-name>
+ <title-detail>Dance with Devilsのトロフィーセットです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>全トロフィー獲得</name>
+  <detail>全てのトロフィーを獲得</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="000">
+  <name>運命の扉を開いた</name>
+  <detail>プロローグを見た</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>レムとの物語</name>
+  <detail>レムとの運命を進むことになった</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>リンドとの物語</name>
+  <detail>リンドとの運命を進むことになった</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>ウリエとの物語</name>
+  <detail>ウリエとの運命を進むことになった</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>メィジとの物語</name>
+  <detail>メィジとの運命を進むことになった</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>シキとの物語</name>
+  <detail>シキとの運命を進むことになった</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>ローエンとの物語</name>
+  <detail>ローエンとの運命を進むことになった</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>決して手放さない</name>
+  <detail>レム・ヒトルートのエンディング１に辿り着いた</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>永遠に君を</name>
+  <detail>レム・ヒトルートのエンディング２に辿り着いた</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>愛し続けると誓う</name>
+  <detail>レム・アクマルートのエンディング１に辿り着いた</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>行こう、私とともに</name>
+  <detail>レム・アクマルートのエンディング２に辿り着いた</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>愛を知った魔界のプリンス</name>
+  <detail>レムのすべてのエンディングに辿り着いた</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>お前と幸せになりたい</name>
+  <detail>リンド・ヒトルートのエンディング１に辿り着いた</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>いつまでもふたりで</name>
+  <detail>リンド・ヒトルートのエンディング２に辿り着いた</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>共に生きていこう</name>
+  <detail>リンド・アクマルートのエンディング１に辿り着いた</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>何があっても守ってみせる</name>
+  <detail>リンド・アクマルートのエンディング２に辿り着いた</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>想いの通じた守護騎士</name>
+  <detail>リンドのすべてのエンディングに辿り着いた</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>本当に幸せだよ</name>
+  <detail>ウリエ・ヒトルートのエンディング１に辿り着いた</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>１２時の鐘が鳴って</name>
+  <detail>ウリエ・ヒトルートのエンディング２に辿り着いた</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>魔法が解けた後も</name>
+  <detail>ウリエ・アクマルートのエンディング１に辿り着いた</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>君が隣にいてくれる</name>
+  <detail>ウリエ・アクマルートのエンディング２に辿り着いた</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>本気の恋をしたエリート夢魔</name>
+  <detail>ウリエのすべてのエンディングに辿り着いた</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>こんなに好きになっちまった</name>
+  <detail>メィジ・ヒトルートのエンディング１に辿り着いた</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>もう、ひとりじゃ生きられねぇ</name>
+  <detail>メィジ・ヒトルートのエンディング２に辿り着いた</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>オレ様の花嫁になれ</name>
+  <detail>メィジ・アクマルートのエンディング１に辿り着いた</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>二度と、離さねぇよ</name>
+  <detail>メィジ・アクマルートのエンディング２に辿り着いた</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="S" pid="000">
+  <name>強さを手にした野生児アクマ</name>
+  <detail>メィジのすべてのエンディングに辿り着いた</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>堕ちてきちゃった</name>
+  <detail>シキ・ヒトルートのエンディング１に辿り着いた</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>キミをひとりにしたくないから</name>
+  <detail>シキ・ヒトルートのエンディング２に辿り着いた</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>これがオレの幸せ</name>
+  <detail>シキ・アクマルートのエンディング１に辿り着いた</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>さあ、素敵な顔を見せて</name>
+  <detail>シキ・アクマルートのエンディング２に辿り着いた</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="S" pid="000">
+  <name>孤独を忘れた堕天使</name>
+  <detail>シキのすべてのエンディングに辿り着いた</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>ワタクシは忠実なる恋人</name>
+  <detail>ローエン・ヒトルートのエンディング１に辿り着いた</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>永遠にお仕えしましょう</name>
+  <detail>ローエン・ヒトルートのエンディング２に辿り着いた</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>いつまでもお傍におります</name>
+  <detail>ローエン・アクマルートのエンディング１に辿り着いた</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>アナタが望んでくださるなら</name>
+  <detail>ローエン・アクマルートのエンディング２に辿り着いた</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="S" pid="000">
+  <name>真実を受け入れた魔王の忠犬</name>
+  <detail>ローエンのすべてのエンディングに辿り着いた</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="G" pid="000">
+  <name>魔に魅入られた貴女</name>
+  <detail>全員の結末をすべて見た</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="G" pid="000">
+  <name>美麗な絵画たち</name>
+  <detail>イベントグラフィックをすべて集めた</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="G" pid="000">
+  <name>スゴ腕の召喚士</name>
+  <detail>すべてのカードを揃え、トロフィー「運命の扉を開いた」を取得した</detail>
+ </trophy>
+</trophyconf>

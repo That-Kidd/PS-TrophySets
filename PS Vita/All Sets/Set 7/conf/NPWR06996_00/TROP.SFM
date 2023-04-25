@@ -1,0 +1,100 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000006f852475d46816b9cf691b54bb618b4a06bf2d2057cc90d120803883bcbf55c49460328433575aef6d19885b5561cd91e4cf5a0fd83e158348702da5e13dd91c95d5d1972cb2a24b72acb4953014af10bb7c353be48db224bb2a3da19784430b5a5ebc9a40eedc3ce8756547087243133220fd06a48a777d74f94d76c27e3d44a9e1f5e079ff6d5514859470c468015b8b4868c2-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR06996_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>DRAMAtical Murder re:code</title-name>
+ <title-detail>DRAMAtical Murder re:code のトロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>DRAMAtical Murder</name>
+  <detail>全てのトロフィーを獲得した</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="S" pid="000">
+  <name>The first happiness</name>
+  <detail>初めてグッドエンディングを見た</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="G" pid="000">
+  <name>GOODENDコンプリート</name>
+  <detail>全てのグッドエンディングを見た</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="G" pid="000">
+  <name>BADENDコンプリート</name>
+  <detail>全てのバッドエンディングを見た</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="G" pid="000">
+  <name>ENDコンプリート</name>
+  <detail>全てのエンディングを見た</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>幼馴染</name>
+  <detail>紅雀ルートを攻略した</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>けじめ</name>
+  <detail>ノイズルートを攻略した</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>故郷の風</name>
+  <detail>ミンクルートを攻略した</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>クラゲの歌</name>
+  <detail>クリアルートを攻略した</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>最後のプレゼント</name>
+  <detail>蓮ルートを攻略した</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>新たな可能性</name>
+  <detail>モルヒネルートを攻略した</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>蒼葉CGコンプリート</name>
+  <detail>蒼葉のCGを全てオープンした</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>紅雀CGコンプリート</name>
+  <detail>紅雀のCGを全てオープンした</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>ノイズCGコンプリート</name>
+  <detail>ノイズのCGを全てオープンした</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>ミンクCGコンプリート</name>
+  <detail>ミンクのCGを全てオープンした</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>クリアCGコンプリート</name>
+  <detail>クリアのCGを全てオープンした</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="S" pid="000">
+  <name>蓮CGコンプリート</name>
+  <detail>蓮のCGを全てオープンした</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>OthersCGコンプリート</name>
+  <detail>OthersのCGを全てオープンした</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>ArtifactCGコンプリート</name>
+  <detail>ArtifactのCGを全てオープンした</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="G" pid="000">
+  <name>CGコンプリート</name>
+  <detail>CGを全てオープンした</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>SONGコンプリート</name>
+  <detail>SONGを全てオープンした</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>RECOLLECTIONコンプリート</name>
+  <detail>RECOLLECTIONを全てオープンした</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="G" pid="000">
+  <name>CONGRATULATIONS</name>
+  <detail>フルコンプイラストを見た</detail>
+ </trophy>
+</trophyconf>

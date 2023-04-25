@@ -1,0 +1,164 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000798d8374b66c71bf7c3b2c1b26ed67e26c76978a043e70c28c43a8790839c29fecabbc4c48e64d20e9176f213bdc1fc44ec2c22b5e6984496837b9dc6b0ca39d85fd195e287254ca2f4ecb7ef3787a00bb3475db76aabdc9ee34c13f4945bd68139cfb0f69e60dbd4801abcb5b241545bbbc24b2100d60dec0675e2deee2f71c429ef51d84e8e6540b9b5dfb94ec74ba651de325-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR09650_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>実況パワフルプロ野球２０１６</title-name>
+ <title-detail>パワプロ２０１６のトロフィーセットです</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>ミスターパワプロ</name>
+  <detail>全てのトロフィーを獲得した</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>一発逆転</name>
+  <detail>監督試合で一発逆転を出した</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>一球入魂</name>
+  <detail>監督試合で一球入魂を出した</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>監督評価Ｓ</name>
+  <detail>監督試合後の評価でＳを出した</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>ナイスピッチ</name>
+  <detail>投球操作２度押しでナイスピッチを出した</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>ペナントマスター</name>
+  <detail>ペナントモードで２０年プレイした</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>ペナントの鉄人</name>
+  <detail>ペナントモードで１５年プレイした</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>ペナントの達人</name>
+  <detail>ペナントモードで１０年プレイした</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>ペナントの名人</name>
+  <detail>ペナントモードで５年プレイした</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>ペナントルーキー</name>
+  <detail>ペナントモードで１年プレイした</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>ペナント通常試合プレイ</name>
+  <detail>ペナントモードで通常試合をプレイした</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>ペナント出番プレイ</name>
+  <detail>ペナントモードで出番プレイをした</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>ペナントなりきりプレイ</name>
+  <detail>ペナントモードでなりきりプレイをした</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>ペナント監督試合プレイ</name>
+  <detail>ペナントモードで監督試合をプレイした</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="000">
+  <name>完全燃焼</name>
+  <detail>マイライフモードで新規選手で開始して２０年プレイし、引退した</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>三冠王</name>
+  <detail>マイライフモードで新規選手で開始して首位打者、本塁打王、打点王の三冠を達成</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>投手四冠</name>
+  <detail>マイライフモードで新規選手で開始して最多勝、最優秀防御率、勝率第1位投手賞、最多奪三振の四冠を達成</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>トリプルスリー</name>
+  <detail>マイライフモードで新規選手で開始して３割、３０本、３０盗塁を達成</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>日本一を経験</name>
+  <detail>マイライフモードで新規選手で開始して１軍に所属した状態で日本シリーズ優勝を達成</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>リーグ優勝達成</name>
+  <detail>マイライフモードで新規選手で開始して１軍に所属した状態でリーグ優勝を達成</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>１億円プレイヤー</name>
+  <detail>マイライフモードで新規選手で開始して年俸１億円に到達</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>晴れてレギュラー</name>
+  <detail>マイライフモードで新規選手で開始してレギュラーの座をつかんだ</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="G" pid="000">
+  <name>育成マスター</name>
+  <detail>サクセスモードで１００人育成した</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>社会人編クリア</name>
+  <detail>サクセスモードの社会人編をクリアした</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>独立リーグ編クリア</name>
+  <detail>サクセスモードの独立リーグ編をクリアした</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>草野球編クリア</name>
+  <detail>サクセスモードの草野球編をクリアした</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>サクサクセス　全ステージ制覇</name>
+  <detail>サクセスモードのサクサクセスを全ステージクリアした</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="G" pid="000">
+  <name>サクセススターズ</name>
+  <detail>パワフェスモードですべてのサクセスキャラをアンロック</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="S" pid="000">
+  <name>図鑑完成</name>
+  <detail>パワフェスモードでサクセスキャラ図鑑をすべてコンプリート</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>フェスマスター</name>
+  <detail>パワフェスモードですべてのチームに一度は勝利する</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>女子会</name>
+  <detail>パワフェスモードですべてのマネージャーを一度は仲間にする</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>ゲスト撃破！</name>
+  <detail>パワフェスモードでプロ野球レジェンズを倒す</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>レベル１０</name>
+  <detail>パワフェスモードでサクセスキャラをひとりでもレベル１０にする</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>エンディング</name>
+  <detail>パワフェスモードで優勝してエンディングを見る</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>全国制覇</name>
+  <detail>栄冠ナインモードの甲子園大会で優勝した</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="G" pid="000">
+  <name>全国完全制覇</name>
+  <detail>栄冠ナインモードの全国４９ブロックで全国制覇を果たした</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>名監督</name>
+  <detail>栄冠ナインモードの公式戦で通算１００勝する</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="S" pid="000">
+  <name>伝説の名監督</name>
+  <detail>栄冠ナインモードの公式戦で通算１０００勝する</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>春夏連覇</name>
+  <detail>栄冠ナインモードの春夏連覇を果たした</detail>
+ </trophy>
+</trophyconf>

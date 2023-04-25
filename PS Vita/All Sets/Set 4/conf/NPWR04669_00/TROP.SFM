@@ -1,0 +1,104 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000bc19a433b9c2244aaabf018dda94a62e305b6918614eff66e891c162d3c09f845141cffddaf18c1eb35542abf7710f16aace85399f89b944cd91f3970d79ad98729b560fe15a5a5e3fdecb1a0f30fec315ece5b3319fbe36ecc500c6cf0b56fbcf7005447204361de6be599414ddf15333c2af51a6d5d0debddc37f4b394abbf2de4f7a96cf999f79346f487bfb4a95166ddce7e-->
+<trophyconf version="1.1" platform="psp2" policy="freemium">
+ <npcommid>NPWR04669_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Open Me!™</title-name>
+ <title-detail>Open Me!™ Trophy Set</title-detail>
+ <group id="001">
+  <name>Pack 01</name>
+  <detail>Pack 01</detail>
+ </group>
+ <group id="002">
+  <name>Pack 02</name>
+  <detail>Pack 02</detail>
+ </group>
+ <group id="003">
+  <name>Pack 03</name>
+  <detail>Pack 03</detail>
+ </group>
+ <group id="004">
+  <name>Pack 04</name>
+  <detail>Pack 04</detail>
+ </group>
+ <group id="005">
+  <name>Pack 05</name>
+  <detail>Pack 05</detail>
+ </group>
+ <group id="006">
+  <name>Pack 06</name>
+  <detail>Pack 06</detail>
+ </group>
+ <group id="007">
+  <name>Pack 07</name>
+  <detail>Pack 07</detail>
+ </group>
+ <group id="008">
+  <name>Pack 08</name>
+  <detail>Pack 08</detail>
+ </group>
+ <group id="009">
+  <name>Pack 09</name>
+  <detail>Pack 09</detail>
+ </group>
+ <group id="010">
+  <name>Pack 10</name>
+  <detail>Pack 10</detail>
+ </group>
+ <group id="011">
+  <name>Pack 11</name>
+  <detail>Pack 11</detail>
+ </group>
+ <group id="012">
+  <name>Pack 12</name>
+  <detail>Pack 12</detail>
+ </group>
+ <trophy id="000" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>Open the Master's Box!</name>
+  <detail>Retrieve the reward from the Master's Box.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="-1" gid="002">
+  <name>Open the Sliding Puzzle Box!</name>
+  <detail>Retrieve the reward from the Sliding Puzzle Box.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="-1" gid="003">
+  <name>Open the Cuckoo Clox!</name>
+  <detail>Retrieve the reward from the Cuckoo Clox.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1" gid="004">
+  <name>Open the Multi-Surveillance Box!</name>
+  <detail>Retrieve the reward from the Multi-Surveillance Box.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="-1" gid="005">
+  <name>Open the Super Stealth Box!</name>
+  <detail>Retrieve the reward from the Super Stealth Box.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1" gid="006">
+  <name>Open the Super Clasp Box!</name>
+  <detail>Retrieve the reward from the Super Clasp Box.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1" gid="007">
+  <name>Open the Feisty Wooden Crate!</name>
+  <detail>Retrieve the reward from the Feisty Wooden Crate.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="-1" gid="008">
+  <name>Open the Super Hinged Box!</name>
+  <detail>Retrieve the reward from the Super Hinged Box.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="-1" gid="009">
+  <name>Open the Super-Sneaky Steel Box!</name>
+  <detail>Retrieve the reward from the Super-Sneaky Steel Box.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="-1" gid="010">
+  <name>Open the Two Step Box!</name>
+  <detail>Retrieve the reward from the Two Step Box.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="-1" gid="011">
+  <name>Open the Wind-Powered Box!</name>
+  <detail>Retrieve the reward from the Wind-Powered Box.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="-1" gid="012">
+  <name>Open the Sliding Puzzle Box...?!</name>
+  <detail>Retrieve the reward from the Sliding Puzzle Box...?</detail>
+ </trophy>
+</trophyconf>

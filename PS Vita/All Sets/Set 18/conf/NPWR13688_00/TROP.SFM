@@ -1,0 +1,60 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000066907c1e9c3f707abc9a69e936027506cc7cc6e4a782d755e648b053ed9fa78f005361ca903e627943bca182f2b6bb3f223957ab7e9db01b27a7f605fb814f857a00f271ce0fb21e15e3350a394f0b1bd98771df519ea8e33bfb2b6cbc98c624b0dd3fb341ba6532373e3a656bf0eb142cac98955c8075410d0727da3936bff6fcc71478aba348e454bbce7abae6e6cce3603f82-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR13688_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>人気声優のつくりかた</title-name>
+ <title-detail>『人気声優のつくりかた』トロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>コンプリート</name>
+  <detail>全てのトロフィーを獲得しました。</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="000">
+  <name>プロローグ終了</name>
+  <detail>プロローグが終了しました。</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>共通ルート終了</name>
+  <detail>共通ルートが終了しました。</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>来栖祐果子好感度１</name>
+  <detail>来栖祐果子の好感度が１になりました。</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>永倉小夏好感度１</name>
+  <detail>永倉小夏の好感度が１になりました。</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>瀬能いつみ好感度１</name>
+  <detail>瀬能いつみの好感度が１になりました。</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>瀬能いつみ好感度２</name>
+  <detail>瀬能いつみの好感度が２になりました。</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>瀬能いつみルート開始</name>
+  <detail>瀬能いつみルートが始まりました。</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>瀬能いつみルート終了</name>
+  <detail>瀬能いつみルートが終了しました。</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>永倉小夏ルート開始</name>
+  <detail>永倉小夏ルートが始まりました。</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>永倉小夏ルート終了</name>
+  <detail>永倉小夏ルートが終了しました。</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>来栖祐果子ルート開始</name>
+  <detail>来栖祐果子ルートが始まりました。</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>来栖祐果子ルート終了</name>
+  <detail>来栖祐果子ルートが終了しました。</detail>
+ </trophy>
+</trophyconf>

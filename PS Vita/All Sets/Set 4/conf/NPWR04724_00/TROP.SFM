@@ -1,0 +1,132 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000005ba92d0423283c91f0eda7e5021a68efcf5ecd7f2f11d78786074351c212ee67957a4599426ccbe117909999a19636952f48b374181c30321bd211aa898b9f64b719dd94fcc2cb8400203617e2f6847626515c33bcf87bdd191ff71fc22f27fc2f7622239fbd51606c9e6f82107ecf969642700ac4839b1c9485560390c4ed22a850de06d1574406547e93c43278f4e2e1346f7d-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR04724_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Batman: Arkham Origins Blackgate</title-name>
+ <title-detail>Batman: Arkham Origins Blackgate</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>The Dark Knight</name>
+  <detail>Unlock All Other Trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>The Collector</name>
+  <detail>Find all detective cases and have all pickups and upgrades</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Last Laugh</name>
+  <detail>Defeat Joker</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Cobblepot's Plot Was All For Naught</name>
+  <detail>Defeat Penguin</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>Face Off</name>
+  <detail>Defeat Black Mask</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>Cage Match</name>
+  <detail>Defeat Bronze Tiger</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>Born on a Monday</name>
+  <detail>Defeat Solomon Grundy</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>The Man Who Sometimes Misses</name>
+  <detail>Defeat Deadshot</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>Domestic Disturbance</name>
+  <detail>Catch Catwoman in Gotham City</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="G" pid="000">
+  <name>Cat Scratch Fever</name>
+  <detail>Defeat Catwoman</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="G" pid="000">
+  <name>Bad Case of the Mondays</name>
+  <detail>Defeat Grundy using the Shock Batarang and water</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>CSI: Blackgate</name>
+  <detail>Complete your first detective case</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>Party Pooper</name>
+  <detail>Defuse all Joker presents</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>Flew the Coop</name>
+  <detail>Rescue all Penguin hostages</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>Circuit Breaker</name>
+  <detail>Disarm all Black Mask junction boxes</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>Now You're Getting It</name>
+  <detail>Get a 12 hit combo</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>In the Flow</name>
+  <detail>Get a 25 hit combo</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>Unnecessary Roughness</name>
+  <detail>Get a 50 hit combo</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>LEAGUE OF SHADOWS</name>
+  <detail>Get a 100 hit combo</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Fresh Beats</name>
+  <detail>Beatdown 10 thugs</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>He's Sleeping</name>
+  <detail>Perform 20 stealth takedowns</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>Breathless</name>
+  <detail>Die from inhaling gas</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="G" pid="000">
+  <name>Grave Digger</name>
+  <detail>Unlock the Zombie Suit</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="G" pid="000">
+  <name>World's Greatest Detective</name>
+  <detail>Complete all detective cases</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>Oral Hygiene</name>
+  <detail>Find and destroy all Joker teeth</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="S" pid="000">
+  <name>Bird on a Wire</name>
+  <detail>Find and destroy all Penguin bird cages</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>Unmasked</name>
+  <detail>Find and destroy all of Black Mask's masks</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="G" pid="000">
+  <name>World's Snazziest Dresser</name>
+  <detail>Obtain all Batsuits attainable through gameplay</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>Armored Edition</name>
+  <detail>Find all armor upgrades</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>2112</name>
+  <detail>Find all RUSH upgrades</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>Talk to the Hand</name>
+  <detail>Find all gauntlet upgrades</detail>
+ </trophy>
+</trophyconf>

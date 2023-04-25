@@ -1,0 +1,60 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000001b0c2a73301fdb1801c6bcfb1b97ccb762c48d42415c4d032f87c7ec2186215b2cdbcaffa6a32fe0ddfa05010055c2462cb021df1597555482486b200bdc9e66590506bd6ea71e7741bcadc651b07bad866bf0bdc5714535f11f1a1b3b0dcb6c61df8501426461ad1cdc39dfd8ffbff2ae8ff791551b12051f8500e5d6004ef6583d283ecbe24fc260f3d96e392ea4115b6fba69-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="small">
+ <npcommid>NPWR07398_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>ROCK BOSHERS DX: Director's Cut</title-name>
+ <title-detail>The trophy set of ROCK BOSHERS DX: Director's Cut.</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Patience</name>
+  <detail>Sit through the game load to unlock `CHEESE DREAMS` arcade game.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Snacker</name>
+  <detail>Collect 5 of each food type to unlock `AQUA KITTY` arcade game.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Super Snacker</name>
+  <detail>Collect 10 of each food type to unlock `GHOST PYRAMID` arcade game.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="-1">
+  <name>Ultra Snacker</name>
+  <detail>Collect 15 of each food type to unlock `BOSHTEROIDS` arcade game.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="-1">
+  <name>Snack Hoarder</name>
+  <detail>Collect all the food pickups.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Pistol</name>
+  <detail>Collect the Pistol.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Coal Rockets</name>
+  <detail>Collect some coal rockets.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Machine Gun</name>
+  <detail>Collect some machine gun ammo.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Steam Laser</name>
+  <detail>Collect some steam laser ammo.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>Explorer</name>
+  <detail>Find a hidden area.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>Escapist</name>
+  <detail>Evade the giant worms and make it to the exit.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="-1">
+  <name>Tank Time</name>
+  <detail>Get to the planet surface with your new tank.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="-1">
+  <name>Rock Bosher</name>
+  <detail>Complete the game.</detail>
+ </trophy>
+</trophyconf>

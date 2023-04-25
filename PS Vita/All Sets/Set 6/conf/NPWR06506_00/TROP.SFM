@@ -1,0 +1,56 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000e82491f56ab499f2608cfaf1a19603b8e95ee3778f02cdaa04d44735469fa767f56f1aded39ae2dd2e963d3c7041a70b8c17a41a2e426a540d6b0635cd47cc927ada2e060914ef3d44c0473b27d7d201cb74532dfcad37711f123d1ba0dba8e0487f137e144ea174bf52d417cb3171683acd01982bf77c96613eca1ea90f6425971d065bb2143348e98ebcaa673b660954208e1d-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR06506_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>The Keeper of 4 Elements</title-name>
+ <title-detail>Trophy set for The Keeper of 4 Elements</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Carpenter</name>
+  <detail>Build 30 towers</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Warrior</name>
+  <detail>Defeat 100 enemies</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Restless</name>
+  <detail>Launch all the waves on one map manually</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Merchant</name>
+  <detail>Sell 10 towers</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>No time to waste</name>
+  <detail>Play the game for 8 hours</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Learned fighter</name>
+  <detail>Defeat 300 enemies with the Monk</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Strategist</name>
+  <detail>Complete a level with 20 lives</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="-1">
+  <name>Woodworker</name>
+  <detail>Build 1500 towers</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="-1">
+  <name>Sentinel</name>
+  <detail>Defeat 30000 enemies</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="-1">
+  <name>Wise warrior</name>
+  <detail>Defeat 2500 enemies with the Monk</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="-1">
+  <name>Inventor</name>
+  <detail>Fully upgrade 130 towers</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="-1">
+  <name>Journey</name>
+  <detail>Complete all levels on hard difficulty</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,208 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000018147c99e8d8dc59afce1a8c6d3d2660eb3c0bb8aa3645b22413a9aeadf0fc5e7156e549392d62b4a924afff8198a494706dc907c422a545afbae7d59cd8b21f41464d478d657e4234361fec978d613d686258f6b8ea6dcc09282ff69aa29b91642671f3cb7fe9eb53a837391b12ae2bfcbf0ee90a6bd9d7ca31c07e2ce7d1de713ef7356a8011a7f86caaeff7b66632e580df6b-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR08409_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>J-STARS Victory VS+　獎盃組</title-name>
+ <title-detail>J-STARS Victory VS+　獎盃組資料</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>J-STARS Victory VS+</name>
+  <detail>獲得所有的獎盃</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>大冒險的開端</name>
+  <detail>於Ｊ冒險模式取得紀念JUMP號</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>逼近最終決戰</name>
+  <detail>於Ｊ冒險模式使紀念JUMP號成為最終型態</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>初次通過任務！</name>
+  <detail>於Ｊ冒險模式通過１次任務</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>我乃任務行家</name>
+  <detail>於Ｊ冒險模式通過３０次任務</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>找到寶藏了！</name>
+  <detail>於Ｊ冒險模式通過１張藏寶圖</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>尋寶家</name>
+  <detail>於Ｊ冒險模式通過１０張藏寶圖</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>擊退壞蛋！</name>
+  <detail>於Ｊ冒險模式戰勝１次黑暗幻靈船</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>幻靈殺手</name>
+  <detail>於Ｊ冒險模式戰勝３０次黑暗幻靈船</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>小試身手！</name>
+  <detail>於Ｊ冒險模式戰勝１次神秘聲音船</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>所向無敵</name>
+  <detail>於Ｊ冒險模式戰勝３０次神秘聲音船</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>無所畏懼的挑戰者</name>
+  <detail>於Ｊ冒險模式的凱里塔格鬥賽戰勝１場</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>世界最強的挑戰者</name>
+  <detail>於Ｊ冒險模式的凱里塔格鬥賽戰勝１０場</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>轟然一發</name>
+  <detail>於Ｊ冒險模式打倒１隻怪物</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>射擊好手</name>
+  <detail>於Ｊ冒險模式打倒１０隻怪物</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>大海的射擊王</name>
+  <detail>於Ｊ冒險模式打倒所有種類的怪物</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>見習船匠</name>
+  <detail>於Ｊ冒險模式裝備１個紀念JUMP號的強化零件</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>頂尖船匠</name>
+  <detail>於Ｊ冒險模式裝備３個紀念JUMP號的強化零件</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>能夠獨當一面了</name>
+  <detail>於Ｊ冒險模式讓１名角色的等級達到３０</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="000">
+  <name>稱霸世界者</name>
+  <detail>Ｊ冒險模式通過１篇</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="G" pid="000">
+  <name>Ｊ冒險模式之王</name>
+  <detail>Ｊ冒險模式通過所有篇</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>邁向強者之路</name>
+  <detail>於勝利之路戰勝１場</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>邁向勝利之路</name>
+  <detail>於勝利之路戰勝２０場</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="G" pid="000">
+  <name>邁向榮耀之路</name>
+  <detail>稱霸勝利之路</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>永留記憶的一勝</name>
+  <detail>於自由對戰戰勝１場</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>對戰大師</name>
+  <detail>於自由對戰戰勝２０場</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>歡迎來到線上對戰！</name>
+  <detail>以線上對戰對戰１次</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>線上對戰常客</name>
+  <detail>以線上對戰對戰２０次</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>第一個稱號</name>
+  <detail>取得１個線上對戰的稱號</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>第一個玩者圖示</name>
+  <detail>取得１個線上對戰的玩者圖示</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>自訂的第一步</name>
+  <detail>於Ｊ自訂模式進行自訂</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>絕佳獎勵！</name>
+  <detail>於Ｊ自訂模式形成１直線的聯合效果獎勵</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="S" pid="000">
+  <name>自訂的天才</name>
+  <detail>於Ｊ自訂模式形成總共６直線的聯合效果獎勵</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>一點一滴地累積吧！</name>
+  <detail>透過對戰獲得Ｊ點數</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>商店的商品會增加喔！</name>
+  <detail>努力、友情、勝利其中任一指數的等級上昇１</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>第一次購物</name>
+  <detail>使用Ｊ點數</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>上流英雄</name>
+  <detail>使用Ｊ點數累計達到１００００</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>會出現什麼呢？</name>
+  <detail>使用硬幣取得J-STARS卡</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>取得卡牌！</name>
+  <detail>取得１張J-STARS卡</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="S" pid="000">
+  <name>卡牌收集者</name>
+  <detail>取得１００張J-STARS卡</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="S" pid="000">
+  <name>取得超稀有卡牌～！！</name>
+  <detail>J-STARS卡取得★★★★</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="S" pid="000">
+  <name>戰鬥明星大集合</name>
+  <detail>使所有戰鬥角色都能夠使用</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="S" pid="000">
+  <name>支援明星大集合</name>
+  <detail>使所有支援角色都能夠使用</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="B" pid="000">
+  <name>請欣賞喜歡的ＢＧＭ</name>
+  <detail>以ＢＧＭ編輯對ＢＧＭ進行編輯</detail>
+ </trophy>
+ <trophy id="044" hidden="no" ttype="B" pid="000">
+  <name>表演動作名家</name>
+  <detail>總共使出５０次表演動作</detail>
+ </trophy>
+ <trophy id="045" hidden="no" ttype="B" pid="000">
+  <name>終極鬥士</name>
+  <detail>總共使出５０次超必殺技</detail>
+ </trophy>
+ <trophy id="046" hidden="no" ttype="B" pid="000">
+  <name>爆裂神</name>
+  <detail>總共發動５０次必勝爆發</detail>
+ </trophy>
+ <trophy id="047" hidden="no" ttype="B" pid="000">
+  <name>穩固的羈絆</name>
+  <detail>總共使出２０次交叉崩解</detail>
+ </trophy>
+ <trophy id="048" hidden="no" ttype="B" pid="000">
+  <name>防守之鬼</name>
+  <detail>總共使出２０次精準格擋</detail>
+ </trophy>
+ <trophy id="049" hidden="no" ttype="B" pid="000">
+  <name>熱愛支援！</name>
+  <detail>總共叫出１００次支援角色</detail>
+ </trophy>
+</trophyconf>

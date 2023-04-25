@@ -1,0 +1,72 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000002990e36f8d2a1bd1cb9321c7dcb06b31f84573930549007b9562cccfcf153e12e89a30bbfeac188ebb487266daa740236cc1a176012dc1b35d0ca580ed8526269ef661c9cc2b4efcbbee9a68e44d71a1ff961afabe0afbf10b702fde1580fed13b91ade8ddfa3fe7973ce3688d85d695a043376dfc1c5dfbe83be0b5094322dfcffe1f25d22662ceb47544bba6b2b5caee46da29-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR13476_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>ワガママハイスペック</title-name>
+ <title-detail>『ワガママハイスペック』トロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>コンプリート！</name>
+  <detail>『ワガママハイスペック』を全てプレイしていただき、ありがとうございました。</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>誰もが通る道</name>
+  <detail>訪れる悲劇、あなたにも心当たりが……？</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>なんだこの選択肢はぁ！</name>
+  <detail>せっかくだから、俺はこの選択肢を選ぶぜ！</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>ようこそ、桜翠学園生徒会へ！</name>
+  <detail>こうして、幸樹の慌ただしい日々が始まった</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="S" pid="000">
+  <name>生徒会役員の宮瀬未尋です</name>
+  <detail>やれば出来る子なんです</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="S" pid="000">
+  <name>生徒会役員の鳴海兎亜です</name>
+  <detail>どういう風の吹き回し？</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="G" pid="000">
+  <name>文化祭前夜</name>
+  <detail>ずっと言えなかった事</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="G" pid="000">
+  <name>あの子と回る文化祭</name>
+  <detail>誰と一緒に回ろうか？</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="G" pid="000">
+  <name>才色兼備の高嶺の花</name>
+  <detail>原作者として、生徒会役員として、会長と過ごす日々</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="G" pid="000">
+  <name>ワガママな僕のパートナー</name>
+  <detail>原作者として、恋人として、かおること過ごす日々</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="G" pid="000">
+  <name>僕の妹はこんな子です</name>
+  <detail>厳しそうで本当に厳しい妹</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="G" pid="000">
+  <name>僕の妹はこんな子でした</name>
+  <detail>厳しそうで厳しくない少し厳しい妹</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="G" pid="000">
+  <name>小悪魔テンプテーション</name>
+  <detail>未尋の本音やいかに？</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="G" pid="000">
+  <name>たった一人の「先輩」</name>
+  <detail>洋食「宮瀬」へようこそ</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="G" pid="000">
+  <name>つれないあの子は食いしん坊</name>
+  <detail>嫌われてはいない……はず……？</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="G" pid="000">
+  <name>遠い空の下で流れるメロディ</name>
+  <detail>いつか共に歩く未来に向かって、少しずつ</detail>
+ </trophy>
+</trophyconf>

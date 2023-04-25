@@ -1,0 +1,204 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000441c04ca1e0b30bf0f030667d33cf346c92365371fd457393b3233709af8bda057318fb0067c293a8402845839ec1a9e65c3136fa41f0204cc224553683f4d760bc783d7e908cb449b418c09a0c5fa64169a91d73860fd90a2df300c2ac6d78c1716df14823be131380c6f70c3aa967a7bcaf3152a5af9bf910c6e51ff66ce03d178f1016a276ffd98944a5ada703f7033c36816-->
+<trophyconf version="1.1" platform="ps3,psp2,ps4" policy="large">
+ <npcommid>NPWR12797_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Revenant Saga</title-name>
+ <title-detail>Trophy set for Revenant Saga</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Revenant Master</name>
+  <detail>Obtained all trophies.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Apprehension</name>
+  <detail>Finished the opening.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Quest for Revenge</name>
+  <detail>Joined up with Esther.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>To Each Their Own</name>
+  <detail>Gathered a party of four.</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>Hidden Truth</name>
+  <detail>Albert's secret is revealed to his friends.</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>Companions</name>
+  <detail>Esther rejoined the party.</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>New Powers</name>
+  <detail>All trials have been completed.</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>Normal End</name>
+  <detail>Achieved normal end.</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>True End</name>
+  <detail>Achieved true end.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>Super Helper</name>
+  <detail>Cleared all subquests.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>Revenant Hunter</name>
+  <detail>Exterminated 100 enemies.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>Crusader</name>
+  <detail>Exterminated 1500 enemies.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>Valkyrie</name>
+  <detail>Exterminated 3000 enemies.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>Novice</name>
+  <detail>Used 100 skills.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>Intermediate</name>
+  <detail>Used 1000 skills.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>Adept</name>
+  <detail>Used 2000 skills.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Chameleon</name>
+  <detail>Transformed 50 times.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Master of Disguise</name>
+  <detail>Transformed 100 times.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>Mighty Morpher</name>
+  <detail>Transformed 200 times.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Striker</name>
+  <detail>Dealt 10000 damage with a single blow.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>Defense Breaker</name>
+  <detail>Dealt 100000 damage with a single blow.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>Demon Slayer</name>
+  <detail>Dealt 999999 damage with a single blow.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>Harrassed</name>
+  <detail>Suffered 5000 damage from a single blow.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>Abused</name>
+  <detail>Suffered 20000 damage from a single blow.</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>Masochist</name>
+  <detail>Suffered 100000 damage from a single blow.</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>Scrapper</name>
+  <detail>Achieved 10 consecutive hits.</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>Bruiser</name>
+  <detail>Achieved 50 consecutive hits.</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="S" pid="000">
+  <name>Prizefighter</name>
+  <detail>Achieved 200 consecutive hits.</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>Indignant</name>
+  <detail>Achieved 5 consecutive overkills.</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>Unmerciful</name>
+  <detail>Achieved 15 consecutive overkills.</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="S" pid="000">
+  <name>Wrath Bringer</name>
+  <detail>Achieved 30 consecutive overkills.</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>Traveler</name>
+  <detail>Walked 10000 steps.</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>Explorer</name>
+  <detail>Walked 100000 steps.</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>Globetrotter</name>
+  <detail>Walked 250000 steps.</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>Spendthrift</name>
+  <detail>Spent 500000 gold.</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>Prodigal Son</name>
+  <detail>Spent 5000000 gold.</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>Business Tycoon</name>
+  <detail>Spent 20000000 gold.</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>Apprentice</name>
+  <detail>Weapon level upgraded to 10.</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>Blacksmith</name>
+  <detail>Weapon level upgraded to 100.</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="000">
+  <name>Master Forger</name>
+  <detail>Weapon level upgraded to 999.</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="B" pid="000">
+  <name>Greenhorn</name>
+  <detail>Collected 50 treasure chests.</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="B" pid="000">
+  <name>Treasure Hunter</name>
+  <detail>Collected 100 treasure chests.</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="S" pid="000">
+  <name>Treasure Master</name>
+  <detail>Collected all treasure chests.</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="B" pid="000">
+  <name>Vandal</name>
+  <detail>50000000 damage record in Kabillion Challenge.</detail>
+ </trophy>
+ <trophy id="044" hidden="no" ttype="S" pid="000">
+  <name>Destroyer</name>
+  <detail>100000000 damage record in Kabillion Challenge.</detail>
+ </trophy>
+ <trophy id="045" hidden="no" ttype="G" pid="000">
+  <name>Almighy's Hand</name>
+  <detail>300000000 damage record in Kabillion Challenge.</detail>
+ </trophy>
+ <trophy id="046" hidden="no" ttype="B" pid="000">
+  <name>Man of the Hour</name>
+  <detail>Reached level 30 in Monster Sparring EX.</detail>
+ </trophy>
+ <trophy id="047" hidden="no" ttype="S" pid="000">
+  <name>Man of the Year</name>
+  <detail>Reached level 100 in Monster Sparring EX.</detail>
+ </trophy>
+ <trophy id="048" hidden="no" ttype="G" pid="000">
+  <name>Man of the Century</name>
+  <detail>Reached level 200 in Monster Sparring EX.</detail>
+ </trophy>
+</trophyconf>

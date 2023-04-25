@@ -1,0 +1,180 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000009ab31ab5ea2b3b03ebcc8473105b33fac914a9f766f5c25757ad1c7c72d05494c8b2f8c3fe7e74b9e4b87db03b8d786aeb34a92a71aa564d6d024de63f9505f41e33983bc564dad309e9f38130fb708a9225dac87c6d9a1e26ab7bd07b66ca87fcb5b00382f9935f4f18fb163d96f1819c92dc04167907531d868e3d4c0cafe20badb0ab3d5839bf5c6b66ebfffb153970d6d46b-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR07779_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>結城友奈は勇者である 樹海の記憶</title-name>
+ <title-detail>結城友奈は勇者である 樹海の記憶 のトロフィーです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>ごちそうさまでした！</name>
+  <detail>全てのトロフィーを獲得した証</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>勇者部へようこそ</name>
+  <detail>チュートリアルを完了した</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>乙女型撃破</name>
+  <detail>乙女型バーテックスを撃破した</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>蟹型撃破</name>
+  <detail>蟹型バーテックスを撃破した</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>蠍型撃破</name>
+  <detail>蠍型バーテックスを撃破した</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>射手型撃破</name>
+  <detail>射手型バーテックスを撃破した</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>山羊型撃破</name>
+  <detail>山羊型バーテックスを撃破した</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>獅子型（悪夢）撃破</name>
+  <detail>獅子型バーテックスを撃破した</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>最高の勇者部活動</name>
+  <detail>リザルト評価Sを獲得した</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="G" pid="000">
+  <name>勇者部活動の達人</name>
+  <detail>全てのリザルト評価A以上を獲得した</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>思い出のひと幕</name>
+  <detail>複数のイラストを手に入れた</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>思い出のアルバム</name>
+  <detail>全てのイラストを手に入れた</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="B" pid="000">
+  <name>力の解放</name>
+  <detail>満開を初めて発動した</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>閃く連撃</name>
+  <detail>コンボ回数５０回を達成した</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>閃烈なる猛攻</name>
+  <detail>コンボ回数１００回を達成した</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>咲きほこる閃撃</name>
+  <detail>コンボ回数２００回を達成した</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>アクセサリー好き</name>
+  <detail>アクセサリーを5種類入手した</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>アクセサリー集め</name>
+  <detail>アクセサリーを10種類入手した</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="G" pid="000">
+  <name>アクセサリーの達人</name>
+  <detail>全アクセサリー入手した</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>ミッションルーキー</name>
+  <detail>ミッションを５回クリアした</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>ミッションオーナー</name>
+  <detail>ミッションを３０回クリアした</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>結城友奈は勇者である</name>
+  <detail>結城 友奈で全ステージクリアした</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="B" pid="000">
+  <name>成長期</name>
+  <detail>キャラクターレベルが２５になった</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="G" pid="000">
+  <name>一人前！</name>
+  <detail>キャラクターレベルが５０になった</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>駆け出しの勇者</name>
+  <detail>撃破数１００体を達成した</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>アマチュア勇者</name>
+  <detail>撃破数５００体を達成した</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="S" pid="000">
+  <name>伝説の勇者</name>
+  <detail>撃破数１０００体を達成した</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="B" pid="000">
+  <name>東郷美森は勇者である</name>
+  <detail>東郷 美森で全ステージクリアした</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="B" pid="000">
+  <name>犬吠埼風は勇者である</name>
+  <detail>犬吠埼 風で全ステージクリアした</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="B" pid="000">
+  <name>スピードスター</name>
+  <detail>激走ミッションで功績を認められた証</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="B" pid="000">
+  <name>コレクション</name>
+  <detail>収集ミッションで功績を認められた証</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="B" pid="000">
+  <name>ガーディアン</name>
+  <detail>堅守ミッションで功績を認められた証</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="B" pid="000">
+  <name>バーテックスハンター</name>
+  <detail>討伐ミッションで功績を認められた証</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="B" pid="000">
+  <name>ストライカー</name>
+  <detail>殲滅ミッションで功績を認められた証</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="B" pid="000">
+  <name>犬吠埼樹は勇者である</name>
+  <detail>犬吠埼 樹で全ステージクリアした</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>勇者部の新入生</name>
+  <detail>難易度【易しい】で全ステージクリアした</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>勇者部の部員</name>
+  <detail>難易度【普通】で全ステージクリアした</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="S" pid="000">
+  <name>勇者部の先輩</name>
+  <detail>難易度【難しい】で全ステージクリアした</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="S" pid="000">
+  <name>勇者部部長！</name>
+  <detail>難易度【超難しい】で全ステージクリアした</detail>
+ </trophy>
+ <trophy id="039" hidden="yes" ttype="B" pid="000">
+  <name>三好夏凜は勇者である</name>
+  <detail>三好 夏凜で全ステージクリアした</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="B" pid="000">
+  <name>わたしたちの日常</name>
+  <detail>複数のイベントを手に入れた</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="G" pid="000">
+  <name>樹海の記憶</name>
+  <detail>全てのイベントを手に入れた</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="S" pid="000">
+  <name>精霊の加護</name>
+  <detail>ジャストガード発動回数１００回を達成した</detail>
+ </trophy>
+</trophyconf>

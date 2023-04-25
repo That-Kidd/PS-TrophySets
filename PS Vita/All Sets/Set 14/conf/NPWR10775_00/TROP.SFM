@@ -1,0 +1,44 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000004732c7c31b7ba12280ff8fdb58e9aa9d654c58777b9651c3987e3a82dd02eb3dc92c5bce33519e0ee3f27e0ec47c59db5451e65b1ef57214308219743ccf85957bc5cfc713770059384fa1a8f997cfbbdfda24eee4dfe4990100762a6f7607894f7a9f21af9d35aa7ec7a4aa3a2d34b8c334bb44099f1bf24cadfe8ee9c4cadb16676ff29efa5fa2d1c12e058ada7250a69c30dc-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR10775_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Green Game</title-name>
+ <title-detail>Green Game: TimeSwapper</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Dead already?</name>
+  <detail>Die for the first time</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Persistance is a virtue</name>
+  <detail>Die 25 times on one level</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="-1">
+  <name>A Millenium of pain</name>
+  <detail>Die 1000 times in total</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Apprentice Engineer</name>
+  <detail>Collect 3 gears on 5 levels</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="-1">
+  <name>Journeyman Engineer</name>
+  <detail>Collect three gears on 25 levels</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="-1">
+  <name>Grandmaster Engineer</name>
+  <detail>Collect three gears on all of the levels</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="-1">
+  <name>Quantum Physics Adept</name>
+  <detail>Flawlessly complete 25 levels</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="-1">
+  <name>Einstein's descendant</name>
+  <detail>Flawlessly complete all of the levels</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="-1">
+  <name>Right on schedule</name>
+  <detail>Complete all of the levels</detail>
+ </trophy>
+</trophyconf>

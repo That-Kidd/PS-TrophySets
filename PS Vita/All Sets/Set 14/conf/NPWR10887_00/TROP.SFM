@@ -1,0 +1,164 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000c1faea99db00e94b1d92ac2f2eee7b3994472cfa5d0de9af3f0f4fc3c7c4020a01f46b1214fdbb2f3b93f56b7c2711ca322e2f89896edc7fce8e4b3682e4bd6d34861a92edf16240a3db2818b426b52cd9b40a4530056bbfc5db0d9f6483a1291246b781736b79b6a25fd863f1b35e258d35ad1c853ad6052186898950248054cf74e27e306f198b84cf9dbe4d464b90dbff675e-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR10887_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>限界凸旗 セブンパイレーツ</title-name>
+ <title-detail>限界凸旗 セブンパイレーツ</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>モンスピ海の海賊王</name>
+  <detail>限界凸旗 セブンパイレーツを遊び尽くした。</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>１つ目の秘宝</name>
+  <detail>１つ目の秘宝を見つけた。</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>２つ目の秘宝</name>
+  <detail>２つ目の秘宝を見つけた。</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>３つ目の秘宝</name>
+  <detail>３つ目の秘宝を見つけた。</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>４つ目の秘宝</name>
+  <detail>４つ目の秘宝を見つけた。</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>５つ目の秘宝</name>
+  <detail>５つ目の秘宝を見つけた。</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>６つ目の秘宝</name>
+  <detail>６つ目の秘宝を見つけた。</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>７つ目の秘宝</name>
+  <detail>７つ目の秘宝を見つけた。</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>宝探しは終わらない</name>
+  <detail>ノーマルエンドを見た。</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="G" pid="000">
+  <name>新たなる冒険へ</name>
+  <detail>トゥルーエンドを見た。</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="000">
+  <name>友達の証</name>
+  <detail>ワッフルが探していた宝を見つけた。</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>借金？完済</name>
+  <detail>ジュエルがパイ族印のアイテムをすべて買った。</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="B" pid="000">
+  <name>白い旅人</name>
+  <detail>クラレットが白いパイ族を助けた。</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="000">
+  <name>スゥッベェッスゥッベェなお肌</name>
+  <detail>サキュラが魔香の実を見つけた。</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="B" pid="000">
+  <name>最高の景色</name>
+  <detail>ポロンが外景色に興味を持った。</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>竜は猫を千尋の谷へ突き落す</name>
+  <detail>リンドがネコを一人前の船長に育てた。</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>アタシ達の海賊旗</name>
+  <detail>パルテ達が旗を作った。</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="G" pid="000">
+  <name>永遠のライバル</name>
+  <detail>強くなった四天王との戦いに勝利した。</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>ヘンテコなモンスターに出会った日</name>
+  <detail>初めて戦闘をした。</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>これで一人前の海賊よ</name>
+  <detail>戦闘を１００回した。</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>もう負ける気がしない</name>
+  <detail>戦闘を５００回した。</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>む、胸が熱い……</name>
+  <detail>初めてパイ育をした。</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>胸の疼きが止まらない</name>
+  <detail>パイ育を１００回した。</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>手が勝手に動くの</name>
+  <detail>パイ育を５００回した。</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>胸で割る必要あるの？</name>
+  <detail>初めてタマゴを割った。</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="S" pid="000">
+  <name>タマゴは胸で割るもの</name>
+  <detail>タマゴを３１４個割った。</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>超ラッキーってやつ？</name>
+  <detail>タマゴを割って超激レアを出した。</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>パイ～♪</name>
+  <detail>初めてパイ族をスカウトした。</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="S" pid="000">
+  <name>パイッパイ～♪</name>
+  <detail>パイ族を５０人スカウトした。</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>モンスピ海ふしぎ発見！</name>
+  <detail>初めて発見物を見つけた。</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>ミステリーハンター</name>
+  <detail>発見物を１０個見つけた。</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="G" pid="000">
+  <name>パーフェクト！</name>
+  <detail>すべての発見物を見つけた。</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="S" pid="000">
+  <name>アタシにはモンスピ海は狭すぎたようね</name>
+  <detail>すべての海図を手に入れた。</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>まだまだイケるんだじぇ！</name>
+  <detail>オットン砲を１０発放った。</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="S" pid="000">
+  <name>趣味はブラ集めなの</name>
+  <detail>ブラを２０種類作製した。</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="S" pid="000">
+  <name>パンツには妥協しない主義なの</name>
+  <detail>パンツを２０種類作製した。</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>秘宝探しのついでよ、ついで</name>
+  <detail>パイ族の依頼を３０個達成した。</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>そこに凸があるから</name>
+  <detail>パイ育以外で胸を１０００回タッチした。</detail>
+ </trophy>
+ <trophy id="038" hidden="yes" ttype="G" pid="000">
+  <name>この海にアタシの敵はいない！</name>
+  <detail>海にいるヘンテコモンスターをすべて倒した。</detail>
+ </trophy>
+</trophyconf>

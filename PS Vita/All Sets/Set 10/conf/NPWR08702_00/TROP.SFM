@@ -1,0 +1,64 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000b0c4926ec14a9770b45cc7e70ab81abc02a9d93a8fd08deeda49095a5774241e9f6e8668875d9b37f22366dacfac8b966f16786ce7183489324892f9cc1f348f17ba36a0555dae6bbcbc43916472181b571fa6d4c8f9092f3422ed49826c06decc995ed23dbf764e8632a974ec1514260e4706c4614ed4f43670e44aa402701f3e004e1c41e5516b0ba83e8352a6b3fc07394105-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR08702_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>絶対迷宮 秘密のおやゆび姫</title-name>
+ <title-detail>「絶対迷宮 秘密のおやゆび姫」の思い出をつづるトロフィーセットです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>あたらしい希望の種</name>
+  <detail>この世界を包む愛は、いつもあなたの胸の中に……</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>二人の旅立ち</name>
+  <detail>生まれ育った村を、二人は旅立ったのです……&#x0a;</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="G" pid="000">
+  <name>『マッチ売り』の絵本</name>
+  <detail>試練を乗り越えたマッチ売りの瞳には、本当に大切な未来が見えたのでした。</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="G" pid="000">
+  <name>旅人のオカリナ</name>
+  <detail>長い時を生きるリューンと共に、蛍たちに囲まれ幻想的な夜を過ごしました。</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="G" pid="000">
+  <name>『氷姫』の絵本</name>
+  <detail>一途な氷姫と、氷のお家でいつまでも楽しいお茶の時間を……！</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="G" pid="000">
+  <name>『人魚姫』の絵本</name>
+  <detail>憧れは永遠に……人魚姫と一緒に、新たな冒険の海原へ旅立ちました。</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="G" pid="000">
+  <name>『みにくいアヒルの子』の絵本</name>
+  <detail>みにくいアヒルの子・白鳥のナイトと、未来へと羽ばたいた思い出の証。</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="G" pid="000">
+  <name>希望の花</name>
+  <detail>花の王子が全てを懸けて、あなたと見つけた運命の証。</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="G" pid="000">
+  <name>白亜の剣グラム</name>
+  <detail>竜騎士シリウスが誓った、あなたと共に明日を歩んでいく証。</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="G" pid="000">
+  <name>ツバメの羽根</name>
+  <detail>ツバメの騎士と旅立った妖精の丘で、新たな希望を紡ぐための誓い。</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="G" pid="000">
+  <name>黄金の剣レーヴァテイン</name>
+  <detail>黒騎士とあなたは手をとって歩き出す。贖罪と信頼の誓い。</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="G" pid="000">
+  <name>『裸の王様』の絵本</name>
+  <detail>裸の王様 が、悩み苦しみ、最後にあなたに伝えてくれた想い。</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>ＣＧ５０％</name>
+  <detail>ＣＧ回収率、５０％達成しました！</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="000">
+  <name>ＣＧフルコンプ</name>
+  <detail>ＣＧを全て回収しました！</detail>
+ </trophy>
+</trophyconf>

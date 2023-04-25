@@ -1,0 +1,44 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000005aa3e0fcd44fcff9090143c5b53d2395881148d06c398e20a113aca384f7df8d3d6eff4df524619247838a5b36d100381a42f9df4f6b37a7f90bd175ea661e8acb7bb11a558b733ca93de5b974bdf3812a62f8574288f28786e6e4262a37760e6bb708fd284cefd27cc98af62235220ba05c910c8b45e5e76b64a435941c9e9e43a25c16cc18584fcae3477f60f99e4f26a424f8-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR06901_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>銀星囲碁 ネクストジェネレーション</title-name>
+ <title-detail>「銀星囲碁 ネクストジェネレーション」のトロフィーです。</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>初段認定</name>
+  <detail>通常対局の１９路盤・互先以上の設定か、レーティング対局で、初段以上のコンピュータに勝利する。&#x0a;ヒント・まった、又は対局再開を行った場合は無効。</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>天元</name>
+  <detail>通常対局の１９路盤・互先・コミ６目半の設定か、レーティング対局、ペア対局で、４級以上のコンピュータ相手に、初手に天元を打って勝利する。黒白どちらでもOK。&#x0a;ヒント・まった、又は対局再開を行った場合は無効。</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="-1">
+  <name>井目</name>
+  <detail>通常対局の１９路盤・手合割９子・下手コンピュータの設定で、４級以上のコンピュータ相手に勝利する。&#x0a;ヒント・まった、又は対局再開を行った場合は無効。</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>昇格</name>
+  <detail>レーティング対局で棋力がアップしたら獲得。</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="-1">
+  <name>二段昇格</name>
+  <detail>レーティング対局で棋力を二段にアップする。</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>チャレンジレベル１突破</name>
+  <detail>チャレンジ対局でレベル１に勝利する。</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="-1">
+  <name>チャレンジ制覇</name>
+  <detail>チャレンジ対局でレベル１０に勝利する。</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>相棒昇格</name>
+  <detail>ペア対局でパートナーの棋力を９級以上にする。</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="-1">
+  <name>相棒二段</name>
+  <detail>ペア対局でパートナーの棋力を二段にする。</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,176 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000c0366f14167bb11a2e3dac74b846cdf5ac89373158cb8b335170a64060288e233862287cb1a81a2ab755081bee9e32e37a4e711ab9098ccedd03a9d586b59760813532b874e042c1829bf997d72eb65581457cbe09cc87d84fb90bea7c06a6c0a1787dfa5227d8d264aaed8bf8df258fe7746b44979c334adc8fea385023909d14196ef788fb450a6411aa454b3c01f4072c6ed4-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR11539_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>マクロスΔスクランブル</title-name>
+ <title-detail>マクロスΔスクランブルのトロフィーセットです&#x0a;</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>デルタスクランブル</name>
+  <detail>全てのトロフィーを入手した</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Welcome to Walküre World</name>
+  <detail>はじめてミッションをクリアした</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="S" pid="000">
+  <name>激情 ダイビング</name>
+  <detail>ケイオスのラストミッション「激情 ダイビング」をクリアした</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="S" pid="000">
+  <name>決戦 ラグナロク</name>
+  <detail>ウィンダミアのラストミッション「決戦 ラグナロク」をクリアした</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>制覇</name>
+  <detail>チュートリアルを除く全92個のミッションをクリアした</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>完全制覇</name>
+  <detail>チュートリアルを除く全92個のミッションをSランク以上でクリアした</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>GYUN! GYUN! GYUN!</name>
+  <detail>いずれかのキャラクターのレベルが50を突破した</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>スーパーノヴァティック</name>
+  <detail>いずれかのキャラクターのレベルが100に到達した</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>レッツクリック！</name>
+  <detail>累計獲得クレジット1000000を突破した</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>ダイスキでダイキライ</name>
+  <detail>いずれかのキャラクターの親密度Lv3を達成した</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>いけないボーダーライン</name>
+  <detail>キャラ親密度Lv3のキャラクター数が10人を超えた</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>難易度G</name>
+  <detail>フルデチューンした機体でミッションをクリアした&#x0a;(※チュートリアルミッションを除く）</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>ドリームユニット</name>
+  <detail>サポートユニットメンバーの各枠を別々の時代のキャラで編成し、ランクS以上でミッションクリアした&#x0a;(※チュートリアルミッションを除く）</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>漢の支援</name>
+  <detail>サポートユニットメンバーを全て男性で編成し、ランクS以上でミッションクリアした&#x0a;(※チュートリアルミッションを除く）</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>二人のランデブー</name>
+  <detail>自機とサポートユニットのエースのみで出撃し、ランクS以上でミッションクリアした&#x0a;(※チュートリアルミッションを除く）</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>フルチューン解禁</name>
+  <detail>いずれかの機体の、「チューン限界解除」をショップで購入した&#x0a;（※DLCで配信された機体は除く）</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>新装備</name>
+  <detail>機体を初めて編入した&#x0a;（※DLCで配信された機体は除く）</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>新メンバー</name>
+  <detail>キャラクターを初めて編入した</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>よりどりみどり！</name>
+  <detail>全ての機体を獲得した&#x0a;（※DLCで配信された機体は除く）</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="G" pid="000">
+  <name>ん～、きゃわっ♪</name>
+  <detail>全ての機体の「チューン限界解除」を購入した&#x0a;（※DLCで配信された機体は除く）</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="G" pid="000">
+  <name>果敢なきツバサ</name>
+  <detail>全てのキャラクターを編入した</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>特別チューン</name>
+  <detail>はじめて機体をチューンした</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>フルチューン</name>
+  <detail>はじめて機体をフルチューンした</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>歌は元気！</name>
+  <detail>サポートスキルを50回使用した&#x0a;(※チュートリアルミッションでの使用を除く）</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>聞かせてあげる、女神の歌を！</name>
+  <detail>サポートスキルを200回使用した&#x0a;(※チュートリアルミッションでの使用を除く）</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>ゴリゴリアタック！</name>
+  <detail>SPアタックを50回使用した&#x0a;(※チュートリアルミッションでの使用を除く）</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="S" pid="000">
+  <name>ワルキューレアタック！</name>
+  <detail>SPアタックを200回使用した&#x0a;(※チュートリアルミッションでの使用を除く）</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>ミサイルサーカス</name>
+  <detail>ミサイル系兵装発射数10000発を突破した&#x0a;(※チュートリアルミッションでの使用を除く）</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="S" pid="000">
+  <name>ミサイルボンバー！</name>
+  <detail>ミサイル系兵装発射数30000発を突破した&#x0a;(※チュートリアルミッションでの使用を除く）</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>甘いわ！</name>
+  <detail>アンチミサイルアクションによるミサイル撃墜数が500発を突破した&#x0a;(※チュートリアルミッションでの使用を除く）</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>ヴァリアブル・ファイター</name>
+  <detail>1000回変形した&#x0a;(※チュートリアルミッションでの使用を除く）</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>トップエース</name>
+  <detail>敵を1000機撃墜した&#x0a;(※チュートリアルミッションでの撃墜数を除く）</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="S" pid="000">
+  <name>ロイ・フォッカー勲章</name>
+  <detail>敵を3000機撃墜した&#x0a;(※チュートリアルミッションでの撃墜数を除く）</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>対艦戦闘</name>
+  <detail>戦艦の砲台を全て破壊してから撃沈した</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>ゼントラーディの血族</name>
+  <detail>敵300機に対して、格闘攻撃でトドメを刺した&#x0a;(※チュートリアルミッションでの撃墜数を除く）</detail>
+ </trophy>
+ <trophy id="035" hidden="yes" ttype="B" pid="000">
+  <name>スカル2</name>
+  <detail>工藤シンを撃墜した</detail>
+ </trophy>
+ <trophy id="036" hidden="yes" ttype="B" pid="000">
+  <name>スカルリーダー</name>
+  <detail>一条輝を撃墜した</detail>
+ </trophy>
+ <trophy id="037" hidden="yes" ttype="B" pid="000">
+  <name>アルファ1</name>
+  <detail>イサム・ダイソンを撃墜した</detail>
+ </trophy>
+ <trophy id="038" hidden="yes" ttype="B" pid="000">
+  <name>オメガ1</name>
+  <detail>ガルド・ゴア・ボーマンを撃墜した</detail>
+ </trophy>
+ <trophy id="039" hidden="yes" ttype="B" pid="000">
+  <name>サジタリウス1</name>
+  <detail>早乙女アルトを撃墜した</detail>
+ </trophy>
+ <trophy id="040" hidden="yes" ttype="B" pid="000">
+  <name>ファイアーバルキリー</name>
+  <detail>熱気バサラを撃墜した</detail>
+ </trophy>
+ <trophy id="041" hidden="yes" ttype="B" pid="000">
+  <name>ジークフリード1</name>
+  <detail>リオン・榊を撃墜した</detail>
+ </trophy>
+</trophyconf>

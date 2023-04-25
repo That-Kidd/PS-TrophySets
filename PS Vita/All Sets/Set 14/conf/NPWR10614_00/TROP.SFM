@@ -1,0 +1,60 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000043454e377e0548aa0c43dd1ba7c4cdf2c456cf727b88f5e62f9c636e2407d11809a72eb439f9dba7747464bdf78c446229738a3fc6e8aa6f30a1304c99d6eb3070742dc3d3a30d2c25e14b7365912b0b2962fe4549df59db67ed0bbe5b5d360a91b724170679cb8c0ce98fd8875f3488f48350ed90c0a2e99651a2f8e8a85acac1f2fc3db9cae81d03a6fe3a81147050b670cbeb-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR10614_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Mr.Pumpkin Adventure</title-name>
+ <title-detail>Mr.Pumpkin Adventure</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Jumper</name>
+  <detail>Clear the mini-game for the first time.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Clear Mind</name>
+  <detail>Clear the first chapter, "Wake up".</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Escaper</name>
+  <detail>Clear the second chapter, "Escaping".</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Mechanist</name>
+  <detail>Clear the third chapter, "Four cubes".</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>The Best Audience</name>
+  <detail>Clear the fourth chapter, "The theater".</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Good Driver</name>
+  <detail>Clear the fifth chapter, "The metro".</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Dream Interpreter</name>
+  <detail>Clear the sixth chapter, "The end of the world".</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Another Clear Mind</name>
+  <detail>Clear the seventh chapter, "The lab".</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Collector</name>
+  <detail>Collect all of the diary pieces.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="-1">
+  <name>Astronaut</name>
+  <detail>Arrive to the end of the seventh chapter, "The lab".</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="-1">
+  <name>Traveler</name>
+  <detail>Arrive to the end of the eighth chapter, "My way".</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="-1">
+  <name>Pilot</name>
+  <detail>Arrive to the end of the sixth chapter, "The end of the world".</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="-1">
+  <name>Domination</name>
+  <detail>Experienced all 3 endings of the game, plus win at the mini-game at least 5 times and fail at least 10 times.</detail>
+ </trophy>
+</trophyconf>

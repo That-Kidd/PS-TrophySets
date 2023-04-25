@@ -1,0 +1,64 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000005d620952915faaaa9c94438c4b1aa8290be2f19ebe267b665701517bc55271f4109698d30dcda77dd9ad029733c2ef0de5b29f50de004f5f8b2d05cc20a65710f9e35188bdd43f23a4cd4c019170716061f4167b9fe88954a9aa1c65b95d1efc8af17b3430a50f7f30017014cac95fc6d78af59a88b764735b6b221054f7dc184efe64d655f5d46e6c7932080b38895ebb7f9528-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR15713_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>FullBlast</title-name>
+ <title-detail>FullBlast</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Platinum Ship</name>
+  <detail>Get all the trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>Starting</name>
+  <detail>Complete Area 1</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>Getting Better</name>
+  <detail>Complete Area 2</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>This is it, right?</name>
+  <detail>Complete Area 3</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>This wasn't easy</name>
+  <detail>Kill an Area Boss</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>Shouldn't it be on the sea?</name>
+  <detail>Kill a Manta</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>I think this one is old</name>
+  <detail>Kill 100 Scorpions</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>Annoying as always</name>
+  <detail>Kill 50 Mosquitos</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>They were cute</name>
+  <detail>Kill 25 Butterflies</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>But not cute enough</name>
+  <detail>Kill 50 Butterflies</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>I hope this is it</name>
+  <detail>Kill 25 Spiders</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>There were more...</name>
+  <detail>Kill 50 Spiders</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>Nuclear Explosion</name>
+  <detail>Use a Bomb Attack</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>Powerful</name>
+  <detail>Obtain a power-up</detail>
+ </trophy>
+</trophyconf>

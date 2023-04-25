@@ -1,0 +1,116 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000aadebf8efaed3ac9bdb08ef470e49501fd86ade23882f7bc805b750cb3cb6b5853a1d261624bc20d9a25dd84d2adc8cc3126338473f2cc3462ae710c2d6257b3d0b9a1b8c453726e0f2a860f1e16584cd0233edcc629694ddcc97ece52cede922ad7135bf9a5bc83bef600f62c3d5ff9e6bd540876e1c882cf6067d1cc6c111183fd600d9e0771a24703dd5608f4662215b7f0f8-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR15446_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Hacky Zack</title-name>
+ <title-detail>Hacky Zack</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Master Dribbler</name>
+  <detail>100% the game.&#x0a;</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>World 1 Squashed</name>
+  <detail>Complete all levels in World 1</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>World 2 Crushed</name>
+  <detail>Complete all levels in World 2.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>World 3 Squeezed</name>
+  <detail>Complete all levels in World 3.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>World 4 Trampled</name>
+  <detail>Complete all levels in World 4.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>World 5 Mashed</name>
+  <detail>Complete all levels in World 5.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>World 6 Pounded</name>
+  <detail>Complete all levels in World 6.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>Isolation</name>
+  <detail>Collect all stickers in W1.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>Denial</name>
+  <detail>Collect all stickers in W2.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>Self-Destruction</name>
+  <detail>Collect all stickers in W3.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>Expectations</name>
+  <detail>Collect all stickers in W4.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>Manipulation</name>
+  <detail>Collect all stickers in W5.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>Acceptance</name>
+  <detail>Collect all stickers in W6.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>Bullseye</name>
+  <detail>Clear all of W1 target levels.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>Your Princess is in Another Castle</name>
+  <detail>Clear all of W2 target levels.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>Crystal Breaker</name>
+  <detail>Clear all of W3 Target Levels.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>Golden Rings</name>
+  <detail>Clear all of W4 target levels.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>Target Practice</name>
+  <detail>Clear all of W5 target levels.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="G" pid="000">
+  <name>Get On My Level</name>
+  <detail>Clear all of W6 target levels.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="G" pid="000">
+  <name>Gotta Go Fast!</name>
+  <detail>Beat all Target level Normal times.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="G" pid="000">
+  <name>Gotta Go Faster!</name>
+  <detail>Beat all Target level Dev times.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>Sword Bearer</name>
+  <detail>Unlock Frog as a Playable Character.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>Fox Man</name>
+  <detail>Unlock Fell as a Playable Character.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>Space Witch</name>
+  <detail>Unlock Fara as a Playable Character.</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>Evil Twin</name>
+  <detail>Unlock Shadow as a Playable Character.</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="G" pid="000">
+  <name>Best Friend</name>
+  <detail>Unlock Kelly as a Playable Character.</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="G" pid="000">
+  <name>Cute Alien</name>
+  <detail>Unlock Leroy as a Playable Character.</detail>
+ </trophy>
+</trophyconf>

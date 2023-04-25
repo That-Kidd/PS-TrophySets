@@ -1,0 +1,124 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000862e907e56b4a2847ad2a5ce631226654635555e9a6e4d91b95cc4e2645724dd8c406a60034d041c6db51fb95f4b44a46eec1427233855a52d3c5e72137836caf9948e55f4165b1de92ae27b5523deca89ba55814de114df5d85843d3defb2e8e39a84ba08ade4b0d5669052f9e552d34b62b58493cf834110674cea897117b63a516d82e90f1dcb884ca2bfcc352b2826455597-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR12766_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Windjammers</title-name>
+ <title-detail>Windjammers</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Kingjammers</name>
+  <detail>Obtain all trophies.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Dayum!</name>
+  <detail>Score 50 goals with a Super Custom move.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>No mercy</name>
+  <detail>Score 25 goals with your first shot in a rally.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>No pasarán</name>
+  <detail>Block/Throw back 50 Super Custom moves.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>It must have hurt</name>
+  <detail>Score 50 goals throwing back the opponent to his own goal.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>Just a beginning</name>
+  <detail>Win a ranked match.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>I'm starting to like this!</name>
+  <detail>Win 10 ranked matches.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>That's too easy!</name>
+  <detail>Complete Arcade mode in Easy difficulty (excluding infinite mode).</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>I know Windjam'</name>
+  <detail>Prove it : Score a goal with the Super Custom move of each character.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>The sky is the limit</name>
+  <detail>Score 50 times with a lob (special or not).</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>Put a spin in it</name>
+  <detail>Score 50 times with a Super Spin move.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>Running gag</name>
+  <detail>Slide 1000 times.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>Toss it like it's hot</name>
+  <detail>Toss the disc 50 times.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>Lore Master</name>
+  <detail>Complete the Arcade Mode with all characters (excluding infinite mode).</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>Easy peasy lemon squeezy</name>
+  <detail>Complete Arcade mode in Medium difficulty (excluding infinite mode).</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>Undefeated</name>
+  <detail>Win 5 ranked matches in a row. </detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>Hail to the king, baby</name>
+  <detail>Win 50 ranked matches.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>Unbelievable!</name>
+  <detail>Score 100 goals with a Super Custom move.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>You shall not score!</name>
+  <detail>Block/Throw back 100 Super Custom moves.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="000">
+  <name>It came in like a wrecking ball</name>
+  <detail>Score 100 goals throwing back the opponent to his own goal.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>The sun is the limit</name>
+  <detail>Score 100 times with a lob.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>Spin to win</name>
+  <detail>Score 100 times with a Super Spin move.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>Marathonian</name>
+  <detail>Slide 10000 times.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>Gotta toss them all!</name>
+  <detail>Toss the disc 151 times.</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="G" pid="000">
+  <name>Aimbot</name>
+  <detail>Win a match scoring only 5 points goals.</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="G" pid="000">
+  <name>That escalated quickly</name>
+  <detail>Achieve 5 consecutive Super Shots in total (you and your opponent).</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="G" pid="000">
+  <name>This... is... Sparta!</name>
+  <detail>Win 100 ranked matches.</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="G" pid="000">
+  <name>Damn, I'm good!</name>
+  <detail>Win 10 ranked matches in a row. </detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="G" pid="000">
+  <name>That's a lot of coins...</name>
+  <detail>Complete Arcade mode in Hard difficulty (excluding infinite mode).</detail>
+ </trophy>
+</trophyconf>

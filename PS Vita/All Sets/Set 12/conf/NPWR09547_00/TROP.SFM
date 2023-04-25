@@ -1,0 +1,112 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000421fdb3b8969c251cceada54c1b3a1b290f9ba6d7db066e8546f7a473a787ac0cfeb3e6b1768b69594d862b49095e25efdcd608576f59bcb832222b60c63a34ee0760cc989708980cbe9dda22d41bcc5578e7907c22f6122d618c48a3ffa38dc114b672a2d749465ec8c5da126d76a1fcbd50c148991538eb6c8ae836110b75fff0d952a880354bb0d260f0109ff2072638965ba-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR09547_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Melty Moment</title-name>
+ <title-detail>Melty Moment のトロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>オールクリア</name>
+  <detail>全てのトロフィーを獲得しました</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="000">
+  <name>ゲームクリア</name>
+  <detail>初めてゲームをクリアしました</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>夕花エンドクリア</name>
+  <detail>夕花ルートをクリアしました</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>すみれエンドクリア</name>
+  <detail>すみれルートをクリアしました</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>葵エンドクリア</name>
+  <detail>葵ルートをクリアしました</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>菜月エンドクリア</name>
+  <detail>菜月ルートをクリアしました</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>操エンドクリア</name>
+  <detail>操ルートをクリアしました</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>千恵美エンドクリア</name>
+  <detail>千恵美ルートをクリアしました</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>由愛エンドクリア</name>
+  <detail>由愛ルートをクリアしました</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>鏡水エンドクリア</name>
+  <detail>鏡水ルートをクリアしました</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="000">
+  <name>BADエンドクリア</name>
+  <detail>BADエンドをクリアしました</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>夕花CGコンプリート</name>
+  <detail>夕花のCGを全てオープンしました</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>すみれCGコンプリート</name>
+  <detail>すみれのCGを全てオープンしました</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>葵CGコンプリート</name>
+  <detail>葵のCGを全てオープンしました</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>菜月CGコンプリート</name>
+  <detail>菜月のCGを全てオープンしました</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="S" pid="000">
+  <name>操CGコンプリート</name>
+  <detail>操のCGを全てオープンしました</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>etcCGコンプリート</name>
+  <detail>etcのCGを全てオープンしました</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="S" pid="000">
+  <name>夕花MAPイベントコンプリート</name>
+  <detail>夕花のMAPイベントを全て通過しました</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="S" pid="000">
+  <name>すみれMAPイベントコンプリート</name>
+  <detail>すみれのMAPイベントを全て通過しました</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="S" pid="000">
+  <name>葵MAPイベントコンプリート</name>
+  <detail>葵のMAPイベントを全て通過しました</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="S" pid="000">
+  <name>菜月MAPイベントコンプリート</name>
+  <detail>菜月のMAPイベントを全て通過しました</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="S" pid="000">
+  <name>操MAPイベントコンプリート</name>
+  <detail>操のMAPイベントを全て通過しました</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="B" pid="000">
+  <name>千恵美MAPイベントコンプリート</name>
+  <detail>千恵美のMAPイベントを全て通過しました</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>由愛MAPイベントコンプリート</name>
+  <detail>由愛のMAPイベントを全て通過しました</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="000">
+  <name>鏡水MAPイベントコンプリート</name>
+  <detail>鏡水のMAPイベントを全て通過しました</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="B" pid="000">
+  <name>その他MAPイベントコンプリート</name>
+  <detail>その他のMAPイベントを全て通過しました</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,128 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000815650ecc9233b6be879ace6d026b108f64d56f761f392f26c28e4292fbebc0f8168971c2a16e9851d695682c9d48b03fe5e5ff6a58bccdb293b6cf1400cb94faa79bde2fb8440c3461659c9b444b70810a56eb68afe26ed2066fc732aff6def9dd9810089267bce0f3391e095a06ebf93753611cc2e71bbf0c72a1ce25139198a2d9066b0022f280f331fa420f6f2364ba93c5d-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR17121_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Sephirothic Stories</title-name>
+ <title-detail>Trophy set for Sephirothic Stories</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>World Tree Story</name>
+  <detail>Obtain all the trophies.</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>A Start of Conflict</name>
+  <detail>Watched the opening.</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>A Small Determination</name>
+  <detail>Went looking for Magus.</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>Trust Yourself</name>
+  <detail>Fairy joined the party.</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>Sister's Recovery</name>
+  <detail>Marnie grew up.</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>All Together</name>
+  <detail>Rachel and Tabitha joined the party.</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="000">
+  <name>Transcend the Evil</name>
+  <detail>Defeated the evil Magus.</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>Deep Inside the Tree</name>
+  <detail>Earned the Normal End.</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="G" pid="000">
+  <name>Welcome Back</name>
+  <detail>Earned the True End.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>Beginner Traveler</name>
+  <detail>Walked 5,000 steps.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>Amateur Traveler</name>
+  <detail>Walked 25,000 steps.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>Adventure Master</name>
+  <detail>Walked 50,000 steps.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>Chaser</name>
+  <detail>Defeated 100 enemies.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>Hunter</name>
+  <detail>Defeated 600 enemies.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="000">
+  <name>Exterminator</name>
+  <detail>Defeated 1,200 enemies.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>Better Together</name>
+  <detail>Created fusion 10 times.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Good Pair</name>
+  <detail>Created fusion 20 times.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>Perfect Synchronization</name>
+  <detail>Created fusion 30 times.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>Little and Often</name>
+  <detail>Achieved 15 consecutive hits.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="000">
+  <name>No One Can Stop</name>
+  <detail>Achieved 30 consecutive hits.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="G" pid="000">
+  <name>Hit Hero</name>
+  <detail>Achieved 50 consecutive hits.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>Weapon Collector</name>
+  <detail>Synthesized a weapon to level 11.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>Weapon Trainer</name>
+  <detail>Synthesized a weapon to level 25.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="G" pid="000">
+  <name>Weapon Meister</name>
+  <detail>Synthesized a weapon to level 50.</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>Agent</name>
+  <detail>Cleared 5 subquests.</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="S" pid="000">
+  <name>Sponsor</name>
+  <detail>Cleared 10 subquests.</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="G" pid="000">
+  <name>A Heart of Gold</name>
+  <detail>Cleared 20 subquests.</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>Treasure Lover</name>
+  <detail>Collected 45 treasure chests.</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="S" pid="000">
+  <name>Treasure Appraiser</name>
+  <detail>Collected 80 treasure chests.</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="G" pid="000">
+  <name>Treasure Professor</name>
+  <detail>Collected 110 treasure chests.</detail>
+ </trophy>
+</trophyconf>

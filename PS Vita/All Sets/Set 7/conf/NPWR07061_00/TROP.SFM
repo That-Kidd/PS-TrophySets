@@ -1,0 +1,184 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000c44d1dadb2b52dc169755b45e944ac27cbb46037819df898d4bbcdc873f044e0abee73ec29a7442596b703230f12cbff50c1ee4bb932c7116c7ee17d490f37b2e91ea5ba72462a3dd534e88a695be5ff64488d5a2d099d7ae23c73707d571a9e34d1eaeead8aeff0df01c356a8ad38c623c1864c9c0c865e1a67d57780fe2331a5a2ab37beade01dc8c9f255f7ec4a8cafa80723-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR07061_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>自由戰爭™</title-name>
+ <title-detail>自由戰爭™的獎盃組</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>歡迎來到幸福的牢國都市帕諾普堤岡</name>
+  <detail>獲得所有獎盃。</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>邁向自由的第一步</name>
+  <detail>第一次進行解放權利申請。</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>取得第2情報位階權限</name>
+  <detail>通過第2情報位階權限取得考試，取得第2情報位階權限。</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>取得第3情報位階權限</name>
+  <detail>通過第3情報位階權限取得考試，取得第3情報位階權限。</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>取得第4情報位階權限</name>
+  <detail>通過第4情報位階權限取得考試，取得第4情報位階權限。</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>取得第5情報位階權限</name>
+  <detail>通過第5情報位階權限取得考試，取得第5情報位階權限。</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>取得第6情報位階權限</name>
+  <detail>通過第6情報位階權限取得考試，取得第6情報位階權限。</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>取得第7情報位階權限</name>
+  <detail>通過第7情報位階權限取得考試，取得第7情報位階權限。</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>取得第8情報位階權限</name>
+  <detail>通過第8情報位階權限取得考試，取得第8情報位階權限。</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>刑期達到90萬年</name>
+  <detail>剩餘刑期降為90萬年。</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>刑期達到80萬年</name>
+  <detail>剩餘刑期降為80萬年。</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>刑期達到50萬年</name>
+  <detail>剩餘刑期降為50萬年。</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>一切都為了『變革』</name>
+  <detail>體驗過西蒙所說的四條路。</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>自壓抑中解放</name>
+  <detail>解放的權利超過101項。</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>社會不適應者</name>
+  <detail>初次違規，刑期加重。</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>WE GAZE AT YOU</name>
+  <detail>進行過10次違規行為。</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>輔助武裝工廠自給生產者</name>
+  <detail>第一次在輔助武裝工廠生產戰鬥用道具。</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>醫療補給工廠自給生產者</name>
+  <detail>第一次在醫療補給工廠生產醫療用道具。</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>增強器工廠自給生產者</name>
+  <detail>第一次在增強器工廠生產增強器。</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>武器工廠自給生產者</name>
+  <detail>第一次在武器工廠生產武器。</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>最強的DIY</name>
+  <detail>將任一武器強化到等級10。</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>投注於附屬終端的心意</name>
+  <detail>自訂附屬終端的外觀後，進入視覺大廳。</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>協泛者而非監視者</name>
+  <detail>利用「附屬終端改造申請」製作新的語音並登錄。</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>與荊棘同在</name>
+  <detail>解放所有與荊質管制裝備相關的權利。</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>新的夥伴</name>
+  <detail>第一次收到同伴卡片。</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>犒賞自己</name>
+  <detail>第一次利用特赦點數購買物品。</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>超shaz的啦！</name>
+  <detail>收集到所有霜淇淋種類。</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>不拋下夥伴</name>
+  <detail>在志願服務中救助倒下的同行者達10次以上。</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>這就是熔斷！</name>
+  <detail>進行熔斷，第一次破壞掠奪者的部位。</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>看我把你大卸八塊！</name>
+  <detail>在一次志願服務中，以熔斷方式破壞掠奪者部位達5次以上。</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>掠奪者收集家</name>
+  <detail>回收破壞的掠奪者部位，獲得超過50種資源。</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="S" pid="000">
+  <name>貢獻第一</name>
+  <detail>完成所有任意參加的志願服務。</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="S" pid="000">
+  <name>馳騁大地之虎</name>
+  <detail>在離線狀態下打倒虎神，且未曾力竭倒下。</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="S" pid="000">
+  <name>狂宴的大蜘蛛</name>
+  <detail>在離線狀態下打倒奇異多克薩，且未曾力竭倒下。</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="G" pid="000">
+  <name>從天而降的使者</name>
+  <detail>在離線狀態下打倒迪歐內，且未曾力竭倒下。</detail>
+ </trophy>
+ <trophy id="035" hidden="yes" ttype="G" pid="000">
+  <name>混沌的來訪者</name>
+  <detail>在離線狀態下打倒貝爾塔多爾姆或歐爾塔多爾姆，且未曾力竭倒下。</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>Let's 貢獻！</name>
+  <detail>在「市1－3號嚆矢作戰：奪回市民」後的志願服務中，第一次把市民搬運至護送機。</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>這就是共鬥！</name>
+  <detail>與其他玩者協力達成志願服務達15次以上。</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>一定要搶回來！</name>
+  <detail>自己的附屬終端遭到掠奪。</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="000">
+  <name>不需要替代品</name>
+  <detail>達成奪回附屬終端志願服務。</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="B" pid="000">
+  <name>追求幸福自由與繁榮</name>
+  <detail>達成特殊志願服務達15次以上。</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="B" pid="000">
+  <name>浪費資源</name>
+  <detail>消耗彈藥達9999發以上。</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="B" pid="000">
+  <name>給我好好搬運！</name>
+  <detail>在搬運中不慎讓市民摔落。</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="B" pid="000">
+  <name>最棒的移動方式</name>
+  <detail>用荊棘移動的距離累積超過42.195km。</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,56 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000e15f70625202ef0c288e8fe6f3c814936a0222b80b516c3f219e69d7bb79902ce42f5dac558166dcc54afa7b924f680fbf485b005d77033a71bb0992c882546c3de3d6eea213ac3b004e54b92c369fb922443d8c9771e1f3cb3a6d37dd77e96d4d8481ecf418170894aaada19d3b0dc1c7f0652eacd6dcb71e152b3060a2c91ae35b48ee3b80c90533faff6a32161fcb030b8fa2-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="small">
+ <npcommid>NPWR09659_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Paranautical Activity</title-name>
+ <title-detail>Trophy kit for "Paranautical Activity"</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Invincible</name>
+  <detail>Complete a floor without taking damage</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Collector</name>
+  <detail>Acquire all special weapons</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Padded</name>
+  <detail>Have more armor than health</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Not even worth it</name>
+  <detail>Let a boss die to a poison</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Night Vision</name>
+  <detail>Survive a dark floor</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Pacifist</name>
+  <detail>Complete a room without attacking</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Victory!</name>
+  <detail>Beat normal mode</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="-1">
+  <name>Jack of All Trades</name>
+  <detail>Beat normal mode with all characters</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="-1">
+  <name>There's More?</name>
+  <detail>Figure out how to get to 8th floor</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="-1">
+  <name>True victory</name>
+  <detail>Complete hardcore mode 5 times</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="-1">
+  <name>Monster Hunter</name>
+  <detail>Kill all bosses in game</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="-1">
+  <name>ParaNUT</name>
+  <detail>Complete all in-game unlocks</detail>
+ </trophy>
+</trophyconf>

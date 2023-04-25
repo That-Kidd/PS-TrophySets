@@ -1,0 +1,72 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000002caf6590ec03d55049e9be08bb144af3bcc2b2d19f31f6405dbff5227b4a4402acf0f4e9c6700057aaa7d22a5d4b1aa99a6f90446f8a36f0e42ed1d119d3360115250ba8b82f7c968b108f6be28b349922146f1e5467e0c33494975c2d8b131cb13951350a6c5220dcb8a6fe12753108a7a223f2890a374f04baeb301adaf658fbd367e4df33dbee178da189db7dec5587f7087a-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR11851_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>リプキス</title-name>
+ <title-detail>『リプキス』トロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>ファーストキスを、もう一度――</name>
+  <detail>『リプキス』を全てプレイしていただき、ありがとうございました</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>ねね、あにぃ、どうしよっか？</name>
+  <detail>最初の選択肢を選ぶ</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>好きなのはＤｏｔｃｈ！？</name>
+  <detail>全ての選択肢を選んだ</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="S" pid="000">
+  <name>奏撫ルート</name>
+  <detail>奏撫ルートに入った</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="S" pid="000">
+  <name>羽耶音ルート</name>
+  <detail>羽耶音ルートに入った</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="S" pid="000">
+  <name>咲希ルート</name>
+  <detail>咲希ルートに入った</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="000">
+  <name>唯梨ルート</name>
+  <detail>唯梨ルートに入った</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="G" pid="000">
+  <name>来年こそは……</name>
+  <detail>ＢＡＤＥＮＤルートを最後まで読んだ</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="G" pid="000">
+  <name>ソウくんと一緒なら、いつも最高の記念日！</name>
+  <detail>奏撫ルートを最後まで読んだ</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="G" pid="000">
+  <name>君が成長して大人になったら、本物をわたしに着せてね</name>
+  <detail>羽耶音ルートを最後まで読んだ</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="G" pid="000">
+  <name>えへへ。私もあなたが大好きよ</name>
+  <detail>咲希ルートを最後まで読んだ</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="G" pid="000">
+  <name>これからもずっと――大好きですっ</name>
+  <detail>唯梨ルートを最後まで読んだ</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="G" pid="000">
+  <name>えっへへー♪</name>
+  <detail>まゆり追加シナリオを最後まで読んだ</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="G" pid="000">
+  <name>ＢＧＭコンプリート</name>
+  <detail>全てのＢＧＭを聴いた</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="G" pid="000">
+  <name>ＣＧコンプリート</name>
+  <detail>全てのイベントＣＧを見た</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="G" pid="000">
+  <name>ＥＶＥＮＴコンプリート</name>
+  <detail>全てのイベントを読んだ</detail>
+ </trophy>
+</trophyconf>

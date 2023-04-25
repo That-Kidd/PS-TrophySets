@@ -1,0 +1,568 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000001c38d4f81948b3ea1362d6a5cb2c4442394223ef196e3fb93058e8a0557c5ae51a8bf1a572ae028403cb7b160e85dc7f4ce7563d15a56a16392431150b4f3fd46e653892ba28a958fe5967c800a6d55f67f6b01383c69f9765ac573b331352c55cb3650139392c1f745c1b1294575bf90fcabde5deb1c2669ffd745b6698a6ec25296ba287e3f3f3fd8f41f46417de93d040b717-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR02268_00</npcommid>
+ <trophyset-version>01.23</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Zen Pinball 2</title-name>
+ <title-detail>Spiele die Kugel mit unbegrenzter Annäherung auf den Zen Pinball 2-Tischen!</title-detail>
+ <group id="001">
+  <name>Marvel Pinball: Avengers Chronicles</name>
+  <detail>Trophäen für das Marvel-Paket – Marvel Pinball: Avengers Chronicles.</detail>
+ </group>
+ <group id="002">
+  <name>Marvel Pinball: Original Pack</name>
+  <detail>Trophäen für die ersten sechs Marvel-Tische.</detail>
+ </group>
+ <group id="003">
+  <name>Marvel Pinball: Vengeance &amp; Virtue</name>
+  <detail>Trophäen für das Marvel-Paket – Marvel Pinball: Vengeance &amp; Virtue.</detail>
+ </group>
+ <group id="004">
+  <name>Zen Pinball Classics</name>
+  <detail>Trophäne für die klassischen Zen-Pinball-Tische.</detail>
+ </group>
+ <group id="005">
+  <name>Zen Pinball Originals #1</name>
+  <detail>Trophäne für die klassischen Zen-Pinball-Tische.</detail>
+ </group>
+ <group id="006">
+  <name>Zen Pinball Originals #2</name>
+  <detail>Trophäne für die klassischen Zen-Pinball-Tische.</detail>
+ </group>
+ <group id="007">
+  <name>Zusätzliche Tische #1</name>
+  <detail>Trophäen für zusätzliche Tische #1</detail>
+ </group>
+ <group id="008">
+  <name>Star Wars Pinball</name>
+  <detail>Star Wars Pinball</detail>
+ </group>
+ <group id="009">
+  <name>Star Wars Pinball: Balance of the Force</name>
+  <detail>Trophäen für den zusätzlichen Inhalt: Balance of the Force</detail>
+ </group>
+ <group id="010">
+  <name>Zusätzliche Tische #2</name>
+  <detail>Trophäen für zusätzliche Tische #2</detail>
+ </group>
+ <group id="011">
+  <name>Star Wars™ Pinball: Heroes Within</name>
+  <detail>Trophäen für den zusätzlichen Inhalt: Heroes Within</detail>
+ </group>
+ <group id="012">
+  <name>Zusätzliche Tische #3</name>
+  <detail>Trophäen für zusätzliche Tische #3</detail>
+ </group>
+ <group id="013">
+  <name>Zusätzliche Tische #4</name>
+  <detail>Trophäen für zusätzliche Tische #4</detail>
+ </group>
+ <group id="014">
+  <name>Zusätzliche Tische #5</name>
+  <detail>Trophäen für zusätzliche Tische #5</detail>
+ </group>
+ <group id="015">
+  <name>Zusätzliche Tische #6</name>
+  <detail>Trophäen für zusätzliche Tische #6</detail>
+ </group>
+ <trophy id="000" hidden="no" ttype="G" pid="-1">
+  <name>Flipperfanatiker</name>
+  <detail>Spiel weiter und erziele eine Punktzahl von mind. 150 Mio. an einem beliebigen Tisch!</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="-1">
+  <name>Flipperprofi</name>
+  <detail>Lass deine Muskeln spielen und zeig dein Können am Flipper, indem du eine Pro-Punktzahl von 2000 erreichst!</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="-1">
+  <name>Flipperbündnis</name>
+  <detail>Schnapp dir deine Freunde und erreiche mit ihnen eine Team-Punktzahl von 10000!</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="-1">
+  <name>Flipperentdecker</name>
+  <detail>Entdecke deine Sammlung und spiele auf mindestens 4 verschiedenen Tischen!</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>Aus den Tiefen der Verzweiflung</name>
+  <detail>Führe einen erfolgreichen Rücklauf mit der Captain America-Kugel durch. Dazu stößt du den Tisch im richtigen Moment an, wenn die Kugel eine Austrittsbahn hinunterrollt.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="-1" gid="001">
+  <name>Versammeln!</name>
+  <detail>Versammele die Avengers und starte den Wizard-Modus gegen Loki und dessen Armee.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>Sternenritt</name>
+  <detail>Reite das Surfboard mit dem Silver Surfer und erziele eine Surfer-Belohnung am Infinity Gauntlet-Tisch.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="-1" gid="001">
+  <name>Die Macht eines Gottes</name>
+  <detail>Besiege Thanos und komme in den Besitz des Infinity Gauntlet, um über die Unendlichkeits-Juwelen am Infinity Gauntlet-Tisch zu herrschen.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>Brennende Welten</name>
+  <detail>Kassiere alle Ziele, bevor der Walker sie im Blitzkrieg USA am Fear Itself-Tisch zerstört!</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="-1" gid="001">
+  <name>Thors Tag</name>
+  <detail>Besiege alle Würdigen und Skadi, um dich Serpent am Fear Itself-Tisch zu stellen!</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>Betritt die Arena von Incredible Hulk</name>
+  <detail>Betritt Hulks Arena in World War Hulk!</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="-1" gid="001">
+  <name>Die Rache des Weltenzerstörers</name>
+  <detail>Beende alle Haupt- und Nebenmissionen in World War Hulk!</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="-1" gid="002">
+  <name>Kriegsbeute</name>
+  <detail>Maximiere dein Vermögen, indem du Schätze und Vampirlager auf Blade aushebst.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="-1" gid="002">
+  <name>Geißel der Untoten</name>
+  <detail>Schließe alle Stufen der letzten Mission ab und besiege Dracula auf Blade.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="-1" gid="002">
+  <name>Unzerbrechliche Knochen</name>
+  <detail>Finde Adamantium und schließe einen erfolgreichen Bindungsprozess auf dem Wolverine-Tisch ab!</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="-1" gid="002">
+  <name>Mutanten-Schlägerei</name>
+  <detail>Verwickle Sabretooth in einen Kampf und besiege ihn auf Wolverines Tisch!</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="-1" gid="002">
+  <name>Tony Stark, die Legende</name>
+  <detail>Schließe alle Tony Stark-Missionen auf dem Iron Man-Tisch ab!</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="-1" gid="002">
+  <name>Iron Man</name>
+  <detail>Schließe die Whiplash- und Mandarin-Missionen auf dem Iron Man-Tisch ab!</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="-1" gid="002">
+  <name>Im Kreuzfeuer</name>
+  <detail>Du erhältst diese Trophäe, wenn ein Kürbisbombenball in einem von Doctor Octopus' Tentakeln auf dem Spider-Man-Tisch explodiert.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="-1" gid="002">
+  <name>Clone Saga</name>
+  <detail>Schließe alle vier Stufen ab und sperre drei Kugeln ins Doc Ock-Loch ein, um den Wizard-Modus Klonchaos auf dem Spider-Man-Tisch zu starten!</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="-1" gid="002">
+  <name>Kosmischer Vorteil</name>
+  <detail>Bahne dir den Weg zum Cosmic Cube und greif ihn dir für einen Wunsch am Captain America-Tisch.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="-1" gid="002">
+  <name>Überlegenheit</name>
+  <detail>Absolviere jede Mission von Cap und Red Skull, finde mindestens einen der Howlers und besiege Red Skull in einer Reihe von Kämpfen im Endkampf am Captain America-Tisch!</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="-1" gid="003">
+  <name>Flügel der Rache</name>
+  <detail>Hebe mit dem Whirlybird am Moon Knight-Tisch ab.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="-1" gid="003">
+  <name>Todesgott</name>
+  <detail>Meistere die Finale Mission und besiege die böse Gottheit inmitten der stellaren Verheerung am Moon Knight-Tisch.</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="-1" gid="003">
+  <name>Ewige Feinde Asgards</name>
+  <detail>Absolviere alle Asgard-Missionen am Thor-Tisch</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="S" pid="-1" gid="003">
+  <name>Loki</name>
+  <detail>Besiege den Verräter Loki am Thor-Tisch!</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="-1" gid="003">
+  <name>Bike-Stunt-Extravaganz</name>
+  <detail>Schaffe mindestens drei Runden in Folge auf der Sprungrampe am Ghost Rider-Tisch!</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="S" pid="-1" gid="003">
+  <name>Fegefeuer-Biker</name>
+  <detail>Besiege alle Schurken, inklusive Endgegner, am Ghost Rider-Tisch!</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="-1" gid="003">
+  <name>Teamarbeit</name>
+  <detail>Sammele 3 Helden, um Xavier im Kampf gegen Magneto zu helfen.</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="S" pid="-1" gid="003">
+  <name>Magneto besiegt</name>
+  <detail>Buchstabiere X-MEN und zwinge Magneto in die Knie.</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="-1" gid="004">
+  <name>Projekt finanziert!</name>
+  <detail>Sichere dir im Forschungsgelderjagd-Modus mindestens 500.000 Punkte!</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="S" pid="-1" gid="004">
+  <name>Elektrische Entladungen</name>
+  <detail>Schaffe mit einer Kugel 10 Schüsse auf die Spulenrampe!</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="-1" gid="004">
+  <name>N2O aufgefüllt</name>
+  <detail>Halte eine Kugel im Nitrotank fest!</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="S" pid="-1" gid="004">
+  <name>Maximales Tuning</name>
+  <detail>Erhalte ein volles Upgrade für eines der Teile!</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="-1" gid="004">
+  <name>Flinke Beine</name>
+  <detail>Überlebe die Riesenfelsen-Rampe!</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="S" pid="-1" gid="004">
+  <name>El Dorado</name>
+  <detail>Schließe alle Abenteuer ab!</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="-1" gid="004">
+  <name>Im Fluss</name>
+  <detail>Spiele eine Superkombo!</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="S" pid="-1" gid="004">
+  <name>Hand des Schicksals</name>
+  <detail>Beherrsche den Stamm, indem du alle Naturkatastrophen beschwörst!</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="-1" gid="005">
+  <name>Der erste Knockout</name>
+  <detail>Gewinne einen Kampf</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="S" pid="-1" gid="005">
+  <name>Bison ist fertig</name>
+  <detail>Besiege den üblen Gangsterboss</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="B" pid="-1" gid="005">
+  <name>Kristallschädel</name>
+  <detail>Sammele 30 Kristallschädel!</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="S" pid="-1" gid="005">
+  <name>Meister-Ninja</name>
+  <detail>Schließe das letzte Kapitel des Story-Modus ab.</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="B" pid="-1" gid="005">
+  <name>Die Invasion endet hier</name>
+  <detail>Überstehe die Alienwelle und gewinne die Invasion-Multikugel!</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="S" pid="-1" gid="005">
+  <name>Flipper-General</name>
+  <detail>Sammele alle 10 Medaillen!</detail>
+ </trophy>
+ <trophy id="044" hidden="no" ttype="B" pid="-1" gid="005">
+  <name>Raubritter ohne Beute</name>
+  <detail>Schlage den Angriff der Raubritter gegen Camelot zurück!</detail>
+ </trophy>
+ <trophy id="045" hidden="no" ttype="S" pid="-1" gid="005">
+  <name>Ein Platz an der Tafelrunde</name>
+  <detail>Spiele die Geschichten der Ritter der Tafelrunde zu Ende!</detail>
+ </trophy>
+ <trophy id="046" hidden="no" ttype="B" pid="-1" gid="006">
+  <name>Shuttle-Pilot</name>
+  <detail>Sammele fünf Weltraumproben mit dem Magnetstrahl des Raumschiffs!</detail>
+ </trophy>
+ <trophy id="047" hidden="no" ttype="S" pid="-1" gid="006">
+  <name>Pyramide</name>
+  <detail>Neutralisiere das Verteidigungssystem der Pyramide.</detail>
+ </trophy>
+ <trophy id="048" hidden="no" ttype="B" pid="-1" gid="006">
+  <name>Mysterienwürfel</name>
+  <detail>Sperre mindestens eine Kugel in die Filmspule und starte mit dem Würfel ein Multikugel-Phänomen am Paranormal-Tisch!</detail>
+ </trophy>
+ <trophy id="049" hidden="no" ttype="S" pid="-1" gid="006">
+  <name>Übernatürliche Aktivität</name>
+  <detail>Gehe zum Dachboden des Spukhauses und vertreibe wenigstens einen Geist am Paranormal-Tisch!</detail>
+ </trophy>
+ <trophy id="050" hidden="no" ttype="B" pid="-1" gid="006">
+  <name>Pfadfinder</name>
+  <detail>Erziele einen 6-Wege-Combo!</detail>
+ </trophy>
+ <trophy id="051" hidden="no" ttype="S" pid="-1" gid="006">
+  <name>Irrsinn im Versteck</name>
+  <detail>Absolviere die finale Mission: Mitternachtswahnsinn!</detail>
+ </trophy>
+ <trophy id="052" hidden="no" ttype="B" pid="-1" gid="006">
+  <name>Episch gekleidet</name>
+  <detail>Erbeute möglichst viele Objekte, um schließlich epische Dinge mit besseren Stats zu finden. Das Kompletset besteht aus epischer Waffe, Schild, Rüstung und Helm. Du kannst diese Gegenstände behalten, wenn das Spiel endet. Wenn du also ein Spiel verlierst, bedeutet das nicht, dass du das Set erneut sammeln musst!</detail>
+ </trophy>
+ <trophy id="053" hidden="no" ttype="S" pid="-1" gid="006">
+  <name>Drachenhaut-Tuch</name>
+  <detail>Reise durch drei Gebiete: Spukmühle, Wald und Kerker, um nicht weniger als 12 Monstern zu begegnen! Besiege sie alle und triff die Plünderungsmulde, um den Kampf gegen den riesigen Zufallsdrachen zu beginnen.&#x0a;Diese Trophäe ist für jene, die die mächtige Bestie erlegen können.</detail>
+ </trophy>
+ <trophy id="054" hidden="no" ttype="B" pid="-1" gid="007">
+  <name>Brief von Mama</name>
+  <detail>Sperre drei Kugeln ein und starte den Sie-haben-Post-Multiball am Pflanzen‑gegen‑Zombies‑Tisch.</detail>
+ </trophy>
+ <trophy id="055" hidden="no" ttype="S" pid="-1" gid="007">
+  <name>Fehlfunktion</name>
+  <detail>Stell dich Dr. Zomboss und triumphiere über seinen riesigen Zombot am Pflanzen‑gegen‑Zombies‑Tisch.</detail>
+ </trophy>
+ <trophy id="056" hidden="no" ttype="B" pid="-1" gid="007">
+  <name>Abgefackelt</name>
+  <detail>Entzünde mit Human Torch das Zeichen der Fantastic Four am Fantastic Four.</detail>
+ </trophy>
+ <trophy id="057" hidden="no" ttype="S" pid="-1" gid="007">
+  <name>Verschlinger der Welten</name>
+  <detail>Beende alle Hauptmissionen und rette die Welt am Fantastic Four-Tisch.</detail>
+ </trophy>
+ <trophy id="058" hidden="no" ttype="B" pid="-1" gid="007">
+  <name>Mehrheitsführer</name>
+  <detail>Gewinne mindestens 5 Verbündete mit Iron Man oder Captain America auf dem "Civil War"-Tisch.</detail>
+ </trophy>
+ <trophy id="059" hidden="no" ttype="S" pid="-1" gid="007">
+  <name>Unzerstörbar</name>
+  <detail>Gewinne einen Kampf im "Sehr schwer"-Modus: dein Gegner muss mindestens zwei Verbündete mehr als du auf dem "Civil War"-Tisch haben.</detail>
+ </trophy>
+ <trophy id="060" hidden="no" ttype="B" pid="-1" gid="008">
+  <name>Training</name>
+  <detail>Verdiene dir deinen ersten Rang, indem du das Klon-Training am Tisch Clone Wars absolvierst.</detail>
+ </trophy>
+ <trophy id="061" hidden="no" ttype="S" pid="-1" gid="008">
+  <name>Säubere die Welt</name>
+  <detail>Säubere die Galaxis, indem du beide Sith Lords besiegst am Tisch Clone Wars.</detail>
+ </trophy>
+ <trophy id="062" hidden="no" ttype="B" pid="-1" gid="008">
+  <name>Die große Grube von Carkoon</name>
+  <detail>Springe 10 Mal in Folge über die Sarlacc-Grube am Tisch Boba Fett.</detail>
+ </trophy>
+ <trophy id="063" hidden="no" ttype="S" pid="-1" gid="008">
+  <name>Die 501. Legion</name>
+  <detail>Reise durch den Wilden Raum und kämpfe in der Schlacht von Kamino am Tisch Boba Fett!</detail>
+ </trophy>
+ <trophy id="064" hidden="no" ttype="B" pid="-1" gid="008">
+  <name>Du willst also ein Jedi werden?</name>
+  <detail>Absolviere einen Trainingsmodus am Tisch "Star Wars: Episode V".</detail>
+ </trophy>
+ <trophy id="065" hidden="no" ttype="S" pid="-1" gid="008">
+  <name>Ich bin dein Vater</name>
+  <detail>Enthülle dass dunkle Geheimnis von Darth Vader am Ende von Szene 6 am Tisch "Star Wars: Episode V".</detail>
+ </trophy>
+ <trophy id="066" hidden="no" ttype="B" pid="-1" gid="009">
+  <name>Dunkle Seite der Macht</name>
+  <detail>Erhalte eine Dunkle-Seite-Auszeichnung am Tisch Star Wars: Episode VI.</detail>
+ </trophy>
+ <trophy id="067" hidden="no" ttype="S" pid="-1" gid="009">
+  <name>Bewaffnet und einsatzbereit</name>
+  <detail>Starte den Todesstern-Multiball zum ersten Mal am Tisch Star Wars: Episode VI.</detail>
+ </trophy>
+ <trophy id="068" hidden="no" ttype="B" pid="-1" gid="009">
+  <name>Vielflieger</name>
+  <detail>Schließe eine Runde in der Einsamer-Jäger-Mission am Tisch Star Wars: Starfighter Assault ab.</detail>
+ </trophy>
+ <trophy id="069" hidden="no" ttype="S" pid="-1" gid="009">
+  <name>Gefeierter Pilot</name>
+  <detail>Sammle 100 Empfehlungen für deinen Piloten mit einer Kugel am Tisch Star Wars: Starfighter Assault.</detail>
+ </trophy>
+ <trophy id="070" hidden="no" ttype="B" pid="-1" gid="009">
+  <name>Lord der Sith</name>
+  <detail>Befrage 3 Rebellenoffiziere im Macht-Modus am Star Wars: Darth Vader-Tisch.</detail>
+ </trophy>
+ <trophy id="071" hidden="no" ttype="S" pid="-1" gid="009">
+  <name>Der beste Pilot</name>
+  <detail>Zerstöre 5 X-Flügler im Grabenflug-Modus am Star Wars: Darth Vader-Tisch.</detail>
+ </trophy>
+ <trophy id="072" hidden="no" ttype="B" pid="-1" gid="010">
+  <name>Golden-Goal-Trophäe</name>
+  <detail>Erziele ein Golden Goal, indem du den Wizard-Modus startest und einen Super-Jackpot ins Tor schießt am "Super League Football"-Tisch.</detail>
+ </trophy>
+ <trophy id="073" hidden="no" ttype="S" pid="-1" gid="010">
+  <name>Goldener-Schuh-Trophäe</name>
+  <detail>Erziele 10 Tore in einem Spiel, um einen Goldenen Schuh zu erhalten am "Super League Football"-Tisch.</detail>
+ </trophy>
+ <trophy id="074" hidden="no" ttype="B" pid="-1" gid="010">
+  <name>Auge von Amagotto</name>
+  <detail>Meistere das Minispielfeld Auge von Amagotto am Tisch Doctor Strange!</detail>
+ </trophy>
+ <trophy id="075" hidden="no" ttype="S" pid="-1" gid="010">
+  <name>Shuma-Gorath Multiball</name>
+  <detail>Starte Shuma-Gorath Multiball am Tisch Doctor Strange!</detail>
+ </trophy>
+ <trophy id="076" hidden="no" ttype="B" pid="-1" gid="011">
+  <name>Sandleute sind leicht zu erschrecken</name>
+  <detail>Absolviere einen perfekten Tusken-Räuber-Modus am Tisch Star Wars™ Pinball: Episode IV A New Hope.</detail>
+ </trophy>
+ <trophy id="077" hidden="no" ttype="S" pid="-1" gid="011">
+  <name>Es ist zu groß für eine Raumstation</name>
+  <detail>Initiiere einen Yavin-Multi-Ball am Tisch Star Wars™: Episode IV.</detail>
+ </trophy>
+ <trophy id="078" hidden="no" ttype="B" pid="-1" gid="011">
+  <name>Misere des Protokoll-Droiden</name>
+  <detail>Befreie C-3PO aus seiner Zwangslage, indem du den Modus "C-3PO reparieren" am Tisch Star Wars™ Pinball: Droids™ absolvierst.</detail>
+ </trophy>
+ <trophy id="079" hidden="no" ttype="S" pid="-1" gid="011">
+  <name>Beste Chance zur Flucht</name>
+  <detail>Maximiere den Zeitvorteil im Wizard-Modus von WED-15. Dazu absolvierst du die Hurry-ups auf seiner Bahn am Tisch Star Wars™ Pinball: Droids™.</detail>
+ </trophy>
+ <trophy id="080" hidden="no" ttype="B" pid="-1" gid="011">
+  <name>Das ist keine Höhle</name>
+  <detail>Spiele zwei Kugeln in Folge in die Weltraumschnecke am Tisch Star Wars™ Pinball: Han Solo.</detail>
+ </trophy>
+ <trophy id="081" hidden="no" ttype="S" pid="-1" gid="011">
+  <name>Bester Schmuggler der Branche</name>
+  <detail>Triff 3 Mal in Folge das richtige Geheimfach am Tisch Star Wars™ Pinball: Han Solo.</detail>
+ </trophy>
+ <trophy id="082" hidden="no" ttype="B" pid="-1" gid="011">
+  <name>Deine Fertigkeiten sind vollendet</name>
+  <detail>Führe einen doppelten Kunstschuss vom manuellen Abschussbolzen aus am Tisch Star Wars™ Pinball: Masters of the Force!</detail>
+ </trophy>
+ <trophy id="083" hidden="no" ttype="S" pid="-1" gid="011">
+  <name>Kein Training du mehr brauchst</name>
+  <detail>Erziele Combo-Schüsse und einen Meister-Combo am Tisch Masters of the Force!</detail>
+ </trophy>
+ <trophy id="084" hidden="no" ttype="B" pid="-1" gid="012">
+  <name>Stockduster und nadelspitz</name>
+  <detail>Starte einen Weasel- oder Blind-Al-Modus mit einer eingesperrten Kugel am Deadpool-Tisch.</detail>
+ </trophy>
+ <trophy id="085" hidden="no" ttype="S" pid="-1" gid="012">
+  <name>Combo-Sammler</name>
+  <detail>Sammle mindestens 15 Combozähler auf einmal am Deadpool-Tisch.</detail>
+ </trophy>
+ <trophy id="086" hidden="no" ttype="B" pid="-1" gid="012">
+  <name>Kugel-Bonus</name>
+  <detail>Beende  Hauptm., um  Kugel-Bonus auf  Guardians of the Galaxy-Flipper zu starten. </detail>
+ </trophy>
+ <trophy id="087" hidden="no" ttype="S" pid="-1" gid="012">
+  <name>Vervollständige eine Sammlung.</name>
+  <detail>Starte den Collector-Multiball auf dem Flipper Guardians of the Galaxy.</detail>
+ </trophy>
+ <trophy id="088" hidden="no" ttype="B" pid="-1" gid="012">
+  <name>High five</name>
+  <detail>Gib Duck ein High five in "Langer Weg voraus" am Tisch The Walking Dead.</detail>
+ </trophy>
+ <trophy id="089" hidden="no" ttype="B" pid="-1" gid="012">
+  <name>Perfekt ausgekundschaftet</name>
+  <detail>Absolviere "Auskundschaften" und meide die Zombiekugel in The Walking Dead.</detail>
+ </trophy>
+ <trophy id="090" hidden="no" ttype="B" pid="-1" gid="012">
+  <name>Ein aufgemotzter Butters ist krass</name>
+  <detail>Aktiviere den Modus Butters' Kleidung und sammele eine neue Bekleidung am South Park: Butters' Very Own Pinball Game.</detail>
+ </trophy>
+ <trophy id="091" hidden="no" ttype="B" pid="-1" gid="012">
+  <name>Bike-neugierig!?</name>
+  <detail>Aktiviere Bikers Multiball am South Park: Butters' Very Own Pinball Game.</detail>
+ </trophy>
+ <trophy id="092" hidden="no" ttype="B" pid="-1" gid="012">
+  <name>OH Kanada!</name>
+  <detail>Aktiviere die windigen Schlagtürme am South Park’s Super-Sweet Pinball.</detail>
+ </trophy>
+ <trophy id="093" hidden="no" ttype="B" pid="-1" gid="012">
+  <name>Zu viele Ballaststoffe</name>
+  <detail>Aktiviere Mr. Hankey Multiball am South Park’s Super-Sweet Pinball.</detail>
+ </trophy>
+ <trophy id="094" hidden="no" ttype="B" pid="-1" gid="013">
+  <name>Neue Entdeckung</name>
+  <detail>Schieße eine Sonde ab und bring sie an ihr Ziel bei Secrets of the Deep!</detail>
+ </trophy>
+ <trophy id="095" hidden="no" ttype="B" pid="-1" gid="013">
+  <name>Schatzjäger</name>
+  <detail>Erforsche das Schiffswrack vollständig bei Secrets of the Deep!</detail>
+ </trophy>
+ <trophy id="096" hidden="no" ttype="B" pid="-1" gid="013">
+  <name>Munifex</name>
+  <detail>Triff zweimal die Galleone während des Pseudokriegs bei Rome!</detail>
+ </trophy>
+ <trophy id="097" hidden="no" ttype="B" pid="-1" gid="013">
+  <name>Legatus Legionis</name>
+  <detail>Übernimm mind. 7mal die Kontrolle über die Garrisonen oder starte RAGE bei Rome.</detail>
+ </trophy>
+ <trophy id="098" hidden="no" ttype="B" pid="-1" gid="013">
+  <name>Kuscheliger Keks</name>
+  <detail>Schaff deine erste Million, während der verrückte Professor zusieht, bei Biolab.</detail>
+ </trophy>
+ <trophy id="099" hidden="no" ttype="B" pid="-1" gid="013">
+  <name>Keksdose</name>
+  <detail>Durchbrich die Quarantäne nach Abschluss aller Missionen und flüchte bei Biolab.</detail>
+ </trophy>
+ <trophy id="100" hidden="no" ttype="B" pid="-1" gid="013">
+  <name>Legendärer Schwertkämpfer</name>
+  <detail>Triff alle Wächter des versteckten Mini-Spielfelds bei Pasha!</detail>
+ </trophy>
+ <trophy id="101" hidden="no" ttype="B" pid="-1" gid="013">
+  <name>Märchenerzähler</name>
+  <detail>Öffne das Buch und vollende alle Geschichten bei Pasha.</detail>
+ </trophy>
+ <trophy id="102" hidden="no" ttype="B" pid="-1" gid="013">
+  <name>Wandkletterer</name>
+  <detail>Starte einen Kampf und hilf Spidey, den Symbionten am Venom-Tisch zu schwächen.</detail>
+ </trophy>
+ <trophy id="103" hidden="no" ttype="B" pid="-1" gid="013">
+  <name>Maximum Carnage</name>
+  <detail>Absolviere alle Hauptmodi und siege bei Maximum Carnage am Venom-Tisch.</detail>
+ </trophy>
+ <trophy id="104" hidden="no" ttype="B" pid="-1" gid="013">
+  <name>Unnötig Wut</name>
+  <detail>Erledige 50 angreifende Berserker auf dem CastleStorm-Tisch.</detail>
+ </trophy>
+ <trophy id="105" hidden="no" ttype="B" pid="-1" gid="013">
+  <name>Revolverheld</name>
+  <detail>Gewinne ein Schneller-Ziehen-Duell am Tisch Wild West Rampage.</detail>
+ </trophy>
+ <trophy id="106" hidden="no" ttype="B" pid="-1" gid="013">
+  <name>Schüsse in der Galaxis</name>
+  <detail>Duelliere dich mit dem Inquisitor am Tisch Star Wars™ Pinball: Star Wars Rebels™.</detail>
+ </trophy>
+ <trophy id="107" hidden="no" ttype="B" pid="-1" gid="014">
+  <name>Geborgte Zeit</name>
+  <detail>Verwende beide Kickbacks bei der Aktivierung auf dem Tisch Marvel's Avengers: Age of Ultron. (nur Einzelspieler)</detail>
+ </trophy>
+ <trophy id="108" hidden="no" ttype="B" pid="-1" gid="014">
+  <name>Flucht zur Oberfläche</name>
+  <detail>Absolviere alle 6 Testkammern und besiege dann GLaDOS am Portal ®-Tisch. (nur Einzelspieler)</detail>
+ </trophy>
+ <trophy id="109" hidden="no" ttype="B" pid="-1" gid="014">
+  <name>Sparring abgeschlossen</name>
+  <detail>Schieße während des Sparrings mindestens 5-mal auf Ant-Man auf dem Ant-Man-Tisch! (Nur Einzelsp.)</detail>
+ </trophy>
+ <trophy id="110" hidden="no" ttype="B" pid="-1" gid="014">
+  <name>Stellvertretender Direktor</name>
+  <detail>Schalte Avery Bullock aus am Flippertisch American Dad! (Nur Einzelsp.)</detail>
+ </trophy>
+ <trophy id="111" hidden="no" ttype="B" pid="-1" gid="014">
+  <name>Veruntreuung</name>
+  <detail>Gib 100.000 Mäuse vom Einsatzfonds aus am Archer-Tisch. (Nur Einzelsp.)</detail>
+ </trophy>
+ <trophy id="112" hidden="no" ttype="B" pid="-1" gid="014">
+  <name>Lass die Feier beginnen</name>
+  <detail>Bediene alle Kunden, um zum Wizard-Modus zu gelangen am Tisch Bob's Burgers. (Nur Einzelsp.)</detail>
+ </trophy>
+ <trophy id="113" hidden="no" ttype="B" pid="-1" gid="014">
+  <name>Giggity Giggity Goo!</name>
+  <detail>Starte Giggity Multiball am Tisch Family Guy. (Nur Einzelsp.)</detail>
+ </trophy>
+ <trophy id="114" hidden="no" ttype="B" pid="-1" gid="014">
+  <name>Die dunkle Seite und das Licht</name>
+  <detail>Besiege Kylo Ren in dessen Nebenmodus am Tisch Star Wars™: The Force Awakens™. (Nur Einzelsp.)</detail>
+ </trophy>
+ <trophy id="115" hidden="no" ttype="B" pid="-1" gid="014">
+  <name>Sprung in den Hyperraum!</name>
+  <detail>Arretiere eine Kugel im TIE-Jäger-Dock am Tisch Might of the First Order! (Nur Einzelsp.)</detail>
+ </trophy>
+ <trophy id="116" hidden="no" ttype="B" pid="-1" gid="014">
+  <name>Jagd auf das Gewürm</name>
+  <detail>Besiege beide Facehugger im Hintergedanken-Spielmodus in Aliens Pinball. (Nur Einzelsp.)</detail>
+ </trophy>
+ <trophy id="117" hidden="no" ttype="B" pid="-1" gid="014">
+  <name>Schatten</name>
+  <detail>Führe 20 Tarn-Abschüsse am Tisch Alien: Isolation Pinball aus. (Nur Einzelsp.)</detail>
+ </trophy>
+ <trophy id="118" hidden="no" ttype="B" pid="-1" gid="014">
+  <name>Initiation</name>
+  <detail>Steige im Rang auf bei Alien vs. Predator Pinball. (Nur Einzelsp.)</detail>
+ </trophy>
+ <trophy id="119" hidden="no" ttype="B" pid="-1" gid="015">
+  <name>Einzuberechnende Macht</name>
+  <detail>Finde alle A‑Force-Mitglieder, damit sie dir am Tisch A‑Force helfen. (Nur Einzelsp.)</detail>
+ </trophy>
+ <trophy id="120" hidden="no" ttype="B" pid="-1" gid="015">
+  <name>Bomben los</name>
+  <detail>Bring Bombshell mittels ihrer Rampe ins Spiel in Marvel’s Women of Power: Champions. (Nur Einzelsp.)</detail>
+ </trophy>
+ <trophy id="121" hidden="no" ttype="B" pid="-1" gid="015">
+  <name>Der Wanderer</name>
+  <detail>Erreiche Stufe 5 am Tisch Fallout® Pinball. (Nur Einzelsp.)</detail>
+ </trophy>
+ <trophy id="122" hidden="no" ttype="B" pid="-1" gid="015">
+  <name>Große Waffe</name>
+  <detail>Zerblase deine Gegner mit der BFG in DOOM® Pinball. (Nur Einzelsp.)</detail>
+ </trophy>
+ <trophy id="123" hidden="no" ttype="B" pid="-1" gid="015">
+  <name>Drachentöter</name>
+  <detail>Besiege einen Drachen am Flippertisch The Elder Scrolls V: Skyrim®! (Nur Einzelsp.)</detail>
+ </trophy>
+ <trophy id="124" hidden="no" ttype="B" pid="-1" gid="015">
+  <name>Nicht messbare Kraft</name>
+  <detail>Absolviere Krennics Zorn auf Stufe 2 am Tisch Star Wars™ Pinball: Rogue One™! (Nur Einzelsp.)</detail>
+ </trophy>
+</trophyconf>

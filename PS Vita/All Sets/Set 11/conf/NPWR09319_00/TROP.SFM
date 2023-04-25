@@ -1,0 +1,152 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000000bb810867d2f932e4a5f35defb1768d6c1a6339117e464699a7cd0889dbf4aa7b6198bdf6bb4c31344444822faafbe7bc37897f1adbf5a8f87dce6a9ecd17e38fb9d4fe0934afc205e4721b52bbf2c17920ee3308a001caf834b1e2e7f6d3449790fd535b0912f60c9c4c7dacf007f84eb7eadf4c19075326e4bace37b89898c30c0926e5e96cfe47a3b2cd0ae74c511f5023e93-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR09319_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>絕對絕望少女　槍彈辯駁 Another Episode</title-name>
+ <title-detail>絕對絕望少女　槍彈辯駁 Another Episode的獎盃組</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>獲得所有獎盃</name>
+  <detail>獲得除了白金獎盃外的所有獎盃</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>完成序章</name>
+  <detail>完成遊戲序章</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>完成第１章</name>
+  <detail>完成遊戲第１章</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>完成第２章</name>
+  <detail>完成遊戲第２章</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>完成第３章</name>
+  <detail>完成遊戲第３章</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>完成第４章</name>
+  <detail>完成遊戲第４章</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>完成第５章</name>
+  <detail>完成遊戲第５章</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>完成所有章節</name>
+  <detail>完成遊戲所有章節</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>來玩黑白解謎機！</name>
+  <detail>首次啟動黑白解謎機</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="000">
+  <name>絕對絕望</name>
+  <detail>完成大橋崩塌的事件</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="000">
+  <name>白白熊救助隊</name>
+  <detail>救了白白熊</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>大人基地防衛軍</name>
+  <detail>完成秘密基地防衛戰</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="B" pid="000">
+  <name>觸手危機</name>
+  <detail>完成觸手遊戲</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="000">
+  <name>女人的戰爭</name>
+  <detail>完成困VS屠殺者的對戰</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>首推黑白熊</name>
+  <detail>首次擊破黑白熊</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>黑白熊獵人</name>
+  <detail>打倒100隻黑白熊</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>熊熊屠殺者</name>
+  <detail>打倒1000隻黑白熊</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>戰鬥鐵人</name>
+  <detail>打倒所有類型的黑白熊</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>少女啊，鑽研修辭</name>
+  <detail>獲得超過一半的修辭彈</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="S" pid="000">
+  <name>登上修辭的巔峰</name>
+  <detail>獲得所有修辭彈</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>一天一枚</name>
+  <detail>獲得100枚黑白熊徽章</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="S" pid="000">
+  <name>天天一萬枚</name>
+  <detail>獲得10000枚黑白熊徽章</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="B" pid="000">
+  <name>收集清單</name>
+  <detail>首次將殺害清單交給葉隱</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="S" pid="000">
+  <name>剝奪權利</name>
+  <detail>將所有殺害清單交給葉隱</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>睜大眼睛觀察！</name>
+  <detail>首次發現躲貓貓小孩</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>開始接受遠距離教育</name>
+  <detail>首次獲得參考書並學到技能</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>文學之道</name>
+  <detail>首次獲得書籍並看過好感度事件</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="S" pid="000">
+  <name>極限屠殺</name>
+  <detail>將剪刀強化至上限</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="S" pid="000">
+  <name>監禁後的成長</name>
+  <detail>困的等級昇至20</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="S" pid="000">
+  <name>小襪襪妹妹</name>
+  <detail>收集到所有小襪襪妹妹</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="S" pid="000">
+  <name>兩人的希望</name>
+  <detail>所有成績都獲得「良」以上的成果</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="G" pid="000">
+  <name>最佳拍檔</name>
+  <detail>所有成績都獲得「優」以上的成果</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="G" pid="000">
+  <name>隱藏的是希望？抑或絕望？</name>
+  <detail>找到所有躲貓貓小孩</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="G" pid="000">
+  <name>絕對博學少女</name>
+  <detail>收集到所有情報資料</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="G" pid="000">
+  <name>技能女王</name>
+  <detail>獲得所有參考書</detail>
+ </trophy>
+ <trophy id="035" hidden="yes" ttype="G" pid="000">
+  <name>成長沒有極限</name>
+  <detail>困的等級昇至上限</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,88 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000672776e0a00ef61ec4ee029b8c82e178ca07e3096aa4b86bd4e13b86cb6268168fe86f74cca66fcda40e73320e40e924cdf222423514d30a8185aad8c4d13dbbec8bed78e1d4bab9d3be3f70e7f101f38e1ea259ef4e00740e04184149b21d14613eba7a439f1bca423af20929c9cbb22422087f30b7a29a39311da7c7f9318b82964db18a0038ef5ca29cee12275fbf439e7286-->
+<trophyconf version="1.1" platform="ps3,psp2" policy="small">
+ <npcommid>NPWR03789_00</npcommid>
+ <trophyset-version>01.02</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>When Vikings Attack!™</title-name>
+ <title-detail>When Vikings Attack!™</title-detail>
+ <group id="001">
+  <name>When Vikings Relax!</name>
+  <detail>When Vikings Relax!</detail>
+ </group>
+ <trophy id="000" hidden="no" ttype="G" pid="-1">
+  <name>100% complete</name>
+  <detail>Complete all quest levels, unlock all characters and earn all other trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="-1">
+  <name>Viking Impaler</name>
+  <detail>Knockout 25,000 Vikings in quest mode</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="-1">
+  <name>Online Champ!</name>
+  <detail>Win 50 public online Vs matches or Gold Rush tournaments</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="-1">
+  <name>Persistence</name>
+  <detail>Earn a gold star in all solo challenges</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Hook-a-donut</name>
+  <detail>Skewer the donut in 'The Fairground'</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Speed king</name>
+  <detail>Win an online match in under 5-seconds</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Jaywalker</name>
+  <detail>Make it through 'The Highway Code' without being hit by any cars </detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>On-call</name>
+  <detail>Take the doctor's car back to work</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Cake pacifist</name>
+  <detail>Save the cake</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>Antique Collector</name>
+  <detail>Save the priceless antique</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>Paradox</name>
+  <detail>Catch something you threw</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="-1">
+  <name>Vertigo</name>
+  <detail>Complete 'Up on the Roof' without falling off</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="-1">
+  <name>Striiiiike!</name>
+  <detail>Go bowling with Vikings</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="-1" gid="001">
+  <name>Hard as nails</name>
+  <detail>Beat wave 15 in solo survival mode</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="-1" gid="001">
+  <name>Ultimate Warrior</name>
+  <detail>Earn all 10 warrior characters</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>Shut yer trap</name>
+  <detail>Complete three consecutive rounds without falling down a trapdoor in 'Break a Leg'</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>Stalemate</name>
+  <detail>Force a timeout on 'Pawn Cocktail' while holding the king piece</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>Bumper Thumper</name>
+  <detail>Take out a player with a mega-multi-bounced pinball!</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>Triple Bogey</name>
+  <detail>Putt 3 balls in 'Fairway to Heaven'</detail>
+ </trophy>
+</trophyconf>

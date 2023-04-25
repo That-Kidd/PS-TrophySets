@@ -1,0 +1,84 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000453fc0fff1856f7017af636219a2064923d6fc1b3c80c27a4fc974d6875b6366806ba7550213754bafd3379e725bb847d9b9cae50346c25a4886c95d2230787dc9a48ac88bc7c70ecdbf32621656a1e428792ce220685ecdc64d8a70736414a0782120b792ede569d8d3a17d020ba47f07959641f2cfee007ac65dd2544e11f2b96b247e2b1e00693b0aa5d59b860a5443d1be3c-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR12131_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>end sleep</title-name>
+ <title-detail>end sleepのトロフィーセットです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>end sleep</name>
+  <detail>すべてのトロフィーを獲得し、「end sleep」を遊び尽くした証。お疲れ様でした(´∀｀*)</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>邂逅</name>
+  <detail>最初のスチルを見た。</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>first choice</name>
+  <detail>最初の選択肢を選んだ。</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>開幕</name>
+  <detail>ＯＰムービーを見た。</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>終幕</name>
+  <detail>初めてエンディングを見た。</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>スタッフロール</name>
+  <detail>初めてスタッフロールを見た。</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="000">
+  <name>前を向いて、振り返らずに。</name>
+  <detail>救えなかった命と、残された命と。</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>明日へのＣＡＬＬ</name>
+  <detail>静紅と二人で、生きていく世界。</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>新しく咲いた花</name>
+  <detail>焼け落ちた屋敷を背後に、彼女と二人。</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>幸せの花</name>
+  <detail>二人で紡ぐ、小さな幸せ。</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>sleep sleep</name>
+  <detail>それは既に死んだのと同じ世界で。</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="G" pid="000">
+  <name>fin</name>
+  <detail>求め続けた幸せな結末。</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="G" pid="000">
+  <name>Happy flower wedding.</name>
+  <detail>本命はこの人。</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="G" pid="000">
+  <name>All the bad end.</name>
+  <detail>なんで……ドア、開けたんですか……？</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="G" pid="000">
+  <name>All the ending.</name>
+  <detail>エンディングコンプリート！</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="G" pid="000">
+  <name>All the music.</name>
+  <detail>すべてのＢＧＭを聴いた。</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="G" pid="000">
+  <name>All the graphics.</name>
+  <detail>すべてのイベントＣＧを見た。</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="G" pid="000">
+  <name>All the choice.</name>
+  <detail>すべての選択肢を選んだ。</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="G" pid="000">
+  <name>All the another note.</name>
+  <detail>すべての手記を読んだ。</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,184 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000004a910c7abaa77db260b1741fef489f2b03ccb6363d8dca2f4a2c074d9db92c8d4d642e1368e784842adab4975a90836888945ab74bd16b7c3dadbf71db7367469e94ed03452500b1c868c4a43405f9b380a9193ee1ecf1adee03ec71e3cd7076d64bf28183ce8da4f69e5e40a76c4169a34cbe736b34279748d60f21f0f095f729b1d1fbce422f90ad29e865a88c31cc0a7de8ac-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR11392_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>オルフレール ～幸福の花束～</title-name>
+ <title-detail>オルフレール ～幸福の花束～</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>幸福の花束</name>
+  <detail>全てのトロフィーを取得しました</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>CGコンプリート</name>
+  <detail>全てのCGを取得しました</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>シーン回想コンプリート</name>
+  <detail>全てのシーン回想を取得しました</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>エンディングコンプリート</name>
+  <detail>エンディングを全て見ました</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>ルイスエンドコンプリート</name>
+  <detail>ルイスのエンディングを全て見ました</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>アデルエンドコンプリート</name>
+  <detail>アデルのエンディングを全て見ました</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>ザックエンドコンプリート</name>
+  <detail>ザックのエンディングを全て見ました</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>ノアエンドコンプリート</name>
+  <detail>ノアのエンディングを全て見ました</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>フィルエンドコンプリート</name>
+  <detail>フィルのエンディングを全て見ました</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>カインエンドコンプリート</name>
+  <detail>カインのエンディングを全て見ました</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="000">
+  <name>私たちが描く未来</name>
+  <detail>「私たちが描く未来」を見ました</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>ここから紡がれていく二人の物語</name>
+  <detail>「ここから紡がれていく二人の物語」を見ました</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="B" pid="000">
+  <name>おとぎ話は、おとぎ話のまま――</name>
+  <detail>「おとぎ話は、おとぎ話のまま――」を見ました</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="000">
+  <name>ひとつの終わりと、新たな始まり</name>
+  <detail>「ひとつの終わりと、新たな始まり」を見ました</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="B" pid="000">
+  <name>約束を叶える日</name>
+  <detail>「約束を叶える日」を見ました</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>夢見る人形～ルイスの独白～</name>
+  <detail>「夢見る人形～ルイスの独白～」を見ました</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>誓う愛、見守る影 </name>
+  <detail>「誓う愛、見守る影」を見ました</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>一緒にお風呂</name>
+  <detail>「一緒にお風呂」を見ました</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>ありがとう、さようなら </name>
+  <detail>「ありがとう、さようなら」を見ました</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>幸せのおすそわけ？ </name>
+  <detail>「幸せのおすそわけ？」を見ました</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="000">
+  <name>もう一度出会うために </name>
+  <detail>「もう一度出会うために」を見ました</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>彼の愛に背を向ける</name>
+  <detail>「彼の愛に背を向ける」を見ました</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="B" pid="000">
+  <name>夢見る人形～アデルの独白～</name>
+  <detail>「夢見る人形～アデルの独白～」を見ました</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>狂愛傀儡 </name>
+  <detail>「狂愛傀儡」を見ました</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="000">
+  <name>幸せな提案</name>
+  <detail>「幸せな提案」を見ました</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="B" pid="000">
+  <name>愛の溢れる新婚生活</name>
+  <detail>「愛の溢れる新婚生活」を見ました</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>離した理由</name>
+  <detail>「離した理由」を見ました</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="B" pid="000">
+  <name>蜜檻</name>
+  <detail>「蜜檻」を見ました</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="B" pid="000">
+  <name>快楽の時間の始まり</name>
+  <detail>「快楽の時間の始まり」を見ました</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="B" pid="000">
+  <name>交差した想い</name>
+  <detail>「交差した想い」を見ました</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="B" pid="000">
+  <name>祝福の声、幸福の連鎖</name>
+  <detail>「祝福の声、幸福の連鎖」を見ました</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="B" pid="000">
+  <name>永遠に、あなたのもの</name>
+  <detail>「永遠に、あなたのもの」を見ました</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="B" pid="000">
+  <name>共に沈みゆく、歪んだ幸福</name>
+  <detail>「共に沈みゆく、歪んだ幸福」を見ました</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="B" pid="000">
+  <name>分かち合う痛み、舐め合う傷</name>
+  <detail>「分かち合う痛み、舐め合う傷」を見ました</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="B" pid="000">
+  <name>恋が始まった場所で……</name>
+  <detail>「恋が始まった場所で……」を見ました</detail>
+ </trophy>
+ <trophy id="035" hidden="yes" ttype="B" pid="000">
+  <name>これからはあなたの騎士として</name>
+  <detail>「これからはあなたの騎士として」を見ました</detail>
+ </trophy>
+ <trophy id="036" hidden="yes" ttype="B" pid="000">
+  <name>ただいま</name>
+  <detail>「ただいま」を見ました</detail>
+ </trophy>
+ <trophy id="037" hidden="yes" ttype="B" pid="000">
+  <name>騎士として、あなたを守る</name>
+  <detail>「騎士として、あなたを守る」を見ました</detail>
+ </trophy>
+ <trophy id="038" hidden="yes" ttype="B" pid="000">
+  <name>嫌いなところまで愛してる</name>
+  <detail>「嫌いなところまで愛してる」を見ました</detail>
+ </trophy>
+ <trophy id="039" hidden="yes" ttype="B" pid="000">
+  <name>好きだから、さよならを……</name>
+  <detail>「好きだから、さよならを……」を見ました</detail>
+ </trophy>
+ <trophy id="040" hidden="yes" ttype="B" pid="000">
+  <name>未来への船出</name>
+  <detail>「未来への船出」を見ました</detail>
+ </trophy>
+ <trophy id="041" hidden="yes" ttype="B" pid="000">
+  <name>私たちの幸福、みんなの幸福</name>
+  <detail>「私たちの幸福、みんなの幸福」を見ました</detail>
+ </trophy>
+ <trophy id="042" hidden="yes" ttype="B" pid="000">
+  <name>復讐の業火、全ての破滅</name>
+  <detail>「復讐の業火、全ての破滅」を見ました</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="B" pid="000">
+  <name>おはよう</name>
+  <detail>ミニゲームでアラームを解除しました</detail>
+ </trophy>
+</trophyconf>

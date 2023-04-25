@@ -1,0 +1,124 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000002a2a88fa0942880b1eb64f98ad580196472f597999fd85aac9dc7569adec5f35f508ff29de0cfa867e11a54c776a5efc91b2e58a07c203bd58c38c189ebb7a9638cb9bd3aae296d938c258be9494098ba25c96868f323412e1102d0ac87a7210d51cd712eb8186fa391ed022c98464dbfde4aa28cda4a023a4204cf91d62d39f97df0a32e0232816f9229888fa82972d6bcd01d0-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR08014_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>ロゼと黄昏の古城</title-name>
+ <title-detail>ロゼと黄昏の古城のトロフィーセットです</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>ロゼと黄昏の古城</name>
+  <detail>全てのトロフィーを獲得した！</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>神速の星</name>
+  <detail>タイムアタックのtotaltimeで1:20:00以内を達成する</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="G" pid="000">
+  <name>美しき最後の薔薇</name>
+  <detail>ヴィオラを撃破する</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>ばらの花束</name>
+  <detail>全ての血の記憶を身に宿す</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="G" pid="000">
+  <name>闇の中の光</name>
+  <detail>100回死亡する</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>華より団子</name>
+  <detail>コレクションを全て集める</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>光速の星</name>
+  <detail>タイムアタックのtotaltimeで1:50:00以内を達成する</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>飛び立つ幼子</name>
+  <detail>ブランを撃破する</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>一輪のばら</name>
+  <detail>10の血の記憶を身に宿す</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>クイックスター</name>
+  <detail>時計塔上層をタイムアタックで1:50以内を達成する</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>卵の耐久実験</name>
+  <detail>古城のどこか一番高低差の大きい場所で巨人が飛び降りる</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>ロゼとの絆</name>
+  <detail>さらわれたロゼを助け出す</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>血に染まった花</name>
+  <detail>深層ノ廊をクリアする</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>ヒナの空中散歩</name>
+  <detail>深層ノ廊－１できのこに触れずに先へ進む</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>ロゼと片割れ</name>
+  <detail>時計塔をクリアする</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>金糸雀の知恵</name>
+  <detail>書庫をクリアする</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>赤い月</name>
+  <detail>古城のどこかで月を見る</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>繕う種</name>
+  <detail>30回死亡する</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>音速の星</name>
+  <detail>タイムアタックのtotaltimeで2:40:00以内を達成する</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>ばらの花びら</name>
+  <detail>5つの血の記憶を身に宿す</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>スピードスター</name>
+  <detail>深層ノ廊―２をタイムアタックで2:10以内を達成する</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>流星少女</name>
+  <detail>ロゼを100回投げる</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>つまれた蕾</name>
+  <detail>巨人がロゼを投げて死なせる</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>星になる</name>
+  <detail>どこかに居るけものの最期を看取る</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>食花植物</name>
+  <detail>中庭－４でロゼをナイスシュートする</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>薔薇の支配する庭</name>
+  <detail>中庭をクリアする</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>かごの鳥</name>
+  <detail>武器庫をクリアする</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>届かないさえずり</name>
+  <detail>地下牢をクリアする</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>茨道</name>
+  <detail>10回死亡する</detail>
+ </trophy>
+</trophyconf>

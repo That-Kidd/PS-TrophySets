@@ -1,0 +1,72 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000004159488b6ab829329044df6e81ebfedd83e13d903348199be5fdc2f24d4f2ab34f09244daae9cee58210a98a3ce08300e81bf460ab126e79758ec40316631e681d159cde9f52c9966eef05c9dab11c9e826c8a8cd995e6fd05bac8530f053dc5b805ecca9af173575400be67e5ce6544d5eec3c64119b7db5583dea489c6a30ae2cc98bce5e03895b25674c58acffa79727ffbf5-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR11612_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>AIR</title-name>
+ <title-detail>AIRのトロフィーです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>コンプリート</name>
+  <detail>全てのトロフィーを獲得</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="S" pid="000">
+  <name>再出発</name>
+  <detail>観鈴に見送られて町を出た</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="S" pid="000">
+  <name>未達成</name>
+  <detail>観鈴と別れて町を出た</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="S" pid="000">
+  <name>振出</name>
+  <detail>観鈴を残して町を出た</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="G" pid="000">
+  <name>夜明け</name>
+  <detail>DREAM編観鈴シナリオをクリアした</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="S" pid="000">
+  <name>決別</name>
+  <detail>佳乃に関わらないと決めて町を出た</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="000">
+  <name>決意</name>
+  <detail>佳乃を探しに町を出た</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="G" pid="000">
+  <name>魔法</name>
+  <detail>DREAM編佳乃シナリオをクリアした</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>夢現</name>
+  <detail>美凪と一緒に町を出た</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="G" pid="000">
+  <name>約束</name>
+  <detail>DREAM編美凪シナリオをクリアした</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="G" pid="000">
+  <name>空夢</name>
+  <detail>SUMMER編をクリアした</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="G" pid="000">
+  <name>旅立</name>
+  <detail>AIR編をクリアした</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="G" pid="000">
+  <name>初空の章</name>
+  <detail>初空の章を読み終えた</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="000">
+  <name>CG鑑賞コンプリート</name>
+  <detail>CG鑑賞をコンプリート</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="000">
+  <name>音楽鑑賞コンプリート</name>
+  <detail>音楽鑑賞をコンプリート</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="G" pid="000">
+  <name>壁紙集コンプリート</name>
+  <detail>壁紙集をコンプリート</detail>
+ </trophy>
+</trophyconf>

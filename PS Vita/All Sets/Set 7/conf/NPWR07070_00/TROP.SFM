@@ -1,0 +1,116 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000688ba915fef32b41eda1f3c700a7b52062c091dc63a4abfc117d752dcbfad144eab93a5d462981d134a7b8596a2c4de8c02b5e85e9a9eae5e1413a2f517af447068bef1cd02ff77cfd4c8cd99297df9ff29866eeee3c3419441fd6336e9019b98daee566d4e703f50033c804f5fcfc91ba2a2a28a91b388482a1b94f655904a8f088e4400c1a4c9353858aa80e9c97c26878b985-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR07070_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>ものべの -pure smile-</title-name>
+ <title-detail>ものべの -pure smile-</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>大博師</name>
+  <detail>全てのトロフィーを取得しました。</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="G" pid="000">
+  <name>CG全回収</name>
+  <detail>全てのCGを見ました。</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="G" pid="000">
+  <name>完全読了</name>
+  <detail>全てのシーンを読了しました。</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="G" pid="000">
+  <name>BGM全回収</name>
+  <detail>全てのBGMを聴きました。</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="G" pid="000">
+  <name>ムービー全回収</name>
+  <detail>全てのムービーを見ました。</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="S" pid="000">
+  <name>その他CG全回収</name>
+  <detail>共通ルート・飛車角ルートのCGを全て見ました。</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="000">
+  <name>夏葉CG全回収</name>
+  <detail>夏葉ルート・夏葉afterルートのCGを全て見ました。</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>すみCG全回収</name>
+  <detail>すみルート・すみafterルートのCGを全て見ました。</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>ありすCG全回収</name>
+  <detail>ありすルート・ありすafterルートのCGを全て見ました。</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="G" pid="000">
+  <name>夏葉afterルート読了</name>
+  <detail>夏葉afterルートを読了しました。</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="G" pid="000">
+  <name>すみafterルート読了</name>
+  <detail>すみafterルートを読了しました。</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="G" pid="000">
+  <name>ありすafterルート読了</name>
+  <detail>ありすafterルートを読了しました。</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="B" pid="000">
+  <name>飛車角pastルート読了</name>
+  <detail>飛車角pastルートを読了しました。</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>夏葉ルート読了</name>
+  <detail>夏葉ルートを読了しました。</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>すみルート読了</name>
+  <detail>すみルートを読了しました。</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="S" pid="000">
+  <name>ありすルート読了</name>
+  <detail>ありすルートを読了しました。</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>共通ルート読了</name>
+  <detail>共通ルートを読了しました。</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="S" pid="000">
+  <name>場面全開放</name>
+  <detail>全てのシーンが解放されました。</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="S" pid="000">
+  <name>Extra完全読了</name>
+  <detail>全てのExtraシーンを読了しました。</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>やったぁ！　おにいちゃん、大成功！</name>
+  <detail>アラーム解除ゲームに成功しました。</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>夏葉にタッチ</name>
+  <detail>時計モードで夏葉にタッチしました。</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>すみにタッチ</name>
+  <detail>時計モードですみにタッチしました。</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>ありすにタッチ</name>
+  <detail>時計モードでありすにタッチしました。</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>えみにタッチ</name>
+  <detail>時計モードでえみにタッチしました。</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>飛車角にタッチ</name>
+  <detail>時計モードで飛車角にタッチしました。</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="B" pid="000">
+  <name>夏果</name>
+  <detail>OPムービー1を見ました。</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>ものべののうた</name>
+  <detail>OPムービー2を見ました。</detail>
+ </trophy>
+</trophyconf>

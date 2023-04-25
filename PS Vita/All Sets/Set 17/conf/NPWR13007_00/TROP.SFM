@@ -1,0 +1,88 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000007af66c2b9ca23124a196879b64d0fff1803db45861ef452d72600f59a7179229f1fc27464408045b260f6a89c4bbef46a83599576e398a4675e1bdecb1534ba69610315d8aa9c095c40bb94b8c1ed48a78a9a45748e267869212d4c379224b8e5e3479a85a9f653165159cd9bcd95957ba9464011e041b9790710b44469544dc4a81c9c38e986b39a161a7922b1f82d8fef6e030-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR13007_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Twin Robots</title-name>
+ <title-detail>Twin Robots</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Platinum Robot</name>
+  <detail>Unlock all other trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Better together</name>
+  <detail>Reach the exit with both robots&#x0a;</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Acid addict</name>
+  <detail>Die 5 times inside an acid pool</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Gruyère robot</name>
+  <detail>Die on the spikes over 25 times</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>Blue tiles</name>
+  <detail>Step on all of them in one level</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>Lifeguard</name>
+  <detail>Share energy when your twin is about to die</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>So generous</name>
+  <detail>Give all your energy to your twin</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>Finished!</name>
+  <detail>Finish all the levels</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>Two on two</name>
+  <detail>Finish level 2 with both robots alive</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>Two and two makes 22</name>
+  <detail>Finish level 22 with both robots alive</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>Call it even</name>
+  <detail>Finish all the even levels with both robots alive</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>This is odd</name>
+  <detail>Finish all the odd levels with both robots alive</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>Always together</name>
+  <detail>Finish all the levels with both robots alive</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>See ya in another life, brotha</name>
+  <detail>Finish a level using only 1 robot, not switching control even once</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>Battery hunter</name>
+  <detail>Collect all batteries across all levels</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>Under pressure</name>
+  <detail>Both robots die smashed together</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>I am the one who knocks</name>
+  <detail>Run against a closed door</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="G" pid="000">
+  <name>Frogger</name>
+  <detail>Jump 75 times in one level, using the same robot</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="G" pid="000">
+  <name>The floor is lava</name>
+  <detail>Perform 10 consecutive wall jumps</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="G" pid="000">
+  <name>No rush</name>
+  <detail>Press the red button at the last minute, just before your twin gets crushed</detail>
+ </trophy>
+</trophyconf>

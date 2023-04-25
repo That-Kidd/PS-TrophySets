@@ -1,0 +1,176 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000008a258944bcc34fb2a9ccd034750d2a3cda47b6839141f81b24d8466fbb2a7dd2aae36aca65cc03ec4138b095f6bca8a8d336892eb23d2cc12cc67090fa3d3eea44b6a213de9b30e8a52364cac777b426b203a3e499e8c1613ce8b3470592e3a2c5a81e367893b7a156aa1e9f10d3eccbd0e8cd2682532414eda985a8036f01cdb551ef588b1a20d002fab50752f0c4bdca0e3a-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR12520_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>ペルソナ５ ダンシング・スターナイト</title-name>
+ <title-detail>ペルソナ５ ダンシング・スターナイト</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>ダンシング☆スターナイト</name>
+  <detail>全てのトロフィーを取得した</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>入念な計画</name>
+  <detail>チュートリアルをプレイした</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>変わらぬ結束</name>
+  <detail>仲間とのコミュイベントを見た</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>潜入ミッション開始</name>
+  <detail>部屋の中を探索した</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>揺るぎない利害関係</name>
+  <detail>コミュイベントを２０個見た</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>野郎の部屋は頂いた</name>
+  <detail>全ての仲間の男子の部屋を探索した</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>貴女の心を頂戴する</name>
+  <detail>全ての仲間の女子の部屋を探索した</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>最高のご褒美</name>
+  <detail>ステージでかけがえのないオタカラを手にした</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="G" pid="000">
+  <name>夢のその先へ</name>
+  <detail>全てのコミュイベントを見た</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="000">
+  <name>ちょっとは頂戴しました</name>
+  <detail>双子のカード探しで報酬を５つ入手した</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>怪盗王子</name>
+  <detail>双子のカード探しの報酬を全て入手した</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>続け囚人！</name>
+  <detail>双子の看守が宴に参戦した</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>ここからは本気出す</name>
+  <detail>最高難易度(ALL NIGHT)を解禁した</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>パリピはじめました</name>
+  <detail>コスチュームを入手した</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>半分ほどは頂いた！</name>
+  <detail>全てのコスチュームの半数を入手した</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="G" pid="000">
+  <name>怪盗百花繚乱</name>
+  <detail>全てのコスチュームを入手した</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>怪盗の必携ツール</name>
+  <detail>全ての眼鏡を入手した</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>獲物の輝き</name>
+  <detail>全てのアクセサリーの半数を入手した</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>伝説の宝物庫</name>
+  <detail>全てのアクセサリーを入手した</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>容疑者確保！</name>
+  <detail>曲の途中でステージが終了した</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>さあ、ショウタイムだ</name>
+  <detail>ＤＡＮＣＩＮＧ！で１曲クリアした</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>大怪盗への一歩</name>
+  <detail>いずれかの曲で最高評価(KING CRAZY)を獲得した</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>パーフェクトな犯行</name>
+  <detail>難易度HARD以上でノートの半分以上をパーフェクト判定でクリアした</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>誰にも止められない</name>
+  <detail>自分のハイスコアを更新した</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>我は汝、汝は誰？</name>
+  <detail>ヘアアレンジ、アクセサリー×２か所、カラーコンタクト、カラーウィッグを変更してダンスを開始した</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>変装の達人</name>
+  <detail>明智を除く怪盗団の全員で、メインダンサーでコスチュームを変更してダンスした</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="G" pid="000">
+  <name>スターたちのスターナイト</name>
+  <detail>仲間とのコミュフィーバーを４０種類以上見た</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="S" pid="000">
+  <name>トリックスター解体新書</name>
+  <detail>Ｐ５主人公（雨宮蓮）が参加するダンスを全て見た</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="S" pid="000">
+  <name>アリババ狂信者</name>
+  <detail>双葉が参加するダンスを全て見た</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>龍と雌豹</name>
+  <detail>竜司と杏がお互いの曲に参加した</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>不思議な師弟</name>
+  <detail>モルガナと春がお互いの曲に参加した</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>奇人とカタブツ</name>
+  <detail>祐介と真がお互いの曲に参加した</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>怪盗だけど踊ってみた</name>
+  <detail>リプレイを再生した</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>オタカラの山</name>
+  <detail>COLLECTIONでCHARACTERの『？？？』を全てオープンした</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>スタイリッシュ怪盗団</name>
+  <detail>コスチュームを『お気に入り』に登録した</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="S" pid="000">
+  <name>フルチューンでいこう</name>
+  <detail>全てのプレイカスタムを解放した</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>酸いも甘いもご自由に</name>
+  <detail>プレイカスタムでノリノリゲージの難易度を変更してクリアした</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>安全な綱渡り</name>
+  <detail>プレイカスタムで『GOODでもコンボが継続する』と『コンボが切れたらゲームオーバー』を同時にＯＮにしてクリアした</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>トリックノート</name>
+  <detail>プレイカスタムで『ノートの軌道が揺らぐ』と『ノートに緩急がつく』を同時にＯＮにしてクリアした</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="000">
+  <name>潜入ルート確保</name>
+  <detail>HARD以上の難易度で全ての『サポート』を同時にＯＮにして曲をクリアした</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="B" pid="000">
+  <name>優柔不断の快進撃</name>
+  <detail>『チャレンジ』を5個以上、『サポート』を5個以上、同時にＯＮにして曲をクリアした</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="B" pid="000">
+  <name>インポッシブルな作戦</name>
+  <detail>ALL NIGHTで１０個以上の『チャレンジ』をＯＮにしてダンスを開始した</detail>
+ </trophy>
+</trophyconf>

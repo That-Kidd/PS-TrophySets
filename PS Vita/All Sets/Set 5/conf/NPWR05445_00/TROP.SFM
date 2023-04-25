@@ -1,0 +1,100 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000ed56f1cd30ccdbff6ad87960d9e273a6d4a0e1180dc9b50d98f3945f6a8390461713f15f8d7084258a738c8f339f7298fff182970542fce41cd30db8c994753c1b66971cd979e7c62d5ea3768f8fe3dfc98c18ebbe4777a2ac8c02bd3601a72ba6be1cdfefc9f4d313a2bfce1edf7520b15c582d23f77a1428de24631fbdd4fd0f81d1439665761ac1c457db88cdc0720b3b3ec6-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR05445_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>GOD EATER 2</title-name>
+ <title-detail>GOD EATER 2 Trophy Set</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>GOD EATER</name>
+  <detail>Acquire all Trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="000">
+  <name>Chosen One</name>
+  <detail>Pass the Compatibility Test</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>Maiden Victory</name>
+  <detail>Win a battle against Aragami</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="S" pid="000">
+  <name>Awaken</name>
+  <detail>Arise in Power of Blood</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>Bewitching Butterfly</name>
+  <detail>Defeat Yan-Zhi</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="S" pid="000">
+  <name>Rememberance</name>
+  <detail>May his spirit rest in peace</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="G" pid="000">
+  <name>Over the Griefs</name>
+  <detail>Avenged Marduk, the killing of a dear fellow</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>Crossing Wills</name>
+  <detail>Succeed in releasing the patients</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>Countdown</name>
+  <detail>The Final Predation is about to be launched</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="G" pid="000">
+  <name>Tree of the Helix</name>
+  <detail>Set off on a never-ending battle, his power of will aside</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>Our Hollow Lady</name>
+  <detail>Defeat Nyx-Alpha</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>Shaman of Frenzy</name>
+  <detail>Defeat Kabbala-Kabbala</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="G" pid="000">
+  <name>Rock the Cradle</name>
+  <detail>That's one small step for man</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>Dreadful Gladiator</name>
+  <detail>Defeat Spartacus</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="G" pid="000">
+  <name>Unleashed from Abyss</name>
+  <detail>Defeat Magatsu-Kyuubi</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="G" pid="000">
+  <name>Sole Honed Skill</name>
+  <detail>Go on a battle with a mastered Blood-Art</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Burst of Blood</name>
+  <detail>Prey on an Aragami</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Hand in Hand</name>
+  <detail>Link-Aid a fellow</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>You have Control</name>
+  <detail>Link-Burst a fellow</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Leave it to Me</name>
+  <detail>Get a Link-Burst from a fellow</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>Full-fledged Eater</name>
+  <detail>Get SSS Rank in 10 Missions</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>Stager</name>
+  <detail>Get SSS Rank in 20 Missions</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="G" pid="000">
+  <name>Master</name>
+  <detail>Get SSS Rank in 50 Missions</detail>
+ </trophy>
+</trophyconf>

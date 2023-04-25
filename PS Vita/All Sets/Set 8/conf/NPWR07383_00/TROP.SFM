@@ -1,0 +1,216 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000184bc88268c451d705e4ce03d00872de5bb2f52bc638105fd344deb3ed941a266b6917915ed5366b934e0aa30068a16145e4095e82a0ff1d07d28b5446ffe07de671ec65c359adbdea0b8251ffb43e300acd82cd07ff7007ca7d0c742534f636603341c6eaad0f5c9cf90d1ae6e985355b0501b8d4fd2349bba23df42f98c7e61984933c3a03f9620ac20c3b351d090121be5ad2-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR07383_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>초여신신앙 느와르 격신 블랙 하트</title-name>
+ <title-detail>「초차원신앙 느와르 격신 블랙하트」의 트로피 정보입니다.</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>초여신신앙 느와르 격신 블랙 하트 마스터</name>
+  <detail>초여신신앙 느와르를 완전 클리어.&#x0a;&#x0a;「퍼펙트야, 퍼펙트!&#x0a;너무 완벽해! 축하해」</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>진격 개시!</name>
+  <detail>NEW GAME으로 게임을 시작했다.&#x0a;&#x0a;「이 때를 기다리고 있었어!&#x0a;자아, 나의 쾌진격이 시작되는 거야!」</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>아이템 빌더</name>
+  <detail>아이템을 개발했다.&#x0a;&#x0a;「처음 한 것치곤 제법인데?&#x0a;다음에는 더 좋은 걸 만들어야 해」</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="S" pid="000">
+  <name>아이템 프로페서</name>
+  <detail>50종류의 아이템을 개발했다.&#x0a;&#x0a;「헤에, 꽤 많은 종류를 개발해냈구나.&#x0a;이만큼 했다면 인정을 해줘야겠는데」</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="S" pid="000">
+  <name>돈은 돌고도는 것</name>
+  <detail>누적으로 9999999 크레딧을 벌었다.&#x0a;&#x0a;「에!? 부자… 가 아니라 누적이구나.&#x0a;뭐, 쌓아두기만 해도 의미가 없지」</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>게임 크리에이터</name>
+  <detail>디스크 메이크를 했다.&#x0a;&#x0a;「디스크 메이크 성공이야. 잘 이용&#x0a;해서, 더욱 더 강해지는 거야」</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="000">
+  <name>밀리언 타이틀</name>
+  <detail>디스크 메이크로 「신의 게임」을 작성했다.&#x0a;&#x0a;「신의 게임을 만들다니 대단하잖아!&#x0a;그대로 더 많이 만들어줘야 해」</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>집으로 보내드립니다</name>
+  <detail>처음으로 AMAZOO.net에서 물건을 구입했다.&#x0a;&#x0a;「계획적으로 물건을 구입해서,&#x0a;방을 충실하게 꾸며나가야겠어」</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>호화찬란</name>
+  <detail>심느와르에서 고져스 룸을 컴플리트.&#x0a;&#x0a;「여기까지 오면 장관인데.&#x0a;보고만 있어도 조금 텐션이 올라간다니까」</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="000">
+  <name>처음하는 부탁</name>
+  <detail>처음으로 느와르님에게 부탁을 했다.&#x0a;&#x0a;「뭐, 이 정도라면 별 것 아니야.&#x0a;다음에도 열심히 해보자」</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>모두의 여신님</name>
+  <detail>느와르님에게 부탁을 전부 성공시켰다.&#x0a;&#x0a;「이걸로 모두들, 조금 쯤은 고민이 해결&#x0a;되었으려나… 그렇다면 기쁠 텐데」</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>여신 부활!</name>
+  <detail>처음으로 미션에 도전했다.&#x0a;&#x0a;「아무리 봐도 약해졌어…&#x0a;하지만, 이 정도로 좌절하진 않을 거야!」</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>백전연마</name>
+  <detail>100회 미션에 도전했다.&#x0a;&#x0a;「슬슬 전투에도 익숙해졌는 걸.&#x0a;그렇다고 방심하면 절대 안 돼」</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="000">
+  <name>일격필살</name>
+  <detail>최대 대미지 9999를 달성했다.&#x0a;&#x0a;「와우, 굉장하잖아.&#x0a;이거라면 어떤 적이라도 한 방이야」</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="B" pid="000">
+  <name>그리고 한계로</name>
+  <detail>누군가 한명을 Lv.99로 만들었다.&#x0a;&#x0a;「레벨 카운트 스톱이라니 제법이잖아.&#x0a;이만큼 파고든 건 제대로 평가를 해줘야겠어」</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="G" pid="000">
+  <name>레벨 콘덕터</name>
+  <detail>전원을 Lv.99로 만들었다.&#x0a;&#x0a;「전원의 레벨을 카운터 스톱!? 진짜로?&#x0a;이건 그야말로 달인의 업적인 걸」</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>처음하는 서브 미션</name>
+  <detail>처음으로 서브 미션을 했다.&#x0a;&#x0a;「서브 미션을 했구나.&#x0a;잘 활용해줘야 해」</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>처음하는 재전투 시뮬레이션</name>
+  <detail>처음으로 재전투 시뮬레이션을 했다.&#x0a;&#x0a;「재전투 시뮬레이션을 했구나.&#x0a;이거, 조금 신기한 감각이란 말이지」</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>모두의 인기인:느와르</name>
+  <detail>느와르와 다른 모두와의&#x0a;릴리 랭크를 최대로 만들었다.&#x0a;&#x0a;「모두모두 친구야!」</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>모두의 인기인:넵튠</name>
+  <detail>넵튠과 다른 모두와의&#x0a;릴리 랭크를 최대로 만들었다.&#x0a;&#x0a;「이게 나의 인망이야!」</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="000">
+  <name>모두의 인기인:블랑</name>
+  <detail>블랑과 다른 모두와의&#x0a;릴리 랭크를 최대로 만들었다.&#x0a;&#x0a;「…동료란 건 좋은 거구나」</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>모두의 인기인:벨</name>
+  <detail>벨과 다른 모두와의&#x0a;릴리 랭크를 최대로 만들었다.&#x0a;&#x0a;「활기차서 정말 즐거워요」</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="B" pid="000">
+  <name>모두의 인기인:리파이</name>
+  <detail>리파이와 다른 모두와의&#x0a;릴리 랭크를 최대로 만들었다.&#x0a;&#x0a;「모두 함께 최강이 되어보자 해!」</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>모두의 인기인:릿드</name>
+  <detail>릿드와 다른 모두와의&#x0a;릴리 랭크를 최대로 만들었다.&#x0a;&#x0a;「후… 내가 동료라니…!?」</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="000">
+  <name>모두의 인기인:레스토아</name>
+  <detail>레스토아와 다른 모두와의&#x0a;릴리 랭크를 최대로 만들었다.&#x0a;&#x0a;「여러분은 소중한 동료이니까요」</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="B" pid="000">
+  <name>모두의 인기인:에스텔</name>
+  <detail>에스텔과 다른 모두와의&#x0a;릴리 랭크를 최대로 만들었다.&#x0a;&#x0a;「인연은 중요한 거야! 전설적으로 말이지!」</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>모두의 인기인:아인·알</name>
+  <detail>아인·알과 다른 모두와의&#x0a;릴리 랭크를 최대로 만들었다.&#x0a;&#x0a;「이것이 운명의 고리라는 것이다…」</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="B" pid="000">
+  <name>모두의 인기인:푸나</name>
+  <detail>푸나와 다른 모두와의&#x0a;릴리 랭크를 최대로 만들었다.&#x0a;&#x0a;「후후~, 다들 정말 좋아해요~」</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="B" pid="000">
+  <name>모두의 인기인:모루</name>
+  <detail>모루와 다른 모두와의&#x0a;릴리 랭크를 최대로 만들었다.&#x0a;&#x0a;「모두들, 모루의 사냥 동료!」</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="B" pid="000">
+  <name>모두의 인기인:마스지마 아이</name>
+  <detail>마스지마 아이와 다른 모두와의&#x0a;릴리 랭크를 최대로 만들었다.&#x0a;&#x0a;「저의 아이돌 활동, 도와주세요!」</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="B" pid="000">
+  <name>모두의 인기인:류카</name>
+  <detail>류카와 다른 모두와의&#x0a;릴리 랭크를 최대로 만들었다.&#x0a;&#x0a;「모두들 개성적… 좋다고 생각해」</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="B" pid="000">
+  <name>모두의 인기인:블롯사·아이젠</name>
+  <detail>블롯사·아이젠과 다른 모두와의&#x0a;릴리 랭크를 최대로 만들었다.&#x0a;&#x0a;「모두 모여서 큰 쇼를 해보고 싶은데」</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="B" pid="000">
+  <name>모두의 인기인:츠네미</name>
+  <detail>츠네미와 다른 모두와의&#x0a;릴리 랭크를 최대로 만들었다.&#x0a;&#x0a;「모두 함께 노래를 불러요」</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="B" pid="000">
+  <name>모두의 인기인:윈</name>
+  <detail>윈과 다른 모두와의&#x0a;릴리 랭크를 최대로 만들었다.&#x0a;&#x0a;「좋―아, 모두 함께 축구를 하자!」</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="B" pid="000">
+  <name>모두의 인기인:레이디·와크</name>
+  <detail>레이디·와크와 다른 모두와의&#x0a;릴리 랭크를 최대로 만들었다.&#x0a;&#x0a;「여러분을 먹어버리고 싶어요」</detail>
+ </trophy>
+ <trophy id="035" hidden="yes" ttype="B" pid="000">
+  <name>모두의 인기인:제네리아·G</name>
+  <detail>제네리아·G와 다른 모두와의&#x0a;릴리 랭크를 최대로 만들었다.&#x0a;&#x0a;「좋은 데이터를 얻을 수 있을 것 같습니다!」</detail>
+ </trophy>
+ <trophy id="036" hidden="yes" ttype="B" pid="000">
+  <name>모두의 인기인:사오리</name>
+  <detail>사오리와 다른 모두와의&#x0a;릴리 랭크를 최대로 만들었다.&#x0a;&#x0a;「여러분도 함께 사랑… 하지 않으시겠어요?」</detail>
+ </trophy>
+ <trophy id="037" hidden="yes" ttype="B" pid="000">
+  <name>모두의 인기인:비오</name>
+  <detail>비오와 다른 모두와의&#x0a;릴리 랭크를 최대로 만들었다.&#x0a;&#x0a;「일단 천천히 썩어볼까?」</detail>
+ </trophy>
+ <trophy id="038" hidden="yes" ttype="B" pid="000">
+  <name>모두의 인기인:산고</name>
+  <detail>산고와 다른 모두와의&#x0a;릴리 랭크를 최대로 만들었다.&#x0a;&#x0a;「호―호호홋! 즐겁구나」</detail>
+ </trophy>
+ <trophy id="039" hidden="yes" ttype="B" pid="000">
+  <name>모두의 인기인:리틀·레인</name>
+  <detail>리틀·레인과 다른 모두와의&#x0a;릴리 랭크를 최대로 만들었다.&#x0a;&#x0a;「폐를 끼치지 않도록 힘내겠어요」</detail>
+ </trophy>
+ <trophy id="040" hidden="yes" ttype="B" pid="000">
+  <name>서장 클리어</name>
+  <detail>서장을 클리어했다.&#x0a;&#x0a;「이제 게임시장계의 통일까지,&#x0a;얼마 남지 않았어!」</detail>
+ </trophy>
+ <trophy id="041" hidden="yes" ttype="B" pid="000">
+  <name>제1장 클리어</name>
+  <detail>제1장을 클리어했다.&#x0a;&#x0a;「큰일이 벌어지긴 했지만,&#x0a;여신 모두가 힘을 합쳐보자」</detail>
+ </trophy>
+ <trophy id="042" hidden="yes" ttype="B" pid="000">
+  <name>제2장 클리어</name>
+  <detail>제2장을 클리어했다.&#x0a;&#x0a;「옛날의 동료들이 또 협력해준다는 건,&#x0a;왠지 기쁜 일인 걸」</detail>
+ </trophy>
+ <trophy id="043" hidden="yes" ttype="B" pid="000">
+  <name>제3장 클리어</name>
+  <detail>제3장을 클리어했다.&#x0a;&#x0a;「용사란 건 그렇게 중요한 거야?&#x0a;처음부터 두 사람이라도 괜찮았던 게 아닐까…」</detail>
+ </trophy>
+ <trophy id="044" hidden="yes" ttype="B" pid="000">
+  <name>제4장 클리어</name>
+  <detail>제4장을 클리어했다.&#x0a;&#x0a;「아이도 대담한 짓을 하는 걸…&#x0a;하지만 이해해줘서 다행이야」</detail>
+ </trophy>
+ <trophy id="045" hidden="yes" ttype="B" pid="000">
+  <name>제5장 클리어</name>
+  <detail>제5장을 클리어했다.&#x0a;&#x0a;「넵튠도 참 곤란한 아이라니까.&#x0a;하지만, 최종적으론 해결이 되었으니 다행이야」</detail>
+ </trophy>
+ <trophy id="046" hidden="yes" ttype="B" pid="000">
+  <name>제6장 클리어</name>
+  <detail>제6장을 클리어했다.&#x0a;&#x0a;「사오리, 그 녀석에게 그런… 아니, 아니야!&#x0a;그 녀석 따윈 아무래도 좋다니까!」</detail>
+ </trophy>
+ <trophy id="047" hidden="yes" ttype="B" pid="000">
+  <name>제7장 클리어</name>
+  <detail>제7장을 클리어했다.&#x0a;&#x0a;「괜찮다 생각하고 맡겼을 때일수록&#x0a;트러블이 일어나는 법이라니까…」</detail>
+ </trophy>
+ <trophy id="048" hidden="yes" ttype="B" pid="000">
+  <name>제8장 클리어</name>
+  <detail>제8장을 클리어했다.&#x0a;&#x0a;「뭔가가 일어나고 있는 건 틀림없어.&#x0a;방심하지 마!」</detail>
+ </trophy>
+ <trophy id="049" hidden="yes" ttype="B" pid="000">
+  <name>제9장 클리어</name>
+  <detail>제9장을 클리어했다.&#x0a;&#x0a;「이걸로 시장계는 평화로워질 거야.&#x0a;조금, 감회가 깊은 걸」</detail>
+ </trophy>
+ <trophy id="050" hidden="yes" ttype="S" pid="000">
+  <name>굿 엔드</name>
+  <detail>굿 엔드를 봤다.&#x0a;&#x0a;「그런 일이 있었어도 결국은&#x0a;평소랑 마찬가지인 거구나…」</detail>
+ </trophy>
+ <trophy id="051" hidden="yes" ttype="G" pid="000">
+  <name>트루 엔드</name>
+  <detail>트루 엔드를 봤다.&#x0a;&#x0a;「앞으로도 계속… 모두가 힘을 합쳐&#x0a;시장계를 지켜내는 거야!」</detail>
+ </trophy>
+</trophyconf>

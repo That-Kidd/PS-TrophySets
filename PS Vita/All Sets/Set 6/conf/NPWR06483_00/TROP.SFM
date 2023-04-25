@@ -1,0 +1,184 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000006cad03b7c686d38747d3ee76d355371c64ca18ce88e7f192bff89675ff648766a63097bf6cdee6d11f1b7f0610a9a8dfbbd63c9651a5f5422db9e96de3da5eddf9c8d99978430ad523050f9bde62450a22de520e9e3a20023828fcbad789822c8cb4f3db74304907d23f21205be6ed3255f83c5e9faebb8c73026ae3cf987662ad488d7f390a3582d969c9ad20f0ecbf2b0ad248-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR06483_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>『デカ盛り 閃乱カグラ』本体パックＢ (月閃・蛇女)</title-name>
+ <title-detail>『デカ盛り 閃乱カグラ』本体パックＢ (月閃・蛇女)&#x0a;専用トロフィー</title-detail>
+ <group id="001">
+  <name>『デカ盛り 閃乱カグラ』本体パックＢ用キャラクター追加セット (半蔵・紅蓮)</name>
+  <detail>『デカ盛り 閃乱カグラ』本体パックＢ用キャラクター追加セット (半蔵・紅蓮)&#x0a;専用トロフィー</detail>
+ </group>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Thank you for Cooking!!</name>
+  <detail>本体パックＢ（月閃・蛇女）ですべてのトロフィーを獲得。</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>少女達の素顔を知る者</name>
+  <detail>『デカ盛り少女忍法帖』を本体パックＢ（月閃・蛇女）にデフォルトで入っている全キャラクターでクリア。</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>全ては正義の為…プリ！</name>
+  <detail>『デカ盛り少女忍法帖』を雪泉でクリア。</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>我のマンガ道に終わりなし</name>
+  <detail>『デカ盛り少女忍法帖』を叢でクリア。</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>わしの勝ちでよろしいですね</name>
+  <detail>『デカ盛り少女忍法帖』を夜桜でクリア。</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>これが悲劇の一部始終…</name>
+  <detail>『デカ盛り少女忍法帖』を四季でクリア。</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>美野里の料理でみんな元気！</name>
+  <detail>『デカ盛り少女忍法帖』を美野里でクリア。</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>もうイケメンと呼ばせない</name>
+  <detail>『デカ盛り少女忍法帖』を雅緋でクリア。</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>引き籠りの大きな決意</name>
+  <detail>『デカ盛り少女忍法帖』を紫でクリア。</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="000">
+  <name>よしっ！　合格だ！</name>
+  <detail>『デカ盛り少女忍法帖』を忌夢でクリア。</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="000">
+  <name>母性の芽生えは突然に</name>
+  <detail>『デカ盛り少女忍法帖』を両備でクリア。</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>良い子は絶対マネしちゃダメだよ</name>
+  <detail>『デカ盛り少女忍法帖』を両奈でクリア。</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>ようこそ！デカ盛りクッキングへ</name>
+  <detail>初めてのクリア。（デカ盛り少女忍法帖、連閃料理対決、個別料理対決問わず）</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>あーれー</name>
+  <detail>料理対決に敗北し全裸にされた。</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>文句なしの出来栄え</name>
+  <detail>一度も失敗をせずに料理対決をクリアした。</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>経験豊富は良いことです！</name>
+  <detail>累計スコアが5000000(500万)点突破した。</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>この女、場数が違う！！</name>
+  <detail>累計スコアが10000000(1000万)点突破した。</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>初心者卒業</name>
+  <detail>累計ノート数が5000個突破した。</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="S" pid="000">
+  <name>いいおっぱい</name>
+  <detail>累計ノート数が11081個突破した。</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="G" pid="000">
+  <name>ハッピークッキング</name>
+  <detail>累計ノート数が50000（5万）個突破した。</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>はじめての女体盛り</name>
+  <detail>初女体盛り。</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>おっぱいがいっぱい</name>
+  <detail>本体パックＢ (月閃・蛇女) にデフォルトで入っている全キャラクターの女体盛りを見た。</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>良き眺めぞ！</name>
+  <detail>女体盛りを50回見た。</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>これで君もハーレム王</name>
+  <detail>女体盛りを100回見た。</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>パンツコレクタ－</name>
+  <detail>49枚のパンツをすべて入手した。</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="S" pid="000">
+  <name>恥じらう少女</name>
+  <detail>更衣室でいたずらをした。</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="G" pid="000">
+  <name>セクハラ大王</name>
+  <detail>更衣室を遊びつくした。</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="S" pid="000">
+  <name>突き進む女</name>
+  <detail>累計忍法回数が100回突破した。</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="G" pid="000">
+  <name>忍法皆伝</name>
+  <detail>累計忍法回数が500回突破した。</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>まだまだ序の口</name>
+  <detail>忍法レベルが5を突破！</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="S" pid="000">
+  <name>この時を待っていた！</name>
+  <detail>忍法レベルが15を突破！</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="S" pid="000">
+  <name>100のレパートリーを持つ女</name>
+  <detail>クリア回数100曲達成！（デカ盛り少女忍法帖、連閃料理対決、個別料理対決問わず）</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="G" pid="000">
+  <name>料理の事なら任せなさい！</name>
+  <detail>クリア回数200曲達成！（デカ盛り少女忍法帖、連閃料理対決、個別料理対決問わず）</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="B" pid="-1" gid="001">
+  <name>やっぱり太いのが一番だよ！</name>
+  <detail>『デカ盛り少女忍法帖』を飛鳥でクリア。</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="B" pid="-1" gid="001">
+  <name>世界の平和は私が守ります！</name>
+  <detail>『デカ盛り少女忍法帖』を斑鳩でクリア。</detail>
+ </trophy>
+ <trophy id="035" hidden="yes" ttype="B" pid="-1" gid="001">
+  <name>アタイの名前はハーレム王</name>
+  <detail>『デカ盛り少女忍法帖』を葛城でクリア。</detail>
+ </trophy>
+ <trophy id="036" hidden="yes" ttype="B" pid="-1" gid="001">
+  <name>らぶ・ひばり！</name>
+  <detail>『デカ盛り少女忍法帖』を柳生でクリア。</detail>
+ </trophy>
+ <trophy id="037" hidden="yes" ttype="B" pid="-1" gid="001">
+  <name>たくさん食べても問題ないよ！</name>
+  <detail>『デカ盛り少女忍法帖』を雲雀でクリア。</detail>
+ </trophy>
+ <trophy id="038" hidden="yes" ttype="B" pid="-1" gid="001">
+  <name>花開く笑いの才能</name>
+  <detail>『デカ盛り少女忍法帖』を焔でクリア。</detail>
+ </trophy>
+ <trophy id="039" hidden="yes" ttype="B" pid="-1" gid="001">
+  <name>もやしニューウェーブ</name>
+  <detail>『デカ盛り少女忍法帖』を詠でクリア。</detail>
+ </trophy>
+ <trophy id="040" hidden="yes" ttype="B" pid="-1" gid="001">
+  <name>わしの天職発見や</name>
+  <detail>『デカ盛り少女忍法帖』を日影でクリア。</detail>
+ </trophy>
+ <trophy id="041" hidden="yes" ttype="B" pid="-1" gid="001">
+  <name>大人の女性になれたかな</name>
+  <detail>『デカ盛り少女忍法帖』を未来でクリア。</detail>
+ </trophy>
+ <trophy id="042" hidden="yes" ttype="B" pid="-1" gid="001">
+  <name>レッツ○○○！</name>
+  <detail>『デカ盛り少女忍法帖』を春花でクリア。</detail>
+ </trophy>
+</trophyconf>

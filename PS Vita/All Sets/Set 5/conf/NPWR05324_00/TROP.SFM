@@ -1,0 +1,156 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000007a583c099c365918e386cb3c4f830dcaeec1086466a830dbf20e7dfdc35a7bfc9df894ea890a20f47acf499f450326fe20a36b64e01e4df5aa7dfd44e5e13a61396ad9e96531aba6a55015d9eee062aabe27ce9f8b82ec02d0b3460c3de80f58290bc36d248a3425199ff288e618bcd682eefb86af5b15d8d5584693e2e78f99adffe7af5de4f312c91434df95c91445cdced5f8-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR05324_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>クリミナガールズ　INVITATION&#x0a;トロフィーセット</title-name>
+ <title-detail>クリミナルガールズ　INVITATION　のトロフィーセットです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>トロフィー・コンプリート</name>
+  <detail>すべてのトロフィーを獲得しました。</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>収監フロア突破！</name>
+  <detail>収監フロアをクリアしました。</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>泥の試練を突破！</name>
+  <detail>泥の試練をクリアしました。</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>炎の試練を突破！</name>
+  <detail>炎の試練をクリアしました。</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>氷の試練を突破！</name>
+  <detail>氷の試練をクリアしました。&#x0a;みんなの心をひとつに！</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>過去の罪との決別！</name>
+  <detail>学び舎での試練をクリアしました。</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>少女地獄突破！</name>
+  <detail>少女地獄をクリアしました。</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>支配者を超えた！</name>
+  <detail>X層支配者の領域をクリアしました。</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>最強の証！</name>
+  <detail>あなたはこの地獄のチャンピオンです。</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="000">
+  <name>さらなる試練を乗り越える！</name>
+  <detail>古き記憶の園をクリアしました。</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>キサラギを騎士化</name>
+  <detail>キサラギを騎士化しました。</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>ランを騎士化</name>
+  <detail>ランを騎士化しました。</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>アリスを騎士化</name>
+  <detail>アリスを騎士化しました。</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>トモエを騎士化</name>
+  <detail>トモエを騎士化しました。</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>サコを騎士化</name>
+  <detail>サコを騎士化しました。</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="S" pid="000">
+  <name>ユコを騎士化</name>
+  <detail>ユコを騎士化しました。</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="S" pid="000">
+  <name>シンを騎士化</name>
+  <detail>シンを騎士化しました。</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="S" pid="000">
+  <name>ミウを騎士化</name>
+  <detail>ミウを騎士化しました。</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="S" pid="000">
+  <name>ヒメカミを騎士化</name>
+  <detail>ヒメカミを騎士化しました。</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="S" pid="000">
+  <name>キサラギの思い出の家</name>
+  <detail>キサラギのガールズオーダーを達成しました。</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="S" pid="000">
+  <name>ランと学び舎の思い出</name>
+  <detail>ランのガールズオーダーを達成しました。</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="S" pid="000">
+  <name>アリスはもう嘘をつかない</name>
+  <detail>アリスのガールズオーダーを達成しました。</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="S" pid="000">
+  <name>トモエの湯けむり温泉記</name>
+  <detail>トモエのガールズオーダーを達成しました。</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="S" pid="000">
+  <name>サコの一番大切なもの</name>
+  <detail>サコのガールズオーダーを達成しました。</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="S" pid="000">
+  <name>ユコのお手紙大作戦</name>
+  <detail>ユコのガールズオーダーを達成しました。</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="S" pid="000">
+  <name>シンの花丸教官テスト</name>
+  <detail>シンのガールズオーダーを達成しました。</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="S" pid="000">
+  <name>ミウの完全地獄講習</name>
+  <detail>ミウのガールズオーダーを達成しました。</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="S" pid="000">
+  <name>ヒメカミ、浄化への道</name>
+  <detail>ヒメカミのガールズオーダーを達成しました。</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="S" pid="000">
+  <name>今日は美味しいカレーの日</name>
+  <detail>キサラギの個別エンディングを見ました。</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="S" pid="000">
+  <name>レッツ・ピクニック</name>
+  <detail>ランの個別エンディングを見ました。</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="S" pid="000">
+  <name>猫の神社にお参り</name>
+  <detail>アリスの個別エンディングを見ました。</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="S" pid="000">
+  <name>楽しいお買い物</name>
+  <detail>トモエの個別エンディングを見ました。</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="S" pid="000">
+  <name>ケーキてんごくだぞ！</name>
+  <detail>サコの個別エンディングを見ました。</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="S" pid="000">
+  <name>あまい、あま～いイチゴタルト</name>
+  <detail>ユコの個別エンディングを見ました。</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="S" pid="000">
+  <name>まこと　イン　アクアリウム</name>
+  <detail>シンの個別エンディングを見ました。</detail>
+ </trophy>
+ <trophy id="035" hidden="yes" ttype="S" pid="000">
+  <name>皆で仲良く学園生活</name>
+  <detail>エンディングに到達しました。</detail>
+ </trophy>
+ <trophy id="036" hidden="yes" ttype="G" pid="000">
+  <name>大団円の集合写真</name>
+  <detail>隠しエンディングに到達しました。</detail>
+ </trophy>
+</trophyconf>

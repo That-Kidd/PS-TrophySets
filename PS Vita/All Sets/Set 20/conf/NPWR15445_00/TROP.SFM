@@ -1,0 +1,108 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000b61c9fa4ba67bdae43e3472d6d7d00b7160ef2393a6b6a4223ea15c3b9f6531cf7d0aeec71cfb949edc96bc12ffd0f8a8ddb827e6ec61db438857578de9dceeac6518ba5b53832ae5e35202eb65a0ae8bd792bc850823f290034b1c4e48752115c069c20fb73870968dbeac1d9f16a7cbc29402c0ab36f8dac94813152a5af052763360d6fef1c8fd17422f063dee121b1ba5042-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR15445_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Omega Strike</title-name>
+ <title-detail>Trophy set for Omega Strike</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Omega squad</name>
+  <detail>Unlock all trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Ohh, Shiny</name>
+  <detail>Open a chest</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>Treasure Hunter</name>
+  <detail>Open 10 chests</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>Loot Hoarder</name>
+  <detail>Open all chests in one game</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>Mysterious Cube</name>
+  <detail>Find a Life Cube</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>Life Extended</name>
+  <detail>Find 10 Life Cubes</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>Cubist</name>
+  <detail>Collect all Life Cubes in one game</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>Pocket Change</name>
+  <detail>Collect 10 coins</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>Coin Grabber</name>
+  <detail>Collect 50 coins</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>Every Penny</name>
+  <detail>Collect 100 coins</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>Boomstick</name>
+  <detail>Buy a weapon upgrade</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>Taste's like Chicken</name>
+  <detail>Buy a Chicken Treat</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>A Feast To Die For</name>
+  <detail>Buy a Grand Feast</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>Tough Guy</name>
+  <detail>Defeat Dozer</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>Wrassled</name>
+  <detail>Defeat Wrassled</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>Tin Can</name>
+  <detail>Defeat commander armstrong</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Drill No More</name>
+  <detail>Defeat Drillmaster 5000</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>Crazy Ape</name>
+  <detail>Defeat the forest guardian</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>Hard Hat</name>
+  <detail>Defeat Overseer Brodus</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="000">
+  <name>Soldier</name>
+  <detail>Defeat Colonel Gurtz</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>Disposed</name>
+  <detail>Defeat Garbage Disposal Unit X13</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="G" pid="000">
+  <name>Wings Clipped</name>
+  <detail>Defeat the sky commander</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="G" pid="000">
+  <name>Dethroned</name>
+  <detail>Defeat the Garbage King</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="G" pid="000">
+  <name>Intruder</name>
+  <detail>Defeat OmegaBot-2000</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="G" pid="000">
+  <name>Champion</name>
+  <detail>Defeat Doctor Omega</detail>
+ </trophy>
+</trophyconf>

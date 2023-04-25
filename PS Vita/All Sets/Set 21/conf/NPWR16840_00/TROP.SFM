@@ -1,0 +1,116 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000008bd728bac55e5f2bb1b47b9108a6382e773400668607a65b3117497962e3650913c27099f428d2c79b2b34ff18bddac843c1fb5d8f6bd77f4d215e9e9ffe707149ecac0e53ce5ebe4b222fbe9d331e03461dc6e6ef1ee4b91f65bc996aba18fc4e56940101b5acf2b5d8f5e29a721fa9ef8920ebc03faac8901d5f7b1dbe4b4ad2c7fdef6f37b2ae9cf18d6a368db6783f9e59b5-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR16840_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Super Destronaut DX: Intruders Edition</title-name>
+ <title-detail>Super Destronaut DX: Intruders Edition</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Platinum Destronaut</name>
+  <detail>Get all the trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Starter</name>
+  <detail>Kill 1 enemy</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>The whole crew was lost</name>
+  <detail>Die once</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Up for a challenge</name>
+  <detail>Complete 1 challenge</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>I like challenges</name>
+  <detail>Complete 3 challenges</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>Mastering challenges</name>
+  <detail>Complete 6 challenges</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>Challenge me</name>
+  <detail>Complete 12 challenges</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>Super challenge</name>
+  <detail>Complete 20 challenges</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>Ultra challenge</name>
+  <detail>Complete 30 challenges</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>Well done</name>
+  <detail>Reach 25K points in Classic Mode</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>Working hard</name>
+  <detail>Reach 50K points in Classic Mode</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>Excellent</name>
+  <detail>Reach 100K points in Classic Mode</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>Countdown</name>
+  <detail>Reach 10K points in Time Attack Mode</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="000">
+  <name>Against the clock</name>
+  <detail>Reach 50K points in Time Attack Mode</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>Saving the galaxy</name>
+  <detail>Reach 1K points in Hardcore Mode</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>Conquering the galaxy</name>
+  <detail>Reach 10K points in Hardcore Mode</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="G" pid="000">
+  <name>Persistent</name>
+  <detail>Hit one of the grey enemies</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Changing weapons</name>
+  <detail>Kill 1 special red enemy</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>Weapon tester</name>
+  <detail>Kill 10 special red enemies</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="000">
+  <name>Weapon lover</name>
+  <detail>Kill 25 special red enemies</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>Weapon master</name>
+  <detail>Kill 50 special red enemies</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>Trying to be vertical</name>
+  <detail>Reach 100K points in Tate Mode</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>Vertical apprentice</name>
+  <detail>Reach 200K points in Tate Mode</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="G" pid="000">
+  <name>Vertical master</name>
+  <detail>Reach 300K points in Tate Mode</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>Saving the universe</name>
+  <detail>Reach 3K points in Hardcode+</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="S" pid="000">
+  <name>Conquering the universe</name>
+  <detail>Reach 5K points in Hardcode+</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="G" pid="000">
+  <name>Destroying the universe</name>
+  <detail>Reach 10K points in Hardcode+</detail>
+ </trophy>
+</trophyconf>

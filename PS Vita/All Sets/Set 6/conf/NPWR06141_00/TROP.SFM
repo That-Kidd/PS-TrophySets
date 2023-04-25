@@ -1,0 +1,116 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000c1d6d673e854e2a0f7459344e53b0257a003679f5224c91fc0ce2c7d376919b366da083828928331388ffa21b2677bf5f4587abd25bd2075f7f2f9596a6fd181dc38230be671204bd8a5f3106a29560f6d120c5d557c6b88e1acc02c57e385dfe667a9354671a18ee742161f6dbe8d009a33595615aae7af96c348675f71302d2cf02782f937fc90aa56ac2af4b9633589cce74e-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR06141_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>PixelJunk™ Shooter Ultimate</title-name>
+ <title-detail>Trophy Set for PixelJunk™ Shooter Ultimate</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Great Shot Kid!</name>
+  <detail>Collect all other trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Cave Cleaner</name>
+  <detail>Kill over 100 enemies</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>Cave Cleaner Veteran</name>
+  <detail>Kill over 500 enemies</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>Cave Cleaner Pro</name>
+  <detail>Kill over 1,000 enemies</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>Sharp Shooter</name>
+  <detail>Build a 32x combo</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>Why Did It Have To Be Spiders?</name>
+  <detail>Defeat 'Giant Spitter'</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>Ice To See You</name>
+  <detail>Defeat 'Frost Grubber'</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>Nothing Is Over!</name>
+  <detail>Defeat 'ALF: 0N50'</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>Beast Of The Belly</name>
+  <detail>Defeat 'The Colonizer'</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>Turtle Soup</name>
+  <detail>Defeat 'Terra Kingpin'</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>From Hell’s Heart, I Stab At Thee!</name>
+  <detail>Defeat 'The Guardian Of The Deep'</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>My Precious</name>
+  <detail>Collect all the hidden treasure within an Episode</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>Obtainer Of Rare Antiquities</name>
+  <detail>Collect all the treasure hidden on Apoxus Prime</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>Come With Me If You Want To Live</name>
+  <detail>Rescue all the scientists within an Episode</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="000">
+  <name>Ah, What A Fine Day For Science!</name>
+  <detail>Rescue all the scientists</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>A Chamber Of Secrets</name>
+  <detail>Find your first secret area</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>No Stone Unturned</name>
+  <detail>Find all of the secret areas within an Episode</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="G" pid="000">
+  <name>Cave Of Wonders</name>
+  <detail>Find all of the secret areas</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>If You Are Going Through Hell, Keep Going</name>
+  <detail>Complete the secret level 'The Road To Dawn'</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Suit Up</name>
+  <detail>Collect your first suit</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>It’s Only A Flesh Wound</name>
+  <detail>Cool your ship down after being set on fire, then stay alive for 5 seconds</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>Fight For That Inch</name>
+  <detail>Win your first league battle</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="G" pid="000">
+  <name>Smoke Me A Kipper, I'll Be Back For Breakfast</name>
+  <detail>Win 5 League Battles in a row</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>One Small Step</name>
+  <detail>Purchase an item in Online Battle</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>One Giant Leap</name>
+  <detail>Advance to a higher league through Online Battle.</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="G" pid="000">
+  <name>You Are A Sad, Strange Little Man And You Have My Pity</name>
+  <detail>Win a League Battle with your opponent's final survivor total as 0</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>Double Eleven</name>
+  <detail>Play the game at 11:11</detail>
+ </trophy>
+</trophyconf>

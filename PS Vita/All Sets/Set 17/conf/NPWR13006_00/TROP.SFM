@@ -1,0 +1,76 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000b89ac3b01c1a7ca87aa5dcd37c0a5bc9c22c4ddcc926056c32734b8541be42ef5e216be461476537a61a75c4ebb7b9620a59e284c61efc4b95a98c81bca9315c0ea456777d3236a93edbe27399263391ec958ff1baba75f97333ed955285be7c67624f18aebd9b4c49d44ddac165491e733f311c269d4afb195dd741b21c9d0a5affd31028eb3a0e8e51055cfcaeb997067d8da9-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR13006_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Peasant Knight</title-name>
+ <title-detail>Peasant Knight</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Platinum Peasant</name>
+  <detail>Get all the trophies.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>This will be easy</name>
+  <detail>Complete 10 levels.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>This is getting harder</name>
+  <detail>Complete 20 levels</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>This is hell</name>
+  <detail>Complete 30 levels</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>Now it's green?</name>
+  <detail>Use a green portal&#x0a;</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>And Red too?!?</name>
+  <detail>Use a red portal</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>Oh, look a yellow one...</name>
+  <detail>Use a yellow portal</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>Why so many colors?</name>
+  <detail>Use a orange portal</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>That was close</name>
+  <detail>Activate a flame pit</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>Sliced</name>
+  <detail>Die in a saw</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>Burned out</name>
+  <detail>Die in a flame pit</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>Lightning time!</name>
+  <detail>Die for a thunder</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>There is no floor!</name>
+  <detail>Die by falling off a level</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="000">
+  <name>Bunch of Bones</name>
+  <detail>Defeat the skeleton</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>Ugly Orc</name>
+  <detail>Kill an orc</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>Ice Town</name>
+  <detail>Reach an ice level.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>Mortar</name>
+  <detail>Reach Level 47.</detail>
+ </trophy>
+</trophyconf>

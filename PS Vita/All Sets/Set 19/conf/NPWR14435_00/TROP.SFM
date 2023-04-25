@@ -1,0 +1,184 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000001d30ac4132ca9bf6242023af9912fcc7aebdee71b574990d073b6b4cea92f3a5d6a3c8f4eb449b222ee757ff9eef47c4b7006695724237f51f667d05edd1048cf98bd18f4dfa1da3c38210f29a4de6a98877e74fcc2252a7176a01264531fda6a1cc2fae46ed1922ffa5173a7aca7bad761805bada0d5cfbc8d06536c6b5d480fbd4cde767c916b942f96c86cfb16f4de14812b8-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR14435_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Penny-Punching Princess</title-name>
+ <title-detail>Penny-Punching Princess Trophy Set</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>True Penny-Puncher</name>
+  <detail>[Arrival] Acquired all trophies.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Exec A, the Bird Dragon of the Castle</name>
+  <detail>[Scenario] Defeated Hawkragon.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Exec B, the Child-Rearing Snake of the Forest</name>
+  <detail>[Scenario] Defeated Naga King.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Exec C, the Ice Cave's Top Dog</name>
+  <detail>[Scenario] Defeated Ooze.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>Exec D, the Fire Cave's Basilisk</name>
+  <detail>[Scenario] Defeated Ouroboros.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>Top Exec, the Bomb Demon</name>
+  <detail>[Scenario] Defeated Dragon Bomber.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>Dragoloan Boss</name>
+  <detail>[Scenario] Defeated Dragoloan.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>Betrayed by Money</name>
+  <detail>[Scenario] Defeated Zenigami.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>Money's Angry Wife</name>
+  <detail>[Scenario] Defeated Wifeykins.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>The Beginning of the End</name>
+  <detail>[Scenario] Saw the ending.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>The Kingdom's Great Revival!</name>
+  <detail>[Scenario] Saw the ending with over 1,000 citizens.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>The Princess' Golden Path</name>
+  <detail>[Scenario] Cleared the Golden Dungeon.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>Bona Fide Giant Killer</name>
+  <detail>[Technical] Defeated first large monster.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>Everyone's Got a Price!</name>
+  <detail>[Technical] Bribed first large monster.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>Want Some Golden Candy?</name>
+  <detail>[Technical] Bribed first medium monster.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>Have Some Chump Change, Chump!</name>
+  <detail>[Technical] Bribed first small monster.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Money Is More Important Than Life</name>
+  <detail>[Technical] Activated first Coin Miracle.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>When it Comes to Miracles, You Get What You Pay For!!!</name>
+  <detail>[Technical] Activated all Coin Miracles.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>Princess! What a Great Combo!</name>
+  <detail>[Technical] Achieved 30 Breaks with Princess.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="000">
+  <name>My Combos Aren't Too Shabby...</name>
+  <detail>[Technical] Achieved 30 Breaks with Isabella.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>Got Dragon Problems? Call the Experts!</name>
+  <detail>[Slay] Defeated 100 dragon-type monsters.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>Making the Undead Re-Dead</name>
+  <detail>[Slay] Defeated 100 undead-type monsters.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>Don't Look at Me, I'm a Monster!</name>
+  <detail>[Slay] Defeated 100 human-type monsters.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>I'm Banzai for Bonsai!</name>
+  <detail>[Slay] Defeated 100 plant-type monsters.</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>This Beauty Don't Need No Beasts!</name>
+  <detail>[Slay] Defeated 100 beast-type monsters.</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>Like 100 Moths to 100 Flames!</name>
+  <detail>[Slay] Defeated 100 insect-type monsters.</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>That's a Net Weight of 100 Tons</name>
+  <detail>[Slay] Defeated 25 Fat Dragons.</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>That's Some Shiny Armor</name>
+  <detail>[Slay] Defeated 25 Dragon Swordsmen.</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>Size Isn't Everything</name>
+  <detail>[Slay] Defeated 25 Dragon Zombies.</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>Money Makes the World Go Round</name>
+  <detail>[Collect] Accumulated 10,000,000 G.</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>Even Dragons Bend to the Power of Money</name>
+  <detail>[Collect] Bribed 50 dragon-type monsters.</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>They May Have Cheated Death, But They Can't Cheat Taxes</name>
+  <detail>[Collect] Bribed 50 undead-type monsters.</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>Humans Are Simple...</name>
+  <detail>[Collect] Bribed 50 human-type monsters.</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>You're Gonna Buy a Palm Tree in the Sand?</name>
+  <detail>[Collect] Bribed 50 plant-type monsters.</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>Money Turns Tigers into Kittens</name>
+  <detail>[Collect] Bribed 50 beast-type monsters.</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>Now this is a Scarab Beetle</name>
+  <detail>[Collect] Bribed 50 insect-type monsters.</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>A Trident for a Devil</name>
+  <detail>[Collect] Acquired all equipment.</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="S" pid="000">
+  <name>Princess Gets All the Treasure</name>
+  <detail>[Collect] Acquired all Zenigami statues from treasure chests.</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="S" pid="000">
+  <name>Princess Has Followers Around the World</name>
+  <detail>[Collect] Bribed all types of monsters.</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="S" pid="000">
+  <name>Su Casa Es the Princess' Casa</name>
+  <detail>[Collect] Bribed all relics.</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="S" pid="000">
+  <name>It's Got an Uncanny Resemblance</name>
+  <detail>[Collect] Created all types of Zenigami statues in the Workshop.</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="B" pid="000">
+  <name>This Is a Job for Super Princess</name>
+  <detail>[Strengthen] Acquired first skill.</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="B" pid="000">
+  <name>It's Super Super Princess</name>
+  <detail>[Strengthen] Fully strengthened Princess.</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="B" pid="000">
+  <name>It's Super Isabella</name>
+  <detail>[Strengthen] Fully strengthened Isabella.</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,116 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000081a4643f731f799b305c8e0581a3ad46159df697c0eeffb7efca1ad41e612830d76b2b4714bb544811dd170d9cd109f8eada1daec05b54d06793ac40bab91916ab7826c48e2361bf57e580b6898a548d2d1c686e5efccf921549f81e040fdd7073439c9c96f4b4cb8d1a02f13d089b13487574394a746bf280dbba2958fa5a5a975fc684a19ee80d7c508b141c83adc7d3a3d58b-->
+<trophyconf version="1.1" platform="ps3,psp2" policy="small">
+ <npcommid>NPWR04544_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Stealth Inc.</title-name>
+ <title-detail>Stealth Inc: A Clone in the Dark</title-detail>
+ <group id="001">
+  <name>The Teleporter Chambers</name>
+  <detail>Stealth Inc: A Clone in the Dark - The Teleporter Chambers</detail>
+ </group>
+ <group id="002">
+  <name>The Lost Clones</name>
+  <detail>Stealth Inc: A Clone in the Dark - The Lost Clones</detail>
+ </group>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Valued Resource</name>
+  <detail>Complete Sector 001 - Inhuman Resources</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Technical Skills</name>
+  <detail>Complete Sector 002 - Technical Damage</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Job Security</name>
+  <detail>Complete Sector 003 - Security Crackdown</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Location Manager</name>
+  <detail>Complete Sector 004 - Relocation Options</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Beat the Slide</name>
+  <detail>Complete Sector 005 - The Downward Slide</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Silent Partner</name>
+  <detail>Complete Sector 006 - Silent Takeover</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Above Standard</name>
+  <detail>Complete Sector 007 - Double Standards</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="-1">
+  <name>Contract Complete</name>
+  <detail>Complete all Sectors</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="-1">
+  <name>On the Fast-Track</name>
+  <detail>S-Rank all levels in any Sector</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="-1">
+  <name>Attention to Detail</name>
+  <detail>Find all pickups in any Sector</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>Working Overtime</name>
+  <detail>Unlock all levels</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="-1">
+  <name>Equipped for Business</name>
+  <detail>Unlock all equipment</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="-1">
+  <name>Consummate Professional</name>
+  <detail>S-Rank all levels</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>Toy Master</name>
+  <detail>Complete TC Sector 01 - New Toys</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>Warped Mind</name>
+  <detail>Complete TC Sector 02 – Warped Thinking</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>Economy Class</name>
+  <detail>Complete a level without using a vending machine</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>Feet on the Ground</name>
+  <detail>Beat a level without jumping</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="-1" gid="001">
+  <name>Finder's Fee</name>
+  <detail>Collect all pickups in The Teleporter Chambers</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="G" pid="-1" gid="001">
+  <name>S We Can!</name>
+  <detail>S-Rank all Teleporter Chambers levels</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="-1" gid="002">
+  <name>Blending In</name>
+  <detail>Complete The Lost Clones Sector 01 - Return to Blender</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="-1" gid="002">
+  <name>A Cut Above</name>
+  <detail>Complete The Lost Clones Sector 02 - Final Cut</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="-1" gid="002">
+  <name>Clone Survivor</name>
+  <detail>Locate all Lost Clone Survivors</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="-1" gid="002">
+  <name>Hide Harder</name>
+  <detail>Complete five different Lost Clones levels in a row without being spotted</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="-1" gid="002">
+  <name>Antiquarian</name>
+  <detail>Collect all pickups in The Lost Clones</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="G" pid="-1" gid="002">
+  <name>Ranks for the Memory</name>
+  <detail>S-Rank all Lost Clones levels</detail>
+ </trophy>
+</trophyconf>

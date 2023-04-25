@@ -1,0 +1,68 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000098c20deb28008e90dfe82ed79125b61523c7953b6625c1e0e23718c0bba7a4de355e630bb92e602747603a88f83f5660f8089f128bae08fee611884cf80acca12fbdbc3cb5979e41538ae7c68afb679a137aa11ad1ce3383a597eb9b7bbba4bb6583b8713cb14b06d3fa432d2de9ba214ed453acc5953e67ff73f493a9f9a47b9cc1fd5e30458aba3646d13cd2bee5f8a373d5e8-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR05240_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Furmins</title-name>
+ <title-detail>The trophy set of the Furmins</title-detail>
+ <group id="001">
+  <name>Furmins Bonus World</name>
+  <detail>Shiny trophies of the Bonus World</detail>
+ </group>
+ <trophy id="000" hidden="no" ttype="G" pid="-1">
+  <name>Starshine!</name>
+  <detail>Finish 3 stars on every level</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="-1">
+  <name>Pocketful of Stars</name>
+  <detail>Collect 100 stars from levels</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="-1">
+  <name>Sackful of Stars</name>
+  <detail>Collect 200 stars from levels</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="-1">
+  <name>Cartful of Stars</name>
+  <detail>Collect 250 stars from levels</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Comfortable with the Basics</name>
+  <detail>Get 3 stars in all levels in World 1</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Defender of the Homeland</name>
+  <detail>Get 3 stars in all levels in World 2</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Tenacious Climber</name>
+  <detail>Get 3 stars in all levels in World 3</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Commander of the Fields</name>
+  <detail>Get 3 stars in all levels in World 4</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Poet of the Fall</name>
+  <detail>Get 3 stars in all levels in World 5</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>Champion of the Summit</name>
+  <detail>Get 3 stars in all levels in World 6</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>Master of the Valley</name>
+  <detail>Get 3 stars in all levels in World 7</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="-1">
+  <name>Cosmic Traveler</name>
+  <detail>Get 3 stars in all levels in World 8</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="-1">
+  <name>Learning the Ropes</name>
+  <detail>Achieve with 3 stars on any level</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="-1" gid="001">
+  <name>Governor of the Lands</name>
+  <detail>Get 3 stars in all levels in World 9</detail>
+ </trophy>
+</trophyconf>

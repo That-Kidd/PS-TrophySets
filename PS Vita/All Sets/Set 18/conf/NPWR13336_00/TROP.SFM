@@ -1,0 +1,104 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000fd18e511fc27c50a82d43d9160f4d0d30edcc6fc9e3816a4763e7c4e519125a631abe3ba3b9efbf12f863444bd2a7916d0a5f25b6cae09ed47f8a6e8a98f4a65bd2bc9801ac48980f6b0c6f350a944f8d397f0d7d9e7ba7772fafcc2753dc52c11450480aa218d8d0a8dcbff16be1172ca3d49662d0aa3b5f01239eb30caf21dbd6ff73f4f47c7de1be24a3697f603f2d08d87ad-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR13336_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>ハロー・レディ！ -Superior Dynamis-</title-name>
+ <title-detail>ハロー・レディ！ -Superior Dynamis- のトロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>ハロー・レディ！ </name>
+  <detail>全てのトロフィーを取得しました</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="G" pid="000">
+  <name>「ハロー・レディ！」クリア</name>
+  <detail>「ハロー・レディ！」本編をクリアしました。</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="G" pid="000">
+  <name>「ハロー・レディ！ - New Division -」クリア</name>
+  <detail>「ハロー・レディ！ - New Division -」をクリアしました。&#x0a;</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="G" pid="000">
+  <name>「ハロー・レディ！ - Superior Dynamis -」クリア</name>
+  <detail>「ハロー・レディ！ - Superior Dynamis -」を&#x0a;クリアしました。&#x0a;&#x0a;</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>ＣＧコンプリート</name>
+  <detail>全てのCGを取得しました</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>Re Playコンプリート</name>
+  <detail>全てのRe Playを取得しました</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>ＢＧＭコンプリート</name>
+  <detail>全てのBGMを取得しました</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>「ハロー・レディ！ - New Division -」解放</name>
+  <detail>それは、黄金色の［新たな一篇 -New Division-］</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>「ハロー・レディ！ - Superior Dynamis -」解放</name>
+  <detail>これは、世界を救う復讐劇</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>「ハロー・レディ！」ＣＧコンプリート</name>
+  <detail>「ハロー・レディ！」本編の&#x0a;CGをコンプリートしました。</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>「ハロー・レディ！ - New Division -」ＣＧコンプリート</name>
+  <detail>「ハロー・レディ！ - New Division -」のCGをコンプリートしました。</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>「ハロー・レディ！ - Superior Dynamis -」CGコンプリート</name>
+  <detail>「ハロー・レディ！ - Superior Dynamis -」のCGをコンプリートしました。&#x0a;</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>「ハロー・レディ！」Re Playコンプリート</name>
+  <detail>「ハロー・レディ！」本編のRe Playをコンプリートしました。&#x0a;&#x0a;</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>「ハロー・レディ！ - New Division -」Re Playコンプリート</name>
+  <detail>「ハロー・レディ！ - New Division -」のRe Playをコンプリートしました。</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>「ハロー・レディ！ - Superior Dynamis -」Re Playコンプリート</name>
+  <detail>「ハロー・レディ！ - Superior Dynamis -」のRe Playをコンプリートしました。</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="S" pid="000">
+  <name>音無朔ルートクリア</name>
+  <detail>――――――そして私は、輝けるものと出逢った。&#x0a;</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="S" pid="000">
+  <name>桂木空子ルートクリア</name>
+  <detail>これは、とある男と女の、再生の物語である。</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="S" pid="000">
+  <name>赤人珠緒ルートクリア</name>
+  <detail>これは、とある男と女の、旅立ちの物語である。</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="S" pid="000">
+  <name>鷹崎エルルートクリア</name>
+  <detail>これは、とある男と女の、誕生の物語である。</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="S" pid="000">
+  <name>兜山美鳥ルートクリア</name>
+  <detail>いつか、約束が果たされたならば、&#x0a;その時は、もう一度始めてみよう。&#x0a;</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="S" pid="000">
+  <name>菱吾森ルートクリア</name>
+  <detail>――――――そして、旅は続く。</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="S" pid="000">
+  <name>御門瑠璃エピソードクリア</name>
+  <detail>かくして、成田真理の復讐は終わる。</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="B" pid="000">
+  <name>共通ルートクリア</name>
+  <detail>そして、新たな舞台の幕は上がる。</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>ペルーシェマンショー・海賊版</name>
+  <detail>はじめてペルーシェマンショーを見ました。</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,116 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000001e71c307cdf1e5263a318e0e0be0c2da1ff4fbf51fd39ad62840d2dfd1b12d36ab7e514e09356c97ead6997bf0617f34a53b539022fdad2ec03d85a1070091a81b16acee443dba5f71e836464973e696f05020b5fdfe7b2bbbc16053e410190c011b332b96b228e545f82bb8eff7836446478fca30907774613e9ad49ba6b5349c36dd82ab41fa9b63ea6b4216f998299b7d8f92-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR11893_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>√Letter</title-name>
+ <title-detail>These are the √Letter trophies.</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>√Letter</name>
+  <detail>You got all the trophies!</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Welcome to Shimane!</name>
+  <detail>First conversation with SHIMANEKKO.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Ghostly Penpal</name>
+  <detail>Finish Chapter 1.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Dragonfly Stationery</name>
+  <detail>Finish Chapter 2.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>Banana Stationery</name>
+  <detail>Finish Chapter 3.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>Candy Stationery</name>
+  <detail>Finish Chapter 4.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>Gal Stationery</name>
+  <detail>Finish Chapter 5.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>Ginger Stationery</name>
+  <detail>Finish Chapter 6.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>Gnome Stationery</name>
+  <detail>Finish Chapter 7.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>Magatama Stationery</name>
+  <detail>Finish Chapter 8.</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="000">
+  <name>Blue Sky Stationery</name>
+  <detail>Finish The Bond of Marriage Chapter 9.</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>Cherry Blossom Stationery</name>
+  <detail>Finish The Bond of Marriage Chapter 10.</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>Rain Stationery</name>
+  <detail>Finish Crossing Paths Chapter 9.</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>Airplane Stationery</name>
+  <detail>Finish Crossing Paths Chapter 10.</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>Mirror Stationery</name>
+  <detail>Finish The Princess of Himegamori Forest Chapter 9.</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="S" pid="000">
+  <name>Princess Stationery</name>
+  <detail>Finish The Princess of Himegamori Forest Chapter 10.</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="S" pid="000">
+  <name>Crow Stationery</name>
+  <detail>Finish The Cursed Letter Chapter 9.</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="S" pid="000">
+  <name>Skull Stationery</name>
+  <detail>Finish The Cursed Letter Chapter 10.</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="S" pid="000">
+  <name>UFO Stationery</name>
+  <detail>Finish A Government Plot Chapter 9.</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="S" pid="000">
+  <name>Alien Stationery</name>
+  <detail>Finish A Government Plot Chapter 10.</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="G" pid="000">
+  <name>Finding the Truth!</name>
+  <detail>All routes completed.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="G" pid="000">
+  <name>Got All Investigation Items</name>
+  <detail>Acquired all items.</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="G" pid="000">
+  <name>The Truth Revealed?</name>
+  <detail>Complete the Cursed Letter Route, Princess of Himegamori Forest Route, A Government Plot Route, and Crossing Paths Route.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="G" pid="000">
+  <name>Checking on Shimane</name>
+  <detail>Use the "Check" command 200+ times.</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>Strolling Around Shimane</name>
+  <detail>Use the "Check" command 100+ times.</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="G" pid="000">
+  <name>LetterMania</name>
+  <detail>Select all letter replies.</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="G" pid="000">
+  <name>Found SHIMANEKKO!</name>
+  <detail>Spot SHIMANEKKO 10+ times.</detail>
+ </trophy>
+</trophyconf>

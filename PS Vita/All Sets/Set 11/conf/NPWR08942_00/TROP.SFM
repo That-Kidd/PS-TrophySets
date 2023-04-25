@@ -1,0 +1,32 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000002ea5d562bb685e3990d9426f572713da6b7bdbe63b0caac2412410750a3e106cff80546303d494ae9d309392bcc99c70730e0709215f87dedf60b53f328e9cb86994f25549e079fcbb8ad48bec5a93661b8513f3a76c6a148c6946f59f156b6459dcd2a20db568cf6c7baab93e2d82bd4974ea553e03fe00c3b1b83353ed599ece9df0e2aea4088aaf45ed0e7fc162b2b18f776a-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR08942_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>クロガネ回姫譚 -一期一会-</title-name>
+ <title-detail>クロガネ回姫譚 -一期一会-のトロフィーです</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>ゲームスタート！</name>
+  <detail>ゲームをスタートした</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="-1">
+  <name>一期シナリオスタート！</name>
+  <detail>一期シナリオをスタートした</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="-1">
+  <name>一期シナリオクリア！</name>
+  <detail>一期シナリオをクリアした</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="-1">
+  <name>おまけシナリオスタート！</name>
+  <detail>おまけシナリオをスタートした</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="-1">
+  <name>おまけシナリオクリア！</name>
+  <detail>おまけシナリオをクリアした</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="-1">
+  <name>全てのＣＧ入手！</name>
+  <detail>全てのＣＧを入手した</detail>
+ </trophy>
+</trophyconf>

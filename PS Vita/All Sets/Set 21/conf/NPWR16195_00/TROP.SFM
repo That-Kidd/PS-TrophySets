@@ -1,0 +1,96 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000bf406e455bb461bf0b519b1955ec69d78b105d507a06041a5a07c4f8ce86c56d2ac87d9b852b04619ffbf8c12b060d2940c20310d69eb5f2a94d803f68bc2f73e3d0dddd92dea00e7b1b5803270b5e2e13d3259a6e864f3139741d44a1af2fe10555f94c3e5e4628af9fcdb9e18ea65466449f4cda42f82aa6fca23685b87693337d7823eae7427cfb4ca1cd6bf671482b0c4492-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR16195_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Tetra's Escape</title-name>
+ <title-detail>Tetra's Escape</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Job done !</name>
+  <detail>Gain all other trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>World 1</name>
+  <detail>Complete the 1st world</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>World 2</name>
+  <detail>Complete the 2nd world</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>World 3</name>
+  <detail>Complete the 3rd world</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>World 4</name>
+  <detail>Complete the 4th world</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>World 5</name>
+  <detail>Complete the 5th world</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>World 6</name>
+  <detail>Complete the 6th world</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>Stars - 25%</name>
+  <detail>Get a quarter of the stars</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>Stars - 50%</name>
+  <detail>Get half the stars</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>First cup</name>
+  <detail>Get first cup</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>Cups - 25%</name>
+  <detail>Get a quarter of the cups</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>Cups - 50%</name>
+  <detail>Get half the cups</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>10 Tetras saved</name>
+  <detail>Save at least 10 Tetras (sum)</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>100 Tetras saved</name>
+  <detail>Save at least 100 Tetras (sum)</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="000">
+  <name>200 Tetras saved</name>
+  <detail>Save at least 200 Tetras (sum)</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>1000 moves</name>
+  <detail>Walks over 1000 boxes (sum)</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="G" pid="000">
+  <name>2500 moves</name>
+  <detail>Walks over 2500 boxes (sum)</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="G" pid="000">
+  <name>This is the game</name>
+  <detail>First transformation into tetromino</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="G" pid="000">
+  <name>Early death</name>
+  <detail>Dead by fall before level explanation</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>And now ?</name>
+  <detail>Change all Tetras in a level into tetrominos and lose...</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>Forget something ?</name>
+  <detail>Complete a level without any stars</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>Floor is Lava</name>
+  <detail>Burn all tetras in the same level</detail>
+ </trophy>
+</trophyconf>

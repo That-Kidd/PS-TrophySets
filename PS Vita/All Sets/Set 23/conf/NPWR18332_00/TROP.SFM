@@ -1,0 +1,92 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000000fc4c446a8807ee10bee59c1d55da2f908bb7c4a33ed08282bda8766f3d8861466ec496571010de1b15c1267a0c3924530b9588cc78c011fbc1140e720c9124cd2eab4e41e0173ce316eff5b4e9e9dbeed935d334488e7b08c9b1ad4128648dca269ba673a7c40a1e5e594130aa2483f3dddbfbfb3e0ba4761bea9c3ebd307deb3edf4d94330d79b5f4096f000461bfadec28f6a-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR18332_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Vasilis</title-name>
+ <title-detail>Vasilis</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Vasilis Platinum</name>
+  <detail>Good job! Completed all tasks!</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="S" pid="000">
+  <name>Marfa</name>
+  <detail>Worked with Vasilis. Tried to make small business selling jam, but failed and now just sitting here.</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="S" pid="000">
+  <name>Auroriy</name>
+  <detail>Mortuary worker. Pathologist. Friend of Vasilis.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>First Day</name>
+  <detail>First Day - Chapter 1</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>Second Day</name>
+  <detail>Second Day - Chapter 2</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>Third Day</name>
+  <detail>Third Day - Chapter 3</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>Fourth Day</name>
+  <detail>Fourth Day - Chapter 4</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>Fifth Day</name>
+  <detail>Fifth Day - Chapter 5</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>Chaos Tower (North-West)</name>
+  <detail>Chaos Tower for intelligent. Most of them escaped or executed.</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>Chaos Tower (North-East)</name>
+  <detail>First chaos Tower. For Young generation.</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>Chaos Tower (South - West)</name>
+  <detail>Tower for all dead people, who rotted too much.</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>Chaos Tower (South - East)</name>
+  <detail>Tower for all workers, one of the last strong group in town.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>Squirrel</name>
+  <detail>Squirrel bar</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="000">
+  <name>Secret</name>
+  <detail>Secret location</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>Peter</name>
+  <detail>Meet The Peter</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>Neighbour</name>
+  <detail>Meet your Neighbour</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>Cult</name>
+  <detail>Face a cult</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>Growing Towers</name>
+  <detail>They are growing!</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="G" pid="000">
+  <name>Riot Ends</name>
+  <detail>Riot ends at 6th day. Find Chern!</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="G" pid="000">
+  <name>Time Traveler</name>
+  <detail>Travel through time</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="G" pid="000">
+  <name>Sixth Day</name>
+  <detail>Sixth Day - Chapter 6</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,48 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000068251c3016629702cfb56bcf4e9d0f9fc6a3172db7c57f0906815f0cc41b5d5ef5d7e8a46b5488027c4f277a967faeaf27f58bf52c5c356132ff7ae28a6ab962a2e7486335b6aa6ccbb2bab3fe7372d17ae7009f53ffeb7f73647844effdb42e8b65c7f9fb7db1c67f159f0c29ee2b6ed8d866cd0b36cc6acabe0f8198ec200a17d5239602889cb1295227daf4c263adb720d766-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="small">
+ <npcommid>NPWR09436_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>シチズンズ　オブ　アース</title-name>
+ <title-detail>シチズンズ　オブ　アースのトロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>下っ端政治家</name>
+  <detail>市民を5人スカウトする。</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="-1">
+  <name>職業政治家</name>
+  <detail>市民を25人スカウトする。</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="-1">
+  <name>世界的指導者</name>
+  <detail>市民を40人スカウトする。</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>情報網</name>
+  <detail>宝物を100個見つける。</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>世界旅行者</name>
+  <detail>場所を30か所発見する。</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="G" pid="-1">
+  <name>危機回避</name>
+  <detail>最終秘書を倒す。</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>落ちこぼれ市民ゼロ</name>
+  <detail>市民9人を同時に学校に入学させる。</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>町の新人保安官</name>
+  <detail>お尋ね者ポスタークエストをすべて完了する。</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>さあひと仕事</name>
+  <detail>駆除クエストをすべて完了する。</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>パパラッチ</name>
+  <detail>写真クエストをすべて完了する。</detail>
+ </trophy>
+</trophyconf>

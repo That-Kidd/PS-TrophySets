@@ -1,0 +1,216 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000f38b577cac9262ac7e895f07d2a840f32adc129c3aea5f98cea686f5fd43a4dfa244629d15513170bc2c08ef1ffd00776b3eda871b4c07212ee6a8e3ef305c07e57f20b6509d89b8a87f40eb42b5b71f500bc453c2ffb36ea510fb1c62440913df10df5d8060e2b829a8611acdbaaed559a7e3db172d77734df776bfebddb5fe4cdc754f33921b7ec897c08175d35b894d9ae7eb-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR12933_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>도쿄 재너두</title-name>
+ <title-detail>도쿄 재너두 트로피 세트입니다.</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>전설의 X.R.C</name>
+  <detail>모든 트로피를 획득했다.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>SSS 랭커</name>
+  <detail>모든 스테이지에서 S 랭크를 받았다.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>지용인의 극의</name>
+  <detail>코우의 「지・용・인」이 전부 최고 랭크가 되었다.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>배틀 마스터</name>
+  <detail>NiAR 배틀 페이지의 모든 정보를 채웠다.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>레시피 마스터</name>
+  <detail>NiAR 레시피 페이지의 모든 정보를 채웠다.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>프렌드 마스터</name>
+  <detail>NiAR 프렌드 페이지의 모든 정보를 채웠다.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>북 마니아</name>
+  <detail>NiAR 북 페이지의 모든 정보를 채웠다.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>트레저 헌터</name>
+  <detail>모든 보물 상자를 열었다.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>M 코어 컬렉터</name>
+  <detail>마스터 코어를 전부 모았다.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>악몽을 극복한 자</name>
+  <detail>난이도 나이트메어로 게임을 클리어했다.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>무한의 패자</name>
+  <detail>인피니티 모드로 게임을 클리어했다.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>무뚝뚝하지만 좋은 사람</name>
+  <detail>모든 퀘스트를 달성했다.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>너무 많이 모은 용돈</name>
+  <detail>소지금이 50만 엔 이상이 되었다.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>행운의 예감</name>
+  <detail>제비를 뽑아서 대길이 나왔다.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>백벌의 투사</name>
+  <detail>그리드 격파 수 100마리 달성.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>천도의 지사</name>
+  <detail>그리드 격파 수 1000마리 달성.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>지경의 용사</name>
+  <detail>그리드 격파 수 2000마리 달성.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>X 드라이브 마스터</name>
+  <detail>X 드라이브 발동 횟수 100번 달성.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>X 스트라이크 마스터</name>
+  <detail>X 스트라이크 발동 횟수 100번 달성.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>S 체인 마스터</name>
+  <detail>스트라이크 체인 발동 횟수 50번 달성.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>엘리먼트 킬러</name>
+  <detail>엘리먼트 킬 발생 횟수 500번 달성.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>페이탈 킬러</name>
+  <detail>페이탈 킬 발생 횟수 500번 달성.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>체인 킬러</name>
+  <detail>체인 킬 발생 횟수 100번 달성.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>에어리얼 킬러</name>
+  <detail>에어리얼 킬 발생 횟수 100번 달성.</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>그랜드 슬래셔</name>
+  <detail>최대 대미지 5000 달성.</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>콤보 마스터</name>
+  <detail>최대 콤보 수 200회 달성.</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>러닝 마스터</name>
+  <detail>이동거리 100000미터 달성.</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>노 대미지</name>
+  <detail>어떤 스테이지든 노 대미지 보너스 입수.</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>패스트 타임</name>
+  <detail>어떤 스테이지든 패스트 타임 보너스 입수.</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>S 랭커</name>
+  <detail>어떤 스테이지든 S 랭크 획득.</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>아스카와의 인연</name>
+  <detail>아스카와의 인연이 깊어졌다.</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>소라와의 인연</name>
+  <detail>소라와의 인연이 깊어졌다.</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>유키와의 인연</name>
+  <detail>유키와의 인연이 깊어졌다.</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>시오와의 인연</name>
+  <detail>시오와의 인연이 깊어졌다.</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>미츠키와의 인연</name>
+  <detail>미츠키와의 인연이 깊어졌다.</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>리온과의 인연</name>
+  <detail>리온과의 인연이 깊어졌다.</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>시오리와의 인연</name>
+  <detail>시오리와의 인연이 깊어졌다.</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>료타와의 인연</name>
+  <detail>료타와의 인연이 깊어졌다.</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>쥰과의 인연</name>
+  <detail>쥰과의 인연이 깊어졌다.</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="000">
+  <name>토와와의 인연</name>
+  <detail>토와와의 인연이 깊어졌다.</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="B" pid="000">
+  <name>고로와의 인연</name>
+  <detail>고로와의 인연이 깊어졌다.</detail>
+ </trophy>
+ <trophy id="041" hidden="yes" ttype="B" pid="000">
+  <name>갈라진 일상</name>
+  <detail>의문의 장소에 말려들었다.</detail>
+ </trophy>
+ <trophy id="042" hidden="yes" ttype="B" pid="000">
+  <name>이계화(이클립스)</name>
+  <detail>제1화 「이계화(이클립스)」를 클리어했다.</detail>
+ </trophy>
+ <trophy id="043" hidden="yes" ttype="B" pid="000">
+  <name>괴이(그리드)</name>
+  <detail>제2화 「괴이(그리드)」를 클리어했다.</detail>
+ </trophy>
+ <trophy id="044" hidden="yes" ttype="B" pid="000">
+  <name>신의 말씀대로</name>
+  <detail>제3화 「신의 말씀대로」를 클리어했다.</detail>
+ </trophy>
+ <trophy id="045" hidden="yes" ttype="B" pid="000">
+  <name>BLAZE -불꽃의 추억-</name>
+  <detail>제4화 「BLAZE -불꽃의 추억-」을 클리어했다.</detail>
+ </trophy>
+ <trophy id="046" hidden="yes" ttype="B" pid="000">
+  <name>안개의 끝에</name>
+  <detail>제5화 「안개의 끝에」를 클리어했다.</detail>
+ </trophy>
+ <trophy id="047" hidden="yes" ttype="B" pid="000">
+  <name>여름 전날</name>
+  <detail>막간 「여름 전날」을 클리어했다.</detail>
+ </trophy>
+ <trophy id="048" hidden="yes" ttype="B" pid="000">
+  <name>날개, 펼쳐질 때</name>
+  <detail>제6화 「날개, 펼쳐질 때」를 클리어했다.</detail>
+ </trophy>
+ <trophy id="049" hidden="yes" ttype="B" pid="000">
+  <name>허공진(할로우 퀘이크)</name>
+  <detail>제7화 「허공진(할로우 퀘이크)」을 클리어했다.</detail>
+ </trophy>
+ <trophy id="050" hidden="yes" ttype="B" pid="000">
+  <name>그리고 날이 밝는다</name>
+  <detail>최종화 「그리고 날이 밝는다」를 클리어했다.</detail>
+ </trophy>
+ <trophy id="051" hidden="yes" ttype="G" pid="000">
+  <name>마음이 이어진 내일로</name>
+  <detail>에필로그 「마음이 이어진 내일로」를 클리어했다.</detail>
+ </trophy>
+</trophyconf>

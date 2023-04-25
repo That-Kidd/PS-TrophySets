@@ -1,0 +1,196 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000006e41a8636186e4ac68045f5da99d7e539a5683d31bf731272fca97a9b7d7db095bf5477a3ab04733bcae74bf9122595548f68f16691e407642babbc261ee2f15900a0f7502b326371a501778f3b967427a8f3c866780c3dff8ad915236268b6e88dce9611924bc1bccfa29a97d354976c147cfa7f59f7d7cb239d52f8cd62659a67fadfbf98c38437a219898c75305e99c819e05-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR05877_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>ToLOVEる ダークネス バトルエクスタシー</title-name>
+ <title-detail>ToLOVEる ダークネス バトルエクスタシー&#x0a;専用トロフィー&#x0a;</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>全てのラッキースケベに捧げる</name>
+  <detail>ここまで遊んでくれてありがとう！</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>ノーマルクリア</name>
+  <detail>難易度「ノーマル」でゲームクリアした。</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>ハードクリア</name>
+  <detail>難易度「ハード」でゲームクリアした。&#x0a;</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>ベリーハードクリア</name>
+  <detail>難易度「ベリーハード」でゲームクリアした。</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>むかうとこ敵なし</name>
+  <detail>敵を1,000体倒した。</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>はじめてのチャレンジ</name>
+  <detail>いずれかのチャレンジミッションをクリアした。</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>芽生えはじめた挑戦心</name>
+  <detail>チャレンジミッションを5個クリアした。</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>燃えてきた挑戦心</name>
+  <detail>チャレンジミッションを10個クリアした。</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>成熟された挑戦心</name>
+  <detail>チャレンジミッションを50個クリアした。</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>最高潮の挑戦心</name>
+  <detail>チャレンジミッションを100個クリアした。</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>完成された挑戦心</name>
+  <detail>チャレンジミッションを全てクリアした。</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>四角関係</name>
+  <detail>ホームにヒロインが3人集まった。</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>にぎやかになってきた</name>
+  <detail>ホームにヒロインが6人集まった。</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>THE ハーレム</name>
+  <detail>ホームにヒロインが9人集まった。</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>発明の喜び</name>
+  <detail>発明品を10個集めた。</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>発明の快感</name>
+  <detail>発明品を20個集めた。</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>発明の衝動</name>
+  <detail>発明品を30個集めた。</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>発明の極み</name>
+  <detail>全ての発明品を集めた。</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>見習いラッキースケベ</name>
+  <detail>ルームイベントを15種類発生させた。</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>職人ラッキースケベ</name>
+  <detail>ルームイベントを30種類発生させた。</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>一人前ラッキースケベ</name>
+  <detail>ルームイベントを45種類発生させた。</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="G" pid="000">
+  <name>ラッキースケベキング</name>
+  <detail>ルームイベントを全て発生させた。&#x0a;</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>いつも以上に当たってます</name>
+  <detail>999コンボを達成した。</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>もう見たくない</name>
+  <detail>校長先生を10体倒した。</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>やるときはやる</name>
+  <detail>必殺技を30回使用した。</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="S" pid="000">
+  <name>助けてもらってばかり</name>
+  <detail>ヘルプアタックを50回使用した。</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>初級ダンジョン探検者</name>
+  <detail>ダンジョン10Fに到達した。</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>中級ダンジョン探検者</name>
+  <detail>ダンジョン20Fに到達した。</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>上級ダンジョン探検者</name>
+  <detail>ダンジョン30Fに到達した。</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>恋も戦いもタイミングが命</name>
+  <detail>ジャストガードを30回発生させた。</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>かけだし王位継承者</name>
+  <detail>レベル10に到達した。</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>こなれた王位継承者</name>
+  <detail>レベル25に到達した。</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="S" pid="000">
+  <name>熟達の王位継承者</name>
+  <detail>レベル35に到達した。</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="B" pid="000">
+  <name>女の子ですから</name>
+  <detail>リコでプレイした。&#x0a;</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>トラブルがはじまる</name>
+  <detail>トラブルタッチタイムを5回成功した。</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>毎日がトラブル</name>
+  <detail>トラブルタッチタイムを10回成功した。</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>トラブルは続く</name>
+  <detail>トラブルタッチタイムを15回成功した。</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>ララとの思い出</name>
+  <detail>ララのルームイベントを体験した。</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>モモとの思い出</name>
+  <detail>モモのルームイベントを体験した。</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="000">
+  <name>ナナとの思い出</name>
+  <detail>ナナのルームイベントを体験した。</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="B" pid="000">
+  <name>唯との思い出</name>
+  <detail>唯のルームイベントを体験した。</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="B" pid="000">
+  <name>春菜との思い出</name>
+  <detail>春菜のルームイベントを体験した。</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="B" pid="000">
+  <name>闇との思い出</name>
+  <detail>金色の闇のルームイベントを体験した。</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="B" pid="000">
+  <name>芽亜との思い出</name>
+  <detail>芽亜のルームイベントを体験した。</detail>
+ </trophy>
+ <trophy id="044" hidden="no" ttype="B" pid="000">
+  <name>ネメシスとの思い出</name>
+  <detail>ネメシスのルームイベントを体験した。</detail>
+ </trophy>
+ <trophy id="045" hidden="no" ttype="B" pid="000">
+  <name>美柑との思い出</name>
+  <detail>美柑のルームイベントを体験した。</detail>
+ </trophy>
+ <trophy id="046" hidden="yes" ttype="B" pid="000">
+  <name>本当のトラブル</name>
+  <detail>見てはいけないものを見た。</detail>
+ </trophy>
+</trophyconf>

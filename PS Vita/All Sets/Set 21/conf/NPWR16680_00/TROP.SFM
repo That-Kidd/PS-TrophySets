@@ -1,0 +1,180 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000009877615daf982e62f7574b2d2f1e7782143e6482a2d8af6deef77194dbdcf73c7f085dff9b73861225e9b74ada9618933954fe6862766316c1ad07a29b0e279fcc5880d9d46a8c27e4398ca1882bbf22868b61969a9e6ead3f5782c33e5155c6ec4a9fa255532452e6cc8e608eec0a56194796f49f43079b7ee54e5f13d2aea91272a86d9b8bba72944be02707fc86f9ffda96df-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR16680_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>金色のコルダ　オクターヴ</title-name>
+ <title-detail>「金色のコルダ　オクターヴ」のトロフィーパックです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>全トロフィーコンプ</name>
+  <detail>すべてのトロフィーを獲得した</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>リズムアクションをSSランクで5回クリア</name>
+  <detail>リズムアクションをSSランクで5回クリア</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>リズムアクションをSSランクで30回クリア</name>
+  <detail>リズムアクションをSSランクで30回クリア</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>リズムアクションをSSSランクで3回クリア</name>
+  <detail>リズムアクションをSSSランクで3回クリア</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="S" pid="000">
+  <name>リズムアクションをSSSランクで20回クリア</name>
+  <detail>リズムアクションをSSSランクで20回クリア</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="G" pid="000">
+  <name>リズムアクションをSSSランクで40回クリア</name>
+  <detail>リズムアクションをSSSランクで40回クリア</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>リズムアクションを20回プレイ</name>
+  <detail>リズムアクションを20回プレイ</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>リズムアクションを40回プレイ</name>
+  <detail>リズムアクションを40回プレイ</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>リズムアクションをフルコンボで3回クリア</name>
+  <detail>リズムアクションをフルコンボで3回クリア</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>リズムアクションをフルコンボで10回クリア</name>
+  <detail>リズムアクションをフルコンボで10回クリア</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>フェスタルート全員のハルモニア劇場コンプリート</name>
+  <detail>フェスタルートのハルモニア劇場の劇を全て入手した</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>キャンプルート全員のハルモニア劇場コンプリート</name>
+  <detail>キャンプルートのハルモニア劇場の劇を全て入手した</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>全員のハルモニア劇場コンプリート</name>
+  <detail>全員のハルモニア劇場コンプリート</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>フェスタルート全員のメモリアルコンプリート</name>
+  <detail>フェスタルート全員のメモリアルコンプリート</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>キャンプルート全員のメモリアルコンプリート</name>
+  <detail>キャンプルート全員のメモリアルコンプリート</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>全員のメモリアルコンプリート</name>
+  <detail>全員のメモリアルコンプリート</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>月森エンディング</name>
+  <detail>月森のエンディングを見た</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>土浦エンディング</name>
+  <detail>土浦のエンディングを見た</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>志水エンディング</name>
+  <detail>志水のエンディングを見た</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>火原エンディング</name>
+  <detail>火原のエンディングを見た</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>柚木エンディング</name>
+  <detail>柚木のエンディングを見た</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>加地エンディング</name>
+  <detail>加地のエンディングを見た</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>衛藤エンディング</name>
+  <detail>衛藤のエンディングを見た</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>金澤エンディング</name>
+  <detail>金澤のエンディングを見た</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>王崎エンディング</name>
+  <detail>王崎のエンディングを見た</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>吉羅エンディング</name>
+  <detail>吉羅のエンディングを見た</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>響也エンディング</name>
+  <detail>響也のエンディングを見た</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>律エンディング</name>
+  <detail>律のエンディングを見た</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>大地エンディング</name>
+  <detail>大地のエンディングを見た</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>ハルエンディング</name>
+  <detail>ハルのエンディングを見た</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>八木沢エンディング</name>
+  <detail>八木沢のエンディングを見た</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>火積エンディング</name>
+  <detail>火積のエンディングを見た</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>新エンディング</name>
+  <detail>新のエンディングを見た</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>東金エンディング</name>
+  <detail>東金のエンディングを見た</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>土岐エンディング</name>
+  <detail>土岐のエンディングを見た</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>冥加エンディング</name>
+  <detail>冥加のエンディングを見た</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>天宮エンディング</name>
+  <detail>天宮のエンディングを見た</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>七海エンディング</name>
+  <detail>七海のエンディングを見た</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>フェスタルート共通エンディング</name>
+  <detail>フェスタルート共通エンディングを見た</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="000">
+  <name>キャンプルート共通エンディング</name>
+  <detail>キャンプルート共通エンディングを見た</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="S" pid="000">
+  <name>フェスタルート全てのイベントコンプリート</name>
+  <detail>フェスタルート全イベントを見た</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="S" pid="000">
+  <name>キャンプルート全てのイベントコンプリート</name>
+  <detail>キャンプルート全イベントを見た</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="G" pid="000">
+  <name>全イベントコンプリート</name>
+  <detail>全イベントをコンプリートした</detail>
+ </trophy>
+</trophyconf>

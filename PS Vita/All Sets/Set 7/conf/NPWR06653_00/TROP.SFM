@@ -1,0 +1,64 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000589cc0c7d0c5ac0302b7274341a7e221d3e9287262f8a749ff32990c257aa822a3c2ef5d0c480dd48b26f431ad54c32a9764044c168f506dac6ee87ba35bd38a48846abe377440dc54b43f3fe48a03aee9c54d8b422711e7cfc38ed65b24dfaf93de1e481c68f6162f7a41e0598bfa017fe1a96832e187e3f4407b308446f329c7745a1517a6f436019c64365e24f1e4c868c163-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR06653_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Sparkle 2</title-name>
+ <title-detail>Challenge the darkness with your orb matching skills!</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Chain 12X</name>
+  <detail>Get Chain 12x.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Chain 24X</name>
+  <detail>Get Chain 24x.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Ten Thousand Orbs</name>
+  <detail>Pop 10 000 orbs.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Four Hours</name>
+  <detail>Play for 4 hours.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>200 Powerups</name>
+  <detail>Win 200 Powerups.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>2000 Matches</name>
+  <detail>Make 2000 Matches.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Hundred Pushers</name>
+  <detail>Destroy 100 pushers.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Rapid Powerups</name>
+  <detail>Collect three powerups in five seconds.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Fully Enchanted</name>
+  <detail>Unlock all Enchantments.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="-1">
+  <name>Quest Completed</name>
+  <detail>Complete your quest.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>Survival Star</name>
+  <detail>Get all stars in Survival mode.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="-1">
+  <name>Challenge Master</name>
+  <detail>Complete all levels in Challenge mode.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="-1">
+  <name>Hard Quest Completed</name>
+  <detail>Complete your quest on Hard difficulty.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="-1">
+  <name>Nightmare Over</name>
+  <detail>Complete your quest on Nightmare difficulty.</detail>
+ </trophy>
+</trophyconf>

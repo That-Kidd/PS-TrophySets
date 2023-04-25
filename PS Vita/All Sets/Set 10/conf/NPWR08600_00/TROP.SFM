@@ -1,0 +1,124 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000095bf592778b4e99f09647582497011004da99c60c4282e18cc141a89a267c3e03ed06b52d826dd6ce8eea9585def0577787a1daacd443bfda76797286313b4b18a637ecc172cde52ea8df54aaa2e5170d5f53ec26a2ba3f6c932c792a5837e056f482f084b95586f8ae6d1e88c1a509e619de31dd47a2eb1703dd3723b1fe0a675b5ab52cc7877fea45a9b1f655f0ca79ea62124-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR08600_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>猛獣使いと王子様 ～Flower ＆ Snow～</title-name>
+ <title-detail>猛獣使いと王子様 ～Flower ＆ Snow～のトロフィーです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>BEAST MASTER！</name>
+  <detail>全てのトロフィーを獲得した</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="000">
+  <name>マティアスエンド</name>
+  <detail>マティアスルートをクリア</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>アルフレートエンド</name>
+  <detail>アルフレートルートをクリア</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>ルシアエンド</name>
+  <detail>ルシアルートをクリア</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>エリクエンド</name>
+  <detail>エリクルートをクリア</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>クラウスエンド</name>
+  <detail>クラウスルートをクリア</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>シルビオエンド</name>
+  <detail>シルビオルートをクリア</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>猛獣使いと王子様と竜の物語</name>
+  <detail>全てのエンディングを見た</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>マティアスとの想い出　～Flower～</name>
+  <detail>マティアスの画像を全てオープンした</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>アルフレートとの想い出　～Flower～</name>
+  <detail>アルフレートの画像を全てオープンした</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>ルシアとの想い出　～Flower～</name>
+  <detail>ルシアの画像を全てオープンした</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>エリクとの想い出　～Flower～</name>
+  <detail>エリクの画像を全てオープンした</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>クラウスとの想い出　～Flower～</name>
+  <detail>クラウスの画像を全てオープンした</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>シルビオとの想い出　～Flower～</name>
+  <detail>シルビオの画像を全てオープンした</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>みんなとの想い出　～Flower～</name>
+  <detail>Othersの画像を全てオープンした</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>猛獣使いはネコ？</name>
+  <detail>Ex Side storyを全て読んだ</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="G" pid="000">
+  <name>モフモフマスター　～Flower～</name>
+  <detail>全員を上手にモフモフした</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>アナザーストーリークリア</name>
+  <detail>全てのアナザーストーリーを見た</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>サイドストーリークリア</name>
+  <detail>全てのサイドストーリーを見た</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="000">
+  <name>アフターストーリークリア</name>
+  <detail>全てのアフターストーリーを見た</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>フランツの手記クリア</name>
+  <detail>全てのフランツの手記を見た</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>マティアスとの想い出　～Snow～</name>
+  <detail>マティアスの画像を全てオープンした</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>アルフレートとの想い出　～Snow～</name>
+  <detail>アルフレートの画像を全てオープンした</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>ルシアとの想い出　～Snow～</name>
+  <detail>ルシアの画像を全てオープンした</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>エリクとの想い出　～Snow～</name>
+  <detail>エリクの画像を全てオープンした</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="S" pid="000">
+  <name>クラウスとの想い出　～Snow～</name>
+  <detail>クラウスの画像を全てオープンした</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="S" pid="000">
+  <name>シルビオとの想い出　～Snow～</name>
+  <detail>シルビオの画像を全てオープンした</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="S" pid="000">
+  <name>みんなとの想い出　～Snow～</name>
+  <detail>Othersの画像を全てオープンした</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="G" pid="000">
+  <name>モフモフマスター　～Snow～</name>
+  <detail>Extraを全てオープンした</detail>
+ </trophy>
+</trophyconf>

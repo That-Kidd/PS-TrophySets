@@ -1,0 +1,128 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000010006a9172c8cab760e71904eda3dc9c8baa2f7d0aa829a8f3dbf074b0087077030b39bd154fe58a12b266b548fe67b59747ad03d52f70f95d35f1a21bd4fbcc149d9aa50ae7f70df484c7e8bf81f3ca68b66f94f54068273a594ec62b2bbba4c2929716768ccb9a04fd280022fa3fa1b72cbe6402bc105bbb46d15803f411eec80a254d708c586d07c5a1727e40afbca2da5c36-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR12353_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Deer God</title-name>
+ <title-detail>Set of Trophies for Deer God</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Completionist</name>
+  <detail>Finish the game with all trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>All Grown Up</name>
+  <detail>Become an adult</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>Blessed Soul</name>
+  <detail>Get full light karma bar</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>Choose Elder</name>
+  <detail>Finished the game and became an Elder</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>Choose Human</name>
+  <detail>Finished the game and became a human</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>Cow Tipper</name>
+  <detail>Kill 10 cows</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>Deer Boss</name>
+  <detail>Beat all bosses</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>Eagle Eye</name>
+  <detail>Kill the eagle</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>Egg Collector</name>
+  <detail>Collect 25 eggs</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>Falconer</name>
+  <detail>Hatch 3 falcons</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>Family Man</name>
+  <detail>Raise 5 babies</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>Farmer Joe</name>
+  <detail>Find 10 turnips</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>Foodie</name>
+  <detail>Eat 25 mushrooms</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>Fox Fire</name>
+  <detail>Kill 5 foxes with fire</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>Goodie Two Shoes</name>
+  <detail>Don't kill any creatures for 15 days</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>Hungry Jack</name>
+  <detail>Eat 100 plants in one game</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Jack of all Trades</name>
+  <detail>Use 3 items at the same time</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>Long John Silver</name>
+  <detail>Run for 50,000 meters</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>1 Upper</name>
+  <detail>Find 10 deer heads</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="G" pid="000">
+  <name>Powers that be</name>
+  <detail>Acquire all powers</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>Psychopath</name>
+  <detail>Kill 10 deer</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>Put em on Ice</name>
+  <detail>Freeze 5 hunters</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>Reincarnationist</name>
+  <detail>Become 3 different animals</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>Serial Killer</name>
+  <detail>Get full dark karma bar</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="G" pid="000">
+  <name>Statuesque</name>
+  <detail>Collect all relics</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>Stinky Feet</name>
+  <detail>Collect 10 skunk cabbages</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="G" pid="000">
+  <name>Survivalist</name>
+  <detail>Survive for 50 days</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="S" pid="000">
+  <name>Tortoise Master</name>
+  <detail>Ride a tortoise through spikes</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>Train Rider</name>
+  <detail>Ride a train</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="S" pid="000">
+  <name>Treasure Hunter</name>
+  <detail>Find 10 treasure boxes</detail>
+ </trophy>
+</trophyconf>

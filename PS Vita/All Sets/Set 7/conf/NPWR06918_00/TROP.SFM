@@ -1,0 +1,60 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000041cdcfc483d0895e35e82efe6029c7cf6a32a8531a6b79394b025a5235a85233c896107a715e278e3ffd006a73d1249d63a4ead488f308a36f3f3d5826e8cb61c4f6d3c14a4e8018fd88132bee0729d654807e93b74d2c26ccd70f8c5d82076db2399e33113a14c4030301f18db9cb23afeb49dbbd6f13acf17253e62dae689936791383f06aba3a84d8865007c4e66ad13bbe05-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR06918_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Flyhunter Origins</title-name>
+ <title-detail>Flyhunter Origins</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Swat's this?</name>
+  <detail>Find the Mark 1 swatter</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Tutti Frutti</name>
+  <detail>Capture the Fruitfly</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>I've got to GLOW now</name>
+  <detail>Capture the Firefly</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Horse Play</name>
+  <detail>Capture the Horsefly</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>It's starting to Drag-on</name>
+  <detail>Capture the Dragonfly</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>House my Flyhunting?</name>
+  <detail>Capture the Housefly</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="-1">
+  <name>Mission Complete</name>
+  <detail>Reach the end of Episode 5</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Stop CLONING around</name>
+  <detail>Get killed 10 times in a single level</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Lover, not a swatter</name>
+  <detail>Clear a level with Zak without killing any creatures</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>Going for Gold</name>
+  <detail>Win your first Golden Larvae</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="-1">
+  <name>Golden Larvae Hunter</name>
+  <detail>Win every golden larvae in the game</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="-1">
+  <name>Fully Loaded</name>
+  <detail>Fully Upgrade all weapons</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="-1">
+  <name>Suits you sir!</name>
+  <detail>Find all hidden suits</detail>
+ </trophy>
+</trophyconf>

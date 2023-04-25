@@ -1,0 +1,112 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000805b96791f9f5af198301fc3c99d7d9313c25c7e6a28c47bd2fe77e76724eacdae79a019a12631609a379cc1523dc4b0b853f5dcf7c9d4309ca1d456eb8ed86bdafb948022a88f0220336b6849c2a8ca53356bbf637a0bb19fedcc788fa86df50edaf33166aff7ffea212df2485962f12a61630d215941fa2752baefe97bfc8127ef31297b36607604244d0137791d839318e7ee-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR14890_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>STEINS;GATE ELITE</title-name>
+ <title-detail>『STEINS;GATE ELITE』のトロフィーセットです</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>スカイクラッドの観測者</name>
+  <detail>STEINS;GATE ELITEをやり尽くす</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>始まりと終わりのプロローグ</name>
+  <detail>プロローグクリア</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>時間跳躍のパラノイア</name>
+  <detail>Chapter1クリア</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>空理彷徨のランデヴー</name>
+  <detail>Chapter2クリア</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>蝶翼のダイバージェンス</name>
+  <detail>Chapter3クリア</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>夢幻のホメオスタシス</name>
+  <detail>Chapter4クリア</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>時空境界のドグマ</name>
+  <detail>Chapter5クリア</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>形而上のネクローシス</name>
+  <detail>Chapter6クリア</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>虚像歪曲のコンプレックス</name>
+  <detail>Chapter7クリア</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>自己相似のアンドロギュノス</name>
+  <detail>Chapter8クリア</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>無限連鎖のアポトーシス</name>
+  <detail>Chapter9クリア</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>開闢の最終ミッション</name>
+  <detail>Chapter10クリア</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="G" pid="000">
+  <name>境界面上のシュタインズゲート</name>
+  <detail>シュタインズゲートに到達した</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>天才少女のメランコリィ</name>
+  <detail>紅莉栖とメールを使って仲良くなった</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="G" pid="000">
+  <name>因果律のメルト</name>
+  <detail>牧瀬紅莉栖のエンディングを見た</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="G" pid="000">
+  <name>透明のスターダスト</name>
+  <detail>椎名まゆりのエンディングを見た</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="G" pid="000">
+  <name>不可逆のリブート</name>
+  <detail>阿万音鈴羽のエンディングを見た</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="G" pid="000">
+  <name>背徳と再生のリンク</name>
+  <detail>漆原るかのエンディングを見た</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="G" pid="000">
+  <name>分離喪失のジャメヴュ</name>
+  <detail>フェイリス・ニャンニャンのエンディングを見た</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="G" pid="000">
+  <name>全ての世界線をコンプリート</name>
+  <detail>全エンディングを見た</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="S" pid="000">
+  <name>洽覧深識のバイブル</name>
+  <detail>全TIPSを見た</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>不連続性のクオリア</name>
+  <detail>紅莉栖からカップ麺を買ってきてとメールで２回連続頼まれた</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="B" pid="000">
+  <name>黒歴史のパッション</name>
+  <detail>まゆりから「コス作りを始めたきっかけ」に関するメールを読んだ</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>女戦士のプライド</name>
+  <detail>鈴羽からの「格闘技」に関するメールを読んだ</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="000">
+  <name>暴虐のシスター</name>
+  <detail>るかからの「姉」に関するメールを読んだ</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="B" pid="000">
+  <name>猫のティータイム</name>
+  <detail>フェイリスからの「紅茶」に関するメールを読んだ</detail>
+ </trophy>
+</trophyconf>

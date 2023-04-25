@@ -1,0 +1,192 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000e7cff1bf973f19a15e5aa200723e775faec640c43ae6878bc27711725f59c13505775b68f02e2e061dfcfd926fbb155adb130dccb05ae39c8bb3755ac52c80e59f053b2ef4b936ada4640423e50dfee9ece22f54c3b1af08fd475a18892570815f812429bd3905a2c0d23470b372e973b37a078826b5ecc77a97147a38329fca41925b57ea0813753d9a82325d3784d398c9d844-->
+<trophyconf version="1.1" platform="ps3,psp2" policy="large">
+ <npcommid>NPWR05110_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>戦国無双２ with 猛将伝 HD Version</title-name>
+ <title-detail>戦国無双２ with 猛将伝 HD Versionのトロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>真の戦国無双</name>
+  <detail>すべてのトロフィーを獲得した</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>乱世の始まり</name>
+  <detail>はじめて無双演武のシナリオをクリアした</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>武士の生き様</name>
+  <detail>誰か1人の無双演武をクリアした</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>十色の演武</name>
+  <detail>無双演武をクリアした武将の数が10人に達した</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>二十重の演武</name>
+  <detail>無双演武をクリアした武将の数が20人に達した</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>演武の終わり</name>
+  <detail>すべての無双演武をクリアした</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>阿修羅への道</name>
+  <detail>はじめて難易度「修羅」でシナリオをクリアした</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>最強の使い手</name>
+  <detail>プレイヤーの階級が最大に達した</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>最高の守り手</name>
+  <detail>護衛武将のランクが最大に達した</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>守り手の集い</name>
+  <detail>雇用護衛武将の数が最大に達した</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>業師の一振り</name>
+  <detail>はじめて第一秘蔵武器を入手した</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>名匠の一振り</name>
+  <detail>はじめて第二秘蔵武器を入手した</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>数多の名刀</name>
+  <detail>秘蔵武器の入手数が10個に達した</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="000">
+  <name>武具の好事家</name>
+  <detail>すべての秘蔵武器を入手した</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>万能の武芸者</name>
+  <detail>技能をすべて入手した</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>秘技の継承者</name>
+  <detail>秘技をすべて習得した</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="G" pid="000">
+  <name>技を極めし者</name>
+  <detail>すべての技能のレベルが最大に達した</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>管弦の調べ</name>
+  <detail>すべてのBGMを聞いた</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>探求者</name>
+  <detail>無限城を10階までクリアした</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>到達者</name>
+  <detail>無限城を50階までクリアした</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="S" pid="000">
+  <name>踏破者</name>
+  <detail>無限城を100階までクリアした</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>本州行脚</name>
+  <detail>双六・本州版をクリアした</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>全国行脚</name>
+  <detail>双六・全国版をクリアした</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>大富豪</name>
+  <detail>双六を１位でクリアした</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>名刀の輝き</name>
+  <detail>はじめて名刀を入手した</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="S" pid="000">
+  <name>刃に魅入られし者</name>
+  <detail>名刀の保持数が10本に達した</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>宮仕えの始まり</name>
+  <detail>はじめて大名家に仕えた</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>時代を生き抜いた兵</name>
+  <detail>傭兵演武をクリアした</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="S" pid="000">
+  <name>玉石収集家</name>
+  <detail>玉を累計500個入手した</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="B" pid="000">
+  <name>百花繚乱</name>
+  <detail>すべての無双武将を使用した</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>一騎当千の将</name>
+  <detail>１合戦中の最高撃破数が1000人を突破した</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>戦国堪能</name>
+  <detail>総プレイ時間が10時間以上</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>戦国満喫</name>
+  <detail>総プレイ時間が30時間以上</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>戦国謳歌</name>
+  <detail>総プレイ時間が50時間以上</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>連撃の鬼</name>
+  <detail>連撃数で100撃を達成した</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="S" pid="000">
+  <name>連撃の鬼神</name>
+  <detail>連撃数で300撃を達成した</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>見事な手並み</name>
+  <detail>累計10回スティールした</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="S" pid="000">
+  <name>鮮やかな手並み</name>
+  <detail>累計100回スティールした</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>これぞ我が奥義</name>
+  <detail>無双演武か模擬演武にて、無双奥義で敵総大将を撃破した</detail>
+ </trophy>
+ <trophy id="039" hidden="yes" ttype="B" pid="000">
+  <name>我が秘奥義で眠れ</name>
+  <detail>無双演武か模擬演武にて、無双秘奥義で敵総大将を撃破した</detail>
+ </trophy>
+ <trophy id="040" hidden="yes" ttype="B" pid="000">
+  <name>我等が武ここにあり</name>
+  <detail>無双演武か模擬演武にて、無双最終奥義で敵総大将を撃破した</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="B" pid="000">
+  <name>軍略の賜物</name>
+  <detail>最高戦績Sを達成</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="B" pid="000">
+  <name>一見の客</name>
+  <detail>はじめてよろず屋に入った</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="S" pid="000">
+  <name>お得意様</name>
+  <detail>よろず屋で支払った金額の合計が100万両に達した</detail>
+ </trophy>
+ <trophy id="044" hidden="no" ttype="B" pid="000">
+  <name>疾風の如き名馬</name>
+  <detail>松風を入手した</detail>
+ </trophy>
+ <trophy id="045" hidden="no" ttype="B" pid="000">
+  <name>財の頂</name>
+  <detail>所持金が100万両に達した</detail>
+ </trophy>
+</trophyconf>

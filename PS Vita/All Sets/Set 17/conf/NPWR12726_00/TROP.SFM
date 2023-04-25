@@ -1,0 +1,136 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000dd3c2fb6304ad4023c4e5d6cccbacc25c131e0b731a71d2247ad01eb960f059a1970034df4ff7a897b708b9a86b00b48825cb1c99c2633b340b603e8451b3c0997323b59e807fef73e8944b5eb8d6d1c9723c299a20f0b56aa9af6c70fe79698eb4bf097071ea0d74e28966b847e888c59b14a612c6294a5c83b32f3881514eaadd8dbc3ef1ba702474bb45deb3627422f0d93a1-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR12726_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Code: Realize ~Future Blessings~</title-name>
+ <title-detail>Code: Realize ~Future Blessings~ Trophies</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Code: Realize ~FB~ Master</name>
+  <detail>Obtain all trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>White Rose -side Lupin-</name>
+  <detail>Unlock first Lupin image</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>White Rose -side Van Helsing-</name>
+  <detail>Unlock first Van Helsing image</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>White Rose -side Victor-</name>
+  <detail>Unlock first Victor image</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>White Rose -side Impey-</name>
+  <detail>Unlock first Impey image</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>White Rose -side Saint-Germain-</name>
+  <detail>Unlock first Saint-Germain image</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>I Love You</name>
+  <detail>Clear Lupin's White Rose route</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>Oath of Love</name>
+  <detail>Clear Van Helsing's White Rose route</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>A Destined Choice</name>
+  <detail>Clear Victor's White Rose route</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>Neverending Dream</name>
+  <detail>Clear Impey's White Rose route</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>Life's Answer</name>
+  <detail>Clear Saint-Germain's White Rose route</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>Lupin's Gang!</name>
+  <detail>Unlock first Lupin's Gang! image</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>Perfect Posse</name>
+  <detail>Clear Lupin's Gang! route</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>Truth's Successor</name>
+  <detail>Accept Finis' invitation</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>Brother and Sister</name>
+  <detail>Clear Finis' route</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>The Humble Detective</name>
+  <detail>Reveal a terrible secret to Sholmès</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Beside the Detective</name>
+  <detail>Clear Sholmès' route</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>The Search for Answers Continues</name>
+  <detail>See Normal Ending for Finis or Sholmès's routes</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>Memories with Lupin</name>
+  <detail>Unlock all Lupin images</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="000">
+  <name>Memories with Van Helsing</name>
+  <detail>Unlock all Van Helsing images</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>Memories with Victor</name>
+  <detail>Unlock all Victor images</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>Memories with Impey</name>
+  <detail>Unlock all Impey images</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>Memories with Saint-Germain</name>
+  <detail>Unlock all Saint-Germain images</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>Memories of a Certain Day</name>
+  <detail>Unlock all Lupin's Gang! images</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>Memories with Finis</name>
+  <detail>Unlock all Finis images</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="S" pid="000">
+  <name>Memories with Sholmès</name>
+  <detail>Unlock all Sholmès images</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="G" pid="000">
+  <name>A Little King's Leisures</name>
+  <detail>See all episodes in Delly's Room</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="G" pid="000">
+  <name>Woman of Exceptional Knowledge</name>
+  <detail>Fill the Glossary</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="G" pid="000">
+  <name>A World Painted in Sound</name>
+  <detail>Unlock all BGM</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="G" pid="000">
+  <name>The Fates of All</name>
+  <detail>See all ending movies</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="G" pid="000">
+  <name>Future Blessings</name>
+  <detail>See everyone's True Endings</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="G" pid="000">
+  <name>Congratulations!</name>
+  <detail>Collect all images</detail>
+ </trophy>
+</trophyconf>

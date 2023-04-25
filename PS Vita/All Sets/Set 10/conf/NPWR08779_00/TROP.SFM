@@ -1,0 +1,208 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000a1f43500fda550c150966719d4856aebd24e541c9df77ceed96bf1272b4c3cac04c4f84b2bd82364435b7e0c9d9f6378aaf4201ceafacd42ad5ccd847e3bb00de2126afa44fa4e59bba46e69f8a2045edc6e6418b6ae52aa7a1823844366ff3b877e19367f71094c00e371446b6ae99d1b471563338297dc10e1dce85287c1cfe4479b0b7e1c7ae34f9ca4f70e72890566861818-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR08779_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>SAMURAI WARRIORS: Chronicles 3</title-name>
+ <title-detail>"SAMURAI WARRIORS: Chronicles 3" trophy set.</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Unrivaled Warrior</name>
+  <detail>Obtain all trophies.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Meeting of a Lifetime</name>
+  <detail>Create a new character.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>A Promising Beginning</name>
+  <detail>Claim victory in a battle.</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>Not Quite The End</name>
+  <detail>See the ending for "Siege of Ōsaka Castle."</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>Kemari Kingdom</name>
+  <detail>See the ending for "Ieyasu's Rebellion."</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>Bonds of Ōmi</name>
+  <detail>See the ending for "Hisahide's Rebellion."</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>A Righteous Rule</name>
+  <detail>See the ending for "Battle at Kawanakajima II."</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>One God, One Tactician</name>
+  <detail>See the ending for "The Defeat of Matsunaga."</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>Return of the King</name>
+  <detail>See the ending for "Defeat of Toyotomi II."</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="000">
+  <name>The Time is Now</name>
+  <detail>See the ending for "Battle of Setouchi II."</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="000">
+  <name>A Vision to Rule</name>
+  <detail>See the ending for "Ōsaka Castle Under Siege."</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>Spreading Peace</name>
+  <detail>See the ending for "Conquest of Edo."</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="B" pid="000">
+  <name>Battle for Survival</name>
+  <detail>See the ending for "Battle at Mt. Tachibana."</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>Finale</name>
+  <detail>See the ending for "Battle at Ōsaka."</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="000">
+  <name>Veteran</name>
+  <detail>Claim victory in all Story Mode battles.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>Becoming a God</name>
+  <detail>Complete a stage on the "Nightmare" difficulty level.</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>True Warrior</name>
+  <detail>Rack up 1000 K.O.s in a single battle.</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>Blazing Speed</name>
+  <detail>Vanquish 1000 enemies using Hyper Attacks in a single battle.</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>Furious Fighter</name>
+  <detail>Achieve a 1000-hit combo in a single battle.</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>Talented Warrior</name>
+  <detail>Use War Arts 10 times in a single battle.</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="000">
+  <name>Glutton</name>
+  <detail>Eat 500 rice balls.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>First Rewards</name>
+  <detail>Receive a Challenge Mode reward for the first time.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>Big Spender</name>
+  <detail>Use over 100,000 points earned from Challenge Mode.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>Beginning Investor</name>
+  <detail>Invest in something for the first time.</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="S" pid="000">
+  <name>Architect</name>
+  <detail>Achieve maximum investment level for all areas in the castle town.</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="B" pid="000">
+  <name>Insurmountable</name>
+  <detail>Raise the level of any famous officer to max.</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>One Swing, One Kill</name>
+  <detail>Obtain a Death elemental weapon.</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="S" pid="000">
+  <name>Valuable Treasure</name>
+  <detail>Obtain a rare weapon.</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="G" pid="000">
+  <name>Dangerous Hobby</name>
+  <detail>Obtain every single weapon in the game.</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>Regal Palace</name>
+  <detail>Use over 100,000 gold in the castle town.</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>Battle Born</name>
+  <detail>Attain a total K.O. count (as displayed in the Vault) of 100,000.</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="G" pid="000">
+  <name>A True Genius</name>
+  <detail>Unlock all panels.</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="B" pid="000">
+  <name>Making History</name>
+  <detail>Unlock panel 1.</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="B" pid="000">
+  <name>Chibigahara</name>
+  <detail>Unlock panel 2.</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="B" pid="000">
+  <name>Popularity Contest</name>
+  <detail>Unlock panel 3.</detail>
+ </trophy>
+ <trophy id="035" hidden="yes" ttype="B" pid="000">
+  <name>Bitty Boxes</name>
+  <detail>Unlock panel 4.</detail>
+ </trophy>
+ <trophy id="036" hidden="yes" ttype="B" pid="000">
+  <name>Spring Cleaning</name>
+  <detail>Unlock panel 5.</detail>
+ </trophy>
+ <trophy id="037" hidden="yes" ttype="B" pid="000">
+  <name>Amusement Park</name>
+  <detail>Unlock panel 6.</detail>
+ </trophy>
+ <trophy id="038" hidden="yes" ttype="B" pid="000">
+  <name>Nice Legs</name>
+  <detail>Unlock panel 7.</detail>
+ </trophy>
+ <trophy id="039" hidden="yes" ttype="B" pid="000">
+  <name>Group Picture</name>
+  <detail>Unlock panel 8.</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="B" pid="000">
+  <name>Mission Underway</name>
+  <detail>Complete over 50% of Story Mode objectives (as shown in the Vault).</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="S" pid="000">
+  <name>Mission Accomplished</name>
+  <detail>Complete 100% of Story Mode objectives (as shown in the Vault).</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="B" pid="000">
+  <name>Getting Talkative</name>
+  <detail>Unlock 50% of all events in the Vault.</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="S" pid="000">
+  <name>Socialite</name>
+  <detail>Unlock 100% of all events in the Vault.</detail>
+ </trophy>
+ <trophy id="044" hidden="no" ttype="B" pid="000">
+  <name>Musician</name>
+  <detail>Unlock 50% of all music tracks in the Vault.</detail>
+ </trophy>
+ <trophy id="045" hidden="no" ttype="S" pid="000">
+  <name>Composer</name>
+  <detail>Unlock 100% of all music tracks in the Vault.</detail>
+ </trophy>
+ <trophy id="046" hidden="no" ttype="B" pid="000">
+  <name>Hoarder</name>
+  <detail>Obtain every equipable item.</detail>
+ </trophy>
+ <trophy id="047" hidden="no" ttype="B" pid="000">
+  <name>Master Warrior</name>
+  <detail>Learn every War Art.</detail>
+ </trophy>
+ <trophy id="048" hidden="no" ttype="B" pid="000">
+  <name>Equestrian</name>
+  <detail>Obtain every horse.</detail>
+ </trophy>
+ <trophy id="049" hidden="no" ttype="B" pid="000">
+  <name>Making Friends</name>
+  <detail>Gain Favor of "Trusted" or higher with all officers.</detail>
+ </trophy>
+</trophyconf>

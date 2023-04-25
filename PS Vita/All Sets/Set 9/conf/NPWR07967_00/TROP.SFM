@@ -1,0 +1,44 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000007512a314ccb31abefb38d079a0a08d6fa6999c38a8c87149ee69263fe95ee0e610f5bc89414d1ed614bbd8209636279c05fa0bbb70ce15596e7f1186d42ac3da6c495771e2102fc9813839758f0426828329a059027116891b68285b90b1530934b2ed10f866b53c440825f2bf6301fffef18a0a341d48d6499a70447f7db233c8151cb5a71447b99c4c95b433e0ac91481f8f61-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR07967_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Q*bert: Rebooted</title-name>
+ <title-detail>Q*bert: Rebooted Trophies</title-detail>
+ <trophy id="000" hidden="no" ttype="G" pid="-1">
+  <name>Classic Master</name>
+  <detail>Complete Level 5 in Q*Bert Classic</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="-1">
+  <name>Newbert</name>
+  <detail>Complete Q*Bert Rebooted</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Q*Bert-o-rama</name>
+  <detail>Unlock all of Q*Bert's skins</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Snake Surprise</name>
+  <detail>Get crushed by Coily 25 times</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Green Machine</name>
+  <detail>Collect 30 green freeze balls in Q*Bert Classic</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="-1">
+  <name>Ugg!</name>
+  <detail>Get smashed by Ugg 25 times</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Coin-op Collector</name>
+  <detail>Collect 5,000 gems</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="-1">
+  <name>Down for the Count</name>
+  <detail>Die 100 times</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Disc Rider</name>
+  <detail>Ride 50 discs</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,84 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000003fd5e255686ecdf3c405c67d9775cc8c7c4e08cb9f3d2ac6c97ec3986957ae0a4c937920e0dfab73e9690cd20c5c86ffafc664fa306602bce01d5b9b5c1266e29ef7184d7903a62ba728a252d7271e42d26f3824f7e9322da9fac1e023b898915943321b62268d868e18b5e5bea7dbffa7d62c3e849416ea78dc44690fdcf016065a737738d5cc6a4b8e2359797f4f4768ff872-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR20398_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Demon's Tier+</title-name>
+ <title-detail>Demon's Tier+ trophies</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Platinum Demon’s Tier+</name>
+  <detail>Unlock all trophies in Demon’s Tier+</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>The hero's tomb</name>
+  <detail>Die for the first time</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>I need more HP</name>
+  <detail>Buy your first potion</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>First new weapon</name>
+  <detail>Craft a new weapon</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>Save a prisoner</name>
+  <detail>Save one villager from the clutches of monsters</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>Save all prisoners</name>
+  <detail>Save three villagers in a single playthrough</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>Earthworm</name>
+  <detail>Defeat the cave monster</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>One less spider</name>
+  <detail>Defeat the spider queen</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>A creature from inferno</name>
+  <detail>Defeat the ancestral dragon</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>A detestable abomination</name>
+  <detail>Defeat the demonic spawn</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>Not what it seems</name>
+  <detail>Defeat the illusion of Thosgar</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>Final battle</name>
+  <detail>Destroy king Thosgar's dreams</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>Chest master</name>
+  <detail>Open at least 100 chests</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>Darn flies</name>
+  <detail>Defeat the fly queen at least 5 times</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>Full party</name>
+  <detail>Get all six base characters from the tavern</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="G" pid="000">
+  <name>Tier 1</name>
+  <detail>Finish Tier 1</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="G" pid="000">
+  <name>Tier 2</name>
+  <detail>Finish Tier 2</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="G" pid="000">
+  <name>Tier 3</name>
+  <detail>Finish Tier 3</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>Meta-key</name>
+  <detail>Get the meta-key from the shop</detail>
+ </trophy>
+</trophyconf>

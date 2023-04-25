@@ -1,0 +1,140 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000f49dcc7f65b20a508bf69ac6b267309ba1d6add1493d41a2d4135903b3d41887dfacdf2792db6ac0d431175d0cb50851692e5a67f3ccb070837a99c8043062c1d11b4ba1144ed576a503f699732ce4b60e67e08e242e3e2dd152515357592ebf1966e096a87586911cbb6569cb615e732c2601044304392e34298f685a1f8a1f9ec9e212e873db7ff3c14769360ac656f668027d-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR10523_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>猛獣たちとお姫様</title-name>
+ <title-detail>｢猛獣たちとお姫様」のトロフィーです</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>猛獣たちとお姫様マスター</name>
+  <detail>全てのトロフィーを獲得した&#x0a;</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>はじめてのモフモフ</name>
+  <detail>初めてモフモフを成功した</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>第１章クリア</name>
+  <detail>第１章をクリアした</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>第２章クリア</name>
+  <detail>第２章をクリアした</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>リシャルトの物語</name>
+  <detail>リシャルトルートに入った</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>リシャルトクリア</name>
+  <detail>リシャルトのグッドエンドをクリアした</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>ルドヴィクの物語</name>
+  <detail>ルドヴィクルートに入った</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>ルドヴィククリア</name>
+  <detail>ルドヴィクのグッドエンドをクリアした</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>ミアーシュの物語</name>
+  <detail>ミアーシュルートに入った</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>ミアーシュクリア</name>
+  <detail>ミアーシュのグッドエンドをクリアした</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>ユゼフの物語</name>
+  <detail>ユゼフルートに入った</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>ユゼフクリア</name>
+  <detail>ユゼフのグッドエンドをクリアした</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="B" pid="000">
+  <name>ヘンリクの物語</name>
+  <detail>ヘンリクルートに入った</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="000">
+  <name>ヘンリククリア</name>
+  <detail>ヘンリクのグッドエンドをクリアした</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="B" pid="000">
+  <name>魔術師の物語</name>
+  <detail>魔術師ルートに入った</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>魔術師クリア</name>
+  <detail>魔術師のグッドエンドをクリアした</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="G" pid="000">
+  <name>みんな大好き！</name>
+  <detail>ifルートをクリアした</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>リシャルトのアルバム</name>
+  <detail>リシャルトの画像を全てオープンした</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>ルドヴィクのアルバム</name>
+  <detail>ルドヴィクの画像を全てオープンした</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="000">
+  <name>ミアーシュのアルバム</name>
+  <detail>ミアーシュの画像を全てオープンした&#x0a;</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>ユゼフのアルバム</name>
+  <detail>ユゼフの画像を全てオープンした</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="S" pid="000">
+  <name>ヘンリクのアルバム</name>
+  <detail>ヘンリクの画像を全てオープンした</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="S" pid="000">
+  <name>魔術師のアルバム</name>
+  <detail>魔術師の画像を全てオープンした</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>みんなのアルバム</name>
+  <detail>その他の画像を全てオープンした</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>至福のモフモフタイム～リシャルト編～</name>
+  <detail>リシャルトを上手にモフモフした</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="S" pid="000">
+  <name>至福のモフモフタイム～ルドヴィク編～</name>
+  <detail>ルドヴィクを上手にモフモフした</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="S" pid="000">
+  <name>至福のモフモフタイム～ミアーシュ編～</name>
+  <detail>ミアーシュを上手にモフモフした</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="S" pid="000">
+  <name>至福のモフモフタイム～ユゼフ編～</name>
+  <detail>ユゼフを上手にモフモフした</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="S" pid="000">
+  <name>至福のモフモフタイム～ヘンリク編～</name>
+  <detail>ヘンリクを上手にモフモフした</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="S" pid="000">
+  <name>至福のモフモフタイム～魔術師編～</name>
+  <detail>魔術師を上手にモフモフした</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="G" pid="000">
+  <name>モフモフマスター</name>
+  <detail>全員を上手にモフモフした</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="G" pid="000">
+  <name>お姫様の秘密コレクション</name>
+  <detail>本棚を全て埋めた</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="G" pid="000">
+  <name>お姫様のアルバム</name>
+  <detail>フルコンプ画像をオープンした</detail>
+ </trophy>
+</trophyconf>

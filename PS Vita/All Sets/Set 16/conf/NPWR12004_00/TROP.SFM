@@ -1,0 +1,184 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000005d57b485919b1aab81048f44d0f617ad204f75ebc0396110ee75d3b1acf898c2e18afeb1a81ed261458f4299f66a4c27da3490a7c29375a91ef96903adfd8b35531f985bc18e6dc779e0a598ed9cd86e6d66fb873427c9af522743632df6af4f61c27a036ad948f9580305af5fb9ce0525e7ef8a86395b5f97f70e1e39e8c7dbbb394c2940eeea4f5a163b811269de95dcf2f088-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR12004_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>刺青の国</title-name>
+ <title-detail>刺青の国トロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>刺青の国</name>
+  <detail>全てのトロフィーを獲得</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>多摩NORMALクリア</name>
+  <detail>多摩で難易度NORMALをクリアする</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>立川NORMALクリア</name>
+  <detail>立川で難易度NORMALをクリアする</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>武蔵野NORMALクリア</name>
+  <detail>武蔵野で難易度NORMALをクリアする</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>八王子NORMALクリア</name>
+  <detail>八王子で難易度NORMALをクリアする</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>町田NORMALクリア</name>
+  <detail>町田で難易度NORMALをクリアする</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>調布NORMALクリア</name>
+  <detail>調布で難易度NORMALをクリアする</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>多摩23区完全制覇</name>
+  <detail>多摩で全ての区を完全制覇する（周回でも可）</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>立川23区完全制覇</name>
+  <detail>立川で全ての区を完全制覇する（周回でも可）</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>武蔵野23区完全制覇</name>
+  <detail>武蔵野で全ての区を完全制覇する（周回でも可）</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>八王子23区完全制覇</name>
+  <detail>八王子で全ての区を完全制覇する（周回でも可）</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>町田23区完全制覇</name>
+  <detail>町田で全ての区を完全制覇する（周回でも可）</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>調布23区完全制覇</name>
+  <detail>調布で全ての区を完全制覇する（周回でも可）</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>多摩ランクSクリア</name>
+  <detail>多摩をランクSでクリアする</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>立川ランクSクリア</name>
+  <detail>立川をランクSでクリアする</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>武蔵野ランクSクリア</name>
+  <detail>武蔵野をランクSでクリアする</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>八王子ランクSクリア</name>
+  <detail>八王子をランクSでクリアする</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>町田ランクSクリア</name>
+  <detail>町田をランクSでクリアする</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>調布ランクSクリア</name>
+  <detail>調布をランクSでクリアする</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="G" pid="000">
+  <name>伝説の彫師</name>
+  <detail>全てのパートナーで全ての難易度をクリアする</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>みかじめGETだぜ！</name>
+  <detail>1回のゲームで500000MP入手する</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>ビギナーズラック</name>
+  <detail>ミニゲームで初勝利する</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>カリスマインテリアコーディネーター</name>
+  <detail>部屋に配置するアイテムをすべて集める</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>自分、ピラ子ッス！説明するッス！</name>
+  <detail>チュートリアルを初めて見る</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>タマの快進撃！</name>
+  <detail>多摩の専用コマンドを30回使用する</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>人類皆キョウダイ！</name>
+  <detail>立川の専用コマンドを30回使用する</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>布教活動！</name>
+  <detail>武蔵野の専用コマンドを30回使用する</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>仁義ある闘い！</name>
+  <detail>八王子の専用コマンドを30回使用する</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>ジョバンニ大活躍！</name>
+  <detail>町田の専用コマンドを30回使用する</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>何が起こるか！</name>
+  <detail>調布の専用コマンドを30回使用する</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>多摩の戦略</name>
+  <detail>多摩でコマンドをすべて使用する</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>立川の戦略</name>
+  <detail>立川でコマンドをすべて使用する</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>武蔵野の戦略</name>
+  <detail>武蔵野でコマンドをすべて使用する</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>八王子の戦略</name>
+  <detail>八王子でコマンドをすべて使用する</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>町田の戦略</name>
+  <detail>町田でコマンドをすべて使用する</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>調布の戦略</name>
+  <detail>調布でコマンドをすべて使用する</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="G" pid="000">
+  <name>平和主義者の乙女</name>
+  <detail>サイレンを1度もクリックしないでクリアする</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>多摩押し</name>
+  <detail>多摩を20回クリアする</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>立川押し</name>
+  <detail>立川を20回クリアする</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="000">
+  <name>武蔵野押し</name>
+  <detail>武蔵野を20回クリアする</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="B" pid="000">
+  <name>八王子押し</name>
+  <detail>八王子を20回クリアする</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="B" pid="000">
+  <name>町田押し</name>
+  <detail>町田を20回クリアする</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="B" pid="000">
+  <name>調布押し</name>
+  <detail>調布を20回クリアする</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="G" pid="000">
+  <name>箱推し</name>
+  <detail>全てのパートナーを20回クリアする</detail>
+ </trophy>
+</trophyconf>

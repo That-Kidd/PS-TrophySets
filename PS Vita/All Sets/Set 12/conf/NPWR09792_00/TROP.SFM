@@ -1,0 +1,152 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000043be01f5d33e20bc3cdae2816a37b22816a2466ada49c515cee49db5fdd098092d6e04048cae756a28c496cb1ea3faeb3d96d9dab39a7afcfaa47a24aaf2de27823975b01f7094ee0e49e830425cac125fe29285ecc6c4d3a938c009378ec5e8a766fb55daffafbeb6e1af7179ddcce8f1a66d58103fde77c8103d84d27fadda7439c45d56f029573e8f37517562064035d5e63-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR09792_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>スカーレッドライダーゼクス Rev.</title-name>
+ <title-detail>スカーレッドライダーゼクス Rev.</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>全てのトロフィー入手</name>
+  <detail>全てのトロフィー入手</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>トラック00クリア</name>
+  <detail>トラック00クリア</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>トラック05クリア</name>
+  <detail>トラック05クリア</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>トラック09クリア</name>
+  <detail>トラック09クリア</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>バッドエンドクリア</name>
+  <detail>バッドエンドクリア</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>初クリア</name>
+  <detail>初クリア</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>全ての青エンドクリア</name>
+  <detail>全ての青エンドクリア</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>全ての紅エンドクリア</name>
+  <detail>全ての紅エンドクリア</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>全ての青紅エンドクリア</name>
+  <detail>全ての青紅エンドクリア</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>黄金エンドクリア</name>
+  <detail>黄金エンドクリア</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>出会いの夜</name>
+  <detail>BONUS 001 出会いの夜を解放</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>サブスタンスたちの日常</name>
+  <detail>BONUS 002 サブスタンスたちの日常を解放</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>幻のCM撮影</name>
+  <detail>BONUS 003 幻のCM撮影を解放</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>文化祭前会議</name>
+  <detail>BONUS 004 文化祭前会議を解放</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>サブ喫茶スタンス開店準備中</name>
+  <detail>BONUS 005 サブ喫茶スタンス開店準備中を解放</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>クリスマス前 ヨウスケ＆フェルナンデス</name>
+  <detail>BONUS 006 クリスマス前 ヨウスケ＆フェルナンデスを解放</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>クリスマス前 タクト&amp;レスポール</name>
+  <detail>BONUS 007 クリスマス前 タクト&amp;レスポールを解放</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>クリスマス前 ユゥジ&amp;ディバイザー</name>
+  <detail>BONUS 008 クリスマス前 ユゥジ&amp;ディバイザーを解放</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>クリスマス前 ヒロ&amp;デュセンバーグ</name>
+  <detail>BONUS 009　クリスマス前 ヒロ&amp;デュセンバーグを解放</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="000">
+  <name>クリスマス前 カズキ&amp;リッケンバッカー</name>
+  <detail>BONUS 010 クリスマス前 カズキ&amp;リッケンバッカーを解放</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>クリスマス前 ヒジリ&amp;エピフォン</name>
+  <detail>BONUS 011 クリスマス前 ヒジリ&amp;エピフォンを解放</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>転入組補習</name>
+  <detail>BONUS 012 転入組補習を解放</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>ヨウスケVSフェルナンデス</name>
+  <detail>BONUS 013 ヨウスケVSフェルナンデスを解放</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>タクトVSレスポール</name>
+  <detail>BONUS 014 タクトVSレスポールを解放</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>ユゥジVSディバイザー</name>
+  <detail>BONUS 015 ユゥジVSディバイザーを解放</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="S" pid="000">
+  <name>ヒロVSデュセンバーグ</name>
+  <detail>BONUS 016 ヒロVSデュセンバーグを解放</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="S" pid="000">
+  <name>カズキVSリッケンバッカー</name>
+  <detail>BONUS 017 カズキVSリッケンバッカーを解放</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="S" pid="000">
+  <name>ヒジリVSエピフォン</name>
+  <detail>BONUS 018 ヒジリVSエピフォンを解放</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="S" pid="000">
+  <name>エピローグ ヨウスケ</name>
+  <detail>BONUS 019 エピローグ ヨウスケを解放</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="S" pid="000">
+  <name>エピローグ タクト</name>
+  <detail>BONUS 020 エピローグ タクトを解放</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="S" pid="000">
+  <name>エピローグ ユゥジ</name>
+  <detail>BONUS 021 エピローグ ユゥジを解放</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="S" pid="000">
+  <name>エピローグ ヒロ</name>
+  <detail>BONUS 022 エピローグ ヒロを解放</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="S" pid="000">
+  <name>エピローグ カズキ</name>
+  <detail>BONUS 023 エピローグ カズキを解放</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="S" pid="000">
+  <name>エピローグ ヒジリ</name>
+  <detail>BONUS 024 エピローグ ヒジリを解放</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="S" pid="000">
+  <name>黄金の日々</name>
+  <detail>BONUS 025 黄金の日々を解放</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="G" pid="000">
+  <name>全てのおまけクリア</name>
+  <detail>すべてのBONUS STORYを鑑賞</detail>
+ </trophy>
+</trophyconf>

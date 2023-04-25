@@ -1,0 +1,56 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000006e13c4d40f4c3a20bedf8838920834c67b7bdfab919a2268d87abcd8896f81bf4a4534a961bb5a49727855c2423833bd3d073cb87832af4439a01a34d282b751a8632022e8d679e17b5da64d7e47f5d3a86ab663fb9a7cfde8ec7a55ed7a2cf9ea9ad09f7264b6f9828515efe917de80026e196d5367835e5ed17172b60ba72de83cb4dadd1cba237785753a21f4503df59d9731-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR07777_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Mahjong Carnival</title-name>
+ <title-detail>Trophy set for Mahjong Carnival</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Precious Heart</name>
+  <detail>Earn 100 000 points</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Feather Mask</name>
+  <detail>Complete the Brazilian Carnival</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Dragon Mask</name>
+  <detail>Complete the Chinese Carnival</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Shaman Mask</name>
+  <detail>Complete the African Carnival</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Falcon Mask</name>
+  <detail>Complete the Egyptian Carnival</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Elephant Mask</name>
+  <detail>Complete the Indian Carnival</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Aristocrat Mask</name>
+  <detail>Complete the Venetian Carnival</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="-1">
+  <name>Collector</name>
+  <detail>Remove 1000 pairs of tiles</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="-1">
+  <name>Adventurer</name>
+  <detail>Use bonus 50 times</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="-1">
+  <name>Festive Salute</name>
+  <detail>Achieve x5 index</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="-1">
+  <name>Guiding Star</name>
+  <detail>Earn 30 stars</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="-1">
+  <name>Crystal Cup</name>
+  <detail>Complete 30 levels with the highest score</detail>
+ </trophy>
+</trophyconf>

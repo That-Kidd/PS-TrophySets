@@ -1,0 +1,112 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000b5ce8b8563d15872e19d0bd4bbb5e663699cbd0974693dd56768c1a4de72711dacda8bb39e2d860935d1d67ae9ecc89a0a6d7ac7bbd9ccb380cf9d105f9355a85879bd64805d4b942e6ed448adc81473c19665e06e60625e32b9b756bf4fe6cc7e976caf0a56210d700c617dc966426d511f4c0378aca803e9447f46d068dcd3145ae0132066c15454d47388bd858f911b601f95-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR15514_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>NG</title-name>
+ <title-detail>NG  トロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>NG</name>
+  <detail>いっぱい遊んでくれて……ありがとう……&#x0a;まだまだ死ぬまで……遊んでね……</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>クライシスチョイス</name>
+  <detail>おにいちゃん足がはやいね……&#x0a;でも逃がさない……</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>サバイバルエスケープ</name>
+  <detail>追いかけっこ楽しいね……&#x0a;つぎは死んじゃうといいなぁ……</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>愛海の失踪</name>
+  <detail>あみちゃんとの遊びはおわり……&#x0a;こんどは……おにいちゃんの番……</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>うらしま女の噂</name>
+  <detail>うらしま女遊び、はじまりはじまり～</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>うらしま女の破壊</name>
+  <detail>うらしま女……悲しんでるよ……&#x0a;おにいちゃんも泣いて……</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="000">
+  <name>うらしま女の救済</name>
+  <detail>うらしま女……安心してたね……&#x0a;なんか、かくやはつまんないな……</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>金時の首太郎の噂</name>
+  <detail>金時の首太郎遊び、はじまりはじまり～</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>運命の選択</name>
+  <detail>おにいちゃんのバカ……&#x0a;どっちも見捨てちゃえばいいのに……</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="000">
+  <name>金時の首太郎の破壊</name>
+  <detail>首太郎……泣かしちゃったね……&#x0a;おにいちゃんにも、泣いてほしいな……</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>金時の首太郎の救済</name>
+  <detail>首太郎……笑ってたね……&#x0a;でもかくやは、ぜんぜん笑えないな……</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>おたけび作家の噂</name>
+  <detail>おたけび作家遊び、はじまりはじまり～</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>おたけび作家の破壊</name>
+  <detail>おたけび作家……燃やしちゃったね……&#x0a;あとでどうなるか、わくわくするね……</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="G" pid="000">
+  <name>おたけび作家の救済</name>
+  <detail>おたけび作家……きれいに燃えたね……&#x0a;でも女の子と遊ぶおにいちゃんは、きらい……</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="B" pid="000">
+  <name>殺人桃の噂</name>
+  <detail>殺人桃遊び、はじまりはじまり～</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="S" pid="000">
+  <name>殺人桃の破壊</name>
+  <detail>殺人桃……苦しそうだったね……&#x0a;おにいちゃんが苦しむのも……かくやみたいなぁ……</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="G" pid="000">
+  <name>殺人桃の救済</name>
+  <detail>殺人桃……まんぞくしたのかな……&#x0a;かくやもそろそろ……まんぞくしたいなぁ……</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="S" pid="000">
+  <name>愛海の救出</name>
+  <detail>あみちゃん、無事でよかったね……&#x0a;ふふふ、よかったね……</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="S" pid="000">
+  <name>ツクヨミ鬼の噂</name>
+  <detail>ツクヨミ鬼遊び、はじまりはじまり～</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="G" pid="000">
+  <name>ツクヨミ鬼の消滅</name>
+  <detail>ツクヨミ鬼……消えちゃった……&#x0a;はやくかくやも遊びたいな……</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="G" pid="000">
+  <name>かくや遊びに勝利</name>
+  <detail>かくや……まけちゃったのかな……&#x0a;やだよ、おにいちゃんと、いっしょになれないよ……</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="S" pid="000">
+  <name>バッドエンド</name>
+  <detail>やったね、おにいちゃん……&#x0a;おにいちゃんも……かくやとおなじになるんだよ……</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="G" pid="000">
+  <name>ノーマルエンド</name>
+  <detail>すごいね、おにいちゃん……&#x0a;おともだちが……むかえにくるね……</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="G" pid="000">
+  <name>グッドエンド</name>
+  <detail>……き…い、…らい、きら…、きらい……&#x0a;……さよ…なら……おにぃ…………</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="S" pid="000">
+  <name>Ｄメール</name>
+  <detail>へんなめーるがとどいたね……&#x0a;それよりも、もっとかくやと遊ぼうよ……</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="G" pid="000">
+  <name>未知なる世界の探究者</name>
+  <detail>へんなおともだち……できたね……&#x0a;でもおにいちゃんは……わたさないよ……</detail>
+ </trophy>
+</trophyconf>

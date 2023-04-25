@@ -1,0 +1,152 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000008e25a03ce8065861a8a5fe131633aabc1af70b0808e715c533458cfe8ed11ed259727f7d2bd0def3e1af7699c296832bdc39fd922d6a0588784e0fb647aee4153665009f0c5c05d2f7a9a72ffdfb61eb8b7b71f48e65e19515e63fe82c3c5e4e94998918dbbfb19b2c3edc4abcf9ad38f02db4e667ac8fc6819e7d9c7d33affac8bb690948e68ead930f12890d11533c57450b89-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR08961_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>UPPERS</title-name>
+ <title-detail>UPPERS</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>We are UPPERS</name>
+  <detail>Obtain all available trophies.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>First Strike</name>
+  <detail>Defeat 1 grunt.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Whirlwind</name>
+  <detail>Activate Panty Slots.</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>Breeze</name>
+  <detail>Lift Shopping District's Queen skirt.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>First Pick-up</name>
+  <detail>Get 1 Love Letter.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>Address Collector</name>
+  <detail>Get 30 Love Letters.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>It's My First Time</name>
+  <detail>Make one girl dazed on the appreciation screen.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>Young and Foolish</name>
+  <detail>Perform a Rise Up.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>Angry Teens</name>
+  <detail>Successfully perform an Upper Rush.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>Human Cannon</name>
+  <detail>Defeat Chapter 1 boss with a finisher.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>Angel Next to Me</name>
+  <detail>Clear Chapter 1.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>Miss Dangerous</name>
+  <detail>Clear Chapter 2.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>Sad Beauty</name>
+  <detail>Clear Chapter 3.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>Martial Artist Model</name>
+  <detail>Clear Chapter 3 Side Story.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>Casino District Beauty</name>
+  <detail>Clear Chapter 4.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>Local Fashion Leader</name>
+  <detail>Clear Chapter 5.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Pro Secretary</name>
+  <detail>Clear Chapter 6.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Orthodox Student Council President</name>
+  <detail>Clear Chapter 7.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>Storm of Appreciation </name>
+  <detail>Reach maximum (LV5) Voltage.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Power of Friendship</name>
+  <detail>Perform a Friendship Upper Rush.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>Beginner's Luck</name>
+  <detail>Get a match in Panty Slots.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>Puppy Love</name>
+  <detail>Watch every reward cutscene for 1 Queen.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>Pick-up Artist</name>
+  <detail>Get 50 Love Letters.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>All for One</name>
+  <detail>Unlock all playable characters.</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="S" pid="000">
+  <name>Mac the Knife</name>
+  <detail>Defeat all bosses on the streets.</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="S" pid="000">
+  <name>Theme Park</name>
+  <detail>Use all map gimmicks.</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="S" pid="000">
+  <name>One Man Army</name>
+  <detail>Defeat a boss with an Upper Rush.</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="S" pid="000">
+  <name>The U Team</name>
+  <detail>Defeat a boss with a Friendship Upper Rush.</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="S" pid="000">
+  <name>Casanova</name>
+  <detail>Watch every reward cutscene for 4 Queens.</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="S" pid="000">
+  <name>Ino-Shika-Cho</name>
+  <detail>Get "Ino-Shika-Cho" in Panty Slots.</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="S" pid="000">
+  <name>World Expo</name>
+  <detail>Get "World Expo" in Panty Slots.</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="G" pid="000">
+  <name>King of Harlem</name>
+  <detail>Watch every reward cutscene for all Queens.</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="G" pid="000">
+  <name>Eternal Libido</name>
+  <detail>Get 100 Love Letters.</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="G" pid="000">
+  <name>Gambler</name>
+  <detail>Clear all Panty Slot combinations.</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="G" pid="000">
+  <name>Untouchable</name>
+  <detail>Clear the last Chapter without taking any damage.</detail>
+ </trophy>
+ <trophy id="035" hidden="yes" ttype="G" pid="000">
+  <name>Gamer</name>
+  <detail>Activate map gimmicks/special actions 10000 times.</detail>
+ </trophy>
+</trophyconf>

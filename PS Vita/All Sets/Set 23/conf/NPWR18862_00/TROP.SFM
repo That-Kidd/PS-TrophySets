@@ -1,0 +1,132 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000001ae5db6cde88f842b3298c2e77711db5a96eea4278c0cf7833bd8ac5a3472ffd524ea0f16b2222b80d5eb06962c30f02f844602743f20419f4069d04b6e61f7cbb8ac909e2635c05ca51023a75721d870127f454a409bb6171a01bd10d58805f66deae97f74fee20344bd0da97d7f207757e1ef65150ef5bd3e73312e96d90115b88d59b2926a9694ca2d6c2f817882bcda9fba8-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR18862_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Fifty Words by POWGI</title-name>
+ <title-detail>The trophy set of Fifty Words by POWGI</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Nifty Words</name>
+  <detail>Collect all the trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Pup and Running</name>
+  <detail>Complete your first puzzle</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Roll Over</name>
+  <detail>Highlight a word backwards</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>Sdorw Ytfif</name>
+  <detail>Complete a puzzle while only highlighting words backwards</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>Sniffing Around</name>
+  <detail>Find all the diagonal words in a puzzle first</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>Chasing Your Tail</name>
+  <detail>Solve a puzzle in less than 3 minutes</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>The Whole Picture</name>
+  <detail>Zoom out for 5 seconds</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>There's a Word List?</name>
+  <detail>Complete a puzzle without looking at the word list</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>There's a Word List!</name>
+  <detail>Check the word list with only one word left to find</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>My Masterpiece</name>
+  <detail>Review a completed puzzle&#x0a;</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>I Have a Better Idea</name>
+  <detail>Reset a completed puzzle&#x0a;</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>Chromophobia</name>
+  <detail>Complete a puzzle using only one color</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>Chromophilia</name>
+  <detail>Complete a puzzle using 10 different colors</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>Chromomania</name>
+  <detail>Edit the palette and choose 10 new colors</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>Fifty Shades of Blue</name>
+  <detail>Complete "Got the Blues?"</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>Fore Words</name>
+  <detail>Complete "Tee Time"</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>Not That Complex</name>
+  <detail>Complete "Ends With X"</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>Crispy Words</name>
+  <detail>Complete "Too Many Cooks"</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>Fifty Birds</name>
+  <detail>Complete "Feathered Friends"</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="000">
+  <name>Thrifty Words</name>
+  <detail>Complete "Money Money Money"</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>Groovy!</name>
+  <detail>Complete "Double-O Heaven"</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>Baby Steps</name>
+  <detail>Find BABY 3 times</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>Fill Your Boots</name>
+  <detail>Find BOOTS 3 times</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>Cherry Picking</name>
+  <detail>Find CHERRY 3 times</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>Drip Drip Drip</name>
+  <detail>Find DRIP 3 times</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="S" pid="000">
+  <name>Fo' Drizzle</name>
+  <detail>Find DRIZZLE 3 times</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="S" pid="000">
+  <name>Eagle Eyed</name>
+  <detail>Find EAGLE 3 times</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="S" pid="000">
+  <name>Don't Stop Me Now</name>
+  <detail>Find MERCURY 3 times</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="S" pid="000">
+  <name>Just a Mint</name>
+  <detail>Find MINT 3 times</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="S" pid="000">
+  <name>We'll Always Have Paris</name>
+  <detail>Find PARIS 3 times</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="S" pid="000">
+  <name>Brains!</name>
+  <detail>Find ZOMBIE 3 times</detail>
+ </trophy>
+</trophyconf>

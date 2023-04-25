@@ -1,0 +1,80 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000003a03ad85a30f8d2a1bd2f1ea452c3d47921730231040062288aa6f70bc4272b846b53e44d24d80454a9d4ffae5932416f405c1c86cef7cea9227be3e65f0a3e7d12e839343f446fbd79cafe10c952eaeae8b2238b4cccf7d49dd82bd3df69dc86f61e284985fdb3927d0dd5eefb327e57318e748f08d1d95e9d7e18cad0d5b77febfdc3a12fd002443333f3a2012912458ea659c-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR13707_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Son of Scoregasm</title-name>
+ <title-detail>Son Of Scoregasm Trophies</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Who Need Bullets?</name>
+  <detail>Complete a level without shooting a single bullet.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Where's The Point</name>
+  <detail>Complete a level without scoring a single point.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="-1">
+  <name>Biscuit Aficionado</name>
+  <detail>Find All the King's biscuits</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Figgy</name>
+  <detail>Find the King's fig roll.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Creamy</name>
+  <detail>Find the King's custard cream.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Choccy</name>
+  <detail>Find the King's chocolate digestive.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Bourbon</name>
+  <detail>Find the King's bourbon.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Wafers</name>
+  <detail>Find the King's pink wafer.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Chip</name>
+  <detail>Find the King's chocolate chip.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>Jammy</name>
+  <detail>Find the King's jammy ring</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>Easy Street</name>
+  <detail>From the Start, complete the game taking only easy exits.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="-1">
+  <name>Hardcore</name>
+  <detail>From the start, complete the game taking only hard exits.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="-1">
+  <name>Mr. Multiplier</name>
+  <detail>Get a 2000x multiplier</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="-1">
+  <name>Simply Score</name>
+  <detail>Score over 600,000 on Gentle Start</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="-1">
+  <name>Imposter</name>
+  <detail>From the start, beat any boss using the Imposter.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="-1">
+  <name>No Loitering</name>
+  <detail>Get killed by the insta_death lasers.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="-1">
+  <name>Medallion Man</name>
+  <detail>Earn every score medal.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="-1">
+  <name>The Expert</name>
+  <detail>Defeat Expert Mode</detail>
+ </trophy>
+</trophyconf>

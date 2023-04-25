@@ -1,0 +1,180 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000004a4c03063f13c41c6c7f6e1db668cc11bb4a5fb29fb765a2a87f6c0443b7e38c494fe09a8a70c481b5a1c1c66fe26b05478c97084835d7616827541d7652e66110a907911d47e3f8bcb062271b396ae100eb31b382914c44a83527ec4f30cf61b0a729e60478ff634c6a447456716ca1f55648b612899a0a0f737982906a3f51c72b8bd87549067509f56a3e1d07042821e0504e-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR04945_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>ぷよぷよテトリス</title-name>
+ <title-detail>「ぷよぷよテトリス」のトロフィーです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>全トロフィー獲得</name>
+  <detail>全てのトロフィーを手に入れた</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>アーケード制覇</name>
+  <detail>ドリームアーケードの５ルールを全て遊んだ</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>かちぬき３人抜き</name>
+  <detail>いずれかのかちぬきモードで３人抜きした</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>かちぬき５人抜き</name>
+  <detail>いずれかのかちぬきモードで５人抜きした</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>かちぬき１０人抜き</name>
+  <detail>いずれかのかちぬきモードで１０人抜きした</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>とことんぷよ制覇</name>
+  <detail>とことんのぷよぷよ３ルールを全て遊んだ</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>とことんテト制覇</name>
+  <detail>とことんのテトリス３ルールを全て遊んだ</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>エンディング到達</name>
+  <detail>アドベンチャーでエンディングにたどり着いた</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>パズルリーグで勝利</name>
+  <detail>全国パズルリーグで対戦相手に勝利した</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>クラブで勝利</name>
+  <detail>クラブで対戦相手に勝利した</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>アドベンチャー５０%</name>
+  <detail>アドベンチャーのたっせいどを５０％以上にした</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>かちぬき１５人抜き</name>
+  <detail>いずれかのかちぬきモードで１５人抜きした</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>アドベンチャー７０%</name>
+  <detail>アドベンチャーのたっせいどを７０％以上にした</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>パズルリーグ１０勝</name>
+  <detail>全国パズルリーグで１０勝した</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="000">
+  <name>アドベンチャー１００%</name>
+  <detail>アドベンチャーのたっせいどを１００％にした</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>ぷよ１０００個消し</name>
+  <detail>１０００ぷよ消した</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>ぷよ１００００個消し</name>
+  <detail>１００００ぷよ消した</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>３連鎖１００回達成</name>
+  <detail>３連鎖以上を１００回決めた</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>４連鎖１００回達成</name>
+  <detail>４連鎖以上を１００回決めた</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>５連鎖１００回達成</name>
+  <detail>５連鎖以上を１００回決めた</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>６連鎖１００回達成</name>
+  <detail>６連鎖以上を１００回決めた</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>全消し５０回達成</name>
+  <detail>全消しを５０回決めた</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>全消し１００回達成</name>
+  <detail>全消しを１００回決めた</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>３色同時消し</name>
+  <detail>３色同時消しを決めた</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>４色同時消し</name>
+  <detail>４色同時消しを決めた</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="S" pid="000">
+  <name>ぷよ５００００個消し</name>
+  <detail>５００００ぷよ消した</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="S" pid="000">
+  <name>７連鎖１５０回達成</name>
+  <detail>７連鎖以上を１５０回決めた</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="S" pid="000">
+  <name>全消し１５０回達成</name>
+  <detail>全消しを１５０回決めた</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="G" pid="000">
+  <name>ぷよ１０００００個消し</name>
+  <detail>１０００００ぷよ消した</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>ミノ１０００個消し</name>
+  <detail>１０００ミノ消した</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>ミノ１００００個消し</name>
+  <detail>１００００ミノ消した</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>TETRIS５０回達成</name>
+  <detail>TETRISを５０回決めた</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>TETRIS１００回達成</name>
+  <detail>TETRISを１００回決めた</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>B２B２５回達成</name>
+  <detail>Back to Backを２５回決めた</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>B２B５０回達成</name>
+  <detail>Back to Backを５０回決めた</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>５REN達成</name>
+  <detail>５REN決めた</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>８REN達成</name>
+  <detail>８REN決めた</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>パーフェクト１回達成</name>
+  <detail>Parfect Clearを１回決めた</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>パーフェクト３回達成</name>
+  <detail>Parfect Clearを３回決めた</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="S" pid="000">
+  <name>ミノ５００００個消し</name>
+  <detail>５００００ミノ消した</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="S" pid="000">
+  <name>TETRIS２００回達成</name>
+  <detail>TETRISを２００回決めた</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="S" pid="000">
+  <name>B２B１００回達成</name>
+  <detail>Back to Backを１００回決めた</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="G" pid="000">
+  <name>ミノ１０００００個消し</name>
+  <detail>１０００００ミノ消した</detail>
+ </trophy>
+</trophyconf>

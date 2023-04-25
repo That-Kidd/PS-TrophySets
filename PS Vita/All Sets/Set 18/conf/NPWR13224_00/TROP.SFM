@@ -1,0 +1,48 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000624f476365abec7383172c538bb2ea58a2a1bb111b35c7feb9c7d0f5aacda5179c565c8086039825c187b89bae9e2074bed808991443c3fa67a94e2f5cdbbe914f92ceead119b089e72253eadda658d46d6251ed67a756122ef763a223abfea1632253824f29cceb299200081704ea8ead5403d25081d1a7e6c16b7ed05ba322ae89168df88fe94a78484cb7d9776213a8e831ef-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR13224_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Sokoban Next</title-name>
+ <title-detail>Trophies for Sokoban Next</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Egg Caretaker</name>
+  <detail>Solved all puzzles</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="-1">
+  <name>Senior Hatcher</name>
+  <detail>Obtained all stars</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="-1">
+  <name>Master Dragontamer</name>
+  <detail>Perfectly solved all puzzles</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Boiled Eggs</name>
+  <detail>Pushed 100 eggs in place</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="-1">
+  <name>Fried Eggs</name>
+  <detail>Pushed 500 eggs in place</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Push it!</name>
+  <detail>Pushed an egg 1000 times</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="-1">
+  <name>Push it, push it!</name>
+  <detail>Pushed an egg 10.000 times</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Hiker</name>
+  <detail>Walked 1000 squares</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="-1">
+  <name>Nordic Walker</name>
+  <detail>Walked 10.000 squares</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>Fall Guy</name>
+  <detail>Nearly fell off a ledge</detail>
+ </trophy>
+</trophyconf>

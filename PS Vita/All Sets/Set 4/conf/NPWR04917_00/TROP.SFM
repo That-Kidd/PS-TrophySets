@@ -1,0 +1,60 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000022b70ffa7256ccf4ec795a62777375d444a11239babf2c6523f8aa86ec6dcc600ccceb3a2da9932542da370210804d9cd5ec8a7d85bf727fce410385a505cecfd4b466a11600ba8b7f81a35e1b04492fa3cdb19a9279999ff7cbf5b32307e08e49458cda2dd4448ec6836b02fb9a50e674c147adc338183b7f295d5ad1f99407fdafd85d329584221c6756507ec7c2990b9faaa2-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR04917_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Doodle Devil Trophies</title-name>
+ <title-detail>Trofeos Doodle Devil</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Combo!</name>
+  <detail>Crear dos nuevos elementos en una fila.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Docena del diablo</name>
+  <detail>Crear dos 13 elementos diferentes.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Fruta prohibida</name>
+  <detail>Completar primer episodio.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Accidental bien hacedor</name>
+  <detail>Complete el buen grupo.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Vivisectora</name>
+  <detail>Completa el grupo de monstruos.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Caminando en los pasos de dios</name>
+  <detail>Completa la Naturaleza, animales y grupos de plantas.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Ciencia!</name>
+  <detail>Completa el grupo de la Ciencia.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Pequeños juguetes</name>
+  <detail>Completa las armas y los grupos militares.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Superstar espacial</name>
+  <detail>Completa el grupo de guerra espacial.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="-1">
+  <name>Gran distorsión</name>
+  <detail>Completar segundo episodio sin usar puntas.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="-1">
+  <name>Señor de la guerra</name>
+  <detail>Completar tercer episodio sin utilizar algún consejo.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="-1">
+  <name>Cadena profano</name>
+  <detail>Crear 50 elementos en una fila.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="-1">
+  <name>El mal genio</name>
+  <detail>Completa el juego sin necesidad de utilizar puntas.</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,76 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000259dd65d9e7001f9d0181d6f2fa1b8faf9c5f66b5eecc77a20997aeeedaf2f51d9684389f0c08f9f4e4b9e788bb89962cf42e151c701adc9bb2056b55a540d17e9b020a43e49e349a9361d7ef51897411f89f5efe0f7f56c8a3fab8970e7c1d6a2df2d4ed25fe70bc999f01636edbb29da8e84ecb1ebba94eea4d9c4f0e403154c9f8e10a660b78289cfd8a86f154afeefa78f8f-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR13999_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>千の刃濤、桃花染の皇姫</title-name>
+ <title-detail>『千の刃濤、桃花染の皇姫』トロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>フルコンプリート</name>
+  <detail>『千の刃濤、桃花染の皇姫』を全てプレイしていただき、ありがとうございました。</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>朱璃の試練と救出</name>
+  <detail>「朱璃の試練と救出」を見た</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>爆発現場</name>
+  <detail>「爆発現場」を見た</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="S" pid="000">
+  <name>滸クリア</name>
+  <detail>滸ルートをクリアした</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="S" pid="000">
+  <name>奏海クリア</name>
+  <detail>奏海ルートをクリアした</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="S" pid="000">
+  <name>エルザクリア</name>
+  <detail>エルザルートをクリアした</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="000">
+  <name>古杜音クリア</name>
+  <detail>古杜音ルートをクリアした</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="G" pid="000">
+  <name>過去編突入</name>
+  <detail>過去編へ突入した</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="G" pid="000">
+  <name>過去編クリア</name>
+  <detail>過去編をクリアした</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="G" pid="000">
+  <name>竜胆作戦開始</name>
+  <detail>竜胆作戦を開始</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="G" pid="000">
+  <name>宗仁・力を取り戻す</name>
+  <detail>宗仁が力を取り戻した</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="G" pid="000">
+  <name>かはく撃沈</name>
+  <detail>かはくを撃沈した</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="G" pid="000">
+  <name>ファイナルエンド</name>
+  <detail>ファイナルエンドを見た</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="G" pid="000">
+  <name>おまけ</name>
+  <detail>おまけを見た</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="G" pid="000">
+  <name>紫乃クリア</name>
+  <detail>紫乃の余談を見た</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="G" pid="000">
+  <name>睦美クリア</name>
+  <detail>睦美の余談を見た</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="G" pid="000">
+  <name>子柚クリア</name>
+  <detail>子柚の余談を見た</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,92 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000001e17f9a55d0d5dc35a8e05eca88e3ba3cf81f08fb10bd68cbf26f55791d7e16b08fd8ed41ef6dca22900b8bffce728997544df25080466c7374c8fc9468c6d1662ae6b531a77c6840829a22744701aeab74e4dd732611719c747a44f1a771e8ae5894a828de0edfa1f32386260a6426fd00c62d712bb343343799e2fdbea8b5417d71f47462389902c7c61b2c6dae96e102a537f-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR16522_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Fast Striker</title-name>
+ <title-detail>Fast Striker</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>The Fastest Striker In Space</name>
+  <detail>Unlock all trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Stage 1 complete</name>
+  <detail>Complete stage 1</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Stage 2 complete</name>
+  <detail>Complete stage 2</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Stage 3 complete</name>
+  <detail>Complete stage 3</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>Stage 4 complete</name>
+  <detail>Complete stage 4</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>Stage 5 complete</name>
+  <detail>Complete stage 5</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>Stage 6 complete</name>
+  <detail>Complete stage 6</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>Boss 1</name>
+  <detail>Defeat Boss 1</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>Boss 2</name>
+  <detail>Defeat Boss 2</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>Boss 3</name>
+  <detail>Defeat Boss 3</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>Boss 4</name>
+  <detail>Defeat Boss 4</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>Boss 5</name>
+  <detail>Defeat Boss 5</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>Boss 6</name>
+  <detail>Defeat Boss 6</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="000">
+  <name>Final Boss</name>
+  <detail>Defeat Final Boss</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="000">
+  <name>Complete Novice Mode</name>
+  <detail>Complete Novice Mode</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="G" pid="000">
+  <name>Complete Original Mode</name>
+  <detail>Complete Original Mode</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="G" pid="000">
+  <name>Complete Maniac Mode</name>
+  <detail>Complete Maniac Mode</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="G" pid="000">
+  <name>Complete Omake Mode</name>
+  <detail>Complete Omake Mode</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="G" pid="000">
+  <name>Winner</name>
+  <detail>Complete the game</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="G" pid="000">
+  <name>1CC</name>
+  <detail>Complete the game with 1 credit</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="G" pid="000">
+  <name>True Last Boss</name>
+  <detail>Defeat the True Last Boss</detail>
+ </trophy>
+</trophyconf>

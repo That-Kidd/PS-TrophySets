@@ -1,0 +1,188 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000003656e1eb946562412165966318596e332e9305c57b94dc2ff0ebf9e64678130ff23a4eb062c2ee97b5a8192e2f97ba4938277254225270352dea98b08c19231e2119861836f5eda75f2ddfd189582ceb99d66b645d18c5cc5b4bfb67c1021aee1aec6a375c2b6d15b97da51a5afafbdca3ab3390ca08e1f3786ba913ae4bedd0bc3446d62064d470b428ac49d8a35baed6cd2f89-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR10563_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>DEMON GAZE 2</title-name>
+ <title-detail>DEMON GAZE 2　トロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>デモンゲイザー</name>
+  <detail>プロメス「全てのトロフィーを取得すると、このトロフィーが取れるらしいです」</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>その名は革命団！</name>
+  <detail>プロメス「これで革命団の一員ですね」</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>唄うクリスタル</name>
+  <detail>プロメス「禁域で怪しいクリスタルを発見」</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>ここでボケて！</name>
+  <detail>プロメス「ラジオへのゲスト出演、お疲れさまでした」</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>それぞれの恩讐</name>
+  <detail>プロメス「閣下の思わぬ登場、そしてトマ様の運命は……」</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>初ライブ！</name>
+  <detail>プロメス「初めての公開放送、成功です」</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>奪還！　暴走小間使い！</name>
+  <detail>プロメス「トマ様を取り戻しました」</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>失われた歌声</name>
+  <detail>プロメス「プリム様が唄えなくなりあわや放送事故」</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>ライブ、再び！　だがしかし！</name>
+  <detail>プロメス「公開放送は成功するも、その後ミュゼ様が行方不明に」</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="000">
+  <name>姉妹のきずな再び</name>
+  <detail>プロメス「ミュゼ様を救出。閣下の部屋はこじんまり」</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="000">
+  <name>まず服を脱ぎます</name>
+  <detail>プロメス「息吹のヴェールをゲット。作り方その1、まず服を……」</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>ファイナルライブ！</name>
+  <detail>プロメス「公開放送直後にステラ座も検挙され、色んな意味でファイナルです」</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="B" pid="000">
+  <name>突撃！　アステリア城！</name>
+  <detail>プロメス「革命団は異変が起きたアステリア城へ。わたしは留守番です」</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="G" pid="000">
+  <name>革命団大・勝・利！</name>
+  <detail>プロメス「マグナスターを倒しました。見事、革命達成です」</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="G" pid="000">
+  <name>残された試練</name>
+  <detail>プロメス「エルゴワルキューレを倒しました。脱帽です……脱ぎませんけど」</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>無垢すぎる天馬</name>
+  <detail>プロメス「ペガサス様が革命団に加入しました。ペガッソ……」</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>山羊のお嬢様</name>
+  <detail>プロメス「カプリコーン様が革命団の仲間に。縦ロール……」</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>慈愛の天秤</name>
+  <detail>プロメス「ライブラ様が革命団の一員に。メガネ……わたしとキャラ被りですね」</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>獅子の女？</name>
+  <detail>プロメス「レオ様が革命に参加されました。ふむ、強そう」</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="S" pid="000">
+  <name>生真面目な白鳥</name>
+  <detail>プロメス「キグナス様が革命団に加わりました。元・唄って踊れる審問官」</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="S" pid="000">
+  <name>残念系人馬</name>
+  <detail>プロメス「センタウル様も革命団の仲間に。新タウル……」</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="S" pid="000">
+  <name>堅物赤竜</name>
+  <detail>プロメス「ドラコ様を革命団にご招待しました。もともと全体的に赤いお方です」</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="B" pid="000">
+  <name>ニヒルな孔雀</name>
+  <detail>プロメス「パボ様が革命団の同志となられました。羽がきれい……」</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>あげぽよ兎</name>
+  <detail>プロメス「レプス様が革命団のお仲間に。……ちょりーっす？」</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="000">
+  <name>蠍座のお姉さん</name>
+  <detail>プロメス「スコーピオン様がなし崩し的に加入です。珍しいパターンですね」</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="B" pid="000">
+  <name>水瓶なのじゃ</name>
+  <detail>プロメス「アクエリアス様を革命団にご案内なのじゃ。パクってみました」</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>頑固な牡牛</name>
+  <detail>プロメス「タウロス様が革命団を助太刀してくれると。がっはっは」</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="B" pid="000">
+  <name>サイレント大犬</name>
+  <detail>プロメス「キャニス様……革命団……参戦。わたし以上に無口っぽいです」</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="B" pid="000">
+  <name>生意気小狐</name>
+  <detail>プロメス「ヴァルペ様が革命団に加入です。おいら……」</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="B" pid="000">
+  <name>海蛇にんにん</name>
+  <detail>プロメス「ハイドラ様が革命団に推参。特技はかくれんぼ」</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="B" pid="000">
+  <name>天才牡羊</name>
+  <detail>プロメス「アリエス様が革命団に入ってくれました。もこもこです」</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="S" pid="000">
+  <name>全員集合！</name>
+  <detail>プロメス「すべてのデモンを革命団の味方にしました。お疲れです」</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>魔導書に書かれた秘儀</name>
+  <detail>プロメス「『メンテ』をするとこのトロフィーが授与されるそうです」</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>一緒にお出掛け</name>
+  <detail>プロメス「仲良くなったデモンとお出掛けしたことを賞するトロフィーです」</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="S" pid="000">
+  <name>絆を結ぶもの</name>
+  <detail>プロメス「デモン１体と最高に仲良くなったらこのトロフィーをあげます」</detail>
+ </trophy>
+ <trophy id="035" hidden="yes" ttype="G" pid="000">
+  <name>アストラブレード！</name>
+  <detail>プロメス「星々の世界の力をゲイザー様に。……売れませんよ？」</detail>
+ </trophy>
+ <trophy id="036" hidden="yes" ttype="B" pid="000">
+  <name>葬儀屋の趣味</name>
+  <detail>プロメス「ドクロを全部集めてください。それ用のトロフィーを用意してますので」</detail>
+ </trophy>
+ <trophy id="037" hidden="yes" ttype="B" pid="000">
+  <name>何に使うの？</name>
+  <detail>プロメス「キノコを全部集めたら、このトロフィーを渡すようにと指示されています」</detail>
+ </trophy>
+ <trophy id="038" hidden="yes" ttype="B" pid="000">
+  <name>駆け出しゲイザー</name>
+  <detail>プロメス「駆け出しゲイザーに認定します。……変体してますか？」</detail>
+ </trophy>
+ <trophy id="039" hidden="yes" ttype="B" pid="000">
+  <name>一人前ゲイザー</name>
+  <detail>プロメス「一人前ゲイザーに認定します。……メンテしてますか？」</detail>
+ </trophy>
+ <trophy id="040" hidden="yes" ttype="G" pid="000">
+  <name>剛の者ゲイザー</name>
+  <detail>プロメス「剛の者ゲイザーに認定します。今度ラジオで特集を組みましょう」</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="B" pid="000">
+  <name>はじめてのヘンタイ</name>
+  <detail>プロメス「デモンを『変体』できた時用のトロフィーです」</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="B" pid="000">
+  <name>はじめてのガッタイ</name>
+  <detail>プロメス「デモンと『合体』できたらこれを差し上げましょう」</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="B" pid="000">
+  <name>プライベートルーム</name>
+  <detail>プロメス「個室を契約したらこのトロフィーを渡せ、それが支配人様のお指図です」</detail>
+ </trophy>
+ <trophy id="044" hidden="no" ttype="B" pid="000">
+  <name>トレジャーハンター</name>
+  <detail>プロメス「初めてサークルで戦闘したらトロフィーはあなたのもの……」</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,52 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000581510613980274ee604cf6204878afc4602180a98ae5b0a74ce99cc7806e76870819d2b07c72a0bf153443862e234a9327f4277843752a7d082211b0270a791db8ae6e89ac3715d58981f96b1ab4d6f62ec75000077a0df1ae117cb86fbd9dc79dce01add53f6c43dfbb00512f01190d7753ef81c572a173ca04b8a4a01d2a2f7c8aea0bc8865dc0de32e52945601dfe4136fdc-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR12682_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>The Legend of Dark Witch&#x0a;-Chronicle 2D ACT-</title-name>
+ <title-detail>The Legend of Dark Witch&#x0a;-Chronicle 2D ACT-</title-detail>
+ <trophy id="000" hidden="no" ttype="S" pid="-1">
+  <name>HAPPY END</name>
+  <detail>Clear all stages and watch the Ending.</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="S" pid="-1">
+  <name>TRUE END</name>
+  <detail>Clear all stages using Riva as your player character and watch the Ending</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="-1">
+  <name>DARK WITCH</name>
+  <detail>Clear all stages in LUNATIC difficulty level and watch the Ending.</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="S" pid="-1">
+  <name>PRINCESS</name>
+  <detail>Clear all stages using Riva as your player chracter  in LUNATIC difficulty level and watch the Ending.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>SPEED STAR</name>
+  <detail>Watch the ending within 45minutes of starting a New game.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>NO SYEGA</name>
+  <detail>Watch the ending without collecting any Pura Syega.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>FIRST STATE</name>
+  <detail>Watch the ending without leveling any parameters in the Growpart Menu.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>NO SLOT</name>
+  <detail>Watch the ending without using any Enforcement Slots other than Speed.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>DODGE!!</name>
+  <detail>Watch the ending without receiving damage more than 5 times.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="-1">
+  <name>GODDESS!!</name>
+  <detail>Watch the ending without dying.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="-1">
+  <name>GAME MASTER</name>
+  <detail>Unlock all Playing Levels.</detail>
+ </trophy>
+</trophyconf>

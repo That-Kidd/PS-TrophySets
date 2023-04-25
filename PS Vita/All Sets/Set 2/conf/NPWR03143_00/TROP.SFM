@@ -1,0 +1,112 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000001cdb1b2e825a60d05449f54d52c48d74f3ebea4c2f0df453cebb3555e9ba38c6edbdd760caaaf2490c50f19132b9e7e788d33c46225c9f1894939aa9d7524b18fab3598a0ecef3e0dda68804d76aad397ae1e022632ead36ffd2ce039b98b0e671f89eefff7305817691dee4cf68652b7772246e2aa41ae37bd26a43de26f6ba0ff885b083d4c4b7769871437d22ef5a866635c0-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR03143_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Spy Hunter™</title-name>
+ <title-detail>Los Trofeos para Spy Hunter™</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Servicio ejemplar</name>
+  <detail>Consigue todos los Trofeos.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Objetor de conciencia</name>
+  <detail>Cumple una misión sin disparar ningún arma.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Armas preparadas</name>
+  <detail>Mejora totalmente un arma.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>¿Quién es este tipo?</name>
+  <detail>Destruye a 15 enemigos en una misión.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>Compartir el botín</name>
+  <detail>Elimina a cuatro enemigos, cada uno con un arma distinta, durante una misión.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>A la carrera</name>
+  <detail>Viaja 150 kilómetros.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>Esfuérzate</name>
+  <detail>Usa el escudo para evitar daños importantes.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>Encendedor</name>
+  <detail>Elimina a diez enemigos con el lanzallamas en una sola misión.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>Tengo tu número</name>
+  <detail>Consigue todos los archivos de inteligencia.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>De punta en blanco</name>
+  <detail>Equipa cuatro armas totalmente mejoradas en una sola carga.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>Veneno aéreo no tripulado</name>
+  <detail>Destruye 50 enemigos con el UAV en la misión Ojo celeste en un único intento.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>¡Listillos a mí!</name>
+  <detail>Frustra los planes de la voz misteriosa (completa la misión final).</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>¡Vaya shock!</name>
+  <detail>Completa la misión utilizando únicamente el electrocutor.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>Vuela como una enorme mariposa</name>
+  <detail>Recorre cinco kilómetros por el aire.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>¿Dónde se ha metido?</name>
+  <detail>Permanece invisible durante dos minutos en una misión con el dispositivo de camuflaje.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>Pica como una abeja metálica</name>
+  <detail>Elimina a cinco enemigos atrayéndolos hacia trampas punzantes de superficie.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>Amores duros</name>
+  <detail>Cumple cualquier misión usando solo el calibre 50.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Eso no me lo esperaba...</name>
+  <detail>Cumple la misión de entrenamiento.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>¡Rey del mundo!</name>
+  <detail>Destruye 20 barcos enemigos.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>¡Voy en un un bote!</name>
+  <detail>Viaja 20 kilómetros sobre el agua.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>¡Atención!</name>
+  <detail>Selecciona una nueva pintura para el Interceptor.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="G" pid="000">
+  <name>Profesional consumado</name>
+  <detail>Consigue el estatus Spy Hunter Pro en todas las misiones.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="G" pid="000">
+  <name>A sangre fría</name>
+  <detail>Destruye el convoy completo en menos de 60 segundos en la misión Traidor.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="G" pid="000">
+  <name>Ni un rasguño</name>
+  <detail>Termina una misión sin perder un solo núcleo del reactor.</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="G" pid="000">
+  <name>¿Qué cuenta atrás?</name>
+  <detail>Desactiva todas las bombas de la misión Fisión nuclear en menos de 40 segundos.</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="G" pid="000">
+  <name>Poderoso caballero es don Dinero.</name>
+  <detail>Consigue más de 150.000 puntos de investigación.</detail>
+ </trophy>
+</trophyconf>

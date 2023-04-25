@@ -1,0 +1,64 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000020ff33c2435935b9066ef9c05d021858d5984da47dc86761d95939f9ef345ae78108650e9ec0325c8cbb519b0227a67cde422992f9c22e68763c0327c36206780f279b9da20e5027f4839da6cfadce8fe0de80315a5f0ceb592525fc89b6d1fedef43a90dcba28fa6dd74ebee0338200bcb9043941d828683aceb0855737cc832099793736eb811f2b859420b335cf48906b214-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR16919_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Access Denied</title-name>
+ <title-detail>Access Denied</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Platinum Hacker</name>
+  <detail>Get all the trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="000">
+  <name>First Step</name>
+  <detail>Сomplete the 1st level</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>Mittelspiel</name>
+  <detail>Complete the 13th level</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>I Have Tried</name>
+  <detail>Skip a level</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>Half Levels</name>
+  <detail>Complete half levels</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>Endspiel</name>
+  <detail>Complete the 25th level</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>Last Step</name>
+  <detail>Complete the 36th level</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>All Levels</name>
+  <detail>Complete all levels</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>It Was Hard</name>
+  <detail>Spend 3 minutes on one level</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>Turn On/Off</name>
+  <detail>Turn On/Off toggle switch over 100 times</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>One More Time</name>
+  <detail>Complete a previously passed level</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>Short Сircuit</name>
+  <detail>Make a short circuit</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>Sixth Level</name>
+  <detail>Complete the 6th level</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="000">
+  <name>Thirty Levels</name>
+  <detail>Complete the 30th level</detail>
+ </trophy>
+</trophyconf>

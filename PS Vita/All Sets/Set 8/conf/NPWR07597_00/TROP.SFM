@@ -1,0 +1,64 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000364bcf527f09cca75c5a884a013eb39f1155dff29aedd1fc43018d94de14a79ca9f88753303be60f88def2f49dcaeedded80e8b37813257a2ea539790855dd1b439978bc73efd260ca208f7d9ed24db80535871d1987b65aa468ee78afcdd50f2d46e802ad1fffeb25359e93fd7f2d93d727f50f60eec0ccc99c5abc8b52d2fc50b6bce109bfb1d92c6a8072c8490f41fc99d4c3-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR07597_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>タイムアベンジャー</title-name>
+ <title-detail>タイムアベンジャー</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>果てなき旅の始まり</name>
+  <detail>ステージ1をクリアした</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>孤高の復讐者</name>
+  <detail>ステージ2をクリアした</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>荒野に咲く白風草</name>
+  <detail>ステージ3をクリアした</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>最後の欠片を求めて</name>
+  <detail>ステージ4をクリアした</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>時の罪人と時の番人</name>
+  <detail>ステージ5をクリアした</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>暗闇の雨は絶えず降り注いで</name>
+  <detail>ステージ6をクリアした</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="-1">
+  <name>悲しき復讐の輪廻</name>
+  <detail>ステージ7をクリアした</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="-1">
+  <name>暗黒の霧は浄化されて</name>
+  <detail>宿敵ベラディムを倒した</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="G" pid="-1">
+  <name>果てなき旅の境地</name>
+  <detail>全てのステージの探索率が100%になった</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>疾風の太刀</name>
+  <detail>最大コンボ数が20以上に達した</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>破滅の一撃</name>
+  <detail>最大ダメージが1000以上に達した</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="-1">
+  <name>時空間殺法</name>
+  <detail>タイムトラベル中に15コンボ以上行った</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="B" pid="-1">
+  <name>借刀殺魔</name>
+  <detail>罠やタイムガーディアンで合計30体以上の敵を倒した</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="-1">
+  <name>時の二重奏</name>
+  <detail>タイムトラベルとタイムワープを同時に使用した</detail>
+ </trophy>
+</trophyconf>

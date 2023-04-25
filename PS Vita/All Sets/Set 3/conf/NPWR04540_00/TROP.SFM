@@ -1,0 +1,64 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000012edf732ed30acf1b3903b6198ff0d185f16bfb24d3f966a296d5cf78b0af9b9dab6bd3b00f341d0b0200ae1cb21b3ea5279064fdaf66a3b323a15a26b4560b93b114d4fd70b3839095eb399081edd6b95e7ce98975a0bca5d5c05a32e59ff6fcd716c1c8f526e918cb0084766bc23a4a09016de25a6ac3aefb63649620de9a7c8e6a69cd57ba28da59b0238bdada3540ff1ae87-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR04540_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Aeterno Blade</title-name>
+ <title-detail>Aeterno Blade</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Marble cracker</name>
+  <detail>Complete stage 1.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Number doesn't matter</name>
+  <detail>Complete stage 2.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Whitewind matador</name>
+  <detail>Complete stage 3.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>I'm Pharaoh</name>
+  <detail>Complete stage 4.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Non sequencial jumper</name>
+  <detail>Complete stage 5.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>No more rain</name>
+  <detail>Complete stage 6.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="-1">
+  <name>Endless vengence</name>
+  <detail>Complete stage 7.</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="-1">
+  <name>New paradox</name>
+  <detail>Win last battle.</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="G" pid="-1">
+  <name>Timeless explorer</name>
+  <detail>Completely explore 100% of all stages.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>Combo Dealer</name>
+  <detail>The highest combo reaches 20 hits.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>Brutal destroyer</name>
+  <detail>The highest damage reaches 1000.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="-1">
+  <name>Time-reversing Dealer</name>
+  <detail>Deal 15 combos in Time Travel.</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="B" pid="-1">
+  <name>Trickery</name>
+  <detail>30 enemies are killed by traps or Time Guardian.</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="-1">
+  <name>Time Manipulate</name>
+  <detail>Simultaneously use Time Travel and Time Warp. </detail>
+ </trophy>
+</trophyconf>

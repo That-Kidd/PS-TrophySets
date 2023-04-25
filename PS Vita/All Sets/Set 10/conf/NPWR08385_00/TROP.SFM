@@ -1,0 +1,128 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000b783d829a6650c46733c5f2977543d978345064baa0e2d25e3e89647977b062919ab6b16b6a8547232489e65693eb822a34806b4ea0026d9fb6f32e9d87283ec3f80daceb56f9a61dbc017755a9e17d924a41fb3a0b1977654c65f7fd7aff573a591ad7076345930a305b5d7239663795964ae502a810bce7e4eafd4acc40465d781ade73f7599e88623b9836f6372f2c00e1237-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR08385_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>ToHeart2ダンジョントラベラーズ トロフィー</title-name>
+ <title-detail>ToHeart2ダンジョントラベラーズ トロフィー</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>ダンジョンマスター</name>
+  <detail>全てのトロフィーを獲得した</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="G" pid="000">
+  <name>ダークカテドラル開放</name>
+  <detail>ワールドマップにダークカテドラルが出現した</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="G" pid="000">
+  <name>麗しの雄二</name>
+  <detail>トラウマイベントを見た</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="G" pid="000">
+  <name>現実世界へ帰還</name>
+  <detail>真のエンディングを見た</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="G" pid="000">
+  <name>四天王撃破</name>
+  <detail>四天王を撃破した</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="S" pid="000">
+  <name>ダンジョン１１層到達</name>
+  <detail>ダンジョン１１層到達</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="000">
+  <name>ダンジョン１２層到達</name>
+  <detail>ダンジョン１２層到達</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>ダンジョン１３層到達</name>
+  <detail>ダンジョン１３層到達</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>ダンジョン１４層到達</name>
+  <detail>ダンジョン１４層到達</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>ダンジョン１５層到達</name>
+  <detail>ダンジョン１５層到達</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>ダンジョン１６層到達</name>
+  <detail>ダンジョン１６層到達</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>ダンジョン１７層到達</name>
+  <detail>ダンジョン１７層到達</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>ダンジョン１８層到達</name>
+  <detail>ダンジョン１８層到達</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>ダンジョン１９層到達</name>
+  <detail>ダンジョン１９層到達</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>ダンジョン２０層到達</name>
+  <detail>ダンジョン２０層到達</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="S" pid="000">
+  <name>近くの森開放</name>
+  <detail>ワールドマップに近くの森が出現した</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="S" pid="000">
+  <name>戦闘解放区開放</name>
+  <detail>ワールドマップに戦闘解放区が出現した</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="S" pid="000">
+  <name>王家の墓開放</name>
+  <detail>ワールドマップに王家の墓が出現した</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="S" pid="000">
+  <name>三十重の塔開放</name>
+  <detail>ワールドマップに三十重の塔が出現した</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="S" pid="000">
+  <name>技を極めし者</name>
+  <detail>全ての技を使用したことがある</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="S" pid="000">
+  <name>魔法を極めし者</name>
+  <detail>全ての魔法を使用したことがある</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>ダンジョン２層到達</name>
+  <detail>ダンジョン２層到達</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>ダンジョン３層到達</name>
+  <detail>ダンジョン３層到達</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>ダンジョン４層到達</name>
+  <detail>ダンジョン４層到達</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>ダンジョン５層到達</name>
+  <detail>ダンジョン５層到達</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>ダンジョン６層到達</name>
+  <detail>ダンジョン６層到達</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>ダンジョン７層到達</name>
+  <detail>ダンジョン７層到達</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>ダンジョン８層到達</name>
+  <detail>ダンジョン８層到達</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>ダンジョン９層到達</name>
+  <detail>ダンジョン９層到達</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>ダンジョン１０層到達</name>
+  <detail>ダンジョン１０層到達</detail>
+ </trophy>
+</trophyconf>

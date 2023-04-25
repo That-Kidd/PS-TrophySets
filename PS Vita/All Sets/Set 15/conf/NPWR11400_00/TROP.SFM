@@ -1,0 +1,60 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000000a23f5e295c2aa6fef9ea0b77cd74dc8bfdc84fb81bd87a8bead476711b13d132f51a98db4dadede399b39b5bc82d9580e1e09abfda8ff040c053ff048342671996cbd635d2c367042f0fa9bd269ac36919db38b122b1025a6e191531787b4b015dbebd8378287ef94dffc33d020dcab9d9112fc1618d62e0e258756b9f029d982e9f0fc94a7e861342970f190e604cc8c5595a2-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="small">
+ <npcommid>NPWR11400_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Bard's Gold</title-name>
+ <title-detail>Bard's Gold</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Gemcholic</name>
+  <detail>Collect 1000 Gems in a single playthrough</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Always wanted one of these !</name>
+  <detail>Make a deal with Reaper</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="-1">
+  <name>Is this a TOWER!?</name>
+  <detail>Discover tower of patience </detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>This might help</name>
+  <detail>Level up a skill</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>No Goo can stop me !</name>
+  <detail>Clear the first world</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Temple Raider</name>
+  <detail>Clear the second world</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>You shall not drill !</name>
+  <detail>Clear the third world</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="-1">
+  <name>I Ain't Afraid of No Ghost</name>
+  <detail>Defeat the Blood Ghost</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="-1">
+  <name>The Shadow</name>
+  <detail>Kill the creep of shadows</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="-1">
+  <name>I want my gold back !</name>
+  <detail>Complete the game in any difficulty</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="-1">
+  <name>Treasure Room</name>
+  <detail>Find the bonus level</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="-1">
+  <name>Invincible</name>
+  <detail>Clear a world without losing a single life</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="-1">
+  <name>Bookworm</name>
+  <detail>Find all skill books</detail>
+ </trophy>
+</trophyconf>

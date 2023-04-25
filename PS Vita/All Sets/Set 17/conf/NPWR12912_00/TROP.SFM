@@ -1,0 +1,132 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000ddc6934276672dab446845392e9c51ba2cfc18632df8555fad7530b65170e166d48cf40cedeef83ad60706dbac0cd28e8c79054171e2e8fac75a0ff57867d2cb1554caaad1034897ccfc234df0255c70e19980ca82ff5b1c7365867d5ad9af3c01c8d12c61c1792334056c3e8a2010f5353ad73ce89b91b6ba08c3fd605d0152aa26f7a3404ef5cb39cceafad8b49478315832ae-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR12912_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>蝶々事件ラブソディック</title-name>
+ <title-detail>蝶々事件ラブソディックのトロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>アナタはダレ？</name>
+  <detail>すべてのトロフィーを取得した</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>蝶々事件の全貌</name>
+  <detail>全てのエンディングを取得した</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>画像記録の全貌</name>
+  <detail>全てのイベントCGを取得し、画像記録を閲覧した</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>音楽記録の全貌</name>
+  <detail>全ての音楽を取得し、音楽記録を閲覧した</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>事件記録の全貌</name>
+  <detail>全ての事件を取得し、事件記録を閲覧した</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>音声記録の全貌</name>
+  <detail>音声記録のプレイリストに全て音声を登録した</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>狐射堂遙の全貌</name>
+  <detail>狐射堂遙のイベントCGを全て取得した</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>神藤将成の全貌</name>
+  <detail>神藤将成のイベントCGを全て取得した</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>シドニー・ワトキンスの全貌</name>
+  <detail>シドニー・ワトキンスのイベントCGを全て取得した</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>源　イ織の全貌</name>
+  <detail>源　イ織のイベントCGを全て取得した</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>神藤理智の全貌</name>
+  <detail>神藤理智のイベントCGを全て取得した</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>事件の再現</name>
+  <detail>事件記録でイベントを再生した</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>音声の再現</name>
+  <detail>音声記録にボイスを登録した</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>音声の目録</name>
+  <detail>音声記録でプレイリストを作成した</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>全てはここに</name>
+  <detail>神藤理智ルートを解放した</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="S" pid="000">
+  <name>正気も狂気も君次第</name>
+  <detail>狐射堂遙のハッピーエンドを終えた</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="S" pid="000">
+  <name>命のある限り永遠に……</name>
+  <detail>神藤将成のハッピーエンドを終えた</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="S" pid="000">
+  <name>瞳に似合うのは喜びの色</name>
+  <detail>シドニー・ワトキンスのハッピーエンドを終えた</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="S" pid="000">
+  <name>祝福の口づけを</name>
+  <detail>源　イ織のハッピーエンドを終えた</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="S" pid="000">
+  <name>真実の先に――</name>
+  <detail>神藤理智のハッピーエンドを終えた</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="000">
+  <name>事件の始まり</name>
+  <detail>プロローグを終えた</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>事件の第一幕</name>
+  <detail>共通の第一章を終えた</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="B" pid="000">
+  <name>事件の第二幕</name>
+  <detail>共通の第二章を終えた</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>事件の第三幕</name>
+  <detail>共通の第三章を終えた</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="000">
+  <name>事件の第四幕</name>
+  <detail>狐射堂遙、神藤将成の第四章を終えた</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="B" pid="000">
+  <name>事件の第五幕</name>
+  <detail>狐射堂遙の第五章、神藤将成の第五章のどちらかを終えた</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>二人で――狂おう</name>
+  <detail>狐射堂遙のバッドエンドを終えた</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="B" pid="000">
+  <name>永遠に……一緒</name>
+  <detail>神藤将成のバッドエンドを終えた</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="B" pid="000">
+  <name>……天使、様……</name>
+  <detail>シドニー・ワトキンスのバッドエンドを終えた</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="B" pid="000">
+  <name>死の…祝福を</name>
+  <detail>源　イ織のバッドエンドを終えた</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="B" pid="000">
+  <name>事件の終わり。</name>
+  <detail>神藤理智のバッドエンドを終えた</detail>
+ </trophy>
+</trophyconf>

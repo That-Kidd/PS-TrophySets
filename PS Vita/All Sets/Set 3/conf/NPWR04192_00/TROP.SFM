@@ -1,0 +1,240 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000093763a9737389cbfa0e02a7281fa6c4cb9e00b5745a3c0dfa4ef8932687ca7d4ad8ce689c8bfc1f9593db84263dabb291dbcfe2f26e6c5978627e8f8832f4437039721cd2b56a9555b661404de7cd9155d8bec7e5006aee0d40d3f7aecfec5171c55e12a8aeabf25ee0f8c20608606f5cf7d64bd3e224d32e28c6caa8c997de2c6163ddb9c2edd2ee4bbfedf306b18a74821d9a2-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR04192_00</npcommid>
+ <trophyset-version>01.05</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Star Wars Pinball</title-name>
+ <title-detail>Whack the ball with unlimited proximity on the Star Wars Pinball tables!</title-detail>
+ <group id="001">
+  <name>Star Wars Pinball</name>
+  <detail>Trophies for the additional content: Star Wars Pinball</detail>
+ </group>
+ <group id="002">
+  <name>Star Wars Pinball: Balance of the Force</name>
+  <detail>Trophies for the additional content: Balance of the Force</detail>
+ </group>
+ <group id="003">
+  <name>Star Wars™ Pinball: Heroes Within</name>
+  <detail>Trophies for the additional content: Heroes Within</detail>
+ </group>
+ <group id="004">
+  <name>Star Wars™ Pinball: Star Wars Rebels™</name>
+  <detail>Trophies for the additional content: Star Wars Rebels™</detail>
+ </group>
+ <group id="005">
+  <name>Star Wars™ Pinball: The Force Awakens™ Pack</name>
+  <detail>Trophies for the additional content: The Force Awakens™ Pack</detail>
+ </group>
+ <group id="006">
+  <name>Star Wars™ Pinball: Rogue One™</name>
+  <detail>Trophies for the additional content: Star Wars™ Pinball: Rogue One™</detail>
+ </group>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Galactic explorer</name>
+  <detail>Discover your collection, and play on at least 3 different tables!</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>The Force is strong with this one</name>
+  <detail>Advance a rank and become a Jedi Padawan on the Light side or Sith Adept on the Dark side.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Fruitful alliance</name>
+  <detail>Get your friends together and earn 10000 Team Score!</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>May the Force be with you</name>
+  <detail>Rise to prominence by becoming a Jedi Master on the Light side or Sith Master on the Dark side.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="-1">
+  <name>Master of the Force</name>
+  <detail>Have the highest Force Score among your friends and become the Master of the Force!</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Great Disturbance</name>
+  <detail>Keep playing hard, and earn a score of at least 150 million on any table!</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Tremor in the Force</name>
+  <detail>Feel the Force and show off your pinball skills by earning 2000 Force Score!</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Young Challenger</name>
+  <detail>Rise to the challenge and beat the score of a friend ahead of you on any table!</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Your powers are weak</name>
+  <detail>Dominate your friends and beat ten of them on any table.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="-1">
+  <name>Unstoppable menace</name>
+  <detail>Win an Online Multiplayer race against 3 other players.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>It all ran better under Vader</name>
+  <detail>Complete all of the Empire's special assignments on the Boba Fett table!</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>In the service of the Hutts</name>
+  <detail>Complete all of the Hutt Cartel's special assignments on the Boba Fett table!</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="-1" gid="001">
+  <name>Triumph of the Mandalorian</name>
+  <detail>Earn maximum respect, and escape from the Sarlacc on the Boba Fett table!</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>Go for the legs</name>
+  <detail>Win a fight against an AT-AT walker on the Star Wars Episode V table.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>You seek Yoda</name>
+  <detail>Get an award from master Yoda on the Star Wars Episode V table.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="-1" gid="001">
+  <name>Bring balance to the Force</name>
+  <detail>Start Jedi and Sith multiballs at the same time and score a Balance Jackpot on Star Wars Episode V table.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>Point Rain</name>
+  <detail>Transport at least 3 clone troopers to Point Rain on Geonosis on the Clone Wars table.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>The General</name>
+  <detail>Earn the highest rank by completing the clone training several times on the Clone Wars table.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="-1" gid="001">
+  <name>Purge the World</name>
+  <detail>Purge the galaxy by defeating both Sith Lords on the Clone Wars table!</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="-1" gid="002">
+  <name>Mechanic</name>
+  <detail>Repair the ramps before the time runs out in the Bombardment mode on the Star Wars: Starfighter Assault table.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="-1" gid="002">
+  <name>Curtain of Fire</name>
+  <detail>Start the Barrage Frenzy, and the Fleet multiball at the same time on the Star Wars: Starfighter Assault table.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="-1" gid="002">
+  <name>Fleet Commander</name>
+  <detail>Complete all Squad Missions in one game on the Star Wars: Starfighter Assault table.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="-1" gid="002">
+  <name>Target Drill</name>
+  <detail>Destroy 6 targets in the Target Drill mission on the Star Wars: Darth Vader table.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="-1" gid="002">
+  <name>Tractor Beam Multiball</name>
+  <detail>Lock 3 balls and start the Tractor Beam Multiball on the Star Wars: Darth Vader Table.</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="-1" gid="002">
+  <name>Rebel Bases</name>
+  <detail>Destroy 3 rebel bases on the Star Wars: Darth Vader table.</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="-1" gid="002">
+  <name>Jabba's bounty</name>
+  <detail>Get a Jabba award on the Star Wars: Episode VI table.</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="-1" gid="002">
+  <name>Where is that shuttle going?</name>
+  <detail>Start the Tydirium multiball for the first time on Star Wars: Episode VI table.</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="S" pid="-1" gid="002">
+  <name>Fall of the Sith</name>
+  <detail>Complete all the Scene modes on the Star Wars: Episode VI table.</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="-1" gid="003">
+  <name>Security Override</name>
+  <detail>Successfully hack the terminal in the R2-D2 minigame on the Star Wars™ Pinball: Droids™ table.</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="-1" gid="003">
+  <name>Mining Operation</name>
+  <detail>Have the Ore Processor and Magnet Crane multiballs running at the same time on the Star Wars™ Pinball: Droids™ table.</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="-1" gid="003">
+  <name>Escape The Sandcrawler</name>
+  <detail>Complete the 5 main missions and start the Wizard Mode to help R2-D2 and C-3PO escape the sandcrawler on the Star Wars™ Pinball: Droids™ table.</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="-1" gid="003">
+  <name>Going somewhere, Solo?</name>
+  <detail>Hit a Greedo target in the Cantina minigame on Star Wars™ Pinball: Episode IV A New Hope table.</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="-1" gid="003">
+  <name>First step into a larger world</name>
+  <detail>Complete a Training mode on Star Wars™ Pinball: Episode IV A New Hope table.</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="-1" gid="003">
+  <name>Great shot, kid. That was one in a million.</name>
+  <detail>Complete the final mode and defeat the Empire on Star Wars™ Pinball: Episode IV A New Hope table.</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="-1" gid="003">
+  <name>Never tell me the odds!</name>
+  <detail>Emerge the third bumper and make enough bumper hits, then enter the asteroid field on the Star Wars™ Pinball: Han Solo table.</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="-1" gid="003">
+  <name>This place can be a little rough</name>
+  <detail>Hit all targets in the Mos Eisley cantina to meet Greedo on the Star Wars™ Pinball: Han Solo table. </detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="-1" gid="003">
+  <name>You've never heard of the Millennium Falcon?</name>
+  <detail>Achieve less than twelve parsecs in the Fastest Hunk of Junk mode on the Star Wars™ Pinball: Han Solo table.</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="-1" gid="003">
+  <name>Power! Unlimited power!</name>
+  <detail>Turn completely to the Dark Side by finishing only Dark Side tasks on the Star Wars™ Pinball: Masters of the Force table!</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="-1" gid="003">
+  <name>I am a Jedi</name>
+  <detail>Turn completely to the Light Side by finishing only Light Side tasks on the Star Wars™ Pinball: Masters of the Force table!</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="-1" gid="003">
+  <name>Prophecy fulfilled</name>
+  <detail>Complete all fights and bring balance to the Force on the Star Wars™ Pinball: Masters of the Force table!</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="B" pid="-1" gid="004">
+  <name>The collector</name>
+  <detail>Find your first Imperial helmet on the Star Wars™ Pinball: Star Wars Rebels™ table.</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="B" pid="-1" gid="004">
+  <name>Fire across the galaxy</name>
+  <detail>Duel with the Inquisitor on the Star Wars™ Pinball: Star Wars Rebels™ table.</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="S" pid="-1" gid="004">
+  <name>Path of the Jedi</name>
+  <detail>Lock four balls with the Force on the Star Wars™ Pinball: Star Wars Rebels™ table. </detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="B" pid="-1" gid="005">
+  <name>The dark side and the light</name>
+  <detail>Defeat Kylo Ren in his side mode on the Star Wars™: The Force Awakens™ table. (single player only)</detail>
+ </trophy>
+ <trophy id="044" hidden="no" ttype="B" pid="-1" gid="005">
+  <name>There has been an awakening</name>
+  <detail>Complete the story on the Star Wars™: The Force Awakens™ table. (single player only)</detail>
+ </trophy>
+ <trophy id="045" hidden="no" ttype="S" pid="-1" gid="005">
+  <name>A long time ago, in a galaxy....</name>
+  <detail>Trigger all the nets with BB-8 on the Star Wars™: The Force Awakens™ table. (single player only)</detail>
+ </trophy>
+ <trophy id="046" hidden="no" ttype="B" pid="-1" gid="005">
+  <name>Jump into hyperspace!</name>
+  <detail>Lock a ball in the TIE fighter dock of the Might of the First Order table! (Single player only)</detail>
+ </trophy>
+ <trophy id="047" hidden="no" ttype="B" pid="-1" gid="005">
+  <name>Rise of the First Order</name>
+  <detail>Start a Multiball on the mini playfield of the Might of the First Order table! (Single player only)</detail>
+ </trophy>
+ <trophy id="048" hidden="no" ttype="S" pid="-1" gid="005">
+  <name>Rule the galaxy</name>
+  <detail>Start Rule the Universe on the Might of the First Order table! (Single player only)</detail>
+ </trophy>
+ <trophy id="049" hidden="no" ttype="B" pid="-1" gid="006">
+  <name>Immeasurable power</name>
+  <detail>Complete Krennic's Wrath on level 2 on Star Wars™ Pinball: Rogue One™ table! (Single player only)</detail>
+ </trophy>
+ <trophy id="050" hidden="no" ttype="B" pid="-1" gid="006">
+  <name>Demilitarized zone</name>
+  <detail>Collect a Super Jackpot on the Star Wars™ Pinball: Rogue One™ table! (Single player only)</detail>
+ </trophy>
+ <trophy id="051" hidden="no" ttype="S" pid="-1" gid="006">
+  <name>I rebel</name>
+  <detail>Finish all story modes on the Star Wars™ Pinball: Rogue One™ table! (Single player only)</detail>
+ </trophy>
+</trophyconf>

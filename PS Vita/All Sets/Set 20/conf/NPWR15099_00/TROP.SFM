@@ -1,0 +1,152 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000a5335808e7e9f6ff06b4173221b152163a50575c234f1af01cb061870d60509d7602c65ba4e05d819384ccbeb288df0ae829e39dc92ea91e55768526df937f92f2fc4595aaaa182b357fcf9ebb075421ec12cd17b96449d5180d33f3d5cfc9e40f976363e4993c7d99dd5be684d5fc4be46974e960b4bbaa4033720bfb6b7bb8b929840cb04ce06ecdf1263ec004e145c8700a18-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR15099_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>NeuroVoider</title-name>
+ <title-detail>NeuroVoider's Trophies</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>All trophies obtained</name>
+  <detail>You obtained all NeuroVoider trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>All purpose robot</name>
+  <detail>Start the game with all three classes</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Party stopper</name>
+  <detail>Finish the game on Arcade mode</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>See you at the party, Richter</name>
+  <detail>Loop the game twice on Arcade mode</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>Get to the choppa!</name>
+  <detail>Complete a special auto-destruct level</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>Do you even lift?!</name>
+  <detail>Boost an item to the max</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>You do lift</name>
+  <detail>Boost all your current equipment to the max</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>Rage against the machines</name>
+  <detail>Kill 50 bosses</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>Beat maker</name>
+  <detail>Beat the first boss</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>Beat machine</name>
+  <detail>Beat the second boss</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>Bit crusher</name>
+  <detail>Beat the third boss</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>¯\_(ツ)_/¯</name>
+  <detail>Die 50 times</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>Cucumber smasher</name>
+  <detail>Kill 3000 elites</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="000">
+  <name>You've made a terrible mistake</name>
+  <detail>Spare FAT.32</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>Gold finger</name>
+  <detail>Forge 10 rare (gold) items</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>It's over 9000!</name>
+  <detail>Kill 9000 enemies</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>If it bleeds, we can kill it</name>
+  <detail>Beat your Nemesis</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>Mac Gyver's mullet</name>
+  <detail>Finish the game without using the repair function</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>Impossibru!</name>
+  <detail>Finish the game with the Unstable skill</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Defying the odds</name>
+  <detail>Reboot the same level twice</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>Troublemaker</name>
+  <detail>Finish the game on Rogue mode</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="G" pid="000">
+  <name>True final form</name>
+  <detail>Loop the game twice on Rogue mode</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>Scrooge McBot</name>
+  <detail>Save 20,000 scrap during one game</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>Gotta go fast</name>
+  <detail>Skip a level</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="G" pid="000">
+  <name>Speedrunner</name>
+  <detail>Beat the game under 1 hour</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>La Classe Américaine</name>
+  <detail>Switch your class during a game</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>Scholar of FAT.32</name>
+  <detail>Finish the tutorial</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="G" pid="000">
+  <name>Annihilator</name>
+  <detail>Finish the game on Voider mode</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="G" pid="000">
+  <name>Terminator</name>
+  <detail>Loop the game twice on Voider mode</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>Bug in the matrix</name>
+  <detail>Find a glitched weapon</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>That's glitch art</name>
+  <detail>Equip 2 glitched weapons at the same time</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>Remains of a lost world</name>
+  <detail>Play a graveyard level</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>Bug exterminator</name>
+  <detail>Play a swarm special level</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>I saw the light</name>
+  <detail>Play a pitch black special level</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>Stronger, faster</name>
+  <detail>Play a super elite special level</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="G" pid="000">
+  <name>True achiever</name>
+  <detail>Finish the game with the hardcore skill</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,116 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000001c039d4c2d28217be331e7ea3fe0116c0c0dec9b0afe4cc9f38a655ec94453c67e0e8f74cb198ec57fdf499c35166748aba09ad028a9651f42819e2e155d49ce76425635cec1d004845c14478726a7caad1e5be846e819a7d70b65f756476632fe8f00f734ce4919631a628923a3e21363d83d674d6e147dc447415cd440c1172cf515c37ec94e558c36a9e5e2435e503958cd24-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR03790_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>WRC 3</title-name>
+ <title-detail>Trofeos de WRC 3</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>¡Sin problemas!</name>
+  <detail>Desbloquea todos los trofeos</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>Para empezar</name>
+  <detail>Gana una Etapa Única en el modo WRC Experience</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>Dos por uno</name>
+  <detail>Gana al menos dos rallies en un mismo Campeonato en el modo WRC Experience</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>¡Todos juntos!</name>
+  <detail>Logra 10 minutos acumulados en carreras en encuentros en línea válidos</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>Prepárate</name>
+  <detail>Gana una Etapa Única en cualquier modo online usando una configuración personalizada</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>Ingeniero</name>
+  <detail>Guarda al menos una configuración personalizada en la sección Ajustes del Coche del menú de carreras</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>Hasta el último minuto</name>
+  <detail>Repara tu coche usando al menos 50 minutos de tiempo disponible en una sesión de reparación</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>Nuevecito</name>
+  <detail>Gana una Etapa Única sin dañar el coche en el modo WRC Experience</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="G" pid="000">
+  <name>Ganador</name>
+  <detail>Completa un Campeonato quedando primero y usando un Class 3 en el modo WRC Experience</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="G" pid="000">
+  <name>Primero</name>
+  <detail>Completa un Campeonato quedando primero y usando un Class 2 en el modo WRC Experience</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="G" pid="000">
+  <name>Número 1</name>
+  <detail>Completa un Campeonato quedando primero y usando un WRC en el modo WRC Experience</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>Por el mundo</name>
+  <detail>Gana los rallies de Montecarlo, Gales y España en un mismo campeonato de la WRC Experience</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>Pisa a fondo</name>
+  <detail>Corre al menos 150 metros a 150 Km/h</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>¡Muerde el polvo!</name>
+  <detail>Gana la Special Stage Pissia en el Acropolis Rally sobrándote más de 5 segundos en el modo WRC Experience</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>Como un patinador</name>
+  <detail>Gana la Special Stage Col De Turini en el Rallye Monte-Carlo sobrándote más de 5 segundos en el modo WRC Experience</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>Vuela a la meta</name>
+  <detail>Gana la Special Stage Arena Panzerplatte en el ADAC Rallye Deutschland sobrándote más de 5 segundos en el modo WRC Experience</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>En medio del barro</name>
+  <detail>Gana la Special Stage Sweet Lamb en el Wales Rally GB sobrándote más de 5 segundos en el modo WRC Experience</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>A orillas del Rin</name>
+  <detail>Gana la Special Stage Pays d'Ormont en el Rallye de France–Alsace sobrándote más de 5 segundos en el modo WRC Experience</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>¿Tengo tiempo para un picnic?</name>
+  <detail>Gana la Special Stage Santa Marina en el RACC-Rally de Espana sobrándote más de 5 segundos en el modo WRC Experience</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="000">
+  <name>Ese es mi estilo, nena</name>
+  <detail>Derrapa sobre la meta en cualquier modo de juego</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>Mi tierra</name>
+  <detail>Gana el RACC-Rally de Espana con Dani Sordo en el modo WRC Experience</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>¡Puedo volar!</name>
+  <detail>Da un salto de al menos 30 metros</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>Cuando llueve, truena</name>
+  <detail>Gana un Rally sobre mojado en el modo Rally Único (Rally de Francia – Alsacia o Rally de Gales GB)</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>Clima seco</name>
+  <detail>Gana un Rally en seco en el modo Rally Único (RACC-Rally de España o Rally Acrópolis de Grecia)</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>Rutina normal</name>
+  <detail>Gana un Rally con S. Loeb en el modo WRC Experience</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="G" pid="000">
+  <name>Una celebridad de la red</name>
+  <detail>Logra 60 minutos acumulados en carreras en encuentros en línea válidos</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="G" pid="000">
+  <name>Es mi año de suerte</name>
+  <detail>Gana todos los rallies de un mismo campeonato (Calendario por defecto)</detail>
+ </trophy>
+</trophyconf>

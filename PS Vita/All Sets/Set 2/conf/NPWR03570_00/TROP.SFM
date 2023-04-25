@@ -1,0 +1,128 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000005dba744a3f25cef714a64ffa0daee25ae7e3be944aa4da3bce8a7b2debf128aabdcdb473a26b46c01d872a6f322ab7bb0243d6ef8369a3ddb1624e7d7266d3b324567efbb439cee4a8c890a817fac3028013db9a29920ae550533c3628e8d6ed45d903fedc3fa2e54ebb19dd3e26b9b4eebae5e2a69b8653103792f47934daadb29c93a235c69f82259e8579e31a04b3dfce1a34-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR03570_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>DJMAX TECHNIKA TUNE</title-name>
+ <title-detail>DJMAX TECHNIKA TUNE</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>The DJMAX</name>
+  <detail>ALL TROPHIES ACQUIRED</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>Grand Master of TUNE</name>
+  <detail>DJ LEVEL 99 ACHIEVED</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="G" pid="000">
+  <name>TUNE Lover</name>
+  <detail>PLAY COUNT 1000 ACHIEVED</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="G" pid="000">
+  <name>TUNE Conqueror</name>
+  <detail>ALL PATTERNS CLEARED FOR ALL SONGS</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="G" pid="000">
+  <name>Owner of TUNE Gallery</name>
+  <detail>IMAGE GALLERY 100% ACHIEVED</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="G" pid="000">
+  <name>MAX Chain</name>
+  <detail>99999 COMBO ACHIEVED</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="G" pid="000">
+  <name>In Da Club</name>
+  <detail>S+ OVERALL PLAY RESULTS IN CLUB MIXING ACHIEVED</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>Popping Like</name>
+  <detail>S+ OVERALL RANKING IN POP MIXING</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>Twinkle Twinkle</name>
+  <detail>S++ OVERALL RANKING IN STAR MIXING</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>MAX Concentration</name>
+  <detail>PERFECT PLAY ACHIEVED</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>Graduation</name>
+  <detail>ALL COMBO ACHIEVED</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>Berserker</name>
+  <detail>CLEARED WITH 10% GROOVE METER GAUGE</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>Half</name>
+  <detail>DJ LEVEL 50 ACHIEVED</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>Gate of Abyss</name>
+  <detail>DARK ABYSS SET UNLOCKED IN CLUB MIXING</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="B" pid="000">
+  <name>Repeat Learning</name>
+  <detail>COMPLETED TUTORIAL 5 TIMES</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>Need More Practice</name>
+  <detail>CLUB MIXING SET FAILED</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>Get A Grade F in TUNE </name>
+  <detail>CLEARED WITH F RANK</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>M/V Player</name>
+  <detail>VIEWED 20 OR MORE M/V IN ALBUM MODE</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>Failed...Failed...Failed!!</name>
+  <detail>3 CONSECUTIVE GAME OVERS</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>Break!</name>
+  <detail>BREAK 1 CLEAR</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="000">
+  <name>Change!</name>
+  <detail>NOTE SKIN CHANGED 20 OR MORE</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>Confidence</name>
+  <detail>DIFFICULTY HARD GAME START</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="B" pid="000">
+  <name>Music Player</name>
+  <detail>LISTENEED TO 30 OR MORE OST IN ALBUM MODE</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>Let's Combo</name>
+  <detail>100 COMBO ACHIEVED</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="000">
+  <name>Never Ending TUNE</name>
+  <detail>PLAY COUNT 100 ACHIEVED</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="B" pid="000">
+  <name>Let's Collect</name>
+  <detail>IMAGE GALLERY 10% ACHIEVED</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>Club House</name>
+  <detail>CLUB MIXING CLEARED</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="B" pid="000">
+  <name>Pop Corn</name>
+  <detail>POP MIXING CLEARED</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="B" pid="000">
+  <name>First Step</name>
+  <detail>STAR MIXING CLEARED</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="B" pid="000">
+  <name>The Beginning</name>
+  <detail>DJ LEVEL 2 ACHIEVED</detail>
+ </trophy>
+</trophyconf>

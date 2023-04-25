@@ -1,0 +1,120 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000009f350d0bccc052715978dbc7ecfa6715adcd950f6c59a8ce184493f9234d16e4fb3379e02332868cd89942e69dec0a91bddd367a87dc8bf6b4af3fd7f80eab7a835406cca6faf01aec6f10bc23f0407c5b6c9e73da09a445ed03034d38ed3bef879f0fcaee121de69158b6088d306a806f13525b11ec19b784a0e7d08b14c3397ce6be71c80bda77fb0cebac1d07b4c830732f44-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR16568_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>STAY</title-name>
+ <title-detail>STAY</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Trophy Mogul</name>
+  <detail>Collect all the other trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Icebreaker</name>
+  <detail>Who are you, stranger?</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Light High</name>
+  <detail>And then there was light...</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Zen Master</name>
+  <detail>Don't leave during a time interval</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>Here, Kitty</name>
+  <detail>Never kill the cat</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>The Loop</name>
+  <detail>A neverending book which is not for Bastian</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>Matryoshka</name>
+  <detail>A life within a life within a life within...</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>The Wall</name>
+  <detail>Guardians, feathers and the unknown</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>Chessmates</name>
+  <detail>Board game solitaire</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>In Control</name>
+  <detail>Hail to the Chief</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>Obstacles</name>
+  <detail>Never leave the magic circle</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>The Explorer</name>
+  <detail>Don't lose sight of the north</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>Reflections</name>
+  <detail>Bad hair day not allowed</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>Home Alone</name>
+  <detail>Play it cool</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>Class of '82</name>
+  <detail>Memories shaped into bits and pieces</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="S" pid="000">
+  <name>Monster's Ball</name>
+  <detail>Dance with the ugliest partner</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="S" pid="000">
+  <name>Hack and Trash</name>
+  <detail>Cracking the final code</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>Better Together</name>
+  <detail>Reach the final chapter with the highest emotional bonding</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>Trustmaster</name>
+  <detail>Reach the final chapter with the highest level of trust</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="S" pid="000">
+  <name>Main Finale</name>
+  <detail>End Quinn's journey with a feeling of Acceptance</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="G" pid="000">
+  <name>Alternative Ending #1</name>
+  <detail>End Quinn's journey with a feeling of Bargaining</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="G" pid="000">
+  <name>Alternative Ending #2</name>
+  <detail>End Quinn's journey with a feeling of Anger</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="G" pid="000">
+  <name>Alternative Ending #3</name>
+  <detail>Back to square one</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="G" pid="000">
+  <name>Alternative Ending #4</name>
+  <detail>To be continued...</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="G" pid="000">
+  <name>Alternative Ending #5</name>
+  <detail>End Quinn's journey with a feeling of Denial and Isolation</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="G" pid="000">
+  <name>Alternative Ending #6</name>
+  <detail>End Quinn's journey with a feeling of Depression</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="S" pid="000">
+  <name>Binge Staying</name>
+  <detail>Become the perfect soulmate and never leave Quinn</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="S" pid="000">
+  <name>Dr. Livingstone relative</name>
+  <detail>Unveil all secret rooms</detail>
+ </trophy>
+</trophyconf>

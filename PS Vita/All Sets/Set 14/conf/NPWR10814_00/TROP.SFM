@@ -1,0 +1,60 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000da2f7749d197a0ac3db90bfe3fb7aae266a3354b23ca594c05f05685b34167506062a0518059799ca89e88fa2e61606d3be7e1e3b5dec90ae309acd8d2e361745b872fc655e46e046180ee7d4a0fbab65110e8c58afe652ec361e0fc6867d2ad88d887327cbd4d83429d44801cd582fff1f2ee120831467bd09da46db23e7a66a41c4aa5b3fe6c5ed970ddd56526ed5d946e8c09-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="small">
+ <npcommid>NPWR10814_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>iO</title-name>
+ <title-detail>iO App.</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Gold Grabber</name>
+  <detail>Collect 10 gold medals.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Ballseye</name>
+  <detail>Collect 50 medals.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Mad Medal Collector</name>
+  <detail>Collect 100 medals.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Medal Originale</name>
+  <detail>Collect 150 medals.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Mucho Medals</name>
+  <detail>Collect 200 medals.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Expandaball</name>
+  <detail>Expand your ball 1000 times.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Hey, Big Expander</name>
+  <detail>Expand your ball 10000 times.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Mini Me</name>
+  <detail>Decrease your size 1000 times.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Little Big Adventure&lt;</name>
+  <detail>Decrease your size 10000 times.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="-1">
+  <name>Curious George</name>
+  <detail>Play 225 levels.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="-1">
+  <name>Bronze Stud</name>
+  <detail>Collect 225 medals.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="-1">
+  <name>Silver Fox</name>
+  <detail>Collect 225 silver medals.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="-1">
+  <name>Gold Digger</name>
+  <detail>Collect 225 gold medals.</detail>
+ </trophy>
+</trophyconf>

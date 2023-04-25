@@ -1,0 +1,200 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000e2dd8f17f26374256b29d2f7dbc70abbef0a6fd96fe2e28f1d8618944c7a58832d812be14c6318663db36582ef50c49ee8cc54c3654917fb219e9cadb6adc7ca55cf50b718c3e056991bebbe69548414a5ba4f103650d8e04d8ca7f7e5d28b33c2f989e37b4f49f33a928b2c37d4d066103cb95d949c00979123294202037957f03c5e2ccef98c42158985a9ca4c52a381aa45ac-->
+<trophyconf version="1.1" platform="psp2">
+ <npcommid>NPWR02824_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>RIDGE RACER</title-name>
+ <title-detail>RIDGE RACER のトロフィーセット。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>プラチナ・リッジレーサー</name>
+  <detail>「RIDGE RACER」の全てのトロフィーを獲得した。</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>トライアンカーへようこそ</name>
+  <detail>Trianchor Alliance（トライアンカー・アライアンス）チームと契約した。</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>サークライトへようこそ</name>
+  <detail>Circlite Racing（サークライト・レーシング）チームと契約した。</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>ジーロットへようこそ</name>
+  <detail>Xealot Motorsport（ジーロット・モータースポート）チームと契約した。</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>スクアリスへようこそ</name>
+  <detail>Squaris GP（スクアリス・GP）チームと契約した。</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>渡り鳥</name>
+  <detail>所属チームを移籍した。</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>チームオーナーの期待</name>
+  <detail>地道なレース活動がチームオーナーから評価され、マシンの基本性能が１段階アップした。この調子で頼むぞ。</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>基本は完璧</name>
+  <detail>マシンの基本性能が最高になった。この先はテクニックと強化ユニットの選択で勝負だ。</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>新たな壁</name>
+  <detail>スキルグレード「Lv.2」に認定された。あなたが強くなれば、対戦するライバルのレベルも上がります。さらに価値ある勝利をつかんでください。</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>中堅レーサー</name>
+  <detail>スキルグレード「Lv.5」に認定された。ご自分では気づいていないかもしれませんが、中堅リッジレーサーの風格がでてきていますよ。</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>上級レーサー</name>
+  <detail>スキルグレード「Lv.10」に認定された。このレベルになれば、世界的にみても「強いリッジレーサー」の仲間入り、といえるでしょう。</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>マッハの世界</name>
+  <detail>スキルグレードの最高位、「LV.16」に認定された。名実共に「最強のリッジレーサーの1人」といえます。この強さであれば、世界各地のリッジレーサーたちが、あなたの名前を記憶しているかもしれません。</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>開発に着手</name>
+  <detail>マシンを強化するユニットを開発していく「マシン強化マップ」で、記念すべき第1歩を踏み出した。</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>開発はいつも手探り</name>
+  <detail>マシン強化マップで最初の分岐点に立った。そうなんですよね、どんなジャンルでも「新開発」はいつだって手探りなのです。</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>３つの力</name>
+  <detail>Group A～Cで合計３つまで使える強化ユニットを、初めて全てセットした。</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>風を操る力</name>
+  <detail>「SSブースター」と「SSキャンセラー」。スリップストリーム効果を制御する2つのユニットを手に入れた。</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>電子戦装備</name>
+  <detail>「レースデータアナライザー」と「ジャミング」。インテリジェントな2つの電子戦装備を手に入れた。</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>ニトロマスター</name>
+  <detail>「マシン強化マップ」で、ニトロユニットを全種類手に入れた。それぞれに個性を持つニトロを、ぜひ使いこなしてください。</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="G" pid="000">
+  <name>強化王</name>
+  <detail>「マシン強化マップ」を完全制覇した。</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>マイルドの頂点</name>
+  <detail>ドリフトセッティングを限界までマイルド傾向にセッティングして、１位を獲得した。</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>ダイナミックの極み</name>
+  <detail>ドリフトセッティングを限界までダイナミック傾向にセッティングして、１位を獲得した。</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>地道な努力</name>
+  <detail>SPOT RACEモードを50回以上プレイした。その地道な努力は、きっとWORLD RACEでも証明されるでしょう。</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>3周にかける情熱</name>
+  <detail>3周トータルのタイムを競う「トータルタイムアタック」を、50回以上プレイした。</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>1周に挑む意志</name>
+  <detail>1周のラップタイムを競う「ラップタイムアタック」を、合計200周以上プレイした。</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>量のゴーストハンター</name>
+  <detail>GHOST BATTLEで50人以上のゴーストを倒した。</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>質のゴーストハンター</name>
+  <detail>GHOST BATTLEで10G以上のゴーストを倒した。</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>私がゴーストだ</name>
+  <detail>GHOST BATTLEで、自分の走りをゴーストとして送信した。次は私を倒してみろ!</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>ワールドレーサー</name>
+  <detail>INTERNET BATTLEで50戦以上レースした。</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>グッドスマイル</name>
+  <detail>FACE to FACE BATTLEで50戦以上レースした。</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>友か敵か</name>
+  <detail>フレンドと一緒に対戦した。</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="B" pid="000">
+  <name>お届けもの</name>
+  <detail>「悪魔のギフト」が届くとき、「RIDGE RACER」と彼女はその姿を大きく変える…。</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="S" pid="000">
+  <name>闇よ退け</name>
+  <detail>シリーズ伝統の最強マシンの１つ、「デビルカー」との戦いに全て勝利した。</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="S" pid="000">
+  <name>光より速く</name>
+  <detail>シリーズ伝統の最強マシンの１つ、「エンジェルカー」との戦いに全て勝利した。</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="B" pid="000">
+  <name>おくりもの</name>
+  <detail>今度は悪魔になったあなたから、ネットワークを通じて他のプレイヤーに「悪魔のギフト」が贈られた。</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>感謝状</name>
+  <detail>「チームビジョン」視聴時にあなたからチームに送信してきたWP（ウィニングポイント）が、合計で100を超えた。</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="S" pid="000">
+  <name>賞金ランカー</name>
+  <detail>賞金（CR）ランキングの上位にランクインしていたことにより、VIPプレイヤーに認定された。</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="S" pid="000">
+  <name>勝利ランカー</name>
+  <detail>ウィニングポイント（WP）ランキングの上位にランクインしていたことにより、VIPプレイヤーに認定された。</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="S" pid="000">
+  <name>話題のレーサー</name>
+  <detail>所属チーム内で毎日選ばれる注目プレイヤー、「スポットライトVIP」に認定された。</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>サインください</name>
+  <detail>VIPなプレイヤーと通信対戦レースをした。</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="G" pid="000">
+  <name>移籍も視野に</name>
+  <detail>手持ちのクレジットが30,000cr.を超えた。これだけあれば、「チームビジョン」視聴後に他のチームに移籍することが可能です。</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="B" pid="000">
+  <name>ひとめぐり</name>
+  <detail>各レースモードを１回以上プレイした。</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="B" pid="000">
+  <name>海から山まで</name>
+  <detail>海から山までの３コース、Southbay Docks・Highland Cliffs・Harborline 765で走行した（R方向も含めて）。それぞれ異なる３つのコース、あなたのお気に入りはどれですか?</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="B" pid="000">
+  <name>シートあわせ</name>
+  <detail>5台のマシン（BISARGENTO, RAUNA, FIERA, EO, SYNCi）で１回以上レースした。走りもデザインもそれぞれ異なる5台のマシン、お気に入りはどれですか?</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="B" pid="000">
+  <name>指先のテクニシャン</name>
+  <detail>パドルシフト操作を使いこなしてレースした、まさに指先のテクニシャン。</detail>
+ </trophy>
+ <trophy id="044" hidden="no" ttype="B" pid="000">
+  <name>究極の加速</name>
+  <detail>最高の基本性能のマシンで最高のスピードに乗り、最高のニトロで加速した。</detail>
+ </trophy>
+ <trophy id="045" hidden="no" ttype="B" pid="000">
+  <name>ロケットスターター</name>
+  <detail>ロケットスタートを成功させた。</detail>
+ </trophy>
+ <trophy id="046" hidden="no" ttype="B" pid="000">
+  <name>眺めのいい場所</name>
+  <detail>Harborline 765の「あの場所」を訪れた。</detail>
+ </trophy>
+ <trophy id="047" hidden="no" ttype="B" pid="000">
+  <name>ストイック</name>
+  <detail>ニトロユニットを使用しないで１位になった。</detail>
+ </trophy>
+</trophyconf>

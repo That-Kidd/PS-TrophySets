@@ -1,0 +1,132 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000002a85a8e81fa73763dfc3a611ca9fb381c63eaff26147e2aedc00f9ae4d4e6a5f20ede77c1635de257f81fafe3ee860e1dcf2b4056d9e2dd5edc836d838bb0d8a87e14c5c5b2d776c5862c3ff5da04a2753a3f8f968362ca17ae8daff3b740ff033ac9a742d138409f52ae8b25ddc1eb47494c967bc7d0e218e4094fda9501b48e3f1041b60e7a5f5c6a71dbb946601acf0b404dd-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR10302_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>NORN9 ACT TUNE</title-name>
+ <title-detail>ノルン＋ノネット アクト チューンのトロフィーリストです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>NORN9ATマスター</name>
+  <detail>全てのトロフィーを獲得した</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>時計の針</name>
+  <detail>メモリアのプロローグを見た</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>駆 Memoria クリア</name>
+  <detail>メモリアで駆の全てのシナリオを見た</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>千里 Memoria クリア</name>
+  <detail>メモリアで千里の全てのシナリオを見た</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>正宗 Memoria クリア</name>
+  <detail>メモリアで正宗の全てのシナリオを見た</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>夏彦 Memoria クリア</name>
+  <detail>メモリアで夏彦の全てのシナリオを見た</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>朔也 Memoria クリア</name>
+  <detail>メモリアで朔也の全てのシナリオを見た</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>一月 Memoria クリア</name>
+  <detail>メモリアで一月の全てのシナリオを見た</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>暁人 Memoria クリア</name>
+  <detail>メモリアで暁人の全てのシナリオを見た</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>ロン Memoria クリア</name>
+  <detail>メモリアでロンの全てのシナリオを見た</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>平士 Memoria クリア</name>
+  <detail>メモリアで平士の全てのシナリオを見た</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="G" pid="000">
+  <name>動き出した時間</name>
+  <detail>メモリアのエピローグを見た</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>魔法の鍵</name>
+  <detail>レジェンド オブ ノルンでこはるルートのエピローグを見た</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>召喚獣</name>
+  <detail>レジェンド オブ ノルンで深琴ルートのエピローグを見た</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>鉱物の武器</name>
+  <detail>レジェンド オブ ノルンで七海ルートのエピローグを見た</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>危険なリンゴ</name>
+  <detail>カンタービレでこはるルートのご褒美CGを見た</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>階段を駆け上がれ！</name>
+  <detail>カンタービレで深琴ルートのご褒美CGを見た</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>おばあさんの家はどこ？</name>
+  <detail>カンタービレで七海ルートのご褒美CGを見た</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="G" pid="000">
+  <name>雪の企み</name>
+  <detail>カンタービレの真相エンドを見た</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="000">
+  <name>駆CG COMPLETE</name>
+  <detail>駆のCGを全てオープンした</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>千里CG COMPLETE</name>
+  <detail>千里のCGを全てオープンした</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>正宗CG COMPLETE</name>
+  <detail>正宗のCGを全てオープンした</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>夏彦CG COMPLETE</name>
+  <detail>夏彦のCGを全てオープンした</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>朔也CG COMPLETE</name>
+  <detail>朔也のCGを全てオープンした</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>一月CG COMPLETE</name>
+  <detail>一月のCGを全てオープンした</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="S" pid="000">
+  <name>暁人CG COMPLETE</name>
+  <detail>暁人のCGを全てオープンした</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="S" pid="000">
+  <name>ロンCG COMPLETE</name>
+  <detail>ロンのCGを全てオープンした</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="S" pid="000">
+  <name>平士CG COMPLETE</name>
+  <detail>平士のCGを全てオープンした</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="S" pid="000">
+  <name>その他CG COMPLETE</name>
+  <detail>その他のCGを全てオープンした</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="G" pid="000">
+  <name>ショートストーリー COMPLETE</name>
+  <detail>ショートストーリーを全て見た</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="G" pid="000">
+  <name>ノルンストア COMPLETE</name>
+  <detail>ノルンストアで全てのコンテンツを交換した</detail>
+ </trophy>
+</trophyconf>

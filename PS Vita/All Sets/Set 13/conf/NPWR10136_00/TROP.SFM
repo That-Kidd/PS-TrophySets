@@ -1,0 +1,108 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000079b28b7416bf61fa1b9ef80590c53cba65d3e47f87801cb88eee72aa307ca3338ebb901e45d45c8f93f1c392b04a80bc337159555b429f1dacc06a8b7879bba705ebb432c0d9e90a418ba1e5d5e6705b027f15a8c1f8bd4601c3a230e39eef840b42398e9d8602612d56cfd0f21f12cd03de06573b9e3c84f9ce39a6996bd5115b20bcdb5054828c80f58365ff9012c335864a8a-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR10136_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>EVE burst error R</title-name>
+ <title-detail>EVE burst error R のトロフィーです</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>全てのトロフィー入手</name>
+  <detail>全てのトロフィーを入手した</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="000">
+  <name>捜査開始</name>
+  <detail>捜査を開始した。</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>まりな編：１２月２日クリア</name>
+  <detail>まりな編で１２月２日をクリアした</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>小次郎編：１２月３日クリア</name>
+  <detail>小次郎編で１２月３日をクリアした</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>まりな編：１２月３日クリア</name>
+  <detail>まりな編で１２月３日をクリアした</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>小次郎編：１２月４日クリア</name>
+  <detail>小次郎編で１２月４日をクリアした</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>まりな編：１２月４日クリア</name>
+  <detail>まりな編で１２月４日をクリアした</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>小次郎編：１２月５日クリア</name>
+  <detail>小次郎編で１２月５日をクリアした</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>まりな編：１２月５日クリア</name>
+  <detail>まりな編で１２月５日をクリアした</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>小次郎編：１２月６日クリア</name>
+  <detail>小次郎編で１２月６日をクリアした</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>まりな編：１２月６日クリア</name>
+  <detail>まりな編で１２月６日をクリアした</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>小次郎編：１２月７日クリア</name>
+  <detail>小次郎編で１２月７日をクリアした</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>まりな編：１２月７日クリア</name>
+  <detail>まりな編で１２月７日をクリアした</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="G" pid="000">
+  <name>テラー編：１２月９日クリア</name>
+  <detail>テラー編、１２月９日をクリアした</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="B" pid="000">
+  <name>レディー・ゴー！</name>
+  <detail>空気に「座る」ことに挑戦した</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>クライマー</name>
+  <detail>ビルと植え込みに「のぼる」ことに挑戦した</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>押してダメなら‥‥</name>
+  <detail>植え込みと電柱を「押す」ことに挑戦した</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>チャレンジャー</name>
+  <detail>天井に「座る」ことに挑戦した</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>スイマー</name>
+  <detail>空中を「泳ぐ」ことに挑戦した</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="S" pid="000">
+  <name>げいむおおばぁ</name>
+  <detail>最後まで「飛び降りる」ことを諦めなかった</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="G" pid="000">
+  <name>孔の依頼を達成</name>
+  <detail>孔の依頼を達成した</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="G" pid="000">
+  <name>真弥子の護衛成功</name>
+  <detail>真弥子を襲撃から守った</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="G" pid="000">
+  <name>ハッキング成功</name>
+  <detail>ハッキングを成功させた</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="G" pid="000">
+  <name>犯人推理成功</name>
+  <detail>犯人を突き止めた</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="G" pid="000">
+  <name>事件解決</name>
+  <detail>バーストエラー事件を解決した</detail>
+ </trophy>
+</trophyconf>

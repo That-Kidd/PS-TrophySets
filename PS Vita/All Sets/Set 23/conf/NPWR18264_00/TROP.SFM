@@ -1,0 +1,80 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000ef77ca99a86163986762f539e179ffda5d8ce1abc0cb9ee17e786bf1af3284d436f366c0c4dd15619f5e2fcf253ce97d9992aabbd622cca347a2e3500685d6bdeb50338fb2e327edf04e8547e6755f1ac286f65f025d3b3dad6b8a808b5c2cc446b907dd67a76d47ab3447bbec43f7e9dbff85886a2a89585ced8a4df5810592833e0f62e7a5050f97bad72a14b1b3d91587fb0b-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR18264_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Mecho Wars: Desert Ashes</title-name>
+ <title-detail>The Core Trophies of Mecho Wars: Desert Ashes</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>War General</name>
+  <detail>Obtain all trophies.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Multi-Kill</name>
+  <detail>Destroy three units in one turn.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>Ultra-Kill</name>
+  <detail>Destroy four units in one turn.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>Mega-Kill</name>
+  <detail>Destroy five units in one turn.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>Rookie Trains</name>
+  <detail>Complete the Winged Uprising episode.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>Rookie Conquers</name>
+  <detail>Complete the Winged Assault episode.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>Revenge Served</name>
+  <detail>Complete the Landian Strikeback episode.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>Witchy Woman</name>
+  <detail>Complete the Desert Ashes episode.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>Human Intelligence</name>
+  <detail>Defeat the AI in a skirmish.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>Online Participant</name>
+  <detail>Play and complete one online multiplayer game.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>Online Victory</name>
+  <detail>Win an online multiplayer game.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>Battlefield Leader</name>
+  <detail>Win five online multiplayer games.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>Ding!</name>
+  <detail>Level-Up in online multiplayer.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>Employee</name>
+  <detail>Complete one quest.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="000">
+  <name>Workhorse</name>
+  <detail>Complete five quests.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>Collector</name>
+  <detail>Purchase five perks.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="G" pid="000">
+  <name>War Tools</name>
+  <detail>Purchase ten perks.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="G" pid="000">
+  <name>War Bonds</name>
+  <detail>Obtain 50000 gold from career quest rewards.</detail>
+ </trophy>
+</trophyconf>

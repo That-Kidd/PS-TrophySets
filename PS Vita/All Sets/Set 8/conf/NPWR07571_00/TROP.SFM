@@ -1,0 +1,36 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000dfc4de6b3c671134389e2c7175f1e924c0098532449b4d227c85020df9e0167e68a5f9f0a09ed1f4c78669dce83c38ee42ce2b2f81bdb23e1ffda354097e9dd054c5815c608c43afdd343a37cdcb120bc6e19c8094607fa7838cd3f6ed50ade998f345c2e64591ff55d3577add2625fc4171872e166a914ff059d50a62b5c284a1a40eeb7f3ee8df8e7ec010fb1e0ec8513261a2-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR07571_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>FANTASY HERO</title-name>
+ <title-detail>FANTASY HERO Trophy Set</title-detail>
+ <trophy id="000" hidden="yes" ttype="B" pid="-1">
+  <name>That's Bananas!</name>
+  <detail>Fell on a banana.</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="S" pid="-1">
+  <name>Once Upon a Time</name>
+  <detail>Finished the mission, "Beginning of the Beginning".</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="S" pid="-1">
+  <name>Flex Those Muscles!</name>
+  <detail>Learned the character's maximum skills.</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="S" pid="-1">
+  <name>Now, What Have We Here?</name>
+  <detail>Finished all of the side quests / free missions.</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="S" pid="-1">
+  <name>Thanks... Roboton</name>
+  <detail>Reached Level 25.</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="G" pid="-1">
+  <name>And so it repeats once again</name>
+  <detail>Finished all of the main story missions.</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="G" pid="-1">
+  <name>Shaping Up Nicely Old Fart!</name>
+  <detail>Enhanced the same weapon over 30 times.</detail>
+ </trophy>
+</trophyconf>

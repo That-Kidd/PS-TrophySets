@@ -1,0 +1,240 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000d73b53e7e29c11a1c15d65f35cd1db1882e8198413bfbae5813c8791f100148d6ca83ae2b5a73d57e1f74ea75cba8b5efcd6682374f9be85acd4f5ad7c773a01cefd562f7fbd035383efa9d8e84906ff064d0be0d3f41d0f8ea62430f7d33f6919f0f3fe1197d9d3e399f252aa8cc0355b78034b73c5ce526be15d2bcc6fbd973adf19529715b789b31bc2c61de8027aefb089e1-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR09628_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Unepic</title-name>
+ <title-detail>Unepic trophies.</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>ALL TROPHIES OBTAINED</name>
+  <detail>Congratulations!</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>A GOOD COMMENCE</name>
+  <detail>Start a new game and reach the first spirit box unharmed.</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>WET FLOOR, WATCH YOUR STEP</name>
+  <detail>Do not touch the ground or ladders for 18 seconds.</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="S" pid="000">
+  <name>THE POTION COLLECTOR</name>
+  <detail>Carry a collection of at least 18 different potions at once.</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>RUNNING OVER TRAPS</name>
+  <detail>Complete the room of traps unharmed in 50 seconds.</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="S" pid="000">
+  <name>A HAND WITH VAMPIRES</name>
+  <detail>Defeat Gauntlik while carrying 8 vampires in your inventory.</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>DRY LAW IN ARRAKIS</name>
+  <detail>Do not drink any potions until you have defeated the Dynidon worm.</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>THE DEVILS NUMBER</name>
+  <detail>Carry 666 essences of each color, 666 coins and 666 divine favors at the same time.</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>DEATH LEVEL 1</name>
+  <detail>Defeat Sux Mortis with skill level 1 in armor and constitution.</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="000">
+  <name>THE KING OF DODGE</name>
+  <detail>Dodge all falling rocks between the columns in the corridor to the mine.</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>EYE FOR AN EYE</name>
+  <detail>Defeat Medeox without killing any of its snakes.</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>DIE HARD</name>
+  <detail>Kill Corvax the Mage in HARD or HARD++ mode.</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="G" pid="000">
+  <name>MISSION: NEARLY IMPOSSIBLE</name>
+  <detail>Reach the Twin Crystals in HARD++ mode.</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>THE CROW</name>
+  <detail>Find Harnakon without killing any crows beforehand.</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="B" pid="000">
+  <name>A LONG WAY TO MINERARY</name>
+  <detail>Bring 4 or more freed goblins to the mine without using teleport or gates.</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>THE TOY HAMMER</name>
+  <detail>Use the toy hammer to deal the final blow to a walking armor.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>CENTER ZONE IS LIT</name>
+  <detail>You have lit all lights in the central area.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>MINE IS LIT</name>
+  <detail>You have lit all lights in the mine.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>THE DOWNS ARE LIT</name>
+  <detail>You have lit all lights in the downs.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>SEWER IS LIT</name>
+  <detail>You have lit all lights in the sewer.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>WEST ZONE IS LIT</name>
+  <detail>You have lit all lights in the west zone.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>GARDENS ARE LIT</name>
+  <detail>You have lit all lights in the gardens.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>EAST ZONE IS LIT</name>
+  <detail>You have lit all lights in the east zone.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>LIBRARY IS LIT</name>
+  <detail>You have lit all lights in the library.</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>MAGE TOWER IS LIT</name>
+  <detail>You have lit all lights in the tower of the mages.</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>PRISON IS LIT</name>
+  <detail>You have lit all lights in the prison.</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>HALLS ARE LIT</name>
+  <detail>You have lit all lights in the halls.</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>LABORATORY IS LIT</name>
+  <detail>You have lit all lights in the laboratory.</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>GHOST TOWER IS LIT</name>
+  <detail>You have lit all lights in the forgotten tower.</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>CATACOMBS ARE LIT</name>
+  <detail>You have lit all lights in the catacombs.</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>25% OF THE CASTLE IS LIT</name>
+  <detail>You have lit a quarter of all lights in the whole castle.</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>50% OF THE CASTLE IS LIT</name>
+  <detail>You have lit the half of all lights in the whole castle.</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>75% OF THE CASTLE IS LIT</name>
+  <detail>You have lit three quarters of all lights in the whole castle.</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>THE WHOLE CASTLE IS LIT</name>
+  <detail>You have lit all lights in the castle!!</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>THE KEY OF THE MINE</name>
+  <detail>You passed the test of traps and obtained the Key of the Mine.</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>THE KEY OF THE SEWER</name>
+  <detail>You have defeated the first Guardian and obtained the Key of the Sewer.</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>THE KEY OF THE GARDENS</name>
+  <detail>You have defeated the second Guardian and obtained the Key of the Gardens.</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>THE KEY OF THE LIBRARY</name>
+  <detail>You have defeated the third Guardian and obtained the Key of the Library.</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>THE KEY OF THE CATACOMBS</name>
+  <detail>You have defeated the fourth Guardian and obtained the Key of the Catacombs.</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="000">
+  <name>THE KEY OF THE LABORATORY</name>
+  <detail>You have defeated the fifth Guardian and obtained the Key of the Laboratory.</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="B" pid="000">
+  <name>THE KEY OF THE HALLS</name>
+  <detail>You have defeated the sixth Guardian and obtained the Key of the Halls.</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="B" pid="000">
+  <name>THE KEY OF THE TOWER</name>
+  <detail>You have defeated the seventh Guardian and obtained the Key of the Tower.</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="B" pid="000">
+  <name>BORN TO KILL</name>
+  <detail>You killed 100 monsters.</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="B" pid="000">
+  <name>I AM THE LAW</name>
+  <detail>You killed 500 monsters.</detail>
+ </trophy>
+ <trophy id="044" hidden="no" ttype="B" pid="000">
+  <name>THE AVENGER OF THE CASTLE</name>
+  <detail>You killed 1,000 monsters.</detail>
+ </trophy>
+ <trophy id="045" hidden="no" ttype="B" pid="000">
+  <name>ERASER</name>
+  <detail>You killed 2.000 monsters.</detail>
+ </trophy>
+ <trophy id="046" hidden="no" ttype="S" pid="000">
+  <name>I AM BECOME DEATH</name>
+  <detail>You killed 5.000 monsters.</detail>
+ </trophy>
+ <trophy id="047" hidden="no" ttype="S" pid="000">
+  <name>THE GRAVEYARD IS OVERLOADED</name>
+  <detail>You killed 10.000 monsters.</detail>
+ </trophy>
+ <trophy id="048" hidden="no" ttype="B" pid="000">
+  <name>THE MAGIC OF FIRE</name>
+  <detail>You successfully finished the quest of Pyros, spirit of fire, and acquired the knowledge of fire magic.</detail>
+ </trophy>
+ <trophy id="049" hidden="no" ttype="B" pid="000">
+  <name>THE MAGIC OF FROST</name>
+  <detail>You successfully finished the quest of the spirit, and acquired the knowledge of frost magic.</detail>
+ </trophy>
+ <trophy id="050" hidden="no" ttype="B" pid="000">
+  <name>THE MAGIC OF THE DEAD</name>
+  <detail>You successfully finished the quest of the spirit, and acquired the knowledge of Necromancy.</detail>
+ </trophy>
+ <trophy id="051" hidden="no" ttype="B" pid="000">
+  <name>THE MAGIC OF HEALING</name>
+  <detail>You successfully finished the quest of the spirit, and acquired the knowledge of Healing.</detail>
+ </trophy>
+ <trophy id="052" hidden="no" ttype="B" pid="000">
+  <name>THE MAGIC OF LIGHT</name>
+  <detail>You found the God of Light, and acquired the Divine Favour of Light.</detail>
+ </trophy>
+ <trophy id="053" hidden="no" ttype="B" pid="000">
+  <name>THE MAGIC OF PROTECTION</name>
+  <detail>You successfully finished the quest of the spirit, and acquired the knowledge of Protection.</detail>
+ </trophy>
+ <trophy id="054" hidden="no" ttype="B" pid="000">
+  <name>THE MAGIC OF ALTERATION</name>
+  <detail>You successfully finished the quest of the spirit, and acquired the knowledge of Alteration.</detail>
+ </trophy>
+ <trophy id="055" hidden="no" ttype="B" pid="000">
+  <name>THE MAGIC OF THE MIND</name>
+  <detail>You successfully finished the quest of the spirit, and acquired the knowledge of Mental Power.</detail>
+ </trophy>
+ <trophy id="056" hidden="no" ttype="B" pid="000">
+  <name>YOU ARE A MAN</name>
+  <detail>You reached level 5.</detail>
+ </trophy>
+ <trophy id="057" hidden="no" ttype="B" pid="000">
+  <name>YOU ARE AN EXPERT</name>
+  <detail>You reached level 10.</detail>
+ </trophy>
+</trophyconf>

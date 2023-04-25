@@ -1,0 +1,88 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000009529972553903d2adaf28cac12955f8d0aabcebeae2ac5b37598dd9fb771aa92fec6550470bb5f8324d5819852ed084a6fcd929598a0a7717c56af462011985fb96374e76d0e5d82bd0eab0b14c3d86b41deaeaea1a7276850eaf1415a77bf8b1d07100aa23b3298709754488838cc20578d25716f6fb4e1ffe97bcfaf3aefa21ddb8973e5e7e1b1caea102790f5158678f477c5-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR09019_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>月に寄りそう乙女の作法 ～ひだまりの日々～</title-name>
+ <title-detail>月に寄りそう乙女の作法 ～ひだまりの日々～</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>全てのトロフィーを取得</name>
+  <detail>全てのトロフィーを取得しました。</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="G" pid="000">
+  <name>大変に気分がいい</name>
+  <detail>CG鑑賞の全てのCGをコンプリートしました。</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="G" pid="000">
+  <name>ありがとうございます、お優しいルナ様</name>
+  <detail>全てのシナリオをクリアしました。</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="G" pid="000">
+  <name>ルナのCG鑑賞をコンプリート</name>
+  <detail>CG鑑賞のルナのCGをコンプリートしました。</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="G" pid="000">
+  <name>湊のCG鑑賞をコンプリート</name>
+  <detail>CG鑑賞の湊のCGをコンプリートしました。</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="G" pid="000">
+  <name>ユルシュールのCG鑑賞をコンプリート</name>
+  <detail>CG鑑賞のユルシュールのCGをコンプリートしました。</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="G" pid="000">
+  <name>瑞穂のCG鑑賞をコンプリート</name>
+  <detail>CG鑑賞の瑞穂のCGをコンプリートしました。</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="G" pid="000">
+  <name>その他のCG鑑賞をコンプリート</name>
+  <detail>CG鑑賞のその他のCGをコンプリートしました。</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>ルナのシナリオをクリア</name>
+  <detail>ルナのシナリオをクリアしました。</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>湊のシナリオをクリア</name>
+  <detail>湊のシナリオをクリアしました。</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>ユルシュールのシナリオをクリア</name>
+  <detail>ユルシュールのシナリオをクリアしました。</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>瑞穂のシナリオをクリア</name>
+  <detail>瑞穂のシナリオをクリアしました。</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="G" pid="000">
+  <name>屑がァァァ！</name>
+  <detail>『衣遠兄様の華麗なる一日』をクリアしました。</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>ルナのシナリオを開始</name>
+  <detail>ルナのシナリオルートに進みました。</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>湊のシナリオを開始</name>
+  <detail>湊のシナリオルートに進みました。</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="S" pid="000">
+  <name>ユルシュールのシナリオを開始</name>
+  <detail>ユルシュールのシナリオルートに進みました。</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="S" pid="000">
+  <name>瑞穂のシナリオを開始</name>
+  <detail>瑞穂のシナリオルートに進みました。</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="S" pid="000">
+  <name>DESIRE</name>
+  <detail>オープニングムービーを見ました。</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>クロック機能を起動</name>
+  <detail>クロック機能を起動しました。</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>アラームをセット</name>
+  <detail>クロック機能でアラームをセットしました。</detail>
+ </trophy>
+</trophyconf>

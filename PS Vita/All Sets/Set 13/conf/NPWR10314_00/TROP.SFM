@@ -1,0 +1,120 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000012bf0ff25be661b113153fc2e10b11e4c03fc52d2fde2ce9d5bd962027eecaf466366938af1a3ebe3546802348a36a08cde6cf1d9bcbdba8dfcbcbe6b2cebf889a8d81fabfc053d3aef1c0e3b6044a25d97dbf58fe383831d630bebd81957520f398d138d7c97971b2beec81f20225ded4c3d87b7cd6edeac15e34583444bbceeb787ff7e11389e34367c46b7efbaf0b02ee2884-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR10314_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>もし、この世界に神様がいるとするならば。</title-name>
+ <title-detail>もし、この世界に神様がいるとするならば。のトロフィーセットです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>トロフィー All コンプリート </name>
+  <detail>全てのトロフィーを獲得</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>プロローグクリア</name>
+  <detail>共通プロローグをクリアした</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>ファーストエンディングクリア</name>
+  <detail>最初のエンディングをクリアした</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>エース真相エンディングクリア</name>
+  <detail>エースの真相エンディングをクリアした</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>ネジ真相エンディングクリア</name>
+  <detail>ネジの真相エンディングをクリアした</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>キョウ真相エンディングクリア</name>
+  <detail>キョウの真相エンディングをクリアした</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>シュリ真相エンディングクリア</name>
+  <detail>シュリの真相エンディングをクリアした</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>マサト真相エンディングクリア</name>
+  <detail>マサトの真相エンディングをクリアした</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>アイテムコンプリート</name>
+  <detail>全てのアイテムを手に入れた</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="000">
+  <name>NINJA YASHIKIメニュー全制覇</name>
+  <detail>NINJA YASHIKIメニュー全制覇おめでとう！これであなたも忍者屋敷常連客！</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="000">
+  <name>CROWに友達が追加されました</name>
+  <detail>CROWに新しいお友達が増えたよ！</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>エース全シナリオ、アフターシナリオクリア</name>
+  <detail>エースの全てのエンディングをクリアし、アフターシナリオを全て読んだ</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>ネジ全シナリオ、アフターシナリオクリア</name>
+  <detail>ネジの全てのエンディングをクリアし、アフターシナリオを全て読んだ</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>キョウ全シナリオ、アフターシナリオクリア</name>
+  <detail>キョウの全てのエンディングをクリアし、アフターシナリオを全て読んだ</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>シュリ全シナリオ、アフターシナリオクリア</name>
+  <detail>シュリの全てのエンディングをクリアし、アフターシナリオを全て読んだ</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>マサト全シナリオ、アフターシナリオクリア</name>
+  <detail>マサトの全てのエンディングをクリアし、アフターシナリオを全て読んだ</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="G" pid="000">
+  <name>イベグラAllコンプリート </name>
+  <detail>イベントCGを全て手に入れた</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>ブラックポストシナリオコンプリート</name>
+  <detail>ブラックポストシナリオを全て読んだ</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="G" pid="000">
+  <name>ストーリーコンプリート</name>
+  <detail>攻略キャラ全てのシナリオをプレイした</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="G" pid="000">
+  <name>大団円シナリオクリア</name>
+  <detail>大団円シナリオを全て読んだ</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>剣フルコンプ</name>
+  <detail>剣を5本手に入れた！お気に入りの剣はどれかな？</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="G" pid="000">
+  <name>覚醒値MAX</name>
+  <detail>あなたの選択で神の力がMAXとなりました！</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="G" pid="000">
+  <name>好感度MAX</name>
+  <detail>好感度MAXおめでとう！</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>神様衣装全オープン</name>
+  <detail>九鬼兄弟の神様衣装全OPEN！これであなたも神様マスター！</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>運命に抗う物語が始まりました</name>
+  <detail>蒼い海の向こうに隠された物語の真実とは……？</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>キャラクターのルートに入りました</name>
+  <detail>運命の相手が見つかりました</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>もし神選択肢を１秒以内に選択</name>
+  <detail>まさに神業！</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="B" pid="000">
+  <name>もし神選択肢時間オーバー</name>
+  <detail>運命に抗え</detail>
+ </trophy>
+</trophyconf>

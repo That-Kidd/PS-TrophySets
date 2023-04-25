@@ -1,0 +1,40 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000079bbee5765f62028fc1529f2ca7e9045b3e9a2387cd886ca5be9f853c25b43cb57ca8f6cb19223ab0ab5392008d7fb68715e20fcdf341023397144895155c94b8e859c3d4c93e4d3d5744caae6c52341aef047f8cb8fc918044c153c4a896399670b621ef35160ba31c15ab606f63d2e804ef74990c35b61021ec2282e1e690d5d3407aacf82bb0e6a2ba96efa2a350a86d5f1aa-->
+<trophyconf version="1.1" platform="psp2" policy="freemium">
+ <npcommid>NPWR03241_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Travel Bug</title-name>
+ <title-detail>Travel Bug on PlayStation®Vita system.</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>1st Miler</name>
+  <detail>You helped a Bug travel a mile.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Customiser</name>
+  <detail>You've customised one of your Bugs.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Generous Customiser</name>
+  <detail>You've customised a guest Bug.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Marathon Runner</name>
+  <detail>One of your Bugs has travelled a total distance of over 26 miles.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="-1">
+  <name>1,000 Miler</name>
+  <detail>You helped Bugs travel a combined distance of 1,000 miles.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="-1">
+  <name>Around the World</name>
+  <detail>You helped Bugs travel a combined distance greater than the circumference of the world.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="-1">
+  <name>High Achiever</name>
+  <detail>You've unlocked all distance-based trophies.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="-1">
+  <name>World Beater</name>
+  <detail>You've topped a Travel Bug scoreboard.</detail>
+ </trophy>
+</trophyconf>

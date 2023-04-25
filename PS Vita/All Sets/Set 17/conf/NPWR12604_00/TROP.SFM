@@ -1,0 +1,84 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000001448be9b8447a04d6c9a53095750bf11bdd212da7fe1cdc89074c288ec871b99b71953edd9ce05f3fc9bc98f7449baff95736f1258035d64e0f782cd2d2ff959632552b1d6d8541b4968d6b3075dd67e62b264d0d19ff11cbafa032e2e2c220545541cd889792e19db711456cf5b76ca678b7170b1bcba1ece42579d91beba28fc2ab90b6bf3ea5887a2d562a7af150b846ddffa-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR12604_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Koi</title-name>
+ <title-detail>Koi Trophies</title-detail>
+ <trophy id="000" hidden="no" ttype="S" pid="-1">
+  <name>In Full Bloom</name>
+  <detail>Open all the flowers in the game.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="-1">
+  <name>Super Star</name>
+  <detail>Collect all the Stars in the game.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>I remember</name>
+  <detail>Collect all the Puzzle Pieces in the game</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Scales in all colors</name>
+  <detail>Unlock all the Skins</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Until the End</name>
+  <detail>Complete every level.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Fast as Lightning</name>
+  <detail>Dodge 20 attacks of the Black Fish</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>The Edge</name>
+  <detail>Reach the frontier of the 3rd part of Level 7.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Stalker</name>
+  <detail>Remain undiscovered by the Black Fish in Levels 2 and 5</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Fish Bait</name>
+  <detail>Suffer 20 attacks by the Black Fish.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>Super Splash</name>
+  <detail>Complete the upstream part of Level 7 in under 3 minutes</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>Sink or Swim</name>
+  <detail>Complete the upstream part of Level 7 in over 3 minutes</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="-1">
+  <name>Ribbit</name>
+  <detail>Don't miss a single encounter with Old Toad.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="-1">
+  <name>Papa Fish</name>
+  <detail>Lead more than 50 small fish in total.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="-1">
+  <name>Ouch</name>
+  <detail>Bump into an obstacle 200 times</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="-1">
+  <name>Went the Distance</name>
+  <detail>Total distance traveled over 8000 meters</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="-1">
+  <name>On Time's Side</name>
+  <detail>Total play time is 24 hours</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="-1">
+  <name>Flashy</name>
+  <detail>Make an opened flower light up 30 times</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="-1">
+  <name>Sparky</name>
+  <detail>Get hit by sparks 5 times</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="-1">
+  <name>Like a Fish in the Water</name>
+  <detail>Avoid being hit by a single spark in Level 6</detail>
+ </trophy>
+</trophyconf>

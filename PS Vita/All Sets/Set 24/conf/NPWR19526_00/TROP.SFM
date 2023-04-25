@@ -1,0 +1,80 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000bbcf1ceb2bd90d06f89cea7b1aee2b5c2c26a60166dd494ca2862effa004267ecda4886897fa49ab6747e1ecfe64f2a554efe0a0379f95584d3b5e22d1c4281afff56a41fbac4470e06f9b9fbde0ec9015ce7264a38436ee3bb6a9af2d00676b139defb129264830992701a4a92c1aa99bedad092fe3e019e1e94fb7e2046bbc6a0bcaa127828677c4cf90d7a0c0c040d5fc4013-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR19526_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Ganbare! Super Strikers</title-name>
+ <title-detail>Ganbare! Super Strikers</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Platinum Ganbare</name>
+  <detail>Get all other trophies.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>The Start Of A Legend</name>
+  <detail>Finish the Tutorial</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Prologue And Beginning</name>
+  <detail>Win the match against Adachi</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Fight With Your Heart</name>
+  <detail>Win the match against Itabashi</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>We'll Do It!</name>
+  <detail>Win the match against Meguro</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>Aiming For Glory</name>
+  <detail>Win the match against Suginami</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>Invisible Enemy</name>
+  <detail>Win the match against Nakano</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>Another Strong Player</name>
+  <detail>Win the match against Minato</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>You Must Not Fear Your Friend, The Ball!</name>
+  <detail>Win the match against Sumida</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>The Choice Of A New Team!!</name>
+  <detail>Win the match against South Korea</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>The War Starts!! Japan vs France</name>
+  <detail>Win the match against France</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>The New Barrier</name>
+  <detail>Win the match against Germany</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>Undying Team Work</name>
+  <detail>Win the match against Argentina</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="000">
+  <name>From Japan To The World</name>
+  <detail>Win the match against Italy</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="000">
+  <name>Will To Win</name>
+  <detail>Win the match against Spain</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="G" pid="000">
+  <name>Rising Sun</name>
+  <detail>Win the match against Brazil</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="G" pid="000">
+  <name>Tenacity, Definitely Tenacity</name>
+  <detail>Earn 10 stars</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="G" pid="000">
+  <name>Never Give Up</name>
+  <detail>Earn 20 stars</detail>
+ </trophy>
+</trophyconf>

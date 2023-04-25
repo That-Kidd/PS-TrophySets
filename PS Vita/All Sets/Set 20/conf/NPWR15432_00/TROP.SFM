@@ -1,0 +1,68 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000b6a31ee63e7c8eb0a0513673758b9df23b3c8a668942d004442e4d2520907b630297de3469c30a05a61b1f90a47fdf0ce9b49397906986814c7ad4894a5f1a2cf411bce7aeab45f5f2b48d559501beacbf17b34b3223373b8cdb3a7907bce6fa0cbc3df00485186057d1f776370ac55d6e71cc6f55de401c5678767328ac2d6a8dd7e33a835ad8fec422ed775e5512ace4b2d80d-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="small">
+ <npcommid>NPWR15432_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Chicken Range Trophies</title-name>
+ <title-detail>The trophy set for Chicken Range</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>This is getting eggciting</name>
+  <detail>Score 1 or more Eggs in Level 1</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="-1">
+  <name>Eggcellent</name>
+  <detail>Complete all 15 Levels with 3 eggs</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="-1">
+  <name>An Eggspert shooter</name>
+  <detail>Achieve an accuracy of 95% or more (min 10 shots)</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Are you yolking?</name>
+  <detail>Achieve an accuracy of 10% or less (min 10 shots)</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Eggstraterrestrial</name>
+  <detail>Kill an enemy with the Alien Ray Gun</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Fried or scrambled?</name>
+  <detail>Kill an enemy with the Flame Thrower</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Eggceptional shooting</name>
+  <detail>Kill 200 basic enemies</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>The Poacher</name>
+  <detail>Kill 150 police enemies</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Scramble the Riot Police!</name>
+  <detail>Kill 100 riot enemies</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>Eggsterminate!</name>
+  <detail>Kill 75 robot enemies</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>Beat it Ninjas!</name>
+  <detail>Kill 50 ninja enemies</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="-1">
+  <name>Cracking Work!</name>
+  <detail>Kill 50 rocket enemies</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="-1">
+  <name>That's all yolks!</name>
+  <detail>Kill 50 helicopter enemies</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="-1">
+  <name>Go to shell Tanks!</name>
+  <detail>Kill 20 tank enemies</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="-1">
+  <name>Eggsplosive!</name>
+  <detail>Kill 20 bunker enemies</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,68 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000007b8d8c5a2955fac637057418558b26bcb08137779bce3c12e538b4553738e532fc31fbe4537ef612f7e006ea0158ee3d2436314c7e7a0787c3a01e597e3831dcf577985457b0f98d894d54b45693bc51b33a6edc86a762914a082c6c7d5b463e7ba3c04131b67a9a0475c9f832a2f7f3c94f683f0ce8b3013dd10b9a863d565c1ae79bde7892601b4f78ee2c49c2f9a4aceda69d-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR05800_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>MotoGP™13 Compact</title-name>
+ <title-detail>Trophy set for MotoGP™13 Compact</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Newcomer</name>
+  <detail>Reach GP Level 5</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Globe-trotter</name>
+  <detail>Complete one valid race on each track in the game</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>The real stuff</name>
+  <detail>Select the Pro Physics level in Riding Aids and complete a race</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Rain King</name>
+  <detail>Win in rainy conditions (Rain or Light Rain)</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Claiming Rule Team</name>
+  <detail>Win a MotoGP™ race with one of these bikes: ART, FTR, FTR Kawasaki, FTR Honda, Suter, PBM</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Pole Position</name>
+  <detail>Start an offline race from the Pole Position</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Kentucky Kid returns</name>
+  <detail>Win a race as N. Hayden on Laguna Seca</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Black Mamba</name>
+  <detail>Win a race as J. Lorenzo on Mugello</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Big in Japan</name>
+  <detail>Win a race as D. Pedrosa on Motegi</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>Creature from the Lagoon</name>
+  <detail>Win a race as V. Rossi on Laguna Seca</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>Texas Terror</name>
+  <detail>Win a race as B. Spies on the Circuit of the Americas</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="-1">
+  <name>The fastest</name>
+  <detail>Perform the fastest lap in an offline race</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="-1">
+  <name>Online Wild Card</name>
+  <detail>Complete an Online Grand Prix</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="-1">
+  <name>Like Marquez</name>
+  <detail>Win a race starting from the last position</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="-1">
+  <name>Doctor Who?</name>
+  <detail>Complete a Championship based on the official calendar in a better position than Valentino Rossi</detail>
+ </trophy>
+</trophyconf>

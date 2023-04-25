@@ -1,0 +1,188 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000007eddd945aa11b6fffb5ade23e0173e8f15ee7eef51bc3eeae3905b5fb506d8f6aa1f4e7f4df6d42ae02b2544da95e950d53a2b852ed453cf751e320744a678a3cd12c337eb79abd54f7f142648432496dc8d865307530c8ced8c8f5201652a392c5c834dade0d1384816edfdd6ad001eddc91c2a11f201b95a60e06af8450b966bf8e4c48c24f0b4607061b285dbc1571dd63a26-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR04763_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>ダンガンロンパ１・２ Reload</title-name>
+ <title-detail>ダンガンロンパ１・２ Reloadのトロフィーです</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>全トロフィー獲得</name>
+  <detail>プラチナ以外の全てのトロフィーを獲得する</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>プロローグクリア（ダンガンロンパ）</name>
+  <detail>「ダンガンロンパ」でプロローグをクリアする</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>チャプター1クリア（ダンガンロンパ）</name>
+  <detail>「ダンガンロンパ」でチャプター1をクリアする</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>チャプター2クリア（ダンガンロンパ）</name>
+  <detail>「ダンガンロンパ」でチャプター2をクリアする</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>チャプター3クリア（ダンガンロンパ）</name>
+  <detail>「ダンガンロンパ」でチャプター3をクリアする</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>チャプター4クリア（ダンガンロンパ）</name>
+  <detail>「ダンガンロンパ」でチャプター4をクリアする</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>チャプター5クリア（ダンガンロンパ）</name>
+  <detail>「ダンガンロンパ」でチャプター5をクリアする</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="G" pid="000">
+  <name>全チャプタークリア（ダンガンロンパ）</name>
+  <detail>「ダンガンロンパ」で全てのチャプターをクリアする</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>全員と親密度MAX（ダンガンロンパ）</name>
+  <detail>「ダンガンロンパ」で全生徒の通信簿を埋める</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>モノクマメダル999枚所持（ダンガンロンパ）</name>
+  <detail>「ダンガンロンパ」でモノクマメダルを999枚集める</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>プレゼントを全種類集めた（ダンガンロンパ）</name>
+  <detail>「ダンガンロンパ」でプレゼントを全て集める</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>スクールモードクリア</name>
+  <detail>スクールモードを1回クリアする</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>スクールモード全エンディングクリア</name>
+  <detail>スクールモードで全生徒のエンディングを見る</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>SP20突破（ダンガンロンパ）</name>
+  <detail>「ダンガンロンパ」でスキルポイントが20を突破する</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>SP30突破（ダンガンロンパ）</name>
+  <detail>「ダンガンロンパ」でスキルポイントが30を突破する</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>ノーダメージクリア（ダンガンロンパ）</name>
+  <detail>「ダンガンロンパ」のいずれかの学級裁判でダメージを１度も受けずにクリアする</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>ノーリトライクリア（ダンガンロンパ）</name>
+  <detail>「ダンガンロンパ」のいずれかの学級裁判でリトライを1回も行わずにクリアする</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>500ガヤ撃墜（ダンガンロンパ）</name>
+  <detail>「ダンガンロンパ」の学級裁判で雑音セリフを500回撃墜する</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>集中力ゲージを使わずにクリア（ダンガンロンパ）</name>
+  <detail>「ダンガンロンパ」のいずれかの学級裁判で集中力ゲージを使わずにクリアする</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>プロローグクリア（スーパーダンガンロンパ２）</name>
+  <detail>「スーパーダンガンロンパ２」でプロローグをクリアする</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="000">
+  <name>チャプター1クリア（スーパーダンガンロンパ２）</name>
+  <detail>「スーパーダンガンロンパ２」でチャプター1をクリアする</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>チャプター2クリア（スーパーダンガンロンパ２）</name>
+  <detail>「スーパーダンガンロンパ２」でチャプター2をクリアする</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="B" pid="000">
+  <name>チャプター3クリア（スーパーダンガンロンパ２）</name>
+  <detail>「スーパーダンガンロンパ２」でチャプター3をクリアする</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>チャプター4クリア（スーパーダンガンロンパ２）</name>
+  <detail>「スーパーダンガンロンパ２」でチャプター4をクリアする</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="000">
+  <name>チャプター5クリア（スーパーダンガンロンパ２）</name>
+  <detail>「スーパーダンガンロンパ２」でチャプター5をクリアする</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="G" pid="000">
+  <name>全チャプタークリア（スーパーダンガンロンパ２）</name>
+  <detail>「スーパーダンガンロンパ２」で全てのチャプターをクリアする</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="S" pid="000">
+  <name>全員と親密度MAX（スーパーダンガンロンパ２）</name>
+  <detail>「スーパーダンガンロンパ２」で全生徒の通信簿を埋める</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="S" pid="000">
+  <name>モノクマメダル999枚所持（スーパーダンガンロンパ２）</name>
+  <detail>「スーパーダンガンロンパ２」でモノクマメダルを999枚集める</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="S" pid="000">
+  <name>プレゼントを全種類集めた（スーパーダンガンロンパ２）</name>
+  <detail>「スーパーダンガンロンパ２」でプレゼントを全て集める</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="S" pid="000">
+  <name>全ての隠れモノクマを発見</name>
+  <detail>隠れモノクマを全て発見する</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="S" pid="000">
+  <name>全種類のペットを育て上げた</name>
+  <detail>ペットを全種類育て上げる</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="B" pid="000">
+  <name>アイランドモードクリア</name>
+  <detail>アイランドモードを1回クリアする</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="S" pid="000">
+  <name>アイランドモード全エンディングクリア</name>
+  <detail>アイランドモードで全生徒のエンディングを見る</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>レベル50突破</name>
+  <detail>日向創のレベルが50を突破する</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="S" pid="000">
+  <name>レベル99突破</name>
+  <detail>日向創のレベルが99を突破する</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>総歩数1000歩突破</name>
+  <detail>総歩数が1000歩突破する</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>総歩数5000歩突破</name>
+  <detail>総歩数が5000歩突破する</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="S" pid="000">
+  <name>総歩数10000歩突破</name>
+  <detail>総歩数が10000歩突破する</detail>
+ </trophy>
+ <trophy id="038" hidden="yes" ttype="B" pid="000">
+  <name>「魔法少女ミラクル★モノミ」全ステージクリア</name>
+  <detail>「魔法少女ミラクル★モノミ」で全ステージをクリアする</detail>
+ </trophy>
+ <trophy id="039" hidden="yes" ttype="S" pid="000">
+  <name>「魔法少女ミラクル★モノミ」アイテムを全種類集めた</name>
+  <detail>「魔法少女ミラクル★モノミ」で全てのアイテムを集める</detail>
+ </trophy>
+ <trophy id="040" hidden="yes" ttype="B" pid="000">
+  <name>ノベルクリア</name>
+  <detail>「ノベル」モードをクリアする</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="S" pid="000">
+  <name>ノーダメージクリア（スーパーダンガンロンパ２）</name>
+  <detail>「スーパーダンガンロンパ２」のいずれかの学級裁判でダメージを1度も受けずにクリアする</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="B" pid="000">
+  <name>ノーリトライクリア（スーパーダンガンロンパ２）</name>
+  <detail>「スーパーダンガンロンパ２」のいずれかの学級裁判でリトライを1回も行わずにクリアする</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="B" pid="000">
+  <name>500ガヤ撃墜（スーパーダンガンロンパ２）</name>
+  <detail>「スーパーダンガンロンパ２」の学級裁判で雑音セリフを500回撃墜する</detail>
+ </trophy>
+ <trophy id="044" hidden="no" ttype="B" pid="000">
+  <name>集中力ゲージを使わずにクリア（スーパーダンガンロンパ２）</name>
+  <detail>「スーパーダンガンロンパ２」のいずれかの学級裁判で集中力ゲージを使わずにクリアする</detail>
+ </trophy>
+</trophyconf>

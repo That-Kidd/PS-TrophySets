@@ -1,0 +1,220 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000dc5e61c619c29ec48e62052d227d88109970a8b953fed31a10a0a24e679d33a401fc591c1cd6cf4f9e5a874555500f812bddeada1a9c4af17218a18b56d825b3b668ebd1c102ac19e1e3b54fb7c95e16b529492b640d4ca042dccacbe3714a64ce4b326d94ed6a303aebfed3af4808d55b36cafea5ef731d87b7c1d89aaa394e41eac723b2458ed44315fc03cadd140f3f8aab90-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR02882_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Killzone™ Mercenary</title-name>
+ <title-detail>Trofeos de Killzone™ Mercenary</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Platino</name>
+  <detail>Consigue todos los trofeos.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Justicia impartida</name>
+  <detail>Completa el contrato de misión “Justicia para todos”.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Decodificado</name>
+  <detail>Completa el contrato de misión “Código de combate”.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Como un rayo</name>
+  <detail>Completa el contrato de misión “Ataque relámpago”.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>Política exterior</name>
+  <detail>Completa el contrato de misión “Incidente diplomático”.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>Entregado</name>
+  <detail>Completa el contrato de misión “El paquete”.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>Apagón</name>
+  <detail>Completa el contrato de misión “Luces fuera”.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>Facciones unidas</name>
+  <detail>Completa el contrato de misión “Toma hostil”.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>Objetivo adquirido</name>
+  <detail>Completa el contrato de misión “Dinero manchado de sangre”.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>Resolución</name>
+  <detail>Completa todos los contratos de misión.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>Por encima y más allá</name>
+  <detail>Completa todos los contratos de misión en dificultad veterano.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>Oscurecido</name>
+  <detail>Completa todos los contratos encubiertos.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>Casa limpia</name>
+  <detail>Completa todos los contratos de demolición.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>Ejecución perfecta</name>
+  <detail>Completa todos los contratos de precisión.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="000">
+  <name>Dedicación a la causa</name>
+  <detail>Completa todos los contratos de Encubierto, Demolición y Precisión.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>Informe completo</name>
+  <detail>Consigue todos los elementos de datos de inteligencia.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Firewall desactivado</name>
+  <detail>Completa un pirateo de VAN-Guard sin cometer errores.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Bienvenido</name>
+  <detail>Visita el arsenal de Blackjack durante una misión.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>Deflector</name>
+  <detail>Realiza un gesto de contraataque cuerpo a cuerpo brutal en multijugador.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Cadena de suministro</name>
+  <detail>Recoge el contenido de 10 cápsulas VAN-Guard en multijugador.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>Antiaéreo</name>
+  <detail>Acaba con 10 robots VAN-Guard enemigos en multijugador.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>Novato</name>
+  <detail>Completa una ronda de partida multijugador.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>Centurión</name>
+  <detail>Completa 100 rondas de partidas multijugador.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>Estrellado</name>
+  <detail>Recupérate después de que un enemigo te administre un tranquilizante.</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>De rondas</name>
+  <detail>Gana al menos una ronda de todos los modos de juego multijugador.</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>¡Atención!</name>
+  <detail>Muere aplastado por una cápsula VAN-Guard entrante.</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>Redentor</name>
+  <detail>Rescata a un compañero herido en multijugador.</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>Aparta tus sucias manos</name>
+  <detail>Mata a un enemigo mientras esté interrogando a un compañero de equipo en multijugador.</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>¿Es seguro?</name>
+  <detail>Interroga a un enemigo.</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>¡Bum! ¡En la cabeza!</name>
+  <detail>Logra 1000 tiros a la cabeza.</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>Al filo de la navaja</name>
+  <detail>Realiza un cuerpo a cuerpo brutal con 12 enemigos consecutivos.</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>Francotirador</name>
+  <detail>Mata a un enemigo desde lejos.</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>As de ases</name>
+  <detail>Alcanza la clasificación as en las cartas de valor.</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="S" pid="000">
+  <name>Coleccionista de cartas</name>
+  <detail>Consigue todas las cartas de valor.</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="S" pid="000">
+  <name>Millonario</name>
+  <detail>Gana 1 000 000 de dólares Vektan.</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>Máquina de matar</name>
+  <detail>Consigue 10 muertes consecutivas en multijugador.</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>Ghost</name>
+  <detail>Acaba con un enemigo con un cuerpo a cuerpo brutal por la espalda usando el VAN-Guard Ghost.</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>Banco de sangre</name>
+  <detail>Mata a 10 000 enemigos.</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>Quiero eso</name>
+  <detail>Compra algo en el arsenal de Blackjack.</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="000">
+  <name>Cliente preferido</name>
+  <detail>Compra todo lo que esté disponible en la armería de Blackjack.</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="B" pid="000">
+  <name>Maestro de armas</name>
+  <detail>Usa todas las armas, granadas, armaduras y VAN-Guard disponibles en la armería de Blackjack.</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="B" pid="000">
+  <name>Perfil bajo</name>
+  <detail>Accede al centro de seguridad sin activar la alarma en "Justicia para todos".</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="B" pid="000">
+  <name>Datos cruzados</name>
+  <detail>Interroga al capitán en la cámara del juez y salva a su rehén en "Justicia para todos".</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="B" pid="000">
+  <name>Hombre contra máquina</name>
+  <detail>Destruye el tanque Helghast sin usar una carga explosiva en "Justicia para todos".</detail>
+ </trophy>
+ <trophy id="044" hidden="no" ttype="B" pid="000">
+  <name>Inserción frustrada</name>
+  <detail>Mata a todas las tropas antes de que bajen de su nave.</detail>
+ </trophy>
+ <trophy id="045" hidden="no" ttype="B" pid="000">
+  <name>Daños colaterales considerados</name>
+  <detail>Completa “El paquete” sin bajas civiles.</detail>
+ </trophy>
+ <trophy id="046" hidden="no" ttype="B" pid="000">
+  <name>Raquero</name>
+  <detail>Destruye todos los percebes en "El paquete".</detail>
+ </trophy>
+ <trophy id="047" hidden="no" ttype="B" pid="000">
+  <name>No hay vuelta a casa</name>
+  <detail>Destruye la nave de extracción Helghast en "Luces fuera".</detail>
+ </trophy>
+ <trophy id="048" hidden="yes" ttype="B" pid="000">
+  <name>Verdugo</name>
+  <detail>Asegúrate de que el Dr. Savic muera en "Toma hostil".</detail>
+ </trophy>
+ <trophy id="049" hidden="yes" ttype="B" pid="000">
+  <name>Indulto</name>
+  <detail>Asegúrate de que el Dr. Savic viva en "Toma hostil".</detail>
+ </trophy>
+ <trophy id="050" hidden="no" ttype="B" pid="000">
+  <name>Recién hecho</name>
+  <detail>Quema a un enemigo en el incinerador del laboratorio 01 en "Dinero manchado de sangre".</detail>
+ </trophy>
+ <trophy id="051" hidden="yes" ttype="B" pid="000">
+  <name>Para estar seguro</name>
+  <detail>Encierra a la almirante en la cámara y detona las cargas en "Dinero manchado de sangre".</detail>
+ </trophy>
+ <trophy id="052" hidden="yes" ttype="B" pid="000">
+  <name>Desde cerca</name>
+  <detail>Logra un ataque cuerpo a cuerpo por la espalda a Benoit en "Herida de salida".</detail>
+ </trophy>
+</trophyconf>

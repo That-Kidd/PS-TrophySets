@@ -1,0 +1,188 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000b20c9a7ae4845913bd799f237f285c95a1e1487d1a8a8341367bbd900e144e5b2285f1574679d1b6deb9352d34857394bdc5f90f093858cf0baf2bfa0ab23f91639cf59e3c15a8a63d06ce0fb77b0f8ee71777ca2c2c212176480f30b6ee489e95c6599ba715fc76584fbb730a2385e5af090e0468bb2cd7cf1aba5a64f4463570d2707dbd01c5a412e55e17a19e005127f424a0-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR09688_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>東方蒼神縁起V</title-name>
+ <title-detail>東方蒼神縁起はRPGです</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>東方蒼神縁起V完全制覇</name>
+  <detail>これ以外の全てのトロフィーを集めた</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>人民熱烈歓迎</name>
+  <detail>ストーリー進行：中国撃破</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>ヴァンパイアキラー</name>
+  <detail>ストーリー進行：レミィ/にとり撃破</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>アリスゲーム</name>
+  <detail>ストーリー進行：アリス撃破</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>便利なアイテムを入手した！</name>
+  <detail>ストーリー進行：さとり撃破</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>ゴーストハンター</name>
+  <detail>ストーリー進行：妖夢/幽々子撃破</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>きゃん！</name>
+  <detail>ストーリー進行：小町撃破</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>向日葵畑の勇者</name>
+  <detail>ストーリー進行：メディスン/幽香撃破</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>永遠亭を荒らす者</name>
+  <detail>ストーリー進行：うどんげ/てゐ撃破</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="000">
+  <name>たすけて、えーりん！</name>
+  <detail>ストーリー進行：輝夜/永琳撃破</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="000">
+  <name>ゴッドスレイヤー</name>
+  <detail>ストーリー進行：諏訪子/神奈子撃破</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>非想非非想天の娘</name>
+  <detail>ストーリー進行：天子撃破</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="B" pid="000">
+  <name>まずはあのカメを始末してやろう</name>
+  <detail>ストーリー進行：玄爺撃破</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="000">
+  <name>湖底神殿の番人</name>
+  <detail>ストーリー進行：玄爺／松葉撃破</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="B" pid="000">
+  <name>奴は三給仕の中でも最弱の部類</name>
+  <detail>ストーリー進行：三給仕撃破</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>鰐神アナスタシス</name>
+  <detail>ストーリー進行：アナスタシス撃破</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>亀神ヴィオトポス</name>
+  <detail>ストーリー進行：ヴィオトポス撃破</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>蛇神リトス</name>
+  <detail>ストーリー進行：リトス撃破</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>蒼神異変</name>
+  <detail>ストーリー進行：ストーリーボス撃破</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="S" pid="000">
+  <name>究極生命体三女神の誕生だァ！</name>
+  <detail>ストーリー進行：完全態のストーリーボス撃破</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="000">
+  <name>雛祭り</name>
+  <detail>ストーリー進行：雛撃破</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>暗黒界を征するもの</name>
+  <detail>ストーリー進行：全てを憎むもの撃破</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="S" pid="000">
+  <name>怨嗟異変</name>
+  <detail>ストーリー進行：怨嗟異変解決</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="G" pid="000">
+  <name>すべてをクリアするもの</name>
+  <detail>ストーリー進行：クエスト全クリア</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="G" pid="000">
+  <name>香霖堂の主</name>
+  <detail>全アイテム取得</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="G" pid="000">
+  <name>完成！　文々。新聞</name>
+  <detail>全ザコモンスター討伐</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="G" pid="000">
+  <name>あなたのスキルも私のもの・・・</name>
+  <detail>悟れる全てのスキルを取得した</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="S" pid="000">
+  <name>トレジャーハンター</name>
+  <detail>全宝箱オープン</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="S" pid="000">
+  <name>有能な司令官</name>
+  <detail>全陣形取得</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="S" pid="000">
+  <name>博麗の錬金術士</name>
+  <detail>全ての錬金装備を作成した</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="B" pid="000">
+  <name>なっ！何をするだァーッ！</name>
+  <detail>犬系モンスターにアリスでキックを入れる</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="B" pid="000">
+  <name>河童の科学力は世界一ィ！！</name>
+  <detail>にとりのラストワードでゆっくり系を撃破した</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="B" pid="000">
+  <name>もうやめて！勇儀！</name>
+  <detail>「狂戦鬼の魂」発動中に「蟲族」モンスターを撃破</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>エクスターミネーター</name>
+  <detail>「ターミネーター」を撃破した</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>道場破り</name>
+  <detail>「トライローキャヴィジャヤ」を撃破した</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>強者</name>
+  <detail>「エルダードラゴン」を撃破した</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>大帝</name>
+  <detail>「デミウルゴスNEO」を撃破した</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>大天使キラー</name>
+  <detail>「アークエンジェル」を撃破した</detail>
+ </trophy>
+ <trophy id="038" hidden="yes" ttype="B" pid="000">
+  <name>イカの密猟者</name>
+  <detail>メンタルフレイヤー系を累計100体倒した</detail>
+ </trophy>
+ <trophy id="039" hidden="yes" ttype="B" pid="000">
+  <name>くやんではいけません</name>
+  <detail>初めて全滅した</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="B" pid="000">
+  <name>楽園の巫女</name>
+  <detail>レベルが70になった</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="S" pid="000">
+  <name>永遠の巫女</name>
+  <detail>レベルが99になった</detail>
+ </trophy>
+ <trophy id="042" hidden="yes" ttype="B" pid="000">
+  <name>きさまこのゲームやり込んでいるなッ！</name>
+  <detail>プレイ時間が100時間を超えた</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="B" pid="000">
+  <name>歴戦の猛者</name>
+  <detail>モンスター5000体撃破</detail>
+ </trophy>
+ <trophy id="044" hidden="no" ttype="B" pid="000">
+  <name>ダメージを極めし者</name>
+  <detail>10000ダメージ以上を出した</detail>
+ </trophy>
+</trophyconf>

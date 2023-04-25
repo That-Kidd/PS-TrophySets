@@ -1,0 +1,256 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000000d36521ec51e0996bdd3b9b34ade5edea9a93b63c00802452afac2618d255dc54c4a1277ebf49312712357bd0a3cbbf3a52d6a39d74a824a609fc2864b10a1a9eec735d483a2b162480baa0a9ee453c73cc1b82a2f5312401fec2b6466a4acfad68b6c6e202448cedcf4e24bb0f09cd35e8d6bbd4aa82c0c548902259265d02781fc30e57f80e21782634cb4859ef8c4a3e38c7b-->
+<trophyconf version="1.1" platform="ps3,psp2,ps4" policy="large">
+ <npcommid>NPWR06370_00</npcommid>
+ <trophyset-version>01.03</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Escape Dead Island</title-name>
+ <title-detail>The trophy set for Escape Dead Island</title-detail>
+ <group id="001">
+  <name>Underwater Labs</name>
+  <detail>The trophy set for Underwater Labs</detail>
+ </group>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Pure Platinum</name>
+  <detail>Acquire all other trophies.</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="G" pid="000">
+  <name>What A Trip!</name>
+  <detail>Complete the game.</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="S" pid="000">
+  <name>And Back Again</name>
+  <detail>Complete new game+.</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="S" pid="000">
+  <name>Undercover</name>
+  <detail>Complete the prologue.</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="S" pid="000">
+  <name>Bon Voyage</name>
+  <detail>Complete Mission 1 - Smooth Sailing.</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="S" pid="000">
+  <name>Welcome To The Jungle</name>
+  <detail>Complete Mission 2 - One Less Boat.</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="000">
+  <name>Hard Rain</name>
+  <detail>Complete Mission 3 - Echoes.</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>A For Effort</name>
+  <detail>Complete Mission 4 - Marathon.</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>Live Together, Die Alone</name>
+  <detail>Complete Mission 5 - A Fighting Chance.</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>Sign Of Good Faith</name>
+  <detail>Complete Mission 6 - Stories of the Dead.</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>Autodefenestration</name>
+  <detail>Complete Mission 7 - Beauty And The Beast.</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>On The Rocks</name>
+  <detail>Complete Mission 8 - Devan.</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>Showdown</name>
+  <detail>Complete Mission 9 - Father's Day.</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>Crossing The Rubicon</name>
+  <detail>Complete Mission 10 - Faith.</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>Mind Over Mind</name>
+  <detail>Complete Mission 11 - Deliverance.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>The Narapela Massacre</name>
+  <detail>Kill 100 zombies in total.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Zombie Killing 101</name>
+  <detail>Kill 50 zombies using a melee weapon.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Dead Is Dead</name>
+  <detail>Execute 25 downed zombies.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>Deadly Arts</name>
+  <detail>Stealth kill 25 zombies.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Deadeye</name>
+  <detail>Kill 25 zombies with pistol headshots.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>Bloodsplosion</name>
+  <detail>Kill 10 zombies with close range shotgun blasts.</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>Blunt Trauma</name>
+  <detail>Acquire your first melee weapon.</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="B" pid="000">
+  <name>Hatchet Man</name>
+  <detail>Upgrade your melee weapon.</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>A Real Weapon</name>
+  <detail>Upgrade your melee weapon again!</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="000">
+  <name>Top Of The Line</name>
+  <detail>Upgrade your melee weapon for the third time. Yeah!</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="B" pid="000">
+  <name>Improvised Assassin</name>
+  <detail>Acquire your first stealth kill weapon.</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>Cutting Edge</name>
+  <detail>Upgrade your stealth kill weapon.</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="B" pid="000">
+  <name>Armed And Ready</name>
+  <detail>Acquire the pistol.</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="B" pid="000">
+  <name>Silent Death</name>
+  <detail>Upgrade the pistol.</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="B" pid="000">
+  <name>Buckshot Ballet</name>
+  <detail>Acquire the shotgun.</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="B" pid="000">
+  <name>Power To The People</name>
+  <detail>Upgrade the shotgun.</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>Mid-Air Mutilation</name>
+  <detail>Kill an airborne Bouncer.</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>Right Back At Ya!</name>
+  <detail>Kill 10 Spitters with a ranged weapon.</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>Oh Shut Up!</name>
+  <detail>Kill 5 Sirens while they are screaming.</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>Learn The Ropes</name>
+  <detail>Acquire the rope.</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>Anchorman</name>
+  <detail>Acquire the grappling hook.</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>Through The Mist</name>
+  <detail>Acquire the gas mask.</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>Lightbringer</name>
+  <detail>Acquire the combat flashlight.</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>Shutterbug</name>
+  <detail>Acquire the camera.</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="000">
+  <name>The Butcher Of Narapela</name>
+  <detail>Kill 10 Butchers.</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="B" pid="000">
+  <name>Voice Com</name>
+  <detail>Acquire the two-way radio.</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="S" pid="000">
+  <name>Super Sleuth</name>
+  <detail>Collect all lost stories.</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="B" pid="000">
+  <name>Horror Stories</name>
+  <detail>Collect all research logs.</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="B" pid="000">
+  <name>The Puppet Master</name>
+  <detail>Collect all Charon's logs.</detail>
+ </trophy>
+ <trophy id="044" hidden="no" ttype="B" pid="000">
+  <name>Card Collector</name>
+  <detail>Collect all postcards.</detail>
+ </trophy>
+ <trophy id="045" hidden="no" ttype="B" pid="000">
+  <name>What Happened, Happened</name>
+  <detail>Collect all snapshots.</detail>
+ </trophy>
+ <trophy id="046" hidden="no" ttype="B" pid="000">
+  <name>Locked And Loaded</name>
+  <detail>Collect 25 ammo packs.</detail>
+ </trophy>
+ <trophy id="047" hidden="no" ttype="B" pid="000">
+  <name>Conviction</name>
+  <detail>Kill 5 enemies in 2 seconds.</detail>
+ </trophy>
+ <trophy id="048" hidden="no" ttype="S" pid="000">
+  <name>Wow Much Ninja Very Sneak</name>
+  <detail>Kill 10 enemies in a row without being detected.</detail>
+ </trophy>
+ <trophy id="049" hidden="no" ttype="B" pid="000">
+  <name>Thrillseeker</name>
+  <detail>Recover to max health from minimum health.</detail>
+ </trophy>
+ <trophy id="050" hidden="no" ttype="B" pid="000">
+  <name>The Smorgasbord</name>
+  <detail>Injure a single zombie with your melee weapon, the pistol and the shotgun, then stealth kill it.</detail>
+ </trophy>
+ <trophy id="051" hidden="no" ttype="S" pid="-1" gid="001">
+  <name>Deep One</name>
+  <detail>Find all the underground secondary areas</detail>
+ </trophy>
+ <trophy id="052" hidden="no" ttype="S" pid="-1" gid="001">
+  <name>Lab Rat</name>
+  <detail>Find The underground labs</detail>
+ </trophy>
+ <trophy id="053" hidden="no" ttype="S" pid="-1" gid="001">
+  <name>Praise The Light!</name>
+  <detail>Complete the underground labs</detail>
+ </trophy>
+ <trophy id="054" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>Lil Slugger</name>
+  <detail>Acquire the walloper</detail>
+ </trophy>
+ <trophy id="055" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>Duty Calls</name>
+  <detail>Acquire the assault rifle</detail>
+ </trophy>
+ <trophy id="056" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>Hail Mary</name>
+  <detail>Kill 10 enemies at long range with the walloper</detail>
+ </trophy>
+ <trophy id="057" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>Blaster From The Past</name>
+  <detail>Kill 100 enemies with the assault rifle</detail>
+ </trophy>
+ <trophy id="058" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>Memorial</name>
+  <detail>Collect all of Ronald's logs</detail>
+ </trophy>
+ <trophy id="059" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>It's Super Effective!</name>
+  <detail>Kill a Dweller using an environmental hazard</detail>
+ </trophy>
+ <trophy id="060" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>Apex Predator</name>
+  <detail>Stealth kill a Dweller</detail>
+ </trophy>
+</trophyconf>

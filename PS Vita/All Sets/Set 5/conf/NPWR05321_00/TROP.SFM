@@ -1,0 +1,136 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000008dbaa18ba80b8f5f6a49678fc557185016ce8da608c7e164529d3dece80e81ccaf5ca7b6d990af51057c3b701b77623213b4aea30fa1e29555ee4c84463051096e269dd5ec65703927c89b2b52df41535cd3fd978d6ecbee59522fe56281e39668487df26d9e17e91482144f5f835955b7caa6c6aa1bb131af713bb85c6d51f8663768b2f166e8784387643c75b83439b34ee8d6-->
+<trophyconf version="1.1" platform="ps3,psp2" policy="large">
+ <npcommid>NPWR05321_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>真・ガンダム無双</title-name>
+ <title-detail>真・ガンダム無双のトロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>究極のガンダム無双</name>
+  <detail>真・ガンダム無双のトロフィーをすべてロック解除する</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>撃墜王</name>
+  <detail>総撃墜数が10000機を突破する</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>伝説の撃墜王</name>
+  <detail>総撃墜数が100000機を突破する</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>ジオン十字勲章</name>
+  <detail>総プレイ回数が100回を突破する</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>ネビュラ勲章</name>
+  <detail>総プレイ回数が200回を突破する</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>ラスト・シューティング</name>
+  <detail>オフィシャルモード「機動戦士ガンダム」をクリアする</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>星の鼓動は愛</name>
+  <detail>オフィシャルモード「機動戦士Ｚガンダム」をクリアする</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>νガンダムは伊達じゃない！</name>
+  <detail>オフィシャルモード「機動戦士ガンダム　逆襲のシャア」をクリアする</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>受け止めなさい、バナージ</name>
+  <detail>オフィシャルモード「機動戦士ガンダムＵＣ」をクリアする</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>終わらない明日へ</name>
+  <detail>オフィシャルモード「機動戦士ガンダムＳＥＥＤ」をクリアする</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>最後の力</name>
+  <detail>オフィシャルモード「機動戦士ガンダムＳＥＥＤ　ＤＥＳＴＩＮＹ」をクリアする</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>オフィシャルマスター</name>
+  <detail>オフィシャルモードをすべてクリアする</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>演習終了</name>
+  <detail>オペレーション「シミュレーションをこなせ！」をクリアする</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>駆け出しパイロット</name>
+  <detail>アルティメットモードのオペレーションを5個クリアする</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>準エースパイロット</name>
+  <detail>アルティメットモードのオペレーションを10個クリアする</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>エースパイロット</name>
+  <detail>アルティメットモードのオペレーションを20個クリアする</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="G" pid="000">
+  <name>真のガンダム無双</name>
+  <detail>オペレーション「真のガンダム無双」をクリアする</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>初めての研究</name>
+  <detail>モビルスーツ研究所の強化・合成を初めて行う</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>研究者魂</name>
+  <detail>モビルスーツ研究所の強化・合成回数が1000回に到達する</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="G" pid="000">
+  <name>パイロット集結</name>
+  <detail>すべてのプレイ可能なキャラクターが使用可能になる</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="G" pid="000">
+  <name>パートナー集結</name>
+  <detail>すべての設定可能なパートナーが使用可能になる</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="G" pid="000">
+  <name>モビルスーツ集合</name>
+  <detail>すべてのプレイ可能なモビルスーツが使用可能になる</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>キャラクター好き</name>
+  <detail>キャラクターギャラリーを半分以上解禁する</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>キャラクターコレクター</name>
+  <detail>キャラクターギャラリーをコンプリートする</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>モビルスーツ・戦艦好き</name>
+  <detail>モビルスーツ・戦艦ギャラリーを半分以上解禁する</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="S" pid="000">
+  <name>モビルスーツ・戦艦コレクター</name>
+  <detail>モビルスーツ・戦艦ギャラリーをコンプリートする</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>カード好き</name>
+  <detail>カード収集率が10％に到達する&#x0a;</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>カード自慢</name>
+  <detail>カード収集率が25％に到達する</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>駆け出しカードコレクター</name>
+  <detail>カード収集率が40％に到達する</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>一端のカードコレクター</name>
+  <detail>カード収集率が60％に到達する</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="S" pid="000">
+  <name>一流カードコレクター</name>
+  <detail>カード収集率が80％に到達する</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="G" pid="000">
+  <name>真のカードコレクター</name>
+  <detail>カード収集率が100％に到達する</detail>
+ </trophy>
+</trophyconf>

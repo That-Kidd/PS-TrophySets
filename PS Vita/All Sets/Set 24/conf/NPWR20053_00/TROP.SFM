@@ -1,0 +1,60 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000d88ce4ca68a7fee751adb2670128454fef08a00548730c79ffd9d8f9e6d97a77fc2a9ebea9510200ce0ddbc3d58320b740337209afef83f8e6607a5c68a672a14c6bb0df44897e3e2ed05f7bb9707c657c115dbd596ac5d19030e56a8fe834711b6e12187a43f1c16fd574a11bef519c41076d2c3935e15d0d646db4553598757705e8ad13562c23c7ea9dfe909c7d54b1ed162c-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR20053_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Blind Men</title-name>
+ <title-detail>Blind Men</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Platinum Men</name>
+  <detail>Get all other trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="000">
+  <name>American Dreamboat</name>
+  <detail>Play at least one of Hunter's routes.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>Soviet, so fine</name>
+  <detail>Play at least one of Sergei's routes.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>Hunter's Ending Collector</name>
+  <detail>Play all of Hunter's routes.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>Sergei's Ending Collector</name>
+  <detail>Play all of Sergei's routes.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>Diamonds are a spy's best friend</name>
+  <detail>Steal the diamond and reach Hunter's A ending.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>No, I expect you to date me</name>
+  <detail>Steal the diamond and reach Hunter's B ending.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>For your eyes only</name>
+  <detail>Kidnap the professor and reach Hunter's A ending.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>It's a new life for me</name>
+  <detail>Kidnap the professor and reach Hunter's B ending.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>From Russia, with love</name>
+  <detail>Steal the diamond and reach Sergei's A ending.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>Caught red-handed</name>
+  <detail>Steal the diamond and reach Sergei's B ending.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>The pleasure will be all mine</name>
+  <detail>Kidnap the professor and reach Sergei's A ending.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>Big, bad and mine</name>
+  <detail>Kidnap the professor and reach Sergei's B ending.</detail>
+ </trophy>
+</trophyconf>

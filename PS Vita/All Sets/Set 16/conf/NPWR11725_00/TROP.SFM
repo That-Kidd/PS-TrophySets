@@ -1,0 +1,76 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000dc9f7faf20d120ed116a03c5f9efa8d6f5b1ac1374dcad465550698b79b6515be5ef469b8b030a17c37fdac9bff6519ed939e86c124a7d0d06392f6af67e02ddf9e43db6a7319e4ac5aadd04cbd51fce0ee47905ef3c4a1fbdba8a0ead2bfc27cbe6151354b24d2266b53d9aafaef1b9308197bf4758b2d479822f78d62ecc9d6a3d0ec20a366e5327575f19e41e08ab33bf5bb8-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR11725_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>はつゆきさくら</title-name>
+ <title-detail>『はつゆきさくら』トロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>GHOST×GRADUATION</name>
+  <detail>『はつゆきさくら』を全てプレイしていただき、ありがとうございました</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>街案内</name>
+  <detail>最初の場所移動選択をおこなう</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>初雪から桜まで</name>
+  <detail>グランドＯＰを観る</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="G" pid="000">
+  <name>プロローグ</name>
+  <detail>プロローグを読み終えた</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="G" pid="000">
+  <name>こんな街には、価値はない</name>
+  <detail>桜ルートを読み終えた</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="G" pid="000">
+  <name>まかのろんさ</name>
+  <detail>綾ルートを読み終えた</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="G" pid="000">
+  <name>ゴーストダンス</name>
+  <detail>夜ルートを読み終えた</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="G" pid="000">
+  <name>ホワイトグラデュエーションの名にかけてっ！</name>
+  <detail>希ルートを読み終えた</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="G" pid="000">
+  <name>グルルシロ！</name>
+  <detail>シロクマルートを読み終えた</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>この街に、一人飯を食う者達がいる</name>
+  <detail>一人飯ルートを読み終えた</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>リーダーって誰だ？</name>
+  <detail>竹田ルートを読み終えた</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>河野っちってじゅんすーい</name>
+  <detail>金崎ルートを読み終えた</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>雪よふれふれもっとふれ</name>
+  <detail>BADルートを読み終えた</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="G" pid="000">
+  <name>光の向こうへ</name>
+  <detail>Graduationルートを読み終えた</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="G" pid="000">
+  <name>卒業おめでとう</name>
+  <detail>Graduation TRUEルートを読み終えた</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="G" pid="000">
+  <name>BGMコンプリート</name>
+  <detail>全てのBGMを聴いた</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="G" pid="000">
+  <name>CGコンプリート</name>
+  <detail>全てのイベントCGを見た</detail>
+ </trophy>
+</trophyconf>

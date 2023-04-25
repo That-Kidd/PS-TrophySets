@@ -1,0 +1,80 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000002ee76999ddf7cb2ed99c3da7fa985f1909162e6625f68d192b5941ee949e6d276d91fc7773e0c8ae78ce2010435da47c8d2fdb67883808e0f0cea0dc4897d5ca44c5b814d7ada4810cc9de9fcf99b32bd4e0e8855023816c477a2ac882b7e01e9fb7f3ca7c47389b32e3a95e16d124a842e1ed0818e41c04987d253da8014291952eb4afcff9204f807272b415b6e1a09c174f7d-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR04996_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Z-Run</title-name>
+ <title-detail>Z-Run Shiny trophies</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>So It Begins...</name>
+  <detail>Complete any non-tutorial level</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="-1">
+  <name>Determined</name>
+  <detail>Died 100 times and still here</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Zombies, Shmombies...</name>
+  <detail>Kill over 1000 zombies</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Survivor</name>
+  <detail>Get x5 score-multiplier</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Boom!</name>
+  <detail>Kill 5 or more zombies in one shot</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Untouchable</name>
+  <detail>Complete level without taking any damage</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Pacifist</name>
+  <detail>Complete level without killing a single zombie</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Brawler</name>
+  <detail>Kill 20 zombies in a row using only melee attacks</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Kicker</name>
+  <detail>Kill 20 zombies in a row using only slide-kick attacks</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>Gunslinger</name>
+  <detail>Kill 50 zombies in a row using only firearms</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>Smasher</name>
+  <detail>Kill 30 zombies in a row using only blunt weapons</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="-1">
+  <name>Weapons? I have them All!</name>
+  <detail>Acquire all the available weapons</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="-1">
+  <name>I Can Use It Again And Again!</name>
+  <detail>Retrieve five crossbow bolts from dead zombies</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="-1">
+  <name>Supernatural</name>
+  <detail>Upgrade all player abilities to maximum levels</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="-1">
+  <name>Explorer</name>
+  <detail>Complete every level available in the game</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="-1">
+  <name>That Was Easy</name>
+  <detail>Complete game on easy difficulty</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="-1">
+  <name>Done</name>
+  <detail>Complete game on normal difficulty</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="-1">
+  <name>Real Survivor</name>
+  <detail>Complete game on hard difficulty</detail>
+ </trophy>
+</trophyconf>

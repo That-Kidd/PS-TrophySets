@@ -1,0 +1,140 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000b9dc34ab3cf421f350713fa171a28ddb629495efa9d8207f26d0dee75cfd755daf3a24bd25d3ac26571a5f0a7e2e5eb7321965147e24314aa325b242f1b72dd7a93875988c52ad9c2a22b369c61b2213899fb2c4573817c148dd4413620e8264b0d0d93569b0b0768349c4b4df232257ce00437f061e97271954e8b307032f6d239128db05b8766ea7b09ea0efc50e3ce9463ac7-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR07004_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>戦場の円舞曲</title-name>
+ <title-detail>「戦場の円舞曲」トロフィーリスト</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>戦場の円舞曲</name>
+  <detail>全てのトロフィーを獲得した</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>覚醒め</name>
+  <detail>序章をクリアした</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>新しい生活の始まり</name>
+  <detail>1章をクリアした</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>模擬戦の日</name>
+  <detail>2章をクリアした</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>少しは慣れた？</name>
+  <detail>3章をクリアした</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>野営練習経験者</name>
+  <detail>4章をクリアした</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>決意</name>
+  <detail>共通ルートをクリアした</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>黒の国の王妃</name>
+  <detail>アベルルートでグッドエンドを迎えた</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>ヴァイアザールの王妃</name>
+  <detail>ラスティンルートでグッドエンドを迎えた</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>一番大事な宝物</name>
+  <detail>パシュルートでグッドエンドを迎えた</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>旅立ち</name>
+  <detail>ニケルートでグッドエンドを迎えた</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>幻を越えて</name>
+  <detail>ティファレトルートでグッドエンドを迎えた</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="B" pid="000">
+  <name>エンシェントメモリー</name>
+  <detail>ヴィルヘルムルートを開放した</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>もうガキじゃない！</name>
+  <detail>ヴィルヘルムルートでグッドエンドを迎えた</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>幸せな結末達</name>
+  <detail>すべてのグッドエンディングを見た</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="G" pid="000">
+  <name>魔剣の物語</name>
+  <detail>全てのエンディングを見た</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>アベルの虜</name>
+  <detail>アベルのギャラリーをすべてオープンした</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>ラスティンの虜</name>
+  <detail>ラスティンのギャラリーをすべてオープンした</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>パシュの虜</name>
+  <detail>パシュのギャラリーをすべてオープンした</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="000">
+  <name>ニケの虜</name>
+  <detail>ニケのギャラリーをすべてオープンした</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>ティファレトの虜</name>
+  <detail>ティファレトのギャラリーをすべてオープンした</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>ヴィルヘルムの虜</name>
+  <detail>ヴィルヘルムのギャラリーをすべてオープンした</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>少女の記録</name>
+  <detail>ストーリーのギャラリーをすべてオープンした</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>オルテシアの記録</name>
+  <detail>その他のギャラリーをすべてオープンした</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>アベルの秘密</name>
+  <detail>アベルのショップアイテムをすべて購入した</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="S" pid="000">
+  <name>ラスティンの秘密</name>
+  <detail>ラスティンのショップアイテムをすべて購入した</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="S" pid="000">
+  <name>パシュの秘密</name>
+  <detail>パシュのショップアイテムをすべて購入した</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="S" pid="000">
+  <name>ニケの秘密</name>
+  <detail>ニケのショップアイテムをすべて購入した</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="S" pid="000">
+  <name>ティファレトの秘密</name>
+  <detail>ティファレトのショップアイテムをすべて購入した</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="S" pid="000">
+  <name>ヴィルヘルムの秘密</name>
+  <detail>ヴィルヘルムのショップアイテムをすべて購入した</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>サブキャラと呼ばないで</name>
+  <detail>サブキャラのショップアイテムをすべて購入した</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="G" pid="000">
+  <name>シャオレイのお得意様</name>
+  <detail>ショップアイテムをすべて購入した</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="G" pid="000">
+  <name>あなたのクロニクル</name>
+  <detail>クロニクルをすべて埋めた</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,56 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000348b48cf0c9917b04200504ba2168cc13b4736b933042b573c7c9a113f56a54e439590c46e4a68d44616ca54e9a4595c8c3b41310eb49d4190321a49f20e2b45c3ff96b45577ffa0a3106fb5e466b03e72d8a68642d222d4197ab76a61ca9f3a521ec09862421d421f3ba41b177abd13c31169fcf2e2c47682c60052a0b7e833d24ae76565969b5cc126626c5ba7839af99c3cce-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="small">
+ <npcommid>NPWR14103_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Dead Ahead: Zombie Warfare</title-name>
+ <title-detail>Trophy set for Dead Ahead: Zombie Warfare</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Clear Victory</name>
+  <detail>Complete any mission with 3 stars</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Death from the Skies</name>
+  <detail>Kill any zombie with a blue barrel</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>First Upgrade</name>
+  <detail>Upgrade any unit</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Experienced Survivor</name>
+  <detail>Kill 100 zombies</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Bill to the Rescue</name>
+  <detail>Kill any zombie with a machine gun</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>First Pack</name>
+  <detail>Open a military pack</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Trade Finished</name>
+  <detail>Buy any item from the merchant</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="-1">
+  <name>Molotov as Intended</name>
+  <detail>Kill Undead with a Molotov cocktail</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="-1">
+  <name>Collector</name>
+  <detail>Find 20 items</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="-1">
+  <name>No Exit</name>
+  <detail>Meet the Robber</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="-1">
+  <name>Frozen Meat</name>
+  <detail>Use nitrogen to freeze at least three zombies</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="-1">
+  <name>Fan</name>
+  <detail>Reach rank 12</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,244 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000795be952d61da24c404136cda7dcdf753285164b74e30f3b67a973a373a36b2b399d8e31bc8b9c0faab40e3175e18cd860d44b47c7476059706975d73e6aedbaba670677f466f085c2e885fdfebaac716e34b9b52155f58199e64f3e2ce9b40d2216539f80bcbd09303d2a23624c883b0070f40ca801347fa6b5235ecf11ad5264d0cb5a658b7af292b6ec18df6a0847bc3bc263-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR08041_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>The Binding of Isaac: Rebirth</title-name>
+ <title-detail>The Binding of Isaac: Rebirth Trophies</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Platinum</name>
+  <detail>Obtain all trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>Isaac's Tears</name>
+  <detail>Kill Isaac with Isaac</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>Mom's Knife</name>
+  <detail>Kill Satan with Isaac</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>Isaac's Heart</name>
+  <detail>Kill Isaac with The Lost</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>The Mind</name>
+  <detail>Kill Satan with The Lost</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>Magdalene</name>
+  <detail>Have 7 or more max red hearts at one time</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>The Relic</name>
+  <detail>Kill Isaac with Maggy</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>Guardian Angel</name>
+  <detail>Kill Satan with Maggy</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>Cain</name>
+  <detail>Hold 55 or more pennies at one time</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="000">
+  <name>The Coin Bag</name>
+  <detail>Kill Isaac with Cain</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="000">
+  <name>The Bomb Bag</name>
+  <detail>Kill Satan with Cain</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>Judas</name>
+  <detail>Kill Satan</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="B" pid="000">
+  <name>The Guillotine</name>
+  <detail>Kill Isaac with Judas</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="000">
+  <name>Judas' Tongue</name>
+  <detail>Kill Satan with Judas</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>Eve</name>
+  <detail>Beat 2 levels in a row without picking up any hearts</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>Eve's Bird Foot</name>
+  <detail>Kill Isaac with Eve</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>The Razor</name>
+  <detail>Kill Satan with Eve</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Samson</name>
+  <detail>Beat 2 levels in a row without taking damage</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>Bloody Lust</name>
+  <detail>Kill Isaac with Samson</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>Blood Rights</name>
+  <detail>Kill Satan with Samson</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>Azazel</name>
+  <detail>Make 3 deals with the devil in one run</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>The Satanic Bible</name>
+  <detail>Kill Isaac with Azazel</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="B" pid="000">
+  <name>Daemon's Tail</name>
+  <detail>Kill Satan with Azazel</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>Lazarus</name>
+  <detail>Have 4 or more soul hearts at one time</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="000">
+  <name>Lazarus' Rags</name>
+  <detail>Kill Isaac with Lazarus</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="B" pid="000">
+  <name>Broken Ankh</name>
+  <detail>Kill Satan with Lazarus</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>Eden</name>
+  <detail>Beat the Womb for the first time</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="B" pid="000">
+  <name>A Blank Card</name>
+  <detail>Kill Isaac with Eden</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="B" pid="000">
+  <name>The Book Of Secrets</name>
+  <detail>Kill Satan with Eden</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>Something from the future</name>
+  <detail>Beat the Basement 40 times</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>Something Cute</name>
+  <detail>Beat the Caves 30 times</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>Something sticky</name>
+  <detail>Beat the Depths 20 times</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>Basement Boy</name>
+  <detail>Beat the Basement/Cellar without taking damage</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>Spelunker Boy</name>
+  <detail>Beat the Caves/Catacombs without taking damage</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>Dark Boy</name>
+  <detail>Beat the Depths/Necropolis without taking damage</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>Mama's Boy</name>
+  <detail>Beat the Womb/Utero without taking damage</detail>
+ </trophy>
+ <trophy id="036" hidden="yes" ttype="B" pid="000">
+  <name>Dead Boy</name>
+  <detail>Beat the Chest or Dark Room without taking damage</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>Challenges</name>
+  <detail>Beat all 20 Challenges</detail>
+ </trophy>
+ <trophy id="038" hidden="yes" ttype="S" pid="000">
+  <name>Boss Rush</name>
+  <detail>Beat the Boss Rush</detail>
+ </trophy>
+ <trophy id="039" hidden="yes" ttype="B" pid="000">
+  <name>Dark Room</name>
+  <detail>Beat the Dark Room</detail>
+ </trophy>
+ <trophy id="040" hidden="yes" ttype="B" pid="000">
+  <name>The Chest</name>
+  <detail>Beat the Chest</detail>
+ </trophy>
+ <trophy id="041" hidden="yes" ttype="B" pid="000">
+  <name>Lost Poster</name>
+  <detail>Beat the Dark Room with Isaac</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="B" pid="000">
+  <name>Little Baggy</name>
+  <detail>Collect 2 of either Roid Rage, The Virus, Growth Hormones, Experimental Treatment, or Speed Ball</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="B" pid="000">
+  <name>The Womb</name>
+  <detail>Kill Mom</detail>
+ </trophy>
+ <trophy id="044" hidden="no" ttype="B" pid="000">
+  <name>The Halo</name>
+  <detail>Kill Mom using the Bible</detail>
+ </trophy>
+ <trophy id="045" hidden="no" ttype="B" pid="000">
+  <name>Transcendence</name>
+  <detail>Kill Mom's Heart 3 times</detail>
+ </trophy>
+ <trophy id="046" hidden="no" ttype="B" pid="000">
+  <name>Everything Is Terrible</name>
+  <detail>Kill Mom's Heart 5 times</detail>
+ </trophy>
+ <trophy id="047" hidden="no" ttype="B" pid="000">
+  <name>A Quarter</name>
+  <detail>Kill Mom's Heart 8 times</detail>
+ </trophy>
+ <trophy id="048" hidden="no" ttype="B" pid="000">
+  <name>A Fetus In A Jar</name>
+  <detail>Kill Mom's Heart 9 times</detail>
+ </trophy>
+ <trophy id="049" hidden="no" ttype="B" pid="000">
+  <name>Blue Baby</name>
+  <detail>Kill Mom's Heart 10 times</detail>
+ </trophy>
+ <trophy id="050" hidden="no" ttype="B" pid="000">
+  <name>It Lives</name>
+  <detail>Kill Mom's Heart 11 times</detail>
+ </trophy>
+ <trophy id="051" hidden="yes" ttype="B" pid="000">
+  <name>Forget Me Now</name>
+  <detail>Kill Satan with ???</detail>
+ </trophy>
+ <trophy id="052" hidden="no" ttype="B" pid="000">
+  <name>The Book Of Sin</name>
+  <detail>Kill all 7 sins</detail>
+ </trophy>
+ <trophy id="053" hidden="yes" ttype="B" pid="000">
+  <name>The Polaroid</name>
+  <detail>Beat Cathedral 5 times</detail>
+ </trophy>
+ <trophy id="054" hidden="yes" ttype="B" pid="000">
+  <name>The Negative</name>
+  <detail>Beat Sheol 5 times</detail>
+ </trophy>
+ <trophy id="055" hidden="no" ttype="S" pid="000">
+  <name>Golden God</name>
+  <detail>You are the best!</detail>
+ </trophy>
+ <trophy id="056" hidden="no" ttype="G" pid="000">
+  <name>Platinum God</name>
+  <detail>Collect all items and unlock all secrets and endings</detail>
+ </trophy>
+ <trophy id="057" hidden="yes" ttype="B" pid="000">
+  <name>The Lost</name>
+  <detail>Finish the game's final secret</detail>
+ </trophy>
+ <trophy id="058" hidden="yes" ttype="G" pid="000">
+  <name>Real Platinum God</name>
+  <detail>100% the game</detail>
+ </trophy>
+</trophyconf>

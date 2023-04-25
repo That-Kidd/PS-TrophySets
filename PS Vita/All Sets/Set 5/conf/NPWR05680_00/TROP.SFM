@@ -1,0 +1,164 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000e8774e9e067ada26556c60c0a5715f47962ad58067d48e050e67e8e8708faf79f5279f190c0d20b8ed85876951d37e6275c389120838e522da11cf40f49a34d1fd07714dbbca4b780dff426fa8bda3a8e2385bd3c45212016f4544d49e936ad74cca47d61a41e6cf7e19ba55f0cc6af37261957e39e85c7e471ec56b59ee58e874fff0db92cb98dc0b151652e508bc1daffb8f7f-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR05680_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Rozen Maiden -Wechseln sie welt ab-</title-name>
+ <title-detail>Trophy Data</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>オールコンプリート</name>
+  <detail>すべてのトロフィーを取得した</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>まいた世界プロローグ</name>
+  <detail>まいた世界のプロローグを見た</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>真紅個別エピソード１</name>
+  <detail>真紅のまいた世界個別エピソードを見た</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>雛苺個別エピソード</name>
+  <detail>雛苺のまいた世界個別エピソードを見た</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>水銀燈個別エピソード</name>
+  <detail>水銀燈のまいた世界個別エピソードを見た</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>翠星石個別エピソード</name>
+  <detail>翠星石のまいた世界個別エピソードを見た</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>巴個別エピソード</name>
+  <detail>巴のまいた世界個別エピソードを見た</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>真紅／水銀燈個別エピソード</name>
+  <detail>真紅／水銀燈のまいた世界個別エピソードを見た</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>雛苺個別エピソード２</name>
+  <detail>雛苺のまいた世界個別エピソードを見た</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>翠星石／蒼星石個別エピソード</name>
+  <detail>翠星石／蒼星石のまいた世界個別エピソードを見た</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>巴／金糸雀の個別エピソード</name>
+  <detail>巴／金糸雀のまいた世界個別エピソードを見た</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>まいた世界グッドエンド</name>
+  <detail>まいた世界のグッドエンドを見た</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>まかなかった世界プロローグ</name>
+  <detail>まかなかった世界のプロローグを見た</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>真紅個別エピソード２</name>
+  <detail>真紅のまかなかった世界個別エピソードを見た</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>水銀燈個別エピソード２</name>
+  <detail>水銀燈のまかなかった世界個別エピソードを見た</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>翠星石個別エピソード２</name>
+  <detail>翠星石のまかなかった世界個別エピソードを見た</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>金糸雀個別エピソード</name>
+  <detail>金糸雀のまかなかった世界個別エピソードを見た</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>真紅個別エピソード３</name>
+  <detail>真紅のまかなかった世界個別エピソードを見た</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>水銀燈個別エピソード３</name>
+  <detail>水銀燈のまかなかった世界個別エピソードを見た</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>翠星石／蒼星石個別エピソード２</name>
+  <detail>蒼星石／翠星石のまかなかった世界個別エピソードを見た</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>金糸雀個別エピソード２</name>
+  <detail>金糸雀のまかなかった世界個別エピソードを見た</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>斉藤さんルート突入</name>
+  <detail>斉藤さんのルートに入った</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="S" pid="000">
+  <name>斉藤さんグッドエンド</name>
+  <detail>斉藤さんのグッドエンドを見た</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>斉藤さんノーマルエンド</name>
+  <detail>斉藤さんのノーマルエンドを見た</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>まかなかった世界グッドエンド</name>
+  <detail>まかなかった世界のグッドエンドを見た</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="S" pid="000">
+  <name>雛苺回想エピソードオープン</name>
+  <detail>雛苺の回想エピソードを入手した</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="S" pid="000">
+  <name>金糸雀回想エピソードオープン</name>
+  <detail>金糸雀の回想エピソードを入手した</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="S" pid="000">
+  <name>真紅回想エピソードオープン</name>
+  <detail>真紅の回想エピソードを入手した</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="S" pid="000">
+  <name>蒼星石回想エピソードオープン</name>
+  <detail>蒼星石の回想エピソードを入手した</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="S" pid="000">
+  <name>水銀燈回想エピソードオープン</name>
+  <detail>水銀燈の回想エピソードを入手した</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="S" pid="000">
+  <name>翠星石回想エピソードオープン</name>
+  <detail>翠星石の回想エピソードを入手した</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="G" pid="000">
+  <name>クリア後ルート開放</name>
+  <detail>クリア後ルートに入った</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="G" pid="000">
+  <name>まいた世界の結末</name>
+  <detail>クリア後ルートのトゥルーエンドを見た</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="G" pid="000">
+  <name>まかなかった世界の結末</name>
+  <detail>クリア後ルートのトゥルーエンドを見た</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>CG25％</name>
+  <detail>ゲーム中のCGを25％見た</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>CG50％</name>
+  <detail>ゲーム中のCGを50％見た</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>CG75％</name>
+  <detail>ゲーム中のCGを75％見た</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="S" pid="000">
+  <name>CG100%</name>
+  <detail>ゲーム中のすべてのCGを見た</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="G" pid="000">
+  <name>MEMORIESコンプリート</name>
+  <detail>MEMORIESがすべて埋まった</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,116 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000808ef2065165d387339370fabb7196c7e0641b611864bf66cfed8faf510362d659616077f8967d77f44e23d5b6c5345be2cd318373c107435b1a89575e11c477080922e6d824d510b1a900bd25e2840ec3fa9358d1f9f0e98aeeb81eca3e5901f886eda0d13d6fba41aca98a2555f732d7e058cae5ab9c2ee0620bbf173641df0f4f4e4100b175dc6d51c13209e59d934af8f174-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR09474_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>うたの☆プリンスさまっ♪ＭＵＳＩＣ３</title-name>
+ <title-detail>うたの☆プリンスさまっ♪ＭＵＳＩＣ３トロフィー</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>I LOVE MUSIC3.</name>
+  <detail>全てのトロフィーを獲得した。</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="G" pid="000">
+  <name>リズムゲームエキスパート</name>
+  <detail>PROモードでフルコンボを1回取得。</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="G" pid="000">
+  <name>衣装コレクター</name>
+  <detail>キャラクターの衣装とアイドル用アクセサリーパーツを全部集めた。</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="G" pid="000">
+  <name>立派な演奏者</name>
+  <detail>ステータスの総合ランクがAになった。</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="G" pid="000">
+  <name>日常の風景</name>
+  <detail>ごほうびシーンをすべて読破。</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="G" pid="000">
+  <name>思い出アルバム</name>
+  <detail>メモリアルをすべて読破。</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="G" pid="000">
+  <name>駆け出し作曲家</name>
+  <detail>チャレンジ曲とリズムゲームの楽曲全てのレベルをプレイした。</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>アイドルコーディネーター</name>
+  <detail>キャラクターの衣装を30回変えた。</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>タッチボイスマスター</name>
+  <detail>キャラクタータッチボイスをすべて聴いた。</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>上級パフォーマー</name>
+  <detail>PROモードで評価Sを3回取得。</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>音也と演奏</name>
+  <detail>一十木音也の楽曲全てのレベルをプレイした。</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>真斗と演奏</name>
+  <detail>聖川真斗の楽曲全てのレベルをプレイした。</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>那月と演奏</name>
+  <detail>四ノ宮那月の楽曲全てのレベルをプレイした。</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>トキヤと演奏</name>
+  <detail>一ノ瀬トキヤの楽曲全てのレベルをプレイした。</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>レンと演奏</name>
+  <detail>神宮寺レンの楽曲全てのレベルをプレイした。</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="S" pid="000">
+  <name>翔と演奏</name>
+  <detail>来栖 翔の楽曲全てのレベルをプレイした。</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="S" pid="000">
+  <name>セシルと演奏</name>
+  <detail>愛島セシルの楽曲全てのレベルをプレイした。</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="S" pid="000">
+  <name>嶺二と演奏</name>
+  <detail>寿 嶺二の楽曲全てのレベルをプレイした。</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="S" pid="000">
+  <name>蘭丸と演奏</name>
+  <detail>黒崎蘭丸の楽曲全てのレベルをプレイした。</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="S" pid="000">
+  <name>藍と演奏</name>
+  <detail>美風 藍の楽曲全てのレベルをプレイした。</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="S" pid="000">
+  <name>カミュと演奏</name>
+  <detail>カミュの楽曲全てのレベルをプレイした。</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>始めの第一歩</name>
+  <detail>ステータスの総合ランクがCになった。</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="B" pid="000">
+  <name>チャレンジャー</name>
+  <detail>チャレンジモードの各楽曲を5回以上プレイした。</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>リズムゲームプロ</name>
+  <detail>HARDモードで評価パーフェクトを3回取得。</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="000">
+  <name>中級パフォーマー</name>
+  <detail>HARDモードで評価Sを3回取得。</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="B" pid="000">
+  <name>リズムゲームビギナー</name>
+  <detail>EASYモードで評価パーフェクトを3回取得。</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>初級パフォーマー</name>
+  <detail>EASYモードで評価Sを3回取得。</detail>
+ </trophy>
+</trophyconf>

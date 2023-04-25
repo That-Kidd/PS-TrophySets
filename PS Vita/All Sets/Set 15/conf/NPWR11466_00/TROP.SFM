@@ -1,0 +1,140 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000073f0f9734ad807aa56253c64c1920fa22bd601965e880a335d8fae072a0b7b0b9ebca5f418002e15966ef74ef6c1608f5f2df14dc8ec220fa391de9786ad2acfe7da0100cf95dd309afafaaa2eafa849abb131d738e7f453e96fe14147df1150be5f9734fd1676f4fde64b7f5f07f1a7eebb03e45a81c7f8e283770155e6d5229fa5aed2ef676db2f1a11acf48b7800c6f90485b-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR11466_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Wand of Fortune R2</title-name>
+ <title-detail>Wand of Fortune R2のトロフィーです</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>時空に沈む黙示録</name>
+  <detail>すべてのトロフィーを獲得。過去、現在、そして未来へと、これからも物語は繋がっていく。</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>準備完了！</name>
+  <detail>今までのお話をおさらいしたところで、いよいよ本編へ！</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>やっと終わったプロローグ</name>
+  <detail>ワンドシリーズ最長のプロローグ。過去の世界で何が起きるのか、あなたの目で確かめてください。</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>はじめてのたんさく</name>
+  <detail>いざ結精原石を求め、これからどんどん探索を進めていきましょう！</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>輝く結精石</name>
+  <detail>集めた原石を結精石へ。未来へ還るため、せっせと精製していきましょう！</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>どんな敵も怖くない！？</name>
+  <detail>いつ魔物が襲ってきてもいいように、結精石は余分に持っておきましょう。</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>神秘の力</name>
+  <detail>古代種・ミラの手で作られたアイテムは、きっと冒険の助けになってくれるはず！</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>これでともだち！</name>
+  <detail>しつこく通って粘り勝ち！　ツンツンしてても本当はやさしい彼女たちと、やっとともだちになれました。</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>大丈夫、怖くない</name>
+  <detail>塔の上で震えるミラの心にそっと寄り添う。いつか彼女が外に出られる日まで……</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="000">
+  <name>世界にたったひとつのもの</name>
+  <detail>みんなの力を借りて作り上げた、世界でたったひとつ、あなただけの魔法媒介が完成しました。</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="000">
+  <name>ユリウスとの思い出</name>
+  <detail>ふたり一緒だからできたこと。それがユリウスとの思い出。</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>ノエルとの思い出</name>
+  <detail>寄り添うことで、未来に進めた。それがノエルとの思い出。</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="B" pid="000">
+  <name>ビラールとの思い出</name>
+  <detail>恐れずに選ぶこと、選ばれること。それがビラールとの思い出。</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="000">
+  <name>ラギとの思い出</name>
+  <detail>種の違いを知り、ふたりで決断すること。それがラギとの思い出。</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="B" pid="000">
+  <name>アルバロとの思い出</name>
+  <detail>見えない永遠を創り出すこと。それがアルバロとの思い出。</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>エストとの思い出</name>
+  <detail>自分だけのための未来を望むこと。それがエストとの思い出。</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>ソロとの思い出</name>
+  <detail>生きる喜び、そのために頑張ること。それがソロとの思い出。</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>ラティウムのすべて</name>
+  <detail>トラブルだらけだった350年前のラティウム。すべての土地を解放したあなたは勇者です！</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>耳に残る旋律</name>
+  <detail>思い出は音楽と共に。物語を終えた後も、珠玉のメロディーをお楽しみください。</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="S" pid="000">
+  <name>全部見つけた</name>
+  <detail>重要なものも、ささやかなものも、ひとつずつ拾い集めたアイテムはあなたの糧でした。</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="S" pid="000">
+  <name>順番は間違えても……</name>
+  <detail>ふたり、積み重ねてきた想いは同じ場所に辿り着く。それが、彼との幸せの【形】。</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="S" pid="000">
+  <name>ずっとあなたの傍に</name>
+  <detail>前へ進むため、大切なものを振り返ることを忘れずに。何があってもずっと傍にいるから。</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="S" pid="000">
+  <name>あなただけの魔女</name>
+  <detail>共に在ることは運命ではなく必然。喜びも悲しみも分かち合う、対等なふたりに。</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="S" pid="000">
+  <name>人として、恋をする</name>
+  <detail>同じものとして、ふたり一緒に成長していく。もう二度と離れることなく――</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="S" pid="000">
+  <name>奇跡の果て</name>
+  <detail>終わりを恐れるほどに、強い想い。それを知っているから、どんなに離れても平気。</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="S" pid="000">
+  <name>譲れない願い</name>
+  <detail>もう誰にも奪わせない、ふたりの未来。守るために強くなる彼を、今日も追いかける。</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="S" pid="000">
+  <name>これからも、頑張って</name>
+  <detail>ひとりじゃなく、ふたりで頑張ることの意味。その尊さを、今はもう知っている。</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="S" pid="000">
+  <name>隅から隅まで</name>
+  <detail>経験の数だけ積み重なった知識。この世界で知らないことはもうありません。</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="G" pid="000">
+  <name>新たな未来へ旅立つ日</name>
+  <detail>大切な仲間たちと過ごしたたくさんの思い出を抱え、今、新たな未来へと――</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="G" pid="000">
+  <name>シリアスの合間に</name>
+  <detail>探索の合間には、いろんなことがありました。どこか残念な彼らの姿もまた真実です。</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="G" pid="000">
+  <name>美しい思い出たち</name>
+  <detail>シーンを彩る美しいイラストの数々。何度でも眺めて思い出してください。</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="G" pid="000">
+  <name>喜びと、悲しみと</name>
+  <detail>最高の幸せと、切ない別れ。どちらの結末も有り得た、紙一重の恋。</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="G" pid="000">
+  <name>彼らの物語</name>
+  <detail>時間の裏側に隠れていた、彼らの心の奥底。すべて読み終えた時、物語は完結します。</detail>
+ </trophy>
+</trophyconf>

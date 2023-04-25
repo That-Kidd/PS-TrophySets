@@ -1,0 +1,64 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000a9ae16596f2c2095a6b605944128982d00e43d6498b78c0d87987584989cbb7f050d7d1a388f220acc8f8d373641766478ceb5f5328455fec41f3bfa229a2f2ecf59609a7c73b6d36fe1200d512fed9a3c95c3ed57c59a05ddd5f5f719ee710363211ac67a682bc40b33696d7cf3ef8cb1b51185477aba331d3dcb042170aaf62918a594cdc16cfee03f330d0afaf03ff234bb94-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR03896_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>HAKO！ -OPEN ME-</title-name>
+ <title-detail>HAKO！ -OPEN ME-&#x0a;Trophy Set</title-detail>
+ <trophy id="000" hidden="no" ttype="G" pid="-1">
+  <name>You're a world box champion</name>
+  <detail>Earn a S rank with every single box</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="S" pid="-1">
+  <name>Last Box Master</name>
+  <detail>"You" are the last reward</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="-1">
+  <name>Speed Master</name>
+  <detail>Earn a "Checker Flag" with "One Box Car"</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Puzzle Master</name>
+  <detail>Earn a bronze trophy with "Puzzle Box"</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Snapping Master</name>
+  <detail>Earn a bronze trophy with "Snap Snap Snap Box"</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Holding Master</name>
+  <detail>Earn a bronze trophy with "Super Hinge Box"</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Tickle Master</name>
+  <detail>Earn a bronze trophy with "Rebel Box"</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Six Point Master</name>
+  <detail>Earn a bronze trophy with "2 Count Box"</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Digging Master</name>
+  <detail>Earn a bronze trophy with "Thunder Box"</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>Stealth Master</name>
+  <detail>Earn a bronze trophy with "Multi-purpose Surveillance Box"</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>Reveal Master</name>
+  <detail>Earn a bronze trophy with "Puzzle Box?"</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="-1">
+  <name>Rapid Control Master</name>
+  <detail>Earn a bronze trophy with "Master Box"</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="-1">
+  <name>Time Master</name>
+  <detail>Earn a bronze trophy with "Clock Box"</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="-1">
+  <name>Breath Master</name>
+  <detail>Earn a bronze trophy with "Windmill Box"</detail>
+ </trophy>
+</trophyconf>

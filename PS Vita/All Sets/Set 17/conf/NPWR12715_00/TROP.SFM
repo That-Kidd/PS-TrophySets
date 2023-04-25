@@ -1,0 +1,60 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000003af257779fcc02b6ee5fb082f4f541d566aabd1782b7cc72e1a037001cb9c9333967203b2291dad7fb8b30932e4b95ab120aa1619a1a3485194a3a7c98a55b41519d2632beafdfc5c3471de2081a33e272ffaea580fb1e0186b83ad7036ae50c31af09af9069bde23448128ae1dbeed916d800e027c4f055cc51a3db9bffb5175f97dd4a50f1bfbf6e4a33ad882e15ca305db704-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="small">
+ <npcommid>NPWR12715_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Factotum 90 Trophies</title-name>
+ <title-detail>Factotum 90 Trophies</title-detail>
+ <trophy id="000" hidden="no" ttype="S" pid="-1">
+  <name>Flip The Dial</name>
+  <detail>Change Walkers 1000 times.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Push The Button</name>
+  <detail>Depress a pressure plate 100 times.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Bomb Happy</name>
+  <detail>Blow up 100 bombs.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Ballast of the Summer Wine</name>
+  <detail>Drop 100 Ballast Containers.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Reproduceable Results</name>
+  <detail>Embrace the vortex 50 times.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>It Saves Light</name>
+  <detail>Activate 50 light bridges.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Top Secret</name>
+  <detail>Activate 50 Scan terminals.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Further Study</name>
+  <detail>Study 20 Organic Samples.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Digital Chatter</name>
+  <detail>Talk about the weather 100 times.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>Hard Reset</name>
+  <detail>Reset a walker 100 times.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>Barrels of Fun</name>
+  <detail>Destroy 50 barrels.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="-1">
+  <name>Beam Me Up</name>
+  <detail>Split 50 energy beams.</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="G" pid="-1">
+  <name>Squid Pro Quo</name>
+  <detail>Send the Space Squid back home unharmed.</detail>
+ </trophy>
+</trophyconf>

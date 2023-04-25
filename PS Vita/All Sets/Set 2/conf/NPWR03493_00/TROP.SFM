@@ -1,0 +1,208 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000094594f7ca75d9d1298a4406540d872230fcd6c440180ddb3f2572e78a0248da582510a7f9b27cf8ee7b9ae84f87ad9d98482da6b5d77e2e71b331d36dd20fe33e34d626d4977e47c14e432716fa696a6089184c9a810487652c6722be3be6e535f72dfb3a6cc1efc4255449eb30e78406a69ee690a1ecd63f30b20427e4f29276426e0f0dee55fc9ca9dcd1e0915c9c068165977-->
+<trophyconf version="1.1" platform="ps3,psp2" policy="large">
+ <npcommid>NPWR03493_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>エクストルーパーズ</title-name>
+ <title-detail>エクストルーパーズ　トロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>ギンギラ一番星！</name>
+  <detail>トロフィーを全て集める</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>「そらゆくブレン登場！」</name>
+  <detail>ＥＰ０をクリアする</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>「一番星流れ星」</name>
+  <detail>ＥＰ１をクリアする</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>「出逢いはスノー・モーション」</name>
+  <detail>ＥＰ２をクリアする</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>「戦技大会優勝」</name>
+  <detail>特別戦技章を受賞する</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>「はじめての気持ち」</name>
+  <detail>ＥＰ３をクリアする</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>「旅立ちのオレたち」</name>
+  <detail>ＥＰ４をクリアする</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>「流星の二人」</name>
+  <detail>ＥＰ５をクリアする</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>アンカードライブマスター</name>
+  <detail>アンカードライブを２０回成功する</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>ダッジマスター</name>
+  <detail>ＥＸ－Ｔダッジを２０回成功する</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>コンボルーキー</name>
+  <detail>１ミッションで５コンボを達成する</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>コンボマスター</name>
+  <detail>１ミッションで２０コンボを達成する</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>スコアルーキー</name>
+  <detail>１ミッションで１０００００スコアを達成する</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>スコアマスター</name>
+  <detail>１ミッションで２０００００スコアを達成する</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>上級訓練隊員</name>
+  <detail>１００回ミッションに出撃する</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>クーリスを超えろ！</name>
+  <detail>ミッション「駆け抜けセカンドタイム」でクーリスの記録を超える</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>不可能を可能に！</name>
+  <detail>ミッション「ハード・パンチ・ピンチ」に出現するＡＫ「クラッティス」を倒す</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>弱点を見逃すな！</name>
+  <detail>ＡＫ「ウンディープ」の口内のコアを破壊する</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>超級訓練Ｌｖ.１　制覇！</name>
+  <detail>ＶＲミッション「［ＥＸ］超級訓練Ｌｖ.１」をクリアする</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>超級訓練Ｌｖ.２　制覇！</name>
+  <detail>ＶＲミッション「［ＥＸ］超級訓練Ｌｖ.２」をクリアする</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="000">
+  <name>超級訓練Ｌｖ.３　制覇！</name>
+  <detail>ＶＲミッション「［ＥＸ］超級訓練Ｌｖ.３」をクリアする</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="G" pid="000">
+  <name>ＶＲミッション　全制覇！</name>
+  <detail>ＶＲミッションを全てクリアする</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>最強の男</name>
+  <detail>ブレンのＬＥＶＥＬを最高まで上げる</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>最強の仲間</name>
+  <detail>仲間全員のＬＥＶＥＬを最高まで上げる</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>ポイントコレクター</name>
+  <detail>ポイントを５００００ｐｔｓ所持する</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="G" pid="000">
+  <name>メダルコレクター</name>
+  <detail>チャレンジルールのメダルを全て集める</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>ギンギラ友好！</name>
+  <detail>仲間全員のプロフィールデータを集める</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="S" pid="000">
+  <name>ギンギラ友情！</name>
+  <detail>仲間全員と仲良くなる</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>ウェポンコレクター</name>
+  <detail>武器を全て集める</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="S" pid="000">
+  <name>ウェポンマスター</name>
+  <detail>武器の熟練度を全て最高まで上げる</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>ア－マーマスター</name>
+  <detail>アーマーを全て最高まで改造する</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>アバターコレクター</name>
+  <detail>アバターを全て集める</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="S" pid="000">
+  <name>コスチュームコレクター</name>
+  <detail>アイテム「衣装」を全て集める</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>ＢＧＭコレクター</name>
+  <detail>アイテム「ＢＧＭアルバム」と「ボーカルソング」を全て集める</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>キラキラコレクター</name>
+  <detail>ベースの光っている場所を１０回調べる</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>誘われて連れられて</name>
+  <detail>ミッションリクエストを５回クリアする</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="S" pid="000">
+  <name>アドバンスチャンプ</name>
+  <detail>ミッション「迷路脱出タイムアタック」でランキング１位をとる</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="S" pid="000">
+  <name>フロンティアチャンプ</name>
+  <detail>ミッション「マグマ落とし」でランキング１位をとる</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="S" pid="000">
+  <name>テックチャンプ</name>
+  <detail>ミッション「ＶＳタイムアタック」でランキング１位をとる</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="000">
+  <name>カフェのなじみ客</name>
+  <detail>カフェを１０回使用する</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="B" pid="000">
+  <name>カフェの常連客</name>
+  <detail>カフェのメニューを全て制覇する</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="B" pid="000">
+  <name>怖い物知らず！！</name>
+  <detail>カフェでハテナドリンクを飲む</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="B" pid="000">
+  <name>こりないボーイ・・・</name>
+  <detail>女子トイレに５回入る</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="B" pid="000">
+  <name>ウワサボーイ・・・</name>
+  <detail>男子トイレに２０回入る</detail>
+ </trophy>
+ <trophy id="044" hidden="no" ttype="S" pid="000">
+  <name>協力プレイヤー！</name>
+  <detail>通信協力プレイでミッションを３回クリアする</detail>
+ </trophy>
+ <trophy id="045" hidden="no" ttype="B" pid="000">
+  <name>仲間は見捨てない！</name>
+  <detail>通信協力プレイで５回仲間をダウン救助する</detail>
+ </trophy>
+ <trophy id="046" hidden="no" ttype="B" pid="000">
+  <name>力を一つに！！</name>
+  <detail>通信協力プレイでＥＸーＴレゾナンスを１０回発動する</detail>
+ </trophy>
+ <trophy id="047" hidden="no" ttype="S" pid="000">
+  <name>対戦プレイヤー！</name>
+  <detail>通信対戦プレイを１０回プレイする</detail>
+ </trophy>
+ <trophy id="048" hidden="no" ttype="B" pid="000">
+  <name>バトルフィールド解放！</name>
+  <detail>通信対戦プレイのステージを全て解放する</detail>
+ </trophy>
+ <trophy id="049" hidden="no" ttype="B" pid="000">
+  <name>ギンギラＭＶＰ！</name>
+  <detail>通信対戦プレイでＭＶＰを１回とる</detail>
+ </trophy>
+</trophyconf>

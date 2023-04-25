@@ -1,0 +1,260 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000000c5a64bbf71e23a88ae6a72f7290cf244e6c849707bbab5316eefbf311d469652336e550317263bc154f99110e0b3d49ba56e0660ff82b79b476c051b6c5b3f8be587a7b4c18239305e936272c3ec92763feb2070e74951252307deaa44c29fbdf4d3059bef2d2d7cec0c666ced8ad59be24129f0b9ed85bbdaa3566f915433c55a617a62eb5852c3b014aabf3110ab608c98cfe-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR09399_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Earth Defense Force 2: Invaders from Planet Space</title-name>
+ <title-detail>Earth Defense Force 2: Invaders from Planet Space&#x0a;trophies</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Mission Accomplished</name>
+  <detail>Obtain all other trophies.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Commendation Medal</name>
+  <detail>Clear all missions on Easy as an Infantryman.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Bronze Star</name>
+  <detail>Clear all missions on Normal an Infantryman.&#x0a;</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Legion of Merit</name>
+  <detail>Clear all missions on Hard as an Infantryman.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>Silver Star</name>
+  <detail>Clear all missions on Hardest as an Infantryman.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>Distinguished Service Medal</name>
+  <detail>Clear all missions on Inferno as an Infantryman.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>Fly the Friendly Skies</name>
+  <detail>Clear all missions on Easy as a Pale Wing.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>Mild Turbulence</name>
+  <detail>Clear all missions on Normal as a Pale Wing.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>Stormy Weather</name>
+  <detail>Clear all missions on Hard as a Pale Wing.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>Hurricane Season</name>
+  <detail>Clear all missions on Hardest as a Pale Wing.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>Pale Wing, Pale Rider</name>
+  <detail>Clear all missions on Inferno as a Pale Wing.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>Easy as Breathing</name>
+  <detail>Clear all missions on Easy as an Air Raider.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>Making it Rain</name>
+  <detail>Clear all missions on Normal as an Air Raider.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>Raidin' Wins</name>
+  <detail>Clear all missions on Hard as an Air Raider.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>The Great Raider</name>
+  <detail>Clear all missions on Hardest as an Air Raider.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>Raiders of the Lost Air</name>
+  <detail>Clear all missions on Inferno as an Air Raider.</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>Rescuer</name>
+  <detail>In Co-op mode, rescue other players 5 times.</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>Veteran Rescuer</name>
+  <detail>In Co-op mode, rescue other players 50 times.</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>Elite Rescuer</name>
+  <detail>In Co-op mode, rescue other players 120 times.</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>Bug Hunter</name>
+  <detail>Defeat 10000 giant insects.</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="000">
+  <name>Bau Down</name>
+  <detail>Defeat 6000 Baus.</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>UFO Hunter</name>
+  <detail>Take down 7000 UFOs.</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="B" pid="000">
+  <name>Shield Breaker</name>
+  <detail>Take down 200 Shield Bearers.</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>You Can't Carry Any More</name>
+  <detail>Take down 250 Carriers.</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="000">
+  <name>I Can See You're Out of Aces</name>
+  <detail>Take down 100 Ace Fighters.</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="B" pid="000">
+  <name>The Hills are Dead</name>
+  <detail>Destroy 30 Insect Hills.</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>Daroga Hunter</name>
+  <detail>Destroy 300 Darogas.</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="B" pid="000">
+  <name>Pride Goeth Before the Fall</name>
+  <detail>Defeat Solas and Cyborg Solas 40 times in total.</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="B" pid="000">
+  <name>A Hundred Times a Hundred</name>
+  <detail>Defeat 100 Dragon Centipedes.</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="B" pid="000">
+  <name>Queen Sweep</name>
+  <detail>Defeat 50 Queens.</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="B" pid="000">
+  <name>Mothership Down</name>
+  <detail>Take down 9 Motherships.</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="B" pid="000">
+  <name>They Died for the Empire</name>
+  <detail>Take down 4000 Imperial Guard.</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="B" pid="000">
+  <name>Deroy Junkin'</name>
+  <detail>Destroy 100 Deroys.</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="B" pid="000">
+  <name>Bombers Away</name>
+  <detail>Take down 250 Bombers.</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="B" pid="000">
+  <name>More Like Mega Bummers</name>
+  <detail>Take down 20 Mega Bombers.</detail>
+ </trophy>
+ <trophy id="035" hidden="yes" ttype="B" pid="000">
+  <name>Bau Wow</name>
+  <detail>Defeat 30 Bau Lords.</detail>
+ </trophy>
+ <trophy id="036" hidden="yes" ttype="B" pid="000">
+  <name>Soulless Kings</name>
+  <detail>Defeat 9 Solas Kings.</detail>
+ </trophy>
+ <trophy id="037" hidden="yes" ttype="B" pid="000">
+  <name>GG Noobs</name>
+  <detail>Destroy Gilio and Giliora 180 times in total.</detail>
+ </trophy>
+ <trophy id="038" hidden="yes" ttype="B" pid="000">
+  <name>Bug Splatter</name>
+  <detail>Defeat 1500 mutated insects.</detail>
+ </trophy>
+ <trophy id="039" hidden="yes" ttype="B" pid="000">
+  <name>Adan Subtractin'</name>
+  <detail>Take down 9 Adans.</detail>
+ </trophy>
+ <trophy id="040" hidden="yes" ttype="B" pid="000">
+  <name>Gun Owner</name>
+  <detail>Obtain 5% of all available weapons.</detail>
+ </trophy>
+ <trophy id="041" hidden="yes" ttype="B" pid="000">
+  <name>Gun Hobbyist</name>
+  <detail>Obtain 10% of all available weapons.</detail>
+ </trophy>
+ <trophy id="042" hidden="yes" ttype="B" pid="000">
+  <name>Gun Enthusiast</name>
+  <detail>Obtain 25% of all available weapons.</detail>
+ </trophy>
+ <trophy id="043" hidden="yes" ttype="B" pid="000">
+  <name>Gun Collector</name>
+  <detail>Obtain 50% of all available weapons.</detail>
+ </trophy>
+ <trophy id="044" hidden="yes" ttype="B" pid="000">
+  <name>Gun Fanatic</name>
+  <detail>Obtain 75% of all available weapons.</detail>
+ </trophy>
+ <trophy id="045" hidden="yes" ttype="G" pid="000">
+  <name>Walking Arsenal</name>
+  <detail>Obtain 100% of all available weapons.</detail>
+ </trophy>
+ <trophy id="046" hidden="yes" ttype="B" pid="000">
+  <name>I Don't Know, But I've Been Told...</name>
+  <detail>Reach 2000 armor as an Infantryman.</detail>
+ </trophy>
+ <trophy id="047" hidden="yes" ttype="B" pid="000">
+  <name>...Smashing Bugs Does Not Get Old</name>
+  <detail>Reach 4000 armor as an Infantrymen.</detail>
+ </trophy>
+ <trophy id="048" hidden="yes" ttype="B" pid="000">
+  <name>Winging It</name>
+  <detail>Reach 1000 armor as a Pale Wing.</detail>
+ </trophy>
+ <trophy id="049" hidden="yes" ttype="B" pid="000">
+  <name>Not So Pale Now</name>
+  <detail>Reach 2000 armor as a Pale Wing.</detail>
+ </trophy>
+ <trophy id="050" hidden="yes" ttype="B" pid="000">
+  <name>Raiding the Pantry</name>
+  <detail>Reach 2000 armor as an Air Raider.</detail>
+ </trophy>
+ <trophy id="051" hidden="yes" ttype="B" pid="000">
+  <name>Raiding the Gym</name>
+  <detail>Reach 4000 armor as an Air Raider.</detail>
+ </trophy>
+ <trophy id="052" hidden="yes" ttype="B" pid="000">
+  <name>Tanks for the Practice</name>
+  <detail>Defeat 200 enemies with tanks.</detail>
+ </trophy>
+ <trophy id="053" hidden="yes" ttype="B" pid="000">
+  <name>Where Angels Fear My Treads</name>
+  <detail>Defeat 1000 enemies with tanks.</detail>
+ </trophy>
+ <trophy id="054" hidden="yes" ttype="B" pid="000">
+  <name>Air Supremacy</name>
+  <detail>Defeat 100 enemies with helicopters.</detail>
+ </trophy>
+ <trophy id="055" hidden="yes" ttype="B" pid="000">
+  <name>And That's Why They Call it a Chopper</name>
+  <detail>Defeat 500 enemies with helicopters.</detail>
+ </trophy>
+ <trophy id="056" hidden="yes" ttype="B" pid="000">
+  <name>Reckless Driver</name>
+  <detail>Defeat 50 enemies with bikes.</detail>
+ </trophy>
+ <trophy id="057" hidden="yes" ttype="B" pid="000">
+  <name>Guns of Anarchy</name>
+  <detail>Defeat 250 enemies with bikes.</detail>
+ </trophy>
+ <trophy id="058" hidden="yes" ttype="B" pid="000">
+  <name>Medic</name>
+  <detail>Heal another player with a Reverser-type weapon in Co-op mode.</detail>
+ </trophy>
+ <trophy id="059" hidden="yes" ttype="B" pid="000">
+  <name>Liaison</name>
+  <detail>Send 10 chat messages to another player during mission in Co-op mode.</detail>
+ </trophy>
+ <trophy id="060" hidden="yes" ttype="B" pid="000">
+  <name>Analyst</name>
+  <detail>Send 10 chat messages to another player in the room in Co-op mode.</detail>
+ </trophy>
+ <trophy id="061" hidden="yes" ttype="B" pid="000">
+  <name>Treasure Hunter</name>
+  <detail>Acquire 15 weapon boxes in a single mission.</detail>
+ </trophy>
+ <trophy id="062" hidden="yes" ttype="B" pid="000">
+  <name>Armor Collector</name>
+  <detail>Acquire 30 armor boxes in a single mission.</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,60 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000034a4bf6ff6608292674c76dcff44e6ad413961eec6e9e532ced5dec567cc7e35d9290d74cfe43077841a1d4a4713d229862eceddc3810a9aaf500864b375eca6fecb52c16714f186209ee1e60c10f215d1e5291fdfdc32b5daf4f83642b0af85d638fe6a492b12d4dcd2a1dc8c982ee4d6298005d9f0aadd8c46ae50de3f6a5522876e746899a3c7c69a6e730cffc149c6fd8dd8-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR02887_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Treasures of Montezuma Blitz</title-name>
+ <title-detail>Trophies for Treasures of Montezuma Blitz</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Scoremaster</name>
+  <detail>Score 1000000 point during one round.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Good Start</name>
+  <detail>Earn enough experience to level up.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Precious Rain</name>
+  <detail>Get 25 Crystals from one combo.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Destroyer</name>
+  <detail>Destroy 100000 tokens.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Expert Matchmaker</name>
+  <detail>Make a match worth 10000 points.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Sandstorm</name>
+  <detail>Use Score Frenzy 100 times.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Artful Master</name>
+  <detail>Reach 10x points multiplier.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Bad Luck</name>
+  <detail>Earn no Crystals during the round.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Fortunate Son</name>
+  <detail>Win 250000 Crystals in daily bonus minigame.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="-1">
+  <name>Denizen</name>
+  <detail>Spend 100 hours playing.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="-1">
+  <name>Armed to Teeth</name>
+  <detail>Get all bonuses, totems and slots upgraded to maximum level.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="-1">
+  <name>Dark Lord</name>
+  <detail>Activate Dark Mode 10 times.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="-1">
+  <name>Nuclear Blast</name>
+  <detail>Destroy every token present on game board.</detail>
+ </trophy>
+</trophyconf>

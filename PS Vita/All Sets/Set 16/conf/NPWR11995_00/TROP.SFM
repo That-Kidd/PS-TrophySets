@@ -1,0 +1,68 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000004b976d57c0f9c9312de318c19d226c40cf6ab690913b67233b28408061f7a484901bdd09a1f509f848faf3c4337f8224ca63ceda6a318ee431a830c880e2fa23955bdc8704d47d9962c7b8443332d7b2d786d81388e528a8bd5fbcb34c6b5818c963eacf98874460a55e110c3cbbc9acb2955a274a7f303639cd64e8c5fd13a8cbf7f2c3e611831ff1fab947ee9028531ac5fa0d-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="small">
+ <npcommid>NPWR11995_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>MechRunner</title-name>
+ <title-detail>The trophies of conquests in MechRunner</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Defeat 100</name>
+  <detail>Defeat 100 enemies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Defeat 1000</name>
+  <detail>Defeat 1000 enemies</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Defeat 5000</name>
+  <detail>Defeat 5000 enemies</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Rescue 50</name>
+  <detail>Rescue 50 civilians</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Rescue 100</name>
+  <detail>Rescue 100 civilians</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Rescue 250</name>
+  <detail>Rescue 250 civilians</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Rescue 500</name>
+  <detail>Rescue 500 civilians</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Travel 10k</name>
+  <detail>Travel 10000 meters</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="-1">
+  <name>Travel 25k</name>
+  <detail>Travel 25000 meters</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="-1">
+  <name>Travel 50k</name>
+  <detail>Travel 50000 meters</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>Train Boss</name>
+  <detail>Defeat the train boss!</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="-1">
+  <name>Slice with sword</name>
+  <detail>Slice 25 enemies with your swords</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="-1">
+  <name>Slice with axes</name>
+  <detail>Slice 25 enemies with your axes</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="-1">
+  <name>Slice with Sickles</name>
+  <detail>Slice 25 enemies with your sickles</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="-1">
+  <name>Slice with Scythes</name>
+  <detail>Slice 25 enemies with your Scythes</detail>
+ </trophy>
+</trophyconf>

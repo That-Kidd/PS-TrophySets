@@ -1,0 +1,68 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000f8b5d73bb225bcb5de1a953abc5b91956b0c21975cf9e3b337bc9b645a4cd208238ceac8907e86e831f65128498146381eaff4f167f8525b7ae0baa5530d5a4ec11fcb6f09a7afd8ec7a5dad32d33208ecf12f353ec65116533c79e3a16edc8858b2493882ad6d654c3ab15169dd1c6bf738a091adf4e7d0ea371e277612032cb82634ff3f3140ad716ba3d55b187fc3ba02abc5-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR07215_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Kick and Fennick</title-name>
+ <title-detail>Trophy Set for Kick and Fennick</title-detail>
+ <trophy id="000" hidden="no" ttype="G" pid="-1">
+  <name>The Diamond Collection</name>
+  <detail>Earn a diamond star on every level</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="-1">
+  <name>Kicking Butt</name>
+  <detail>Complete the game on Hard difficulty</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>The End</name>
+  <detail>Finish the game on any difficulty</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Tricked</name>
+  <detail>Defeat the robot at the end of chapter 1</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Height Advantage</name>
+  <detail>Defeat the robot at the end of chapter 2</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Out for the Count</name>
+  <detail>Knock out the robot at the end of chapter 3</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Close Call</name>
+  <detail>Escape the robot at the end of chapter 4</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Waking Up</name>
+  <detail>Wake up from a deep sleep</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Made a Friend</name>
+  <detail>Find Fennick</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>Almost There</name>
+  <detail>Find a way to the Core Tower</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>Gear Collector</name>
+  <detail>Find all special gears</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="-1">
+  <name>Recoil Enthusiast</name>
+  <detail>Jump 1500 times</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="-1">
+  <name>Best Friends Forever</name>
+  <detail>Get saved by Fennick 50 times</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="-1">
+  <name>Grounded</name>
+  <detail>Shoot down 200 enemies</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="-1">
+  <name>All Dressed Up</name>
+  <detail>Collect all outfits</detail>
+ </trophy>
+</trophyconf>

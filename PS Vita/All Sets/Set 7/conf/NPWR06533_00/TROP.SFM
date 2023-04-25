@@ -1,0 +1,44 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000001f77d3b223e93d54a824a183cfb462946df0a7b87874020bec0045fe07f5b02061d6e493ee124d856858d54488af3f62c72728b6d60aaa7062b1426c59273ffe610d66bb983c79421b4452948691c920c1102bf17e2331b7d6435314777e5391d22331a8cfda02cd756e692b4e63760c0aa2ab973b95546ba3bfa2bb3f6a2fb04f382ad7bdd9f0c5e4bc86e5d323e9dec0754924-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR06533_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Run Like Hell! Trophies</title-name>
+ <title-detail>Run Like Hell! Trophies</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Tyro Canny Stir</name>
+  <detail>Finish tutorial</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="-1">
+  <name>Fly, you fools!</name>
+  <detail>Escape the island</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Running: The Gathering</name>
+  <detail>Unlock 3 characters</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="-1">
+  <name>Maj. T. Bag</name>
+  <detail>Win 25 races online</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Labours of Hercules</name>
+  <detail>Complete 25 objectives</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Fast food</name>
+  <detail>Run at least 1000 meters in a single run</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="-1">
+  <name>Marathon matters</name>
+  <detail>Run total of 30 kilometers</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Power overwhelming</name>
+  <detail>Collect 5000 coins</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="-1">
+  <name>Retro Bonds</name>
+  <detail>Play PONG! with Yeti</detail>
+ </trophy>
+</trophyconf>

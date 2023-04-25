@@ -1,0 +1,56 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000a95e4073d905e2bc3967da535fbcf4e7fb26b751c69711febfa4cf64a2cb00cf353b37f70ba394cc62597f31bde1bba0521e70081fccb29964e6a0c4ecf39cc7da792a35b17d93b3e75316c751dd6fb2ebf767bd675924f3d6b0ac139afdf88e404d79a2b0b8e208779a1eaba13f39e930f4abc82b45ab5a4c43bc9d7f3be8eea45453b92b1ae7273e2bcabf97a64e052bcbe162-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR09281_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Royal Defense Invisible Threat</title-name>
+ <title-detail>Trophy set for Royal Defense Invisible Threat</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Mercenary</name>
+  <detail>Get 3000 coins</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Alert</name>
+  <detail>Build 50 towers</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Businessman</name>
+  <detail>Sell 50 towers</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Defender</name>
+  <detail>Complete all levels of the episode three stars</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Battle Mage</name>
+  <detail>Use the spell 200 times</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Warrior</name>
+  <detail>Complete level without using spells</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Enemy at the Gates</name>
+  <detail>Kill 1500 enemies</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="-1">
+  <name>The famous gunsmith</name>
+  <detail>Fully upgrade any tower in the store</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="-1">
+  <name>More gold</name>
+  <detail>Make a complete improvement for 200 mines in the levels</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="-1">
+  <name>Sale</name>
+  <detail>Sell 200 mines</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="-1">
+  <name>Direct hit</name>
+  <detail>Kill 5 enemies with one shot</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="-1">
+  <name>Absolute victory</name>
+  <detail>Complete all levels to 3 stars</detail>
+ </trophy>
+</trophyconf>

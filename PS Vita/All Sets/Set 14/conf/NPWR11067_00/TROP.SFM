@@ -1,0 +1,108 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000f58efb4d8da238a8b5419a13e89f81d2b9a83f978f505dc8b6bf82204fb0ddf596f1082e55d11ebb645aabc479e3795a05896969488a66c6e1f14716c30a005248a563b02a96c76c1dbf33daa86c8d79346a88356f16b4588ddb35fec0e0df8adfd9d1214914ba0fcc593061dcef71d5943eb38d4a20e4b71168e3bb086e92f64cb61581e15d8e5385627491463e91eabdc8cf46-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR11067_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>SPACE OVERLORDS</title-name>
+ <title-detail>SPACE OVERLORDS GAME</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>SPACE OVERLORD</name>
+  <detail>Unlock All Trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>INITIATE</name>
+  <detail>Destroy 3000 buildings.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>LITTLE LORD</name>
+  <detail>Destroy 30000 buildings.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>RISING LORD</name>
+  <detail>Destroy 50000 buildings.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>OVERLORD</name>
+  <detail>Destroy 100000 buildings.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>OVERDRIVE OVERLORD</name>
+  <detail>Destroy 250000 buildings.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>OUR OWN LITTLE WORLD</name>
+  <detail>Conquer your first planet.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>URBAN DEMOLISHER</name>
+  <detail>Destroy 1000 Base buildings.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>CITY RAVAGER</name>
+  <detail>Destroy 1000 Mega Cities</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>COMM IS DOWN</name>
+  <detail>Destroy 1000 Comm Stations.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>LOW OF POWER</name>
+  <detail>Destroy 1000 Power Stations.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>PLANET CREATOR</name>
+  <detail>Create a custom planet in the level editor.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>CHALLENG CREATOR</name>
+  <detail>Create planets with all the gameplay types in the level editor.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>GALAXY CREATOR</name>
+  <detail>Create 8 custom planets in the level editor.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>CHAPTER 1 CONQUERED</name>
+  <detail>Complete Chapter 1 in Story Mode </detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>CHAPTER 2 CONQUERED</name>
+  <detail>Complete Chapter 2 in Story Mode </detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>CHAPTER 3 CONQUERED</name>
+  <detail>Complete Chapter 3 in Story Mode </detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>CHAPTER 4 CONQUERED</name>
+  <detail>Complete Chapter 4 in Story Mode </detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>CHAPTER 5 CONQUERED</name>
+  <detail>Complete Chapter 5 in Story Mode </detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="000">
+  <name>CHAPTER 6 CONQUERED</name>
+  <detail>Complete Chapter 6 in Story Mode </detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="G" pid="000">
+  <name>CHAPTER 7 CONQUERED</name>
+  <detail>Complete Chapter 7 in Story Mode </detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="G" pid="000">
+  <name>OVERLORD MASTER</name>
+  <detail>Complete Story Mode with all the Overlords.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>ULTIMATE OVERLORD</name>
+  <detail>Find all 4 pieces of ultimate armor and unlock your true potential.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>INPATI HUNTER</name>
+  <detail>Find and destroy an obelisc containing a piece of the ultimate armor for any overlord.</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="G" pid="000">
+  <name>ULTIMATE GATHERING</name>
+  <detail>Unlock the ultimate overlord form with the 4 main characters of the game.</detail>
+ </trophy>
+</trophyconf>

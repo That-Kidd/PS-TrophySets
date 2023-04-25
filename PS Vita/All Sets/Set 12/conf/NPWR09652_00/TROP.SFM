@@ -1,0 +1,128 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000094763730fffe76191d9b851a16c1165b852dd3a48366b16f1b662979886467b8248273f677452101d6b8c3e7c63a33a78de9099d9344267745637c077db69ccb3a6f3faeed68ae39d44ff6113fbb315883e2c36078e6e3efac0b04b1f7294648d125e1618bb5db7fb25ef3e533bf0c6bcfa9414b814e462806b68ce4bd58da635e2ba33c9ce48e2de05296209e5943b330f847c4-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR09652_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>forma.8</title-name>
+ <title-detail>forma.8 trophies</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>formed Adventurer</name>
+  <detail>Unlock all other trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="G" pid="000">
+  <name>The End...?</name>
+  <detail>Discover the Wrecked Ship</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="G" pid="000">
+  <name>The End</name>
+  <detail>Defeat the Evil forma</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="G" pid="000">
+  <name>You're not alone</name>
+  <detail>Find the lost forma</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="G" pid="000">
+  <name>Is that....?</name>
+  <detail>Find the Futuridium ship</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="G" pid="000">
+  <name>One too many dimensions</name>
+  <detail>Reach the Dystopian Fortress</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="G" pid="000">
+  <name>Far too late</name>
+  <detail>Find the depleted Energy Source</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>Go veg</name>
+  <detail>Beat the Fire Plant</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>It...could...work!!!</name>
+  <detail>Kill the Corrupted forma</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>In a hurry</name>
+  <detail>Escape the energy swarm</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>Derailed</name>
+  <detail>Destroy the Guardian Turret</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>Rust In Peace</name>
+  <detail>Defeat the Wrecked Titan</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>Open world</name>
+  <detail>Open all passages</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>Xenofeelings</name>
+  <detail>Reunite the alien family</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>In top shape</name>
+  <detail>Find all Energy Flowers</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>Harmless no more</name>
+  <detail>Reactivate your Shield</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>Drop it</name>
+  <detail>Reactivate your Bomb</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>Sonic boom</name>
+  <detail>Reactivate your Turbo</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>Abracadabra</name>
+  <detail>Reactivate your Teleport</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>Low profile</name>
+  <detail>Gain the disguise skill</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="000">
+  <name>Need for speed</name>
+  <detail>Reactivate the Mini Turbo upgrade</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>Double pleasure</name>
+  <detail>Reactivate the Dual Bomb upgrade</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="B" pid="000">
+  <name>Close and personal</name>
+  <detail>Reactivate the SuperShield upgrade</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>Relentless</name>
+  <detail>Reactivate the Enhanced Cooldown upgrade</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>Find them all</name>
+  <detail>Find the first artefact</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>Addicted to life</name>
+  <detail>Find the first Energy Flower</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>Another lead</name>
+  <detail>Find the first Secret Object</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>Antique collector</name>
+  <detail>Find 25 artefacts</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="B" pid="000">
+  <name>Not lost enough</name>
+  <detail>Unlock access to the Lost Temple</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="B" pid="000">
+  <name>Dark waters</name>
+  <detail>Return to the Mysterious Island by night</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,56 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000020afa27e88c52928bba2baef4f0f0e3619ef8ae0a50abb0a0287f3f3343266335901807cbb015ecc1d87ce25c3d44a4c583cb9a05083ae56d4119dc5fffcd924e8ad0559e54e1bb28a2eda90b9ae88e3f00caf661aa6a67c06108de63fc455ffdb5dc9ced5edfc40cde92f3b64568a6000c876b035fd16696048b55a921800f73488a501bfc17455e99bcd5541ed0fe79d8ff766-->
+<trophyconf version="1.1" platform="ps3,psp2,ps4" policy="small">
+ <npcommid>NPWR05526_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>FEZ</title-name>
+ <title-detail>FEZ</title-detail>
+ <trophy id="000" hidden="no" ttype="G" pid="-1">
+  <name>Sum total</name>
+  <detail>Find ALL collectibles.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Get a cube</name>
+  <detail>Find your very first cube shard.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="-1">
+  <name>Kill screen</name>
+  <detail>Get to the end.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="-1">
+  <name>Hexahedronaut</name>
+  <detail>Collect all 32 Golden Cubes and 32 Anti-Cubes.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Haikus not epics</name>
+  <detail>Find the Tome artifact.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Phrenologist</name>
+  <detail>Find the Skull artifact.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Mightier than the sword</name>
+  <detail>Find the Writing Cube artifact.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>A numbers game</name>
+  <detail>Find the Counting Cube artifact.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Equal and opposite</name>
+  <detail>Find an Anti-Cube.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="-1">
+  <name>Warp zone</name>
+  <detail>Reactivate all 5 warp gates.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="-1">
+  <name>Cryptographer</name>
+  <detail>Break the code. </detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="-1">
+  <name>Trophy unlocked</name>
+  <detail>R R L R R L L L</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,144 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000001ab60665dbf50722eb917b35800c4f766e2b675362f1e34b5dd883e77a83a4071e9257d720b8bf2d93e83520691b93360092ddec390d637e847064ae8beb0d42befc9eae7f7d5952aa9555180c85bb2179d448369a0645e12fc7412793a0101f584ae18623dd9698a51cdbc731f8e3b4fb345ecd1acb528799841d1c0b78c58d6dedf74ad152291d4d3e21775e5d8714507a2a6a-->
+<trophyconf version="1.1" platform="psp2">
+ <npcommid>NPWR02755_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>アスファルト：インジェクション</title-name>
+ <title-detail>アスファルト：インジェクション</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>アスファルトドミネーション</name>
+  <detail>全てのトロフィーを獲得</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>ファーストデビュー</name>
+  <detail>1位でフィニッシュ</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>ポディウムマスター</name>
+  <detail>3回連続で1位を獲得</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>インビンシブル</name>
+  <detail>マルチプレイのレースで10回勝利</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>レジェンド</name>
+  <detail>マルチプレイのレースで100回勝利</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>プロディジー</name>
+  <detail>10レベル以上の格上がいるマルチプレイレースで1位獲得</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>レーサホリック</name>
+  <detail>50レース達成</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>ベテラン</name>
+  <detail>マルチプレイで100レース以上完走</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>パーフェクトパーフェクト</name>
+  <detail>1つのコンペティションで全てのスターをゲット</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>カミカゼドライバー</name>
+  <detail>キャリアをコンプリート</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>ブースターハンター</name>
+  <detail>1レースでニトロを25個以上ゲット</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>ノンストップブースト</name>
+  <detail>1レースでニトロを35個以上ゲット</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>スターコレクター</name>
+  <detail>Collectorでコース上のパープルキャッシュを半分以上ゲット</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>クラッシュビースト</name>
+  <detail>1レースでライバルマシンを10台以上ノックダウン</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>ドライバー・フロム・ヘル!</name>
+  <detail>1レースでライバルマシンを15台以上ノックダウン</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>クイック・アンド・ダウン</name>
+  <detail>10秒以内にノックダウンを3回以上達成</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>ベルセルク</name>
+  <detail>20秒以内にノックダウンを5回以上達成</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>アグレッサー</name>
+  <detail>同じライバルを相手にノックダウンを3回以上達成</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="G" pid="000">
+  <name>シェイクダウン</name>
+  <detail>1レースで各ライバルを1回以上ノックダウン</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="G" pid="000">
+  <name>ドリフトスト－ム</name>
+  <detail>ドリフトしながらライバルをノックダウン</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>ドリフター</name>
+  <detail>ドリフトポイントを2,000ポイント以上獲得</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>ストリートインフェルノ</name>
+  <detail>ドリフトポイントを3,000ポイント以上獲得</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="G" pid="000">
+  <name>ロングトリッパー</name>
+  <detail>1回のドリフトで1,000ポイント以上獲得</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>Mr. アナーキー</name>
+  <detail>Beat'em Allでドリフトポイントを500ポイント以上ゲット</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>アクションスター</name>
+  <detail>1レースでジャンプポイントを1,000ポイント以上獲得</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="S" pid="000">
+  <name>ジャンピング・ジャック・スマッシュ</name>
+  <detail>1レースでジャンプポイントを1,500ポイント以上獲得</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>クリーンシャシー</name>
+  <detail>一度もクラッシュせずにNormal Raceを完走</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>オフ・ザ・ウォール</name>
+  <detail>一度も壁に接触せずにNormal Raceを完走</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>ノーボディコンタクト</name>
+  <detail>一度もライバルと接触せずにNormal Raceを完走</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>サバイバー</name>
+  <detail>一度もクラッシュせずにUnder Pressureをクリア</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>ジャンプハンター</name>
+  <detail>1レースの各ラップで1回以上ジャンプ</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>ストームレーサー</name>
+  <detail>1レースの各ラップを1位で通過</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>アクロバット</name>
+  <detail>ドリフトしながらフィニッシュラインを切る</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>エリートレーサー</name>
+  <detail>ニトロを使用せずに勝利</detail>
+ </trophy>
+</trophyconf>

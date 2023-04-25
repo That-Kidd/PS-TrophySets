@@ -1,0 +1,188 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000206d1fad72ab1f4a7f1a3192138564567e6570eb3a44a386608aafee2abdac5ae188f6fa03910e8c75a301243b30699278430411af76aa826dad86f87dc758b5e477f9788f281dc2259ff9fe15b745acc96d931c2ae0cb19c306a5e39f65447393bbb3bc972851880aa12a64aaba2121e0c306e43f5741dbd74581bd8f1fecca1e1875e185819a79c53711358938fa7392cddf56-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR07112_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>剣の街の異邦人　黒の宮殿</title-name>
+ <title-detail>剣の街の異邦人　黒の宮殿 トロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>剣の街の異邦人</name>
+  <detail>剣の街の異邦人　黒の宮殿の全トロフィーを取得しました。&#x0a;ここまで遊んでくれてありがとう！</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="S" pid="000">
+  <name>異邦人</name>
+  <detail>選ばれし者として異邦人ギルドに登録されました。</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="S" pid="000">
+  <name>旅立ち</name>
+  <detail>迷宮に潜む血統種の討伐を開始しました。</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="S" pid="000">
+  <name>わしのともだち</name>
+  <detail>グヌータからの依頼を達成しました。</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="S" pid="000">
+  <name>魂を削る粉末</name>
+  <detail>ラ・マンサを討伐し、クエスト【毒には毒を】を完了しました。</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="S" pid="000">
+  <name>鬼教官</name>
+  <detail>甲冑兵の評価試験を行い、クエスト【甲冑兵との立ち会い】を完了しました。</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="000">
+  <name>意図せぬ厄災</name>
+  <detail>モノリスにて儀式を行い、クエスト【異界への扉】を完了しました。</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>ドラゴンキラー</name>
+  <detail>デスドラゴンを討伐し、クエスト【老人の助言】を完了しました。</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>商会のなわばり</name>
+  <detail>兄弟団からの依頼を達成し、クエスト【不死鳥の兄弟団】を完了しました。</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>狂気の裏切り</name>
+  <detail>廃者の谷に赴き、クエスト【キョウからの呼び出し】を完了しました。</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>アンナとの別離</name>
+  <detail>クエスト【不意の旅立ち】を完了しました。</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>水底に沈む秘密</name>
+  <detail>湖の最深部に辿り着き、マリリスの秘密を知りました。</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>アルムの覚醒</name>
+  <detail>老人の魔手から逃れ、クエスト【始まりの地へ】を完了しました。</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>凍りついた真実</name>
+  <detail>氷結の廟でドランサークから真実を告げられました。</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>天空の船の墓場</name>
+  <detail>カロンを討伐し、クエスト【嵐の廟へ】を完了しました。</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="S" pid="000">
+  <name>裏切り者の末路</name>
+  <detail>ギルドを襲撃したキョウを討伐しました。</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="G" pid="000">
+  <name>神の御心</name>
+  <detail>ストーリーのエンディングに到達しました。</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="G" pid="000">
+  <name>竜の神に選ばれし者</name>
+  <detail>竜の神の試練を終え、運命の鎖から解き放たれました。</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>初級狩人</name>
+  <detail>初めて血統種の再討伐を行いました。</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>中級狩人</name>
+  <detail>１周の間に血統種の再討伐を１０回行いました。</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>上級狩人</name>
+  <detail>１周の間に血統種の再討伐を２０回行いました。</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>採集家</name>
+  <detail>蝶の巣を初めて発見しました。</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>好事家</name>
+  <detail>１周の間に蝶の巣を１０回発見しました。</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>蒐集家</name>
+  <detail>１周の間に蝶の巣を３０回発見しました。</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>至高の食卓</name>
+  <detail>ムミックにユニーク武器を食べさせました。</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>幻の小刀</name>
+  <detail>小村正を入手しました。</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>幻の妖刀</name>
+  <detail>幻の妖刀、村正を入手しました。</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="B" pid="000">
+  <name>忌まわしき呪刀</name>
+  <detail>呪われし最強の巨刀を入手しました。</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>棚からぼた餅</name>
+  <detail>物干しから盗まれたグルルバの赤パンを取り戻しました。</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="B" pid="000">
+  <name>漁夫の利</name>
+  <detail>物干しから盗まれたアンナの下着を取り戻しました。</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>Ｅランクアイテムコレクター</name>
+  <detail>Ｅランクの装備アイテムを手に入れました。</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>Ｄランクアイテムコレクター</name>
+  <detail>Ｄランクの装備アイテムを手に入れました。</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>Ｃランクアイテムコレクター</name>
+  <detail>Ｃランクの装備アイテムを手に入れました。</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>Ｂランクアイテムコレクター</name>
+  <detail>Ｂランクの装備アイテムを手に入れました。</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>Ａランクアイテムコレクター</name>
+  <detail>Ａランクの装備アイテムを手に入れました。</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>Ｓランクアイテムコレクター</name>
+  <detail>Ｓランクの装備アイテムを手に入れました。</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>待ち伏せ初級者</name>
+  <detail>初めて待ち伏せ戦闘に勝利しました。</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>待ち伏せ中級者</name>
+  <detail>待ち伏せ戦闘に２０回勝利しました。</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>待ち伏せ上級者</name>
+  <detail>待ち伏せ戦闘に５０回勝利しました。</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="000">
+  <name>チョコレートマニア</name>
+  <detail>血統種ムカブ・ザ・サードを討伐しました。</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="B" pid="000">
+  <name>意外な強敵</name>
+  <detail>血統種ブルーヘッドを討伐しました。</detail>
+ </trophy>
+ <trophy id="041" hidden="yes" ttype="B" pid="000">
+  <name>遅れてきた英雄</name>
+  <detail>血統種キャプテン・ゴーストを討伐しました。</detail>
+ </trophy>
+ <trophy id="042" hidden="yes" ttype="B" pid="000">
+  <name>大飯食らい</name>
+  <detail>血統種ユルムンガンドを討伐しました。</detail>
+ </trophy>
+ <trophy id="043" hidden="yes" ttype="B" pid="000">
+  <name>バタフライエフェクト</name>
+  <detail>血統種トリコロールを討伐しました。</detail>
+ </trophy>
+ <trophy id="044" hidden="no" ttype="B" pid="000">
+  <name>サポートメンバー</name>
+  <detail>初めて自分でキャラクターを作りました。</detail>
+ </trophy>
+</trophyconf>

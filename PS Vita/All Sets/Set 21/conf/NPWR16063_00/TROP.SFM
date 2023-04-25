@@ -1,0 +1,80 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000075b547eed240924944ce697406f340496d49a234481876cdc93512843285fc4c2650e9b852c875697ea0d30fc2e633d884f02c8e07f3af15f4496bffec12c8c27ab9f6806bf35c3bf5b5345b1fa83b0e73f5ca1f396044c82119442094d7e717b6b364ecd47eb6c7a20126ab45a402f7ee6225646f56ec01d675575cc1379813da5e1bd2d8e47a131d402536468b5d5af241a420-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR16063_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Sigi - A Fart for Melusina</title-name>
+ <title-detail>Sigi - A Fart for Melusina</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Sigi - A Fart for Melusina Platinum</name>
+  <detail>Good job! Completed all tasks!</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Under pressure</name>
+  <detail>Fart at Melusina.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>100 Zombies</name>
+  <detail>Kill 100 Zombies.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>Cave Man</name>
+  <detail>Clear all caves.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>Collector at heart</name>
+  <detail>Collect all SIGI's.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>Coin Hoarder</name>
+  <detail>Collect 1000 coins.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>Golden Grail</name>
+  <detail>Find the long lost golden grail.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>Golden Crown</name>
+  <detail>Find the long lost golden crown.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>Golden Talisman</name>
+  <detail>Find the long lost golden talisman.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>Golden Lady</name>
+  <detail>Hard to find and almost out of reach.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>Too blind to see</name>
+  <detail>Defeat Blind John</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="G" pid="000">
+  <name>Whistle blower</name>
+  <detail>Hidden trophy</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>Cheap as chips</name>
+  <detail>Hidden trophy</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="G" pid="000">
+  <name>Grand finale</name>
+  <detail>Hidden trophy</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="G" pid="000">
+  <name>Save Melusina</name>
+  <detail>Hidden trophy</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>Eat an apple</name>
+  <detail>An apple a day...</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="G" pid="000">
+  <name>Score 100%</name>
+  <detail>In under 30 minutes?</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="G" pid="000">
+  <name>Gold Rush</name>
+  <detail>Pocket 2500 coins.</detail>
+ </trophy>
+</trophyconf>

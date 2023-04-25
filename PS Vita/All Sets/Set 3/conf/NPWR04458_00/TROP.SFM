@@ -1,0 +1,64 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000042cec27db8fd3514109ec3ce3427f1f0bce51f0150f248fd84de4d4fad9c43c3eee961222a59fc9a651e79956191cbc0a1757441e7e4dc728b08a8c8ce41c611769c2aa5f7ec02b23b4e44aca56a156edeb8900e95d2c7a95c462fd831d3406fdcac6abb0c9992c537fc01adae3564a40ea5885028eae3c957ce6a0dbe81129bc651ede220c086e1b533a0b32ff6134e93d8eec8-->
+<trophyconf version="1.1" platform="ps3,psp2" policy="small">
+ <npcommid>NPWR04458_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Superfrog</title-name>
+ <title-detail>Superfrog</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Squisher</name>
+  <detail>Kill 10 enemies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Super Squisher</name>
+  <detail>Kill 101 enemies</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>No Croaks</name>
+  <detail>Complete a level without dying </detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Hopping To Victory</name>
+  <detail>Complete a level</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="-1">
+  <name>Frog Of The World</name>
+  <detail>Complete a new world</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="-1">
+  <name>Superfrog!</name>
+  <detail>Complete all new levels</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Jackpot</name>
+  <detail>Win an editor brush</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Spawny Frog</name>
+  <detail>Win all editor brushes</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Lucky Frogger</name>
+  <detail>Unlock all the original levels</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>Toad In The Hole</name>
+  <detail>Find a secret area</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>Aureus Lilium</name>
+  <detail>Collect a golden lily pad</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="-1">
+  <name>Multi Aureus Lilium</name>
+  <detail>Collect all golden lily pads</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="-1">
+  <name>Bonanza</name>
+  <detail>Find some hidden coins</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="-1">
+  <name>Bulging Purse</name>
+  <detail>Collect 80% of the total coins for new levels&#x0a;&#x0a;</detail>
+ </trophy>
+</trophyconf>

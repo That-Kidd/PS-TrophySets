@@ -1,0 +1,56 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000000d59fe2108b9c0c81de7c7ab65ae4dba975e4f7856a18d5997757bb736b034bbb81c663a1a510ef5c8b023d3d671cd77b68e01f78b4fa2238d35882ac0c38b75f7b7b6d81c5426ddb5f6b5e1c4bc663167bb30e2cba59b0bf8a4a847338543a792a153735fbd6fbd790ba6c846f4fb5c066974934ed130c8870fa8e218da8316e13a045064338abc8519af549d708e3f755af72-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR13321_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>祝姫 -祀-</title-name>
+ <title-detail>祝姫 -祀-のトロフィーセットです</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>-祀-</name>
+  <detail>全てのトロフィーを取得した</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="G" pid="000">
+  <name>呪姫</name>
+  <detail>呪姫（ノロイヒメ）を読了</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="G" pid="000">
+  <name>幻姫</name>
+  <detail>幻姫（マボロシヒメ）を読了</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="G" pid="000">
+  <name>歌姫</name>
+  <detail>歌姫（ウタヒメ）を読了</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="G" pid="000">
+  <name>痕姫</name>
+  <detail>痕姫（キズアトヒメ）を読了</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="G" pid="000">
+  <name>鹿神姫</name>
+  <detail>鹿神姫（ロクガミヒメ）を読了</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="G" pid="000">
+  <name>美濃部 鼎</name>
+  <detail>美濃部 鼎（ミノベ カナエ）を読了</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="G" pid="000">
+  <name>布川 莉里杏</name>
+  <detail>布川 莉里杏（ヌノカワ リリア）を読了</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="G" pid="000">
+  <name>春宮 椿子</name>
+  <detail>春宮 椿子（ハルミヤ ツバキコ）を読了</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="G" pid="000">
+  <name>黒神 十重</name>
+  <detail>黒神 十重（クロカミ トエ）を読了</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="G" pid="000">
+  <name>祝姫</name>
+  <detail>祝姫（イワイヒメ）を読了</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="G" pid="000">
+  <name>結姫</name>
+  <detail>結姫（ムスビヒメ）を読了</detail>
+ </trophy>
+</trophyconf>

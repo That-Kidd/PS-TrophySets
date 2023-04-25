@@ -1,0 +1,108 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000b27e9535d9c1f61cb7b60585b2747aae7d2d85b409920a900be6666a9df37823b6c39c5047d2780898b39e2db354ab2fd103646cdc2213177bfc9bc89cb42cb592b23df2011b06272bbf8316115b7f880486218f7afa2bff353f73b3a01516392e676b51e5cc0a0bb33d3c50ccccc79e6ad0e5225b3a4a7a2e9a349f3208883c0861d499b84512769188c901d44ab947172ec9aa-->
+<trophyconf version="1.1" platform="psp2">
+ <npcommid>NPWR03176_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Supremacy MMA: Unrestricted</title-name>
+ <title-detail>Supremacy MMA: Unrestricted Trophy System.</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Supremacy</name>
+  <detail>Obtain all Trophies.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>Every Fighter has a Story</name>
+  <detail>Complete all fighter stories.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Getting the Hang of This</name>
+  <detail>Attain Level 5 with any fighter.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>Master</name>
+  <detail>Attain Level 15 with any fighter.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>Diversity</name>
+  <detail>Attain Level 5 with all fighters.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>Multitalented</name>
+  <detail>Attain Level 10 with all fighters.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>Apply Yourself</name>
+  <detail>Complete 10 challenges.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>Keep'em Coming</name>
+  <detail>Complete 20 challenges.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>In the Zone</name>
+  <detail>Complete 30 challenges</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>Relentless</name>
+  <detail>Complete 40 challenges.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>Adrenaline Rush</name>
+  <detail>Complete 50 challenges</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>Unstoppable</name>
+  <detail>Complete 60 challenges</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>Rampage</name>
+  <detail>Complete 70 challenges.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>Domination</name>
+  <detail>Complete 80 challenges.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="000">
+  <name>Blood. Sweat. Fear.</name>
+  <detail>Complete 90 challenges.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="G" pid="000">
+  <name>Legend</name>
+  <detail>Complete 100 challenges.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Rookie</name>
+  <detail>Win 1 ranked match.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>Contender</name>
+  <detail>Win 5 ranked matches.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="G" pid="000">
+  <name>Future Champ</name>
+  <detail>Win 10 ranked matches.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Rematch!</name>
+  <detail>Win 1 Revenge match.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>Run It Back</name>
+  <detail>Win 5 Revenge matches.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="G" pid="000">
+  <name>Double or Nothing</name>
+  <detail>Win 10 Revenge matches.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>I Let You Win</name>
+  <detail>Win 1 Final Fight match.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>Last Laugh</name>
+  <detail>Win 5 Final Fight matches.</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="G" pid="000">
+  <name>Sandbagger</name>
+  <detail>Win 10 Final Fight matches.</detail>
+ </trophy>
+</trophyconf>

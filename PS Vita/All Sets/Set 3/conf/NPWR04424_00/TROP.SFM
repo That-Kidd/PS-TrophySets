@@ -1,0 +1,244 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000079f91d98d59961e0130ffc9f68c3ec6e9d143b4c7a8c489f47f9cad0d77889b288255f1b2afe475c4677b6f91203238faaf8031ada6f2e0b936e88043cfda305695cb16903bb7c79b275e272f33f15643691b22a25c66b5ef93655fe72441135c769abd8a99759273b51e701469379b4c97f18438aa269ea986e3136b5b18c66cf5bd399c9318b7eb8cbda806998bc46f047aff7-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR04424_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>BLAZBLUE CHRONOPHANTASMA Trophy</title-name>
+ <title-detail>BLAZBLUE CHRONOPHANTASMA Trophy Set</title-detail>
+ <group id="001">
+  <name>Additional Trophy Group Terumi</name>
+  <detail>Additional Trophy Group Terumi</detail>
+ </group>
+ <group id="002">
+  <name>Additional Trophy Group Kokonoe</name>
+  <detail>Additional Trophy Group Kokonoe</detail>
+ </group>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Phantoms of Time</name>
+  <detail>Mastered BlazBlue: Chrono Phantasma.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>This Will Be On The Test</name>
+  <detail>[Tutorial] Finished the BlazBlue Tutorial.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Who's Got Next</name>
+  <detail>[Arcade] Finished Arcade Mode.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>I Think You've Hit the Ceiling</name>
+  <detail>[Score Attack] Finished Score Attack with more than 200,000,000 Points.</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="G" pid="000">
+  <name>Attack on Highlander</name>
+  <detail>[Highlander Assault] Defeated the monster with all characters.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>BossSlash</name>
+  <detail>[Unlimited Mars] Defeated 10 foes.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>Practice, Victory, Friendship!</name>
+  <detail>[Training] Trained for over 30 minutes consecutively.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>Combo List</name>
+  <detail>[Challenge] Executed over 500 challenges.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>Ikaruga Tour Guide</name>
+  <detail>[Abyss] Finished 5 dungeons.</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="000">
+  <name>To Be Continued...</name>
+  <detail>[Story] Watched episode 1.</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="G" pid="000">
+  <name>And the Story Goes On...</name>
+  <detail>[Story] Watched all episodes.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>P$ Can't Buy Everything</name>
+  <detail>[Gallery] Unlocked 50% of the Gallery.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>Please Turn Off Your Cell Phones</name>
+  <detail>[Replay Theater] Watched the first Replay.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>Talk of the Town</name>
+  <detail>[Network] Edited your D-Code.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>Level Elf</name>
+  <detail>[Network] Reached Level 11.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>Don't Hate The Player</name>
+  <detail>[Network] Won a Player Match.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Lobbying For Change</name>
+  <detail>[Network] Fight 10 Multiplayer Matches</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Driven To Succeed</name>
+  <detail>Unleashed a character's Overdrive.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>Driven to Win</name>
+  <detail>Won a match with an Overdrive finish.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>The Most Wonderful Thing About Triggers</name>
+  <detail>Used the Crush Trigger over 100 times.</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="000">
+  <name>I've Got A Crush On You</name>
+  <detail>Penetrated Bang's guard using a Crush Trigger.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>Throw Me A Bone Here</name>
+  <detail>Escaped 100 throws.</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="B" pid="000">
+  <name>Burst Your Bubble</name>
+  <detail>Missed a Break Burst.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>Astral Neat</name>
+  <detail>Executed all Astral Heats.</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="000">
+  <name>All Mine</name>
+  <detail>Used Amane's Astral Heat on all male characters.</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="B" pid="000">
+  <name>It's Time For Science</name>
+  <detail>Used Relius' Astral Heat on all female characters.</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>Hello World!</name>
+  <detail>Welcome to the world of BlazBlue: Chrono Phantasma!</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="B" pid="000">
+  <name>Number of the Black Beast</name>
+  <detail>Dished out 666 damage using Ragna.</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="B" pid="000">
+  <name>Blizzard Warning</name>
+  <detail>Hit the opponent with Jin's Sekkajin (Snow Flower Storm) over 9 times in one round.</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="B" pid="000">
+  <name>Chamber Music</name>
+  <detail>Performed a counter hit using Noel's Type XVII: Chamber Shot.</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="B" pid="000">
+  <name>Hurricane Rachel</name>
+  <detail>Used Rachel's Silpheed ability over 20 times during a round.</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="B" pid="000">
+  <name>Gone In 62 Seconds</name>
+  <detail>Knocked the opponent out with Taokaka's "Aerial Dancing Edge!!" with 62 seconds on the clock.</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="B" pid="000">
+  <name>Air Traffic Control</name>
+  <detail>Hit the opponent with Tager's Air Driver 3 times during a round.</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="B" pid="000">
+  <name>Mahjong, Mahjoff</name>
+  <detail>Counter hit the opponent with Litchi's Nine Gates of Heaven.</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="B" pid="000">
+  <name>Insecticide</name>
+  <detail>Executed a 100+ hit combo using Arakune.</detail>
+ </trophy>
+ <trophy id="035" hidden="yes" ttype="B" pid="000">
+  <name>This Is The Nail That Will Pierce The Heavens!</name>
+  <detail>Knocked the opponent out with Bang's Overdrive ver. Ultra Technique: "Hyper Shadowstep Strike".</detail>
+ </trophy>
+ <trophy id="036" hidden="yes" ttype="B" pid="000">
+  <name>The Grand Finale</name>
+  <detail>With Carl, knocked the opponent out using Cantabile followed by Fermata</detail>
+ </trophy>
+ <trophy id="037" hidden="yes" ttype="B" pid="000">
+  <name>Hakumanhandled</name>
+  <detail>Dealt over 10,000 damage using Hakumen.</detail>
+ </trophy>
+ <trophy id="038" hidden="yes" ttype="B" pid="000">
+  <name>Did She Fire Six Swords Or Only Five</name>
+  <detail>Used all of Nu's Sword Summoner abilities during one single combo.</detail>
+ </trophy>
+ <trophy id="039" hidden="yes" ttype="B" pid="000">
+  <name>Out Of Sight</name>
+  <detail>Used all of Tsubaki's "D" version special attacks in a single combo.</detail>
+ </trophy>
+ <trophy id="040" hidden="yes" ttype="B" pid="000">
+  <name>Difficulty Does Not Scale</name>
+  <detail>Knocked the opponent out with Hazama's Overdriver ver. "The Serpent's Unholy Wrath".</detail>
+ </trophy>
+ <trophy id="041" hidden="yes" ttype="B" pid="000">
+  <name>More Like Kusonagi</name>
+  <detail>Used the Ikutachi Blade over 10 times in one round.</detail>
+ </trophy>
+ <trophy id="042" hidden="yes" ttype="B" pid="000">
+  <name>Galactical!</name>
+  <detail>Hit the opponent with all Lv.G attacks in one round.</detail>
+ </trophy>
+ <trophy id="043" hidden="yes" ttype="B" pid="000">
+  <name>There Wolf</name>
+  <detail>Dominated your opponent using Valkenhayn.</detail>
+ </trophy>
+ <trophy id="044" hidden="yes" ttype="B" pid="000">
+  <name>Why Don't You Have A Seat Over There</name>
+  <detail>Successfully executed Happy Magika 3 times in one round.</detail>
+ </trophy>
+ <trophy id="045" hidden="yes" ttype="B" pid="000">
+  <name>Reproducible Results</name>
+  <detail>Used Geara Lugia 10 times in one round.</detail>
+ </trophy>
+ <trophy id="046" hidden="yes" ttype="B" pid="000">
+  <name>Sweet Sixteen</name>
+  <detail>Gathered 16 charges of Izayoi's Zero-Type Gauge in one round.</detail>
+ </trophy>
+ <trophy id="047" hidden="yes" ttype="B" pid="000">
+  <name>Cash In Your Chips</name>
+  <detail>Used Amane's various drive attacks to chip the opponent down to victory.</detail>
+ </trophy>
+ <trophy id="048" hidden="yes" ttype="B" pid="000">
+  <name>Rolling Blackouts</name>
+  <detail>Knocked the opponent out with Bullet's Overdriver ver. "Blackout".</detail>
+ </trophy>
+ <trophy id="049" hidden="yes" ttype="B" pid="000">
+  <name>Your Weakness Is Your Weakness</name>
+  <detail>Landed a Black Hawk Stinger with Azrael while both of the opponents' weak points were active.</detail>
+ </trophy>
+ <trophy id="050" hidden="yes" ttype="B" pid="000">
+  <name>Black Suits Men Best</name>
+  <detail>[Arcade] Finished Arcade Mode using Kagura.</detail>
+ </trophy>
+ <trophy id="051" hidden="yes" ttype="B" pid="-1" gid="001">
+  <name>Susanuh-uh</name>
+  <detail>[Arcade] Finished Arcade Mode using Terumi.</detail>
+ </trophy>
+ <trophy id="052" hidden="yes" ttype="B" pid="-1" gid="001">
+  <name>Get On My Level</name>
+  <detail>[Challenge] Executed over 20 of Terumi's challenges.</detail>
+ </trophy>
+ <trophy id="053" hidden="yes" ttype="B" pid="-1" gid="001">
+  <name>How Engauging</name>
+  <detail>Used ALL of Terumi's Distortion Drives in one round.</detail>
+ </trophy>
+ <trophy id="054" hidden="yes" ttype="B" pid="-1" gid="002">
+  <name>Took You Long Enough</name>
+  <detail>[Arcade] Finished Arcade Mode using Kokonoe.</detail>
+ </trophy>
+ <trophy id="055" hidden="yes" ttype="B" pid="-1" gid="002">
+  <name>Shocking... Positively Shocking</name>
+  <detail>[Challenge] Executed over 20 of Kokonoe's challenges.</detail>
+ </trophy>
+ <trophy id="056" hidden="yes" ttype="B" pid="-1" gid="002">
+  <name>Final Fusion, Overload!</name>
+  <detail>Dished out over 10,000 damage using Kokonoe's Golden Tager.</detail>
+ </trophy>
+</trophyconf>

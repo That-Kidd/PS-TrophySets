@@ -1,0 +1,84 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000002936c35223ae49632312b929ccaad44218687bd917a8a4e61fa0b93209747f2c6277784b135b721368b9cfc47a69424f22dcab46d83761b47d7e412168a47feae3a4f411e7b3e2098cfe4ec93cccaaae669bcb03810e1e6fdce26abe1780f990103cabae72c4c3e72f42eba2298063701fc15ace504ee389c5b1e975121fc93a55ba1d411f0ca9c3426dd287d7914b84e566edd2-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR07318_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>MLB® 15 The Show™</title-name>
+ <title-detail>The trophy set of MLB® 15 The Show™</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>A Complete Game</name>
+  <detail>Earn all of the MLB® 15 The Show™ Trophies.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>Follow The Leader</name>
+  <detail>While batting, successfully perform a double steal with runners on first and second. Hit &amp; Runs will not count. Must play an uninterrupted game without switching sides or fast-forwarding.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>The Creative Director</name>
+  <detail>Influence a base hit with the directional hitting interface. Must play an uninterrupted game without switching sides or fast-forwarding (excluding RTTS).</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Cut. It. Out.</name>
+  <detail>Use the new mid-flight cutoff feature while on defense.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>Don't Test Me</name>
+  <detail>With any outfielder, throw out a runner at the plate. Must play an uninterrupted game without switching sides or fast-forwarding (excluding RTTS).</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>Got Doubles?</name>
+  <detail>While batting, hit back-to-back doubles. Must play an uninterrupted game without switching sides or fast-forwarding.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>The "Me" In Team</name>
+  <detail>In any game mode, total 7 RBIs with one player in a game. Must play an uninterrupted game without switching sides or fast-forwarding (excluding RTTS).</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>Straight Paint</name>
+  <detail>Complete a full game (extra innings included) without walking a batter from the opposing team. The innings option must be set to 9 and you must play an uninterrupted game without switching sides or fast-forwarding. Excludes Quick Counts.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>The Claw</name>
+  <detail>While pitching, strike out 15 batters in a single game. Must play an uninterrupted game without switching sides or fast-forwarding. Excludes Quick Counts.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>Sorry Kid</name>
+  <detail>Catch a foul ball out of the field of play. User cannot switch sides during game.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>A One, A Two...</name>
+  <detail>Get three double plays in one game. Must play an uninterrupted game without switching sides or fast-forwarding.&#x0a;</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>#PitchersWhoRake</name>
+  <detail>Hit a home run with a pitcher. Must play an uninterrupted game without switching sides or fast-forwarding. Excludes Home Run Derby™ mode.</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>Bruh</name>
+  <detail>While pitching, give up a home run to the first batter of the game (inside-the-park HRs excluded). Must play an uninterrupted game without switching sides or fast-forwarding. Excludes Practice mode.&#x0a;</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="000">
+  <name>Nope</name>
+  <detail>Successfully rob a home run. User cannot switch sides during game.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>Feel The Breeze</name>
+  <detail>In a single inning, strike out 3 batters in a row with the same pitcher. Must play an uninterrupted game without switching sides or fast-forwarding (excluding RTTS). Excludes Quick Counts.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>Good Eye</name>
+  <detail>Perform a check swing on a ball just outside the strike zone. Must play an uninterrupted game without switching sides or fast-forwarding (excluding RTTS).</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="S" pid="000">
+  <name>Crushed It!</name>
+  <detail>With a full swing, hit a fair ball that travels less than 13 feet. Must play an uninterrupted game without switching sides or fast-forwarding (excluding RTTS). Excludes Practice mode.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Lucky</name>
+  <detail>With any batter on offense, reach base on an error. Must play an uninterrupted game without switching sides or fast-forwarding (excluding RTTS).</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>Graveyard Shift</name>
+  <detail>Use the new quick shift feature on defense to successfully get an out. Must play an uninterrupted game without switching sides or fast-forwarding.</detail>
+ </trophy>
+</trophyconf>

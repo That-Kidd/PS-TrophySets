@@ -1,0 +1,132 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000d27e8be391bbb78761f6d7d76e95eb9b895bfc52c9b16a5f7f18ed39cc2cc4c0abf0261c1a518f5ef9892789e4cd2ba1417270a88d5ab2e09ae8c4cb4f3a6da3cfb5a29e82e65bb9288440853cbd23786a820e7d5599ac56035b793cfa894badf93fb77adfabc2f92d9efc6cab54288ba8ae674c1bdd5b40dda9c7929644361442657b8c8064eb1a7d37e59a1a2db2827c61d47b-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR07015_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>幕末Rock 超魂</title-name>
+ <title-detail>幕末Rock 超魂のトロフィーセットです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>ULTRA SOUL</name>
+  <detail>全てのトロフィーを獲得した。</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>第一話完結</name>
+  <detail>第一話をクリアした。</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>第二話完結</name>
+  <detail>第二話をクリアした。</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>第三話完結</name>
+  <detail>第三話をクリアした。</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>第四話完結</name>
+  <detail>第四話をクリアした。</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>第五話完結</name>
+  <detail>第五話をクリアした。</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>第六話完結</name>
+  <detail>第六話をクリアした。</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>第七話完結</name>
+  <detail>第七話をクリアした。</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>第八話完結</name>
+  <detail>第八話をクリアした。</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>第九話完結</name>
+  <detail>第九話をクリアした。</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>第十話完結</name>
+  <detail>第十話をクリアした。</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>天歌泰平</name>
+  <detail>エンディング「天歌泰平」を見た。</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="B" pid="000">
+  <name>徳川園</name>
+  <detail>エンディング「徳川園」を見た。</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>祭りの後</name>
+  <detail>エンディング「祭りの後」を見た。</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>私の道　オレ様の道</name>
+  <detail>エンディング「私の道　オレ様の道」を見た。</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="S" pid="000">
+  <name>愛獲は永遠に</name>
+  <detail>エンディング「愛獲は永遠に」を見た。</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="G" pid="000">
+  <name>雷舞！雷舞！響け！世界に！</name>
+  <detail>エンディング「雷舞！雷舞！響け！世界に！」を見た。</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>超魂一話完結</name>
+  <detail>超魂一話をクリアした。</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>超魂二話完結</name>
+  <detail>超魂二話をクリアした。</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="000">
+  <name>超魂三話完結</name>
+  <detail>超魂三話をクリアした。</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="G" pid="000">
+  <name>アイル・ビー・バック</name>
+  <detail>エンディング「アイル・ビー・バック」を見た。</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="S" pid="000">
+  <name>全SKITコンプリート</name>
+  <detail>SKITを全て出現させた。</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="S" pid="000">
+  <name>全イベントコンプリート</name>
+  <detail>イベントを全て出現させた。</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="G" pid="000">
+  <name>全ボーナスシナリオクリア</name>
+  <detail>ボーナスシナリオを全てクリアした。</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="000">
+  <name>難易度「Easy」で全曲Aランク以上取得</name>
+  <detail>難易度「Easy」で全曲Aランク以上を取得した。</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="S" pid="000">
+  <name>難易度「Normal」で全曲Aランク以上取得</name>
+  <detail>難易度「Normal」で全曲Aランク以上を取得した。</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="S" pid="000">
+  <name>難易度「Hard」で全曲Aランク以上取得</name>
+  <detail>難易度「Hard」で全曲Aランク以上を取得した。</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="G" pid="000">
+  <name>難易度「超魂」で全曲Aランク以上取得</name>
+  <detail>難易度「超魂」で全曲Aランク以上を取得した。</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="B" pid="000">
+  <name>江戸中がわしらのとりこに！！</name>
+  <detail>ファン数が100万人を突破した。</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="S" pid="000">
+  <name>日の本中がわしらのとりこに！！</name>
+  <detail>ファン数が300万人を突破した。</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="G" pid="000">
+  <name>世界中がわしらのとりこに！！</name>
+  <detail>ファン数が600万人を突破した。</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,112 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000005bd9f5ab1995951a84ce46045b0e239a05648c1209ea29eb929d40f32916b94c3e6864c993e1f52a046bfa59dd4bb671a4b931d9db33979e2ef5123e8f9edb4462a84886aeb1634d335724f809adbde9f976187eaaa150282c2bcfed62de76a321883587107f11a0b007cd371ee7484c49fab345dc6a5ac111ee99cd19c2fd3efbcd3fc86a933a0b32cda470c43065e8dc2bc3a0-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR17465_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>喧嘩番長 乙女 2nd Rumble !!</title-name>
+ <title-detail>「喧嘩番長 乙女 2nd Rumble !!」のトロフィーセットです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>獅子吼完全制覇！！</name>
+  <detail>トロフィーをコンプリートした</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>画像集　コンプリート</name>
+  <detail>全ての画像を見た</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>動画鑑賞　コンプリート</name>
+  <detail>全ての動画を見た</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>音楽鑑賞　コンプリート</name>
+  <detail>全てのBGMを聴いた</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>シーン再生　コンプリート</name>
+  <detail>全てのイベントを読んだ</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>エンディング　コンプリート</name>
+  <detail>全てのエンディングをクリアした</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="000">
+  <name>クラスメイトのアルバム</name>
+  <detail>斗々丸・金春の共通画像を全て解放した</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>斗々丸のアルバム</name>
+  <detail>箕輪斗々丸の画像を全て解放した</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>金春のアルバム</name>
+  <detail>金春貴之の画像を全て解放した</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>先輩のアルバム</name>
+  <detail>吉良・未良子の共通画像を全て解放した</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>吉良のアルバム</name>
+  <detail>吉良麟太郎の画像を全て解放した</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>未良子のアルバム</name>
+  <detail>未良子裕太の画像を全て解放した</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>師弟のアルバム</name>
+  <detail>鳳凰・天馬の共通画像を全て解放した</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>鳳凰のアルバム</name>
+  <detail>鬼ヶ島鳳凰の画像を全て解放した</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>天馬のアルバム</name>
+  <detail>相楽天馬の画像を全て解放した</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="S" pid="000">
+  <name>獅子吼のアルバム</name>
+  <detail>その他の画像を全て解放した</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>鳳凰・天馬ストーリー</name>
+  <detail>鳳凰・天馬ストーリーを解放した</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>永遠に不滅の友情</name>
+  <detail>斗々丸・金春の友情エンドをクリアした</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="S" pid="000">
+  <name>瞳の奥にある想い</name>
+  <detail>箕輪斗々丸の恋愛エンドをクリアした</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="S" pid="000">
+  <name>変わるものと変わらないもの</name>
+  <detail>金春貴之の恋愛エンドをクリアした</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="000">
+  <name>卒業しても変わらない関係で</name>
+  <detail>吉良・未良子の友情エンドをクリアした</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="S" pid="000">
+  <name>一緒に叶えていく夢</name>
+  <detail>吉良麟太郎の恋愛エンドをクリアした</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="S" pid="000">
+  <name>最愛の相棒</name>
+  <detail>未良子裕太の恋愛エンドをクリアした</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>かけがえのない大切な場所</name>
+  <detail>鳳凰・天馬の友情エンドをクリアした</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="S" pid="000">
+  <name>指輪に誓う愛</name>
+  <detail>鬼ヶ島鳳凰の恋愛エンドをクリアした</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="S" pid="000">
+  <name>守りたいヒト</name>
+  <detail>相楽天馬の恋愛エンドをクリアした</detail>
+ </trophy>
+</trophyconf>

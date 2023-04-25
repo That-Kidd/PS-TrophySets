@@ -1,0 +1,92 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000075799e6428499f1e58a63b006647ab2e1987f579b4d40bc1c4095f45193bc9a82f1a1e94d0ad9643e884ff2c01520888dcd42976ba0d9e3efac9ed7f96c64daa1bed0750de4e9a84fffdf30e38a4a38133de09f46863bad587a99b28a7376fdb1bf9ddc6324201bc70c88c8dea87db3f74fc4d8132896d340e6542be8dcddcb4b51a9a37013f02cdac474c1cf368ecb9a7214567-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR19993_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Guard Duty</title-name>
+ <title-detail>Guard Duty</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Platinum Guard</name>
+  <detail>Get all other trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Airborne</name>
+  <detail>Get kicked out of the Castle</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Pucker Up</name>
+  <detail>Girtrude finds a new friend</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Assassin's Greed</name>
+  <detail>Make a charitable donation</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>Suited And Booted</name>
+  <detail>Find a quiet place to get dressed</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>Royal Blood</name>
+  <detail>Deliver the news to King Theodore</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>Wicked Words</name>
+  <detail>A book bound with flesh</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>Speak In Tongues</name>
+  <detail>Translate the creepy book</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>Photo Op</name>
+  <detail>Successfully snap a photo</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>Papers, Please</name>
+  <detail>Get the Wildlands DLC</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>Mind The Gap</name>
+  <detail>Fail to make it across the Elder Scar</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>Two Birds</name>
+  <detail>Deal with the Spider</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>Special Delivery</name>
+  <detail>Return the paint to it's rightful owner</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="000">
+  <name>New Lands</name>
+  <detail>Venture North, beyond the Scar</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="000">
+  <name>Open Sesame</name>
+  <detail>Find a way to open the door</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="G" pid="000">
+  <name>Guardian Duty</name>
+  <detail>Meet the Guardians</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="G" pid="000">
+  <name>Armed And Dangerous</name>
+  <detail>Insult to injury</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="G" pid="000">
+  <name>Against All Odds</name>
+  <detail>Never give up</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="G" pid="000">
+  <name>???</name>
+  <detail>Something amiss</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="G" pid="000">
+  <name>Two Of A Kind</name>
+  <detail>Rendezvous with a familiar face</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="G" pid="000">
+  <name>Turn Up The Heat</name>
+  <detail>End it, once and for all</detail>
+ </trophy>
+</trophyconf>

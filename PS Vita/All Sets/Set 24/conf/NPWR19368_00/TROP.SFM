@@ -1,0 +1,72 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000ea5c5e1db5c326f55c4f598ea75f3b6cae35ab8d2d6648edb9a939bf75d3e32bf4db8d1d5a8608de46bad7fed6c46f7b15ce211dd61774572a44ece763da1457e8ea2af10b95204dcbce53a7d5869df42a3d3b8effad1d47cf7ce32e0293e1ce5186d2d51b0a534c0fdc13cfd010b3a2be096d61eadc5df569ebba779076c0c95364f87c6d17b4b071769bdf696cb423d33dd1e2-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR19368_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Football Game</title-name>
+ <title-detail>Football Game</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Platinum Football</name>
+  <detail>Get all other trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="000">
+  <name>Remove the Evidence</name>
+  <detail>Mom won't suspect a thing...</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>The Lake</name>
+  <detail>Our favorite place.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>Suzy unfolded</name>
+  <detail>Mom ruined a good photograph!</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>Barista</name>
+  <detail>Mom's favorite brew.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>Among the leaves</name>
+  <detail>First time you've been up here in a while...</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>Where's Suzy?</name>
+  <detail>I can't find her.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>Distracted entry</name>
+  <detail>You've made it back into the changing rooms.</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>The End</name>
+  <detail>Or the beginning?</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>The Past: One</name>
+  <detail>She doesn't like stubble.</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="G" pid="000">
+  <name>The Past: Two</name>
+  <detail>Backyard delights.</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="G" pid="000">
+  <name>The Past: Three</name>
+  <detail>The usual meeting spot.</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="G" pid="000">
+  <name>The Past: Four</name>
+  <detail>She needs some time.</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="G" pid="000">
+  <name>The Past: Six</name>
+  <detail>Betrayal. </detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="G" pid="000">
+  <name>The Past: Five</name>
+  <detail>Match time.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="G" pid="000">
+  <name>Music Fan</name>
+  <detail>You've played both of the tapes.</detail>
+ </trophy>
+</trophyconf>

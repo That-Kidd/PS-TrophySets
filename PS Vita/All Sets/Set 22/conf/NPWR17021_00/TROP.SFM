@@ -1,0 +1,60 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000006d7d738c07d3ae1d21c02d4a8e0282013b522d98a7dc362c18d43b6c98ab39b6897c8899bce719b3d35e62beb8aafd846476c4eb00a429975cf543ad4dce91e7835f2d099c861ec6a81b095d1db37faa14bc7fa9221299ecd7abad974cb3640f3e291b91b9d680687f59a090119834481c4759d485f2c1ac70a011de7ba77fb64872bd0fdddfccc66e5d6af0c1fac6a188d7f837-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="small">
+ <npcommid>NPWR17021_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Necrosphere</title-name>
+ <title-detail>Necrosphere</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Spandex</name>
+  <detail>Pick up the first powerup</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Invisible Gauntlets</name>
+  <detail>Pick up the second powerup</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Vertical Freedom</name>
+  <detail>Pick up the third powerup</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>OP</name>
+  <detail>Pick up the secret powerup</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>You did it!</name>
+  <detail>Finish the game</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>DVD Collector</name>
+  <detail>Collect 10 DVDS</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Sitcom Fan!</name>
+  <detail>Collect up all DVDS</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>OCD</name>
+  <detail>Read all messages and light all torches</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="-1">
+  <name>Necrosphere Done Quick</name>
+  <detail>Finish the game In less than 30 minutes</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>Almost Flawless Execution</name>
+  <detail>Finish the game dying less than 100 times</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="-1">
+  <name>IDDQD</name>
+  <detail>Finish the game without dying</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="-1">
+  <name>Zoasts 'n Goats</name>
+  <detail>Finish the game with all DVDs in less than 35 minutes</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="-1">
+  <name>Dreamcatcher</name>
+  <detail>Finish "Terry's Dream" Side Story</detail>
+ </trophy>
+</trophyconf>

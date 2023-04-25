@@ -1,0 +1,216 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000a7056f4a11b537329325c3b18a43ce1d25df432504a86d59f12ebc691200846f3700f8ee0c5b5ba9e9264e6d9edf2e335b67e139c84e9974c7ca1e9a2c6a34610877a6a29a576a770a3dcf8ce5a7d784a317c2fbc66d97b25b09f6116a091ea2cb06a61accfaa72d7e7b1b6f8484498fffc38cdcda11093c4208c17a6925a8b398b3e2c7b01d713192cc3d595bdb43090579f507-->
+<trophyconf version="1.1" platform="ps3,psp2" policy="large">
+ <npcommid>NPWR06959_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>ガンダムブレイカー2</title-name>
+ <title-detail>ガンダムブレイカー2のトロフィー</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>マスター・オブ・ブレイカー2</name>
+  <detail>すべてのトロフィーを獲得する</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>アルティメット・ブレイカー</name>
+  <detail>すべてのミッションでSランクを取得する</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>キング・オブ・チャレンジャー</name>
+  <detail>すべてのチャレンジミッションをクリアする</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>ミッション・コンプリート</name>
+  <detail>すべてのミッションをクリアする</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>EXコレクター</name>
+  <detail>すべてのEXアクションを習得する</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="S" pid="000">
+  <name>バーストコレクター</name>
+  <detail>すべてのバーストアクションを習得する</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>なかなかのガンプラ</name>
+  <detail>HGLv10のパーツを作成する</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>最高のガンプラ</name>
+  <detail>HGLv20のパーツを作成する</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>究極のガンプラ</name>
+  <detail>MGLv10のパーツを作成する</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>熟練ガンプラビルダー</name>
+  <detail>強化ポイントが割振り可能になる</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>スーパー・ガンプラビルダー</name>
+  <detail>アビリティ強化が可能になる</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>アルティメット・ガンプラビルダー</name>
+  <detail>アビリティ変換が可能になる</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>入魂のガンプラ</name>
+  <detail>アビリティを強化しLｖ10にする</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>ソードダンサー</name>
+  <detail>ダブルサーベル系近接武器の△攻撃で敵パーツを外しエースポイント「ソードダンサー」を取得&#x0a;</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>アックスブレイク</name>
+  <detail>アックス系近接武器の攻撃で敵シールドを破壊もしくは敵パーツを外しエースポイント「アックスブレイク」を取得&#x0a;</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>ランスチャージ</name>
+  <detail>ランス系近接武器のEXアクションで敵の動きを阻害してエースポイント「ランスチャージ」を取得&#x0a;</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>デッドエンドバスター</name>
+  <detail>大剣系近接武器の攻撃でパーツアウト中の敵パーツをさらに外しエースポイント「デッドエンドバスター」を取得&#x0a;</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>バインドウィップ</name>
+  <detail>ムチ系近接武器のEXアクションで敵をショック状態にしてエースポイント「バインドウィップ」を取得&#x0a;</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>ブレードバリア</name>
+  <detail>ツインブレード系近接武器の回転攻撃で弾を防御してエースポイント「ブレードバリア」を取得</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>レスリングクロー</name>
+  <detail>一部機体で選択できるクローの投げ攻撃で敵を撃破しエースポイント「レスリングクロー」を取得</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>ガンダムファイト・レディー・ゴー！！</name>
+  <detail>モビルファイター機体などの腕を装備すると選択できる拳法を使用してミッションをクリア</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>マニピュレーターの使い方</name>
+  <detail>近接武器を外すと選択できる格闘を使用してミッションをクリア</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>ガンダムを破壊する者</name>
+  <detail>1/60スケールの機体を撃破する</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>INVITATION</name>
+  <detail>プロローグをクリアする</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="S" pid="000">
+  <name>SUCCEED</name>
+  <detail>ミッションフェーズ3をクリアする</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="G" pid="000">
+  <name>WISH TO SEE YOU AGAIN</name>
+  <detail>デビルガンダムを撃破する</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="S" pid="000">
+  <name>試される力</name>
+  <detail>エクストラミッションフェーズ1をクリアする</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="B" pid="000">
+  <name>目覚める力</name>
+  <detail>覚醒を発動させる</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="B" pid="000">
+  <name>想いの力</name>
+  <detail>進化した覚醒を発動させる</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>エアブラシ</name>
+  <detail>「エアブラシキット」を入手してペイントに入る</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>ウォッシング</name>
+  <detail>「ウォッシングキット」を入手してペイントに入る</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>足元汚し</name>
+  <detail>「足元汚しキット」を入手してペイントに入る</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>チッピング</name>
+  <detail>「チッピングキット」を入手してペイントに入る</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>バトルダメージ</name>
+  <detail>「傷処理キット」を入手してペイントに入る</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>俺のガンダム</name>
+  <detail>機体ネーム編集で機体を名付ける</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>ガンプラはどんな自由な発想で作ったっていいんだ！</name>
+  <detail>スクラッチでパーツを改造する</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>この武器は自分は見ていません！</name>
+  <detail>ウェポンビルドで武装を作成する</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>またこいつを記録回路に取り付けろ</name>
+  <detail>強化モジュールを初めてセットする</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>ガンプラにはさまざまな楽しみ方があるのだよ</name>
+  <detail>エンブレムを50種入手する</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="000">
+  <name>ガンプラは常に進化している</name>
+  <detail>エンブレムを100種入手する</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="S" pid="000">
+  <name>この機体を君色に染め上げて欲しい</name>
+  <detail>エンブレムを150種入手する</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="B" pid="000">
+  <name>携行アイテムは装備しないと意味が無いぞ</name>
+  <detail>ショップで携行アイテムを入手する</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="B" pid="000">
+  <name>ナチュラルコーディネイター</name>
+  <detail>ノーマルスーツアバターを変更する</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="B" pid="000">
+  <name>珠玉のボックスアート</name>
+  <detail>ショップでガンプラを入手する</detail>
+ </trophy>
+ <trophy id="044" hidden="no" ttype="B" pid="000">
+  <name>HGボックスタワー</name>
+  <detail>ショップでガンプラ（HG）を10個入手する</detail>
+ </trophy>
+ <trophy id="045" hidden="no" ttype="B" pid="000">
+  <name>MGボックスマウンテン</name>
+  <detail>ショップでガンプラ（MG）を10個入手する</detail>
+ </trophy>
+ <trophy id="046" hidden="no" ttype="B" pid="000">
+  <name>俺がマスターグレードだ！</name>
+  <detail>ヘッド・ボディ・アーム・レッグ・バックパックがすべてMGパーツで構成された機体を作成する</detail>
+ </trophy>
+ <trophy id="047" hidden="no" ttype="B" pid="000">
+  <name>ハイブレイカー</name>
+  <detail>1/144スケールの敵機体を1000体撃破する</detail>
+ </trophy>
+ <trophy id="048" hidden="no" ttype="B" pid="000">
+  <name>マスターブレイカー</name>
+  <detail>1/100スケールの敵機体を200体撃破する</detail>
+ </trophy>
+ <trophy id="049" hidden="no" ttype="B" pid="000">
+  <name>パーフェクトブレイカー</name>
+  <detail>1/60スケールの敵機体を50体撃破する</detail>
+ </trophy>
+ <trophy id="050" hidden="no" ttype="B" pid="000">
+  <name>パーツアウトブレイカー</name>
+  <detail>パーツ外れが発生した状態の敵機体を1000体撃破する</detail>
+ </trophy>
+ <trophy id="051" hidden="no" ttype="B" pid="000">
+  <name>それでも守りたい拠点があるんだ</name>
+  <detail>防衛対象の残り耐久値75%以上でディフェンスミッションまたはマルチディフェンスミッションをクリアする</detail>
+ </trophy>
+</trophyconf>

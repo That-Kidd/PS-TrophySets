@@ -1,0 +1,136 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000dd94fbdf44ec12bb0746aeb6a284e97e440febdfc004b2f0787b3de06a61bc137d729edd3015ffd773eb9814166c3e3bd27fa35613806dc3b148f76550abfdaa9f0172379a689d84c9b299e2eb00c27fe2d42cdeb96c785951b7b049d5f10a2b9a394fc298f07edb20160a7e49086e056810b3543b06be5128ac7158a9187787fb87144ea4999edd18f08f6775bea1e2258b3f23-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR08662_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>クラシックダンジョン戦国</title-name>
+ <title-detail>クラシックダンジョン戦国のトロフィーセットです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>クラダンのプラチナ</name>
+  <detail>クラシックダンジョン戦国の全てのトロフィーを獲得する。</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>はじめてのダンジョン</name>
+  <detail>第一章姉川をクリアする。</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>魔装陣の基礎</name>
+  <detail>魔装陣のチュートリアルを終える。</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>第一章クリア！</name>
+  <detail>第一章のステージをクリアする。</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>第二章クリア！</name>
+  <detail>第二章のステージをクリアする。</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>第三章クリア！</name>
+  <detail>第三章のステージをクリアする。</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>第四章クリア！</name>
+  <detail>第四章のステージをクリアする。</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>第五章クリア！</name>
+  <detail>第五章のステージをクリアする。</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>第六章クリア！</name>
+  <detail>第六章のステージをクリアする。</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>第七章クリア！</name>
+  <detail>第七章のステージをクリアする。</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>第八章クリア！</name>
+  <detail>第八章のステージをクリアする。</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>第九章クリア！</name>
+  <detail>第九章のステージをクリアする。</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>職探しで自分探し</name>
+  <detail>転職する。</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>やりこみへの第一歩</name>
+  <detail>ネオジョン、またはサンジョンを初めてプレイした。</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>俊足</name>
+  <detail>初めてクリアタイムを更新した。</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>勝負への誘い</name>
+  <detail>ランキングに初めて登録した。</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>魂の解放</name>
+  <detail>エキストラで初めて魂を解放して武将を仲間にした。</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>諸国漫遊</name>
+  <detail>ストーリーの全ステージをクリアする。</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>全国制覇</name>
+  <detail>エキストラの全ステージをクリアする。</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="000">
+  <name>転職のススメ</name>
+  <detail>だれか１人のレベルを99まで上げる。</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>最強装備を求めて</name>
+  <detail>ダンジョンで称号が４つついた装備品を獲得する。</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>レアなアレ</name>
+  <detail>ダンジョンでレアなアーティファクトを獲得する。</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>義に生きる者</name>
+  <detail>全ての武将を手に入れる。&#x0a;</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>難攻不落</name>
+  <detail>築城で最大まで増築する。</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>魔物愛好家</name>
+  <detail>敵図鑑の項目を全て解放する。</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="S" pid="000">
+  <name>領民を愛してやまなし</name>
+  <detail>目安箱の依頼を全て達成する。&#x0a;</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="G" pid="000">
+  <name>ネオジョン踏破！</name>
+  <detail>ネオジョン99Fをクリアする。</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="G" pid="000">
+  <name>サンジョン踏破！</name>
+  <detail>サンジョン99Fをクリアする。</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="G" pid="000">
+  <name>魔装陣マスター</name>
+  <detail>だれか１人が全ての魔装陣を修得する。</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="G" pid="000">
+  <name>才能の塊</name>
+  <detail>だれか１人のレベルを全ての職業で99まで上げる。</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="G" pid="000">
+  <name>強さを求めて</name>
+  <detail>デスジョンを解放する。</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="G" pid="000">
+  <name>天下に名が轟く</name>
+  <detail>名声値を999にする。</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,52 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000a81f941897444758f3bc86f18c105a93170f554d02158d6a20a60e757242f27e4e6efe7f84ebf9ac491c72783f2e48146eb5884f2ee56fe3f3a86fd4bed3441c06c2864dd6c4881a39af5e1668ebe0bea8c3b82049639e3857a332178aa3882ca237ba648696e680e905ab5c4fe694673f89e6ef4b1d722495eda27140d143280db4754967906c5bc8c9d68d29725297aa33a638-->
+<trophyconf version="1.1" platform="ps3,psp2,ps4" policy="freemium">
+ <npcommid>NPWR06289_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Infinita Strada</title-name>
+ <title-detail>Trophy set of Infinita Strada</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Card collector</name>
+  <detail>Got 25 types of card</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Achive level 10</name>
+  <detail>Achived player level 10</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Achive level 50</name>
+  <detail>Achived player level 50</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>First win of network battle</name>
+  <detail>Won first time on the network battle</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>10 win of network battle</name>
+  <detail>Won 10 times on the network battle</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>50 win of network battle</name>
+  <detail>Won 50 times on the network battle</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="-1">
+  <name>Card maniac</name>
+  <detail>Got 50 types of card</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="-1">
+  <name>Master agent</name>
+  <detail>Cleared the chapter 5</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="-1">
+  <name>Achive level 100</name>
+  <detail>Achived player level 100</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="-1">
+  <name>100 win of network battle</name>
+  <detail>Won 100 times on the network battle</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="-1">
+  <name>Infinita master</name>
+  <detail>Achieved player level 999</detail>
+ </trophy>
+</trophyconf>

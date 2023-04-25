@@ -1,0 +1,128 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000ff6c34c739cbb6495f47eca78a05d72ef10f2f1d52a3a373da3aac1c7c908547968da438835c789ddc358aa05dec02ee1dbc7cd6a7729120caa2c1dc0eff35b78cddb045afa7a55f76fd71041adb50d0ebfe6d9cf20715fb2c840ac1c5fa1d855deffef062a6d9c7b3115b193f35163bedb45d90d1fe19f2025f47c0a5c03d0ffdeac3d72e145a51c7ff19735d324792499167ff-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR10647_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Mystery Chronicle: One Way Heroics </title-name>
+ <title-detail>Mystery Chronicle: One Way Heroics trophy set</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>You have completed your Greatest Adventure!</name>
+  <detail>Acquire all trophies.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Novice Hero</name>
+  <detail>Clear any world other than the tutorial on Easy.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Intermediate Hero</name>
+  <detail>Clear a world on Normal.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Advanced Hero</name>
+  <detail>Clear a world on Hard.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>Expert Hero</name>
+  <detail>Clear a world on Very Hard.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>Fallen Angel Alma Vanquished!</name>
+  <detail>Defeat Fallen Angel Alma on Normal or higher difficulty.</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="000">
+  <name>The Giant of Light, Zeukrees Destroyed!</name>
+  <detail>Defeat Zeukrees, the Giant of Light.</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="G" pid="000">
+  <name>Pluton, the King of Darkness Conquered!</name>
+  <detail>Defeat Pluton.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>Adventurer</name>
+  <detail>Reach the End of the East.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>Dream Nomad</name>
+  <detail>Reach the End of Dreams.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>One Who Knows the Nature of the World</name>
+  <detail>Reach the end of the world.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>Let's Renovate the Castle</name>
+  <detail>Gain ability to customize the castle.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>Lord of the Prospering Castle</name>
+  <detail>Expand the castle.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>Peerless Lord of the Castle</name>
+  <detail>Recruit all residents.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>New Job</name>
+  <detail>Complete a quest that unlocks a class.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>Freedom of Job Selection</name>
+  <detail>Unlock all classes.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="G" pid="000">
+  <name>Job Master</name>
+  <detail>Clear on Normal or higher difficulty with all classes.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Treasure Hunter</name>
+  <detail>Open 50 treasure chests on 1 adventure.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>I love treasure!</name>
+  <detail>Open 100 treasure chests on 1 adventure.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Beast Hunter</name>
+  <detail>Defeat 100 monsters on 1 adventure.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>Destroyer</name>
+  <detail>Defeat 200 monsters on 1 adventure.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>Master of the Dream Vault</name>
+  <detail>Expand Dream Vault to maximum size.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>Fellow Journeyer</name>
+  <detail>Take 3 Allies with you on your adventure.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>Bug Extermination</name>
+  <detail>Defeat the Bug Emperor.</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>First Battle</name>
+  <detail>Battle another hero in an online match for the first time.</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>You got Battle Skills!</name>
+  <detail>Battle in 10 online matches.</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="S" pid="000">
+  <name>Huzzah! First Victory!</name>
+  <detail>Win an online match.</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="G" pid="000">
+  <name>Hero Killer</name>
+  <detail>Win 10 online matches in a row.</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="G" pid="000">
+  <name>Extra Medal</name>
+  <detail>Obtain an extra medal.</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="G" pid="000">
+  <name>Storyteller</name>
+  <detail>Unlock all epilogues.</detail>
+ </trophy>
+</trophyconf>

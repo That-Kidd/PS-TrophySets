@@ -1,0 +1,68 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000568144b4d064596eb1d35547a71ba009940002cc4db7151af4f98308d22c1fdb07e86b2239b574b62f0019582133b89b1b9c23cc20c0059fefe3a87c51415e5e755ad798875cb35f9c3009861f9e9912b2fe445f1c65e8b8fb8c630edcf2ab91a7d14ebeb83557b67d803ef2f944a825fd46b4bc198d90487cb3cab802cc0573b4e359c1eeb6a01418d66a779bd7712ef5c8d6f1-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR13870_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Semispheres trophies</title-name>
+ <title-detail>Semispheres trophies</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Semispheres</name>
+  <detail>Semispheres</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>I</name>
+  <detail>I</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>II</name>
+  <detail>II</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>III</name>
+  <detail>III</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>IV</name>
+  <detail>IV</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>V</name>
+  <detail>V</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>VI</name>
+  <detail>VI</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>VII</name>
+  <detail>VII</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>VIII</name>
+  <detail>VIII</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>IX</name>
+  <detail>IX</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>X</name>
+  <detail>X</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>XI</name>
+  <detail>XI</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>XII</name>
+  <detail>XII</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="000">
+  <name>XIII</name>
+  <detail>XIII</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="G" pid="000">
+  <name>35:00</name>
+  <detail>35:00</detail>
+ </trophy>
+</trophyconf>

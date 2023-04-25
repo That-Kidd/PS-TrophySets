@@ -1,0 +1,80 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000008e4a8c56aaeb676a74239ef8fdfb358306f5c70c5670f3c3f33effc673016abaa5fab972eae3cbf1bd97a94fe2e3b8647838fecf36b0ac5d848746f521809791fd8ff193f7b8ed915ae018f874c0cd622e9dcf09445de482a28bb212a457fae8083c2ac4978b9ad6cb75f9c49a70b3eb45287816d09becc89f2245b931bd92fe173d5d52f335b82e2cdfcea971c695705021ca16-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR13882_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>D.S.-Dal Segno-</title-name>
+ <title-detail>『D.S.-Dal Segno-』トロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>新しい恋がはじまる――</name>
+  <detail>『D.S.-Dal Segno-』を全てプレイしていただき、ありがとうございました</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>風南島へようこそ！</name>
+  <detail>名前入力を行う</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>ひまりルート</name>
+  <detail>ひまりルートに入った</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>遥月ルート</name>
+  <detail>遥月ルートに入った</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>依愛ルート</name>
+  <detail>依愛ルートに入った</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>乃絵里ルート</name>
+  <detail>乃絵里ルートに入った</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>天ルート</name>
+  <detail>天ルートに入った</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>Pleasure garden</name>
+  <detail>プロローグを読み終えた</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="G" pid="000">
+  <name>なるようになる――</name>
+  <detail>ノーマルルートを読み終えた</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="G" pid="000">
+  <name>だーいすきっ――！！</name>
+  <detail>ひまりルートを読み終えた</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="G" pid="000">
+  <name>私もずっと離れない</name>
+  <detail>遥月ルートを読み終えた</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="G" pid="000">
+  <name>――うむっ！</name>
+  <detail>依愛ルートを読み終えた</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="G" pid="000">
+  <name>絶対に幸せになろうね</name>
+  <detail>乃絵里ルートを読み終えた</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="G" pid="000">
+  <name>ありがとう。愛してます</name>
+  <detail>天ルートを読み終えた</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="G" pid="000">
+  <name>はい、必ず！</name>
+  <detail>ＴＲＵＥルートを読み終えた</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="G" pid="000">
+  <name>ＢＧＭコンプリート</name>
+  <detail>全てのＢＧＭを聴いた</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="G" pid="000">
+  <name>ＣＧコンプリート</name>
+  <detail>全てのイベントＣＧを見た</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="G" pid="000">
+  <name>ルートコンプリート</name>
+  <detail>全てのルートを読んだ</detail>
+ </trophy>
+</trophyconf>

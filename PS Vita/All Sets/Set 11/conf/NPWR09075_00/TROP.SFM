@@ -1,0 +1,96 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000001826df70e0796b23e563dabed0fb68df48621ff656147f8884f6441987d788c04038a1c7b7466e97e1f9f64ffa8c82c03c4816c92c014685e967b40457b8eeb4bedb2d00d6f420d0fbb527f440aec8c24b7cf7279b0c3a5040f2891b524b49f0f61b62b78ce33cac872e766fc9ad852f3e70e3390601f65df79dd1f986b5f0e544200e9dc3f26a3bb4d0a4d9de656e9b3070c6fd-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR09075_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>BAD APPLE WARS</title-name>
+ <title-detail>BAD APPLE WARSのトロフィーです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>オールコンプリート</name>
+  <detail>全てのトロフィーを獲得した。</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>ＰＩＣＴＵＲＥコンプリート</name>
+  <detail>ＰＩＣＴＵＲＥの獲得率が１００％になった。</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>ＭＯＶＩＥコンプリート</name>
+  <detail>ＭＯＶＩＥの獲得率が１００％になった。</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>ＢＧＭコンプリート</name>
+  <detail>ＢＧＭの獲得率が１００％になった。</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>ＦＬＯＷＣＨＡＲＴコンプリート</name>
+  <detail>ＦＬＯＷＣＨＡＲＴの達成率が１００％になった。</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>禁じられた触れ合い</name>
+  <detail>初めて禁忌魂触（タブー・コンフレート）をした。</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>死んで入学オメデトウ</name>
+  <detail>ＮＥＶＡＥＨ学園に入学した。</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>果たされた約束</name>
+  <detail>アルマの現世エンドとエピローグを見た。</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>私の全部で</name>
+  <detail>ヒガの現世エンドとエピローグを見た。</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>綺麗な世界</name>
+  <detail>シキシマの現世エンドとエピローグを見た。</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>ボクの好きな人</name>
+  <detail>サトルの現世エンドとエピローグを見た。</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>約束のキス</name>
+  <detail>ワタセの現世エンドとエピローグを見た。</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>涙の理由</name>
+  <detail>アルマのＮＥＶＡＥＨエンドを見た。</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>必要としてくれ</name>
+  <detail>ヒガのＮＥＶＡＥＨエンドを見た。</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>色のない居場所</name>
+  <detail>シキシマのＮＥＶＡＥＨエンドを見た。</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>繰り返す出会い</name>
+  <detail>サトルのＮＥＶＡＥＨエンドを見た。</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="S" pid="000">
+  <name>彼女の絶望</name>
+  <detail>ワタセのＮＥＶＡＥＨエンドを見た。</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="G" pid="000">
+  <name>アルマＣＧコンプリート</name>
+  <detail>アルマのＰＩＣＴＵＲＥを全てオープンした。</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="G" pid="000">
+  <name>ヒガＣＧコンプリート</name>
+  <detail>ヒガのＰＩＣＴＵＲＥを全てオープンした。</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="G" pid="000">
+  <name>シキシマＣＧコンプリート</name>
+  <detail>シキシマのＰＩＣＴＵＲＥを全てオープンした。</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="G" pid="000">
+  <name>サトルＣＧコンプリート</name>
+  <detail>サトルのＰＩＣＴＵＲＥを全てオープンした。</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="G" pid="000">
+  <name>ワタセＣＧコンプリート</name>
+  <detail>ワタセのＰＩＣＴＵＲＥを全てオープンした。</detail>
+ </trophy>
+</trophyconf>

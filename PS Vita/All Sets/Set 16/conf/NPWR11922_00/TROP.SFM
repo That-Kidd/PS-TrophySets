@@ -1,0 +1,128 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000852b6fe800176eb10bf47452b1a244a4a2b45e1c77c07641dcfaa059acef1c782197e04ae94ef8b652cf78a3c8a3e37faf6ff16f1db7c94c4ed1a04ec84ffdf47a03fce7d8aa627c337211b15954179239b5560201b846431d6403dab7ffa7b64c3e53890909d5f5348e8d616629233577d10f34d6c904b1f04fec45bb4faf89f66e806d20e0607febcfde0be83cc295344c7b55-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR11922_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>신 하야리가미2</title-name>
+ <title-detail>신 하야리가미2 트로피</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>컴플리트</name>
+  <detail>모든 트로피를 획득했다</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>엔딩 달성률 100%</name>
+  <detail>모든 엔딩을 달성했다</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>일러스트 획득률 100%</name>
+  <detail>모든 일러스트를 획득했다</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>음악 획득률 100%</name>
+  <detail>모든 음악을 획득했다</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>데이터베이스 획득률 100%</name>
+  <detail>모든 데이터베이스를 획득했다</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>전 루트 S랭크 클리어</name>
+  <detail>모든 루트를 S랭크로 클리어했다</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>엔딩 달성률 50%</name>
+  <detail>엔딩을 50% 이상 달성했다</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>일러스트 획득률 50%</name>
+  <detail>일러스트를 50% 이상 획득했다</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>음악 획득률 50%</name>
+  <detail>음악을 50% 이상 획득했다</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>데이터데이스 획득률 50%</name>
+  <detail>데이터베이스를 50% 이상 획득했다</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>제1화 클리어</name>
+  <detail>제1화를 클리어했다</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>제2화 클리어</name>
+  <detail>제2화를 클리어했다</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>제3화 클리어</name>
+  <detail>제3화를 클리어했다</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>제4화 클리어</name>
+  <detail>제4화를 클리어했다</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>최종화 클리어</name>
+  <detail>최종화를 클리어했다</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="S" pid="000">
+  <name>아이젠 세나 편 클리어</name>
+  <detail>아이젠 세나 편을 클리어했다</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="S" pid="000">
+  <name>오컬트 박사</name>
+  <detail>모든 오컬트 루트를 클리어했다</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="S" pid="000">
+  <name>과학 박사</name>
+  <detail>모든 과학 루트를 클리어했다</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="S" pid="000">
+  <name>완벽한 추리</name>
+  <detail>추리 로직에서 전부 완벽한 추리를 했다</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>무비 감상</name>
+  <detail>오프닝 무비를 보았다</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="000">
+  <name>용기 있는 결단</name>
+  <detail>처음으로 커리지 포인트를 사용했다</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>명추리</name>
+  <detail>처음으로 추리 로직에서「우」를 획득했다</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="B" pid="000">
+  <name>용기를 모두 사용했다</name>
+  <detail>모든 커리지 포인트를 사용했다</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>뒷 이야기</name>
+  <detail>후일담 하나를 보았다</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="000">
+  <name>추리 포기</name>
+  <detail>추리 로직에서 전부 틀린 추리를 했다</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="B" pid="000">
+  <name>라이어즈 아트 마스터</name>
+  <detail>라이어즈 미터 MAX로 라이어즈 아트를 마쳤다</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>슬픔의 버진 로드</name>
+  <detail>다나카 과장과 결혼 엔딩을 달성했다</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="B" pid="000">
+  <name>역시 거짓말은 못 하겠어!</name>
+  <detail>라이어즈 아트에서 계속 입을 다물었다</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="B" pid="000">
+  <name>도청 로봇 발진!</name>
+  <detail>도청 로봇을 기동시켰다</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="B" pid="000">
+  <name>엔들레스 퀘스천</name>
+  <detail>3회 이상 셀프 퀘스천을 다시 했다</detail>
+ </trophy>
+</trophyconf>

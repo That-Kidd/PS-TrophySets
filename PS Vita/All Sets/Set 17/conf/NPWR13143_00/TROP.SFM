@@ -1,0 +1,80 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000005e1d057f83bf1e62713aae3d8b02d2c904575b052a5f7130c2f93cdf6cc7008121b4e6aed70afb01854f15025afb790fc88cd1830dc84f328cd5557d3b6a1a98602146d4e0659c43be307de7b3ac54d4324c6c1ec91d664b84481f76765cdba6d5f25d66b225c80b1f103df16d8ad6cf8e9396dfabbdc30a3712e9a7aa865d3d38e4501b2f3ed95cac4a12938333d93bf0b8d4ea-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR13143_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>ダイイングリボーン</title-name>
+ <title-detail>ダイイングリボーントロフィー</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>試練、再び</name>
+  <detail>すべてのトロフィーを獲得</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>すべてわかったのか？</name>
+  <detail>メモの情報をすべて獲得</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="G" pid="000">
+  <name>やあ、マシュー</name>
+  <detail>セクション１クリア</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="G" pid="000">
+  <name>彼女は君の助けが必要だ……</name>
+  <detail>セクション２クリア</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="G" pid="000">
+  <name>なぜ彼を助ける？</name>
+  <detail>セクション３クリア</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="G" pid="000">
+  <name>これは私の最悪の誕生日だ……</name>
+  <detail>セクション４クリア</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="G" pid="000">
+  <name>マシュー、開けてくれ……</name>
+  <detail>セクション５クリア</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="G" pid="000">
+  <name>愛するものを亡くした苦しみ……</name>
+  <detail>セクション６クリア</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>私の言ったことを覚えておけ、君がしたことを思い出すんだ</name>
+  <detail>すべてのテレビをチェックした</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>マシュー、さすが警察官だ</name>
+  <detail>すべての暗号パズルを解読</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>ラストハーバーへようこそ</name>
+  <detail>ゲーム開始</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>ずっと君の近くにいる</name>
+  <detail>テレビ画面の男と女を見る</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>マシュー、賢いじゃないか</name>
+  <detail>アイテムの合成に初めて成功</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>わざわざ君のために準備したんだ</name>
+  <detail>メモの情報を初めて獲得</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>母のお気に入りのメロディー</name>
+  <detail>セクション１で、ピアノを使い正確なメロディーを奏でる</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="S" pid="000">
+  <name>マシュー、目がくらんだか？</name>
+  <detail>セクション２で、電源ボックスの複雑な配線をつなぐ</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="S" pid="000">
+  <name>マシュー、プレゼントは？</name>
+  <detail>セクション４で、ケーキの上のろうそくに火をともす</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="S" pid="000">
+  <name>マシュー、いったい何をしたんだ？</name>
+  <detail>人形を使ってベッドの仕掛けを動かす</detail>
+ </trophy>
+</trophyconf>

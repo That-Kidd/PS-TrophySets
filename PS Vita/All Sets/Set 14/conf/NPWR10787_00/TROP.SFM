@@ -1,0 +1,188 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000051295033bafe45de719e11590027f0fe6b9000259b835e75dc3ea31a5fb064191c99e8e49ecd99249b8b6cb0f743a2769245e093c04606a34aed9ed7525aabdb6d70ed961366780b586363abfe1ec69c4f3818642988be078f9d305527a0d244f5a912f8272605e8c3b90689f012451fed4fc8c1a4106f7e181a0ec184d07fa1a9d686e866199afaa78dfddb38a78a59e6ae7310-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR10787_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Exist Archive</title-name>
+ <title-detail>Exist Archive - The Other Side of the Sky -</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>A Person Obsessed</name>
+  <detail>Earn all trophies aside from the Platinum Trophy.</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>Curse of Immortality</name>
+  <detail>Beat the game on the "Curse of Immortality" Route.</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>An Eternity of Time</name>
+  <detail>Beat the game on the "An Eternity of Time" Route.</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>Dark God Kanata</name>
+  <detail>Beat the game on the "Dark God Kanata" Route.</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="S" pid="000">
+  <name>Going It Alone</name>
+  <detail>Beat the game having sent all party members back to Earth.</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="S" pid="000">
+  <name>All Together Now</name>
+  <detail>Beat the game having sent no party members back to Earth.</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>The True(ish) Heroes(?)</name>
+  <detail>Have Rejected Kanata and Rejected Ranze join your party.</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>And Then There Were Twelve</name>
+  <detail>Have Kagato join your party.</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>Yamatoga Interruptus</name>
+  <detail>Defeat Yamatoga.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>Weapon Collector</name>
+  <detail>Collect 100+ different weapons.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>Weapon Fanatic</name>
+  <detail>Collect 150+ different weapons.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>Armor Collector</name>
+  <detail>Collect 25+ different armors.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>Armor Fanatic</name>
+  <detail>Collect 50+ different armors.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>Accessory Collector</name>
+  <detail>Collect 15+ different accessories.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>Accessory Fanatic</name>
+  <detail>Collect 25+ different accessories.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>Item Collector</name>
+  <detail>Collect 150+ different weapons, armors &amp; accessories total.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="G" pid="000">
+  <name>Item Fanatic</name>
+  <detail>Collect 250+ different weapons, armors &amp; accessories total.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Speed Run Novice</name>
+  <detail>Collect all LV 1 rewards from Speed Run.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>Speed Run Expert</name>
+  <detail>Collect all LV 2 rewards from Speed Run.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="000">
+  <name>Speed Run Master</name>
+  <detail>Collect all LV 3 rewards from Speed Run.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>Novice Explorer</name>
+  <detail>Earn a 100% exploration rate in 10+ different dungeons.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>Master Explorer</name>
+  <detail>Earn a 100% exploration rate in 20+ different dungeons.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>Legendary Explorer</name>
+  <detail>Earn a 100% exploration rate in all dungeons.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>Novice Adventurer</name>
+  <detail>Clear all difficulty levels in 10+ different dungeons.</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>Master Adventurer</name>
+  <detail>Clear all difficulty levels in 20+ different dungeons.</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="G" pid="000">
+  <name>Legendary Adventurer</name>
+  <detail>Clear all difficulty levels in all dungeons.</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>Nouveu Riche</name>
+  <detail>Save up 100,000AMP.</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>Borgeoisie</name>
+  <detail>Save up 500,000AMP.</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="S" pid="000">
+  <name>Rockefeller, Carnegie, and YOU!</name>
+  <detail>Save up 1,000,000AMP.</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>Chain Beginner</name>
+  <detail>Win a battle having completed a 30+ hit chain.</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>Chain Expert</name>
+  <detail>Win a battle having completed a 100+ hit chain.</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="S" pid="000">
+  <name>Chain Master</name>
+  <detail>Win a battle having completed a 300+ hit chain.</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>Variant Hunter</name>
+  <detail>Defeat 100+ Variants.</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>Variant Slayer</name>
+  <detail>Defeat 1,000+ Variants.</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="S" pid="000">
+  <name>Variant Executioner</name>
+  <detail>Defeat 5,000+ Variants.</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>Chasseur Hunter</name>
+  <detail>Defeat 100+ Chasseur.</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>Chasseur Slayer</name>
+  <detail>Defeat 500+ Chasseur.</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="S" pid="000">
+  <name>Chasseur Executioner</name>
+  <detail>Defeat 1,000+ Chasseur.</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>Grand Sage</name>
+  <detail>Kanata has learned all magic spells.</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="000">
+  <name>So Very Greed-y</name>
+  <detail>Kanata has learned all Demon's Greed attacks.</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="B" pid="000">
+  <name>Skill Master</name>
+  <detail>Kanata has learned 100+ different Skills.</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="B" pid="000">
+  <name>Ultimate Aggressor</name>
+  <detail>Kanata has learned all Attack Skills.</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="G" pid="000">
+  <name>...Master of All</name>
+  <detail>Kanata has learned all of the party's abilities.</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="B" pid="000">
+  <name>Ladykiller</name>
+  <detail>Raise all female characters' affection for Kanata to "Love."</detail>
+ </trophy>
+ <trophy id="044" hidden="no" ttype="B" pid="000">
+  <name>A Man's Man</name>
+  <detail>Raise all male characters' affection for Kanata to "Best Friend."</detail>
+ </trophy>
+</trophyconf>

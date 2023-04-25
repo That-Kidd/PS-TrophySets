@@ -1,0 +1,72 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000062617526d4ffaa0a2c75572901e5d038ae7507cd16f83b819f32f02f72aea4a53478eea012cdbc673b952418edc1613ffbefad4cf19d2b2d249fcc467cb3e14ef66778ba9ee6e34f774c2a15ce1a829c72327e9831daa4174ec1df22deba2bacb63bbe8e93577d2d906a75774f1dc9570bcb4984fced4a9a8fe7ba0d37fb01bdbee3f605d4f97358ea70c5c999f84b31807392aa-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR14508_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Time Recoil</title-name>
+ <title-detail>Time Recoil</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Timeghoul</name>
+  <detail>Get all the trophies!</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>2 Star Par time</name>
+  <detail>Get a two star time from all levels in Time Attack</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>Faster than a bullet</name>
+  <detail>Get a three star time from all levels in Time Attack</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>Hardcore</name>
+  <detail>Complete all levels on Hardcore difficulty</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>Murderous</name>
+  <detail>Complete all levels on Murderous difficulty</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>Psychic</name>
+  <detail>Use Psy-Blast</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>Mr. Freeze, Time</name>
+  <detail>Activate Time Freeze</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>Dasher</name>
+  <detail>Kill four enemies with a single Dash</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>Dasher-Blaster</name>
+  <detail>Kill five enemies with a single Dash-Blast</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>Psyche</name>
+  <detail>Kill six enemies with a single Psy-Blast</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>Whole Worm</name>
+  <detail>Kill four enemies with a single Wormhole</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>Beat That</name>
+  <detail>Kill everyone in a level with melee</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>Shotgunner</name>
+  <detail>Kill three enemies with a single shotgun blast</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="000">
+  <name>Friendly Fire</name>
+  <detail>50 enemies dead by friendly fire</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="000">
+  <name>Six-Pack</name>
+  <detail>Chain six Dashes</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="G" pid="000">
+  <name>Blast Blast Blast... Blast</name>
+  <detail>Do four Dash-Blasts in a single level</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,44 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000000fbd826e0caa10cc0a6e0def98c38516d3edf089456bf246ecf74d9d81e30041b0c0bbcfcc35c10654da91f68295c72abcd27aefbcbfc9a5f20b6904e12379cbe721ee0766322f60d9d83c4e03457635084908c5ea79806e4bbc2037e37cc552260d4ae623078e9b1c017ad4448326faa84a74d4525c70f5d7f39ca79d557f5ed0b8674340a047376c3fb750a666c0a8d7b072af-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR10288_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Maliya</title-name>
+ <title-detail>Maliya Awards</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Plebes Game</name>
+  <detail>End story mode stage 1</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>The Smart</name>
+  <detail>End story mode stage 2</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="-1">
+  <name>The Tournament</name>
+  <detail>End story mode stage 3</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="S" pid="-1">
+  <name>The Final</name>
+  <detail>End story mode stage 4</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="-1">
+  <name>Malilla del campo</name>
+  <detail>Win to a human</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="-1">
+  <name>Honor and Grace</name>
+  <detail>The Masterpieces </detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="G" pid="-1">
+  <name>The End</name>
+  <detail>End story mode stage 5</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="-1">
+  <name>Someone else?</name>
+  <detail>Defeat the CPU in Vs mode</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="G" pid="-1">
+  <name>The Decision</name>
+  <detail>Awesome!</detail>
+ </trophy>
+</trophyconf>

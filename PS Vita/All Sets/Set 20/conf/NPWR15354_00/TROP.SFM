@@ -1,0 +1,116 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000009b63baa3afe576298f676159f5b93e26b1e319f48396e4fe0c0d35a6733fc6c643406472d532873b5058ecd5ede508cb21ed5afbdbf70fa002b3757bf2e6cc3eb915ded97af549882c7c4fe0bbbd3f05ef22ddae022441e010ca92878c09724577267f6e00927d7c66347977ac386b9f77081e8d2cbcbd88716a9946170f8854ecc3841ae4cf3f68683b7a2110a3e46357359be9-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR15354_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>State of Anarchy: Master of Mayhem</title-name>
+ <title-detail>State of Anarchy: Master of Mayhem</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>State of Anarchy: Master of Mayhem Platinum</name>
+  <detail>Good job! Completed all tasks!</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Enforcer</name>
+  <detail>Shoot 500 rioteers</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>I'll take that</name>
+  <detail>Collect 1000 cash</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>Peacemaker</name>
+  <detail>Shoot 3000 rioters</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>Car crasher</name>
+  <detail>Destroy 100 cars</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>Humanity's last hope</name>
+  <detail>Shoot 600 aliens</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>No fly zone</name>
+  <detail>Land 18 large UFOs</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>Wrecker</name>
+  <detail>Destroy 400 turrets</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>Hitman</name>
+  <detail>Eliminate 29 bank bosses</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>Crazy driving</name>
+  <detail>Run over 200 rioteers</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>First aid</name>
+  <detail>Pickup 25 medkits</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>Doctor</name>
+  <detail>Pickup 200 medkits</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>Battle hardened</name>
+  <detail>Get wounded 25 times without dying</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="000">
+  <name>Veteran</name>
+  <detail>Get wounded 100 times without dying</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>Novice trasher</name>
+  <detail>Reach level 15</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>Full fleged wrecker</name>
+  <detail>Reach level 30</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>True anarchist</name>
+  <detail>Reach level 60</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="G" pid="000">
+  <name>Master of mayhem</name>
+  <detail>Reach level 90</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>Raising firepower</name>
+  <detail>Buy 10 weapons upgrades</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>More upgrades!</name>
+  <detail>Buy 20 weapons upgrades</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>Even more upgrades!</name>
+  <detail>Buy 40 weapons upgrades</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="G" pid="000">
+  <name>Upgrade master</name>
+  <detail>Buy 50 weapons upgrades</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>Smart guy</name>
+  <detail>Learn 10 talents</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>Talented</name>
+  <detail>Learn 20 talents</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>Ingenious</name>
+  <detail>Learn 30 talents</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="G" pid="000">
+  <name>All rounder</name>
+  <detail>Learn 40 talents</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="G" pid="000">
+  <name>Invasion denied</name>
+  <detail>Beat the game</detail>
+ </trophy>
+</trophyconf>

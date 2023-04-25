@@ -1,0 +1,156 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000a4e15e4b175df3b733ed9606306173cea8ee602007782de4d60c58bb799163b908967fa17b06e40081bcd7646c1a301dd43b0e2aa449b545860a3554485d0239cce0be80301ca1edf50be0e12ebcd7ec1ace54c76de4981ba47dbe026a92f2b2719c3edef0a0c2b63a69cb96240325045b42bea59dec9c72f828156465af5e7120416539e7b74804a76f4fadacba959776a74456-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR12181_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Collar×Malice</title-name>
+ <title-detail>Collar×Malice</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Collar×Malice</name>
+  <detail>You earned all trophies.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>The First Night</name>
+  <detail>You cleared the prologue.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Partners</name>
+  <detail>You entered a character specific route.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Information Gathering</name>
+  <detail>You obtained information at Shinjuku police station.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>On the Scene</name>
+  <detail>You explored a specific location.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>Clued In</name>
+  <detail>You deduced the correct answer.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>Unsolved Mystery</name>
+  <detail>You incorrectly deduced an answer.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>Good Communicator</name>
+  <detail>You politely returned a message.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>Mistakes Were Made...</name>
+  <detail>You reached your first bad ending.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>Shooting with Resolve</name>
+  <detail>You succeeded in Trigger Mode.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>Wavering Spirit, Wavering Aim</name>
+  <detail>You failed in Trigger Mode.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>Promise</name>
+  <detail>You gained Kei Okazaki's trust.</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="B" pid="000">
+  <name>Eternity by Your Side</name>
+  <detail>You cleared Kei Okazaki's route.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>Partners at Last</name>
+  <detail>You gained Mineo Enomoto's trust.</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="B" pid="000">
+  <name>Four Leaf Clover</name>
+  <detail>You cleared Mineo Enomoto's route.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>Making the Grade</name>
+  <detail>You gained Takeru Sasazuka's trust.</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>Happy Pet</name>
+  <detail>You cleared Takeru Sasazuka's route.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Intelligent Curiosity</name>
+  <detail>You gained Kageyuki Shiraishi's trust.</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>Indelible Memories</name>
+  <detail>You cleared Kageyuki Shiraishi's route.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Shackles</name>
+  <detail>You gained Aiji Yanagi's trust.</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="S" pid="000">
+  <name>Man Behind the Collar</name>
+  <detail>You exposed the mastermind.</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="S" pid="000">
+  <name>The View I Dreamt of</name>
+  <detail>You cleared Aiji Yanagi's route.</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="S" pid="000">
+  <name>Sorrow</name>
+  <detail>You reached all 5 tragic love endings.</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="G" pid="000">
+  <name>World of Continuous Despair</name>
+  <detail>You cleared Saeki's route.</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="000">
+  <name>9th Executor</name>
+  <detail>You experienced Tomoki Ogata's justice.</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="B" pid="000">
+  <name>8th Executor</name>
+  <detail>You experienced Hanako Kobayashi's crazed love.</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>7th Executor</name>
+  <detail>You experienced Akito Sera's guilt.</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="B" pid="000">
+  <name>6th Executor</name>
+  <detail>You experienced Rika Sugawara's fear.</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="B" pid="000">
+  <name>5th Executor</name>
+  <detail>You experienced Manabu Souda's solitude.</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="B" pid="000">
+  <name>4th and 3rd Executors</name>
+  <detail>You experienced Shion and Suzune Uno's hatred.</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="B" pid="000">
+  <name>2nd Executor</name>
+  <detail>You experienced Keisuke Sanjo's despair.</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="B" pid="000">
+  <name>The 1st Executor</name>
+  <detail>You experienced Rei Mikuni's blind faith.</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="G" pid="000">
+  <name>A Clearer Picture</name>
+  <detail>You viewed the perpetrators' pasts.</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="G" pid="000">
+  <name>Vivid Ideals</name>
+  <detail>You unlocked everything in the gallery.</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="G" pid="000">
+  <name>Eat Your Dessert</name>
+  <detail>You got all of the Bonus Tracks.</detail>
+ </trophy>
+ <trophy id="035" hidden="yes" ttype="S" pid="000">
+  <name>Give Yourself to the Rhythm</name>
+  <detail>You listened to all the BGM tracks.</detail>
+ </trophy>
+ <trophy id="036" hidden="yes" ttype="G" pid="000">
+  <name>All Possibilities Observed</name>
+  <detail>You viewed all endings in the game, including the bad ones.</detail>
+ </trophy>
+</trophyconf>

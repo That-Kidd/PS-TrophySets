@@ -1,0 +1,112 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000002b70d8d437ae28748c4e3a9022591d7d40b9ae702e774e2f49af051646f0af91448aec79fe4b81d39fd4fcd2583ee9182acaf8c830d52879b5aa2af51cb56c45481c6279f210feab2061f33307a5e407774977e51af5933b0c99d08e7baefb1e3c20bc1e4f9db37ad646fb942ed73218c05b7317bf28ad32030bd02ccadcf6dea182296eb0dc62471d9dc46e10ef884acf0586b3-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR07259_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>AR NOSURGE PLUS</title-name>
+ <title-detail>AR NOSURGE PLUS Trophy Data</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Acquired All Trophies</name>
+  <detail>Acquired all trophies.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="000">
+  <name>Purification with Cass</name>
+  <detail>Chatted a lot with Cass in Purification.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>Purification with Ion</name>
+  <detail>Chatted a lot with Ion in Purification.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>Gourmet</name>
+  <detail>Synthesized many items with Nay.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>So Many Birds</name>
+  <detail>Synthesized many items with Kanon.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>Troublemaker</name>
+  <detail>Synthesized many items with Tattoria.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>Science Girl</name>
+  <detail>Synthesized many items with Sarly.</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="G" pid="000">
+  <name>Reincarnation!</name>
+  <detail>Succeeded in reviving Prim.</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="G" pid="000">
+  <name>Thank you, see you again!</name>
+  <detail>Saw Ion and Nelo off to the Will of Exapico.</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="G" pid="000">
+  <name>Fun-Install</name>
+  <detail>Repeatedly installed to breasts in Purification.</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>Regional Nyuroki</name>
+  <detail>Purchased all regional Nyuroki at shops.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>Beginner Chain</name>
+  <detail>Chained a few in a single battle.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>Pro Chain</name>
+  <detail>Chained quite a bit in a single battle.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="000">
+  <name>Maniac Chain</name>
+  <detail>Chained a lot in a single battle.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>Burst</name>
+  <detail>Burst a little in a single battle.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>Burster</name>
+  <detail>Burst quite a bit in a single battle.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="G" pid="000">
+  <name>Burstest</name>
+  <detail>Burst a lot in a single battle.</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="S" pid="000">
+  <name>Lots of Friends</name>
+  <detail>Acquired all Friend Skills.</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="S" pid="000">
+  <name>That's Not Right!</name>
+  <detail>Healed the enemy with "Artificial Flower" Song Magic.</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>I Refuse.</name>
+  <detail>Heartlessly refused Ion's request.</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="S" pid="000">
+  <name>Bright World</name>
+  <detail>Reached the end of Ion's Genometrics.</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="S" pid="000">
+  <name>True Treasure</name>
+  <detail>Reached the end of Cass' Genometrics.</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="S" pid="000">
+  <name>Abandon All Else...</name>
+  <detail>Saw the Shurelia ending.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>The World Moves</name>
+  <detail>PHASE 1 completed.</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>The World Accelerates</name>
+  <detail>PHASE 2 completed.</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>A Planet Reborn</name>
+  <detail>PHASE 3 completed.</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,88 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000199b80f7ba90268ccab529cd73f442f697075cda09a41113927a0506b69710b4f259dd71f062c4769af596fc66863be85b430238b7999217664f9f4f3c29ab301970b557526c81a7f24758562984d29c195ec84d6d92ff8583bff65c245e225c283ad197ea9a81ecea7d2a250689790848c2eaae71d5684bd329ef82a31e0b78709d497227735e3cf5630543b8bf8f7d82ca8b5e-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR11089_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>さかあがりハリケーン Portable</title-name>
+ <title-detail>『さかあがりハリケーン Portable』トロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>恋のRock’n Roll Beat</name>
+  <detail>『さかあがりハリケーン Portable』を全てプレイしていただき、ありがとうございました</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>ケツバット３００連発</name>
+  <detail>最初のスチルシーンを見る</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>ここからはあなた次第さ</name>
+  <detail>最初の移動選択肢を選ぶ</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>…だったら、楽しくするしかないでしょっ</name>
+  <detail>プロローグを読み終える</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="S" pid="000">
+  <name>一過のち曇り空</name>
+  <detail>奈都希ルートに入った</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="S" pid="000">
+  <name>台風一過…？</name>
+  <detail>ゆかりルートに入った</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="000">
+  <name>猫の惑い</name>
+  <detail>涼ルートに入った</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>２つ目の出発点</name>
+  <detail>柚ルートに入った</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>（前略）責任、とってもらうからね？</name>
+  <detail>ハルルートに入った</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>ウタヒメのイツワリ</name>
+  <detail>凛ルートに入った</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="000">
+  <name>ルートあんのかよ！</name>
+  <detail>ＢＡＤＥＮＤルートを最後まで読んだ</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="G" pid="000">
+  <name>これからも頼むわね</name>
+  <detail>奈都希ルートを最後まで読んだ</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="G" pid="000">
+  <name>とんでけえええっ！</name>
+  <detail>ゆかりルートを最後まで読んだ</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="G" pid="000">
+  <name>やられっぱなしって我慢できないのよね！</name>
+  <detail>涼ルートを最後まで読んだ</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="G" pid="000">
+  <name>うみゅ－－－－っっ！</name>
+  <detail>柚ルートを最後まで読んだ</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="G" pid="000">
+  <name>ダァァァーリィィィーン！</name>
+  <detail>ハルルートを最後まで読んだ</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="G" pid="000">
+  <name>ぜ～んぶ先輩のせいですからね！</name>
+  <detail>凛ルートを最後まで読んだ</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="G" pid="000">
+  <name>ＢＧＭコンプリート</name>
+  <detail>全てのＢＧＭを聴いた</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="G" pid="000">
+  <name>ＣＧコンプリート</name>
+  <detail>全てのイベントＣＧを見た</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="G" pid="000">
+  <name>ＥＶＥＮＴコンプリート</name>
+  <detail>全てのイベントを読んだ</detail>
+ </trophy>
+</trophyconf>

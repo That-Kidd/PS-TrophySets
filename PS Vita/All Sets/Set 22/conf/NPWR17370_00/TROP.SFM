@@ -1,0 +1,204 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000c790f13b4a10ce4830533079439b2e76b584b9eea9794ffce5eba7bbacaaa817afe73d7ee3ba804f9e47d45041dbf94106c5dbdec64753811d325314d4af458cf1ce24bc9ab0d208619940549b7a44beef7069727f843bc3ac03d2f248e64fecbd7d8a865f08d9ccd8528b4f1882b17d3af156a4d05a4117b5639d8de4aef5248432a1c1dc0f5092d05cf3ed823a5bdfb0d840ca-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR17370_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>영웅전설 제로의 궤적 Evolution</title-name>
+ <title-detail>영웅전설 제로의 궤적 Evolution</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>『제로』를 통달한 자</name>
+  <detail>모든 트로피를 획득했다.</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>신참 수사관</name>
+  <detail>수사 수첩을 받았다.</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="S" pid="000">
+  <name>일류 수사관</name>
+  <detail>수사관 1st가 됐다.</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="S" pid="000">
+  <name>천안의 식자</name>
+  <detail>전투 수첩의 모든 정보를 모았다.</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="S" pid="000">
+  <name>시민의 영웅</name>
+  <detail>모든 지원 요청을 달성했다.</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="S" pid="000">
+  <name>불꽃의 요리사</name>
+  <detail>모든 레시피를 모았다.</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="000">
+  <name>쿼츠 콜렉터</name>
+  <detail>모든 쿼츠를 모았다.</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>북 콜렉터</name>
+  <detail>모든 『뒷골목 의사 글렌』과 『크로스벨 타임즈』를 모았다.</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>인테리어 콜렉터</name>
+  <detail>모든 가구와 에니그마 커버를 모았다.</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>트레저 헌터</name>
+  <detail>모든 보물 상자를 열었다.</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>폭조왕</name>
+  <detail>모든 물고기를 잡았다.</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>3-Star 셰프</name>
+  <detail>모든 대성공 요리를 만들었다.</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="B" pid="000">
+  <name>파격의 셰프</name>
+  <detail>모든 뜻밖의 요리를 만들었다.</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="000">
+  <name>백만장자</name>
+  <detail>소지금이 1,000,000미라 이상이 됐다.</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="B" pid="000">
+  <name>영원의 풍류인</name>
+  <detail>플레이 시간이 100시간을 넘었다.</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>지고의 검</name>
+  <detail>최강의 무기를 만들었다.</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>무쌍의 열사</name>
+  <detail>누군가의 레벨을 50까지 만들었다.</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>역전의 용사</name>
+  <detail>전투 승리 횟수 100회 달성했다.</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>분전의 맹자</name>
+  <detail>전투 승리 횟수 500회를 달성했다.</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="S" pid="000">
+  <name>역전의 승자</name>
+  <detail>전투 승리 횟수 1000회를 달성했다.</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="S" pid="000">
+  <name>천토의 지사</name>
+  <detail>적을 2000마리 이상 쓰러뜨렸다.</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>뇌광일섬</name>
+  <detail>선제 공격 발생 횟수를 총 100회 달성했다.</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="B" pid="000">
+  <name>초절비기</name>
+  <detail>S브레이크 발동 횟수를 100회 달성했다.</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>백화영격</name>
+  <detail>적의 기술/아츠 구동을 100회 저지했다.</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="000">
+  <name>기사회생</name>
+  <detail>전투에서 위기 상황을 벗어났다.</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="B" pid="000">
+  <name>현란공수</name>
+  <detail>택티컬 보너스치×3.00 이상을 달성했다.</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>연전연파</name>
+  <detail>3연 체인 배틀에서 승리했다.</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="B" pid="000">
+  <name>팔두격멸</name>
+  <detail>적 8마리를 동시에 쓰러뜨렸다.</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="B" pid="000">
+  <name>부도의 용자</name>
+  <detail>임의의 장을 전투 불능 횟수 0회로 클리어했다.</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="B" pid="000">
+  <name>용왕의 사자</name>
+  <detail>임의의 장을 전투 퇴각 횟수 0회로 클리어했다.</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="G" pid="000">
+  <name>고고의 수사관</name>
+  <detail>난이도 노멀 이상, 모든 파티원 레벨 40 이하로 게임을 클리어했다.</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="S" pid="000">
+  <name>베테랑 수사관</name>
+  <detail>난이도 하드로 게임을 클리어했다.</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="G" pid="000">
+  <name>전설의 수사관</name>
+  <detail>난이도 나이트메어로 게임을 클리어했다.</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="B" pid="000">
+  <name>별의 사냥꾼</name>
+  <detail>수배 마수 【오그빌라지】를 쓰러뜨렸다.</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="B" pid="000">
+  <name>달의 사냥꾼</name>
+  <detail>수배 마수 【비죠】를 쓰러뜨렸다.</detail>
+ </trophy>
+ <trophy id="035" hidden="yes" ttype="B" pid="000">
+  <name>태양의 사냥꾼</name>
+  <detail>수배 마수 【다크 레전드】를 쓰러뜨렸다.</detail>
+ </trophy>
+ <trophy id="036" hidden="yes" ttype="B" pid="000">
+  <name>어둠의 사냥꾼</name>
+  <detail>【레그나 브리엘】을 쓰러뜨렸다.</detail>
+ </trophy>
+ <trophy id="037" hidden="yes" ttype="B" pid="000">
+  <name>내딛는 결의</name>
+  <detail>서장 『특무지원과』를 클리어했다.</detail>
+ </trophy>
+ <trophy id="038" hidden="yes" ttype="B" pid="000">
+  <name>걸어가는 의지</name>
+  <detail>제1장 『신랑들의 오후』를 클리어했다.</detail>
+ </trophy>
+ <trophy id="039" hidden="yes" ttype="B" pid="000">
+  <name>떨쳐버린 망설임</name>
+  <detail>제2장 『금의 태양, 은의 달』을 클리어했다.</detail>
+ </trophy>
+ <trophy id="040" hidden="yes" ttype="B" pid="000">
+  <name>맞서는 결의</name>
+  <detail>제3장 『크로스벨 창립기념제』를 클리어했다.</detail>
+ </trophy>
+ <trophy id="041" hidden="yes" ttype="B" pid="000">
+  <name>추구를 향한 의지</name>
+  <detail>제4장 『숨어드는 예지』를 클리어했다.</detail>
+ </trophy>
+ <trophy id="042" hidden="yes" ttype="B" pid="000">
+  <name>새로운 결의</name>
+  <detail>종장  『크로스벨의 가장 긴 하루』를 클리어했다.</detail>
+ </trophy>
+ <trophy id="043" hidden="yes" ttype="B" pid="000">
+  <name>신분이 다른 사랑</name>
+  <detail>《검은 경매회》에 엘리와 참가했다.</detail>
+ </trophy>
+ <trophy id="044" hidden="yes" ttype="B" pid="000">
+  <name>세상 물정 모르는 오누이</name>
+  <detail>《검은 경매회》에 티오와 참가했다.</detail>
+ </trophy>
+ <trophy id="045" hidden="yes" ttype="B" pid="000">
+  <name>나쁜 친구의 유혹</name>
+  <detail>《검은 경매회》에 랜디와 참가했다.</detail>
+ </trophy>
+ <trophy id="046" hidden="yes" ttype="B" pid="000">
+  <name>엘리와의 인연</name>
+  <detail>엘리와의 인연이 깊어졌다.</detail>
+ </trophy>
+ <trophy id="047" hidden="yes" ttype="B" pid="000">
+  <name>티오와의 인연</name>
+  <detail>티오와의 인연이 깊어졌다.</detail>
+ </trophy>
+ <trophy id="048" hidden="yes" ttype="B" pid="000">
+  <name>랜디와의 인연</name>
+  <detail>랜디와의 인연이 깊어졌다.</detail>
+ </trophy>
+</trophyconf>

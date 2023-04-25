@@ -1,0 +1,128 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000e811bf2ee30de4ba030862d49aeb89c5b3f53f7bc5a1e7af0382fd1eb1316133328711b1d8e6554b83f25c4074ff49c25a7264140c5c292715dfc6feccc081f5dcb7c62308fd02139e2d249bfa4543915b113177a4ed4f8b716ace24daea899f9aa7cb8268c279c8d54c17c049f32c22dbf1d66a92e5d3c52ce490502080c1cf9f4f11f2c745142caf8ca87e299072d3cd904a1e-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR07039_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>NORN9 VAR COMMONS</title-name>
+ <title-detail>NORN9 VAR COMMONSのトロフィーリストです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>NORN9VCマスター</name>
+  <detail>全てのトロフィーを獲得した</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>物語は彼女の元へ</name>
+  <detail>プロローグをクリアした</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>全一章クリア</name>
+  <detail>全てのルートで一章をクリアした</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>純愛</name>
+  <detail>駆ルートクリア</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>渇望</name>
+  <detail>千里ルートクリア</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>運命</name>
+  <detail>正宗ルートクリア</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>敵対</name>
+  <detail>夏彦ルートクリア</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>声なき愛</name>
+  <detail>朔也ルートクリア</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>やさしい檻</name>
+  <detail>一月ルートクリア</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>罪と罰の取引</name>
+  <detail>暁人ルートクリア</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>執着</name>
+  <detail>ロンルートクリア</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>恋慕の友</name>
+  <detail>平士ルートクリア</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>真相</name>
+  <detail>真相ルートクリア</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>駆スチルCOMPLETE</name>
+  <detail>駆のスチルを全てオープンした</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>千里スチルCOMPLETE</name>
+  <detail>千里のスチルを全てオープンした</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>正宗スチルCOMPLETE</name>
+  <detail>正宗のスチルを全てオープンした</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>夏彦スチルCOMPLETE</name>
+  <detail>夏彦のスチルを全てオープンした</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>朔也スチルCOMPLETE</name>
+  <detail>朔也のスチルを全てオープンした</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>一月スチルCOMPLETE</name>
+  <detail>一月のスチルを全てオープンした</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="000">
+  <name>暁人スチルCOMPLETE</name>
+  <detail>暁人のスチルを全てオープンした</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>ロンスチルCOMPLETE</name>
+  <detail>ロンのスチルを全てオープンした</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>平士スチルCOMPLETE</name>
+  <detail>平士のスチルを全てオープンした</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>その他のスチルCOMPLETE</name>
+  <detail>その他のスチルを全てオープンした</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>MOVIE COMPLETE</name>
+  <detail>全てのMOVIEを見た</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>BGM COMPLETE</name>
+  <detail>全てのBGMを入手した</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="G" pid="000">
+  <name>スチル鑑賞COMPLETE</name>
+  <detail>全てのスチルをオープンした</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="G" pid="000">
+  <name>NORN9 QUESTマスター</name>
+  <detail>NORN9 QUESTで5000ポイント以上獲得した</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="G" pid="000">
+  <name>ノルン＋アンサンブルCOMPLETE</name>
+  <detail>ノルン＋アンサンブルの全てキーワードをオープンした</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="G" pid="000">
+  <name>ヒヨコチャンネルCOMPLETE</name>
+  <detail>全てのヒヨコチャンネルを見た</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="G" pid="000">
+  <name>ノルンストアCOMPLETE</name>
+  <detail>ノルンストアで全てのコンテンツを交換した</detail>
+ </trophy>
+</trophyconf>

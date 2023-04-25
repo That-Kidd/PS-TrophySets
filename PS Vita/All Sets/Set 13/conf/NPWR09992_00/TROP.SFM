@@ -1,0 +1,144 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000395189425e36f05c59a11a6c67003c9c58813afc10c5f4389006eee333137b87eafc2a1fe8d4491c39c362a2a6140978866b49e45a2af055c9202b40a337ecda6021e65ca6bfd3ef2bb4afe88bafd8de49f7f1654ac797445c01e97bfc9e0ce7468bb9d39e7b10179d0874f3a61c627e5458b93972021407de92663fa85cdfbee9616c22102eae5f5ffc0f6a85053c6d940b2bce-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR09992_00</npcommid>
+ <trophyset-version>01.02</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>A.W. : Phoenix Festa</title-name>
+ <title-detail>These are the trophies for The A.W. : Phoenix Festa</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Houka Kenran</name>
+  <detail>Master Houka Kenran and obtain all of the trophies to be had in the game.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>Art Fanatic</name>
+  <detail>Obtain all of the images in the Gallery Mode.</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="G" pid="000">
+  <name>Man of Many Names</name>
+  <detail>Win after obtaining 15 or more nicknames.</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="G" pid="000">
+  <name>A Leader of Women</name>
+  <detail>Lead all of the heroines to victory with both Ayato and an original character.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>Total Carnage</name>
+  <detail>Achieve 300 victories in Battle Mode.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>All-Knowing</name>
+  <detail>Increase the level of all Skills to their max value.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>Warriors Unleashed</name>
+  <detail>Unlock all of the Story Mode characters in Battle Mode.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>Battle Devotee</name>
+  <detail>Achieve 100 victories in Battle Mode.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>Here Comes Trouble</name>
+  <detail>Play as Ayato and partner with Julis to win the Phoenix Festa.</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>Hail to the Chief</name>
+  <detail>Play as Ayato and partner with Claudia to win the Phoenix Festa.</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>Friends to the End</name>
+  <detail>Play as Ayato and partner with Saya to win the Phoenix Festa.</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>Kirining House</name>
+  <detail>Play as Ayato and partner with Kirin to win the Phoenix Festa.</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>Singing for One's Supper</name>
+  <detail>Play as Ayato and partner with Sylvia to win the Battle Ceremonia.</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>A Fresh Face</name>
+  <detail>Win while playing as an original character.</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>Name Collector</name>
+  <detail>Win after obtaining 5 or more nicknames.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>Art Collector</name>
+  <detail>Earn a completion rate of 75% in the Gallery Mode.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>Dragon Hunter</name>
+  <detail>Complete the Biological Exterminator job on Difficulty 7.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>A Master of All Trades</name>
+  <detail>Learn all of the available Skills.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>The Princess and I</name>
+  <detail>Become partners with Julis for the first time.</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>The President and I</name>
+  <detail>Become partners with Claudia for the first time.</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="000">
+  <name>The Gunslinger and I</name>
+  <detail>Become partners with Saya for the first time.</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>The Warrior and I</name>
+  <detail>Become partners with Kirin for the first time.</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="B" pid="000">
+  <name>The Songstress and I</name>
+  <detail>Become partners with Sylvia for the first time.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>Budding Duelist</name>
+  <detail>Win a duel for the first time.</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>First Love</name>
+  <detail>Go on a date for the first time.</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>Lifetime Employee</name>
+  <detail>Complete a Difficulty 7 job (any type).</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>Joining the Workforce</name>
+  <detail>Complete a job for the first time.</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>The Cream of the Crop</name>
+  <detail>Achieve the top Ranking for the first time.</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>Making a Statement</name>
+  <detail>Achieve a Top 12 Ranking for the first time.</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>Standing Out from the Crowd</name>
+  <detail>Achieve a Top 72 Ranking for the first time.</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>Art Enthusiast</name>
+  <detail>Earn a completion rate of 50% in the Gallery Mode.</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>Art Student</name>
+  <detail>Use the Gallery Mode for the first time.</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>I'm a Fighter, Not a Lover</name>
+  <detail>Achieve 50 victories in Battle Mode.</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>A First Time for Everything</name>
+  <detail>Play the Battle Mode for the first time.</detail>
+ </trophy>
+</trophyconf>

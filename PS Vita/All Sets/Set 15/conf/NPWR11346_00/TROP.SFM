@@ -1,0 +1,124 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000772108d59c5e513fc07fbcbc0ab8015714cac0dc77abc2849b413a38824404331fde529c53676e6628b4246d21c36bdaa3c76bb0656efb6527ecedf0c8e5b96d3eafa6d57899db7f8bc98092253be2d91ca7fe4fd45682cddc5ac040fb2c3e94972ebc8bf2bacaf717f35f362a147d11fce37428b3b777720b2b2a4cc8904f8d3d1408019a3a6f929da273ad0543b5b4b1c99d97-->
+<trophyconf version="1.1" platform="ps3,psp2,ps4" policy="large">
+ <npcommid>NPWR11346_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Dungeon Punks</title-name>
+ <title-detail>The trophy set for Dungeon Punks</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Collector of Souls</name>
+  <detail>Obtain all trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>A King's Ransom</name>
+  <detail>Complete Chapter 1: Thorian Palace</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>A Pyrrhic Victory</name>
+  <detail>Complete Chapter 2: Sedge Dale</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Man's Best Friend</name>
+  <detail>Complete Chapter 3: Voleglade Village</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>Lawyering Up and Eating Crow</name>
+  <detail>Complete Chapter 4: The Floating Isles</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>Web of Deceit</name>
+  <detail>Complete Chapter 5: Goblin Slums</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>A Debtor's Burden</name>
+  <detail>Complete Chapter 6: Abandoned Crystal Mines</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>Vacation Plans</name>
+  <detail>Complete Chapter 7: Forest Laboratory</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>Riches and Rewards</name>
+  <detail>Complete Chapter 8: Riptide Beach</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>Pyramid Scheme</name>
+  <detail>Complete Chapter 9: The Shrinewood</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>Insurance Fraud</name>
+  <detail>Complete Chapter 10: Drakken Badlands</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>For Guts and Glory</name>
+  <detail>Complete Chapter 11: Gas Swamps</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>Actuary of Valor</name>
+  <detail>Complete Chapter 12: The Nether Realm</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="000">
+  <name>Adjuster of the Undead</name>
+  <detail>Beat campaign on New Game+ mode</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>Corporate Recruiter</name>
+  <detail>Recruit all six heroes</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>Magician's Apprentice</name>
+  <detail>Learn all hero spells at Rank 1</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="G" pid="000">
+  <name>Ultimate Wizard</name>
+  <detail>Upgrade all hero spells to Rank 2</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>Good Samaritan</name>
+  <detail>Accept and complete 50% of all missions</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>Questor Extraordinaire</name>
+  <detail>Accept and complete 75% of all missions</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="G" pid="000">
+  <name>Mission Mastery</name>
+  <detail>Accept and complete 100% of all missions</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>Trainer's Apprentice</name>
+  <detail>Reach experience level 10</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>Muscle Machine</name>
+  <detail>Reach experience level 20</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="G" pid="000">
+  <name>Experienced Mentor</name>
+  <detail>Reach experience level 40</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>Monster Trapper</name>
+  <detail>Defeat a total of 150 monsters</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>Monster Hunter</name>
+  <detail>Defeat a total of 300 monsters</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="S" pid="000">
+  <name>Monster Killer</name>
+  <detail>Defeat a total of 600 monsters</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="S" pid="000">
+  <name>Monster Terminator</name>
+  <detail>Defeat a total of 1200 monsters</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="S" pid="000">
+  <name>Monster Demolisher</name>
+  <detail>Defeat a total of 2400 monsters</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="G" pid="000">
+  <name>Monster Destroyer</name>
+  <detail>Defeat a total of 4800 monsters</detail>
+ </trophy>
+</trophyconf>

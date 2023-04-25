@@ -1,0 +1,48 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000eb399b9df234f26062dc2d6b98e52f7c2c769037a5f5a75266d0bf80a760e391c6701fac62729767a1b37c0d23205b5b43bb25f4c3e422877c85732880bdd888e9e8e839ab060b8c900f4442a172e4f51b6272d7c5129b9f7159794b873c2aedccc4f1cb0aec5885b9ba4b0ecb5303b7a749b1998796a0e6dc171471d8bff3aedb9e78298a5bbcbda54a514ac80fd2d159b04c22-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="small">
+ <npcommid>NPWR11342_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>140</title-name>
+ <title-detail>140 is a challenging minimalistic platformer with abstract colorful graphics. Rhythmic awareness is required to overcome obstacles controlled by an energetic, yet melancholic electronic soundtrack.</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>10001100-01</name>
+  <detail>Complete the first stage</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>10001100-10</name>
+  <detail>Complete the second stage</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="-1">
+  <name>10001100-11</name>
+  <detail>Complete the game</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="-1">
+  <name>10-00110001</name>
+  <detail>Complete the first mirror stage</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="-1">
+  <name>01-00110001</name>
+  <detail>Complete the second mirror stage</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="-1">
+  <name>11-00110001</name>
+  <detail>Complete all mirror stages</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="-1">
+  <name>0011010100000000</name>
+  <detail>Beat the first boss without jumping</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="-1">
+  <name>1000000010010010</name>
+  <detail>Beat the second boss without dying</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="-1">
+  <name>1001001001001001</name>
+  <detail>Beat the third boss without dying</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="-1">
+  <name>111111</name>
+  <detail>Die 63 times</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,144 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000030cd0021ce5f87599d8461bede0fe90b340f03a04f450fab4fa3bbc41c9b787111a2818e727915e4dc2d6e28ba826b441896954c9a7cc91de65de22232c38d8d24f782f436e082d237e9cd547129e771c0089608de395efff944c209aafc78ce5865fbe99af8e212a96eefb5509c3abb19d2807252d83c51a1aef13453e6875bc2e2d6d49eb136cbfe0022553424052d848e55ee-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR05441_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>AMNESIA World</title-name>
+ <title-detail>AMNESIA Worldのトロフィーです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>AMNESIA Worldマスター</name>
+  <detail>全てのトロフィーを獲得した</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>ハートの王子様</name>
+  <detail>NormalWorldでシンルートをクリアした</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>スペードの王子様</name>
+  <detail>NormalWorldでイッキルートをクリアした</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>クロ―バーの王子様</name>
+  <detail>NormalWorldでケントルートをクリアした</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>ダイヤの王子様</name>
+  <detail>NormalWorldでトーマルートをクリアした</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>ジョーカーの王子様</name>
+  <detail>NormalWorldでウキョウルートをクリアした</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>ハートの後輩</name>
+  <detail>SchoolWorldでシンルートをクリアした</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>スペードの先輩</name>
+  <detail>SchoolWorldでイッキルートをクリアした</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>クローバーの先輩</name>
+  <detail>SchoolWorldでケントルートをクリアした</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>ダイヤの同級生</name>
+  <detail>SchoolWorldでトーマルートをクリアした</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>ジョーカーの先生</name>
+  <detail>SchoolWorldでウキョウルートをクリアした</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>ルカ先生登場！</name>
+  <detail>SchoolWorldでルカルートをクリアした</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>SHINのライブ成功！</name>
+  <detail>MusicWorldでシンルートをクリアした</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>IKKIのライブ成功！</name>
+  <detail>MusicWorldでイッキルートをクリアした</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>KENTのライブ成功！</name>
+  <detail>MusicWorldでケントルートをクリアした</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>TOMAのライブ成功！</name>
+  <detail>MusicWorldでトーマルートをクリアした</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>UKYOのライブ成功！</name>
+  <detail>MusicWorldでウキョウルートをクリアした</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>シンと事件解決！</name>
+  <detail>CriminalWorldでシンルートをクリアした</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>イッキと事件解決！</name>
+  <detail>CriminalWorldでイッキルートをクリアした</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>ケントと事件解決！</name>
+  <detail>CriminalWorldでケントルートをクリアした</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>トーマと事件解決！</name>
+  <detail>CriminalWorldでトーマルートをクリアした</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>ウキョウと事件解決！</name>
+  <detail>CriminalWorldでウキョウルートをクリアした</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>みんなと事件解決！</name>
+  <detail>CriminalWorldで大団円ルートをクリアした</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>NormalWorldコンプリート</name>
+  <detail>NormalWorldのキャラクターのエンディングを全て見た</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>SchoolWorldコンプリート</name>
+  <detail>SchoolWorldのエンディングを全て見た</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="S" pid="000">
+  <name>MusicWorldコンプリート</name>
+  <detail>MusicWorldのキャラクターのエンディングを全て見た</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="S" pid="000">
+  <name>CriminalWorldコンプリート</name>
+  <detail>CriminalWorldのエンディングを全て見た</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="S" pid="000">
+  <name>オリオンとの出会い</name>
+  <detail>SecondWorldでオリオンエンドを見た&#x0a;</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="G" pid="000">
+  <name>ノヴァとずっと一緒</name>
+  <detail>SecondWorldでノヴァエンドを見た</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="G" pid="000">
+  <name>幸せな生活</name>
+  <detail>Extraを全て見た&#x0a;</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="G" pid="000">
+  <name>MusicGameマスター</name>
+  <detail>MusicGameで全ての楽曲をHARDでクリアした</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="G" pid="000">
+  <name>パーフェクト達成</name>
+  <detail>MusicGameでいずれかの楽曲をフルコンボでクリアした</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="G" pid="000">
+  <name>MiniGameマスター</name>
+  <detail>MiniGameで全てのゲームでAランクを出した</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="G" pid="000">
+  <name>最後のキューブ</name>
+  <detail>フルコンプ画像を見た</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,104 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000000b8e7fcc253c335c2fc13ed2eef17857903f12bdc5c988e3a08d9118c41902cb5dab91c464f9c9f69c74a475d8d4a9ac1dabdc2951d69b3fd0ece81b78e8e5ebc899e6a9aa9d25a04436dd9c10401b10f1a94ea7ef40f2b0f916ba6b21678a1aa36b22dceaa8f4ebe71e54f3e289f51d89b3b5e8b9d8af650251bd10ab4f63587ab6814d1fc8d2a5a0a85d9e7db19aed30032a9e-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR13212_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>双子座のパラドクス</title-name>
+ <title-detail>『双子座のパラドクス』トロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>コンプリート</name>
+  <detail>『双子座のパラドクス』を全てプレイしていただき、ありがとうございました</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>BADEND1</name>
+  <detail>『BADEND1』 に到達しました</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>BADEND2</name>
+  <detail>『BADEND2』 に到達しました</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>BADEND3</name>
+  <detail>『BADEND3』 に到達しました</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="S" pid="000">
+  <name>Ｏ・Ｄ・Ｔ・Ａ</name>
+  <detail>アーカイブ『Ｏ・Ｄ・Ｔ・Ａ』 を入手しました</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="S" pid="000">
+  <name>＋ ☆ □</name>
+  <detail>アーカイブ『＋ ☆ □』 を入手しました</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="000">
+  <name>釘打機（ネイルガン）</name>
+  <detail>アーカイブ『釘打機（ネイルガン）』 を入手しました</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>白衣とＩＤカードの場所</name>
+  <detail>アーカイブ『白衣とＩＤカードの場所』 を入手しました</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>ネックレスと指輪</name>
+  <detail>アーカイブ『ネックレスと指輪』 を入手しました</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>女教師のＩＤカード</name>
+  <detail>アーカイブ『女教師のＩＤカード』 を入手しました</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>おまじない</name>
+  <detail>アーカイブ『おまじない』 を入手しました</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>監視ルーム</name>
+  <detail>アーカイブ『監視ルーム』 を入手しました</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>指輪</name>
+  <detail>アーカイブ『指輪』 を入手しました</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>テスラのペン</name>
+  <detail>アーカイブ『テスラのペン』 を入手しました</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>夏月との記憶</name>
+  <detail>アーカイブ『夏月との記憶』 を入手しました</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="S" pid="000">
+  <name>携帯のアラームセット</name>
+  <detail>アーカイブ『携帯のアラームセット』 を入手しました</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="S" pid="000">
+  <name>蒼との記憶</name>
+  <detail>アーカイブ『蒼との記憶』 を入手しました</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="S" pid="000">
+  <name>フタリの記憶</name>
+  <detail>アーカイブ『フタリの記憶』 を入手しました</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="G" pid="000">
+  <name>ルート『夏月との記憶』</name>
+  <detail>ルート『夏月との記憶』をコンプリート</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="G" pid="000">
+  <name>ルート『蒼との記憶』</name>
+  <detail>ルート『蒼との記憶』をコンプリート</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="G" pid="000">
+  <name>ルート『二人の物語』</name>
+  <detail>ルート『二人の物語』をコンプリート</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="G" pid="000">
+  <name>エピローグ『淑女協定』</name>
+  <detail>エピローグ『淑女協定』をコンプリート</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="G" pid="000">
+  <name>エピローグ『指輪』</name>
+  <detail>エピローグ『指輪』をコンプリートしました</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="G" pid="000">
+  <name>エピローグ『二人の絆』</name>
+  <detail>エピローグ『二人の絆』をコンプリートしました</detail>
+ </trophy>
+</trophyconf>

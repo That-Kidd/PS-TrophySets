@@ -1,0 +1,144 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000001e8d88a595894f1befeb29c3ed6f49911e2447e915312ce8bd2254151a70327ec5afc4fdbbdaaf83f12d3595b59b5475a7e6ddc0ca125c0f89b45e0798fb1dfe79bc1037b631e2e5d87e36de02467a3da42c48eac58ce824752611fa84a5eada235313a8d38c7981e8a84072aab8fc47d6567d16239797e4960c675004a096e5fde25f2d5a05ecfcd481bb1b70ef69ed08976cb4-->
+<trophyconf version="1.1" platform="ps3,psp2" policy="large">
+ <npcommid>NPWR07086_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>RESOGUN™</title-name>
+ <title-detail>RESOGUN™</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>I came, I saw, I blew stuff up</name>
+  <detail>Get all trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="000">
+  <name>Conqueror</name>
+  <detail>Complete all levels</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>You have completed basic training!</name>
+  <detail>Complete all levels on Rookie difficulty</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>Carry on, nothing to see here</name>
+  <detail>Complete all levels on Experienced difficulty</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>The true RESOGUN starts here...</name>
+  <detail>Complete all levels on Veteran difficulty</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>Elected official</name>
+  <detail>Complete Acis</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>Certified electrician</name>
+  <detail>Complete Ceres</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>Store no more</name>
+  <detail>Complete Decima</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>Winter is not coming</name>
+  <detail>Complete Febris</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>Cool trophy!</name>
+  <detail>Complete Mefitis</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>Micromanagement</name>
+  <detail>Save two humans within a span of one second</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>How do I stop this thing?!</name>
+  <detail>Kill 50 enemies with one boost</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>Congratulations on your driver's licence!</name>
+  <detail>Reach the end-boss of any level using boost only</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>O to the D</name>
+  <detail>Kill 100 enemies during Overdrive</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>Masterful dodger of revenge bullets and stuff alike</name>
+  <detail>Complete a level on Master difficulty</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="G" pid="000">
+  <name>1CC</name>
+  <detail>Complete Arcade mode without losing all lives, on Experienced difficulty</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="G" pid="000">
+  <name>Humanist</name>
+  <detail>Save all humans</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Denied!</name>
+  <detail>Save a human from an Abductor's beam</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>Savior of Acis</name>
+  <detail>Save all humans on Acis</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Savior of Ceres</name>
+  <detail>Save all humans on Ceres</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>Savior of Decima</name>
+  <detail>Save all humans on Decima</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>Savior of Febris</name>
+  <detail>Save all humans on Febris</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>Savior of Mefitis</name>
+  <detail>Save all humans on Mefitis</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>Savior</name>
+  <detail>Save a human</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>(1+4)x</name>
+  <detail>Get a multiplier of 5x</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="S" pid="000">
+  <name>(5+5)x</name>
+  <detail>Get a multiplier of 10x</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="G" pid="000">
+  <name>(10+1.5+3.5)x</name>
+  <detail>Get a multiplier of 15x</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>Let fly!</name>
+  <detail>Throw a human to the escape pod</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>Pilot of Ferox</name>
+  <detail>Complete the game with Ferox</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>Pilot of Nemesis</name>
+  <detail>Complete the game with Nemesis</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>Pilot of Phobos</name>
+  <detail>Complete the game with Phobos</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>To the max!</name>
+  <detail>Fully upgrade the ship</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>Fire</name>
+  <detail>Fully upgrade the main gun</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>Power</name>
+  <detail>Fully upgrade the overdrive</detail>
+ </trophy>
+</trophyconf>

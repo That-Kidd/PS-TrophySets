@@ -1,0 +1,56 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000001bebfb85be2c205e4f3e3d72ff910ae2dd82a7706798f12f76731b96ab345dc7181512dd6cefc37f99679e677c5ea001881be853eac9c60a975fd2183c5b67a2abeca5756c4ec15efe3cca357e98c6b2ccff2f069c074125f0c74ae45600198d7e32618eb79a9f686043cc412bcae6d69c1d913308fd5071bc03f0877e0b19801a1b3ec3fec867873a3c44c0696d8fd3218044b0-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR06268_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Day D Tower Rush</title-name>
+ <title-detail>Day D Tower Rush</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Take your places!</name>
+  <detail>Installed weapons on all the tiles accessible on a level.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>An Old Ruin</name>
+  <detail>Completed a level without improving weaponry.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>An Important Position</name>
+  <detail>Placed all types of weaponry accessible in the episode on a single tile.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>A Natural Disaster</name>
+  <detail>Used all the different types of geo-charge on a level.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>A Stingy Warrior</name>
+  <detail>Sold 10 weapons on a single level.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>№1 Preparation</name>
+  <detail>Installed all types of weapons accessible on a level.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>The Best Place</name>
+  <detail>Unlocked a tile for i-volve on any level.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="-1">
+  <name>A Chance of Rain</name>
+  <detail>Used geo-charges 10 times on a single level.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="-1">
+  <name>On the Edge</name>
+  <detail>Completed a level with the time machine's health below 10 points.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="-1">
+  <name>Palaeontologist</name>
+  <detail>Collected 10,000 bones in a single level.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="-1">
+  <name>An Impregnable Fortress</name>
+  <detail>Didn't let a single enemy reach the time machine throughout a level.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="-1">
+  <name>Butcher</name>
+  <detail>Destroyed 20,000 enemies throughout the entire game.</detail>
+ </trophy>
+</trophyconf>

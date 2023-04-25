@@ -1,0 +1,280 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000098c8d9b21f48710c7f8a2898deb828b04201227f8647211de7c7c9c64fd81b9d952820002c247e1c5fc4bc34d3a49c17c9e16d0bcb488d6926c9225c34a3812f8126258f9a242b25495f4332947ede2a4cc1b852885a6f0f6b13434e8dae8cb6aea9e764af9317a09a67dea6c929d3bcbe199ec93b149cbc051e98c66bd0ba2cba95fa0ff8a6fc21b3236b71bea78ce430775bb8-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR11820_00</npcommid>
+ <trophyset-version>01.03</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Shantae: Half-Genie Hero</title-name>
+ <title-detail>Trophies for Shantae: Half-Genie Hero</title-detail>
+ <group id="001">
+  <name>Pirate Queen's Quest</name>
+  <detail>Trophies for Shantae: Pirate Queen's Quest</detail>
+ </group>
+ <group id="002">
+  <name>Shantae: Friends to the End</name>
+  <detail>Trophies for Shantae: Friends to the End</detail>
+ </group>
+ <group id="003">
+  <name>Shantae: Costume Pack</name>
+  <detail>Trophies for Shantae: Costume Pack</detail>
+ </group>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Sequin Land Hero</name>
+  <detail>Unlock all Trophies for 'Shantae: Half-Genie Hero'.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Ret-2-Go!</name>
+  <detail>Start your day fresh!</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Investi-gator</name>
+  <detail>Avoid detection from all the Techno Grunts.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Jump jump slide slide</name>
+  <detail>Leap over every canister as you slide down the chute.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>Race to the Top</name>
+  <detail>Climb Tassel Tower at record speed.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>In it to win it!</name>
+  <detail>Eliminate the competition.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>Magic Carpet Ride</name>
+  <detail>Reach the end of the race without falling off your carpet!</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>Inventor's Assistant</name>
+  <detail>Finish building the Dynamo.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>The Swim Team</name>
+  <detail>Gather up as many friends as possible for a swim!</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>The Great Escape</name>
+  <detail>Avoid all the gears during the escape slide.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>Guardian Genie</name>
+  <detail>Beat the game.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>Half-Genie, all Hero!</name>
+  <detail>Achieve 100% completion!</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>Fully Formed</name>
+  <detail>Obtain all magic forms!</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>Relic Seeker</name>
+  <detail>Obtain any magic relic.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>Relic Hunter</name>
+  <detail>Obtain half of the magic relics.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>Relic Collector</name>
+  <detail>Obtain all magic relics!</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Fan Favorite</name>
+  <detail>Unlock any door in the Art Gallery.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Key to my Heart</name>
+  <detail>Unlock half the doors in the Art Gallery.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>Master of Unlocking</name>
+  <detail>Unlock all the doors in the Art Gallery.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Not selling you snake oil.</name>
+  <detail>Make a deal with a sneaky, snakey seller of magical secrets.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>The Spider Queen</name>
+  <detail>Defeat a Bonelegs enemy as a Spider.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>Squish!</name>
+  <detail>Crush an enemy with a block.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>Back at ya!</name>
+  <detail>Reflect 5 attacks back at an enemy with the Mirror.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>Bone Breaker</name>
+  <detail>Smash 10 skeletons with the Elephant.</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>Cooked!</name>
+  <detail>Defeat 10 enemies using a Fireball.</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>Shocking Encounter!</name>
+  <detail>Defeat 20 enemies with Lightning.</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>Don't call it that!</name>
+  <detail>Defeat P.O.O.P. T.O.O.T.</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="B" pid="000">
+  <name>Vicious, Vile, and Vain</name>
+  <detail>Free the missing maidens!</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="B" pid="000">
+  <name>A case of the olds!</name>
+  <detail>Discover the history of Tassel Town's brightest star.</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="B" pid="000">
+  <name>Double Trouble</name>
+  <detail>Sometimes two are better than one... but not this time!</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="B" pid="000">
+  <name>An act of foul play</name>
+  <detail>Foil the heist in Cape Crustacean.</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="B" pid="000">
+  <name>Shantae versus the Important Squid Baron</name>
+  <detail>It'd sell like buns.</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="S" pid="000">
+  <name>Pummeled Pirate</name>
+  <detail>Thwarted the Queen of the Seven Seas.</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="S" pid="000">
+  <name>Brain Basher</name>
+  <detail>Put a stop to the mechanized madness!</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="B" pid="000">
+  <name>A Magnetic Field</name>
+  <detail>Obtained the Magnet</detail>
+ </trophy>
+ <trophy id="035" hidden="yes" ttype="B" pid="000">
+  <name>Mining for Minerals</name>
+  <detail>Obtained Copper Ore</detail>
+ </trophy>
+ <trophy id="036" hidden="yes" ttype="B" pid="000">
+  <name>Force of Darkness</name>
+  <detail>Obtained the Dark Shard</detail>
+ </trophy>
+ <trophy id="037" hidden="yes" ttype="B" pid="000">
+  <name>Champion of Light</name>
+  <detail>Obtained the Light Shard</detail>
+ </trophy>
+ <trophy id="038" hidden="yes" ttype="B" pid="000">
+  <name>The final pieces...</name>
+  <detail>Obtained the Zombie Hamster and the Iron Slab</detail>
+ </trophy>
+ <trophy id="039" hidden="yes" ttype="S" pid="000">
+  <name>Finders Keepers</name>
+  <detail>Collect all of Risky's personal possessions.</detail>
+ </trophy>
+ <trophy id="040" hidden="yes" ttype="G" pid="000">
+  <name>Queen of the Seven... Cheese?</name>
+  <detail>Defeat Risky Boots as a Mouse.</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="S" pid="000">
+  <name>Speed Runner</name>
+  <detail>Saved the day as fast as possible!</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="G" pid="000">
+  <name>Quick Collector</name>
+  <detail>Achieve 100% completion as fast as possible!</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>A Perfect Heist</name>
+  <detail>Collect your first component in Pirate Queen's Quest.</detail>
+ </trophy>
+ <trophy id="044" hidden="no" ttype="S" pid="-1" gid="001">
+  <name>The Pirate's Curse</name>
+  <detail>Collect all Dark Magic in Pirate Queen's Quest.</detail>
+ </trophy>
+ <trophy id="045" hidden="no" ttype="S" pid="-1" gid="001">
+  <name>Absolute Power</name>
+  <detail>Collect all Genie Crystals in Pirate Queen's Quest.</detail>
+ </trophy>
+ <trophy id="046" hidden="no" ttype="S" pid="-1" gid="001">
+  <name>Risky's Revenge</name>
+  <detail>Defeat that Half-Genie brat in Pirate Queen's Quest!</detail>
+ </trophy>
+ <trophy id="047" hidden="yes" ttype="G" pid="-1" gid="001">
+  <name>Risky Revolution</name>
+  <detail>Obtain all win screens of Pirate Queen's Quest.</detail>
+ </trophy>
+ <trophy id="048" hidden="no" ttype="B" pid="-1" gid="002">
+  <name>Deja vu?</name>
+  <detail>Relive a past event in Friends to the End.</detail>
+ </trophy>
+ <trophy id="049" hidden="no" ttype="S" pid="-1" gid="002">
+  <name>Learn to Fly</name>
+  <detail>Keep one of Sky's attack birds in flight for a full 60 seconds in Friends to the End.</detail>
+ </trophy>
+ <trophy id="050" hidden="no" ttype="S" pid="-1" gid="002">
+  <name>That's using your head!</name>
+  <detail>Defeat 10 enemies with Rotty's head throw in Friends to the End.</detail>
+ </trophy>
+ <trophy id="051" hidden="no" ttype="S" pid="-1" gid="002">
+  <name>Half-Wit Hero</name>
+  <detail>Defeat 20 enemies with Bolo's grapple attack in Friends to the End.</detail>
+ </trophy>
+ <trophy id="052" hidden="no" ttype="S" pid="-1" gid="002">
+  <name>Kid Squids</name>
+  <detail>Collect all Dream Squids in Friends to the End.</detail>
+ </trophy>
+ <trophy id="053" hidden="no" ttype="S" pid="-1" gid="002">
+  <name>Friends to the End</name>
+  <detail>Save an ally with the power of friendship in Friends to the End.</detail>
+ </trophy>
+ <trophy id="054" hidden="yes" ttype="S" pid="-1" gid="002">
+  <name>True Friends!</name>
+  <detail>Obtain all win screens of Friends to the End.</detail>
+ </trophy>
+ <trophy id="055" hidden="no" ttype="B" pid="-1" gid="003">
+  <name>Switch it up!</name>
+  <detail>Defeat 50 enemies using switch blocks.</detail>
+ </trophy>
+ <trophy id="056" hidden="no" ttype="B" pid="-1" gid="003">
+  <name>Ninja vanish!</name>
+  <detail>Use the teleport ability 100 times.</detail>
+ </trophy>
+ <trophy id="057" hidden="no" ttype="B" pid="-1" gid="003">
+  <name>SPF 250</name>
+  <detail>Collect 250 bottles of sunscreen.</detail>
+ </trophy>
+ <trophy id="058" hidden="yes" ttype="B" pid="-1" gid="003">
+  <name>Costume Party!</name>
+  <detail>Complete a level wearing every costume!</detail>
+ </trophy>
+ <trophy id="059" hidden="no" ttype="B" pid="-1" gid="003">
+  <name>Clear out!</name>
+  <detail>Complete the game in Officer Mode.</detail>
+ </trophy>
+ <trophy id="060" hidden="yes" ttype="S" pid="-1" gid="003">
+  <name>Mission Complete!</name>
+  <detail>Obtain all win screens in Officer Mode.</detail>
+ </trophy>
+ <trophy id="061" hidden="no" ttype="B" pid="-1" gid="003">
+  <name>Shinobi Shantae!</name>
+  <detail>Complete the game in Ninja Mode</detail>
+ </trophy>
+ <trophy id="062" hidden="yes" ttype="S" pid="-1" gid="003">
+  <name>Revenge of Shantae!</name>
+  <detail>Obtain all win screens in Ninja Mode.</detail>
+ </trophy>
+ <trophy id="063" hidden="no" ttype="B" pid="-1" gid="003">
+  <name>Fun in the sun!</name>
+  <detail>Complete the game in Beach Mode.</detail>
+ </trophy>
+ <trophy id="064" hidden="yes" ttype="S" pid="-1" gid="003">
+  <name>The perfect tan!</name>
+  <detail>Obtain all win screens in Beach Mode.</detail>
+ </trophy>
+</trophyconf>

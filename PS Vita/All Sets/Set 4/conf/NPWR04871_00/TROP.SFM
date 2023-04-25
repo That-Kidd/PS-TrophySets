@@ -1,0 +1,36 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000007d4dd9a5b29e97ee3c80872a6d424da91288da4f06eaa53d3a85285c409283b95a97c8b388a7ed8463382ab262ef39f7f2fec61ee882a4b0c741814de877fb55b5e0922fed651c6ad0a5bbe2847f09b540375832a34bf44d9e28b6623b80ee5c2365c817cb8a95978542166766cc66305298ca8e8eaebe265cd66157b82c0ca76eafa83891be58e5b30c85b7f2baffe32dcc63c7-->
+<trophyconf version="1.1" platform="psp2" policy="freemium">
+ <npcommid>NPWR04871_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Crazy Market</title-name>
+ <title-detail>Crazy Market trophies set</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Apprentice Cashier</name>
+  <detail>Get the 'Apprentice Cashier' title by collecting 10 stars.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="-1">
+  <name>Experienced Cashier</name>
+  <detail>Get the 'Experienced Cashier' title by collecting 100 stars.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="-1">
+  <name>Master Cashier</name>
+  <detail>Get the 'Master Cashier' title by collecting 170 stars.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Combo Breaker</name>
+  <detail>Make a 25 Combo.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="-1">
+  <name>Hard Worker</name>
+  <detail>Hold 3 minutes during an Endless stage (days 10, 20, 30, 40, 50 and 60).</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="-1">
+  <name>Star Chaser</name>
+  <detail>Complete a full month with 3 stars only.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="-1">
+  <name>Take a rest now!</name>
+  <detail>Complete day 60.</detail>
+ </trophy>
+</trophyconf>

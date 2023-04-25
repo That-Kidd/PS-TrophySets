@@ -1,0 +1,56 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000c94a0a4f52b7b52824ce26b5d5fc741d16753c37785af87f65490c6a35f1e2a9bbbbde22ddc09708588fa2a2b0d30c1b2886174e334e91ee4de302028ee30d03d67ae87c1bdc75b0b03e6ad6b80dae81ecb048cfdecd2b8a4813dd8f30b5c7a05f409b777419077d98860685f3e5866e3019f6d2e8a4d24bda7b486c8e178398fa6433491c4f7286af11c16812a68c97bef5c16c-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR14110_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Mecho Tales</title-name>
+ <title-detail>The Core Trophies of Mecho Tales</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Mecho Historian</name>
+  <detail>Accomplish everything.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>Defeat Landian Boss</name>
+  <detail>Defeat the Boss of the Landians.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>Cog Master</name>
+  <detail>Loot 1000 cogs from enemies and pickups.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>Defeat Golem</name>
+  <detail>Defeat the boss: Golem</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>Defeat Mecinni</name>
+  <detail>Defeat the boss: Mecinni</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>Meet Professor</name>
+  <detail>Meet the character: Professor</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>Drone Collector</name>
+  <detail>Purchase all of the drones from Patchie's Shop.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>The End</name>
+  <detail>Complete the main story campaign.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>Defeat Memory Thief</name>
+  <detail>Defeat the boss: Memory Thief</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>Destroyer of Bots</name>
+  <detail>Destroy 500 enemies.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>Defeat Mutant Landian</name>
+  <detail>Defeat the boss: Mutant Landian</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>Healthy Hero</name>
+  <detail>Gather 100 health pickups.</detail>
+ </trophy>
+</trophyconf>

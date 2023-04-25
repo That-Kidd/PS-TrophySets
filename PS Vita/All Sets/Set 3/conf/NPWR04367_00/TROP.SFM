@@ -1,0 +1,152 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000005592cca42150cda01aa43512234aba2fc5446a247bc405750fec30c45d9fbd46ee01484669c95ef458d173a8be086a7081374b109ccfe6f24a391b7b40dc7726048a270bc80c64839ce58a50fb3175a5b451b6bacc3a1af6ae1e37d29d189b771d961ac85477409c9c253b27070ef98e884eb96234bb4c2525fbe82860250e6e2a836f5e41e440c71025f177e69ac8c323604ff4-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR04367_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>MIND≒0</title-name>
+ <title-detail>MIND≒0のトロフィー</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>真相を知る者</name>
+  <detail>すべてを満たしたMIND使いに与えられる証</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="S" pid="000">
+  <name>動きだす街</name>
+  <detail>フェイズ1をクリア</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="S" pid="000">
+  <name>空間のその先へ</name>
+  <detail>フェイズ2をクリア</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="S" pid="000">
+  <name>加速する暴走</name>
+  <detail>フェイズ3をクリア</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="S" pid="000">
+  <name>芽吹く疑いの花</name>
+  <detail>フェイズ4をクリア</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="S" pid="000">
+  <name>背中を押す力</name>
+  <detail>フェイズ5をクリア</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="000">
+  <name>この手で打ち砕く</name>
+  <detail>フェイズ6をクリア</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>黄昏よりの訪問者</name>
+  <detail>フェイズ7をクリア</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>別れ、そして再開</name>
+  <detail>フェイズ8をクリア</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>狂気の侵食</name>
+  <detail>フェイズ9をクリア</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>溶けて行く境界線</name>
+  <detail>フェイズ10をクリア</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>対峙</name>
+  <detail>フェイズ11をクリア</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>砂の城</name>
+  <detail>フェイズ12をクリア</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="G" pid="000">
+  <name>人間らしく</name>
+  <detail>すべてのシナリオをクリア</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="000">
+  <name>暗雲を消し去れ</name>
+  <detail>難易度を変更せずにEXPERTでクリア</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>バーストコンダクター</name>
+  <detail>バーストモードを10回発動した</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>一網打尽</name>
+  <detail>ビッグスラッガーを10回取得した</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>爆裂ハンター</name>
+  <detail>敵のLIFEの50%を超えるダメージでトドメをさした</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>完全無欠の追放者</name>
+  <detail>ノーダメージを100回取得した</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>閃光の狩人</name>
+  <detail>クイックバトルを50回取得した</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>ラッキーストライカー</name>
+  <detail>撃破ボーナスを25回取得した</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>意気投合</name>
+  <detail>MINDガードを10回発動した</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>戦いは日常</name>
+  <detail>100回エンカウントした</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>MINDブレイカー</name>
+  <detail>敵を1000体撃破した</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="S" pid="000">
+  <name>混沌を狩る者</name>
+  <detail>多くの敵を倒した</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>友との絆</name>
+  <detail>多くのスキルカードを集めた</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>守りは完ぺき</name>
+  <detail>防具をすべて集めた</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>歩く身代金</name>
+  <detail>装飾品をすべて集めた</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="G" pid="000">
+  <name>狂精神界の案内人</name>
+  <detail>すべてのダンジョンフロアに進入した</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>親分肌</name>
+  <detail>依頼を10個達成した</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="G" pid="000">
+  <name>仕事人</name>
+  <detail>すべての依頼を達成した</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>買い物好き</name>
+  <detail>10万円分の買い物をした</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>商売上手</name>
+  <detail>売却価格の総額が10万円を超えた</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="B" pid="000">
+  <name>一攫千金</name>
+  <detail>宝箱を100個開けた</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="B" pid="000">
+  <name>背中で語る言葉</name>
+  <detail>小鳥遊慧のLvが30になった</detail>
+ </trophy>
+ <trophy id="035" hidden="yes" ttype="S" pid="000">
+  <name>武を極めし者</name>
+  <detail>小鳥遊慧のLvが99になった</detail>
+ </trophy>
+</trophyconf>

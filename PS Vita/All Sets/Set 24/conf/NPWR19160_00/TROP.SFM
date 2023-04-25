@@ -1,0 +1,68 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000a441187cf075c796493743f0816e9b7b09f5d4b339a1a0b9b065c5279d7752122e773d4c801b6523170e552f9c6dca4615a2ec44ed251af8131a9c80514c659e1ce96a4c2d34838b3e5eb9184d1ca9a6dab74aad6882594a53340c4eb378a0eab6abb123e912d01f357e8f88d3d70ae91232feaa375f7e090bf8d5fbedec40c54ae92abdac8c6e423e5b620c2d88d24c34454d29-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR19160_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Mekabolt</title-name>
+ <title-detail>Mekabolt</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Platinum Mekabolt</name>
+  <detail>Get all other trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Lift me up</name>
+  <detail>Meet the Flying Robot</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Bouncy</name>
+  <detail>Meet the robot to jump</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>Dangerous</name>
+  <detail>Meet the shooter robot</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>Steping on spears</name>
+  <detail>Meet the spear throwing robot</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>Not friendly</name>
+  <detail>Meet the bomb dropper robot</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>What was this created for?</name>
+  <detail>Meet the cactus</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>I can fly!</name>
+  <detail>Meet the wind maker robot</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>Cant see any use for this one</name>
+  <detail>Meet the flying robot with a spike</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>Its on fire</name>
+  <detail>Find a flamethrower</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>Deserted</name>
+  <detail>Unlock desert</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>Speleology</name>
+  <detail>Unlock caves</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>Starting</name>
+  <detail>Get 12 batteries</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="000">
+  <name>A good amount</name>
+  <detail>Get 24 batteries</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="000">
+  <name>Collector</name>
+  <detail>Get 48 batteries</detail>
+ </trophy>
+</trophyconf>

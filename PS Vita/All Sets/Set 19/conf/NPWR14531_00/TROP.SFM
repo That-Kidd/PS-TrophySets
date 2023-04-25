@@ -1,0 +1,100 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000019f2c370e52ac0d89462c060161548673a7e3b8e19b098100f56db515ed345efd35b358316d84662379d175e2ec7676706273f638bb20ed6deb400e7038f1f7e0506f947fe06a78c3b92011a9d84c5fa8ab8a33e02260f4a2b41aa9e0f876d84b1bc2f535aeaadabac6edef2d83ea2e76140ee01b69e440c4132b45aa714cd35f6d9f6688db90cb403c3cd929f0c7771ea7c7054-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR14531_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>I Am The Hero</title-name>
+ <title-detail>I Am The Hero</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Platinum Hero</name>
+  <detail>Get all trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Ouch!</name>
+  <detail>Reach 100 combo</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>R.I.P</name>
+  <detail>Reach 200 combo</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>Old Men In Black</name>
+  <detail>Defeat  Mr.Pro</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>My Way or Subway</name>
+  <detail>Defeat boss Blah-blah</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>Wet Poster</name>
+  <detail>Defeat boss Security</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>Chop! Chop!</name>
+  <detail>Defeat boss Butcher</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>Don't Scatter Garbage</name>
+  <detail>Defeat Dr.Litter</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>Last Man In The House</name>
+  <detail>Defeat the final boss</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>I'm Serious</name>
+  <detail>Defeat the real final boss</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>Blink!</name>
+  <detail>Use critical attack 10 times</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>Bli-Bli-Blink!</name>
+  <detail>Use critical attack 50 times</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>I Am The Hero</name>
+  <detail>Complete the story</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>The  AAA Battery</name>
+  <detail>Find the AAA battery</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>The Button Battery</name>
+  <detail>Find the button battery</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>The Fist-Gun</name>
+  <detail>Find the fist-gun</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>The Frog</name>
+  <detail>Find the frog</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>The Car Keys</name>
+  <detail>Find the car keys</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>The Part</name>
+  <detail>Find the weird part</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="000">
+  <name>The MiniController</name>
+  <detail>Find the minicontroller</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>The Picture</name>
+  <detail>Find the Picture</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="G" pid="000">
+  <name>The Sticker</name>
+  <detail>Find the sticker</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="G" pid="000">
+  <name>The Tape</name>
+  <detail>Find the tape</detail>
+ </trophy>
+</trophyconf>

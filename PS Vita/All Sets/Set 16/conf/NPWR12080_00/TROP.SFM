@@ -1,0 +1,228 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000cfccd3b86caa76d45b11dfdd3f2811246a75ac241e8213b681a9a91cf3dd2ea815a635658af8e5827754b8602ca40237a5855ded69662162e4898ec1111f7c458352a9211616c1eaf170b4ead8b6d1268727c26b4b966a5184613e75be4344df0f333cd79c9586f42158b03cc94d2e6b929973e64f95887c6a3beb3ec9e841a6700a8203ad79fcdf34b0cbd170a8fa2454f4ef3c-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR12080_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>The Longest Five Minutes</title-name>
+ <title-detail>This is "The Longest Five Minutes" trophy set.</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Many Memories</name>
+  <detail>Obtain all trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="G" pid="000">
+  <name>Happily Ever After</name>
+  <detail>Watch Haru live/Fuzz live Ending</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="G" pid="000">
+  <name>Goddess's Hero</name>
+  <detail>Watch Haru die/Fuzz live Ending</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="S" pid="000">
+  <name>4 minutes 44 seconds</name>
+  <detail>Watch Haru live/Fuzz die Ending</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>Album Complete</name>
+  <detail>Complete all memories</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>The Magic Scholar</name>
+  <detail>RPG Lv. 5  Greet Chloe before departing.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>Item Store Boy</name>
+  <detail>RPG Lv. 5  Greet Yanagi before departing.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>The Cowardly Ninja</name>
+  <detail>RPG Lv. 5  Greet Kogure before departing.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>My First Adventure</name>
+  <detail>RPG Lv. 7  Travel through the moss-covered cave.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>Troublesome Spear</name>
+  <detail>RPG Lv. 7  Resolve the soldiers' argument.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>Forgotten Sweets</name>
+  <detail>RPG Lv. 7  Deliver something for the forgetful maid.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>Cross the Sea</name>
+  <detail>RPG Lv. 13  Cross the sea to reach Gastonbury.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>Deliveries Are Hard</name>
+  <detail>RPG Lv. 13  Deliver lunch to the sailors at the port.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>Rich Man's Hobby</name>
+  <detail>RPG Lv. 13  Listen to the rich man's request.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>So Hot!</name>
+  <detail>RPG Lv. 20  Go all the way through the Gates of Hell.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>I Love Drills</name>
+  <detail>RPG Lv. 20  Get the worker a better drill.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>All The Small Things</name>
+  <detail>RPG Lv. 20  Look for the bunny girl's earring.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>What A View</name>
+  <detail>RPG Lv. 26　Handle the problem at Galactica Tower.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>Pro Shot</name>
+  <detail>RPG Lv. 26　Obtain a high score at Naraca's Inn.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Birthday Suit</name>
+  <detail>RPG Lv. 26　Help the man in the dressing room.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>End the Quest</name>
+  <detail>RPG Lv. 28　Arrive at Gastonbury.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>Gambling Addiction</name>
+  <detail>RPG Lv. 28　Get five 7s on the slot machine.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>Courageous Lost Boy</name>
+  <detail>RPG Lv. 28　Reunite the lost boy and his mother.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>The Whole Story</name>
+  <detail>RPG Lv. 30　Report to the King.</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="000">
+  <name>Escape Artist</name>
+  <detail>RPG Lv. 34　Escape the prison.</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>Perfect Crash</name>
+  <detail>RPG Lv. 34　Destroy all of the statues.</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>Stardust</name>
+  <detail>RPG Lv. 37　Leave Stardust Island.</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>A Supportive Heart</name>
+  <detail>RPG Lv. 37　Give the amulet to the dirty-looking man.</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="B" pid="000">
+  <name>Over the Rainbow</name>
+  <detail>RPG Lv. 39　Cross the bridge.</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="B" pid="000">
+  <name>View from the Top</name>
+  <detail>RPG Lv. 43　Reach the summit of the mountain.</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>Modest Old Tale</name>
+  <detail>RPG Lv. 43　Find the woman living on Mount Kuuretsu.</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>Fan Service!</name>
+  <detail>RPG Lv. 43  Give Agliana's autograph to the soldier.</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="B" pid="000">
+  <name>Life on Wavering Water</name>
+  <detail>RPG Lv. 47　Arrive at Tenmagahara.</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>Love Therapist</name>
+  <detail>RPG Lv. 47　Listen to the boy's love troubles.</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="B" pid="000">
+  <name>Heavenly Sanctuary</name>
+  <detail>RPG Lv. 52　Arrive at the Goddess's Sanctuary.</detail>
+ </trophy>
+ <trophy id="035" hidden="yes" ttype="B" pid="000">
+  <name>Light Pierces Dark</name>
+  <detail>RPG Lv. 68　Pass through the Fog-infested corridor.</detail>
+ </trophy>
+ <trophy id="036" hidden="yes" ttype="B" pid="000">
+  <name>Entrusted to You</name>
+  <detail>RPG Lv. 62　Grant Chloe's grandmother her final wish.</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>Kojiro, Grounded</name>
+  <detail>RPG Lv. 62　Help the fisherman with his problem.</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>Quiz Master</name>
+  <detail>RPG Lv. 62　Complete step one of Fancy Man's quiz.</detail>
+ </trophy>
+ <trophy id="039" hidden="yes" ttype="B" pid="000">
+  <name>Scarlet Medicine</name>
+  <detail>RPG Lv. 64　Obtain Scarlet Shells from the beach.</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="B" pid="000">
+  <name>Zenigata</name>
+  <detail>RPG Lv. 64　Capture the escaped prisoner.</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="B" pid="000">
+  <name>Quiz King</name>
+  <detail>RPG Lv. 64　Complete step two of Fancy Man's quiz.</detail>
+ </trophy>
+ <trophy id="042" hidden="yes" ttype="B" pid="000">
+  <name>Dark Investigators</name>
+  <detail>RPG Lv. 66　Investigate the mysterious tower.</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="B" pid="000">
+  <name>Unknown King</name>
+  <detail>RPG Lv. 66　Obey the "King"'s orders.</detail>
+ </trophy>
+ <trophy id="044" hidden="no" ttype="B" pid="000">
+  <name>Quiz God</name>
+  <detail>RPG Lv. 66　Complete step three of Fancy Man's quiz.</detail>
+ </trophy>
+ <trophy id="045" hidden="yes" ttype="B" pid="000">
+  <name>Daydream Believer</name>
+  <detail>RPG Lv. 57　Remember all that happened at the park.</detail>
+ </trophy>
+ <trophy id="046" hidden="no" ttype="B" pid="000">
+  <name>Quick Reflexes</name>
+  <detail>RPG Lv. 57　Get a high score at the attraction.</detail>
+ </trophy>
+ <trophy id="047" hidden="yes" ttype="B" pid="000">
+  <name>Acceptance Letter</name>
+  <detail>RPG Lv. 4　Pass the Hero Selection Exam.</detail>
+ </trophy>
+ <trophy id="048" hidden="yes" ttype="B" pid="000">
+  <name>Villagers' Wound</name>
+  <detail>RPG Lv. 3　Remember what happened five years ago.</detail>
+ </trophy>
+ <trophy id="049" hidden="yes" ttype="B" pid="000">
+  <name>I'll Be Back</name>
+  <detail>RPG Lv. 59　Help Flash stand back up.</detail>
+ </trophy>
+ <trophy id="050" hidden="no" ttype="B" pid="000">
+  <name>Voice of Reason</name>
+  <detail>RPG Lv. 23　Don't peek into the women's bath.</detail>
+ </trophy>
+ <trophy id="051" hidden="no" ttype="B" pid="000">
+  <name>Wash Yourself</name>
+  <detail>RPG Lv. 23  Regent learns an important lesson.</detail>
+ </trophy>
+ <trophy id="052" hidden="no" ttype="B" pid="000">
+  <name>Ripped Page</name>
+  <detail>RPG Lv. 29　Find Samir Esope's diary.</detail>
+ </trophy>
+ <trophy id="053" hidden="no" ttype="B" pid="000">
+  <name>Legendary Angel</name>
+  <detail>RPG Lv. 29　Go shopping with Clover.</detail>
+ </trophy>
+ <trophy id="054" hidden="no" ttype="B" pid="000">
+  <name>Rich Man, Poor Man</name>
+  <detail>RPG Lv. 29　Find a place to stay for the night.</detail>
+ </trophy>
+</trophyconf>

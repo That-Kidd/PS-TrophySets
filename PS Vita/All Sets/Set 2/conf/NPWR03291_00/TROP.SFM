@@ -1,0 +1,144 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000bbfa6eaa53c3144a146e4122aa54383a63b1da9eaa93c50bef512420776b427b0a97038db1165544769a8e89503a20bd4d71bc2cbb0501c73a688633bf8f4706fa1d4e29a90e90735bb9b8af21458920af48eefdf1154e9d0216438070e616f78181feaa56930b7711d99cc190c6f8040d086c6c3779994c4324b92a7bf818c2f1c74c22b10f3a3dcf260bbdc4a145abcb9fd021-->
+<trophyconf version="1.1" platform="psp2">
+ <npcommid>NPWR03291_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>ハローキティといっしょ！ブロッククラッシュV</title-name>
+ <title-detail>ハローキティといっしょ！ブロッククラッシュVのトロフィーです！</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>超キティラーとは私のことよ！</name>
+  <detail>すべてのトロフィーを獲得した</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="G" pid="000">
+  <name>次はもっともっと難しいのを作るです！</name>
+  <detail>真エンディングを見た</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>マスター・オブ・ブロッククラッシュです！</name>
+  <detail>Sランク１００個以上獲得</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>や、やりおる……です！</name>
+  <detail>全ステージＡランク以上でクリア</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>ボスがコテンパンです！</name>
+  <detail>ボスステージで全てSランククリア</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="G" pid="000">
+  <name>天才です！</name>
+  <detail>挑戦状エリアでSランク１０個以上獲得</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>覇王への道です！</name>
+  <detail>エンディングを見た</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>破壊王があらわれた！です！</name>
+  <detail>一度のボール射出で25個以上のブロックを破壊</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>一撃必殺です！</name>
+  <detail>最初の射出で全てのブロックを破壊する</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>めげちゃダメです！</name>
+  <detail>ミスを５００回以上する</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>ホールインワンです！</name>
+  <detail>ゴルフステージで、ボールを跳ね返さずにクリア</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>驚きの早さです！</name>
+  <detail>3秒以内にクリア</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>攻撃が効かないだと！？です！</name>
+  <detail>砲台ブロックやボスが撃つ、クラッシュボールを１５個以上消してクリア</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>フラットです！</name>
+  <detail>クリアタイム下二桁が00秒</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>信じるのは己の力のみです！</name>
+  <detail>アイテムが出現するステージで、１つも取らずにクリア</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>動じない心です！</name>
+  <detail>PlayStation®Vita本体を一度も傾けないでステージクリア</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>かんたん、かんたんです！</name>
+  <detail>EASYクリアデモを見た</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>ここから本番、本番です！</name>
+  <detail>NORMALクリアデモを見た</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>まだまだ負けないです！</name>
+  <detail>ボスステージを１０ステージクリア</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>たくましいです！</name>
+  <detail>貫通状態でクリア</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="000">
+  <name>さ、さわりすぎです……っ！</name>
+  <detail>１ゲーム中、１０回以上シャルロッテ、かのんにタッチする</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>ムチャしすぎです！</name>
+  <detail>バッドアイテムのみ、３個以上取ってクリア</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>持久戦に耐えた証です！</name>
+  <detail>１ステージで3分以上プレイする</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>負けない心が大事なんです！</name>
+  <detail>お邪魔ブロックに５０回当てた</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>頑張り屋さんです！</name>
+  <detail>プレイ時間が５時間を突破</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="B" pid="000">
+  <name>暗いのは嫌いです！</name>
+  <detail>暗闇のステージで灯りをともした状態でクリア</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>短いのは嫌いじゃないです！</name>
+  <detail>バーが短い状態でクリア</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>遅いのは嫌いじゃないです！</name>
+  <detail>バーが遅い状態でクリア</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>ボクは長いほうが好きです！</name>
+  <detail>バーが長い状態でクリア</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>速いのは嫌いじゃないです！</name>
+  <detail>バーが速い状態でクリア</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>下手な鉄砲も・・・なんです！</name>
+  <detail>ボールが２つ以上の状態でクリア</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>反射神経いいですね！です！</name>
+  <detail>ボールが速い状態でクリア</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>慎重派なんですね！です！</name>
+  <detail>ボールが遅い状態でクリア</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="B" pid="000">
+  <name>せつめいはとっても大事です！</name>
+  <detail>せつめいを全て読んだ</detail>
+ </trophy>
+</trophyconf>

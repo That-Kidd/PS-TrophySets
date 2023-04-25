@@ -1,0 +1,60 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000002cc280f813907970db9715d012058eaac3d2412611245d20e567f6013f8d59281808fca8c287d598f0f6415fff4f8cb00353a4ee81621d94f056373839c7032d8aa4bb5dffaae70526a49bccc0fd4de9fbc5437f7e8ae0316f35fcecf81a95c431b34d9ba24b166d65b21e0532a00a925382592057e2adc1a7d2c5555fb8bd0e15764ab3e4d012440c13bb934768423b63e6c1dd-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="small">
+ <npcommid>NPWR08062_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>TorqueL</title-name>
+ <title-detail>The trophy set of TorqueL</title-detail>
+ <trophy id="000" hidden="no" ttype="G" pid="-1">
+  <name>Route: Unknown</name>
+  <detail>You did beat "Unknown" route.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Route: T</name>
+  <detail>You did beat "T" route.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Route: o</name>
+  <detail>You did beat "o" route.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Route: r</name>
+  <detail>You did beat "r" route.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Route: q</name>
+  <detail>You did beat "q" route.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Route: u</name>
+  <detail>You did beat "u" route.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Route: e</name>
+  <detail>You did beat "e" route.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Route: L</name>
+  <detail>You did beat "L" route.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="-1">
+  <name>10M</name>
+  <detail>You did beat any of route in 10 minutes.</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="-1">
+  <name>10H</name>
+  <detail>The timer passed 10 hours.</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="-1">
+  <name>30M</name>
+  <detail>You did beat any of route in 30 minutes.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="-1">
+  <name>60M</name>
+  <detail>You did beat any of route in 60 minutes.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="-1">
+  <name>No Damage</name>
+  <detail>You did beat any of route without misses.</detail>
+ </trophy>
+</trophyconf>

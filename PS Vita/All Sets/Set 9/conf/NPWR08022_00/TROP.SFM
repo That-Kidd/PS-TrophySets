@@ -1,0 +1,172 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000e1369ef7764577dd091595ef8d325c47cc75ae7c78e21111fb28fa2cd0418be0743bacef3ab0cb1edebc084c4d6741ad52d057f911eeefc546a359a31f8ded008b836b3da648c68007b40df39619ff8b39ad84a97c63e460d6896d0155500892988074ee37843e6b1749dfdbab67364419eacc594362ba55f4d67d2bb9590f689d58456a4ef53b546fd22f86e855673fedcaebbc-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR08022_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Operation Abyss: New Tokyo Legacy</title-name>
+ <title-detail>Operation Abyss: New Tokyo Legacy Trophy Set</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Operation Abyss</name>
+  <detail>You've mastered Operation Abyss. Thank you for playing.</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>First Step</name>
+  <detail>You've completed your first mission. Keep up the good work.</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>New Power</name>
+  <detail>You've retrieved the stolen Blood Code. Monks are pugilists who excel in the front row.</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>No, No...No, No, No...No...</name>
+  <detail>You've eliminated Phantom Nono. ...Hard to believe she ended up like this.</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>Goldman's Final Moments</name>
+  <detail>You've stopped Goldman's threat. All thanks to Alice's strong determination.</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>TPF Annihilation</name>
+  <detail>You've crushed the TPF's ambitions and exposed their crimes to the world. Compulsory investigation will commence soon.</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>Call Me X-Wizar</name>
+  <detail>You've defeated the mysterious X-Wizar. His true identity is...Akito Saeki!?</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>The Start of the Second Semester</name>
+  <detail>The second semester starts today. So ends the Xth's summer vacation.</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>It Was an Honor...</name>
+  <detail>With Masuaki's help, you managed to escape. Never forget Masuaki's noble sacrifice.</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="000">
+  <name>Elusive Shadow</name>
+  <detail>You've defeated X-Wizar, along with his Code Physics camouflage, Elusive Shadow, again!</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="000">
+  <name>Administrative Leave</name>
+  <detail>You've defeated Maiden Master and revealed the truth. Looks like Johnny is okay, too.</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>Scattered Remnants</name>
+  <detail>You've encountered and fought remnants of the TPF. They're operating in secret to avoid exposure.</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>Fragment of Akashic</name>
+  <detail>You've stopped Alice, who awakened her Akashic powers. But the cost of that victory was too high...</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>The Fall of YHAL</name>
+  <detail>You've crushed Patricia and stopped YHAL. You managed to rescue Masa and return safely.</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>Double Wizars</name>
+  <detail>You've defeated the two Wizars, Akito and Alice. You emerged victorious from the greatest fight of your life.</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="G" pid="000">
+  <name>The King of Babyl</name>
+  <detail>You made the King of Babyl, Mu'La, retreat. But the battle has only just begun...</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Charmed By a Bewitching Blade</name>
+  <detail>You've obtained the famous bewitching blades, Muramasa and MURAMASA. Every weapon collector should own these.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>Rare Collector</name>
+  <detail>You've collected many rare items. Is there any other reason for rare items to exist?</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>Lethal Collector</name>
+  <detail>You've collected every Lethal Code. A top-notch Xth Squad is entitled to superior weapons and armor.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Thorough Lethal Collector</name>
+  <detail>You've collected every upgraded Lethal Code. A must-have for any intense battle.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>Variant Exterminator</name>
+  <detail>You've eliminated 5000 Variants. Your strength is unstoppable.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>Experienced Xth Member</name>
+  <detail>You've survived 1000 battles. You're becoming a real Xth member.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>Veteran Xth Member</name>
+  <detail>You've survived 3000 battles. You're an elite Xth member.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>Code Chip Discovery!</name>
+  <detail>You've obtained 500 Code chips. No chip left behind, no matter how small.</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>Wanted Variant: Eliminated!</name>
+  <detail>You've eliminated a Wanted Variant. The battle has just begun.</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>Wanted Variants: Exterminated!</name>
+  <detail>You've eliminated all Wanted Variants. One step closer to world peace.</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="S" pid="000">
+  <name>Risk Big, Win Big</name>
+  <detail>You've survived 20 battles with the Encounter Gauge maxed out. Risk big, win big.</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>Neophile</name>
+  <detail>You've used the Monk and Conjurer Blood Codes. It's hard to resist using new gifts.</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="G" pid="000">
+  <name>Maximum Proficiency</name>
+  <detail>You've mastered every skill contained in a Blood Code. There is nothing left to teach you.</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>The Power of Unity</name>
+  <detail>You've used every Unity Skill. Your squad is a well-oiled machine.</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="G" pid="000">
+  <name>Best Friends</name>
+  <detail>You've vastly increased your Unity Gauge. Nothing can tear us apart.</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>Filthy Stinkin' Rich</name>
+  <detail>You've collected 300,000 GP. It may be digital currency, but you're still loaded!</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="S" pid="000">
+  <name>Waking the Dead</name>
+  <detail>You've eliminated Zombie Murphy. He was inside a coffin? Go figure...</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="S" pid="000">
+  <name>Whoops!</name>
+  <detail>You've destroyed a floor in Morimoto High-rise. Be careful when carrying heavy objects.</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="S" pid="000">
+  <name>Might As Well Jump...</name>
+  <detail>You leapt off the subway. You could've seriously injured yourself!</detail>
+ </trophy>
+ <trophy id="035" hidden="yes" ttype="S" pid="000">
+  <name>Conduction Introduction</name>
+  <detail>You've encountered the mysterious conductor. The rumors were true!</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>Custom Manufacturing</name>
+  <detail>You've crafted items 30 times. Always create the things you need.</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>Material Hoarder</name>
+  <detail>You've stripped items 30 times. Scrap everything you don't need.</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>Every Little Bit Helps</name>
+  <detail>You've boosted items 30 times. This is the secret to making your favorite items last.</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="000">
+  <name>Gambling Problem</name>
+  <detail>You've used Gamble Codes 30 times. Good or bad!? Win or lose!? Let's find out!</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="B" pid="000">
+  <name>Affix Aficionado</name>
+  <detail>You've used every Plug-in affix. Knowing your enemy is the key to victory.</detail>
+ </trophy>
+</trophyconf>

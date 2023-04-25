@@ -1,0 +1,168 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000b9b14d6a76ee2d12a1f04275a78227f08d58559cb47cf02006a692ecd1f436066e2c8431b4fd29617808955bd8600221f5b1f3884bdaf562a6493c61d54e9d74b7c83113db233b222fab889bb82fb204c5e93bc11e7a8ff8627cf00355a90724603dfc8f6454fed966f745482016cdc63c954bd6d2c75d1fabc560b1a353e7db4891072f1304bbbd65518e58c5d5abd21817a8a5-->
+<trophyconf version="1.1" platform="ps3,psp2" policy="large">
+ <npcommid>NPWR06387_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>覆面闘士</title-name>
+ <title-detail>覆面闘士のトロフィー</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>覆面闘士のプラチナトロフィー</name>
+  <detail>お前がナンバーワンだ！</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>ルチャドールへの道</name>
+  <detail>ルチャドールになる</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>フライドモンスターはいかが？</name>
+  <detail>アレブリヘを始末する</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>バイバイ・エクスタベイ</name>
+  <detail>エクスタベイを救う</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>燃え尽きた炎</name>
+  <detail>フレイムフェイスを倒す</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>キズのなめ合い</name>
+  <detail>ジャガー ハビエルを倒す</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>コンボマニア</name>
+  <detail>コンボ数150ヒットを達成する</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>買い物中毒</name>
+  <detail>ショップで$10000使う</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>虹の彼方へ</name>
+  <detail>地面に落ちずに6つのスペシャルアタックを成功させる</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>すべてを君の手に</name>
+  <detail>オーブを探す</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>平手の準備完了</name>
+  <detail>スラム攻撃のみでチュパカブラを倒す</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>人生最初のパワームーブ</name>
+  <detail>アッパーカットを使ってブロックを壊す</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>ヘッドバッド</name>
+  <detail>ヘッドバッドを使ってブロックを壊す</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>スラムフロッグ</name>
+  <detail>スラムを使ってブロックを壊す</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>パワーパンチ</name>
+  <detail>パワーパンチを使ってブロックを壊す</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>モジモジ禁止</name>
+  <detail>ヘッドバッドを使ってアルケスを倒す</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>感動の再会</name>
+  <detail>「行方不明の人形」のクエストをクリアする</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>懐かしのメロディ</name>
+  <detail>「ガイコツの音楽隊」のクエストをクリアする</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>デリシャス！</name>
+  <detail>「世界で一番のエンチラーダ」のクエストをクリアする</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>すべて閉じ込めろ</name>
+  <detail>「チキンを囲いに集める」のクエストをクリアする</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>私は探偵だ</name>
+  <detail>「チキン泥棒」のクエストをクリアする</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>我が名はエラー</name>
+  <detail>エラーのクエストをクリアする</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>ポンチョにレッドカード</name>
+  <detail>コンボチキンのクエストをすべてクリアする</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>アタマを使え</name>
+  <detail>ヘッドバットで敵を崖から落とす</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>ロケットマン</name>
+  <detail>「ゴートフライ」で12秒間空中を飛ぶ</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>チリも積もれば山となる</name>
+  <detail>ひとつのエリアで隠しアイテムをすべて見つける</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="S" pid="000">
+  <name>ブンシャカ・カラカ</name>
+  <detail>カラカを倒す</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="S" pid="000">
+  <name>知識人</name>
+  <detail>すべてのサイドクエストをクリアする</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="S" pid="000">
+  <name>アイ ハブ ノー マネー</name>
+  <detail>ショップのアイテムすべてを購入する</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="S" pid="000">
+  <name>終わりなきコンボ</name>
+  <detail>コンボ数300ヒットを達成する</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="S" pid="000">
+  <name>密着アタック</name>
+  <detail>近接攻撃のみでカラカを倒す</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="G" pid="000">
+  <name>ハードモードも朝飯前</name>
+  <detail>ハードモードでゲームをクリアする</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="G" pid="000">
+  <name>隠された宝箱</name>
+  <detail>ゲーム中のすべての宝箱を集める</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="G" pid="000">
+  <name>救世主は君だ</name>
+  <detail>すべてのオーブを集めて解放されるエンディングをプレイする</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="S" pid="000">
+  <name>チキングリーティング</name>
+  <detail>チキンルチャドールとして、緑色のソンブレロを身に着けたジャイアントチキンを4羽探して、話しかける</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="G" pid="000">
+  <name>コツコツ積み上げる</name>
+  <detail>ガイコツルチャドールとして、La Caverna del Polloでアリーナの決勝戦をクリアする</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="G" pid="000">
+  <name>世界チャンピオン</name>
+  <detail>すべてのEl Infiernoチャレンジでゴールドメダルを獲得する</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>ゴーーール！</name>
+  <detail>「ゴールキーパー」のコスチュームで、El Infiernoチャレンジ10とチャレンジ15をクリアする</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>忌まわしき怪物</name>
+  <detail>「アレブリへ」のコスチュームで、El Infiernoチャレンジ17をクリアする</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="000">
+  <name>古き良き方法</name>
+  <detail>ゴートフライ4回以下で、El Infiernoチャレンジ14をクリアする</detail>
+ </trophy>
+</trophyconf>

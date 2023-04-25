@@ -1,0 +1,80 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000988eb3b0feab190a2e1aaf9c2c25fd5c28c243326230b6f93a2e6e51e91539025384a290cddcb0e42d9ad4872c464235877a8d98d48720d322534901ad78ee9af7fe0dc1ff03357e6287d7e8715597facbd535f99e525dd9c8d3767231edf9a2d1c706ebdc41af6ffc690ebe13c6ad7e8c11afd0d3c70abd390aaf36f12a808807533f8b57dbd9aee099bb6a3c7977bfd6c6721f-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR10576_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Dying： Reborn</title-name>
+ <title-detail>The trophy set of Dying: Reborn.</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Reborn</name>
+  <detail>Get all trophies!</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>Now you know the truth.</name>
+  <detail>Receive all memo.</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="G" pid="000">
+  <name>Hello, Matthew…</name>
+  <detail>Completed Chapter 1</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="G" pid="000">
+  <name>She needed your help…</name>
+  <detail>Completed Chapter 2</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="G" pid="000">
+  <name>Why help him ?</name>
+  <detail>Completed Chapter 3</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="G" pid="000">
+  <name>This was my worst birthday…</name>
+  <detail>Completed Chapter 4</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="G" pid="000">
+  <name>Open the door,Matthew…</name>
+  <detail>Completed Chapter 5</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="G" pid="000">
+  <name>The pain of lose someone…</name>
+  <detail>Completed Chapter 6</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>Remember my word,recall your FAULT.</name>
+  <detail>See all the tv showes.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>Matthew,a true Detective.</name>
+  <detail>Unlock all the password puzzles.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>Welcome to Last Harbour.</name>
+  <detail>Start Game.</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>I'm near you.</name>
+  <detail>Have seen the unknown man and woman on the tv.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>Matthew,you're smart.</name>
+  <detail>Successfully combined items for the first time.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>This is for you.</name>
+  <detail>Pick up a memo for the first time.</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>Mum's favourite melody.</name>
+  <detail>Playing the right music on the piano in the first chapter.</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="S" pid="000">
+  <name>Matthew，feeling dazzled？</name>
+  <detail>Solve the electric pipeline puzzle in the second chapter. </detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="S" pid="000">
+  <name>Where's my present, Matthew?</name>
+  <detail>Using Candle to light on the cake in the fourth chapter.</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="S" pid="000">
+  <name>Matthew,What you've done ?</name>
+  <detail>Using the model to trigger the mechanism of bed.</detail>
+ </trophy>
+</trophyconf>

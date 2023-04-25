@@ -1,0 +1,164 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000003c9f0b9edd9fec15374d6940d452b17ced24c931b5d0dae4bb70653e5c52632976eeab9d1e9e7280648505d9b6a23f2751b30c9e65d53a469e5db6e642c9d58ea3a0cea1c8ac1f39b24a3b2ab73922d78016a6028ff32c6a5090277a8ababb08a514017098d9267a96bc42e54057951685fc9426a60f2dfc6c0bbb5750c5543eefbf88742737cd2f952acbfeb18a17f61167c5df-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR09333_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>ぎゃる☆がん　だぶるぴーす</title-name>
+ <title-detail>ぎゃる☆がん　だぶるぴーす</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>真ぎゃるがんマスター</name>
+  <detail>全てのトロフィーをコンプリートした</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>初めての昇天</name>
+  <detail>はじめて女の子を昇天させた</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>初めてのドキドキモード</name>
+  <detail>はじめてドキドキモードをプレイした</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>初めてのラストドキドキ</name>
+  <detail>はじめてラストドキドキモードをプレイした</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>クリアーおつかれさまでした！</name>
+  <detail>はじめてエンディングを見た</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>真実の愛・神園しのぶ</name>
+  <detail>しのぶルートTRUE ENDを見た</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>真実の愛・神園真夜</name>
+  <detail>真夜ルートTRUE ENDを見た</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>真実の愛・神園姉妹</name>
+  <detail>姉妹ルートTRUE ENDを見た</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>真実の愛・えころ</name>
+  <detail>えころルートTRUE ENDを見た</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>真実の愛・くろな</name>
+  <detail>くろなルートTRUE ENDを見た</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>真実の愛・ぱたこ</name>
+  <detail>ぱたこルートTRUE ENDを見た</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>真実の愛・運命のひと</name>
+  <detail>運命の彼女ルートTRUE ENDを見た</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>真実の愛の探求者</name>
+  <detail>すべてのルートでTRUE ENDを見た</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="000">
+  <name>募金マン</name>
+  <detail>葵ルートENDを見た</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>窓抜けマスター</name>
+  <detail>『窓に挟まったしのぶ』をパーフェクトクリア</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>ベタベタマスター</name>
+  <detail>『真夜の悪魔ホイホイ』をパーフェクトクリア</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>下僕マスター</name>
+  <detail>『女王様しのぶ』をパーフェクトクリア</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>お医者さんマスター</name>
+  <detail>『真夜のケガ治療』をパーフェクトクリア</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>天使の儀式マスター</name>
+  <detail>『姉妹と不思議な儀式』をパーフェクトクリア</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>薬塗りマスター</name>
+  <detail>『悪魔の薬塗り』をパーフェクトクリア</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>悪魔ハンターハンター・S</name>
+  <detail>『ＶＳしのぶ』をパーフェクトクリア</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>悪魔ハンターハンター・M</name>
+  <detail>『ＶＳ真夜』をパーフェクトクリア</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="S" pid="000">
+  <name>悪魔ハンターハンター・二人まとめて</name>
+  <detail>『ＶＳしのぶ＆真夜』をパーフェクトクリア</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="S" pid="000">
+  <name>スーパー天使ハンター・E</name>
+  <detail>『ＶＳえころ』をパーフェクトクリア</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="S" pid="000">
+  <name>スーパー悪魔ハンター</name>
+  <detail>『ＶＳくろな』をパーフェクトクリア</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="S" pid="000">
+  <name>スーパー天使ハンター・P</name>
+  <detail>『ＶＳぱたこ』をパーフェクトクリア</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="S" pid="000">
+  <name>スーパーモンスターハンター・S</name>
+  <detail>『ＶＳ魔界植物くん』をパーフェクトクリア</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="S" pid="000">
+  <name>スーパーモンスターハンター・B</name>
+  <detail>『ＶＳバルーン魔物くん』をパーフェクトクリア</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>大変だ！女子高生がみんな倒れてる</name>
+  <detail>女の子を５００回昇天させた</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>モテモテエクソシスト</name>
+  <detail>悪魔っ娘を１００回昇天させた</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>トリガーはっぴー</name>
+  <detail>フェロモンショットを１０００回撃った</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="S" pid="000">
+  <name>ダブルピースマニア</name>
+  <detail>ダブルピース昇天を５０回以上見た</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>コンボマスター</name>
+  <detail>エクスタシーショットを連続３０回決めた</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>ダメ！そこはビンカンなの…</name>
+  <detail>エクスタシーショットを１００回決めた</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>お節介な男</name>
+  <detail>女の子の依頼を10個解決した</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>下着回収者</name>
+  <detail>更衣室での下着泥棒イベントで全ての下着を回収</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="S" pid="000">
+  <name>ギャラリーコンプリート</name>
+  <detail>全ての一枚絵を集めた</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="G" pid="000">
+  <name>プロフィールコンプリート</name>
+  <detail>全ての女子のプロフィールを集めた</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="G" pid="000">
+  <name>ぎゃる神</name>
+  <detail>ランクが「神」ランクに到達</detail>
+ </trophy>
+</trophyconf>

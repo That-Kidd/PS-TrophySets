@@ -1,0 +1,140 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000c5e636029a0b15a5115afa55cebb0e58f9c7237ea81081111b34ae7838a31991f87c0c2a3ccdb680e42b46f8011ceeb12364653adc982a6db163cd97955276a50749d127be451b0bd4b275a17d4104f7fcb33a144cb217cad9a6300232a7e518f540aa6b7d7e722b45f53a03be6dc592e9be4ce1a2d4e321708f2626e0e143d8062fcb9b9ead58b7ee01d25b80dd844fbed3324f-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR03930_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Virtue's Last Reward</title-name>
+ <title-detail>Virtue's Last Reward Trophies.</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Virtue's Last Reward</name>
+  <detail>Acquired all trophies.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Bachelor of Escapology</name>
+  <detail>Escaped from the elevator.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Master of Escapology</name>
+  <detail>Escaped from eight rooms.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>Doctor of Escapology</name>
+  <detail>Escaped from sixteen rooms.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>Escapey</name>
+  <detail>Escaped on Hard difficulty.</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="G" pid="000">
+  <name>Escapest</name>
+  <detail>Escaped everything on Hard difficulty.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>Classified</name>
+  <detail>Found a secret.</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="G" pid="000">
+  <name>Redacted</name>
+  <detail>Found ALL the secrets!</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>An Eidetic Experience</name>
+  <detail>Found a file.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>A Consumate Collection</name>
+  <detail>Found ALL the files!</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="000">
+  <name>To Each According to His Needle</name>
+  <detail>Opened the first lock.</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>I Can't Believe It's Not Murder!</name>
+  <detail>Opened the second lock.</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="B" pid="000">
+  <name>Gotta Hand It To You</name>
+  <detail>Opened the third lock.</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="000">
+  <name>If I Told You You Had A Nice Antibody...</name>
+  <detail>Opened the fourth lock.</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="B" pid="000">
+  <name>He Was Convicted of a String of Numbers</name>
+  <detail>Opened the fifth lock.</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>No Lying Down On the Job</name>
+  <detail>Opened the sixth lock.</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>Who Set Up Us The Bomb, Part 1</name>
+  <detail>Opened the seventh lock.</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>Why'd You Do That, You Dumas!</name>
+  <detail>Opened the eighth lock.</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>Who Set Up Us The Bomb, Part A</name>
+  <detail>Opened the ninth lock.</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>Some Days You Just Can't Get Rid of a Bomb</name>
+  <detail>Opened the tenth lock.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>Every Ending Begins Somewhere</name>
+  <detail>Saw any of the endings.</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="S" pid="000">
+  <name>Tears in the Rain</name>
+  <detail>Saw Luna's ending.</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="S" pid="000">
+  <name>Through the Looking Glass</name>
+  <detail>Saw K's ending.</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="S" pid="000">
+  <name>Behind Blue Eyes</name>
+  <detail>Saw Dio's ending.</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="S" pid="000">
+  <name>In Root Beer Veritas</name>
+  <detail>Saw Tenmyouji's ending.</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="S" pid="000">
+  <name>An Equal and Opposite Reaction</name>
+  <detail>Saw Quark's ending.</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="S" pid="000">
+  <name>Secret Agent Woman</name>
+  <detail>Saw Clover's ending.</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="S" pid="000">
+  <name>Best Served Cold</name>
+  <detail>Saw Alice's ending.</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="S" pid="000">
+  <name>Arms Race</name>
+  <detail>Saw Sigma's ending.</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="S" pid="000">
+  <name>Time After Time</name>
+  <detail>Saw Phi's ending.</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="G" pid="000">
+  <name>Fire and Ice</name>
+  <detail>Saw the end. Or maybe the beginning?</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="G" pid="000">
+  <name>A Certain Point of View</name>
+  <detail>Caught a glimpse of another time.</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>That Wasn't Supposed to Happen</name>
+  <detail>Saw any of the bad endings.</detail>
+ </trophy>
+</trophyconf>

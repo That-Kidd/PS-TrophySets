@@ -1,0 +1,88 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000032bcb5f100925ff4320590911de2e48380461e9611d681e75710274446538a8456901b31507cf593d562df957b426f5ad5d8cecf92f840bdf7e5a424f633511738f573e30c87dd15f7eaaab87ffcb3bb41790156338f8c3c237963084a4fc7fb677668eddcc46fcac7da5ee8d3b32791ff43a9f2f1fedf45829de018b9846755af3531f96cd422393401764158643cb66750990f-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR10086_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>マブラヴ オルタネイティヴ</title-name>
+ <title-detail>マブラヴ オルタネイティヴ トロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>マブラヴ オルタネイティヴ</name>
+  <detail>マブラヴ オルタネイティヴ全トロフィーコンプリート</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>ALTERNATIVE</name>
+  <detail>再び戦場へ</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>去りにし日々の光</name>
+  <detail>episode 1 了</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>兵士よ問うことなかれ</name>
+  <detail>episode 2 了</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>島をゆく</name>
+  <detail>episode 3 了</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>報いなき栄光</name>
+  <detail>episode 4 了</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>家路</name>
+  <detail>episode 5 了</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>望蜀の下界</name>
+  <detail>episode 6 了</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>許されざる者</name>
+  <detail>episode 7 了</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>涙落ちる果て</name>
+  <detail>episode 8 了</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="G" pid="000">
+  <name>終わりなき戦い</name>
+  <detail>episode 9 了</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="G" pid="000">
+  <name>震える時空</name>
+  <detail>episode 10 了</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="G" pid="000">
+  <name>マブラヴ</name>
+  <detail>恋愛原子核</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="G" pid="000">
+  <name>千鶴</name>
+  <detail>千鶴の遺書</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="G" pid="000">
+  <name>慧</name>
+  <detail>慧の遺書</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="G" pid="000">
+  <name>壬姫</name>
+  <detail>壬姫の遺書</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="G" pid="000">
+  <name>美琴</name>
+  <detail>美琴の遺書</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="G" pid="000">
+  <name>霞</name>
+  <detail>霞の告白</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>ALBUM</name>
+  <detail>ALBUM OPEN</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="000">
+  <name>CHAPTER</name>
+  <detail>CHAPTER OPEN</detail>
+ </trophy>
+</trophyconf>

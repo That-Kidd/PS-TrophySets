@@ -1,0 +1,76 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000074ee2692e986ad0b4143ca10770eada5f826a8e1923190f128c999b35d1c2753136d8795f7010cb75829b0d6328f737dc9dba5f9e30ac81bd396d8fdb6ac17006d98b1b1e36aa00fd9dad9739e0346ab78f9ef32cf533f38569312e678b9a4b17b57a2b0c7f8f60e1e4dd326abe5e443f8d37e0412b9372b59d79ee9fd20024bc1b3cf35f11cedf81cd326348ea0c3f802dc6e2a-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR19039_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>DISTRAINT: Deluxe Edition</title-name>
+ <title-detail>DISTRAINT: Deluxe Edition</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Platinum DISTRAINT</name>
+  <detail>Get all other trophies.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>The First Distraint</name>
+  <detail>Take over the property of Mrs. Goodwin.</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="S" pid="000">
+  <name>Coffee, Please!</name>
+  <detail>Find water to make coffee.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>The Second Distraint</name>
+  <detail>Take over the property of Mr. Tailor.</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="S" pid="000">
+  <name>The Electrician</name>
+  <detail>Get the electricity back on.</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>The Fire Maker</name>
+  <detail>Create fire.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>The Third Distraint</name>
+  <detail>Take over the property of Mr. Jones.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>The End</name>
+  <detail>Complete the game.</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="G" pid="000">
+  <name>The Long Walk</name>
+  <detail>Try to use any item with a sign.</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="G" pid="000">
+  <name>Where Is Your Dignity?</name>
+  <detail>Try taking water for the coffee from the toilet.</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="G" pid="000">
+  <name>Cheer Up, Mate!</name>
+  <detail>Try to cheer up the depressed dancer.</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>Sniff This!</name>
+  <detail>Try to offer the dog some gasoline.</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="G" pid="000">
+  <name>The Whistle</name>
+  <detail>Talk to the cleaning lady.</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="G" pid="000">
+  <name>Jackpot</name>
+  <detail>Win the jackpot.</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="G" pid="000">
+  <name>A Flower To You, Beautiful!</name>
+  <detail>Try giving the flower to the nurse.</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="G" pid="000">
+  <name>Hah, Hah, Hah</name>
+  <detail>Listen what Jenni has to say about the prank.</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="G" pid="000">
+  <name>The Light</name>
+  <detail>Visit the grave of Mrs. Goodwin.</detail>
+ </trophy>
+</trophyconf>

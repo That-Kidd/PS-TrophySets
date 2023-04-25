@@ -1,0 +1,240 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000006701964da23479929977fcf63c2f66465d4f855299db18af4138ccbb689cb369599c8ae39b7c3093f7b9a3be35d3c44f5bc3987d8da6bec84f88fbdf30d370a01a5015e1561e8f1e5a3f587fdeb27bee2f5fc07500fb961afc1e6e5e016a72cf362b3ad4329387ca35e1fa684ad25bdafec05c0f1a6a83c8959815d97b905f47a73f2c87717fdd9b1257289075b828d0afce0949-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR09989_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>勇者死す。</title-name>
+ <title-detail>勇者死す。のトロフィーセットです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>勇者死す。</name>
+  <detail>世界をくまなく巡り、輪廻を断ち切った</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>狩人を従えし勇者</name>
+  <detail>リューと仲間になった</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>僧侶を従えし勇者</name>
+  <detail>サラと仲間になった</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>学者を従えし勇者</name>
+  <detail>メリーアンと仲間になった</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>闘士を従えし勇者</name>
+  <detail>ナオミと仲間になった</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>商人を従えし勇者</name>
+  <detail>ビビと仲間になった</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>ライバルを従えし勇者</name>
+  <detail>ゾロと仲間になった</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>勇者を従えし勇者</name>
+  <detail>ヨナと仲間になった</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>全ての仲間を従えし勇者</name>
+  <detail>全てのパーティメンバーと仲間になった</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>大出世勇者</name>
+  <detail>フローラと婚約した</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>ジェイルブレイカー</name>
+  <detail>誰かを牢から開放した</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>森人の想いに応えし勇者</name>
+  <detail>リューの想いに応えた</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="B" pid="000">
+  <name>聖職者の想いに応えし勇者</name>
+  <detail>サラの想いに応えた</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="000">
+  <name>学者の想いに応えし勇者</name>
+  <detail>メリーアンの想いに応えた</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="B" pid="000">
+  <name>穴民の想いに応えし勇者</name>
+  <detail>ナオミの想いに応えた</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>少女の想いに応えし勇者</name>
+  <detail>ビビの想いに応えた</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>王女の想いに応えし勇者</name>
+  <detail>フローラの想いに応えた</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>勇者の想いに応えし勇者</name>
+  <detail>ヨナの想いに応えた</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>魔族の想いに応えし勇者</name>
+  <detail>ベラナベルの想いに応えた</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>来るものは拒まず！</name>
+  <detail>全てのヒロインの想いに応えた</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="000">
+  <name>輪廻転生せし勇者</name>
+  <detail>新たな五日間を開始した</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="S" pid="000">
+  <name>滅んじゃえばいいのよッ！</name>
+  <detail>赤目の者に出会った</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="B" pid="000">
+  <name>ゲームに勝利せし勇者</name>
+  <detail>きれいなお姉さんのゲームに勝利した</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>眷属を祝福せし勇者</name>
+  <detail>孤児たちを祝福した</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="000">
+  <name>森を蘇らせし勇者</name>
+  <detail>森を真の姿に戻した</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="B" pid="000">
+  <name>番犬を眠らせし勇者</name>
+  <detail>血の如き赤き兄弟を倒した</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>夢に助力せし勇者</name>
+  <detail>未来の市長の依頼を全て達成した</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="B" pid="000">
+  <name>次世代を担いし勇者</name>
+  <detail>ヨナがダイヴォーラを覚えた</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="B" pid="000">
+  <name>架け橋となりし勇者</name>
+  <detail>魔族と和解した</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="G" pid="000">
+  <name>この世に未練なし！</name>
+  <detail>天国の門をくぐった</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="B" pid="000">
+  <name>狂戦士撃破！</name>
+  <detail>バルドスを倒した</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="B" pid="000">
+  <name>魔族撃破！</name>
+  <detail>ブラッディを倒した</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>魔王を討伐せし者！</name>
+  <detail>魔王ギールを倒した</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="G" pid="000">
+  <name>魔女を討伐せし者！</name>
+  <detail>魔女カマラを倒した</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>モンスターバスター</name>
+  <detail>全てのモンスターを倒した</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>仲間を信頼せし勇者</name>
+  <detail>誰かにプレゼントを贈った</detail>
+ </trophy>
+ <trophy id="036" hidden="yes" ttype="B" pid="000">
+  <name>受け継がれしもの</name>
+  <detail>ヨナに最強装備を贈った</detail>
+ </trophy>
+ <trophy id="037" hidden="yes" ttype="B" pid="000">
+  <name>その花言葉は・・・</name>
+  <detail>誰かに真紅のバラを贈った</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>国宝のチカラを持つ勇者</name>
+  <detail>全てのオーブを入手した</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="000">
+  <name>アイテムコレクター</name>
+  <detail>全てのアイテムを入手した</detail>
+ </trophy>
+ <trophy id="040" hidden="yes" ttype="B" pid="000">
+  <name>太公望勇者</name>
+  <detail>釣り糸をたれた</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="B" pid="000">
+  <name>そこそこ英雄</name>
+  <detail>葬儀参列者が100人を超えた</detail>
+ </trophy>
+ <trophy id="042" hidden="yes" ttype="B" pid="000">
+  <name>歴史に残る英雄</name>
+  <detail>葬儀参列者が1500人を超えた</detail>
+ </trophy>
+ <trophy id="043" hidden="yes" ttype="S" pid="000">
+  <name>神話になる英雄</name>
+  <detail>葬儀参列者が4500人を超えた</detail>
+ </trophy>
+ <trophy id="044" hidden="no" ttype="B" pid="000">
+  <name>そこそこ勇者</name>
+  <detail>涙した人が50人を超えた</detail>
+ </trophy>
+ <trophy id="045" hidden="yes" ttype="B" pid="000">
+  <name>人々に愛された勇者</name>
+  <detail>涙した人が1000人を超えた</detail>
+ </trophy>
+ <trophy id="046" hidden="yes" ttype="S" pid="000">
+  <name>世界に愛された勇者</name>
+  <detail>涙した人が3000人を超えた</detail>
+ </trophy>
+ <trophy id="047" hidden="no" ttype="B" pid="000">
+  <name>巡業勇者</name>
+  <detail>全ての地域を巡った</detail>
+ </trophy>
+ <trophy id="048" hidden="yes" ttype="B" pid="000">
+  <name>海原を駆ける勇者</name>
+  <detail>船で移動した</detail>
+ </trophy>
+ <trophy id="049" hidden="yes" ttype="B" pid="000">
+  <name>みんな愛してる</name>
+  <detail>トーマスとゾロに真紅のバラを送った</detail>
+ </trophy>
+ <trophy id="050" hidden="yes" ttype="B" pid="000">
+  <name>タカラよりチカラです</name>
+  <detail>炎・水・風いずれかのオーブを使った</detail>
+ </trophy>
+ <trophy id="051" hidden="yes" ttype="B" pid="000">
+  <name>足もとを見られし勇者</name>
+  <detail>ビビショップでボッタクリ商品を買った</detail>
+ </trophy>
+ <trophy id="052" hidden="yes" ttype="B" pid="000">
+  <name>無一文勇者</name>
+  <detail>所持金を0ゴールドにした</detail>
+ </trophy>
+ <trophy id="053" hidden="yes" ttype="B" pid="000">
+  <name>勇者やめるってよ</name>
+  <detail>勇者の装備を捨てた</detail>
+ </trophy>
+ <trophy id="054" hidden="yes" ttype="B" pid="000">
+  <name>ともに地獄に堕ちようぞ！！</name>
+  <detail>最後に「彼女」を選んだ</detail>
+ </trophy>
+ <trophy id="055" hidden="yes" ttype="B" pid="000">
+  <name>あの頃みたいに</name>
+  <detail>決戦時の仲間と魔王の間へ向かった</detail>
+ </trophy>
+ <trophy id="056" hidden="yes" ttype="B" pid="000">
+  <name>勇者の名を継ぐ者</name>
+  <detail>ヨナを最強にした</detail>
+ </trophy>
+ <trophy id="057" hidden="yes" ttype="B" pid="000">
+  <name>聖地、その名はロビリア</name>
+  <detail>ロビリア国が釣りの聖地となった</detail>
+ </trophy>
+</trophyconf>

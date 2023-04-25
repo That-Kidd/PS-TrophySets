@@ -1,0 +1,200 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000008f4e3440853582fa8d2b9be8440e68a7afba8f057ed349ede972b7a84dfcd8f153ae8b3c1f26313e6b815fcefc57a4b2753137247ebd1eefa905a9c504bbab5826433afc361be29e55fc6b3c0aa5b694b6629bd5839b7346d24ccfc0130050f53ec661dbe1673e6abd344bf6aaf306457950c44822f6d8b456eb99afc50d578ca230ffee9c4b17dbc043c7f0b037784e420f83d0-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR09254_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>진· 삼국무쌍７ Empires</title-name>
+ <title-detail>진· 삼국무쌍７ EmpiresTrophy Set</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Empires</name>
+  <detail>모든 트로피를 획득한다.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>수라패도</name>
+  <detail>난이도「수라」로 시나리오 중 하나를 클리어한다.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>다수의 인생을 거쳐</name>
+  <detail>모든 인생을 경험했다.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>인생의 대선배</name>
+  <detail>모든 칭호를 얻었다.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>무기의 보고</name>
+  <detail>무기를 100종류 이상 구입했다.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>만반의 준비</name>
+  <detail>장비아이템을 30종류 이상 보유한다.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>무쌍 너머로</name>
+  <detail>에디트 무장을 조작해 모든 무쌍 장수를 격파한다.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>계략무쌍</name>
+  <detail>비책만으로 1만 명을 격파한다.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>군략망라</name>
+  <detail>모든 군략 명령을 1회 이상 실행한다.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>다산의 축복</name>
+  <detail>후손을 5명 이상 만든다.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>무쌍대국</name>
+  <detail>플레이어가 군주 혹은 방랑군 두령일 때 모든 무쌍 장수를 부하로 삼는다.</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>다방면에 걸친 인생</name>
+  <detail>갤러리에서 관람 가능한 모든 이벤트를 확인한다.</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="B" pid="000">
+  <name>적자탄생</name>
+  <detail>첫 아이를 출산한다.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>새로운 영웅</name>
+  <detail>에디트 무장으로 엔딩 중 하나를 확인했다.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>연애사건</name>
+  <detail>첫 고백을 받거나 고백을 했다.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>도원결의</name>
+  <detail>첫 의형제를 맺었다.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>비익연리</name>
+  <detail>처음으로 결혼했다.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>계승자</name>
+  <detail>처음으로 군주 지위를 계승했다.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>나라를 이끌 그릇</name>
+  <detail>처음으로 군주가 되었다.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>큰 발탁</name>
+  <detail>재야 상태에서 대장군 혹은 군사로 등용된다.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>반역자</name>
+  <detail>반역을 일으켜 군주의 자리를 빼앗는다.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>야망의 시작</name>
+  <detail>처음으로 세력을 결성한다.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>혈연국가</name>
+  <detail>의형제, 배우자, 자식들로 구성된 세력을 결성한다.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>반골의 상</name>
+  <detail>군략 명령「배반」을 실행한다.</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>건축가</name>
+  <detail>처음으로 시설을 건축한다.</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>큰 비책 저지</name>
+  <detail>적이 준비중인 대규모 비책을 저지했다.</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>사계능통</name>
+  <detail>봄, 여름, 가을, 겨울 각각의 스테이지에서 싸워 승리한다.</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>면종복배</name>
+  <detail>처음으로 부하장수에 의해 인사이동을 당한다.</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>목표달성가</name>
+  <detail>한 번의 전투로 네 가지 전과 목표를 달성한다.</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>개수일촉</name>
+  <detail>총 병력의 9할 이상을 남기고 전투에서 승리한다.</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>첫 의뢰</name>
+  <detail>첫 의뢰를 해결했다.</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>대담무쌍</name>
+  <detail>단신으로 적진에 쳐들어가 장수를 격파한다.</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="B" pid="000">
+  <name>기후변화</name>
+  <detail>비책을 사용해 날씨를 바꾼다.</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="B" pid="000">
+  <name>에디트 집결</name>
+  <detail>에디트 모드를 사용해 장수, 군기, 군마, 병사를 각각 하나씩 만들었다.</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>책략가</name>
+  <detail>비책을 100회 이상 사용한다.</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>군사 취임</name>
+  <detail>처음으로 군사 자리에 올랐다.</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>대장군 취임</name>
+  <detail>처음으로 대장군 자리에 올랐다.</detail>
+ </trophy>
+ <trophy id="037" hidden="yes" ttype="B" pid="000">
+  <name>승리의 바람이 불어오다</name>
+  <detail>이벤트 전투「적벽 전투·연합군」에 참가해 제갈량이「동남풍」을 일으키도록 한다.</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>신참 정략가</name>
+  <detail>처음으로 정략 목표를 완수한다.</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="000">
+  <name>대국가</name>
+  <detail>자기 세력 내에 20명 이상의 장수를 둔다.</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="B" pid="000">
+  <name>거점제압</name>
+  <detail>한 번의 전투에서 10회 이상 거점을 제압한다.</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="B" pid="000">
+  <name>온후독실</name>
+  <detail>덕망이「지선」이 되었다.</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="B" pid="000">
+  <name>안중무인</name>
+  <detail>덕망이「극악」이 되었다.</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="B" pid="000">
+  <name>신뢰를 얻다</name>
+  <detail>의뢰를 달성해 군주와의 우호도를 높혔다.</detail>
+ </trophy>
+ <trophy id="044" hidden="no" ttype="B" pid="000">
+  <name>절세미모</name>
+  <detail>한 번의 인생에서, 세 명 이상의 장수에게 고백을 받았다.</detail>
+ </trophy>
+ <trophy id="045" hidden="no" ttype="B" pid="000">
+  <name>숙련 건축공</name>
+  <detail>같은 시설을 6개 건설한다.</detail>
+ </trophy>
+ <trophy id="046" hidden="no" ttype="B" pid="000">
+  <name>소중한 선물</name>
+  <detail>처음으로 무기와 장비를 받았다.</detail>
+ </trophy>
+ <trophy id="047" hidden="no" ttype="B" pid="000">
+  <name>소수정예</name>
+  <detail>아군 병력이 적보다 일정 이상 적은 상태로 전투에서 승리한다.</detail>
+ </trophy>
+</trophyconf>

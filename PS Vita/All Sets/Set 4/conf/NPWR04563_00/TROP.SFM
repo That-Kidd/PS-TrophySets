@@ -1,0 +1,156 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000637602413d1f3ebc2511185b8f1b6942ad2b440d63399ccc8cd8d85b36a40736aa8e1a66236b1228f92310ee6875cdf4c17517c499f2f567c90b2e3395943e40171c27fb8cc5c6a8e5bb742b800ee5d70e9850e72c34f0a7a3d50382d7ed84815c80861d0b1aed8461155485ae9ea9607b9cc85a8869220ab76a34a51892aef00ba80031d1ac9bc7f277c011ff6de3076db30f7f-->
+<trophyconf version="1.1" platform="ps3,psp2" policy="large">
+ <npcommid>NPWR04563_00</npcommid>
+ <trophyset-version>01.02</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>テラリア</title-name>
+ <title-detail>「テラリア」のトロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>パーフェクト！</name>
+  <detail>すべてのトロフィーを獲得した</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>テラリア入門者</name>
+  <detail>チュートリアルを開始した</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>楽しい我が家</name>
+  <detail>NPCのガイドが引っ越してきた</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>家族みんなで</name>
+  <detail>すべてのNPCが引っ越してきた</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>どん底</name>
+  <detail>ワールドの最下層に到達した</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>伝説の勇者</name>
+  <detail>すべてのボスを倒した</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>スライム飼育係</name>
+  <detail>すべてのスライムを倒した</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>ここからが本当の地獄だ</name>
+  <detail>ハードモードに突入した</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>レベルキャップ</name>
+  <detail>ライフとマナを最大まで上昇させた</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>魔界</name>
+  <detail>ワールドの大半がじゃあくに汚染された</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>審判の日</name>
+  <detail>ワールドの大半がせいなる大地で満ち溢れた</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>眼科医</name>
+  <detail>ツインズを倒した</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>気高きヒーロー</name>
+  <detail>スケルトロン・プライムを倒した</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>ワームライダー</name>
+  <detail>デストロイヤーを倒した</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>マラソンランナー</name>
+  <detail>地上を42km移動した</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>ブルドーザー</name>
+  <detail>10,000個以上のブロックをこわした</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>クラウドコントロール</name>
+  <detail>ゴブリンぐんだんを倒した</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>生存者</name>
+  <detail>最初の夜を生き抜いた</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>イカロス</name>
+  <detail>ワールドの最上層に到達した</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>おめかし</name>
+  <detail>「みためスロット」に防具をセットで装備した</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>ペットマニア</name>
+  <detail>すべてのペットを見つけた</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>臨戦態勢</name>
+  <detail>補助効果を5つ同時にひきおこした</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>ピュー！</name>
+  <detail>空中で長時間過ごした</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>鍛冶屋</name>
+  <detail>「かなとこ」でアイテムを300個作成した</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>溶かし放題！</name>
+  <detail>金属のインゴットを10,000本作成した</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="G" pid="000">
+  <name>テラリアの騎士</name>
+  <detail>すべての種類の防具を手に入れた（みためアイテムをのぞく）</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>エンジニア</name>
+  <detail>ワイヤーを100本設置した</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>赤き月満ちし時</name>
+  <detail>ブラッドムーンの夜を生き抜いた</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="S" pid="000">
+  <name>クラフト好き</name>
+  <detail>すべての作業台を使用した</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="S" pid="000">
+  <name>地獄への往復切符</name>
+  <detail>「地底世界」に行き、死なずに生還した</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="G" pid="000">
+  <name>おなかいっぱい</name>
+  <detail>すべてのハードモードボスを2回ずつ倒した</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>ここは天国？</name>
+  <detail>「うき島」を見つけた</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="S" pid="000">
+  <name>高いビルもひとっ飛び！</name>
+  <detail>とても高くまでジャンプした</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="S" pid="000">
+  <name>安全着陸</name>
+  <detail>安全に着地した</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="S" pid="000">
+  <name>ヘルベーター</name>
+  <detail>地上から「地底世界」へ1分以内に移動した</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>60セカンズ </name>
+  <detail>60秒間走り続けた</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>テラリア熟練者</name>
+  <detail>チュートリアルを終了した</detail>
+ </trophy>
+</trophyconf>

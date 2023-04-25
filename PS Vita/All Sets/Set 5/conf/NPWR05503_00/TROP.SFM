@@ -1,0 +1,164 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000006e250d9d892ab6dbd2a23d9229dbc62edc3338cf2f988dd4ca8ef9169c869a561afea96e22eb9042d414bae4df3d24c965d09f70f3f15917f80595b6cab9058113421332c72fbea6728558e5a261612019b1a26673dba9698bc50bc828d72434835cdc9cab15b9953aa1c9e7784f857a3e5e9d873bda7bacee93577bcd724aa2b7a60f0ca6f2b13289e118e40b4f4df78f8e781e-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR05503_00</npcommid>
+ <trophyset-version>01.04</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>PhantomBreaker:BattleGrounds</title-name>
+ <title-detail>PhantomBreaker:BattleGrounds</title-detail>
+ <group id="001">
+  <name>Kurisu Pack</name>
+  <detail>DLC"Kurisu"Trophy</detail>
+ </group>
+ <group id="002">
+  <name>Frau Pack</name>
+  <detail>DLC"Frau"Trophy</detail>
+ </group>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>A New Battle</name>
+  <detail>Start the Game</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Who's your type?</name>
+  <detail>Use every starting character</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>I think I got it!</name>
+  <detail>Checked everything in the HOW TO PLAY</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Ding!</name>
+  <detail>Level up a character</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Level 25</name>
+  <detail>Get any character's level to 25</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Maximum Level</name>
+  <detail>Get any character's level to 50</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Restoring Powers Lost...</name>
+  <detail>Unlock a new skill with any character</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Perfectionism</name>
+  <detail>Unlock every skill for one character</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>As a Phantom Breaker</name>
+  <detail>Clear any stage in co-op play</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>Like a Scavenger</name>
+  <detail>Play until the very end of a match</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>Marvelous!</name>
+  <detail>Land a 100-hit or more combo</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="-1">
+  <name>That's Everyone!</name>
+  <detail>Unlock all hidden characters</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="-1">
+  <name>An Unexpected Train Ride</name>
+  <detail>Find the Lily Sparrow bonus stage</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="-1">
+  <name>Travel to Another World</name>
+  <detail>Clear the Akihabara stage</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="-1">
+  <name>The Starting Place</name>
+  <detail>Clear the College of Music stage</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="-1">
+  <name>Strange Things</name>
+  <detail>Clear the boat building stage</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="-1">
+  <name>Cocoa's Dream</name>
+  <detail>Clear the Ikebukuro stage</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="-1">
+  <name>Into the Country of Darkness</name>
+  <detail>Clear the Shinjuku stage</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="-1">
+  <name>The Sealed Shrine</name>
+  <detail>Clear the Kumon Shrine stage</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="-1">
+  <name>The Phantom World</name>
+  <detail>Clear the Demonsphere stage</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="-1">
+  <name>Escape from the Demonsphere</name>
+  <detail>Clear the escape stage</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="-1" gid="001">
+  <name>Get ready! Kurisu is here.</name>
+  <detail>Play with Kurisu.</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="B" pid="-1" gid="001">
+  <name>Level up with Kurisu</name>
+  <detail>Level up with Kurisu</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="-1" gid="001">
+  <name>Level 25 with Kurisu</name>
+  <detail>Get Kurisu's level to 25</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="-1" gid="001">
+  <name>Clear a stage with Kurisu</name>
+  <detail>Clear any stage with Kurisu</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="B" pid="-1" gid="001">
+  <name>Clear the game with Kurisu</name>
+  <detail>Clear all of the stages playing as Kurisu</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="-1" gid="001">
+  <name>Kurisu and Phantom Breaker</name>
+  <detail>Clear any stage in co-op play while playing as Kurisu</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="B" pid="-1" gid="001">
+  <name>Kurisu and the Scavenger</name>
+  <detail>Play until the very end of a match as Kurisu</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="S" pid="-1" gid="001">
+  <name>What is This Power?</name>
+  <detail>Raise any character's level to the maximum level</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="B" pid="-1" gid="002">
+  <name>Get ready! Frau is here.</name>
+  <detail>To play select Frau</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="B" pid="-1" gid="002">
+  <name>Level Up as Frau</name>
+  <detail>Level Up as Frau</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="B" pid="-1" gid="002">
+  <name>Get to Level 10 as Frau</name>
+  <detail>Frau has reached Level 10</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="B" pid="-1" gid="002">
+  <name>Get to Level 25 as Frau</name>
+  <detail>Frau has reached Level 25</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="B" pid="-1" gid="002">
+  <name>Get to Level 50 as Frau</name>
+  <detail>Frau has reached Level 50</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="B" pid="-1" gid="002">
+  <name>Frau and Phantom Breaker</name>
+  <detail>Clear any stage in co-op play while playing as Frau</detail>
+ </trophy>
+ <trophy id="035" hidden="yes" ttype="B" pid="-1" gid="002">
+  <name>Clear the stage with Frau</name>
+  <detail>Clear any stage with Frau</detail>
+ </trophy>
+ <trophy id="036" hidden="yes" ttype="S" pid="-1" gid="002">
+  <name>Clear the game with Frau</name>
+  <detail>Clear any stage with Frau</detail>
+ </trophy>
+</trophyconf>

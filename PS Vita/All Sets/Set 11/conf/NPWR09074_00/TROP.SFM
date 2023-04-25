@@ -1,0 +1,48 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000000b7f65ec3c1ae2292f9361e853cafe83665f9f04a2b317279982720f0e83790d7c34dcaf56ee8700d5bf40da9295c3ea6b8d78cd800e48120a100b99248345a39050f71102754fc93fece093c9ebc3d0518eca120c52ddea2d8056f16607a49df870f5a8515074049af6f3d0aa75b139d21320a78a3953ec5e889037518809dd184b34e56cacb2e2b86973de70a0cfecf08ae071-->
+<trophyconf version="1.1" platform="psp2" policy="freemium">
+ <npcommid>NPWR09074_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>ガンダムコンクエストV</title-name>
+ <title-detail>ガンダムコンクエストV　トロフィー</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>機体合成修士</name>
+  <detail>スキルレベル5以上の機体を3機所持する</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>パイロット合成修士</name>
+  <detail>特性レベル5以上のパイロットを3人所持する</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>機体整備士</name>
+  <detail>Lv50以上の機体を3機所持する</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>総督に着任！</name>
+  <detail>チュートリアルをクリアする</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>参戦</name>
+  <detail>メインクエスト『戦争ライセンス発行！』をクリアする</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>スペースノイド</name>
+  <detail>内政クエスト『機体研究所のレベルアップその３』をクリアする</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="-1">
+  <name>任務完了！</name>
+  <detail>戦争クエスト『重要拠点を占拠する』をクリアする</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>ルーキーMSパイロット</name>
+  <detail>アクションにて1体のMSをLv.20にする</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="-1">
+  <name>ベテランMSパイロット</name>
+  <detail>アクションにて2体のMSをLv.30にする</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="-1">
+  <name>エリートMSパイロット</name>
+  <detail>アクションにて3体のMSをLv.40にする</detail>
+ </trophy>
+</trophyconf>

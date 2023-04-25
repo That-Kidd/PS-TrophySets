@@ -1,0 +1,168 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000001b6a2194fc3b2c2fcaa58db4bc2582c32ba112c072ef671a67e4d754fd371f0c0758b7adf27fe5f323357b6e3adc6a17a78bb05112195d2bc92da741ef40aadc4b37c65e02885d13b662e0f907867776926d234ab5ce0e89e27dbd52ae92b250a29972df909c6a3a095038f6fcdd27fc62adae66055f1c9376696098efc57ba4baccc6f877e8357ca75d3a139c1ef8d86cdcef31-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR11368_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>いただきストリート　ドラゴンクエスト＆ファイナルファンタジー　30th ANNIVERSARY</title-name>
+ <title-detail>いただきストリート　ドラゴンクエスト＆ファイナルファンタジー　30th ANNIVERSARY　トロフィー</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Platinum Trophy</name>
+  <detail>全てのトロフィーを獲得</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Street Beginner</name>
+  <detail>対戦を最後までする</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Street Pro</name>
+  <detail>対戦終了回数が　累計10回以上</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>Street Master</name>
+  <detail>対戦終了回数が　累計100回以上</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>Online Beginner</name>
+  <detail>ネット対戦を最後までする</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>Online Pro</name>
+  <detail>ネット対戦終了回数が　累計20回以上</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>Online Master</name>
+  <detail>ネット対戦終了回数が　累計50回以上</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>Street Winner</name>
+  <detail>優勝する</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>Street 5 Wins</name>
+  <detail>優勝回数が　累計5回以上</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>Street 25 Wins</name>
+  <detail>優勝回数が　累計25回以上</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>Street 50 Wins</name>
+  <detail>優勝回数が　累計50回以上</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>Street 100 Wins</name>
+  <detail>優勝回数が　累計100回以上</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>Online Winner</name>
+  <detail>ネット対戦で優勝する</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>Online 10 Wins</name>
+  <detail>ネット対戦優勝回数が　累計10回以上</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="000">
+  <name>Online 30 Wins</name>
+  <detail>ネット対戦優勝回数が　累計30回以上</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>Shop Beginner</name>
+  <detail>貰った買い物料が　累計10,000G以上</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Shop Pro</name>
+  <detail>貰った買い物料が　累計100,000G以上</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>Shop Master</name>
+  <detail>貰った買い物料が　累計1,000,000G以上</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>Stock Beginner</name>
+  <detail>対戦終了時の株の利益が　累計10,000G以上</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Stock Pro</name>
+  <detail>対戦終了時の株の利益が　累計100,000G以上</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>Stock Master</name>
+  <detail>対戦終了時の株の利益が　累計1,000,000G以上</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>Chain Store</name>
+  <detail>対戦終了時のお店の数が　累計100店以上</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>Franchise</name>
+  <detail>対戦終了時のお店の数が　累計300店以上</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>Slime Winner</name>
+  <detail>スライムコースの最終ステージで優勝</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>Chocobo Winner</name>
+  <detail>チョコボコースの最終ステージで優勝</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="B" pid="000">
+  <name>Hero of Legend Winner</name>
+  <detail>伝説の勇者コースの最終ステージで優勝</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>Warrior of Light Winner</name>
+  <detail>光の戦士コースの最終ステージで優勝</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="B" pid="000">
+  <name>Darkness and the Great Satan Winner</name>
+  <detail>闇と大魔王コースの最終ステージで優勝</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="B" pid="000">
+  <name>30th Anniversary Winner</name>
+  <detail>30周年記念コースの最終ステージで優勝</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>Quick Winner</name>
+  <detail>クイックコースの最終ステージで優勝</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>Blank Winner</name>
+  <detail>空き地コースの最終ステージで優勝</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>Bingo Pro</name>
+  <detail>チャンスカードのビンゴ回数が　累計25回以上</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>Rival Hunter</name>
+  <detail>破産させた回数が　累計10回以上</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>Power Play</name>
+  <detail>5倍買いした回数が　累計100回以上</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>Long Vacation</name>
+  <detail>買い物料支払いを免れた回数が　累計100回以上</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="S" pid="000">
+  <name>Stock King</name>
+  <detail>1,000株以上所持している状態で優勝</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="S" pid="000">
+  <name>Speedy Win</name>
+  <detail>20ターン以内に優勝</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="S" pid="000">
+  <name>Millionaire</name>
+  <detail>総資産が1,000,000G以上で優勝</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="G" pid="000">
+  <name>Double Three Seven</name>
+  <detail>1回の対戦中　カジノスロットの「777」を2回以上当てる</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="G" pid="000">
+  <name>World Domination</name>
+  <detail>マップ上の全てのお店を所有して優勝した回数が　累計3回以上</detail>
+ </trophy>
+</trophyconf>

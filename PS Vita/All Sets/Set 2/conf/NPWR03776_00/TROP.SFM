@@ -1,0 +1,260 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000f974773c5a6592ff430d9b02cf4591490a3639dc96ef8e4b0081afea5ace152155ae08dcaf71aef0ef8cc964c858394af694e044ddf0e428490c1cfd7dd687a5ce5290ddd4f9fb6e55f1fb019c055fb87b331fdddcda4d0edbd05268836d0d7dd353ea766979bd2aa6e3db6c6d34b62b7e9f4641995adfd53006e8a17dbe35c8c049ae48aa50b34490ee661383835858599cb8f9-->
+<trophyconf version="1.1" platform="ps3,psp2" policy="large">
+ <npcommid>NPWR03776_00</npcommid>
+ <trophyset-version>01.02</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Guacamelee!</title-name>
+ <title-detail>Guacamelee! Trophy Set</title-detail>
+ <group id="001">
+  <name>Skin Pack</name>
+  <detail>Skin Pack Trophies</detail>
+ </group>
+ <group id="002">
+  <name>Level Pack</name>
+  <detail>Level Pack Trophies</detail>
+ </group>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Guacamelee! Platinum trophy</name>
+  <detail>Your luchador mask is in the mail</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Viva La Resurrección</name>
+  <detail>Become a Luchador</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>We built this city on Guac and Roll</name>
+  <detail>Discover Santa Luchita</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>That's one big Gato Frito</name>
+  <detail>Kill the Alebrije</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>Cock of the Walk</name>
+  <detail>Defeat an enemy as a chicken</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>X'tabay-Bye</name>
+  <detail>Redeem X'tabay</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>Snuffed Out</name>
+  <detail>Defeat Flame Face</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>Licking his Wounds</name>
+  <detail>Defeat Jaguar Javier</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>Wheeee</name>
+  <detail>Teleport through an Olmec head</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>Combo Nerd</name>
+  <detail>Achieve a 150 Hit Combo</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>Nap Time's Over</name>
+  <detail>Wake up an Alebrije</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>Shopaholic</name>
+  <detail>Spend $10000 in the store</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>Catch the Rainbow!</name>
+  <detail>Connect with all six special attacks without touching the ground</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>Got to catch them all</name>
+  <detail>Find an orb</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>I swat you</name>
+  <detail>Defeat a Chupacabra using only Slam</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>Why all the long faces?</name>
+  <detail>Enter the world of the dead</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>A Hero is Born</name>
+  <detail>Save Pueblucho</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Want us to untie you?</name>
+  <detail>Talk to a Goat</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>My First Power Move</name>
+  <detail>Destroy a Block using Uppercut</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Thick headed</name>
+  <detail>Destroy a Block using Headbutt</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>Belly Flop</name>
+  <detail>Destroy a Block using Slam</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>Pow</name>
+  <detail>Destroy a Block using Dash Punch</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>Stop squirming</name>
+  <detail>Defeat an Alux using only Headbutt</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>Giant Killer</name>
+  <detail>Defeat 3 giant skeletons</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>Reunited</name>
+  <detail>Complete the Missing Doll quest</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>Music to my ears</name>
+  <detail>Complete the Mariachi Band quest</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>Delicious</name>
+  <detail>Complete the World's Greatest Enchilada quest</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>All Cooped Up</name>
+  <detail>Complete the Chicken Herding quest</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>Gumshoe</name>
+  <detail>Complete the Chicken Thief quest</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>I AM ERROR</name>
+  <detail>Complete the I AM ERROR quest</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>Poncho'd Out</name>
+  <detail>Complete the Combo Chicken quest (Defeat Poncho forever)</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>Flawless</name>
+  <detail>Defeat an arena without taking any damage</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>That's using your head</name>
+  <detail>Headbutt an enemy off a cliff</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>Rocketman</name>
+  <detail>Soar through the air for 12 seconds using "Goat Fly"</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>Nooks and Crannies</name>
+  <detail>Find 100% of the hidden items in a single area</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>Big Hearted</name>
+  <detail>Complete a full heart upgrade</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>Endurance</name>
+  <detail>Complete a full stamina upgrade</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>They hit really hard</name>
+  <detail>Defeat 5 arenas in Hard mode</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>Green Thumb</name>
+  <detail>Uproot 20 plant enemies</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="000">
+  <name>Boomerang</name>
+  <detail>Defeat an enemy with its own projectile</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="S" pid="000">
+  <name>Boom-Shack-Calaca</name>
+  <detail>Defeat Calaca</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="S" pid="000">
+  <name>Lore Master</name>
+  <detail>Complete All Side Quests</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="S" pid="000">
+  <name>Cleaned Out</name>
+  <detail>Buy all the items in the shop</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="S" pid="000">
+  <name>The Never Ending Combo</name>
+  <detail>Achieve a 300 Hit Combo</detail>
+ </trophy>
+ <trophy id="044" hidden="no" ttype="S" pid="000">
+  <name>Up Close and Personal</name>
+  <detail>Defeat Calaca using only melee attacks</detail>
+ </trophy>
+ <trophy id="045" hidden="no" ttype="G" pid="000">
+  <name>That was Hard Mode?</name>
+  <detail>Defeat the game on Hard mode</detail>
+ </trophy>
+ <trophy id="046" hidden="no" ttype="G" pid="000">
+  <name>Who put these here???</name>
+  <detail>Collect every chest in the game</detail>
+ </trophy>
+ <trophy id="047" hidden="yes" ttype="G" pid="000">
+  <name>El Savior</name>
+  <detail>Access the alternative ending (collect all orbs)</detail>
+ </trophy>
+ <trophy id="048" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>Which came first?</name>
+  <detail>Enter egg mode while playing as the Pollo Luchador</detail>
+ </trophy>
+ <trophy id="049" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>I feel empty inside</name>
+  <detail>Collect a health orb as the Skeleton Luchador</detail>
+ </trophy>
+ <trophy id="050" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>Bag o' bricks</name>
+  <detail>Throw an enemy while playing as Juanita or Tostado</detail>
+ </trophy>
+ <trophy id="051" hidden="no" ttype="S" pid="-1" gid="001">
+  <name>GREETINGS, FELLOW CHICKEN</name>
+  <detail>As the Pollo Luchador, find and talk to each of the four giant chickens with the green sombreros</detail>
+ </trophy>
+ <trophy id="052" hidden="no" ttype="S" pid="-1" gid="001">
+  <name>Heroine-ism</name>
+  <detail>Defeat Calaca with Player 1 playing as Juanita</detail>
+ </trophy>
+ <trophy id="053" hidden="no" ttype="G" pid="-1" gid="001">
+  <name>Bone on bone</name>
+  <detail>Conquer the final column of arenas in La Caverna del Pollo as the Skeleton Luchador</detail>
+ </trophy>
+ <trophy id="054" hidden="no" ttype="G" pid="-1" gid="002">
+  <name>World Champion</name>
+  <detail>Earn a Gold Medal in all Infierno challenges</detail>
+ </trophy>
+ <trophy id="055" hidden="no" ttype="S" pid="-1" gid="002">
+  <name>Title Contender</name>
+  <detail>Earn a Silver Medal in all Infierno challenges</detail>
+ </trophy>
+ <trophy id="056" hidden="no" ttype="B" pid="-1" gid="002">
+  <name>Heavyweight</name>
+  <detail>Earn a Bronze Medal in all Infierno challenges</detail>
+ </trophy>
+ <trophy id="057" hidden="no" ttype="B" pid="-1" gid="002">
+  <name>GOOOOOOOAL!</name>
+  <detail>Complete Infierno challenge 10 and challenge 15 as El Portero</detail>
+ </trophy>
+ <trophy id="058" hidden="no" ttype="B" pid="-1" gid="002">
+  <name>Beastly</name>
+  <detail>Complete Infierno challenge 17 as the Alebrije</detail>
+ </trophy>
+ <trophy id="059" hidden="no" ttype="B" pid="-1" gid="002">
+  <name>The Devil wears Revenge!</name>
+  <detail>Defeat Calaca with full health in Diablo's Suit</detail>
+ </trophy>
+ <trophy id="060" hidden="no" ttype="B" pid="-1" gid="002">
+  <name>The Old-Fashioned Way</name>
+  <detail>Complete Infierno challenge 14 using Goat Fly no more than four times</detail>
+ </trophy>
+</trophyconf>

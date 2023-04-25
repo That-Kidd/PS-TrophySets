@@ -1,0 +1,120 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000004f8eb8ef118173842ead019bf3cad3442028ddc8c9cb2aef6ffe413a9220858519d40b08eae7afc866fbb7371ebb16a2a6a7a952a121fecc1c8dcbd0a80abfaa2a2fb632f50e25e250fd36998cc296b5d66a1debf799f0534b2a4ec59be6469b5e4afc879d4a4de5f110283ae925421033cdae91fe3b60c48b20e3b61af21e1120eedd55573bbf3aa72b676364e6c5cbd63e94cc-->
+<trophyconf version="1.1" platform="ps3,psp2" policy="large">
+ <npcommid>NPWR09013_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>ワールドトリガー　ボーダレスミッション</title-name>
+ <title-detail>ワールドトリガー　ボーダレスミッション のトロフィー</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>トロフィーコンプリート</name>
+  <detail>全てのトロフィーを獲得した</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>ボーダーデビュー</name>
+  <detail>チュートリアルを全てクリアした</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>駆け出しボーダー</name>
+  <detail>ミッションを１５個クリアした</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>中堅ボーダー</name>
+  <detail>ミッションを４０個クリアした</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>エンディング</name>
+  <detail>ストーリー・ミッション遊真編を全てクリアした</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>ミッションコンプリート</name>
+  <detail>全てのミッションをクリアした</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>ブラックトリガー</name>
+  <detail>対戦バトルでＳ級ボーダーを使って勝利した</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>アンチブラック</name>
+  <detail>対戦バトルでＳ級ボーダーにノーマルトリガーで勝利した</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>晴れてＢ級</name>
+  <detail>Ｃ級ボーダーをＢ級まで成長させた</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>晴れてＡ級</name>
+  <detail>Ｂ級ボーダーをＡ級まで成長させた</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>マスタークラス</name>
+  <detail>ボーダー１人のランクポイントが２００００点を超えた</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>エースボーダー</name>
+  <detail>ボーダー１人を最大レベルまで成長させた</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>エリートコーチ</name>
+  <detail>ボーダー１０人を最大レベルまで成長させた</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>ギャラリーコンプリート</name>
+  <detail>全ての展示物を入手した</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>トリガーコンプリート</name>
+  <detail>全てのトリガーを解放した</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>キャラクターコンプリート</name>
+  <detail>全てのプレイアブルキャラクターを使えるようになった</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>ボーダーコイン長者</name>
+  <detail>所持ボーダーコインが１０００００ＢＣを超えた</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>影の功労者</name>
+  <detail>戦功ポイントが１００００ｂｐを超えた</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>真の功労者</name>
+  <detail>戦功ポイントが５００００ｂｐを超えた</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="G" pid="000">
+  <name>孤高の功労者</name>
+  <detail>戦功ポイントが１２００００ｂｐを超えた</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>トリオン兵キラー</name>
+  <detail>トリオン兵の討伐数が５００匹を超えた</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>トリオン兵ハンター</name>
+  <detail>トリオン兵の討伐数が２０００匹を超えた</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>駆け出しの勝利</name>
+  <detail>対戦バトルでの勝利回数が１０回を超えた</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>堅実な勝利</name>
+  <detail>対戦バトルでの勝利回数が５０回を超えた</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="G" pid="000">
+  <name>栄光の勝利</name>
+  <detail>対戦バトルでの勝利回数が１００回を超えた</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>地道な継続</name>
+  <detail>総プレイ時間が３時間を越えた</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="S" pid="000">
+  <name>継続は力なり</name>
+  <detail>総プレイ時間が８時間を越えた</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="G" pid="000">
+  <name>トリガーマスター</name>
+  <detail>総プレイ時間が１５時間を越えた</detail>
+ </trophy>
+</trophyconf>

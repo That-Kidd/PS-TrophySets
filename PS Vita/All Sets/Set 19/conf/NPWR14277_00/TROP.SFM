@@ -1,0 +1,100 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000a5173e3d9efc6967c307143847c5c61014e7f15e62efc86b210039e647d973dd9396752de48f0bbe2d99b9692829681f3bfca253602fad60c2adf4a36633b44478808ccc46c659fd779b5ac4588f0ab404ade55568b216ca6e0cf4e9f162dba2457b436fe09b1793d496a37d4d0e70a1c339ca087a7332bd3b5495f69b025102c82b1a71dd109b3e88e9111761e2d54de9cf7b48-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR14277_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>大正×対称アリス HEADS &amp; TAILS</title-name>
+ <title-detail>大正×対称アリス HEADS &amp; TAILS のトロフィーです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>コンプリート</name>
+  <detail>全てのトロフィーを獲得</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="G" pid="000">
+  <name>手のかかる妹</name>
+  <detail>猟師編「手のかかる妹」エンドを読んだ</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="G" pid="000">
+  <name>恋人のような兄妹</name>
+  <detail>猟師編「恋人のような兄妹」エンドを読んだ</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="G" pid="000">
+  <name>嘘吐きオオカミ</name>
+  <detail>オオカミ編「嘘吐きオオカミ」エンドを読んだ</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="G" pid="000">
+  <name>ごめんね</name>
+  <detail>オオカミ編「ごめんね」エンドを読んだ</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="G" pid="000">
+  <name>王子様と狼さん</name>
+  <detail>オオカミ編「王子様と狼さん」エンドを読んだ</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>特別な日</name>
+  <detail>after編「シンデレラ」を読んだ</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>朝ちゅん？</name>
+  <detail>after編「赤ずきん」を読んだ</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>僕と結婚して下さい</name>
+  <detail>after編「かぐや」を読んだ</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="000">
+  <name>飴と鞭</name>
+  <detail>after編「グレーテル」を読んだ</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="000">
+  <name>雪明り</name>
+  <detail>after編「白雪」を読んだ</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>チェックメイト</name>
+  <detail>after編「魔法使い」を読んだ</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="B" pid="000">
+  <name>おとぎ話の定番</name>
+  <detail>after編「アリス」を読んだ</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>卒業と告白と</name>
+  <detail>学園アリス編「シンデレラ」エンドを読んだ</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>赤いチューリップ</name>
+  <detail>学園アリス編「赤ずきん」エンドを読んだ</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="S" pid="000">
+  <name>学園内でもいちゃラブしたい！</name>
+  <detail>学園アリス編「かぐや」エンドを読んだ</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="S" pid="000">
+  <name>甘い毎日</name>
+  <detail>学園アリス編「グレーテル」エンドを読んだ</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="S" pid="000">
+  <name>君となら苦手なことも頑張れる</name>
+  <detail>学園アリス編「白雪」エンドを読んだ</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="S" pid="000">
+  <name>友達として付き合ってあげるよ</name>
+  <detail>学園アリス編「魔法使い」エンドを読んだ</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="S" pid="000">
+  <name>ウイウイシイネ</name>
+  <detail>学園アリス編「アリス」エンドを読んだ</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="G" pid="000">
+  <name>CGコンプリート</name>
+  <detail>CG鑑賞をコンプリート</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="G" pid="000">
+  <name>SCENEコンプリート</name>
+  <detail>SCENE鑑賞をコンプリート</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="G" pid="000">
+  <name>BGMコンプリート</name>
+  <detail>BGM鑑賞をコンプリート</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,104 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000a7ac74534fa3e6db84a930c9711a0271f61014ea58c56f2aa943a1304cd7e71398931e1b282833736db1fe095a15da3797b9a94ed1507b613a1d9fedf4738ec8f9db511b7dc48f097e1eaf07e864ea008248a7485415afdcfef4de97c49e5e5d571793fb5f76492e4350349488aa654d53f6d9716f864b0063ece8628a9e3731fdcbd64d13272f3f9008f0ced3d9f1c8b128c9c1-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR15348_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>嘘つき姫と盲目王子</title-name>
+ <title-detail>嘘つき姫と盲目王子のトロフィーセットです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>嘘つき姫と盲目王子</name>
+  <detail>全てのトロフィーを獲得した！</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="G" pid="000">
+  <name>スタート地点</name>
+  <detail>ゲームをクリアする。</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>キミに花束を</name>
+  <detail>すべての『花』を集める。</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>狩りの達人</name>
+  <detail>敵を100体倒す。</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>愛の使徒</name>
+  <detail>泪花の星空で敵を倒さずクリア。</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>光を追う者</name>
+  <detail>鳴き花の叫びを3分30秒以内にクリア。</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="G" pid="000">
+  <name>言の刃</name>
+  <detail>王子に嘘つきと呼ばれる。</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>蒐集家</name>
+  <detail>すべての『花びら』を集める。</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>狩りのベテラン</name>
+  <detail>敵を50体倒す。</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>ピースメーカー</name>
+  <detail>綿積りの白道で敵を倒さずクリア。</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>音を追う者</name>
+  <detail>蒼海があった場所を3分00秒以内にクリア。</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>5分咲き</name>
+  <detail>『花』を5つ集める。</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>ほんとにごめんね</name>
+  <detail>王子を30回死亡させた。</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>たくさん食べてね</name>
+  <detail>土竜に花をあげる。</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>重ねて、重ねて</name>
+  <detail>100回王子と手をつなぐ。</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>キミと満月を</name>
+  <detail>王子と月を見る。</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>駆け出し狩人</name>
+  <detail>敵を10体倒す。</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>平和主義者</name>
+  <detail>木漏れ日小道で敵を倒さずクリア。</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>風を追う者</name>
+  <detail>垂れ苔のカーテンを2分30秒以内にクリア。</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>いっぱい食べてね</name>
+  <detail>山羊に肉をあげる。</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>ごめんね</name>
+  <detail>王子を初めて死亡させた。</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>その手をとって</name>
+  <detail>初めて王子と手をつなぐ。</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>これが…私…？</name>
+  <detail>初めて変身する。</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>初陣</name>
+  <detail>初めて敵を倒す。</detail>
+ </trophy>
+</trophyconf>

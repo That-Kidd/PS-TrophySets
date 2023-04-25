@@ -1,0 +1,72 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000c6eb2960b4ea24b9dcc0b2fd7cdaa25b0b0a2602b3fee504785fe04c598af71fd4944579211087c1a72cd6e2634dfd396a1819d39a00fc21d5d2dcf69d5616de3f82e002b8db428576a8f2f6bb2ef7700b32af0da37aa184cead3c2f9611cae3b3d72e5757c33a387d88689914849ac9bbf0cd6653eed15be6d86078bac39cd618d17ff84bdc5d6b2c5c7fb5e0fd91076b23b01a-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR08295_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Friend to Lover ～フレラバ～</title-name>
+ <title-detail>Friend to Lover ～フレラバ～のトロフィーです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>フレラバマスター</name>
+  <detail>全てのトロフィーを獲得しました。遊んでくれてありがとう！</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>そうだ、俺は彼女が欲しいんだ！！</name>
+  <detail>ゲームを開始する</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>設定変更</name>
+  <detail>初めてシステムで設定を変更する</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="S" pid="000">
+  <name>始まりはハプニング</name>
+  <detail>初めてイベントＣＧを見た</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="S" pid="000">
+  <name>思い出は永遠に</name>
+  <detail>全てのイベントＣＧを見た</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="S" pid="000">
+  <name>サウンドコンプリート</name>
+  <detail>全てのＢＧＭを聴いた</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="G" pid="000">
+  <name>恋愛の達人</name>
+  <detail>全てのヒロインルートをクリアした</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="G" pid="000">
+  <name>俺たちの春はこれからだ</name>
+  <detail>ヒロインルートに入らずにゲームが終了した</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="G" pid="000">
+  <name>2度目の恋</name>
+  <detail>陽茉莉のルートをクリアした</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="G" pid="000">
+  <name>寄り添う想い</name>
+  <detail>理奈のルートをクリアした</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="G" pid="000">
+  <name>溶けた殻から巣立つ気持ち</name>
+  <detail>ゆずゆのルートをクリアした</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="G" pid="000">
+  <name>将来は料理人？</name>
+  <detail>岬のルートをクリアした</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="G" pid="000">
+  <name>陽茉莉のこころ</name>
+  <detail>陽茉莉のやきもちイベントを見た</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="G" pid="000">
+  <name>理奈のこころ</name>
+  <detail>理奈のやきもちイベントを見た</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="G" pid="000">
+  <name>ゆずゆのこころ</name>
+  <detail>ゆずゆのやきもちイベントを見た</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="G" pid="000">
+  <name>あなたは誰？</name>
+  <detail>初めてあゆみか彩里沙と校内で会話した</detail>
+ </trophy>
+</trophyconf>

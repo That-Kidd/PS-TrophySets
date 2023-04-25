@@ -1,0 +1,88 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000f2e58a59cd0e9db2c094925b38bde43ca6b55dd60a8205a9f0b56ef40cf6eaa33a82699ae035733d38c1424770ad4776f10aacc25f09a2a2ee047821d0daba85146ee7d8f029a0d2925ec874a2c0988cfc83dd467859ffd2cf1d3dd39b69971c3ea2ffdd606bbaabe9db0604d655ee9d0946152aabfe6a7786df7c50797572e252e02562178ad0b0b1b423bf34944f45848cbb54-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR09867_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>ヴァルプルガの詩</title-name>
+ <title-detail>ヴァルプルガの詩 のトロフィーです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>コンプリート</name>
+  <detail>全てのトロフィーを獲得</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="S" pid="000">
+  <name>狼の腹の中</name>
+  <detail>エンド『狼の腹の中』を見た</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="S" pid="000">
+  <name>戻ってきた日常</name>
+  <detail>エンド『戻ってきた日常』を見た</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="S" pid="000">
+  <name>焼失</name>
+  <detail>エンド『焼失』を見た</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="G" pid="000">
+  <name>二人きりの結婚式</name>
+  <detail>フィンスエンド『二人きりの結婚式』を見た</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="S" pid="000">
+  <name>穏やかな日常</name>
+  <detail>エンド『穏やかな日常』を見た</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="000">
+  <name>喰</name>
+  <detail>エンド『喰』を見た</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>分かれ道</name>
+  <detail>エンド『分かれ道』を見た</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>虎の爪痕</name>
+  <detail>エンド『虎の爪痕』を見た</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="G" pid="000">
+  <name>本当の夫婦</name>
+  <detail>トラエンド『本当の夫婦』を見た</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>身代わり</name>
+  <detail>エンド『身代わり』を見た</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>龍の檻</name>
+  <detail>エンド『龍の檻』を見た</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="G" pid="000">
+  <name>共に過ごしていく時間</name>
+  <detail>リュウエンド『共に過ごしていく時間』を見た</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>お兄ちゃんといっしょに</name>
+  <detail>エンド『お兄ちゃんといっしょに』を見た</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>どこにもいない</name>
+  <detail>エンド『どこにもいない』を見た</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="G" pid="000">
+  <name>兄妹から、恋人へ</name>
+  <detail>蘇芳エンド『兄妹から、恋人へ』を見た</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="G" pid="000">
+  <name>一夜の夢の物語～ヴァルプルガ～</name>
+  <detail>サブストーリーを全て読んだ</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="G" pid="000">
+  <name>Galleryコンプリート</name>
+  <detail>Galleryコンプリート</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="G" pid="000">
+  <name>Musicコンプリート</name>
+  <detail>Musicコンプリート</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="G" pid="000">
+  <name>シーン回想コンプリート</name>
+  <detail>シーン回想コンプリート</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,128 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000d0184c35f764e0453dc0401e42035cf2d2096288a612a282dcdb19bcc443b25ce46545dd22eacf4f58fffb4d2d4985ac8b36e64d11579a82af1d344fdfc3b2765fa1deebb81b9ff928ca59d57f3f70508f218d9f54054ff8ec4ea4dfd2f81475f05d69a1c61fc7eddcc904ae6acbaf54391ce2aa8a612b25f72f7e2bce0933462da31f147bc1a2d20108741d8146b2798f173044-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR06493_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>ガールズ＆パンツァー 戦車道、極めます！</title-name>
+ <title-detail>ガールズ＆パンツァー 戦車道、極めます！</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>戦車道、極めます！</name>
+  <detail>全てのトロフィーを獲得する</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>ストーリーモード完全制覇です！</name>
+  <detail>ストーリーモード全ミッションを評価Ｓでクリアする</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>チャレンジミッション完全制覇です！</name>
+  <detail>チャレンジミッション全ステージを評価Ｓでクリアする</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>ギャラリーコンプリートです！</name>
+  <detail>ギャラリーをすべて解放する</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="G" pid="000">
+  <name>これが戦車の中の会話です！</name>
+  <detail>すべての会話掛け合いイベントが発生する</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="G" pid="000">
+  <name>目指せ！　重戦車キラーです！</name>
+  <detail>１度の試合で重戦車（マウス・ヤークトティーガー・ヤークトパンター・エレファント）を撃破する</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="G" pid="000">
+  <name>これが八九式の本気です！</name>
+  <detail>八九式でマウスを撃破する</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>全国大会優勝です！</name>
+  <detail>「第５話　あんこうチーム　ミッション５」のミッションをクリアする</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>ストーリーモード制覇です！</name>
+  <detail>ストーリーモード全ミッションをクリアする</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>チャレンジミッション制覇です！</name>
+  <detail>チャレンジミッションをすべてクリアする</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>私たちの戦車道です！</name>
+  <detail>ギャラリーで８７～１１５のイラストをすべて入手する</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>完全勝利です！</name>
+  <detail>１両も味方車両が撃破されていない状態で１０回ミッションをクリアする</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>これからもパンツァー・フォー！</name>
+  <detail>ギャラリーで１１６～１２５のイラストをすべて入手する</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>これがチームワークです！</name>
+  <detail>ザッピング中に切り替えた戦車で撃破した戦車の数が５０になる</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>精密射撃です！</name>
+  <detail>スコープモード中、撃破した戦車の数が５０になる</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>あんこうチーム、初めての戦車道です！</name>
+  <detail>「第１話　あんこうチーム　ミッション１」のミッションをクリアする</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>アヒルさんチーム、初めての戦車道です！</name>
+  <detail>「アヒルさんチーム」のミッションをクリアする</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>カバさんチーム、初めての戦車道です！</name>
+  <detail>「カバさんチーム」のミッションをクリアする</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>ウサギさんチーム、初めての戦車道です！</name>
+  <detail>「ウサギさんチーム」のミッションをクリアする</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>カメさんチーム、初めての戦車道です！</name>
+  <detail>「カメさんチーム」のミッションをクリアする</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>カモさんチーム、初めての戦車道です！</name>
+  <detail>「カモさんチーム」のミッションをクリアする</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>レオポンさんチーム、初めての戦車道です！</name>
+  <detail>「レオポンさんチーム」のミッションをクリアする</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>アリクイさんチーム、初めての戦車道です！</name>
+  <detail>「アリクイさんチーム」のミッションをクリアする</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>バトルロイヤルでもパンツァーフォー！</name>
+  <detail>バトルロイヤルのチャレンジミッションをクリアする</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>模擬戦、勝利です！</name>
+  <detail>「第１話　あんこうチーム　ミッション２」のミッションをクリアする</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>練習試合、勝利です！</name>
+  <detail>「第２話　あんこうチーム　ミッション３」のミッションをクリアする</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>全国大会１回戦、勝利です！</name>
+  <detail>「第３話　あんこうチーム　ミッション３」のミッションをクリアする</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>全国大会準決勝、勝利です！</name>
+  <detail>「第４話　あんこうチーム　ミッション３」のミッションをクリアする</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>友軍でもパンツァー・フォー！</name>
+  <detail>ザッピング中の戦車で敵戦車を撃破する</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>狙い撃ちです！</name>
+  <detail>スコープモード中に敵戦車を撃破する</detail>
+ </trophy>
+</trophyconf>

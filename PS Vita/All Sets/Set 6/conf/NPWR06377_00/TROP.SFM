@@ -1,0 +1,20 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000002ceb08a480e526469f24d1ed521c30d57a4501b6a58c62f69b35f7376f438623dbd9038f59f990dde0b9acb53f30ad15d55519de7fd859f5df548fe9001ee837c4b818ef0a7e1b39ec53f40b53bdfeb500b601dbd9cb237fa240c5263f586aa0c078c71a20ec622e266a3d952e0dd5fc2a676085ac67da7e6d8c5dacb8353306c63f3649a5c3a3b03a7fa09fd65b2b3fb74670d2-->
+<trophyconf version="1.1" platform="psp2" policy="freemium">
+ <npcommid>NPWR06377_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>魔法少女大戦 ZANBATSU</title-name>
+ <title-detail>魔法少女大戦 ZANBATSUのトロフィーッスよ！</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>斬祓の心得</name>
+  <detail>チュートリアル おさらい編をクリアした証ッス！</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>友達10人できたッス！</name>
+  <detail>10人の魔法少女とフレンドになった証ッス！</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>名物ハンター</name>
+  <detail>名物を100種類集めた証ッス！</detail>
+ </trophy>
+</trophyconf>

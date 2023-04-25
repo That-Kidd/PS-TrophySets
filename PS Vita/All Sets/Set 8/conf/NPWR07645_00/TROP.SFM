@@ -1,0 +1,56 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000006aa7d176a7d17ced75ac20fcbdbc871e1982d6478cc394817e65b53550ce98d1866b9a31343fdd528de9939b393f5cac819ea285a0b738d0148e06575b1537758a804966c361895d6b3214a912e85167a5431534d080e4c885c6d4f2bbfd6a742a854e695f0290357ad93660714c0ae2317edb7769b73c32203c98e9587b26420a0a995020d9ea45971b37890c53c85329a8fdf2-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR07645_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Home</title-name>
+ <title-detail>Trophies for Home</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Cause and effect</name>
+  <detail>Be kind and see the results.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Stolen identity</name>
+  <detail>Recover the pieces of your wallet.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Escape route</name>
+  <detail>Investigate potential travel plans.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="-1">
+  <name>A terrible tragedy</name>
+  <detail>Piece together what happened in the woods.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Secret documents</name>
+  <detail>Open the safe.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>A close call</name>
+  <detail>Discard a deadly item.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>I like to remember things my own way</name>
+  <detail>Maybe this wasn't what you thought.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Grim discovery</name>
+  <detail>Realize your worst fears.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="-1">
+  <name>Eraser</name>
+  <detail>End your story in the kitchen.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="-1">
+  <name>A warm place</name>
+  <detail>End your story in the bathroom.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="-1">
+  <name>Slipping away</name>
+  <detail>End your story by leaving.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="-1">
+  <name>Like it never even happened</name>
+  <detail>Pick up nothing along the way.</detail>
+ </trophy>
+</trophyconf>

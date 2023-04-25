@@ -1,0 +1,232 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000de050c8911db7e336518c851cc78d5e45380fdd24c0bcaec415c3f3aab89e56767600a6d84be10bd0ffeb214f09d494f037d902706beb7fb794dd4af71c87add8a9a5ad9dd803d5fa66bb6780bca3ec4ab981961c08469b0905f88206c8fc63584061a9af330a49312998d8d6a3547838025f305341deec1be59f3989ae53fc789bdd2c074c253a474e7bb182a1e335d825172b2-->
+<trophyconf version="1.1" platform="psp2">
+ <npcommid>NPWR02725_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Dungeon Hunter: Alliance</title-name>
+ <title-detail>Gameloft's Dungeon Hunter: Alliance on PlayStation®Vita system.</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Champion of Gothicus</name>
+  <detail>Earn all trophies in the game.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Dungeon Trainee</name>
+  <detail>Reach level 2 with one character.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Dungeon Raider</name>
+  <detail>Reach level 10 with one character.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Dungeon Seeker</name>
+  <detail>Reach level 25 with one character.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>Dungeon Explorer</name>
+  <detail>Reach level 50 with one character.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>Dungeon Master</name>
+  <detail>Reach level 75 with one character.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>Boss Goblin Go Boom!</name>
+  <detail>Defeat the Goblin King in a single or multiplayer game.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>United We Stand</name>
+  <detail>Complete the game in a 4-player multiplayer game on any difficulty level.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>Bottoms Up</name>
+  <detail>Drink 200 potions with one character.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>Bloodlust</name>
+  <detail>Defeat 10,000 monsters with one character.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>Hero of the People</name>
+  <detail>Complete all quests in Hero difficulty.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>Pure Skill</name>
+  <detail>Defeat a boss using only skills, no basic attacks.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>Executioner</name>
+  <detail>Defeat a monster with a single blow.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>The Legend Can Be Told</name>
+  <detail>Complete the game on Legend difficulty.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>Strength and Honor</name>
+  <detail>Complete the game as a warrior.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>Courage and Grace</name>
+  <detail>Complete the game as a rogue.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Power and Wisdom</name>
+  <detail>Complete the game as a mage.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>Long Live the King</name>
+  <detail>Complete the game with all 3 character classes.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>Big Spender</name>
+  <detail>Purchase at least one item from every merchant.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Shake It!</name>
+  <detail>Recover from Stun, Fear, or Confuse 25 times by shaking the PS Vita system.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>Looking for Loot</name>
+  <detail>Open 30 treasure chests with one character.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>Chatterbox</name>
+  <detail>Initiate a conversation with every character in the game.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>Guardian Angel</name>
+  <detail>Resurrect 20 teammates in a multiplayer game.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>Blademaster</name>
+  <detail>Defeat 300 monsters using only swords (1H or 2H).</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>Little Women</name>
+  <detail>Control the fairies to damage 200 enemies.</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>Crystal Scavenger</name>
+  <detail>Use the fairies to uncover 10 crystals buried underground.</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>Good Night, Sweet Prince</name>
+  <detail>Defeat the Bandit Prince in a single or multiplayer game.</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>Along Came a Spider...</name>
+  <detail>Defeat Seba the Man-Eater in a single or multiplayer game.</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>Broken Wings</name>
+  <detail>Defeat the Cloud Beast in a single or multiplayer game.</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>He Slimed Me</name>
+  <detail>Defeat the Depth Beast in a single or multiplayer game.</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>Rise from Your Grave</name>
+  <detail>Defeat Reldin in a single or multiplayer game.</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>Dead Dog</name>
+  <detail>Defeat the Big Bad Wolf in a single or multiplayer game.</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>Ashes to Ashes</name>
+  <detail>Defeat the Warlord in a single or multiplayer game.</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>Dust to Dust</name>
+  <detail>Defeat the Stone Devil in a single or multiplayer game.</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>Rest in Peace</name>
+  <detail>Defeat Lord Plenko in a single or multiplayer game.</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>Playing with Fire</name>
+  <detail>Defeat the Forge Monster in a single or multiplayer game.</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>To Catch a Killer</name>
+  <detail>Defeat the Darklin Assassin in a single or multiplayer game.</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>Failure Is Not an Option</name>
+  <detail>Defeat the Corrupted Captain in a single or multiplayer game.</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>Avenge the Fallen</name>
+  <detail>Defeat Jeremo in a single or multiplayer game.</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="000">
+  <name>Eternal Punishment</name>
+  <detail>Defeat Gilgrath Zire in a single or multiplayer game.</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="B" pid="000">
+  <name>Shalandriel's Chosen</name>
+  <detail>Defeat Shalandriel the Eternal Keeper in a single or multiplayer game.</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="B" pid="000">
+  <name>Battle of the Elements</name>
+  <detail>Defeat all five Generals in a single or multiplayer game.</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="B" pid="000">
+  <name>The Darkness Defeated</name>
+  <detail>Defeat the Dark Queen in a single or multiplayer game.</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="G" pid="000">
+  <name>Killer Instinct</name>
+  <detail>Defeat the Dark Fairy in a single or multiplayer game without taking damage.</detail>
+ </trophy>
+ <trophy id="044" hidden="no" ttype="B" pid="000">
+  <name>Grand Magus</name>
+  <detail>Defeat 500 monsters using Fairy Spells.</detail>
+ </trophy>
+ <trophy id="045" hidden="no" ttype="B" pid="000">
+  <name>Berserker</name>
+  <detail>Defeat 300 monsters using only axes (1H or 2H).</detail>
+ </trophy>
+ <trophy id="046" hidden="no" ttype="B" pid="000">
+  <name>Assassin</name>
+  <detail>Defeat 300 monsters using only daggers.</detail>
+ </trophy>
+ <trophy id="047" hidden="no" ttype="B" pid="000">
+  <name>Hunter</name>
+  <detail>Defeat 300 monsters using only bows.</detail>
+ </trophy>
+ <trophy id="048" hidden="no" ttype="B" pid="000">
+  <name>Warlock</name>
+  <detail>Defeat 300 monsters using only staffs.</detail>
+ </trophy>
+ <trophy id="049" hidden="no" ttype="B" pid="000">
+  <name>Gladiator</name>
+  <detail>Defeat 300 monsters using only maces.</detail>
+ </trophy>
+ <trophy id="050" hidden="no" ttype="B" pid="000">
+  <name>Sorcerer</name>
+  <detail>Defeat 300 monsters using only orbs.</detail>
+ </trophy>
+ <trophy id="051" hidden="no" ttype="B" pid="000">
+  <name>Dragon Lancer</name>
+  <detail>Defeat 300 monsters using only polearms.</detail>
+ </trophy>
+ <trophy id="052" hidden="no" ttype="B" pid="000">
+  <name>Eagle Eye</name>
+  <detail>Defeat 300 monsters using only crossbows.</detail>
+ </trophy>
+ <trophy id="053" hidden="no" ttype="B" pid="000">
+  <name>Panzer Hand</name>
+  <detail>Defeat 2,000 monsters using only 2H weapons.</detail>
+ </trophy>
+ <trophy id="054" hidden="no" ttype="B" pid="000">
+  <name>Night Stalker</name>
+  <detail>Defeat 300 monsters by wielding two daggers at the same time.</detail>
+ </trophy>
+ <trophy id="055" hidden="no" ttype="S" pid="000">
+  <name>Warmancer</name>
+  <detail>Use every skill in the game once.</detail>
+ </trophy>
+</trophyconf>

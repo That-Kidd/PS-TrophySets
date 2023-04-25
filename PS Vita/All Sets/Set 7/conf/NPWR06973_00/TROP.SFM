@@ -1,0 +1,84 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000002cf1f3ba21af753ad21cb8467086abf0781f16136be9a32ef43689710d090ebbe2b6d2a38342277b7b47a8dd2acec3b31978364b7c2ecc3690093b6f4016fbac730599bcbdc6903111cf159310bfeb8414a240de77a6149083d2ccae8482d220815bfed168b4938e7f5a3d39eba483f2ef99ebff89bad3392334ba45dc695c1706de96aac69b27cfc5cf27600c1802c8d6e0e30f-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR06973_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>VVVVVV</title-name>
+ <title-detail>TODO: Enter Description</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Game Complete</name>
+  <detail>Complete the game</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Flip Mode Complete</name>
+  <detail>Complete the game in flip mode</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Bronze Run</name>
+  <detail>Win with less than 500 deaths</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Silver Run</name>
+  <detail>Win with less than 250 deaths</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Gold Run</name>
+  <detail>Win with less than 100 deaths</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Platinum Run</name>
+  <detail>Win with less than 50 deaths</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Laboratory Mastered</name>
+  <detail>Obtain a V rank in this time trial</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Space Station 1 Mastered</name>
+  <detail>Obtain a V rank in this time trial</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Space Station 2 Mastered</name>
+  <detail>Obtain a V rank in this time trial</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>The Tower Mastered</name>
+  <detail>Obtain a V rank in this time trial</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>Warp Zone Mastered</name>
+  <detail>Obtain a V rank in this time trial</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="-1">
+  <name>Final Level Mastered</name>
+  <detail>Obtain a V rank in this time trial</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="-1">
+  <name>Gravitron Beginner</name>
+  <detail>Last 5 seconds on the Super Gravitron</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="-1">
+  <name>Gravitron Amateur</name>
+  <detail>Last 10 seconds on the Super Gravitron</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="-1">
+  <name>Gravitron Novice</name>
+  <detail>Last 15 seconds on the Super Gravitron</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="-1">
+  <name>Gravitron Expert</name>
+  <detail>Last 20 seconds on the Super Gravitron</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="-1">
+  <name>Gravitron Pro</name>
+  <detail>Last 30 seconds on the Super Gravitron</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="-1">
+  <name>Gravitron Master</name>
+  <detail>Last 1 minute on the Super Gravitron</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="-1">
+  <name>Master of the Universe</name>
+  <detail>Complete the game in no death mode</detail>
+ </trophy>
+</trophyconf>

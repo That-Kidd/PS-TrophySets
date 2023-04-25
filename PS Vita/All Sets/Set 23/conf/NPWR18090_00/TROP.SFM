@@ -1,0 +1,96 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000b949a19b4313c1019af783cd8fcc0aed498545f30e0e17afbb5654ef4a36bf202c0b62a543dce9d517a32da95a25e61be336c028470e0db4289a9f8221f0b0d6d3328095d416c43b9673b4fc6e730a0dacae25e6bf8f03cd651564b453c7a15dcae9d8ce029bdb00ca817e829574e9a8bc6ae376edd3e045c727fcef7d7e8e8cc107b9b09c1eaf7cadc7e5ad4267a5bffd1720a5-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR18090_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>メルキス</title-name>
+ <title-detail>『メルキス』トロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>メルキス</name>
+  <detail>全てのトロフィーを獲得した</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>偶然はすぐ傍に</name>
+  <detail>Act.1がスタートした</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>たくさんの「はじめて」</name>
+  <detail>Act.2がスタートした</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>変化していく関係</name>
+  <detail>Act.3がスタートした</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>ゆず</name>
+  <detail>ゆずが初めて登場した</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>愛理</name>
+  <detail>愛理が初めて登場した</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>楓</name>
+  <detail>楓が初めて登場した</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>つづり</name>
+  <detail>つづりが初めて登場した</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>みんなのストーリー</name>
+  <detail>共通ルートをクリアした</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>ファースト・フォー・ユー</name>
+  <detail>愛理ルートに入った</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>不器用に恋人</name>
+  <detail>ゆずルートに入った</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>クリスマスと予想外の告白</name>
+  <detail>楓ルートに入った</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>不思議な関係の二人</name>
+  <detail>つづりルートに入った</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>一年の計は元旦にあり</name>
+  <detail>ノーマルエンドをクリアした</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="G" pid="000">
+  <name>初めてをいつまでも</name>
+  <detail>愛理ルートをクリアした</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="G" pid="000">
+  <name>金のハチミツ、銀のスプーン</name>
+  <detail>ゆずルートをクリアした</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="G" pid="000">
+  <name>キミとまた</name>
+  <detail>楓ルートをクリアした</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="G" pid="000">
+  <name>いつかまた会う時</name>
+  <detail>つづりルートをクリアした</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="G" pid="000">
+  <name>たくさんの気持ち</name>
+  <detail>愛理、ゆず、楓、つづりルートを全てクリアした</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="G" pid="000">
+  <name>ＢＧＭマスター</name>
+  <detail>ＢＧＭコンプリート</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="G" pid="000">
+  <name>ＣＧコレクター</name>
+  <detail>ＣＧコンプリート</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="G" pid="000">
+  <name>ＥＶＥＮＴエキスパート</name>
+  <detail>イベントコンプリート</detail>
+ </trophy>
+</trophyconf>

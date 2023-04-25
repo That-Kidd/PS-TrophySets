@@ -1,0 +1,48 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000002709ae35ffe318941a76edb3c6da4bfee49118eb24d24d9e18d0759bb720ff46ff1e91310467e6599df2b7c0a79e74e91746aff4d6a97ebe8a8669f29faeb559b54776ad093a123c0b6a85f3da064bf5c77aa84012152ef16a662ba7d6b4b7ca2f57d4673917f3d425c9abff2f5d35b889245916b7c46f1d65fff07eac252a3ed1dbcd7a828292c79b9f468a360efd9073a513c2-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR07682_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Tad and the lost scroll</title-name>
+ <title-detail>Tad and the lost scroll</title-detail>
+ <trophy id="000" hidden="no" ttype="G" pid="-1">
+  <name>Game Complete</name>
+  <detail>Complete the whole game.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="-1">
+  <name>King of rallies</name>
+  <detail>Place first in a rally level.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="-1">
+  <name>Untouchable</name>
+  <detail>Complete a level without dying.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="-1">
+  <name>First class diver</name>
+  <detail>Finish a bathyscaphe level without getting any damage.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Collector</name>
+  <detail>Collect all coins in a map.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>First five</name>
+  <detail>Collect 5 coins.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Map complete</name>
+  <detail>Complete a map.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>First class player</name>
+  <detail>Beat Jeff in a slot car race.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Defeat Kopp</name>
+  <detail>Defeat Kopp.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="-1">
+  <name>Obsessive Collecting</name>
+  <detail>Collect 500 coins.</detail>
+ </trophy>
+</trophyconf>

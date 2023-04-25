@@ -1,0 +1,156 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000021faeafe8a199aa8d82ba8e711ca0998bb01b3a97d91c692f54cc39499b17b7c0c3b46277b7b54ed4fddaefc13a320c9aa782bde925761712995f680db27e82d0002098b1df5675a997fafad5140115078800893b8b8a1576ffbd0a9a2817932af2a258e629e2494a0f759222e0b3ba7d581436dade27fadd985b3498bc3008517914924be454e1e6bb27cfeece3aac7f06519ea-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR09742_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Adventures of MANA</title-name>
+ <title-detail>Adventures of MANA, Trophy sets.</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>The Hero of Mana</name>
+  <detail>Obtain all trophies.</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>Jackal Jaw-breaker</name>
+  <detail>Defeat the Jackal.</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>Hydra Harrier</name>
+  <detail>Defeat the Hydra.</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>Vampire Vanquisher</name>
+  <detail>Defeat the Vampire.</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>Ankheg Annihilator</name>
+  <detail>Defeat the Ankheg.</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>Medusa Marauder</name>
+  <detail>Defeat Medusa.</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>Flayer Finisher</name>
+  <detail>Defeat the Mind Flayer.</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>Crab Crusher</name>
+  <detail>Defeat the Metal Crab.</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>Cyclops Slasher</name>
+  <detail>Defeat the Cyclops.</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="000">
+  <name>Golem Grinder</name>
+  <detail>Defeat the Golem.</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="000">
+  <name>Chimera Killer</name>
+  <detail>Defeat the Chimera.</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>Dark Lord Dethroner</name>
+  <detail>Defeat the Dark Lord.</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="B" pid="000">
+  <name>Marilith Mauler</name>
+  <detail>Defeat Marilith.</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="000">
+  <name>Kraken Cleaver</name>
+  <detail>Defeat the Kraken.</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="B" pid="000">
+  <name>Ifrit Extinguisher</name>
+  <detail>Defeat Ifrit.</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>Lich Liquidator</name>
+  <detail>Defeat the Lich.</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>Mantis Mangler</name>
+  <detail>Defeat the Mantis Ant.</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>Garuda Garrotter</name>
+  <detail>Defeat Garuda.</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>Dragon Drubber</name>
+  <detail>Defeat the Dragon.</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>Red Dragon Destroyer</name>
+  <detail>Defeat the Red Dragon.</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="000">
+  <name>Zombie Dragon Devastator</name>
+  <detail>Defeat the Zombie Dragon.</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>End of the Line I</name>
+  <detail>Defeat Julius in his first form.</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="B" pid="000">
+  <name>End of the Line II</name>
+  <detail>Defeat Julius in his second form.</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="S" pid="000">
+  <name>End of the Line III</name>
+  <detail>Defeat Julius in his third form.</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="G" pid="000">
+  <name>Duty and Honor</name>
+  <detail>Finish the game.</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="S" pid="000">
+  <name>Gold Digger</name>
+  <detail>Obtain 100,000 gold.</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="S" pid="000">
+  <name>Gemma Knight</name>
+  <detail>Attain level 99.</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="G" pid="000">
+  <name>Warrior of Warriors</name>
+  <detail>Attain 99 STR.</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="G" pid="000">
+  <name>Mage of Mages</name>
+  <detail>Attain 99 INT.</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="G" pid="000">
+  <name>Monk of Monks</name>
+  <detail>Attain 99 VIT.</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="G" pid="000">
+  <name>Sage of Sages</name>
+  <detail>Attain 99 MND.</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="S" pid="000">
+  <name>Weapon Collector</name>
+  <detail>Obtain all weapons.</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="S" pid="000">
+  <name>Spell Collector</name>
+  <detail>Obtain all magic spells.</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="S" pid="000">
+  <name>Item Collector</name>
+  <detail>Obtain at least one of all items.</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="S" pid="000">
+  <name>Armor Collector</name>
+  <detail>Obtain all armor.</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="S" pid="000">
+  <name>Helm Collector</name>
+  <detail>Obtain all helms.</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="S" pid="000">
+  <name>Shield Collector</name>
+  <detail>Obtain all shields.</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,56 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000b36bbfc843b98527f2d41ef11635bf165c39ede37347ad936f58256fb0a8ad6f731ee66f96d0768f662942d1ad213a77385755ede164cc00aa04342d081f426478ab775016eafd35d57ab771c2eed6477ee23e0301bb02f354c0da8d7d3d382cf90fc546d8187592661fd8b0f032e0d3c7f167d78ff5814d45c90f844189b34a56255d0bfc00a5cb0fdcd4f6ee890d7ee87f0ff8-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="small">
+ <npcommid>NPWR11146_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Ronin</title-name>
+ <title-detail>Ronin Trophies</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Second Blood</name>
+  <detail>Kill an enemy.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Don't Blink</name>
+  <detail>Kill three enemies in five seconds.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Merciless Samurai</name>
+  <detail>Cause a Samurai to kill another enemy.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Flying Blade</name>
+  <detail>Catch your sword while in the air.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Fallen Honour</name>
+  <detail>Cause a Samurai to fall to his death</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Old Man</name>
+  <detail>Kill the Old Man and get to the motorcycle.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Wisegal</name>
+  <detail>Kill the Wisegal and get to the motorcycle.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Doctor</name>
+  <detail>Kill the Doctor and get to the motorcycle.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Officer</name>
+  <detail>Kill the Officer and get to the motorcycle.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="-1">
+  <name>Happy Ending</name>
+  <detail>Finish the game with happy ending.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="-1">
+  <name>Sad Ending</name>
+  <detail>Finish the game with sad ending.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="-1">
+  <name>New Game Plus</name>
+  <detail>Finish the game in new game plus.</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,132 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000b20304337b260a5219b6167610eb7d063220e848957e3ef5ad75ef31e0dc423d45515d25c5dc42729b44fe52a5c7c1d681b247e3da026ff3ef507d45fe15eaac04e8862ac3bbdbfb7b02754907aeb02b64dea0df5259e60c93e96cbdadab1a9886df1738e476671965f252722b3687139efd437ea6da6c06af5cabc52b5b46c0da01e23ce7c6512f4b1557801031dde280c8064a-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR04501_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>三国恋戦記</title-name>
+ <title-detail>三国恋戦記のトロフィーです</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>一人前の軍師</name>
+  <detail>全てのトロフィーを獲得</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>九天九地盤―三国記―</name>
+  <detail>OPムービーを見た</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="S" pid="000">
+  <name>常識問題</name>
+  <detail>常識問題に全問正解した</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>軍師見習い</name>
+  <detail>初めて軍議に参加した</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>心臓がもたない</name>
+  <detail>玄徳に抱き留められた</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="S" pid="000">
+  <name>帰る場所</name>
+  <detail>玄徳エンドを見た</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>いい匂い</name>
+  <detail>雲長と野宿をした</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>物語の始まり</name>
+  <detail>雲長エンドを見た</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>走馬灯</name>
+  <detail>翼徳と崖を飛び降りた</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>新しいふたり</name>
+  <detail>翼徳エンドを見た</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="000">
+  <name>し、し、失礼しました！</name>
+  <detail>子龍に水浴びを見られた</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>婚約</name>
+  <detail>子龍エンドを見た</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="B" pid="000">
+  <name>初恋の相手</name>
+  <detail>孔明に膝枕をした</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>隠した想い</name>
+  <detail>孔明エンドを見た</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="B" pid="000">
+  <name>鶴の恩返し</name>
+  <detail>孟徳の頼みを聞いた</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="S" pid="000">
+  <name>永遠の誓い</name>
+  <detail>孟徳エンドを見た</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>平常心平常心</name>
+  <detail>文若に肩を貸した</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="S" pid="000">
+  <name>羽ばたき</name>
+  <detail>文若エンドを見た</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>水もしたたる</name>
+  <detail>仲謀にお酒をかけた</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="S" pid="000">
+  <name>三度目のキス</name>
+  <detail>仲謀エンドを見た</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="000">
+  <name>どうも調子が悪いようです</name>
+  <detail>公瑾を動揺させた</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="S" pid="000">
+  <name>温かい音色</name>
+  <detail>公瑾エンドを見た</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="S" pid="000">
+  <name>意外な同行者</name>
+  <detail>隠しキャラクター「早安」の名前が判明した</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>肉餅</name>
+  <detail>早安と食事をした</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="S" pid="000">
+  <name>やすらぎ</name>
+  <detail>早安エンドを見た</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="S" pid="000">
+  <name>天下三分の計</name>
+  <detail>ノーマルエンドを見た</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="G" pid="000">
+  <name>羽扇</name>
+  <detail>羽扇エンドを見た</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="S" pid="000">
+  <name>許都の一日</name>
+  <detail>元譲のスペシャルエピソードを見た</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="G" pid="000">
+  <name>特別編</name>
+  <detail>全てのスペシャルエピソードを見た</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="G" pid="000">
+  <name>CGコンプリート</name>
+  <detail>CG鑑賞の達成率が100%になった</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="G" pid="000">
+  <name>三国恋戦記～オトメの兵法！～</name>
+  <detail>全てのエンディングを見た</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,60 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000009d482f9516518a465b7acb28109229989c433d9c55a463155bd1252d308beadae868451384901bbc4c28a7665ea2b18819f9a92ad8f6dd507e0e31f28313cf02171281b33a413ae22c3d1149c176a893c16542a498d9fc97b6405ea84fcd0db30b0033ddb43dc809dda97a03f012861b9f368205e1f3e64686fe165918e1a7191f098dccda6c221ec71802cfeac33df5b4f46547-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR05243_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Doodle Devil Trophies</title-name>
+ <title-detail>Doodle Devil Trophies</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Combo!</name>
+  <detail>Create two new elements in a row.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Devil's Dozen</name>
+  <detail>Create 13 different elements.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Forbidden Fruit</name>
+  <detail>Complete Intro episode.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Accidental Well-doer</name>
+  <detail>Complete the Good group.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Vivisector</name>
+  <detail>Complete the Monsters group.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Walking in God's Shoes</name>
+  <detail>Complete the Nature, Animals, and Plants groups.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Science!</name>
+  <detail>Complete the Science group.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Sweet Little Toys</name>
+  <detail>Complete the Weapons and Military groups.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Space Superstar</name>
+  <detail>Complete the Space War group.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="-1">
+  <name>Great Distortion</name>
+  <detail>Complete first episode without using tips.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="-1">
+  <name>Lord of War</name>
+  <detail>Complete second episode without using any tips.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="-1">
+  <name>Unholy Chain</name>
+  <detail>Create 50 elements in a row.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="-1">
+  <name>The Evil Genius</name>
+  <detail>Complete the game without using tips.</detail>
+ </trophy>
+</trophyconf>

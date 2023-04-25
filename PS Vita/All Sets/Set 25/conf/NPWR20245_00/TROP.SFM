@@ -1,0 +1,96 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000aa4b0428bb8c117fdccd1825233a11241a731e003603ab85152e3feb4ea8d8941c1fce8e7a83b27a5242ed5f232807c58c6b288ddb456904811d893cb9f0af5c1657227f19190317c316fdecffdfc67992329d877f4a9d033df5805e9fe64b5fefba0d46529b9c53c530e55f8cfb0ae595f024f31e8bff1a044eb3492db2016454fcd672d695d3f648fd1d47f9b3051f980b1bb8-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR20245_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Duck Souls+</title-name>
+ <title-detail>Duck Souls+</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Platinum Duck</name>
+  <detail>Get all other trophies!</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Bandana</name>
+  <detail>You unlocked the bandana!</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Topper hat</name>
+  <detail>You unlocked the topper hat!</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Rabbit ears</name>
+  <detail>You unlocked the rabit ears!</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>Fedora</name>
+  <detail>You unlocked the fedora!</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>Propeller hat</name>
+  <detail>You unlocked the propeller hat!</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>Miner hat</name>
+  <detail>You unlocked the miner hat!</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>Viking helmet</name>
+  <detail>You unlocked the viking helmet!</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>Irish hat</name>
+  <detail>You unlocked the irish hat!</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>Toque</name>
+  <detail>You unlocked the toque!</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>Christmas hat</name>
+  <detail>You unlocked the christmas hat!</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>Witch hat</name>
+  <detail>You unlocked the witch hat!</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>Crown</name>
+  <detail>You unlocked the crown!</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="000">
+  <name>Galea</name>
+  <detail>You unlocked the galea!</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="000">
+  <name>Cat hat</name>
+  <detail>You unlocked the cat hat!</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="G" pid="000">
+  <name>Space helmet</name>
+  <detail>You unlocked the space helmet!</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="G" pid="000">
+  <name>Black power</name>
+  <detail>You unlocked the blackpower!</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="G" pid="000">
+  <name>White fedora</name>
+  <detail>You unlocked the white fedora!</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="G" pid="000">
+  <name>Ushanka</name>
+  <detail>You unlocked the ushanka!</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="G" pid="000">
+  <name>Skull</name>
+  <detail>You unlocked the skull!</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="G" pid="000">
+  <name>Deal with it</name>
+  <detail>You unlocked the sunglasses!</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="G" pid="000">
+  <name>Easter egg</name>
+  <detail>You found the hidden easter egg!</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,160 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000004716e129ce347f24993267a172aed31be6b72c9393c6011ffbfac454114c3537ad9af15156f6367762c7f8e9537677268e616a50a6108424181841d1ac320366b979b4f6ac81683b8a6edc66f0f9002ce10b2c534adc019e050d62c85158bc01e419bb1c63acc8c4674c410d52e44823d42741a750fd0381542547d4e3943079c28b04ad64788ea080e0ecfebe390dd2cb40f6c-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR10976_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>かまいたちの夜 輪廻彩声</title-name>
+ <title-detail>かまいたちの夜 輪廻彩声&#x0a;のトロフィーデータです</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>かまいたちの夜・完</name>
+  <detail>全てのトロフィーを獲得した</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="000">
+  <name>ピンクのしおり</name>
+  <detail>ピンクのしおりを入手した</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>金のしおり</name>
+  <detail>金のしおりを入手した</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>アルバム収集25%</name>
+  <detail>アルバムを25%以上収集した</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>アルバム収集50%</name>
+  <detail>アルバムを50%以上収集した</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>アルバム収集75%</name>
+  <detail>アルバムを75%以上収集した</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>アルバム収集100%</name>
+  <detail>アルバムを全て収集した</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>音楽収集25%</name>
+  <detail>音楽を25%以上収集した</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>音楽収集50%</name>
+  <detail>音楽を50%以上収集した</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>音楽収集75%</name>
+  <detail>音楽を75%以上収集した</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>音楽収集100%</name>
+  <detail>音楽を全て収集した</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>選択肢25%</name>
+  <detail>選択肢を25%以上選んだ</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>選択肢50%</name>
+  <detail>選択肢を50%以上選んだ</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>選択肢75%</name>
+  <detail>選択肢を75%以上選んだ</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="000">
+  <name>選択肢100%</name>
+  <detail>選択肢を全て選んだ</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>シナリオ25%</name>
+  <detail>シナリオを25%以上読んだ</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>シナリオ50%</name>
+  <detail>シナリオを50%以上読んだ</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>シナリオ75%</name>
+  <detail>シナリオを75%以上読んだ</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="G" pid="000">
+  <name>シナリオ100%</name>
+  <detail>シナリオを全て読んだ</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>俯瞰風景</name>
+  <detail>フローチャート機能を使用した</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>ようこそ、シュプールへ</name>
+  <detail>初めてシュプールを訪れた</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>名探偵</name>
+  <detail>１つ目の犯人入力で正解した</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="B" pid="000">
+  <name>並探偵</name>
+  <detail>２つ目の犯人入力で正解した</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>迷探偵</name>
+  <detail>３つ目の犯人入力で正解した</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="000">
+  <name>数打ちゃ当たる</name>
+  <detail>犯人入力で登場人物全員を指名した</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="B" pid="000">
+  <name>犯人は猫？</name>
+  <detail>犯人入力でジェニーを指名した</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>事件解決</name>
+  <detail>ミステリー編をクリアした</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="B" pid="000">
+  <name>伝説のスパイ</name>
+  <detail>スパイ編をクリアした</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="B" pid="000">
+  <name>嵐が去って</name>
+  <detail>オカルト編をクリアした</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="B" pid="000">
+  <name>遭難して……</name>
+  <detail>雪の迷路編をクリアした</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="B" pid="000">
+  <name>鎌井達の夜</name>
+  <detail>鎌井達の夜編をクリアした</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="B" pid="000">
+  <name>Ｏの喜劇</name>
+  <detail>Ｏの喜劇編をクリアした</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="B" pid="000">
+  <name>宝を見つけた！</name>
+  <detail>暗号編をクリアした</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="B" pid="000">
+  <name>チュンソフ党の陰謀</name>
+  <detail>チュンソフ党の陰謀に気付いた</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="B" pid="000">
+  <name>不思議のペンション踏破</name>
+  <detail>迷宮編をクリアした</detail>
+ </trophy>
+ <trophy id="035" hidden="yes" ttype="B" pid="000">
+  <name>探偵物語　正解</name>
+  <detail>真理の探偵物語をクリアした</detail>
+ </trophy>
+ <trophy id="036" hidden="yes" ttype="B" pid="000">
+  <name>辺獄の真理</name>
+  <detail>辺獄の真理編をクリアした</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>かまいたちの夜・終</name>
+  <detail>いずれかのバッドエンディングを見た</detail>
+ </trophy>
+</trophyconf>

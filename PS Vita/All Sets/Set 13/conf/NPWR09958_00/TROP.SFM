@@ -1,0 +1,44 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000167b599107ea95912cd12fa14250d786361e8c5e06ef6e75ac0d7497379f4a6b89cd7b718c76841d41bbce2f090df765adfdb436d0ea6920ef41a72be50340d0ae6dff7d0b7350bdf30ad089cc956341101c546b3eca570afe08838862aa778e0542a47ab709d6093e1ebe069178d61ff9126074ae3c9d1738088f49b9c6cbbfd06a5791a5f41f28eb39bd5d8de0ee344d3318b9-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR09958_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Red Game Without Great Name</title-name>
+ <title-detail>Red Game Without Great Name</title-detail>
+ <trophy id="000" hidden="yes" ttype="B" pid="-1">
+  <name>Die 50 times in a single level</name>
+  <detail>I would have given up long ago...</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="G" pid="-1">
+  <name>Die 5000 times overal</name>
+  <detail>You make a Phoenix look bad</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Finish 30 levels with 3 gears</name>
+  <detail>Don't stop, you're doing great!</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="-1">
+  <name>Finish all the levels with 3 gears</name>
+  <detail>You're the best of the best!</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Finish 30 levels with no deaths</name>
+  <detail>The valiant never taste of death</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Finish 30 levels flawless</name>
+  <detail>Nothing can hold you back!</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="-1">
+  <name>Finish all levels flawless</name>
+  <detail>Death fears you!</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="-1">
+  <name>Finish 40 levels</name>
+  <detail>You have five years of experience in the industry, eh?</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="-1">
+  <name>Finish all the levels</name>
+  <detail>Bards sing of your deeds!</detail>
+ </trophy>
+</trophyconf>

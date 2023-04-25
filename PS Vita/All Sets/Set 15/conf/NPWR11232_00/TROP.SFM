@@ -1,0 +1,80 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000027454614677704b0a92537f132534ba5c044fb1587e1910504fc0567006d34a25c9cd93884c3376e4506b35a878a8931385752ede23cf0e66bfc7d04cd6ed54da991fb216c4ddaca3c8b5a30e0cb7fff198f42886967d26d7bdeee3f25e24d476e1e840d802fc82d480058812e10ebe6bf14805d376ead27bfc22f72207523adb5a03373f83da353e0234cb5ab9f17a3d4b1cdd3-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR11232_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>アストラエアの白き永遠 -White Eternity-</title-name>
+ <title-detail>アストラエアの白き永遠 -White Eternity-  トロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>全てのトロフィーを獲得</name>
+  <detail>全てのトロフィーを獲得した。</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>White Eternity</name>
+  <detail>ムービー「White Eternity」を見た。</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>雪のエルフィンリート</name>
+  <detail>ムービー「雪のエルフィンリート」を見た。</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="S" pid="000">
+  <name>雪々との思い出１</name>
+  <detail>「雪々との思い出１」を見た。</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="S" pid="000">
+  <name>雪々との思い出２</name>
+  <detail>「雪々との思い出２」を見た。</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="S" pid="000">
+  <name>雪々との思い出３</name>
+  <detail>「雪々との思い出３」を見た。</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="000">
+  <name>雪々との思い出４</name>
+  <detail>「雪々との思い出４」を見た。</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>雪々との思い出５</name>
+  <detail>「雪々との思い出５」を見た。</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>葉月とデート</name>
+  <detail>葉月のミニシナリオを見た。</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="G" pid="000">
+  <name>雪々エンディング</name>
+  <detail>雪々シナリオのエンディングに到達した。</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="G" pid="000">
+  <name>落葉エンディング</name>
+  <detail>落葉シナリオのエンディングに到達した。</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="G" pid="000">
+  <name>一夏エンディング</name>
+  <detail>一夏シナリオのエンディングに到達した。</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="G" pid="000">
+  <name>りんねエンディング</name>
+  <detail>りんねシナリオのエンディングに到達した。</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="G" pid="000">
+  <name>コロナエンディング</name>
+  <detail>コロナシナリオのエンディングに到達した。</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="G" pid="000">
+  <name>琴里エンディング</name>
+  <detail>琴里シナリオのエンディングに到達した。</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="G" pid="000">
+  <name>オールクリア</name>
+  <detail>全てのヒロインのエンディングに到達した。</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="G" pid="000">
+  <name>全イベントCG回収</name>
+  <detail>全てのイベントCGを見た。</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="G" pid="000">
+  <name>全BGM回収</name>
+  <detail>全てのBGMを聴いた。</detail>
+ </trophy>
+</trophyconf>

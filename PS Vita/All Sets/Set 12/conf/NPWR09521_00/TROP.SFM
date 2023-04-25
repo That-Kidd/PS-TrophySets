@@ -1,0 +1,204 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000249f525c3274f72b3fa3389816ebe4101c1230df5dc654abe09a0d5ce719fee955a4d23883ce4ba7c83935e0c6cd783f3c1b6e7faa1d6ac2a2b7e64387507799baca960d2fe89fb771ec64d38e09a1d3ccbc9f866f8f38c9b7c8cce42c805d153dd1ff5398a20995532ef66d784792f016b4e1366aa6984a6241e9240bf4cc3cd84e0e8442c97705b35ab8e257fbe02f7ebc1d3f-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR09521_00</npcommid>
+ <trophyset-version>01.02</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>WORLD OF FINAL FANTASY</title-name>
+ <title-detail>WORLD OF FINAL FANTASY</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>True Grymoirian</name>
+  <detail>Obtained every trophy.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="000">
+  <name>The End?</name>
+  <detail>Reached an ending.</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="G" pid="000">
+  <name>Turn Those Corners Up</name>
+  <detail>Reached the true ending.</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>Gateway to Adventure</name>
+  <detail>Arrived in Grymoire.</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>The Saviors of Cornelia</name>
+  <detail>Repelled the Bahamutian Army.</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>Crimson vs. Azure</name>
+  <detail>Found the first key from the Crimson Prophecy.</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>A Prophecy Fulfilled</name>
+  <detail>Found all of the keys from the Crimson Prophecy.</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>The Final Reckoning</name>
+  <detail>Learned the location of Castle Exnine.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>Mirage Keeper</name>
+  <detail>Imprismed your first Mirage.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>Mirage Collector</name>
+  <detail>Recorded a large number of Mirages in the Mirage Manual.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>Mirage Enthusiast</name>
+  <detail>Recorded a huge number of Mirages in the Mirage Manual.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>Mirage Scholar</name>
+  <detail>Recorded an inconceivable number of Mirages in the Mirage Manual.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>Mirage Master</name>
+  <detail>Recorded every last Mirage in the Mirage Manual.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>Caretaker</name>
+  <detail>Mastered your first Mirage Board.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>Legendary Caretaker</name>
+  <detail>Mastered 100 Mirage Boards.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>A Medium Awakens</name>
+  <detail>Obtained your first Champion Medal.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>Canon Fodder</name>
+  <detail>Obtained every last Champion Medal.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Battle Aficionado</name>
+  <detail>Battled 100 times.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>Battle Fanatic</name>
+  <detail>Battled 500 times.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Treasure Hunter</name>
+  <detail>Opened 100 treasure chests.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>Treasure Liberator</name>
+  <detail>Opened every last treasure chest.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>Sweet Revenge</name>
+  <detail>Defeated your first murkrift Mirage.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>All in a Day’s Murk</name>
+  <detail>Defeated every last murkrift Mirage.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>Thirst for the Undiscovered</name>
+  <detail>Found the secret area in every dungeon.</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>The Power of Fantasy</name>
+  <detail>Completed your first intervention battle.</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>Time Tamperer</name>
+  <detail>Completed 10 intervention battles.</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>Threads of Fate</name>
+  <detail>Completed 30 intervention battles.</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="S" pid="000">
+  <name>Transcender of Time</name>
+  <detail>Completed every last intervention battle.</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>A Helping Hand</name>
+  <detail>Fulfilled a townsperson’s request for the first time.</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>People Pleaser</name>
+  <detail>Fulfilled the requests of every last townsperson in need.</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="B" pid="000">
+  <name>It’s Just Justice</name>
+  <detail>Joined forces with Shivalry to defeat the Golden Flan.</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="B" pid="000">
+  <name>Soul Eater</name>
+  <detail>Chastised the fugitive Ifreeta.</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="B" pid="000">
+  <name>The Cranberry Knights</name>
+  <detail>Got to the bottom of the “phenomenon” at the Coliseum.</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="B" pid="000">
+  <name>Inking Up a Stink</name>
+  <detail>Defeated Ultros in Tometown.</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="B" pid="000">
+  <name>An Inseparable Pair</name>
+  <detail>Teamed up with Gilgamesh to stop the Bahamutian soldier.</detail>
+ </trophy>
+ <trophy id="035" hidden="yes" ttype="S" pid="000">
+  <name>The Dyad’s Servants</name>
+  <detail>Brought all seven of the Pleiad back in line.</detail>
+ </trophy>
+ <trophy id="036" hidden="yes" ttype="B" pid="000">
+  <name>Nine Lives</name>
+  <detail>Added Tamamohimé to your roster.</detail>
+ </trophy>
+ <trophy id="037" hidden="yes" ttype="B" pid="000">
+  <name>Accursed Man-thing!</name>
+  <detail>Defeated the Quacho Queen with one of Lann’s attacks.</detail>
+ </trophy>
+ <trophy id="038" hidden="yes" ttype="B" pid="000">
+  <name>Never Give Up the Ghost</name>
+  <detail>Defeated the Undead Princess 10 times.</detail>
+ </trophy>
+ <trophy id="039" hidden="yes" ttype="B" pid="000">
+  <name>Love Tap</name>
+  <detail>Defeated the Princess Goblin with the Warrior of Light.</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="B" pid="000">
+  <name>A New Challenger</name>
+  <detail>Won your first Coliseum battle.</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="B" pid="000">
+  <name>Winning Streak</name>
+  <detail>Defeated 30 teams at the Coliseum.</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="S" pid="000">
+  <name>Reigning Champ</name>
+  <detail>Defeated every last opponent in the Coliseum.</detail>
+ </trophy>
+ <trophy id="043" hidden="yes" ttype="S" pid="000">
+  <name>Across the Unknown</name>
+  <detail>Braved and completed the new dungeons that appeared.</detail>
+ </trophy>
+ <trophy id="044" hidden="yes" ttype="S" pid="000">
+  <name>Crossover Cogna</name>
+  <detail>Defeated the Cogna known as XG.</detail>
+ </trophy>
+ <trophy id="045" hidden="yes" ttype="B" pid="000">
+  <name>Magitek Knight</name>
+  <detail>Defeated many foes using any Magitek armor.</detail>
+ </trophy>
+ <trophy id="046" hidden="yes" ttype="B" pid="000">
+  <name>Blitzball Ace</name>
+  <detail>Cleared the sky of uncountable einhänders.</detail>
+ </trophy>
+ <trophy id="047" hidden="yes" ttype="B" pid="000">
+  <name>The Fast and the Nebulous</name>
+  <detail>Reached the final chamber of the Nether Nebula in record time.</detail>
+ </trophy>
+ <trophy id="048" hidden="yes" ttype="B" pid="000">
+  <name>Zip Zip WHACK!</name>
+  <detail>Thwacked a whole bunch of cactuars in a single thrashing.</detail>
+ </trophy>
+</trophyconf>

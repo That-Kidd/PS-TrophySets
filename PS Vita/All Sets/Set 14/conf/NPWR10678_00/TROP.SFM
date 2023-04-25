@@ -1,0 +1,176 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000000b3e663dea25c8438d531b02a543ae0d07a315429af9fc75e898fee4125ef683aa03b386792f641be346da07b7ba68a5b7d08df57d99b3c279aa40a081fca898fed6e9e1076dae4ed3e86ca526f9a3bbe58e94fd1115838963e667cbec4260d65ce8e7bddf8aa7997fde8c77c1062a80a40ccc630d8ae806251375e65d40d4094ab6be99688973e66214011817ce56eb7d6848c-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR10678_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Bridge Constructor Trophies</title-name>
+ <title-detail>Bridge Constructor Trophies</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>You're a Bridge Constructor</name>
+  <detail>Collect all trophies to unlock the platinum trophy. Let's get building!</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Car insignia 'West'</name>
+  <detail>Cars can drive on all of Island 1's bridges.</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>Car insignia 'Central'</name>
+  <detail>Cars can drive on all of Island 2's bridges.</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>Car insignia 'Ridge'</name>
+  <detail>Cars can drive on all of Island 3's bridges.</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>Car insignia 'East'</name>
+  <detail>Cars can drive on all of Island 4's bridges.</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="S" pid="000">
+  <name>Car insignia 'Tamassee'</name>
+  <detail>Cars can drive on all of Island 5's bridges.</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>Car insignia 'Tiltin North'</name>
+  <detail>Cars can drive on all of Tiltin North's bridges.</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>Car insignia 'Tiltin West'</name>
+  <detail>Cars can drive on all of Tiltin West's bridges.</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>Car insignia 'Tiltin East'</name>
+  <detail>Cars can drive on all of Tiltin East's bridges.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>Truck insignia 'West'</name>
+  <detail>Trucks can drive on all of Island 1's bridges.</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="000">
+  <name>Truck insignia 'Central'</name>
+  <detail>Trucks can drive on all of Island 2's bridges.</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>Truck insignia 'Ridge'</name>
+  <detail>Trucks can drive on all of Island 3's bridges.</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="B" pid="000">
+  <name>Truck insignia 'East'</name>
+  <detail>Trucks can drive on all of Island 4's bridges.</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>Truck insignia 'Tamassee'</name>
+  <detail>Trucks can drive on all of Island 5's bridges.</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="B" pid="000">
+  <name>Truck insignia 'Tiltin North'</name>
+  <detail>Trucks can drive on all of Tiltin North's bridges.</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>Truck insignia 'Tiltin West'</name>
+  <detail>Trucks can drive on all of Tiltin West's bridges.</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="S" pid="000">
+  <name>Truck insignia 'Tiltin East'</name>
+  <detail>Trucks can drive on all of Tiltin East's bridges.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Tank truck insignia 'West'</name>
+  <detail>Tank trucks can drive on all of Island 1's bridges.</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>Tank truck insignia 'Central'</name>
+  <detail>Tank trucks can drive on all of Island 2's bridges.</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="S" pid="000">
+  <name>Tank truck insignia 'Ridge'</name>
+  <detail>Tank trucks can drive on all of Island 3's bridges.</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="S" pid="000">
+  <name>Tank truck insignia 'East'</name>
+  <detail>Tank trucks can drive on all of Island 4's bridges.</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="G" pid="000">
+  <name>Tank truck insignia 'Tamassee'</name>
+  <detail>Tank trucks can drive on all of Island 5's bridges.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>Tank truck insignia 'Tiltin North'</name>
+  <detail>Tank trucks can drive on all of Tiltin North's bridges.</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>Tank truck insignia 'Tiltin West'</name>
+  <detail>Tank trucks can drive on all of Tiltin West's bridges.</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="S" pid="000">
+  <name>Tank truck insignia 'Tiltin East'</name>
+  <detail>Tank trucks can drive on all of Tiltin East's bridges.</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>Offside</name>
+  <detail>Completed all optional levels.</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="G" pid="000">
+  <name>Solid ground!</name>
+  <detail>Completed all levels with trucks.</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>Smart Alec</name>
+  <detail>Did not build the 1st Level to specification!</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>Storm Warning</name>
+  <detail>A vehicle flew at least 5 grid units into the air.</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>Foreman</name>
+  <detail>Score is 100,000 points or higher.</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="S" pid="000">
+  <name>Engineer</name>
+  <detail>Score is 500,000 points or higher.</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="G" pid="000">
+  <name>Chief Engineer</name>
+  <detail>Score is 1,000,000 points or higher.</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>Piggy Bank</name>
+  <detail>Built a bridge which can support trucks for 3,000 less than specified.</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>Budget Master</name>
+  <detail>Built a bridge which can support trucks for 10,000 less than specified.</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>Financially Talented</name>
+  <detail>Built a bridge which can support trucks for 15,000 less than specified.</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="S" pid="000">
+  <name>Financial Manager</name>
+  <detail>Built a bridge which can support trucks for 20,000 less than specified.</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="S" pid="000">
+  <name>Financial Genius</name>
+  <detail>Built a bridge which can support trucks for 25,000 less than specified.</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>Pinocchio</name>
+  <detail>Built a bridge which can support trucks out of wood alone, even though other materials were available.</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>Stubborn!</name>
+  <detail>25 failed simulations in a row for the same bridge.</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="000">
+  <name>Throw-away bridge</name>
+  <detail>Bridge completed although at least 1 part broke.</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="B" pid="000">
+  <name>Safe Flight!</name>
+  <detail>Ran a level simulation although not one single element had been built.</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="B" pid="000">
+  <name>Bye Bye!</name>
+  <detail>One vehicle reached the opposite side of the bridge safely, the other did not.</detail>
+ </trophy>
+</trophyconf>

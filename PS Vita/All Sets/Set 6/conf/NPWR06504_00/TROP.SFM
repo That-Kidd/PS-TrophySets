@@ -1,0 +1,56 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000004d7eda9f981158c5b51ec3d297d54f4d2c5823e2030c90a11620f0ed85a2c0974fb22faceaa90dc72727b0ce25b204b23629e9e475109d6303f23a9426b810b5b1e1a50e2b205af94c450ef014aa64a7e1737976f0637549f5a57cf3e9c206723af9498d2470e04c6d6dfd465cd0ac7249b9ce235f29fb7d40632056617ed583836935ada629610945bbc7a8153ed8f87410c8d7-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR06504_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Battalion Commander</title-name>
+ <title-detail>Trophy set for Battalion Commander</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Wind in the Face</name>
+  <detail>Complete half of the way, using vehicle</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Jackal</name>
+  <detail>Destroy 100 hostile jeeps</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Field doctor</name>
+  <detail>Heal 50 allies, who have red health indicator</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Exploder</name>
+  <detail>Destroy 200 hostile mortars</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Scrooge!</name>
+  <detail>Having collected all dropped coins in the field, destroy the submarine</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Provident</name>
+  <detail>Destroy 1000 crates</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Hulking</name>
+  <detail>Destroy 50 hostile vehicles using a car</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="-1">
+  <name>Perspective Soldier</name>
+  <detail>Travel 1500 meters in Endless mode without using ability</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="-1">
+  <name>Gracious</name>
+  <detail>Destroy the boss without stepping into napalm with squad leader</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="-1">
+  <name>Marathon Man</name>
+  <detail>Travel 2000 meters in Endless mode, in one go</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="-1">
+  <name>Liberator</name>
+  <detail>Set free 500 hostages</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="-1">
+  <name>Commander</name>
+  <detail>Complete all missions, buy all upgrades</detail>
+ </trophy>
+</trophyconf>

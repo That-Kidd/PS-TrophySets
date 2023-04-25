@@ -1,0 +1,40 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000b3bbbad44ab326a0d36bd6ad5581b88667ad384725494ea90c186e763cdd37509a666359ef3ae84b054c3665268d662a58fe5b3134f09bdcf7de24a57ea7cbe53c25fd8e4da2b896f11bbb1ad449aa1a62c99192b3d76608c5efad7c043e665eee75421f3ef1b1876134a418076ad81bf439f93cc1dbce3c1696e48613fcc2d6d53f1db5c71b6276d7b14ef65eb763e2274c4027-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="small">
+ <npcommid>NPWR14763_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>One Eyed Kutkh</title-name>
+ <title-detail>One Eyed Kutkh</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>A cunning plan</name>
+  <detail>Caused a quarrel between The Sun and The Moon</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="-1">
+  <name>Peacemaker</name>
+  <detail>Reconciled the Sun with the Moon</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="-1">
+  <name>Explorer</name>
+  <detail>Found all exits of the labyrinth</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="S" pid="-1">
+  <name>Persistent</name>
+  <detail>Press the same button four times in a row</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="-1">
+  <name>Sleeper</name>
+  <detail>Saw all dreams</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="S" pid="-1">
+  <name>Stubborn</name>
+  <detail>Refused to give a man boats three times in a row</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="-1">
+  <name>Survivor</name>
+  <detail>Visited a bear three times</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="-1">
+  <name>Curious</name>
+  <detail>All the ends of all the branches reached</detail>
+ </trophy>
+</trophyconf>

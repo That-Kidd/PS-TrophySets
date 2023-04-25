@@ -1,0 +1,124 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000005a33cc3f02d101fc408f369ab3a68644bcbef5b7bb6279b1e1e9b8dc14f80f64c870acf90a82adeac55e1d0e148ce1b584b7a9810b540e6b4453de134d3019747badb051a9f37ed2c36c6dab31748e2165dde508eb0dc2fe657fb986d5163f86d2745d69a901689844a9cabbe6c089ba26b8d6404508f829c2f2a29541aa0bae46ffe9b80d551a64ebcfb6af2bafedb0ef996df1-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR11233_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Starry☆Sky～Summer Stories～</title-name>
+ <title-detail>Starry☆Sky～Summer Stories～のトロフィーセットです</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>夏の星座を繋いで</name>
+  <detail>全てのトロフィーを獲得した</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>これからも</name>
+  <detail>in 金久保ノーマルエンドをクリアした</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>小さな嫉妬とクリスマス</name>
+  <detail>in 宮地ノーマルエンドをクリアした</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>巡る夏を共に</name>
+  <detail>in 木ノ瀬ノーマルエンドをクリアした</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>次の夏へ</name>
+  <detail>in ３バカ友情エンドをクリアした</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>優しさに見守られて</name>
+  <detail>After 金久保ノーマルエンドをクリアした</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>未来への希望</name>
+  <detail>After 宮地ノーマルエンドをクリアした</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>ふたりのための物語</name>
+  <detail>After 木ノ瀬ノーマルエンドをクリアした</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>部員達との思い出</name>
+  <detail>in 共通のスチルを全部オープンした</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>部員達との夏</name>
+  <detail>in 全ての回想を開いた</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>未来へ至る想い</name>
+  <detail>After 全ての回想を開いた</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>金久保との思い出</name>
+  <detail>in 金久保のスチルを全部オープンした</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>宮地との思い出</name>
+  <detail>in 宮地のスチルを全部オープンした</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>木ノ瀬との思い出</name>
+  <detail>in 木ノ瀬のスチルを全部オープンした</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>金久保とのアルバム</name>
+  <detail>After 金久保のスチルを全部オープンした</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>宮地とのアルバム</name>
+  <detail>After 宮地のスチルを全部オープンした</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>木ノ瀬とのアルバム</name>
+  <detail>After 木ノ瀬のスチルを全部オープンした</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>穏やかな時間</name>
+  <detail>in 金久保グッドエンドをクリアした</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>変わらないもの</name>
+  <detail>in 宮地グッドエンドをクリアした</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="000">
+  <name>ぜんぶをください</name>
+  <detail>in 木ノ瀬グッドエンドをクリアした</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>今日からは、今日からも</name>
+  <detail>After 金久保グッドエンドをクリアした</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>夜空に煌めく夢</name>
+  <detail>After 宮地グッドエンドをクリアした</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>夢のその先</name>
+  <detail>After 木ノ瀬グッドエンドをクリアした</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="G" pid="000">
+  <name>あなたと誓う未来へと</name>
+  <detail>in 金久保ベストエンドをクリアした</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="G" pid="000">
+  <name>甘い約束</name>
+  <detail>in 宮地ベストエンドをクリアした</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="G" pid="000">
+  <name>共に歩む道</name>
+  <detail>in 木ノ瀬ベストエンドをクリアした</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="G" pid="000">
+  <name>祝福の中で</name>
+  <detail>After 金久保ベストエンドクリアした</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="G" pid="000">
+  <name>ずっと一緒</name>
+  <detail>After 宮地ベストエンドクリアした</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="G" pid="000">
+  <name>太陽の下で</name>
+  <detail>After 木ノ瀬ベストエンドクリアした</detail>
+ </trophy>
+</trophyconf>

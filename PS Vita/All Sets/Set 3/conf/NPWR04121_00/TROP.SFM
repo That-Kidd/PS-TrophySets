@@ -1,0 +1,56 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000009943ace9745b9c0291984b9ced1da19611ec236157ebdfe69ac3194e996c6b5ec7b8392874c692f99e35e87a3616241316b7afa1cff85002d5b8f7c2993ea84868ca1597140b41a75d32ddde6ba103cd4ab4ae0c33a378f23148a81e2bb2ae1b7df081412fcadf104124f5bbc5c0c11a2329b0341263e2fc624618653033e35d3afc2947dce54f688ea7e9f9e4ec3833fd2b646d-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR04121_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Spelunker Collection</title-name>
+ <title-detail>Spelunker Collection</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Mysterious stone monument</name>
+  <detail>Finished the first level in "Spelunker" (Console)</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>The hidden treasure</name>
+  <detail>Finished the first level in "Spelunker" (Arcade)</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>The forgotten treasure</name>
+  <detail>Finished the first level in "Spelunker II 23 keys" (Arcade)</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Beyond the mines</name>
+  <detail>Finished the first level in "Spelunker" (Original)</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="-1">
+  <name>The true Pyramid</name>
+  <detail>Reached the final goal in "Spelunker" (Console)</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="-1">
+  <name>Xanadu</name>
+  <detail>Reached the final goal in "Spelunker" (Arcade)</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="-1">
+  <name>The wedding</name>
+  <detail>Reached the final goal in "Spelunker II 23 keys" (Arcade)</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="-1">
+  <name>The dazzling Pyramid</name>
+  <detail>Reached the final goal in "Spelunker" (Original)</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="-1">
+  <name>Pro Spelunker!</name>
+  <detail>Reached the final goal without a miss in "Spelunker" (Console)</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="-1">
+  <name>Three miracles</name>
+  <detail>Obtained same item for 3 continuous times with miracle "Spelunker" (Console)</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="-1">
+  <name>Tricky!</name>
+  <detail>Reached the final goal in "Spelunker" (Arcade) without using all keys</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="-1">
+  <name>Ultimate diamond</name>
+  <detail>Obtained 10000pts diamond "Spelunker" (Console)</detail>
+ </trophy>
+</trophyconf>

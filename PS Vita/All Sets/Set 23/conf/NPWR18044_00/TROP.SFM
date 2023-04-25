@@ -1,0 +1,96 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000b6f142c58fb3327e561a53844b2d5454a8bf986d7c2bb54acc1504369ba2f2855d69181e583147724035f67ba901b8b1ad3c69e2e99d8e3c4395956c37777a277fbcafe3ef1b8a8e07b26e2bef61764c6d3e202dec61f1cdbe2e9358cafa89b601d1ea68f08e6fe4d52a39317572fae27dfc148fccaf9d6c6c10fb1baa7bab0e02c248a7379cf0988cca2b2fdb643c93716bde3d-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR18044_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Ultracore</title-name>
+ <title-detail>Ultracore Trophies</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Hardcore!</name>
+  <detail>Collect all trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="000">
+  <name>Level 1</name>
+  <detail>Complete level 1</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>Level 2</name>
+  <detail>Complete level 2</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>Level 3</name>
+  <detail>Complete level 3</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>Level 4</name>
+  <detail>Complete level 4</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>Level 5</name>
+  <detail>Complete level 5</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="000">
+  <name>Arsenal</name>
+  <detail>Use all weapons</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>Nuke 'Em</name>
+  <detail>Use a bomb</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>Sesame Open</name>
+  <detail>Uncover a secret wall (by walking into it)</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>Boom!</name>
+  <detail>Uncover a secret area (by bombing it)</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>Lock n' Load!</name>
+  <detail>Upgrade standard weapon to maximum level</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>Ka-ching!</name>
+  <detail>Buy something from the vending machine</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>They Must Die!</name>
+  <detail>Kill 95% of enemies in any level</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>ALL the Lives!</name>
+  <detail>Collect all lives in any level</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>Moneybags</name>
+  <detail>Collect all coins in any level</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="G" pid="000">
+  <name>Party Like It's 1994!</name>
+  <detail>Complete the game</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="G" pid="000">
+  <name>Standard-Issue</name>
+  <detail>Complete the game using just the standard weapon</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="G" pid="000">
+  <name>Fly me to the moon!</name>
+  <detail>Don't touch the ground for 30 seconds</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="G" pid="000">
+  <name>Deadeye</name>
+  <detail>Get 60% hit accuracy in any level</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="G" pid="000">
+  <name>No Prize For Pacifists</name>
+  <detail>Kill 95% of enemies in the entire game</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="G" pid="000">
+  <name>All the 'ALL the Lives!'</name>
+  <detail>Collect all lives in the entire game</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="G" pid="000">
+  <name>Cashy-pants</name>
+  <detail>Collect all coins in the entire game</detail>
+ </trophy>
+</trophyconf>

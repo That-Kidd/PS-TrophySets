@@ -1,0 +1,96 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000023e9defd64a4033cddf8b52bfd96fa8f58bb930659d620c2de81b211b2bd6f90714639bae0581579db676a26338a9bf466d3dd277e3b81ba54a3dbb6439ebfd4d5df8572bcecb389565eaead031a5dd080b323e668e3b936013d6acdeee253aba271297f42f4d286b40351900abbb49eef2244a39ccb220dac2b160cb8fc793fcea6079fefdd83c0cfc68b8959e20e29e1e71e9e-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR15758_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>古書店街の橋姫 々</title-name>
+ <title-detail>古書店街の橋姫 々</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>全てのトロフィーを取得</name>
+  <detail>全てのトロフィーを取得しました。</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>全てのシナリオをクリア</name>
+  <detail>全てのシナリオをクリアしました。</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="G" pid="000">
+  <name>イベントスチルをコンプリート</name>
+  <detail>イベントスチルをコンプリートしました。</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="G" pid="000">
+  <name>水上ルートをクリア</name>
+  <detail>水上のシナリオルートをクリアしました。</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="G" pid="000">
+  <name>川瀬ルートをクリア</name>
+  <detail>川瀬のシナリオルートをクリアしました。</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="G" pid="000">
+  <name>花澤ルートをクリア</name>
+  <detail>花澤のシナリオルートをクリアしました。</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="G" pid="000">
+  <name>氷川博士ルートをクリア</name>
+  <detail>氷川博士のシナリオルートをクリアしました。</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="G" pid="000">
+  <name>カオルルートをクリア</name>
+  <detail>カオルのシナリオルートをクリアしました。</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>水上ルートを開始</name>
+  <detail>水上のシナリオルートを開始しました。</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="000">
+  <name>川瀬ルートを開始</name>
+  <detail>川瀬のシナリオルートを開始しました。</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="000">
+  <name>花澤ルートを開始</name>
+  <detail>花澤のシナリオルートを開始しました。</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>氷川博士ルートを開始</name>
+  <detail>氷川博士のシナリオルートを開始しました。</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="B" pid="000">
+  <name>カオルルートを開始</name>
+  <detail>カオルのシナリオルートを開始しました。</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>水上後日談（玉森視点）をクリア</name>
+  <detail>水上ルート後日談（玉森視点）をクリアしました。</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>水上後日談（水上視点）をクリア</name>
+  <detail>水上ルート後日談（水上視点）をクリアしました。</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="S" pid="000">
+  <name>川瀬後日談（玉森視点）をクリア</name>
+  <detail>川瀬ルート後日談（玉森視点）をクリアしました。</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="S" pid="000">
+  <name>川瀬後日談（川瀬視点）をクリア</name>
+  <detail>川瀬ルート後日談（川瀬視点）をクリアしました。</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="S" pid="000">
+  <name>花澤後日談（玉森視点）をクリア</name>
+  <detail>花澤ルート後日談（玉森視点）をクリアしました。</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="S" pid="000">
+  <name>花澤後日談（花澤視点）をクリア</name>
+  <detail>花澤ルート後日談（花澤視点）をクリアしました。</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="S" pid="000">
+  <name>博士後日談（玉森視点）をクリア</name>
+  <detail>博士ルート後日談（玉森視点）をクリアしました。</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="S" pid="000">
+  <name>博士後日談（博士視点）をクリア</name>
+  <detail>博士ルート後日談（博士視点）をクリアしました。</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="S" pid="000">
+  <name>カオル後日談（玉森視点）をクリア</name>
+  <detail>カオルルート後日談（玉森視点）をクリアしました。</detail>
+ </trophy>
+</trophyconf>

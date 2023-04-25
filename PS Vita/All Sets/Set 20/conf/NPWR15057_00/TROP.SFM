@@ -1,0 +1,64 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000fef45aabc762273b09c90183cbba3f7c1d253563ae4fe216c63b7c8ecea9be5fcd47d807d20f76883da88e119ebdfd498e29f085b4da4109287588adc8b4f6c18025c7985c2c726cf6b3d6c37ea75cb0e1cd12d703313714349d8b0e4a675420541d81e0427fee389afd04249b9fccea16b562be8ba0e6f30e1eddf5837476926e706a5feb034efc2fa198170bf9c9abdfd20f3e-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR15057_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>ラッキードッグ１</title-name>
+ <title-detail>ラッキードッグ１のトロフィーです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>コンプリート</name>
+  <detail>全てのトロフィーを獲得</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="S" pid="000">
+  <name>脱獄成功！</name>
+  <detail>脱獄編をクリアした</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="S" pid="000">
+  <name>逃走成功！</name>
+  <detail>逃亡編をクリアした</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="G" pid="000">
+  <name>Bad Company</name>
+  <detail>イヴァン「Bad Company」エンドを読んだ</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="G" pid="000">
+  <name>太陽と月のある限り</name>
+  <detail>イヴァン「太陽と月のある限り」エンドを読んだ</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="G" pid="000">
+  <name>in the rain</name>
+  <detail>ベルナルド「in the rain」エンドを読んだ</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="G" pid="000">
+  <name>歩いてゆく、二人で</name>
+  <detail>ベルナルド「歩いてゆく、二人で」エンドを読んだ</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="G" pid="000">
+  <name>Gilded City</name>
+  <detail>ルキーノ「Gilded City」エンドを読んだ</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="G" pid="000">
+  <name>最高の二人</name>
+  <detail>ルキーノ「最高の二人」エンドを読んだ</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="G" pid="000">
+  <name>Beatitude Blood</name>
+  <detail>ジュリオ「Beatitude Blood」エンドを読んだ</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="G" pid="000">
+  <name>二人の記憶</name>
+  <detail>ジュリオ「二人の記憶」エンドを読んだ</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>CGコンプリート</name>
+  <detail>CG鑑賞をコンプリート</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>BGMコンプリート</name>
+  <detail>BGM鑑賞をコンプリート</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="000">
+  <name>ENDINGコンプリート</name>
+  <detail>エンディングリストをコンプリート</detail>
+ </trophy>
+</trophyconf>

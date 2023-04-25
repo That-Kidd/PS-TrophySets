@@ -1,0 +1,100 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000483499c13be12082f4457757121362bb77cc98ec7b6bdc5a21c88939ad848f0c268528fd6e9d5ca4419d9be8cbb89b0f779c3a4701df5bf1637cf8ae104e6b2cf12398b96ca1462ecfe2dc1d6387f15341c96bdca32ea65ee243d5f400829768c9a1407d219667bd0a54fbc519bc300c4f6af9e81d3667f26fff92519aa2ef78e54c127683c4378b38e9e359bc1e92730a4df0bb-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR15104_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>カノジョ＊ステップ</title-name>
+ <title-detail>カノジョ＊ステップのトロフィーセットです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>恋は受け身じゃ始まらない</name>
+  <detail>全てのトロフィーを取得しました。</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>CGコンプリート</name>
+  <detail>CGをコンプリートしました。</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>BGMコンプリート</name>
+  <detail>BGMをコンプリートしました。</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>椎名ルートクリア</name>
+  <detail>椎名ルートをクリアしました。</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>のえルートクリア</name>
+  <detail>のえルートをクリアしました。</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>明日香ルートクリア</name>
+  <detail>明日香ルートをクリアしました。</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>久遠ルートクリア</name>
+  <detail>久遠ルートをクリアしました。</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="G" pid="000">
+  <name>とみ子ルートクリア</name>
+  <detail>とみ子ルートをクリアしました。</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>友達１００人</name>
+  <detail>サブイベントをすべて見ました。</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>椎名のやきもち</name>
+  <detail>椎名のやきもちイベントを見ました。</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>のえのやきもち</name>
+  <detail>のえのやきもちイベントを見ました。</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>明日香のやきもち</name>
+  <detail>明日香のやきもちイベントを見ました。</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>久遠のやきもち</name>
+  <detail>久遠のやきもちイベントを見ました。</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>椎名に告白</name>
+  <detail>椎名に告白しました。</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>のえに告白</name>
+  <detail>のえに告白しました。</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>明日香に告白</name>
+  <detail>明日香に告白しました。</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>久遠に告白</name>
+  <detail>久遠に告白しました。</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>とみ子に告白</name>
+  <detail>とみ子に告白しました。</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="S" pid="000">
+  <name>モブだって恋をする</name>
+  <detail>とみ子に会いにいけるようになりました。</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>今日も朝から元気ね～</name>
+  <detail>椎名に起こしてもらいました。</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>遅いお目覚めですね</name>
+  <detail>のえに起こしてもらいました。</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>おはよ。びっくりした？</name>
+  <detail>明日香に起こしてもらいました。</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>もう起きちゃったのね</name>
+  <detail>久遠に起こしてもらいました。</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,148 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000a78627bd11df09064adbebc376285a777bd2f2b032a6fe304d76622909d86a2731f4a6a39e8478ec8aa8ba7ef59eeec62bc9e9b552fb19211e9189c89eebdcca5ec5fd84827f4db3bf228df728393cae42c60cdbb288fbd84e919e7671ab17c5135df2b239671081ca235d32b387f5884cf4cc3b9528b8a456230633ab251c27a34b1919ba281a1f58a5c17e228beafed425e702-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR06679_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>超次元アクション ネプテューヌU</title-name>
+ <title-detail>超次元アクション ネプテューヌU</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Ultimate thanks to YOU</name>
+  <detail>超次元アクション ネプテューヌUを遊び尽くした。&#x0a;「コンプリートおめでとう！　次はどんなゲイムで君と会えるかな？　これからもよろしくね！！」</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>クエストマスター</name>
+  <detail>ストーリーモードの全てのクエストをクリアした。&#x0a;「クリア後も続いたクエストはこれにて終了！　クエストを完全制覇したんだよ！　お疲れ様！！」</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="G" pid="000">
+  <name>イベントマスター</name>
+  <detail>全てのイベントパートを見た。&#x0a;「イベントを残さず見てくれるなんて感激だよ！　ってことは…わたしたちの意外な一面が見られちゃったね」</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="G" pid="000">
+  <name>圧倒的総優勝</name>
+  <detail>ギョウ界チモードを全てのキャラクターで優勝した。&#x0a;「みんなやるじゃん！わたしだけじゃなくて、みんな最強だったってことだね！　ゲイムギョウ界が安泰になる日も近いよ！」</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="G" pid="000">
+  <name>ネプトラルフォース</name>
+  <detail>ネプトラルタワーを全てのキャラクターでクリアした。&#x0a;「この塔を全員で登るなんて、極めちゃった感じだね！！　きっと新たな世界が開かれるに間違いないね！」</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="G" pid="000">
+  <name>ワン・オブ・スペクトラル</name>
+  <detail>レベル１の状態で、ネプトラルタワー最上階の次世代鬼を倒した。&#x0a;「最弱レベルで本作最強の敵を倒してしまうとは……弱いのに強すぎる。　さては、チートスキルを使ったな！？　え、使ってない……？」</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>リリィマスター</name>
+  <detail>全キャラクター同士のリリィランクを最大にした。&#x0a;「もう、絶対喧嘩が起きないんじゃないかってくらいみんな仲良しになったよ。　これも君のおかげだね！」</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>第３章完ッ！！</name>
+  <detail>ストーリーモードの第３章をクリアした。&#x0a;「このあと、まさかのスペシャルゲストが登場！！　……って、ねぷっ？　わたしもそんなの聞いてないよ……！？」</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>初優勝</name>
+  <detail>ギョウ界チ武道会で初優勝した。&#x0a;「参加者の９割が女神か女神候補生だなんて、まるで女神のバーゲンセールのような大会だったね……優勝賞品を役立ててくれると嬉しいな！」</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>初登頂</name>
+  <detail>ネプトラルタワーを初めてクリアした。&#x0a;「塔の頂上は、あぁ絶景かな絶景かな～。この光景を『全員』で拝むまで頑張ったら伝説になれるよ！」</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>レベルMax</name>
+  <detail> キャラクター１人のレベルを９９にした。&#x0a;「今回のレベルは９９でカンストだよ。　君は十分強くなったから、必ずや最後の敵を倒せるであろう云々……」</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>アクセサリーマニア</name>
+  <detail>全てのアクセサリーを収集した。&#x0a;「アクセサリーコンプリートおめでとう！　いろんな効果があるから、付け替えて楽しんでね！」</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>メダルマニア</name>
+  <detail>全てのメダルボーナスを獲得した。&#x0a;「モンスターを倒したオマケのメダルをたくさん集めるね。オマケってついつい集めたくなっちゃうよね」</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>ネプテューヌ起動</name>
+  <detail>ストーリーモードでNEW GAMEを選択し、『女神』のオープニングを開始した。&#x0a;｢ゲームを始めるだけで取れちゃう超お手軽なトロフィー！　定番だね！｣</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>ネプギア起動</name>
+  <detail>ストーリーモードでNEW GAMEを選択し、『女神候補生』のオープニングを開始した。&#x0a;「『女神はいいから、女神候補生を映せ！』っていう声に応えちゃうよ！　わたしたち自慢の妹たちを見てね」</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>第１章完！</name>
+  <detail>ストーリーモードの第１章をクリアした。&#x0a;「クエストをじっくりこなして回るのも良し。ストーリーに絡むクエストだけ挑むも良し。楽しみ方はいろいろだよ！」</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>第２章完！！</name>
+  <detail>ストーリーモードの第２章をクリアした。&#x0a;「やり残したクエストがあっても、期限切れで無くなったりはしないから安心！　でも、ずっと放っておくと依頼主が気の毒だから忘れないであげてね」</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Hyperdimension</name>
+  <detail>変身した状態のままクエストをクリアした。&#x0a;「だいぶ女神化状態でのコントロールがうまくなったね！　そのうち、女神化している時間のほうが長くなったりして？」</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>NUGA-CETA！</name>
+  <detail>クエスト中にコスチュームブレイクが発生した。&#x0a;「脱げると強くなるのは何故かって？　恥ずかしいから、早く戦いを終わらせたくて、ついつい力が入っちゃうんだよね」</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>女神ウォッチング</name>
+  <detail>女神達の日常を目撃した。&#x0a;「プライバシーの侵害だぁ！　……なーんて怒ったりしないから大丈夫。他にもたくさんあるからちゃんと見てね」</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>ジェネレーションオブサウンド</name>
+  <detail>サウンドテストをした。&#x0a;「色んな次元のBGMが大集合。聴き比べてもらえると嬉しいな！」</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>ライターソウルズ</name>
+  <detail>新たな仲間が加わった。&#x0a;「この２人が仲間になるなんてびっくりだよ！やっぱり仲間が増えるとうれしいよね」</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>プリーズヘルプミー</name>
+  <detail>イレギュラークエストの目的を暴いた。&#x0a;「ストーリー上、このクエストはバグっていたんだ。つまり、このバグは仕様だったんだよ！なんだかややこしいけどね……」</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>人生まさに修行中</name>
+  <detail>デメリット効果のあるアクセサリーを付けたままクエストをクリアした。&#x0a;「骨があるねぇ……いつか、レベル１で最強の相手に挑んだりしてみる？　ハードな特訓用アクセサリーっていうと、女神妖精ギプス……うっ、頭が」</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>リリィスペシャル</name>
+  <detail>リリィスペシャルを習得した。&#x0a;「２人で繰り出す連携技だよ！　みんなー、組む相手は、ちゃんと居るよね？」</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>エグゼドライヴ</name>
+  <detail>エグゼドライヴを発動した。&#x0a;「アクションになっても相変わらずハチャメチャな威力だよ。女神化後じゃなくても使えるようになるから、ゲイムを進めてね！」</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>最大火力・勇</name>
+  <detail>１回のコンボで９９９万ダメージを叩き出した。&#x0a;「ねぷっ！ダメージのインフレが凄まじい……これなら、余裕で叩き潰せそうだね！」</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>コンボマスター・悠</name>
+  <detail>コンボで９９９ヒットした。&#x0a;「コンボが繋がったよ！なかなかやるねー！　一撃で倒してしまわないように気を遣ったでしょ」</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>エネミークラッシャー</name>
+  <detail>１回のクエスト中に９９９体のエネミーを倒した。&#x0a;「おぉーたくさん倒したね。けど、一体どこからモンスターは来るんだろう」</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>十人十色</name>
+  <detail>全てのキャラクターをクエストで使用した。&#x0a;「君のお気に入りは誰かな？　例えそれがわたしじゃなかったとしても、気にはしないよ……ちらちら」</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>グローバルエンターテインメント</name>
+  <detail>ゲイム記者２人を選んでクエストを開始した。&#x0a;「ゲイム記者って強いんだね。だったら、少しくらいゲー…、休憩したって問題ないよねー」</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>紫の風が空駆ける</name>
+  <detail>ネプテューヌとネプギアを選んでクエストを開始した。&#x0a;「ネプギアいっくよー！！今回はわたしたち姉妹、ダブル主人公の物語だー！　なんてね」</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>私達はここに居るわ！</name>
+  <detail>ノワールとユニを選んでクエストを開始した。&#x0a;「ノワールとユニちゃんまた張り合ってるよ……けど楽しそうだし、何だかんだ言って仲の良い姉妹だよね」</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>至福的ひととき、ずっと</name>
+  <detail>ブランとロム、またはラムを選んでクエストを開始した。&#x0a;「今回は２人１組だから、ロムちゃんとラムちゃんでブランの取り合いだね。ブランってば幸せ者！」</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="B" pid="000">
+  <name>Mon amour</name>
+  <detail>ベールとネプギアを選んでクエストを開始した。&#x0a;「ねぷっ！なぜかネプギアとベールがカップリングされている！？　ベールってばネプギアを好きすぎじゃないかな……ベールにもいつか本当の妹ができるといいね」</detail>
+ </trophy>
+</trophyconf>

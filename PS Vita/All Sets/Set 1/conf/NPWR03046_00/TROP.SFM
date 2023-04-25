@@ -1,0 +1,44 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000f8b8f17c0395bc766ce56d5172d68739e01d2c1a1b4b2402288278e313f11c7445b4896adf80c1ca5a0a3ef3f4368e46180509fc0170b12b4a77e5ed698751485d9a7789344931a4ab573dc5de9154ce0a6c6514b8d2dd44bd344f279f7e2257b7ba97aeb80c5db71ce49bba62e121a4288c63b3fee0f22391959f71f18f33765a56d995c7d67acd6527fb6349bc64a491274f2d-->
+<trophyconf version="1.1" platform="psp2">
+ <npcommid>NPWR03046_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>ニコリの数独V 珠玉の12パズル</title-name>
+ <title-detail>「ニコリの数独V 珠玉の12パズル」のトロフィーパックです。&#x0a;すべてのパズルを制覇し、トロフィーをコンプリートしよう！</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>千里の道も一歩から</name>
+  <detail>1つのパズルを5問クリアした</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>備えあれば憂いなし</name>
+  <detail>全パズルのガイドを閲覧した</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>諦めが肝心</name>
+  <detail>パズルをやめた回数が累計50回を超えた</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>碁打ちに時なし</name>
+  <detail>総プレイ時間が24時間を超えた</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>一歩進んで二歩下がる</name>
+  <detail>UNDOを累計100回使用した</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="-1">
+  <name>雨垂れ石を穿つ</name>
+  <detail>いずれかのパズルを全問クリアした</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="-1">
+  <name>大海は芥を選ばず</name>
+  <detail>シャッフルで全パズルを選択し、12問連続でクリアした</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="-1">
+  <name>好きこそ物の上手なれ</name>
+  <detail>全ての目標タイム上級を達成した</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="-1">
+  <name>精神一到何事か成らざらん</name>
+  <detail>全ての問題をクリアした</detail>
+ </trophy>
+</trophyconf>

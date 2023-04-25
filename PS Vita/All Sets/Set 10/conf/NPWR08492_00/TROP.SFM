@@ -1,0 +1,144 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000009696e6d017f727a9befeec4b69697c4706dd212610cf0b472fee810a70baed302bae0d2a22174313d00e19e098268da7fa62d3571a0b37c322a1cf335853872a0dee00f5dcc12b7df04b45d71e5dd1cff5e0445253c8a5dc6dd2bb7fee4d30e7f9db95ea3e92737cdfab8a32f9da8fff2589d514304db573c767d7d167a5914a59ec05979a2f8bd2cf41bae5df2e74a3386672bb-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR08492_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Taco Master - Vita</title-name>
+ <title-detail>Hi are you ready to become the Taco Master?&#x0a;&#x0a;                      ¡Haaaz taco!</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Lord of the Taco Master</name>
+  <detail>&#x0a;&#x0a;                  ¡Taquerazo as me!</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Taco Rookie</name>
+  <detail>Clear level 10 in career Classic</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Taco Chef</name>
+  <detail>Clear level 20 in career Classic</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>Taco Master</name>
+  <detail>Clear career Classic</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>Speed Taco</name>
+  <detail>Clear level 5 in career Classic</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>Instant Taco</name>
+  <detail>Clear level 17 in career Classic</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>Flashing Taco</name>
+  <detail>Clear level 27 in career Classic</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>The first step</name>
+  <detail>Deliver 1 order in any mode</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>Road to the top</name>
+  <detail>Deliver 50 orders in any mode</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>Into Mexico</name>
+  <detail>Deliver 100 orders in any mode</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>Taco Legend</name>
+  <detail>Deliver 250 orders in any mode</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>Epic Taco</name>
+  <detail>Deliver 500 orders in any mode</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>God of Taco</name>
+  <detail>Deliver 1000 orders in any mode</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>Gimme five!</name>
+  <detail>Get a 5 combo multiplier in any mode</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>Trance</name>
+  <detail>Get  a 10 combo multiplier in any mode</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>Impossible</name>
+  <detail>Get a 30 combo multiplier in any mode</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Hot Race</name>
+  <detail>Complete 10 Rush in Time Attack mode for the 1st time</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="S" pid="000">
+  <name>Taco Marathon</name>
+  <detail>Complete 50 Rush in Time Attack mode for the 1st time</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>Olympic Taco</name>
+  <detail>Complete 100 Rush in Time Attack mode for the 1st time</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Tortilla</name>
+  <detail>Clear 10 Rush mode in under 00:50:00</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="000">
+  <name>Meat</name>
+  <detail>Clear 50 Rush mode in under 03:00:00</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="G" pid="000">
+  <name>Salsa</name>
+  <detail>Clear 100 Rush mode in under 05:00:00</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>Mexicano</name>
+  <detail>Clear level 10 in career Fiesta Mexicana</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="G" pid="000">
+  <name>Viva Mexico</name>
+  <detail>Clear career Fiesta Mexicana</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>Crab Soup</name>
+  <detail>Get rid of 500 crabs</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>Plague Control</name>
+  <detail>Get rid of 1000 crabs</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>Google Eyes</name>
+  <detail>Do the first wet note</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>Fish Eyes</name>
+  <detail>Do 10 wet notes</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="G" pid="000">
+  <name>Tacosteño</name>
+  <detail>Finish career Tropical Fury</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="G" pid="000">
+  <name>Master of the Fish Taco</name>
+  <detail>Get a golden medal in all Tropical Fury levels</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>Fishing Tacos</name>
+  <detail>Deliver 50 fish tacos</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>Tanned Tacos</name>
+  <detail>Deliver 100 fish tacos</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>Tacowatch</name>
+  <detail>Deliver 500 fish tacos</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="B" pid="000">
+  <name>A delicacy...</name>
+  <detail>Deliver 1 fish taco</detail>
+ </trophy>
+</trophyconf>

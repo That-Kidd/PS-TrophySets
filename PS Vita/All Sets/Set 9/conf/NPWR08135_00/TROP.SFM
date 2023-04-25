@@ -1,0 +1,432 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000095b9cb4e2c8e44b2951b9615b4260be83c9b45ec260c0d5da85d47db5d45fb3c0b01bd5c50d0ae5f7f94d25bfd93f01f7d25c50303d5b57bb0b7390c35e0ddfe506edb45d2c3a7fc08a730adfd782ed97bc8e7d29b89a18af1729a959a54cf7c3078560ae5573768f2a9634216773ce6b6bc4f60b7e3ba69975b09f25b2ed386e614d4605c11fcb445430d76943fe22e6b72ee8f-->
+<trophyconf version="1.1" platform="ps3,psp2,ps4" policy="large">
+ <npcommid>NPWR08135_00</npcommid>
+ <trophyset-version>01.09</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>魔物獵人FRONTIER Z</title-name>
+ <title-detail>魔物獵人FRONTIER Z</title-detail>
+ <group id="001">
+  <name>獎盃包2</name>
+  <detail>獎盃包2</detail>
+ </group>
+ <group id="002">
+  <name>獎盃包3</name>
+  <detail>獎盃包3</detail>
+ </group>
+ <group id="003">
+  <name>獎盃包4</name>
+  <detail>獎盃包4</detail>
+ </group>
+ <group id="004">
+  <name>獎盃包5</name>
+  <detail>獎盃包5</detail>
+ </group>
+ <group id="005">
+  <name>獎盃包6</name>
+  <detail>獎盃包6</detail>
+ </group>
+ <group id="006">
+  <name>獎盃包7</name>
+  <detail>獎盃包7</detail>
+ </group>
+ <group id="007">
+  <name>獎盃包8</name>
+  <detail>獎盃包8</detail>
+ </group>
+ <group id="008">
+  <name>獎盃包9</name>
+  <detail>獎盃包9</detail>
+ </group>
+ <group id="009">
+  <name>獎盃包10</name>
+  <detail>獎盃包10</detail>
+ </group>
+ <group id="010">
+  <name>獎盃包11</name>
+  <detail>獎盃包11</detail>
+ </group>
+ <group id="011">
+  <name>獎盃包12</name>
+  <detail>獎盃包12</detail>
+ </group>
+ <group id="012">
+  <name>獎盃包13</name>
+  <detail>獎盃包13</detail>
+ </group>
+ <group id="013">
+  <name>獎盃包14</name>
+  <detail>獎盃包14</detail>
+ </group>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>公會的認證</name>
+  <detail>被認可為可獨當一面的獵人。</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>初次達成指定任務</name>
+  <detail>初次達成公會的指定任務。</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>到達HR2！</name>
+  <detail>獵人等級上升至2。</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>達成HR2的指定任務．1</name>
+  <detail>達成2個HR2的公會指定任務。</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>達成HR2的指定任務．2</name>
+  <detail>達成4個HR2的公會指定任務。</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>到達HR3！</name>
+  <detail>獵人等級上升至3。</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>達成HR3的指定任務．1</name>
+  <detail>達成2個HR3的公會指定任務。</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>達成HR3的指定任務．2</name>
+  <detail>達成4個HR3的公會指定任務。</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>到達HR4！</name>
+  <detail>獵人等級上升至4。</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>達成HR4的指定任務．1</name>
+  <detail>達成2個HR4的公會指定任務。</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>達成HR4的指定任務．2</name>
+  <detail>達成4個HR4的公會指定任務。</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>資深獵人</name>
+  <detail>獵人等級上昇至5。</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>終極獵人</name>
+  <detail>獵人等級上昇至6。</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>初次稱號</name>
+  <detail>初次獲得稱號。</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>稱號蒐集者</name>
+  <detail>獲得30個稱號。</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>稱號王</name>
+  <detail>獲得100個稱號。</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>狩獵生活的開始</name>
+  <detail>初次狩獵大型魔物。</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>見識狩獵生活</name>
+  <detail>狩獵50頭大型魔物。</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>享受獵人生活</name>
+  <detail>狩獵100頭大型魔物。</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="G" pid="000">
+  <name>魔物獵人</name>
+  <detail>狩獵1000頭大型魔物。</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>初次的剛種狩獵</name>
+  <detail>初次狩獵剛種任務的大型魔物。</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>剛種能手</name>
+  <detail>狩獵10頭剛種任務的大型魔物。</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>剛種獵人</name>
+  <detail>狩獵50頭剛種任務的大型魔物。</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>初次遭遇突然變異種</name>
+  <detail>初次狩獵★5等級的變種魔物。</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>突然變異種能手</name>
+  <detail>狩獵10頭★5等級的變種魔物。</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="S" pid="000">
+  <name>突然變異種獵人</name>
+  <detail>狩獵50頭★5等級的變種魔物。</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>初次的古龍討伐</name>
+  <detail>初次討伐古龍種。</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>古龍能手</name>
+  <detail>討伐10頭古龍種。</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="S" pid="000">
+  <name>古龍獵人</name>
+  <detail>討伐50頭古龍種。</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>初次的生擒</name>
+  <detail>初次捕獲魔物。</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>可能性無限大</name>
+  <detail>獲得獵人珠。</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>乘坐熱氣球</name>
+  <detail>完成商隊任務的★0任務。</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="S" pid="000">
+  <name>商隊王</name>
+  <detail>完成商隊任務的★8任務為止全部的任務。</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>鑽研獵人</name>
+  <detail>遊戲時間超過300小時。</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>中產獵人</name>
+  <detail>持有金額超過200萬。</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="S" pid="000">
+  <name>最佳設計師</name>
+  <detail>在展示間的展示大會獲得評價點數100000點以上。</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>對獵人的挑戰</name>
+  <detail>VS.任務對戰。</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>與夥伴一起</name>
+  <detail>組成2人以上的隊伍完成任務。</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>今日特餐</name>
+  <detail>在自己的小屋製作特別貓飯。</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="000">
+  <name>賴狩人的初次契約</name>
+  <detail>初次與賴狩人簽訂契約。</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="S" pid="000">
+  <name>可靠的獵人</name>
+  <detail>實行11種(全種)武器種的解放。</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="B" pid="000">
+  <name>強力賴狩人之路</name>
+  <detail>武器的解放等級上昇。</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="B" pid="000">
+  <name>強韌的賴狩人之路</name>
+  <detail>防具的解放等級上昇。</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="B" pid="000">
+  <name>與管理人的相遇</name>
+  <detail>初次與萬能園地的管理人對話。</detail>
+ </trophy>
+ <trophy id="044" hidden="no" ttype="S" pid="000">
+  <name>噗吱豬牧場大騷動</name>
+  <detail>在萬能園地養3隻噗吱豬。</detail>
+ </trophy>
+ <trophy id="045" hidden="no" ttype="B" pid="000">
+  <name>管理人送的禮物</name>
+  <detail>初次收到萬能園地管理人的道具禮物。</detail>
+ </trophy>
+ <trophy id="046" hidden="no" ttype="S" pid="000">
+  <name>擅長買賣</name>
+  <detail>在萬能園地設置所有商店。</detail>
+ </trophy>
+ <trophy id="047" hidden="no" ttype="B" pid="000">
+  <name>初次參加韋馱天盃</name>
+  <detail>官方狩獵大會 初次完成韋馱天盃任務。</detail>
+ </trophy>
+ <trophy id="048" hidden="no" ttype="B" pid="000">
+  <name>韋馱天夥伴</name>
+  <detail>官方狩獵大會 初次完成獵團對抗韋馱天盃的任務。</detail>
+ </trophy>
+ <trophy id="049" hidden="no" ttype="B" pid="000">
+  <name>初次參加大討伐</name>
+  <detail>參加大討伐任務初次獲得大討伐貢獻點數。</detail>
+ </trophy>
+ <trophy id="050" hidden="no" ttype="B" pid="000">
+  <name>開拓者</name>
+  <detail>獲得開拓MAP。</detail>
+ </trophy>
+ <trophy id="051" hidden="no" ttype="B" pid="000">
+  <name>初次完成緊急任務</name>
+  <detail>已初次完成緊急任務。</detail>
+ </trophy>
+ <trophy id="052" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>狩獵蠻龍的證據</name>
+  <detail>已狩獵蠻龍。</detail>
+ </trophy>
+ <trophy id="053" hidden="yes" ttype="S" pid="-1" gid="001">
+  <name>狩獵的極意</name>
+  <detail>初次獲得秘傳書。</detail>
+ </trophy>
+ <trophy id="054" hidden="yes" ttype="G" pid="-1" gid="001">
+  <name>秘傳防具生產</name>
+  <detail>初次獲得秘傳防具。</detail>
+ </trophy>
+ <trophy id="055" hidden="no" ttype="B" pid="-1" gid="002">
+  <name>渾身解數的一擊</name>
+  <detail>已初次生產剛貓武器。</detail>
+ </trophy>
+ <trophy id="056" hidden="no" ttype="G" pid="-1" gid="002">
+  <name>剛貓武器蒐集者</name>
+  <detail>已生產剛貓武器100次。</detail>
+ </trophy>
+ <trophy id="057" hidden="no" ttype="B" pid="-1" gid="002">
+  <name>初次參加狩獵技任務</name>
+  <detail>已初次參加狩獵技任務。</detail>
+ </trophy>
+ <trophy id="058" hidden="no" ttype="B" pid="-1" gid="003">
+  <name>家人增加了</name>
+  <detail>一起生活的家人增加了。</detail>
+ </trophy>
+ <trophy id="059" hidden="no" ttype="B" pid="-1" gid="003">
+  <name>雙極的威脅</name>
+  <detail>已討伐極龍。</detail>
+ </trophy>
+ <trophy id="060" hidden="yes" ttype="S" pid="-1" gid="003">
+  <name>千載難逢</name>
+  <detail>遇到特別活動。</detail>
+ </trophy>
+ <trophy id="061" hidden="no" ttype="B" pid="-1" gid="004">
+  <name>兇猛眷族</name>
+  <detail>已狩獵跳緋獸。</detail>
+ </trophy>
+ <trophy id="062" hidden="no" ttype="S" pid="-1" gid="004">
+  <name>可靠的同伴</name>
+  <detail>馴服了狩獵鷹。</detail>
+ </trophy>
+ <trophy id="063" hidden="no" ttype="B" pid="-1" gid="004">
+  <name>繼續就是力量</name>
+  <detail>將系列任務的新手系列1個以上玩到最後。</detail>
+ </trophy>
+ <trophy id="064" hidden="no" ttype="B" pid="-1" gid="005">
+  <name>新種</name>
+  <detail>已狩獵獰龍。</detail>
+ </trophy>
+ <trophy id="065" hidden="yes" ttype="B" pid="-1" gid="005">
+  <name>未知的生態系</name>
+  <detail>已狩獵稀有的多殼蟹。</detail>
+ </trophy>
+ <trophy id="066" hidden="no" ttype="S" pid="-1" gid="005">
+  <name>突然變異</name>
+  <detail>已將稀有的咕咕鴨迎至花園。</detail>
+ </trophy>
+ <trophy id="067" hidden="no" ttype="B" pid="-1" gid="006">
+  <name>閃晶的瞬間</name>
+  <detail>已狩獵晶龍。</detail>
+ </trophy>
+ <trophy id="068" hidden="no" ttype="G" pid="-1" gid="006">
+  <name>可依靠的同伴</name>
+  <detail>將狩獵鷹升為Lv3。</detail>
+ </trophy>
+ <trophy id="069" hidden="yes" ttype="S" pid="-1" gid="006">
+  <name>秘傳的境地</name>
+  <detail>已得到秘傳育成書的效果。</detail>
+ </trophy>
+ <trophy id="070" hidden="yes" ttype="S" pid="-1" gid="007">
+  <name>紅色閣樓</name>
+  <detail>已討伐霸種弩巖龍。</detail>
+ </trophy>
+ <trophy id="071" hidden="yes" ttype="B" pid="-1" gid="007">
+  <name>大爆發！</name>
+  <detail>變成阿福羅姿態。</detail>
+ </trophy>
+ <trophy id="072" hidden="no" ttype="B" pid="-1" gid="007">
+  <name>初段認定</name>
+  <detail>在狩獵技升段比賽中晉陞初段。</detail>
+ </trophy>
+ <trophy id="073" hidden="no" ttype="G" pid="-1" gid="008">
+  <name>G</name>
+  <detail>被公會認可為G級獵人。</detail>
+ </trophy>
+ <trophy id="074" hidden="yes" ttype="S" pid="-1" gid="009">
+  <name>恐怖吸血</name>
+  <detail>已狩獵噬血龍。</detail>
+ </trophy>
+ <trophy id="075" hidden="yes" ttype="S" pid="-1" gid="009">
+  <name>白色飛龍</name>
+  <detail>已狩獵輝界龍。</detail>
+ </trophy>
+ <trophy id="076" hidden="yes" ttype="B" pid="-1" gid="009">
+  <name>響泉歌聲</name>
+  <detail>已取回美麗的聲音。</detail>
+ </trophy>
+ <trophy id="077" hidden="yes" ttype="S" pid="-1" gid="010">
+  <name>百‧花‧龍‧亂</name>
+  <detail>已狩獵華鳳鳥。</detail>
+ </trophy>
+ <trophy id="078" hidden="yes" ttype="B" pid="-1" gid="010">
+  <name>絕招！龍氣穿擊！</name>
+  <detail>已獲得穿龍棍。</detail>
+ </trophy>
+ <trophy id="079" hidden="yes" ttype="S" pid="-1" gid="011">
+  <name>金色的旋風</name>
+  <detail>已狩獵金塵龍。</detail>
+ </trophy>
+ <trophy id="080" hidden="yes" ttype="S" pid="-1" gid="011">
+  <name>誘入夢鄉之龍</name>
+  <detail>已狩獵雅翁龍。</detail>
+ </trophy>
+ <trophy id="081" hidden="yes" ttype="B" pid="-1" gid="011">
+  <name>值得信賴喵！</name>
+  <detail>僱用了伙伴喵。</detail>
+ </trophy>
+ <trophy id="082" hidden="yes" ttype="S" pid="-1" gid="012">
+  <name>迴響的三重奏</name>
+  <detail>已狩獵創音龍。</detail>
+ </trophy>
+ <trophy id="083" hidden="yes" ttype="G" pid="-1" gid="012">
+  <name>暴虐守門者</name>
+  <detail>已討伐皇冰龍。</detail>
+ </trophy>
+ <trophy id="084" hidden="yes" ttype="B" pid="-1" gid="012">
+  <name>天廊武器生產</name>
+  <detail>初次取得天廊武器。</detail>
+ </trophy>
+ <trophy id="085" hidden="yes" ttype="S" pid="-1" gid="012">
+  <name>銀戟的猛襲</name>
+  <detail>已討伐司銀龍。</detail>
+ </trophy>
+ <trophy id="086" hidden="yes" ttype="B" pid="-1" gid="012">
+  <name>獵人覺醒</name>
+  <detail>使用超越秘儀。</detail>
+ </trophy>
+ <trophy id="087" hidden="yes" ttype="S" pid="-1" gid="013">
+  <name>潛藏於紫霧的狂氣</name>
+  <detail>已狩獵怒貌龍。</detail>
+ </trophy>
+ <trophy id="088" hidden="yes" ttype="S" pid="-1" gid="013">
+  <name>雷狼降臨</name>
+  <detail>已狩獵雷狼龍。</detail>
+ </trophy>
+ <trophy id="089" hidden="yes" ttype="S" pid="-1" gid="013">
+  <name>絢翼的鳥龍</name>
+  <detail>已狩獵照雷鳥。</detail>
+ </trophy>
+ <trophy id="090" hidden="yes" ttype="B" pid="-1" gid="013">
+  <name>現身！黑色絕島支配者！</name>
+  <detail>參加了Ｇ級大討伐。</detail>
+ </trophy>
+ <trophy id="091" hidden="yes" ttype="S" pid="-1" gid="013">
+  <name>群龍之首</name>
+  <detail>已討伐帝征龍。</detail>
+ </trophy>
+ <trophy id="092" hidden="yes" ttype="B" pid="-1" gid="013">
+  <name>劍斧的繼承</name>
+  <detail>取得斬擊斧Ｆ。</detail>
+ </trophy>
+</trophyconf>

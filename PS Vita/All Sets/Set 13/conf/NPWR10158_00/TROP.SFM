@@ -1,0 +1,188 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000b47250a202182be4ac097041628a94aafc2780cb1090ef0461b184fc2c361852de17b1120daf019f1140f7c912fb8a4317437dfe1277fe94e9dc46746858f8c7ed33a2d579fc38a4ccb84e4f6dd8b323efa2878c91122eb98d7fe452f28415323d66c1536c2bdf1c60588dcffd2024094d36f26b3045e514ae9b458e59e70d12fcbd4edc664217d6114e55fc933c74da2e93ed0d-->
+<trophyconf version="1.1" platform="ps3,psp2,ps4" policy="large">
+ <npcommid>NPWR10158_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Nuclear Throne</title-name>
+ <title-detail>Can you reach the Nuclear Throne?</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>It's Not Fair, It's Not Right</name>
+  <detail>Completed Every Challenge We Could Think Of In Nuclear Throne.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Melting Unlocked</name>
+  <detail>Die.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Eyes Unlocked</name>
+  <detail>Reach 2-1.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Plant Unlocked</name>
+  <detail>Reach 3-1.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>Y.V. Unlocked</name>
+  <detail>Reach 3-?.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>Steroids Unlocked</name>
+  <detail>Reach 6-1.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>Robot Unlocked</name>
+  <detail>Reach 5-1.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>Chicken Unlocked</name>
+  <detail>Reach 5-?</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>Rebel Unlocked</name>
+  <detail>Loop past the Nuclear Throne.</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="000">
+  <name>Horror Unlocked</name>
+  <detail>Defeat Horror.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>Rogue Unlocked</name>
+  <detail>Reach the Nuclear Throne.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>Fish Can Roll</name>
+  <detail>Loop as every character.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>Crystal Can Roll</name>
+  <detail>Reach 4-? as Crystal.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>Everything Hurts</name>
+  <detail>Reach the Nuclear Throne with Melting without choosing Rhino Skin or Strong Spirit.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>MMMMMMHMMM!</name>
+  <detail>Reach 2-? as Eyes.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>Blood Blood Blood</name>
+  <detail>Reach the Nuclear Throne in under 10 minutes as Plant.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Verified</name>
+  <detail>Unlock a Golden Weapon for every character.</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>Science</name>
+  <detail>Defeat the Technomancer as Steroids</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>6e 69 63 65</name>
+  <detail>Eat a Hyper Weapon as Robot.</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>Way Of The Chicken</name>
+  <detail>Reach 2-1 on Hard Mode as Chicken.</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="000">
+  <name>Forget The Old Days</name>
+  <detail>Defeat Mom as Rebel.</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>Thriller</name>
+  <detail>Defeat Hyper Crystal as Horror.</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="B" pid="000">
+  <name>Never Look Back</name>
+  <detail>Defeat Captain as Rogue.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>Crown Life</name>
+  <detail>Unlock a Crown as any character.</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>Ultra Time</name>
+  <detail>Reach Level Ultra as any character.</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>Good Find</name>
+  <detail>Unlock a Golden Weapon as any character.</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>Good Riddance</name>
+  <detail>Unlock a Golden Disc Gun or Golden Nuke Launcher.</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>Not Bad</name>
+  <detail>Reach 7-3 on a Daily</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="B" pid="000">
+  <name>Unstoppable</name>
+  <detail>Reach Level Ultra as Skeleton</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="B" pid="000">
+  <name>Frog Zone</name>
+  <detail>Play as Frog.</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="B" pid="000">
+  <name>Impossible</name>
+  <detail>Sit on the Nuclear Throne as headless Chicken.</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="B" pid="000">
+  <name>Sincere Apologies</name>
+  <detail>We hereby sincerely apologize.</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="S" pid="000">
+  <name>Bandit Stopper</name>
+  <detail>Defeat Big Bandit.</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="S" pid="000">
+  <name>Dog Owner</name>
+  <detail>Defeat Big Dog.</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="S" pid="000">
+  <name>Hunter Killer</name>
+  <detail>Defeat Lil Hunter.</detail>
+ </trophy>
+ <trophy id="035" hidden="yes" ttype="S" pid="000">
+  <name>Throne Sitter</name>
+  <detail>Defeat the Nuclear Throne.</detail>
+ </trophy>
+ <trophy id="036" hidden="yes" ttype="S" pid="000">
+  <name>Advanced Sitter</name>
+  <detail>Defeat Throne II.</detail>
+ </trophy>
+ <trophy id="037" hidden="yes" ttype="S" pid="000">
+  <name>Frog Slayer</name>
+  <detail>Defeat Mom.</detail>
+ </trophy>
+ <trophy id="038" hidden="yes" ttype="S" pid="000">
+  <name>Crystal Smasher</name>
+  <detail>Defeat Hyper Crystal.</detail>
+ </trophy>
+ <trophy id="039" hidden="yes" ttype="S" pid="000">
+  <name>Techno Killer</name>
+  <detail>Defeat the Technomancer.</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="S" pid="000">
+  <name>Vault Raider</name>
+  <detail>Unlock all Crowns as one character.</detail>
+ </trophy>
+ <trophy id="041" hidden="yes" ttype="S" pid="000">
+  <name>Go Hard</name>
+  <detail>Unlock Hard Mode.</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="G" pid="000">
+  <name>The Struggle Continues</name>
+  <detail>Loop the game.</detail>
+ </trophy>
+ <trophy id="043" hidden="yes" ttype="G" pid="000">
+  <name>The Struggle Is Over</name>
+  <detail>Defeat Captain.</detail>
+ </trophy>
+ <trophy id="044" hidden="no" ttype="G" pid="000">
+  <name>Ultra Mutant</name>
+  <detail>Get 100% of the unlocks.</detail>
+ </trophy>
+</trophyconf>

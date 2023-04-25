@@ -1,0 +1,60 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000002202683cdd75df2b8cc82ea26da0e65ecb732d4f746c78cf1ab36183b375428c07cba01d84ca4c63c162a6787eb96773de13f8513bd09dda4a8c0be3c24a13604e634817f3f3ddbb2cab2ea523b6cd96cc79e4e026be214613ec5199aa2609fb202c307e626427ce4bd383cafdbbe6616d0ed70309d53b406e728892a413dd807969e2688855cc8ab85ed77ddfe42b0faf7b05df-->
+<trophyconf version="1.1" platform="psp2">
+ <npcommid>NPWR03446_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Puzzle by Nikoli V Nurikabe</title-name>
+ <title-detail>A trophy set for "Puzzle by Nikoli V Nurikabe". Complete puzzles to get all the trophies! </title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Paused a puzzle 50 times!</name>
+  <detail>Paused a puzzle more than 50 times</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Quit a puzzle 50 times!</name>
+  <detail>Quit a puzzle more than 50 times</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Used "delete" 100 times!</name>
+  <detail>Used the delete function more than 100 times</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Read all the guides!</name>
+  <detail>Read all game guides</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Played for more than 24 hours!</name>
+  <detail>Total play time exceeded 24 hours</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Used "REDO" 100 times!</name>
+  <detail>Used the redo function more than 100 times</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Used "UNDO" 100 times!</name>
+  <detail>Used the undo function more than 100 times</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Cleared 10 puzzles!</name>
+  <detail>Cleared 10 "Nurikabe" puzzles</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Cleared 20 puzzles!</name>
+  <detail>Cleared 20 "Nurikabe" puzzles</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>Cleared 30 puzzles!</name>
+  <detail>Cleared 30 "Nurikabe" puzzles</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>Cleared 40 puzzles!</name>
+  <detail>Cleared 40 "Nurikabe" puzzles</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="-1">
+  <name>Cleared all puzzles!</name>
+  <detail>Cleared all "Nurikabe" puzzles</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="-1">
+  <name>Cleared 15 puzzles in a row on shuffle!</name>
+  <detail>Cleared 15 puzzles in a row on shuffle</detail>
+ </trophy>
+</trophyconf>

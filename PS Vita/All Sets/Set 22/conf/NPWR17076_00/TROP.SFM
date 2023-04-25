@@ -1,0 +1,184 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000009f68b032850875a3f64f92c2804fc9abffa23c085daa843276c43c8e18e40878bfead055b57cccecf7d2f5e6fc8e4dba9b4c437f8756f3400b45e70944c6bf7c729683d59055ca31be38ec15737b727f1de63909aac8cc65c24f48a5cf4b46910a9ad55c39492e00670a2bdd3f5cb25d7f375145504c727431927be44ef67acc4e184ef02537e2bf3b3bcecab2b0ac0775cce03b-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR17076_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>この素晴らしい世界に祝福を！～希望の迷宮と集いし冒険者たち～</title-name>
+ <title-detail>『この素晴らしい世界に祝福を！～希望の迷宮と集いし冒険者たち～』トロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>希望の迷宮と集いし冒険者たち</name>
+  <detail>『この素晴らしい世界に祝福を！～希望の迷宮と集いし冒険者たち～』を全てプレイしていただき、ありがとうございました</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>STAND UP!</name>
+  <detail>プロローグシナリオを読んだ</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>はじめてのお買物</name>
+  <detail>はじめて「ウィズ魔道具店」で購入した</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>はじめての売却</name>
+  <detail>はじめて「ウィズ魔道具店」で売却した</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>はじめてのパーティー編成</name>
+  <detail>はじめて「パーティー編成」を行った</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>はじめての装備変更</name>
+  <detail>はじめて「装備変更」を行った</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>はじめてのスキル習得</name>
+  <detail>はじめて「スキル習得」を行った</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>クエストビギナー</name>
+  <detail>クエストを1種達成した</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>クエストエキスパート</name>
+  <detail>クエストを20種達成した</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="000">
+  <name>クエストマスター</name>
+  <detail>クエストを40種達成した</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="000">
+  <name>砂漠のオアシス</name>
+  <detail>衣装「水着」を手に入れた</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>冬の到来</name>
+  <detail>衣装「防寒着」を手に入れた</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="B" pid="000">
+  <name>一流の使いっ走り</name>
+  <detail>衣装「メイド（アクア）」を手に入れた</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="000">
+  <name>我ら、めぐみん盗賊団</name>
+  <detail>衣装「盗賊（めぐみん）」を手に入れた</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="B" pid="000">
+  <name>遠いハーレムの向こうに</name>
+  <detail>衣装「バニー（ゆんゆん）」を手に入れた</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>おそろいのジャージ</name>
+  <detail>衣装「ジャージ（ミツルギ）」を手に入れた</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>アクセルの鬼畜男</name>
+  <detail>カズマの「スティール」成功回数が30回を越えた</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>宴会芸の神様</name>
+  <detail>アクアの「花鳥風月」使用回数が30回を越えた</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="G" pid="000">
+  <name>ナイス爆裂！</name>
+  <detail>めぐみんの「爆裂魔法」の最大ダメージ値が65535を越えた</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>むしろ望むところだ！</name>
+  <detail>ダクネスの被弾回数が200回を越えた</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="S" pid="000">
+  <name>皆さんのおかげです！</name>
+  <detail>「ウィズ魔道具店」のショップレベルがLV10になった</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>はい、カズマです</name>
+  <detail>「カズマ」のレベルがLV50を越えた</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="B" pid="000">
+  <name>もっと私を讃えてよ！</name>
+  <detail>「アクア」のレベルがLV50を越えた</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>ばっくれつ！ばっくれつ！</name>
+  <detail>「めぐみん」のレベルがLV50を越えた</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="000">
+  <name>ああ、なんだこの高揚感は！</name>
+  <detail>「ダクネス」のレベルがLV50を越えた</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="B" pid="000">
+  <name>私なんかがスミマセン！</name>
+  <detail>「ウィズ」のレベルがLV50を越えた</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>盗賊系のスキルはお得だよ？</name>
+  <detail>「クリス」のレベルがLV50を越えた</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="B" pid="000">
+  <name>この魔剣グラム、伊達ではない！</name>
+  <detail>「ミツルギ」のレベルがLV50を越えた</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="B" pid="000">
+  <name>さあ、めぐみん今日こそ勝負よ！</name>
+  <detail>「ゆんゆん」のレベルがLV50を越えた</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="B" pid="000">
+  <name>我輩の登場に喜びひれ伏すがいい！</name>
+  <detail>「バニル」のレベルがLV50を越えた</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="B" pid="000">
+  <name>良い感じ良い感じ！</name>
+  <detail>「ラン」のレベルがLV50を越えた</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="G" pid="000">
+  <name>念願の越冬</name>
+  <detail>「冬将軍」を倒した</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="S" pid="000">
+  <name>量産型計画</name>
+  <detail>「量産型デストロイヤー」を倒した</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="S" pid="000">
+  <name>驚異のゴーレム出現</name>
+  <detail>「マジンゴーレム」を倒した</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="S" pid="000">
+  <name>トラウマの克服</name>
+  <detail>「Ｇ・トードゴースト」を倒した</detail>
+ </trophy>
+ <trophy id="035" hidden="yes" ttype="S" pid="000">
+  <name>廃墟の主</name>
+  <detail>「パックンパックン」を倒した</detail>
+ </trophy>
+ <trophy id="036" hidden="yes" ttype="S" pid="000">
+  <name>迷宮の破壊王</name>
+  <detail>「デビルギーガー」を倒した</detail>
+ </trophy>
+ <trophy id="037" hidden="yes" ttype="S" pid="000">
+  <name>神殿の熱波</name>
+  <detail>「ビルドニビス」を倒した</detail>
+ </trophy>
+ <trophy id="038" hidden="yes" ttype="S" pid="000">
+  <name>遺跡の守神</name>
+  <detail>「ガンファルコンBX」を倒した</detail>
+ </trophy>
+ <trophy id="039" hidden="yes" ttype="S" pid="000">
+  <name>雪原の巨獣</name>
+  <detail>「デラ・マンモー」を倒した</detail>
+ </trophy>
+ <trophy id="040" hidden="yes" ttype="S" pid="000">
+  <name>斜塔の亡霊</name>
+  <detail>「ベルディア」＆「ハンス」を倒した</detail>
+ </trophy>
+ <trophy id="041" hidden="yes" ttype="S" pid="000">
+  <name>楽園の偽物</name>
+  <detail>「ドールマスター」を倒した</detail>
+ </trophy>
+ <trophy id="042" hidden="yes" ttype="S" pid="000">
+  <name>天空の王者</name>
+  <detail>「ドラゴンもどき」を倒した</detail>
+ </trophy>
+ <trophy id="043" hidden="yes" ttype="G" pid="000">
+  <name>またあした</name>
+  <detail>エンディングを迎えた</detail>
+ </trophy>
+</trophyconf>

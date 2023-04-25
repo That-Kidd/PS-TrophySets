@@ -1,0 +1,44 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000031cbd0a94ae18b63428b941120458bf1294b8d4f3a4b2c571137f7619333b73f0dfbb1450d1fb882ee08ab7350f6c38fc167c98f7261e2dd43672173379942cb4a1267880e7fb530a83de31e35ccb7f83a9baef9d97ea31c2f6ccbd289044c1c302473c45ad033bfdb46b98a646fe7bac3aa6879f094c66c9eb03290f22a3f10e1788f3afad128e712714b9a147fcf669b11278d-->
+<trophyconf version="1.1" platform="psp2">
+ <npcommid>NPWR03404_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>銀星将棋 強天怒闘風雷神</title-name>
+ <title-detail>「銀星将棋 強天怒闘風雷神」のトロフィーです。</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>初段認定</name>
+  <detail>初段以上のコンピュータに勝利した証。&#x0a;（ヒントや対局再開を行った場合は無効）</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>二枚落ち</name>
+  <detail>４級以上のコンピュータ相手に、二枚落ちの上手で勝利した証。&#x0a;（ヒントや対局再開を行った場合は無効）</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="-1">
+  <name>六枚落ち</name>
+  <detail>４級以上のコンピュータ相手に、六枚落ちの上手で勝利した証。&#x0a;（ヒントや対局再開を行った場合は無効）</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>昇格</name>
+  <detail>レーティング対局で昇格した証。</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="-1">
+  <name>常勝</name>
+  <detail>レーティング対局の総合成績で３０勝を達成した証。</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>３連勝</name>
+  <detail>早指しサバイバル対局で３連勝を達成した証。&#x0a;（コンピュータの強さは４級以上）</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="-1">
+  <name>連勝王</name>
+  <detail>早指しサバイバル対局で１０連勝を達成した証。&#x0a;（コンピュータの強さは４級以上）</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>チャレンジレベル５突破</name>
+  <detail>チャレンジ対局のレベル５に勝利した証。</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="-1">
+  <name>チャレンジ制覇</name>
+  <detail>チャレンジ対局のレベル１０に勝利した証。</detail>
+ </trophy>
+</trophyconf>

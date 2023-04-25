@@ -1,0 +1,80 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000025342accce0268b91a554dfde46acbfac2da59546102ecbde5c38eefb63db3351ce1bd420b3ae07a549a7f97313919088361a14e8e3ece51d5aa347c2abd12432ee345c1d17cd750b43245fb34b474e19bb771b42e88f5650c5ab9a4c15f255c084405ec74c1d1cf3e8d386536e58e39a5327eede352a8b6acab74c3a65dcfbf52d45333d4ffb667e37ae7490294d2ec9c96ec35-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR17460_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>your diary +</title-name>
+ <title-detail>『your diary +』トロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>your diary</name>
+  <detail>全てのトロフィーを取得した</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="000">
+  <name>も、もしかして、ゆあのこと……</name>
+  <detail>「ゆあ」ルートに入った</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>私も……楽しいというか、嫌じゃないですし……</name>
+  <detail>「綾瀬 紗雪」ルートに入った</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>ば、ばかぁ……また、そういうこと言って……</name>
+  <detail>「深菜川 夕陽」ルートに入った</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>ともくんは十分わたしのこと、その……あ、甘やかしてくれてるよ</name>
+  <detail>「広崎 かなで」ルートに入った</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>あたしだって、おっ、乙女なワケですし？</name>
+  <detail>「榎本 香穂」ルートに入った</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>それはおかしい</name>
+  <detail>「藤村 奈月」ルートに入った</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>き、気になったっていうか……</name>
+  <detail>「一之瀬 ほとり」ルートに入った</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>ゆあを……幸せにして下さいね！</name>
+  <detail>「ゆあ」ルートをクリアした</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>優しくて素敵な王子様の、お嫁さんになりたいです！</name>
+  <detail>「綾瀬 紗雪」ルートをクリアした</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>二人で仲良く、いつまでも笑顔で働きたいと思います！</name>
+  <detail>「深菜川 夕陽」ルートをクリアした</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>わたしの将来の夢は……</name>
+  <detail>「広崎 かなで」ルートをクリアした</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>と、智希、今日はどうする？　どこか行きたいところある？</name>
+  <detail>「榎本 香穂」ルートをクリアした</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>ふふ、ありがと。……幸せ</name>
+  <detail>「藤村 奈月」ルートをクリアした</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="000">
+  <name>私……とてもとても、幸せだよ</name>
+  <detail>「一之瀬 ほとり」ルートをクリアした</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="G" pid="000">
+  <name>幸せの日記帳</name>
+  <detail>全てのルートをクリアした</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="G" pid="000">
+  <name>CGコンプリート</name>
+  <detail>全てのイベントＣＧを見た</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="G" pid="000">
+  <name>MUSICコンプリート</name>
+  <detail>ゲーム中に全てのBGMを聞いた</detail>
+ </trophy>
+</trophyconf>

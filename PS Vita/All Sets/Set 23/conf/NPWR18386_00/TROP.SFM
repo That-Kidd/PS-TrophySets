@@ -1,0 +1,76 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000002c31753858877bffc9623c9a8182492954d93f42c1dff1a5312569141eee11f408650398e420595c8146c3a857db6e0bff5db1a0fb4cb7ace6cc167eb334a2b3252d091c3e52fde7a9fca3f51b1e7cbcfda620be8b73249901ddcd80269a5fda1f5dab316eb38eb8c4dbf071c34551401378e295d2a3d494d53c88e831f4af4f0889f562c9d31a975f2ade9e1daf20e2207b7c0a-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR18386_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Illusion of L'Phalcia</title-name>
+ <title-detail>Trophy set for Illusion of L'Phalcia</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>World Seeker</name>
+  <detail>Obtained all the trophies.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Rookie L'Phalcian</name>
+  <detail>Collected third piece of the Map of Amal.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Novice L'Phalcian</name>
+  <detail>Collected fourth piece of the Map of Amal.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>Major L'Phalcian</name>
+  <detail>Collected fifth piece of the Map of Amal.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>Expert L'Phalcian</name>
+  <detail>Rode on the Falco, Haltouna.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>Meister L'Phalcian</name>
+  <detail>Defeated Dios MacGregor.</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="G" pid="000">
+  <name>Grand L'Phalcian</name>
+  <detail>Defeated Gilani.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>Shopping Pro</name>
+  <detail>Completed the last of the subquest series Desir the Hoarder.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>Great Heart</name>
+  <detail>Completed the last of the subquest series Irie Chaser.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>Seeker Pro</name>
+  <detail>Completed subquest Dragon Scale.</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="G" pid="000">
+  <name>Secret Keeper</name>
+  <detail>Completed subquest Hidden Interests.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>Knife Master</name>
+  <detail>Obtained the ultimate knife Marauders.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>Claw Master</name>
+  <detail>Obtained the ultimate claw Vishnu Claw.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="000">
+  <name>Bowgun Master</name>
+  <detail>Obtained the ultimate bowgun Gastrophetes.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="000">
+  <name>Blade Master</name>
+  <detail>Obtained the ultimate sword Dragvandil.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="G" pid="000">
+  <name>Axe Master</name>
+  <detail>Obtained the ultimate axe Daedalus.</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="G" pid="000">
+  <name>Mighty Slayer</name>
+  <detail>Defeated four specific bosses.</detail>
+ </trophy>
+</trophyconf>

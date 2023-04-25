@@ -1,0 +1,204 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000bd0de8c13895ac20986edf572ce06aae2608553a867b75875fb27f270dbf518cece475647a99b0d6067d6dc8dfce66a5405a752a4c3100000256bf8d157d08da9ce557160a105902337842995c56c8dcd683d9183b8db0ad1963b457ff8bd260c800d0805cb945128aa89ad51013315616886090a1eff56325d5573fafb730edcc9937da335180e10da1f3e6e2e9d80b520c694d-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR06283_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>ルートダブル -Before Crime * After Days- Xtend edition</title-name>
+ <title-detail>ルートダブル -Before Crime * After Days- Xtend edition トロフィー</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>全てを知る者</name>
+  <detail>全てのトロフィーを獲得した</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>√After</name>
+  <detail>√Aのシナリオを開始した</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>√Before</name>
+  <detail>√Bのシナリオを開始した</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>√Current</name>
+  <detail>√Cのシナリオを開始した</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>√Double</name>
+  <detail>√Dのシナリオを開始した</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>混沌からの覚醒</name>
+  <detail>√Aのグッドエンドを見た</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>絶望からの終局</name>
+  <detail>√Aのノーマルエンドを見た</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>消滅からの終焉</name>
+  <detail>√Bのグッドエンドを見た</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>反復からの究明</name>
+  <detail>√Cのグッドエンドを見た</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="000">
+  <name>天狼からの導き</name>
+  <detail>√Dのノーマルエンド１を見た</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="000">
+  <name>根源からの救済</name>
+  <detail>√Dのノーマルエンド２を見た</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>風鳥からの庇護</name>
+  <detail>√Dのノーマルエンド３を見た</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="B" pid="000">
+  <name>忘却からの蘇生</name>
+  <detail>√DのグッドエンドBeforeを見た</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="000">
+  <name>忘失からの再生</name>
+  <detail>√Dのグッドエンドアフターを見た</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="B" pid="000">
+  <name>和解からの盟約</name>
+  <detail>√Dのグッドエンドビフォーを見た</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>失意からの継承</name>
+  <detail>√DのグッドエンドAfterを見た</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="S" pid="000">
+  <name>久遠からの想念</name>
+  <detail>√Dのトゥルーエンドを見た</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="S" pid="000">
+  <name>パートナー結成</name>
+  <detail>√Dの恵那の追加エピローグを見た</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="S" pid="000">
+  <name>家族の帰る場所</name>
+  <detail>√Dの洵の追加エピローグを見た</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="S" pid="000">
+  <name>永遠の契約</name>
+  <detail>√Dの風見の追加エピローグを見た</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="S" pid="000">
+  <name>夏の大三角形</name>
+  <detail>√Dのサリュの追加エピローグを見た</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="S" pid="000">
+  <name>『正義の旅』の続き</name>
+  <detail>√Dのましろの追加エピローグを見た</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="S" pid="000">
+  <name>織姫の帰還</name>
+  <detail>√Dの悠里の追加エピローグを見た</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>絶望を知る者</name>
+  <detail>いずれかのバッドエンドを１つ以上見た</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>絶望を極めた者</name>
+  <detail>全てのバッドエンドを見た</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="G" pid="000">
+  <name>結末を極めた者</name>
+  <detail>全てのエンディング・エピローグを見た</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>同調開始</name>
+  <detail>センシズ入力画面を開いた</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>俯瞰する視線</name>
+  <detail>MAP画面を開いた</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>集積される情報</name>
+  <detail>TIPS画面を開いた</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>心重ねる術への導き</name>
+  <detail>SENSES SYMPATHY SYSTEMのチュートリアルを見た</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>想い見守る術への導き</name>
+  <detail>RAM SYSTEMのチュートリアルを見た</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>信頼の証</name>
+  <detail>誰かのセンシズを最大値にして決定した</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>不信の兆し</name>
+  <detail>誰かのセンシズを最小値にして決定した</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="B" pid="000">
+  <name>信じる者は救われる</name>
+  <detail>全員のセンシズを最大値にして決定した</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="B" pid="000">
+  <name>疑う者は救われる</name>
+  <detail>全員のセンシズを最小値にして決定した</detail>
+ </trophy>
+ <trophy id="035" hidden="yes" ttype="B" pid="000">
+  <name>女性不信</name>
+  <detail>女性６名のセンシズを最小値にして決定する</detail>
+ </trophy>
+ <trophy id="036" hidden="yes" ttype="B" pid="000">
+  <name>幼い少女に恋して</name>
+  <detail>サリュのセンシズを最大値＆他のセンシズを最小値にして決定した</detail>
+ </trophy>
+ <trophy id="037" hidden="yes" ttype="B" pid="000">
+  <name>悪意完全消去</name>
+  <detail>RAM SYSTEMで悪意を完全に消去した</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>記憶の泉</name>
+  <detail>Extend Episodeを開いた</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="S" pid="000">
+  <name>記憶の解放</name>
+  <detail>Extend Episodeで全ての記憶を解放した</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="B" pid="000">
+  <name>映像記憶50%以上</name>
+  <detail>ALBUMのイベントCGを50%以上開放した</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="S" pid="000">
+  <name>映像記憶100%</name>
+  <detail>ALBUMのイベントCGを全て開放した</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="B" pid="000">
+  <name>音の記憶50%以上</name>
+  <detail>MUSICの音楽を50%以上開放した</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="S" pid="000">
+  <name>音の記憶100%</name>
+  <detail>MUSICの音楽を全て開放した</detail>
+ </trophy>
+ <trophy id="044" hidden="yes" ttype="B" pid="000">
+  <name>ビヨ☆びよマスター</name>
+  <detail>TIPSの『ビヨンド☆びよんど』の用語集を全て開放した</detail>
+ </trophy>
+ <trophy id="045" hidden="no" ttype="B" pid="000">
+  <name>情報集積50%以上</name>
+  <detail>TIPSの用語を50%以上開放した</detail>
+ </trophy>
+ <trophy id="046" hidden="no" ttype="S" pid="000">
+  <name>情報集積100%</name>
+  <detail>TIPSの用語を全て開放した</detail>
+ </trophy>
+ <trophy id="047" hidden="no" ttype="B" pid="000">
+  <name>可能性を追い求める者</name>
+  <detail>シーンの開放率が50%以上になった</detail>
+ </trophy>
+ <trophy id="048" hidden="no" ttype="G" pid="000">
+  <name>可能性を極めた者</name>
+  <detail>シーンの開放率が100%以上になった</detail>
+ </trophy>
+</trophyconf>

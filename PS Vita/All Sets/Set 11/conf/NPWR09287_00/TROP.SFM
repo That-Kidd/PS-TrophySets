@@ -1,0 +1,52 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000004ac9451c16826332b4c877e607c46de58ba1d1c8207666049e64e331efe8deb2e3e6c241d7c1c6c69689cdb1aa4d825efa1063f8362cee51754279e47e2c12646cacf30dc887ed0e1da3d9ba0e3e35954aa082382425a65d8ff26122c0e39f939aae3b2c09f6d181320e487eb1b9e097312fda729b087ff89d9da5436a7e329d4cbb7280b0f801e166662eb307939ce8b2207a5-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR09287_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Actual Sunlight</title-name>
+ <title-detail>Actual Sunlight Trophies</title-detail>
+ <trophy id="000" hidden="yes" ttype="G" pid="-1">
+  <name>Thank You</name>
+  <detail>Complete the game</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="S" pid="-1">
+  <name>Love</name>
+  <detail>Speak to Tori and Jackie</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="S" pid="-1">
+  <name>Depression</name>
+  <detail>Uncover all of Evan's thoughts</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="S" pid="-1">
+  <name>The Corporation</name>
+  <detail>Speak to Troy, Natasha and Elisa</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Indestructible</name>
+  <detail>Attempt to destroy the indestructible</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Inconspicuous Consumption</name>
+  <detail>Review the most obscure item in the store</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Transit Etiquette</name>
+  <detail>Pick the wrong streetcar seat</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>From Me to You</name>
+  <detail>Listen to a personal message</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Family</name>
+  <detail>Think about the future</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>Reflection</name>
+  <detail>Look in the mirror</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>Wake Up</name>
+  <detail>Begin another day</detail>
+ </trophy>
+</trophyconf>

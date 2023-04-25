@@ -1,0 +1,96 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000096be889a5369465e978341dabda16acacb94e9ad0d83279ad743bef85aa3f6392d12e0c1ed8507eee8b6a6010e4f6e8c81514bb511f35658eb5fe85d1dc127aed8fe5c46a7dafbae8141c1edfce75e98e92fb060b8213811318277af42edb7f561db3cc6444b01b5415777e5aa632cfa5f0ea1376901672404e54cb8171f4641d12b4ce3ffcd2adb24f6b1682a305bfde05b95d3-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR20218_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Task Force Kampas</title-name>
+ <title-detail>Task Force Kampas</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Space Coco</name>
+  <detail>Unlock all other trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="000">
+  <name>Coco Hunter I</name>
+  <detail>Collect 10 cocos</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>Coco Hunter II</name>
+  <detail>Collect 30 cocos</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>Coco Hunter III</name>
+  <detail>Collect 60 cocos</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>Death Hunter I </name>
+  <detail>Die 1 time</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>Death Hunter II</name>
+  <detail>Die 2 times</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>Death Hunter III</name>
+  <detail>Die 5 times</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>Time Hunter I</name>
+  <detail>Survive 1 minute</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>Time Hunter II</name>
+  <detail>Survive 2 minutes</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>Time Hunter III</name>
+  <detail>Survive 4 minutes</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>Meteor Hunter I </name>
+  <detail>Destroy 25 meteors</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>Meteor Hunter II</name>
+  <detail>Destroy 50 meteors</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>Meteor Hunter III</name>
+  <detail>Destroy 100 meteors</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>Enemy Hunter I</name>
+  <detail>Kill 200 enemies</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>Enemy Hunter II</name>
+  <detail>Kill 500 enemies</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="G" pid="000">
+  <name>Enemy Hunter III</name>
+  <detail>Kill 1000 enemies</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>Boss Hunter I</name>
+  <detail>Kill 1 boss</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>Boss Hunter II</name>
+  <detail>Kill 2 bosses</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="G" pid="000">
+  <name>Boss Hunter III</name>
+  <detail>Kill 3 bosses</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="000">
+  <name>Score Hunter I</name>
+  <detail>Beat highscore of 50,000</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>Score Hunter II</name>
+  <detail>Beat highscore of 150,000</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="G" pid="000">
+  <name>Score Hunter III</name>
+  <detail>Beat highscore of 250,000</detail>
+ </trophy>
+</trophyconf>

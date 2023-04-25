@@ -1,0 +1,72 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000013b1d61e45fb5892c1ede7327c1ccfe455987fff1b5b8592dfe975bf58f2c57249f80a1141ec7c8bddcb68d64d385dc5c3edb2e35cfabe29722448b138f28e86dc90e72f8650f999c502dc9bc9b52ec13aed8b3b39e21a7d031e182e7db7775026b00684ac02332d3678305c9f5299dbea9107824102e083f96683f3140ad36d5e33665e59f1ed1a22f9a357b66bcf717573fc79-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR13600_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>ノラと皇女と野良猫ハート</title-name>
+ <title-detail>『ノラと皇女と野良猫ハート』トロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>コンプリート！</name>
+  <detail>『ノラと皇女と野良猫ハート』を全てプレイしていただき、ありがとうございました。</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>我が家がバーニング</name>
+  <detail>家が燃えた過去を回想した</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>少し疲れていませんか？</name>
+  <detail>最初の選択肢に入った</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>桜ヶ淵へいらっしゃい</name>
+  <detail>OPムービーを視聴した</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="S" pid="000">
+  <name>ネコの気持ち</name>
+  <detail>ネコになってしまった</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="S" pid="000">
+  <name>気になる人は、四人</name>
+  <detail>ヒロイン選択に入った</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="G" pid="000">
+  <name>冥界皇女の眷属として？</name>
+  <detail>パトリシアルートに入った</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="G" pid="000">
+  <name>ネコになってもいつまでも</name>
+  <detail>パトリシアルートをクリアした</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="G" pid="000">
+  <name>ピリ辛勇者御一行の旅</name>
+  <detail>ピリ辛勇者ノブチナの冒険に出た</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="G" pid="000">
+  <name>低レベルクリア…？</name>
+  <detail>ピリ辛勇者ノブチナの冒険を終えた</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="G" pid="000">
+  <name>才色兼備の風紀委員</name>
+  <detail>黒木ルートに入った</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="G" pid="000">
+  <name>一途に想い続けてくれる人</name>
+  <detail>黒木ルートをクリアした</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="G" pid="000">
+  <name>家族同然の二人</name>
+  <detail>シャチルートに入った</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="G" pid="000">
+  <name>末永く家族で</name>
+  <detail>シャチルートをクリアした</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="G" pid="000">
+  <name>『Like a cat』オープン</name>
+  <detail>明日原ルートに入った</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="G" pid="000">
+  <name>最高の時間を永遠に</name>
+  <detail>明日原ルートをクリアした</detail>
+ </trophy>
+</trophyconf>

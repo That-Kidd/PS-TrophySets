@@ -1,0 +1,152 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000000e9095671b39910393253dfde3cfe42b01c8147d6941d86c2e53e7e7c04118da49093a11c17c73f9743cfebf919524b021e92fad16b01e4a0fa0c0a7772e3c1273c1c0ee523d22821f6752e81fbb1ba254e0fba2289344ff194879e12b69ed12142bbf361d15634e9e8b01d2bc3f2b823199a032503eda7beb5b628727555f6f580ccc505fb9e4483bca58c9f0af7add5cc58adb-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR14725_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>灰鷹幻境</title-name>
+ <title-detail>「灰鷹幻境」獎盃信息。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>灰鷹幻境</name>
+  <detail>獲得所有獎盃</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>記憶的碎片</name>
+  <detail>看完一個短篇故事</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>居民的聲音</name>
+  <detail>第一次向鎮上的居民打聽消息</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>對日常的眷戀</name>
+  <detail>通過一章</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>迎接化裝舞會</name>
+  <detail>通過二章</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>宴會的餘韻</name>
+  <detail>通過三章</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>化裝舞會之夢</name>
+  <detail>通過四章</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>黑影</name>
+  <detail>通過五章</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>少女的決心</name>
+  <detail>通過六章</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="000">
+  <name>黑暗與光明</name>
+  <detail>通過七章</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="000">
+  <name>急轉直下</name>
+  <detail>通過八章</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>抉擇之時</name>
+  <detail>通過九章</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>溫柔的結局　end-A girl</name>
+  <detail>看完少女結局</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>狼族之妻　end-Lavan</name>
+  <detail>看完拉凡結局</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>罪人之城　end-Levi</name>
+  <detail>看完萊維結局</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="S" pid="000">
+  <name>魔女與兩隻野獸　end-Wolg</name>
+  <detail>看完狼族兄弟結局</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="S" pid="000">
+  <name>鷹族當家　end-Lugus</name>
+  <detail>看完盧格斯結局</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="S" pid="000">
+  <name>幻聽　end-Bad</name>
+  <detail>看完不幸結局</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="S" pid="000">
+  <name>化裝舞會　end-People</name>
+  <detail>看完幸福Ⅰ結局</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="S" pid="000">
+  <name>化裝舞會Ⅱ　end-Heroes</name>
+  <detail>看完幸福Ⅱ結局</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="S" pid="000">
+  <name>塔之主　end-Lord</name>
+  <detail>看完塔之主結局</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="S" pid="000">
+  <name>化蝶之旅　end-Hugh</name>
+  <detail>看完休結局</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="S" pid="000">
+  <name>幸福的少女　end-Traveler</name>
+  <detail>看完旅行者結局</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="S" pid="000">
+  <name>魔女眼中的世界　end-Links</name>
+  <detail>看完魔女結局</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="000">
+  <name>Short Ep　50％</name>
+  <detail>完成一半的短篇故事</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="S" pid="000">
+  <name>Short Ep　100％</name>
+  <detail>完成所有短篇故事</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>Ending　50％</name>
+  <detail>完成一半結局</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="S" pid="000">
+  <name>Ending　100％</name>
+  <detail>完成所有結局</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="B" pid="000">
+  <name>Gallery　50％</name>
+  <detail>畫廊完成率達到50％</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="S" pid="000">
+  <name>Gallery　100％</name>
+  <detail>畫廊完成率達到100％</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="S" pid="000">
+  <name>FlowChart　50％</name>
+  <detail>流程圖完成率達到50％</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="G" pid="000">
+  <name>FlowChart　100％</name>
+  <detail>流程圖完成率達到100％</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="S" pid="000">
+  <name>嗜書如命</name>
+  <detail>集齊所有手記</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="G" pid="000">
+  <name>金牌客戶</name>
+  <detail>購買古董店的所有道具</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="S" pid="000">
+  <name>城鎮萬事通</name>
+  <detail>收集到一半的城鎮記憶</detail>
+ </trophy>
+ <trophy id="035" hidden="yes" ttype="G" pid="000">
+  <name>記憶收藏家</name>
+  <detail>收集到所有的城鎮記憶</detail>
+ </trophy>
+</trophyconf>

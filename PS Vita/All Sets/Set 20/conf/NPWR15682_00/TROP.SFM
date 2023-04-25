@@ -1,0 +1,72 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000003f2ca43561b6d62eaf0637dcd0a196acf5c5cfe04956e3a3003066d9c029d2e482e3996ef59a0c30d84eea56be653bc9eef341c363fb85dc27cfaa6e2c2278198ba011a212072c95ccfbe5811b5d15e85f884a5dc4e3039aee149f133dfe9b31fc544843316bf909570c8a1dfca8a18dac4faaee7122a3cc13074c3b34015692d26823f745955057fec2fe27325e5ea63bd639b-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR15682_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>The Mooseman</title-name>
+ <title-detail>The Mooseman</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>The Mooseman Platinum</name>
+  <detail>Good job! Completed all tasks!</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Claws of Osh</name>
+  <detail>Outsmart the guardian of the Lower World</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Lower World</name>
+  <detail>Enter the world of the dead and ancient spirits</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="G" pid="000">
+  <name>Cows of Vakul</name>
+  <detail>Hidden secret</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>Riddles in the Dark</name>
+  <detail>Solve the ice crystal riddle in the underworld</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>Shondi</name>
+  <detail>Grab a piece of shimmering sun</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>Secrets of the Bone Forest</name>
+  <detail>Find all the artefacts among Mangonth's tusks</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>Cheran'</name>
+  <detail>Fight and defeat the spider of the Lower World</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>Vakul</name>
+  <detail>Escape the river god</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>Vorsa's Sanctuary</name>
+  <detail>Solve the riddle of Vorsa's sanctuary</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>Middle World</name>
+  <detail>Enter the world of men</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>Healer</name>
+  <detail>Outsmart Yoma the Witch</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>Upper World</name>
+  <detail>Enter the world of gods and ancestors</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>Rug Ride</name>
+  <detail>Survive the chase by Voipel</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="000">
+  <name>Sunset</name>
+  <detail>Return to the gates of the Lower World</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="G" pid="000">
+  <name>Archaeologist</name>
+  <detail>Collect all artefacts</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,84 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000002b1d3e11527eb7f7121e1a9cd3f7eef17288740c97545029195c073907a949c2ff29b3bb081fa631b1b1284093f498b1269e34c57d3f7b6285d578ee1492baf8cfe252bb85ea1f9a9f76d332f5704d84dc2238a3b7537e0a4232c04e17391d388d530f27ccecaad5d24bbe8239ef2125287550417aaf060221ce56ea80c28d9a6a9c38090340c0a67a971f0d1f437bdd27a11a98-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR09856_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>この青空に約束を―</title-name>
+ <title-detail>『この青空に約束を―』トロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>コンプリート</name>
+  <detail>『この青空に約束を―』を全てプレイしていただき、ありがとうございました。</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>ようこそつぐみ寮へ</name>
+  <detail>ゲームを開始する</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>設定変更</name>
+  <detail>初めてシステムで設定を変更する</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="S" pid="000">
+  <name>これを何とかしろと…？</name>
+  <detail>初めてイベントCGを見た</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="S" pid="000">
+  <name>CGコンプリート</name>
+  <detail>すべてのイベントCGを見た</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="S" pid="000">
+  <name>BGMコンプリート</name>
+  <detail>すべてのBGMを聴いた</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="000">
+  <name>prologue</name>
+  <detail>prologueを読んだ</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>Act.1 spring</name>
+  <detail>Act.1を読んだ</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>Act.2 summer</name>
+  <detail>Act.2を読んだ</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>てのひらのらくえん</name>
+  <detail>初めてヒロインルートを読んだ</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="G" pid="000">
+  <name>凛奈TRUEエンディング</name>
+  <detail>Act.3「沢城凛奈ルート」を読んだ</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="G" pid="000">
+  <name>宮穂TRUEエンディング</name>
+  <detail>Act.3「六条宮穂ルート」を読んだ</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="G" pid="000">
+  <name>静TRUEエンディング</name>
+  <detail>Act.3「藤村静ルート」を読んだ</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="G" pid="000">
+  <name>沙衣里TRUEエンディング</name>
+  <detail>Act.3「桐島沙衣里ルート」を読んだ</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="G" pid="000">
+  <name>奈緒子TRUEエンディング</name>
+  <detail>Act.3「浅倉奈緒子ルート」を読んだ</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="G" pid="000">
+  <name>海己TRUEエンディング</name>
+  <detail>Act.3「羽山海己ルート」を読んだ</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="G" pid="000">
+  <name>茜TRUEエンディング</name>
+  <detail>Act.3「三田村茜ルート」を読んだ</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="G" pid="000">
+  <name>約束の歌、斉唱</name>
+  <detail>グランドエンディング「約束の日」を読んだ</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="G" pid="000">
+  <name>太陽と海のメロディ</name>
+  <detail>全てのヒロインルートを読んだ</detail>
+ </trophy>
+</trophyconf>

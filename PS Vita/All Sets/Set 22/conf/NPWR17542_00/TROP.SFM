@@ -1,0 +1,56 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000ad6b243cf0aef280710648d2e808d0fb79f89ba44ae5bb917303cb2450db50b71f1d3d18b3cd875a91667b24d0d94dc92a08edcdb21d487109d46f6c29e1dcf2a3d1055c4a75928a4ccec67bd30f2630cad053f2bcf184ccc4b9453fd26bcdf09f75dad30648fe2a5f774ab9b3fbe439eb13efe0723b5020c70a91a3806113a7f54f3f134f297c3bf9fd02e857dfd785c185c652-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR17542_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Zeroptian Invasion</title-name>
+ <title-detail>Zeroptian Invasion</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Platinum Invasion</name>
+  <detail>Get all the trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>Welcome</name>
+  <detail>Die for the first time</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>A hidden enemy</name>
+  <detail>Destroy the boss of the first area</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>A messy enemy</name>
+  <detail>Destroy the boss of the second area</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>Don't give up</name>
+  <detail>Get 1000 score</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>Good job</name>
+  <detail>Get 2000 score</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>Well done</name>
+  <detail>Get 5000 score</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>That will teach them</name>
+  <detail>Get 10000 score</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>Boosted</name>
+  <detail>Get a power up</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>Going forward</name>
+  <detail>Complete 3 levels</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>Excellent</name>
+  <detail>Complete 5 levels</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>Impressive</name>
+  <detail>Complete 7 levels</detail>
+ </trophy>
+</trophyconf>

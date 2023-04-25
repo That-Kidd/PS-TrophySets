@@ -1,0 +1,164 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000004e365100e75a535bd2f57fe3054562f1e91225860292290262bf3cb1605ec3c44b123c3e8108775a4e132259b7276b49f3e58f5e83aa277c4cc2a30e05db2c85405c9672464111597b707c27885c4dc358b80b51b66a1e85209e5f61680f7dcb091e34afab5d6de56c16368335709a571025655139634f68b059cd6ce62dccbe152770563bb56090eb3f8946608339a8a4138949-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR04031_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>XBLAZE CODE : EMBRYO</title-name>
+ <title-detail>XBLAZE CODE : EMBRYO トロフィー</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>蒼の継承者</name>
+  <detail>XBLAZEコンプリート</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="000">
+  <name>XBLAZE</name>
+  <detail>Esのエンディングを見た。</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>護りたいもの</name>
+  <detail>ひなたのエンディングを見た。</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>正義の戦い</name>
+  <detail>久音のエンディングを見た。</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>罪と罰</name>
+  <detail>冥のエンディングを見た。</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>闇の獣</name>
+  <detail>闇堕ちエンディングを見た。</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>覚醒解放！！</name>
+  <detail>全エンディングを見た。</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>CG美術館　一般客</name>
+  <detail>CGの達成率２５％</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>CG美術館　常連客</name>
+  <detail>CGの達成率５０％</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>CG美術館　管理人</name>
+  <detail>CGの達成率７５％</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>CG美術館　館長</name>
+  <detail>CGの達成率１００％</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>初ＴＯｉ！！</name>
+  <detail>ＴＯｉの記事を１つ見た。</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>そろそろ慣れてきた</name>
+  <detail>ＴＯｉの記事を１５個見た。</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>使いこなしてるぜ！</name>
+  <detail>ＴＯｉの記事を３０個見た。</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="000">
+  <name>ＴＯｉ依存症</name>
+  <detail>ＴＯｉの記事を全部見た。</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>いちおう見ておくか…</name>
+  <detail>TIPSを１つ確認した。</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="G" pid="000">
+  <name>歩くデータバンク</name>
+  <detail>TIPSをすべて確認した。</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>音楽スキー</name>
+  <detail>MUSICの曲をすべて再生した。</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>思い出のアルバム</name>
+  <detail>シーン回想をすべて埋めた。</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>流行の機械は嫌いですか？</name>
+  <detail>ＴＯｉを一度も見ないでデッドエンドをむかえた。</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>気になるあの子の…</name>
+  <detail>プロフィールを開いた。</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>目移りしちゃう</name>
+  <detail>プロフィールをすべて開いた。</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>記録を司る者</name>
+  <detail>すべてのあらすじを見た。</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>XBLAZE　起動！</name>
+  <detail>XBLAZEを開始した。</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="G" pid="000">
+  <name>事象の観測者</name>
+  <detail>シナリオ達成率１００％</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="B" pid="000">
+  <name>幻の食材調達人</name>
+  <detail>ギャグシナリオをクリアした。</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>出会い</name>
+  <detail>第１話「出会い」をクリア</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="B" pid="000">
+  <name>抗えない罪</name>
+  <detail>第２話「抗えない罪」をクリア</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="B" pid="000">
+  <name>十聖</name>
+  <detail>第３話「十聖」をクリア</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="B" pid="000">
+  <name>異端</name>
+  <detail>第４話「異端」をクリア</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="B" pid="000">
+  <name>望む世界</name>
+  <detail>第５話「望む世界」をクリア</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="B" pid="000">
+  <name>異邦人</name>
+  <detail>第６話「異邦人」をクリア</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="B" pid="000">
+  <name>それぞれの想い</name>
+  <detail>第７話「それぞれの想い」をクリア</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="B" pid="000">
+  <name>禍き獣の叫び</name>
+  <detail>第８話「禍き獣の叫び」をクリア</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="B" pid="000">
+  <name>救い</name>
+  <detail>第９話「救い」をクリア</detail>
+ </trophy>
+ <trophy id="035" hidden="yes" ttype="B" pid="000">
+  <name>ワダツミ</name>
+  <detail>第１０話「ワダツミ」をクリア</detail>
+ </trophy>
+ <trophy id="036" hidden="yes" ttype="B" pid="000">
+  <name>贖罪</name>
+  <detail>第１１話「贖罪」をクリア</detail>
+ </trophy>
+ <trophy id="037" hidden="yes" ttype="B" pid="000">
+  <name>対話</name>
+  <detail>第６話「対話」をクリア</detail>
+ </trophy>
+ <trophy id="038" hidden="yes" ttype="B" pid="000">
+  <name>災いを成す者</name>
+  <detail>第７話「災いを成す者」をクリア</detail>
+ </trophy>
+</trophyconf>

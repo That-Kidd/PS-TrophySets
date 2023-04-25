@@ -1,0 +1,148 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000020dfd6898cc17623b0301ea5b8c443c54880fb5146cd36b68d632c31e7ff970758a3da3c345cee1ab98b13234944149a7adb148b9678cbfed9d6fd3f1abe167d324e1765c06536f19e46fcae366fcdc1ebb5763ab08133ad5d714a8e809ff1b7191519441f985d21c64895bbf0648cda4f2207d6413b2d6f9ff5bc3cedf5151b0d4b897127b95e67aac0582befd917746e74b614-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR05210_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>The LEGO® Movie - Videogame</title-name>
+ <title-detail>The LEGO® Movie - Videogame</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Everything Is Awesome</name>
+  <detail>Collect All Trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>The Speedster</name>
+  <detail>Complete All Timed Challenges</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>Scavenger Hunt</name>
+  <detail>Collect All Minikits</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>Where Are My Pants?</name>
+  <detail>Collect All Missing Pants</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>Brick by Brick</name>
+  <detail>Collect All Red Bricks</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>The Magic Number</name>
+  <detail>Complete All Multi-Part Challenges</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>No One Is Safe</name>
+  <detail>Defeat one of each enemy type</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>No Fly Zone</name>
+  <detail>Destroy every SSP Dropship in the game</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>Special One</name>
+  <detail>Defeat 100 enemies using special moves</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>Particular Set Of Skills</name>
+  <detail>Defeat 50 Enemies using Bad Cop</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>Complete Collection</name>
+  <detail>Unlock all Characters</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>I'm Batman!</name>
+  <detail>Defeat 20 Enemies using Batman's special moves</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>Much Statue About Nothing</name>
+  <detail>Destroy all Lord Business statues</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>Everything Is Alright</name>
+  <detail>Rescue All Civilians and Master Builders</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>Redemption</name>
+  <detail>Defeat Lord Business With Vitruvius In Your Party</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>In The Beginning</name>
+  <detail>Finish "Prologue"</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>I Fought The Law</name>
+  <detail>Finish "Police Station"</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Not So Special</name>
+  <detail>Finish "Flatbush Gulch"</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>High Noon Showdown</name>
+  <detail>Finish "Flatbush Town"</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Rooftop Rumble</name>
+  <detail>Finish "Flatbush Rooftops"</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>Used Your Head</name>
+  <detail>Finish "Flatbush Chase"</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>Head In The Clouds</name>
+  <detail>Finish "Cloud Cuckoo Land"</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>Ambush Avoided</name>
+  <detail>Finish "Cloud Under Attack"</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>The High Seas</name>
+  <detail>Finish "Submarine"</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>Stick To The Plan</name>
+  <detail>Finish "Business HQ"</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>Think Tank</name>
+  <detail>Finish "The Kragle"</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>Rallying Call</name>
+  <detail>Finish "TV Station</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>Spaceship! Spaceship!!!</name>
+  <detail>Finish "Spaceship Escape"</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>The Tide Begins To Turn</name>
+  <detail>Finish "Attack on Bricksberg"</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>Prophecy Fulfilled</name>
+  <detail>Finish "The Cube Ship"</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>Instructions Followed</name>
+  <detail>Complete an Instruction Build</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>You Shall Not Pass</name>
+  <detail>Déjà Vu for Gandalf</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>Justice Served</name>
+  <detail>Have Batman, Superman, Wonder Woman and Green Lantern in the same party</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>Falling With Style</name>
+  <detail>Complete a Skydive as Superman</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>No Instructions Needed</name>
+  <detail>Complete a Build-It or Master Build as Emmet</detail>
+ </trophy>
+</trophyconf>

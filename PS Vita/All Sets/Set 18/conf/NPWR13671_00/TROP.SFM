@@ -1,0 +1,132 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000a3f8c9d5d28a9a82c87aec6c3b0f39c9f3726d1cb63c98ca6b0f3557327eefde20c278ae93a25066409d6e1ea786bca36db07672bd63f1d883eb3e81360242edab464cb0c99adfa662e0680a328cb2f77ab46d2c036ba5f2f518bf5cf5c6d8ee9e90532e58eb859df734eb0e1c378d867355798a48331e9aaad1d6eb2e64d4dbb1acfceb0454f100b2c45a1ee9901eb63c0fd673-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR13671_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Ys Origin</title-name>
+ <title-detail>Ys Origin</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Top of the Tower</name>
+  <detail>Obtain all trophies.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>The Nightmare is over</name>
+  <detail>Finish the game in Nightmare difficulty with any character.&#x0a;</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>You're the Boss</name>
+  <detail>Complete Boss Rush in Nightmare difficulty.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>Arena Master</name>
+  <detail>Complete all 6 levels of Arena Mode in Nightmare difficulty.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>Three ways of being a hero</name>
+  <detail>Finish the game on any difficulty with the 3 characters.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>Shoplifter</name>
+  <detail>Purchase everything available in the Bonus Shop.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>True heroes never die</name>
+  <detail>Finish the game in Normal, Hard or Nightmare difficulty with any character without dying.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>A fighting victory</name>
+  <detail>Finish the game with Yunica in Normal mode or harder.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>Magically over</name>
+  <detail>Finish the game with Hugo in Normal mode or harder.</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>Demoniac Victory</name>
+  <detail>Finish the game with Toal in Normal mode or harder.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>Taking care of the Roos</name>
+  <detail>Give a Roda Fruit to all of the Roos in the tower with any character.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>Fully blessed</name>
+  <detail>Purchase all the blessings with any character.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>Encyclopedist</name>
+  <detail>Fill in all the data entries in the monster journal.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>Mass murderer</name>
+  <detail>Kill 10.000 ennemies.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>A Hard Success</name>
+  <detail>Finish the game in Hard difficulty with any character.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>I've got the power!</name>
+  <detail>Reach the maximum level with any character.</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>First one down</name>
+  <detail>Beat Velagunder “The Gangly Beast”.</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>Prison breakout</name>
+  <detail>Beat Nygtilger The Pestilent Arthropod”.</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>King of the lava</name>
+  <detail>Beat Gelaldy “The Murderous Construct”.</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>Creepy</name>
+  <detail>Beat Khonsclard “The Maneating Creeper”.</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="000">
+  <name>Spike Dodger</name>
+  <detail>Beat Pictimos “The Grim Mantid”.</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>A brave warrior</name>
+  <detail>Beat Kishgal “The Peerless”.</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="B" pid="000">
+  <name>She should have trained more</name>
+  <detail>Beat Epona “The resolute”.</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>No Mercy</name>
+  <detail>Beat Zava with Yogleks &amp; Omulgun “The Merciless”.</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="000">
+  <name>Unbelievable</name>
+  <detail>Beat Toal Fact “The Believer”.</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="B" pid="000">
+  <name>Guess who’s back</name>
+  <detail>Unlock Adol.</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>Shopping time</name>
+  <detail>Buy your first upgrade.</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>The Perfect Equipment</name>
+  <detail>Upgrade each piece of equipment to the maximum level of any character.</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>Using all the magic</name>
+  <detail>Upgrade every magic attack to the maximum level of any character.</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>Nice run</name>
+  <detail>Finish the game on Easy difficulty with any character.</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>Hardly a fight</name>
+  <detail>Finish the game on Very Easy difficulty with any character.</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,56 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000001475825ffb5cb8cd1c85376e46354906c62986c608c249b943432aae4fdc51f6e743199463be668c22c82e0250d188365e0f0d31728e42356fe128c0949b65415663a65dd0167a6e31d356067e98888678d1b52de72bf7f11ccdc38ab76f0d6754e82120fd71cf36916ad02244675073c2d9d21b1d8ff839fb04b4a3fbd841ceccd3362695b723e96c3856eca022a7d1d4818d16-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR08174_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Nihilumbra&#x0a;</title-name>
+ <title-detail>Nihilumbra Achievements.</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>You are Born</name>
+  <detail>Escape from the Void.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="-1">
+  <name>Nihilism</name>
+  <detail>Beat the Story mode.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="-1">
+  <name>Stoicism</name>
+  <detail>Beat the Void mode.</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="S" pid="-1">
+  <name>Easter egg</name>
+  <detail>Go where no one has been.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Void is hard</name>
+  <detail>Die 10 times in a row playing Void mode.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="-1">
+  <name>Snail slayer</name>
+  <detail>Kill a Klimeth without shooting it.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Death bringer</name>
+  <detail>Burn four enemies in five seconds.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Rebound King</name>
+  <detail>Make a bullet bounce 20 times.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Against the current</name>
+  <detail>Resist being absorbed by a Vaccumore during 10 seconds.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>Carom shot</name>
+  <detail>Smash two Crawlaggars with a box in less than one second.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>Feed me Seymour</name>
+  <detail>Feed a Skeltogoth with a box.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="-1">
+  <name>Pacifist</name>
+  <detail>Clear level Volcano IV without killing any enemy.</detail>
+ </trophy>
+</trophyconf>

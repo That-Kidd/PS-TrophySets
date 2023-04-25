@@ -1,0 +1,76 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000e10fafd67ffc851d148418cd41229d86e7f6df2a17451a99a2e5197fbde72ec93236788748318d1f475b3fdd3c721ad34ca1f43a0cdb19270bd8272f1bde5520ec0251de566f6f8efa166782c70accb40a4aa9f01d83d2b490bebc66f99bc6f0567ada60b1836d0088f27dff7ec909fdb2dccb7bae49bca43838d1a736b3d8fffeab4086e62eedb18cfaafa352921aafa4f546df-->
+<trophyconf version="1.1" platform="ps3,psp2" policy="large">
+ <npcommid>NPWR04836_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>家族計画 Re:紡ぐ糸</title-name>
+ <title-detail>家族計画 Re:紡ぐ糸トロフィー</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>家族計画Re：紡ぐ糸</name>
+  <detail>全てのトロフィーを獲得する。</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>計画に参加</name>
+  <detail>「家族計画Re：紡ぐ糸」をプレイする。</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>春花のエピソード</name>
+  <detail>春花のエピソードを見る。</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>寛のエピソード</name>
+  <detail>寛のエピソードを見る。</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>青葉のエピソード</name>
+  <detail>青葉のエピソードを見る。</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>準のエピソード</name>
+  <detail>準のエピソードを見る。</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>末莉のエピソード</name>
+  <detail>末莉のエピソードを見る。</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>真純のエピソード</name>
+  <detail>真純のエピソードを見る。</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="G" pid="000">
+  <name>家族計画</name>
+  <detail>家族計画がはじまる。</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>春花ルートクリア</name>
+  <detail>春花ルートをクリアする。</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>青葉ルートクリア</name>
+  <detail>青葉ルートをクリアする。</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>準ルートクリア</name>
+  <detail>準ルートをクリアする。</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>末莉ルートクリア</name>
+  <detail>末莉ルートをクリアする。</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="000">
+  <name>真純ルートクリア</name>
+  <detail>真純ルートをクリアする。</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="000">
+  <name>景ルートクリア</name>
+  <detail>景ルートをクリアする。</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="G" pid="000">
+  <name>家族のアルバム</name>
+  <detail>家族のアルバムをコンプリートする。</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="G" pid="000">
+  <name>家族のミュージック</name>
+  <detail>家族のミュージックをコンプリートする。</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,140 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000004b808c815755bfee546f80d8f69289a5e5a4ac9eadf8804f032404035d5df7f519af9bab1fa26ec5b2b4246e556df78df5e00ea8d7808f9ebd1a5d0c36f0e7613d8f0e4f8c11ed16fccfb5be07fda39be622a1b827f6035811a18281045ad5171b9a6d0e0be2c6ce1f85b23064ad95056c309b7481905235d2daeeeccc4cd6f3f4c4d48b9678e82b840b97d6a1e33f1372e8fa0b-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR09498_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Zero Time Dilemma</title-name>
+ <title-detail>Zero Time Dilemma trophies</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Zero Escape</name>
+  <detail>Collect all trophies.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Still a Rookie</name>
+  <detail>Complete 1 quest.</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="S" pid="000">
+  <name>In the Big Leagues Now</name>
+  <detail>Complete 6 quests.</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="G" pid="000">
+  <name>The Go-To Guy</name>
+  <detail>Complete all quests.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>A Grain of Sand</name>
+  <detail>Gain 1 Cinema File.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>Mountain of Knowledge</name>
+  <detail>Gain all Cinema Files.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>Crib Sheet</name>
+  <detail>Obtain 1 Quest File.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>All-Seeing Wisdom</name>
+  <detail>Obtain all Quest Files.</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>Beginning of the End</name>
+  <detail>Finish CQD-END: 1.</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>Fly Me to the Moon</name>
+  <detail>Finish C-END: 1.</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>What is Love? Don't Hurt Me</name>
+  <detail>Finish Q-END: 1.</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>It Came From Within</name>
+  <detail>Finish Q-END: 2.</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>A Rabbit in My Future</name>
+  <detail>Finish D-END: 1.</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>A Silver Lining</name>
+  <detail>Finish D-END: 2.</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="G" pid="000">
+  <name>The Final Decision</name>
+  <detail>Finish CQD-END: 2.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>Gotta Go Back in Time</name>
+  <detail>Go through your first bad ending.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Coming Up on 90 Minutes</name>
+  <detail>Watch all the cinematics in a fragment.</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="S" pid="000">
+  <name>C-Team Subject Report</name>
+  <detail>Clear all C-Team fragments.</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="S" pid="000">
+  <name>Q-Team Subject Report</name>
+  <detail>Clear all Q-Team fragments.</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="S" pid="000">
+  <name>D-Team Subject Report</name>
+  <detail>Clear all D-Team fragments.</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="G" pid="000">
+  <name>SHIFTer</name>
+  <detail>Clear all fragments.</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>Down the Hatch</name>
+  <detail>Drink the real antidote.</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="B" pid="000">
+  <name>Geronimo</name>
+  <detail>Protect Akane and obtain the X-Passes.</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>Blessed by Lady Luck</name>
+  <detail>All the dice roll 1s.</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="000">
+  <name>Tell Them What They Won</name>
+  <detail>Correctly answer the Monty Hall Problem.</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="G" pid="000">
+  <name>Wrinkle in Time</name>
+  <detail>Shoot that person.</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>Virtual Reality</name>
+  <detail>Live a happy virtual life.</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="B" pid="000">
+  <name>What Are Ya, Chicken?</name>
+  <detail>Resist temptation to press the button.</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="B" pid="000">
+  <name>Calculated Risk</name>
+  <detail>Shoot a blank, everyone lives.</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="B" pid="000">
+  <name>Unforgettable</name>
+  <detail>Answer with the correct date.</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="B" pid="000">
+  <name>Schrödinger's Cat</name>
+  <detail>Successfully remove the helmet.</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="B" pid="000">
+  <name>Virtue's True Reward</name>
+  <detail>No one presses the button, everyone lives.</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="S" pid="000">
+  <name>Bigger on the Inside</name>
+  <detail>Successfully activate the Force Quit Box.</detail>
+ </trophy>
+</trophyconf>

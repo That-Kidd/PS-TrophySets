@@ -1,0 +1,72 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000139ea7403f82ce08ef7ac84886a4bc6d7b8f089e75e94673ba1b0413b18930b89fe1acfb8fe067e67e3e43a3befd5f21eca8febc3dad0a23238a09d86411b733d09efa3974ccf42ffc9052e990e24e346a3a1b56bffff0a4b3ead90a68c3b6ef8b1b978438e7fa5b8c2ad9af43ecf53d03a171ea587c773be4733101e075e35842f8a0b3eea7641f2076f01043acc9c9a0c929b5-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR11462_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Wanderjahr</title-name>
+ <title-detail>Wanderjahr trophy set</title-detail>
+ <trophy id="000" hidden="yes" ttype="B" pid="-1">
+  <name>Rescue (1)</name>
+  <detail>Rescue member from ramen restaurant.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Old 16 bit limit</name>
+  <detail>Have more than 0xFFFF gold.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Counter it</name>
+  <detail>Success to do Counter Break.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Kawaii</name>
+  <detail>Obtain Scarab Artifact.</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="-1">
+  <name>Rescue (2)</name>
+  <detail>Rescue member from pyramid.</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="-1">
+  <name>Symbol Trick</name>
+  <detail>Obtain Artifact Slot from airship.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Damage limit break</name>
+  <detail>Deal more than 0x270F * 0xA damage in 1 hit.</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="-1">
+  <name>Forgotten Beast</name>
+  <detail>Obtained the last Artifact Slot.</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="-1">
+  <name>Demolition man</name>
+  <detail>Eliminate the master hidden in dungeon.</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="-1">
+  <name>Signal</name>
+  <detail>Restore all teleportation signals.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>Artifact Combine</name>
+  <detail>Success to combine Artifact.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="-1">
+  <name>Research Master</name>
+  <detail>Learn all RS.</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="B" pid="-1">
+  <name>Proud of you</name>
+  <detail>Beat the game.</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="-1">
+  <name>Artifact Master</name>
+  <detail>Obtained all Artifacts.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="-1">
+  <name>Grinding</name>
+  <detail>Max out level all characters.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="G" pid="-1">
+  <name>Thanks for playing :)</name>
+  <detail>Crown star all missions.</detail>
+ </trophy>
+</trophyconf>

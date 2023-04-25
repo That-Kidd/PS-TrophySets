@@ -1,0 +1,84 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000f46fc8e29c77979a65f2e14c793553a708adc1f7bd9b179618eceb336bc49a8ddaa5d630a0044ecb57dcb697e63c24da062f9bd0e97772b360c3fd4aaa41f86fe87a5735ca3bcd6d90690c873366a2a4655e99d5e36fef47aaef297c6711dea208015295392f843f884fc60c1693c98aed8bd108e09d4ba02d2e73ceeb2cb7b600b71ab18134b4c21c92aae6e938b74525b95a8d-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR13574_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Energy Cycle</title-name>
+ <title-detail>Energy Cycle</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Energy Cycle Platinum</name>
+  <detail>Good job! Completed all tasks!</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Level 3 Completed</name>
+  <detail>Part of the cycle is complete</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Level 6 Completed</name>
+  <detail>Part of the cycle is complete</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Level 9 Completed</name>
+  <detail>Part of the cycle is complete</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>Level 12 Completed</name>
+  <detail>Part of the cycle is complete</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>Level 15 Completed</name>
+  <detail>Part of the cycle is complete</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>Level 18 Completed</name>
+  <detail>Part of the cycle is complete</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>Level 21 Completed</name>
+  <detail>Part of the cycle is complete</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>Level 24 Completed</name>
+  <detail>Part of the cycle is complete</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>Level 27 Completed</name>
+  <detail>Part of the cycle is complete</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>Game Completed</name>
+  <detail>Energy Cycle is complete</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>Time Attack Layer #10</name>
+  <detail>Passed through layer #10 in Time Attack mode</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>Time Attack Layer #20</name>
+  <detail>Passed through layer #20 in Time Attack mode</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="000">
+  <name>Time Attack Layer #30</name>
+  <detail>Passed through layer #30 in Time Attack mode</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>Infinity Layer #10</name>
+  <detail>Passed through layer #10 in Infinite Play mode</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>Infinity Layer #20</name>
+  <detail>Passed through layer #20 in Infinite Play mode</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>Infinity Layer #30</name>
+  <detail>Passed through layer #30 in Infinite Play mode</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="G" pid="000">
+  <name>Infinity Layer #40</name>
+  <detail>Passed through layer #40 in Infinite Play mode</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="G" pid="000">
+  <name>Infinity Layer #50</name>
+  <detail>Passed through layer #50 in Infinite Play mode</detail>
+ </trophy>
+</trophyconf>

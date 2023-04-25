@@ -1,0 +1,92 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000f93ae5465e3c6da095f611b7397dfa4b03bba74f0d03f582378320977a29ccf51d978712b20c85257d3436a2b88a5b5df8a52d6ff7c91d391b0dd79493a3ab277fe167615281a9caeabada9ab0976597aeeb6ea9d3c2d2549ae5de92f2e17ae0f8ac29bf7c9c0bf001deefb4516aa5d31fe7ce40eebcf975fdf710ff2fc207a8af1d2eca9b6a8c23da8bb2c32cb5cc38e0f3ec46-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR07928_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Jungle Rumble</title-name>
+ <title-detail>Save the jungle!</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Gold</name>
+  <detail>First gold medal.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Solid Gold in Juba Falls</name>
+  <detail>Gold medal all levels in Juba Falls.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Solid Gold in Kagunga Forest</name>
+  <detail>Gold medal all levels in Kagunga Forest.</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="-1">
+  <name>Solid Gold in the Factory</name>
+  <detail>Gold medal all levels in the factory.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Move a Monkey</name>
+  <detail>Move a single monkey through the jungle.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Throw a coconut</name>
+  <detail>Throw a single coconut.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Move Two Monkeys</name>
+  <detail>Move a team of multiple monkeys.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Throw Multiple Coconuts</name>
+  <detail>A group of armed monkeys throws coconuts.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Move Right at Go</name>
+  <detail>Practice getting Mofongo Tribe moving right at go.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>Wait for the Moment</name>
+  <detail>As the enemy moves, wait for the right moment to strike.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>Follow Closely</name>
+  <detail>Have Mofongo Tribe follow closely behind the enemy.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="-1">
+  <name>Thread the Needle</name>
+  <detail>Have Mofongo Tribe move right between a moving group of enemies.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="-1">
+  <name>Kagunga Forest Extra Challenge</name>
+  <detail>Get gold in Kagunga Forest's extra levels.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="-1">
+  <name>Hot Step</name>
+  <detail>Get a move on... do the hot step!</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="-1">
+  <name>In Depth Hot Step</name>
+  <detail>Master how to use the hot step.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="-1">
+  <name>Stand Up to Kagunga Tribe</name>
+  <detail>Kagunga Tribe giving idle threats? Stand up to them.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="-1">
+  <name>Devil May Care</name>
+  <detail>Kagunga Tribe trying to step? Who cares!</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="-1">
+  <name>Meet Kagunga Sage</name>
+  <detail>Meet with the sage of Kagunga tribe.</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="-1">
+  <name>Bulldoze Factory</name>
+  <detail>Knockdown a building in the Nadges Corp. factory with a bulldozer.</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="-1">
+  <name>Stun Human</name>
+  <detail>Stun a human in the Nadges factory.</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="-1">
+  <name>What's an Aglet?</name>
+  <detail>Maybe Google knows.</detail>
+ </trophy>
+</trophyconf>

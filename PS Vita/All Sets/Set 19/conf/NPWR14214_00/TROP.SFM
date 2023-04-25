@@ -1,0 +1,204 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000008f158a25212f8c6986abf839ab4d876ba6caf4af7a69f21e7bb62cba25c7bff46bcd16646a018ecf4919398129479f71bcfb8125b085a71eabf73d4354fc6c11f82b11c9f6bd362dcf15bd97fe58dd7c6b2c9e3c60c8f98fe9e8af956df9faed7c36fa6e8fa2952d252c574dcd7766d8a40155beb8d667c881e7688fceaed1689efe118850da1207a71718e250b5d24e9981eb49-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR14214_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Super Life Of Pixel Trophies</title-name>
+ <title-detail>General Trophies for Super Life Of Pixel</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Platinum</name>
+  <detail>Achieved for winning all the trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="000">
+  <name>Speed runner champ</name>
+  <detail>Overall best time less than 3 hours</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Cocktail</name>
+  <detail>Collect 10 fruits</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>8-bit Hero</name>
+  <detail>Complete all 8-bit machines</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>16-bit Champ</name>
+  <detail>Complete all 16-bit machines</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>Special Champ</name>
+  <detail>Complete all Special Collection machines</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>Hardcore</name>
+  <detail>For 10 levels, collect fruit, special pickup and complete level in the same attempt</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>Salad</name>
+  <detail>Collect 25 fruits&#x0a;</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>Super Juice Legend</name>
+  <detail>Collect all fruits</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>Pixel Legend</name>
+  <detail>Complete all regular levels</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>Super Hardcore</name>
+  <detail>For 20 levels, collect fruit, special pickup and complete level in the same attempt</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>Mega Hardcore</name>
+  <detail>For 40 levels, collect fruit, special pickup and complete level in the same attempt</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>ZX81 Appreciation</name>
+  <detail>Collect all ZX81 special gems</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>ZX Spectrum Appreciation</name>
+  <detail>Collect all ZX Spectrum special gems</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>C64 Appreciation</name>
+  <detail>Collect all C64 special gems</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>A2600 Appreciation</name>
+  <detail>Collect all A2600 special gems</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>BBC Appreciation</name>
+  <detail>Collect all BBC special gems</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>CPC464 Appreciation</name>
+  <detail>Collect all CPC 464 special gems</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>GameBoy Appreciation</name>
+  <detail>Collect all GameBoy special gems</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>NES Appreciation</name>
+  <detail>Collect all NES special gems</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>APPLEII Appreciation</name>
+  <detail>Collect all Apple II special gems</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>Amiga Appreciation</name>
+  <detail>Complete all Amiga levels</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>AtariST Appreciation</name>
+  <detail>Complete all Atari ST levels</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>Mac128k Appreciation</name>
+  <detail>Complete all Mac 128k levels</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>Master System Appreciation</name>
+  <detail>Complete all Master System levels</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>Mega Drive Appreciation</name>
+  <detail>Complete all Mega Drive levels</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>MSX Appreciation</name>
+  <detail>Complete all MSX levels</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>PCCGA Appreciation</name>
+  <detail>Complete all PC CGA levels</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>PCEGA Appreciation</name>
+  <detail>Complete all PC EGA levels</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>Saturn Appreciation</name>
+  <detail>Complete all Saturn levels</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>SNES Appreciation</name>
+  <detail>Complete all SNES levels</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>Beam Me Up</name>
+  <detail>Teleport for the first time</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>Profesor Pixel Pal</name>
+  <detail>You have just met Professor Pixel for the first time</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>Spring Loaded</name>
+  <detail>Perform 500 jumps</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>Determined</name>
+  <detail>Retry 20 times in a row on the same level</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="S" pid="000">
+  <name>Colour!</name>
+  <detail>Experience colour for the first time</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="S" pid="000">
+  <name>Flick Screen Levels</name>
+  <detail>Experience flick screen levels</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="S" pid="000">
+  <name>Smooth Scrolling!</name>
+  <detail>Experience smooth scrolling!</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="S" pid="000">
+  <name>Parallax Scrolling!</name>
+  <detail>Experience parallax scrolling!</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="S" pid="000">
+  <name>Higher Resolution</name>
+  <detail>Experience higher resolution pixels</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="S" pid="000">
+  <name>Variable Height Jumping</name>
+  <detail>Experience variable height jumping</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="S" pid="000">
+  <name>Multi-Layer Parallax Scrolling!</name>
+  <detail>Experience multi-layer parallax scrolling</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="S" pid="000">
+  <name>Lots More Colour!</name>
+  <detail>Find lots more colour</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="S" pid="000">
+  <name>Floppy Disks!</name>
+  <detail>Find a floppy disk machine</detail>
+ </trophy>
+ <trophy id="044" hidden="no" ttype="S" pid="000">
+  <name>Bye Bye Colour Clash!</name>
+  <detail>Say goodbye to colour clash!</detail>
+ </trophy>
+ <trophy id="045" hidden="no" ttype="S" pid="000">
+  <name>PC Colour</name>
+  <detail>Experience PC colour</detail>
+ </trophy>
+ <trophy id="046" hidden="no" ttype="S" pid="000">
+  <name>32-Bits!</name>
+  <detail>Experience 32-bits</detail>
+ </trophy>
+ <trophy id="047" hidden="no" ttype="S" pid="000">
+  <name>Arcade Champ</name>
+  <detail>Total play time over 2 hours</detail>
+ </trophy>
+ <trophy id="048" hidden="no" ttype="B" pid="000">
+  <name>NOOB</name>
+  <detail>Die 50 times</detail>
+ </trophy>
+</trophyconf>

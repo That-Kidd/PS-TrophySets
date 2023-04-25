@@ -1,0 +1,116 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000005ec33c32c487119e643f2a9ce19d2e5ef553682a43a10e0887867750e05d4e85ef59899da18a3417714fa32cedfe25cb32fa5b6e1c38f00a6ca4359145c2150f81d63a5ed4e9a4ab163f57c22a2b9350daaf1f7361f671ada6aec9527a23aee80f9f67c2ed58db0548b2a94a3cb9617b7d6d01b26df5659a52c4614061bfd90cecfec9f386e78eb48db575341d69e35232ac15ff-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR17912_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Wordsweeper by POWGI</title-name>
+ <title-detail>The trophy set of Wordsweeper by POWGI</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Clean Sweep</name>
+  <detail>Collect all the trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>In-fur-mation</name>
+  <detail>Read the instructions to the end</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Pup and Running</name>
+  <detail>Solve your first puzzle</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Help Meowt</name>
+  <detail>Use Hint to show a possible letter placement</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>Use Your Words</name>
+  <detail>Use Hint when there are no letter placement moves left</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>I Don't Get It</name>
+  <detail>Enter an invalid letter 5 times</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>I Really Don't Get It</name>
+  <detail>Enter a letter that is invalid in 5 directions</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>Sweep Aside</name>
+  <detail>Use Fix to remove mistakes 10 times</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>Sweep Under the Carpet</name>
+  <detail>Use Fix to remove at least 10 wrong letters at once</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>Who's a Clever Boy?</name>
+  <detail>Solve a puzzle without making a single mistake</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>The Leashed You Could Do</name>
+  <detail>Solve a puzzle without using Fix or Hint</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>Paws For Thought</name>
+  <detail>Spend at least a minute considering what to do next</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>Broom Broom</name>
+  <detail>Complete a puzzle in under 60 seconds</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="000">
+  <name>Per-fect</name>
+  <detail>Place the name "Per" perfectly</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>Bee-utiful</name>
+  <detail>Place the word "bee" beautifully</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>Ski-llful</name>
+  <detail>Place the word "ski" skillfully</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>Sir-prising</name>
+  <detail>Place the word "sir". Gosh, there's a trophy for that?</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>Fan-tastic</name>
+  <detail>Place the word "fan" fantastically</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>Con-gratulations</name>
+  <detail>Place the word "con" and celebrate</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="000">
+  <name>Pro-fessional</name>
+  <detail>Place the word "pro" like a pro</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>Pop Star</name>
+  <detail>Place the word "pop" like a star</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>Ill-uminating</name>
+  <detail>Place the word "ill" and be well</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>Leg-endary</name>
+  <detail>Place the word "leg" and ... wait for it ...</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>Awe-some</name>
+  <detail>Place the word "awe" awesomely</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>Stu-pen-dous</name>
+  <detail>Place the word "pen" stupendously</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="S" pid="000">
+  <name>Just Wow</name>
+  <detail>Place the word "wow". That is all.</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="G" pid="000">
+  <name>Sweep the Board</name>
+  <detail>Complete every puzzle</detail>
+ </trophy>
+</trophyconf>

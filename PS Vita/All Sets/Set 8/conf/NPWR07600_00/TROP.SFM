@@ -1,0 +1,56 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000018287ee13d6679b2df33d71c435cd1d2c2fc3acc34dad373a9a32cd68bbde010a407135e6fa61ff3d8a048d0af134679921529fa5d127672a9f0f1b344f05287a3bf57b35e30208fc178fddf40a777914665d6e1cd61bbe620271a014b74b3ab9e1e8c5449f0b4cddecefb7a42f5a463cb47f1ad39e52d62d56fc787e0eea6d52967d7417179f2c6328effbfb217c2fb1938a160-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR07600_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Jetpack Joyride Deluxe</title-name>
+ <title-detail>Trophies for Jetpack Joyride</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Alpha Charlie Echo</name>
+  <detail>Fly over 2kms</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Another Way In</name>
+  <detail>Start a game without breaking the laboratory wall</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Fallout</name>
+  <detail>Win 3 Atom Blasts</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Angry Wings</name>
+  <detail>Get the Profit Bird twice in one game</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Rejected</name>
+  <detail>Fly past the token gift without collecting it</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Crackling</name>
+  <detail>Blow up a flying pig with a missile</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Toastie</name>
+  <detail>Get toasted by a missile 3 times in a row</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="-1">
+  <name>Bullseye</name>
+  <detail>Get a score of EXACTLY 200m</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="-1">
+  <name>Romeo Alpha Delta</name>
+  <detail>Fly over 5kms</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="-1">
+  <name>Germaphobe</name>
+  <detail>Fly 2km without touching any coins, scientists or tokens</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="-1">
+  <name>Mix 'N' Match</name>
+  <detail>Equip 50 unique gadget combinations</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="-1">
+  <name>Strong Arm Tactics</name>
+  <detail>Complete the 5th day of the Daily S.A.M. Challenge 10 times</detail>
+ </trophy>
+</trophyconf>

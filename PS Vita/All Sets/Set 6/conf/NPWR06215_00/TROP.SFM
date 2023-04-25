@@ -1,0 +1,84 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000ce1c404619dac7f16d5fdc1e2c12c21c9cb56f205827c65ab2fcdd41bd80645ab45b0c38fafb7bfe77e2663a77535c293d7ed2a6c64373ac9db0c7d038a734d32452c454a5af0c6cdb31926c06a53e36102a35d2cfa2b410221065b90c1480502bd7f2c1f9322807dcbce7ea7a47e880ba2d0bae1c534328a48e1425356fc41d8e999318f8778f71131b1abfb5a5a3ab18fd8b3e-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR06215_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Super Exploding Zoo!</title-name>
+ <title-detail>A very singed set of trophies for SEZ.</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Everything's Ruined</name>
+  <detail>Complete Super Exploding Zoo.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>Battery</name>
+  <detail>Finish a level with 60 animals for the Hatchery.</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="S" pid="000">
+  <name>Avalanche</name>
+  <detail>Destroy everything in a Dynamite Heights level.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>Prepared For The Ark</name>
+  <detail>Finish with exactly 2 of each animal in your herd on Dynamite Heights Level 3.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>Baby Boomer</name>
+  <detail>Allow the motherships to spawn 40 babies on Dynamite Heights Level 8.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>You Snooze, You Lose</name>
+  <detail>Aliens ate 56 sleeping animals.</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="G" pid="000">
+  <name>Scorched Earth Policy</name>
+  <detail>Destroy everything in the Zoo Hub.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>Armed To The Teeth</name>
+  <detail>Stay armed for an entire level.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>Hogan's Delight</name>
+  <detail>Breed 100 Baby Crocs.</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="000">
+  <name>Failure Is An Option</name>
+  <detail>Fail by using your last animal to blow up a wall.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>A Small Victory</name>
+  <detail>Finish a level with just baby animals alive.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>Mindless Violence</name>
+  <detail>Vandalise all the cars.</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="G" pid="000">
+  <name>What Is It Good For? Absolutely Nothing.</name>
+  <detail>Fail a level by deploying a special skill animal as your final animal.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="000">
+  <name>I Will Survive</name>
+  <detail>Survive your own rampage and then defeat opponent on their rampage.</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>God Loves A Coward</name>
+  <detail>Force a draw in VS mode with only 1 animal left.</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>What Does This Switch Do? Ah.....</name>
+  <detail>Defeat an opponent using Rhinos.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>Rollin</name>
+  <detail>Defeat an opponent using Pandas.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Sticky Start</name>
+  <detail>Collect your first sticker!</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="G" pid="000">
+  <name>Come To A Sticky Ending</name>
+  <detail>Collect all the stickers!</detail>
+ </trophy>
+</trophyconf>

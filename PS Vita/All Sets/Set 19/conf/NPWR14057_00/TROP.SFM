@@ -1,0 +1,64 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000005f4663f988f6d35bc4355ff889c287c7a8c7bfb0918cbfb07a0d86b74cc931b6179e85007cb0fef31b7084341f37ff64921105bb829b907afb0d140fddf7aefe3dbf7bd86a9fea9065f66e6fa081ff368be9136e2a41b9a1db44b8b9a90718e6a37922d6037a1ca7d29c8f24dc111c93a7f11bc9b3e7c31118eb48aa81f48b3b32bac0be5054d76b07aa08eee2c94ca243a54120-->
+<trophyconf version="1.1" platform="ps3,psp2,ps4" policy="large">
+ <npcommid>NPWR14057_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Race The Sun</title-name>
+ <title-detail>Trophies for Race The Sun</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Davinci</name>
+  <detail>Collect all the other Race The Sun trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Sparrow</name>
+  <detail>Reach level 3</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>Swallow</name>
+  <detail>Reach level 10</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>Nighthawk</name>
+  <detail>Reach level 15</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>Falcon</name>
+  <detail>Reach level 20</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>Eagle</name>
+  <detail>Reach level 25</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>Bishop</name>
+  <detail>Reach 100k points in 1 run</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>Knight</name>
+  <detail>Score 1 million points in 1 run</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>King</name>
+  <detail>Score 5 million points in 1 run</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>Meteoroid</name>
+  <detail>Clear region 4 in Apocalypse</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>Lindbergh</name>
+  <detail>Finish 3 "perfect region" in 1 run</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>Yeager</name>
+  <detail>Finish 6 "perfect regions" in 1 run</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>Wright</name>
+  <detail>Collect 50 tris in-air in 1 run</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="000">
+  <name>Cirrus</name>
+  <detail>Touch a cloud</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,108 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000ee138cf842ca805e3ccdd2b8e03533b7913417173c850371c258763fec7610be0439bb8bf6d5bd69159e00b4a76f583242c144de8e560b592d0f30af8281630d2d8353cbbe10f441645f68d7b59d00f8220acd545ca437741fbc2a7e5e962295e962efa7d12b4d75b8a5a5e5c6d631d0aeddd0d022ccebed1a839ea9750358cdc1f8163a310254c9f4842428fd5a34a8cf2efc14-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR13561_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Tachyon Project Trophies</title-name>
+ <title-detail>Trophy set for Tachyon Project</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Hacker</name>
+  <detail>Earn all available Trophies for Tachyon Project</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Butcher</name>
+  <detail>Destroy 500 enemies</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>Slayer</name>
+  <detail>Destroy 2500 enemies</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>Mass Murderer</name>
+  <detail>Destroy 10000 enemies</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>Berserker</name>
+  <detail>Destroy 50 enemies in less than 1 second</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>Two Birds One Stone</name>
+  <detail>Destroy 15 or more enemies with a single explosion</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>Chain Reaction</name>
+  <detail>Drop a Decoy and a Turret in less than 1 second</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>Bomber</name>
+  <detail>Destroy 1000 enemies with the bomb launcher weapon</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>By a Hair's Breadth</name>
+  <detail>Finish a wave with 1 or less seconds left</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>Sniper</name>
+  <detail>Destroy 1000 enemies using the laser weapon</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>Bullfighter</name>
+  <detail>Destroy 100 Bull enemies</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>Slippery</name>
+  <detail>Stay hidden for more than 15 seconds in a single level</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>Live in the Shadows</name>
+  <detail>Stay hidden for a total of 10 minutes</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>Bullet Time</name>
+  <detail>Destroy 10 enemies with the time stopped or slowed down in one go</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>Shield Breaker</name>
+  <detail>Destroy 100 Shield bearer enemies</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>Finished Level 1</name>
+  <detail>Finish Level 1 Successfully</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Finished Level 2</name>
+  <detail>Finish Level 2 Successfully</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>Finished Level 3</name>
+  <detail>Finish Level 3 Successfully</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="G" pid="000">
+  <name>Finished Level 4</name>
+  <detail>Finish Level 4 Successfully</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="000">
+  <name>Finished Level 5</name>
+  <detail>Finish Level 5 Successfully</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>Finished Level 6</name>
+  <detail>Finish Level 6 Successfully</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="G" pid="000">
+  <name>Finished Level 7</name>
+  <detail>Finish Level 7 Successfully</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>Finished Level 8</name>
+  <detail>Finish Level 8 Successfully</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="G" pid="000">
+  <name>Finished Level 9</name>
+  <detail>Finish Level 9 Successfully</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="G" pid="000">
+  <name>Finished Story Mode</name>
+  <detail>Finish Level 10 Successfully</detail>
+ </trophy>
+</trophyconf>

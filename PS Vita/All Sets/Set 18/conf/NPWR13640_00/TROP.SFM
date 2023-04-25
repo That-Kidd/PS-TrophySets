@@ -1,0 +1,148 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000061d3c34879bf87a9e00bd9fe9a4635f679c6e831638aedcd1cf5ccc73d4ecb9a3713d916ebe0071fa239188468994c626a08842961c40173a27e205c862e5cb2bb4cc5a36ad41d226fd5077ea3fac7dc69d35aaf174821db44d8b2492e0fe37ab9d33b0606049d5bc7ae3f46a2a9ea75fff4cf5f22843a746c92ca617f9468142990d1e726edba58a0900a0ac4244f2c6ee278b9-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR13640_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Antiquia Lost</title-name>
+ <title-detail>Trophy set for Antiquia Lost</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Omniscient Traveler</name>
+  <detail>Obtained all trophies.</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>The Start</name>
+  <detail>You have watched the opening.</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>The Maid Association</name>
+  <detail>You have arrived at Amethyst Port.</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>Sailing</name>
+  <detail>You have gained a ship.</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="S" pid="000">
+  <name>Feelings of Trust</name>
+  <detail>You have to head to Amber Fortress on your own.</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="S" pid="000">
+  <name>The Day of Maneuvers</name>
+  <detail>Preparations for launching the Mega-magic are complete.</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="G" pid="000">
+  <name>Antiquia Reminiscence</name>
+  <detail>You have reached the Normal Ending.</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="G" pid="000">
+  <name>Antiquia Forever</name>
+  <detail>You have reached the True Ending.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>Picnics</name>
+  <detail>You have walked 10000 paces.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>Hiking</name>
+  <detail>You have walked 100000 paces.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>Walking World Map</name>
+  <detail>You have walked 250000 paces.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>Treasure Lover</name>
+  <detail>You have collected 50 treasure chests.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>Treasure Hunter</name>
+  <detail>You have collected 100 treasure chests.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>Litoes' Shock</name>
+  <detail>You have collected 300 treasure chests.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>Great Collaboration</name>
+  <detail>You have achieved 10 consecutive hits.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>Quantity over Quality</name>
+  <detail>You have achieved 50 consecutive hits.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>Hit Maker</name>
+  <detail>You have achieved 200 consecutive hits.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Incredible Blow</name>
+  <detail>You have inflicted 10000 damage with 1 attack.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>Death Blow</name>
+  <detail>You have inflicted 100000 damage with 1 attack.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="000">
+  <name>Strength is Power</name>
+  <detail>You have inflicted 999999 damage with 1 attack.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>Weapon Craftsman</name>
+  <detail>Maximum weapon amalgamate level is 10.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>Physical Fight!</name>
+  <detail>Maximum weapon amalgamate level is 100.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>Supreme Blow</name>
+  <detail>Maximum weapon amalgamate level is 999.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>Snack</name>
+  <detail>You have eaten 50 gems.</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>Gourmet</name>
+  <detail>You have eaten 500 gems.</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="S" pid="000">
+  <name>Cosmos Stomach</name>
+  <detail>You have eaten 3500 gems.</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>Careful Harvester</name>
+  <detail>You have harvested from plant pots 10 times.</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>Fruitful Fall</name>
+  <detail>You have harvested from plant pots 50 times.</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="S" pid="000">
+  <name>Great Harvest</name>
+  <detail>You have harvested from plant pots 100 times.</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="G" pid="000">
+  <name>Great Helper</name>
+  <detail>You have completed all the Sub-quests.</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>Getting Stronger</name>
+  <detail>You have gained the Bronze Cup in the Arena.</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="S" pid="000">
+  <name>Pretty Strong</name>
+  <detail>You have gained the Silver Cup in the Arena.</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="S" pid="000">
+  <name>Arena Champion</name>
+  <detail>You have gained the Gold Cup in the Arena.</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="G" pid="000">
+  <name>Invincible</name>
+  <detail>You have gained the Maid Cup in the Arena.</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="G" pid="000">
+  <name>Fatal K.O.</name>
+  <detail>You have cleared the most difficult level in the hidden Arena.</detail>
+ </trophy>
+</trophyconf>

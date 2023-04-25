@@ -1,0 +1,56 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000ed5e309d104df878fd177a800b1563d3eb5f1db10d58b54e9eaf49a4ad2af4a307c22ab8790d77ce31088073527a39d324fb13e78c313fda0e8f3e2f66ceb89762ac63fc7f1da2fa84a4ab6a45f888f1d02f4adb2d32b6206275cf03dc037e35169c5faef553c541010c2bf43add4bb28d24bfae9a3a878ec6a3a4b5e3743d9d62690bc89e862deb9cedd8c04a3af1bacd0e9755-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="small">
+ <npcommid>NPWR09978_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Letter Quest Remastered</title-name>
+ <title-detail>Trophy set for Letter Quest Remastered</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Showing Off</name>
+  <detail>Finish a stage with full health</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Prevention</name>
+  <detail>Use 25 plague tiles</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>WHY?</name>
+  <detail>Spell 3 words with no vowels</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Open Sesame!</name>
+  <detail>Open 10 treasure chests</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Quest King (or Queen!)</name>
+  <detail>Complete 50 quests</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Monster Masher</name>
+  <detail>Defeat 250 monsters</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>We Have The Technology</name>
+  <detail>Purchase 30 upgrades</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="-1">
+  <name>Critically Acclaimed</name>
+  <detail>Do 100 critical attacks</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="-1">
+  <name>What're Ya Buyin'?</name>
+  <detail>Purchase 50 merchant items in battle</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="-1">
+  <name>Rock Star</name>
+  <detail>Earn 120 yellow stars</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="-1">
+  <name>Walk Of Fame</name>
+  <detail>Earn 40 crystal stars</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="-1">
+  <name>Born To Spell</name>
+  <detail>Spell 3000 words</detail>
+ </trophy>
+</trophyconf>

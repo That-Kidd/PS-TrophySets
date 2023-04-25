@@ -1,0 +1,104 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000056f191eb7491fc7ffd4d29d9b4698cf62799e2452789b2d97da9242fa0f7ebfcb8e18a53b3fc3959796efdf7273c09dddc6648a4b574a5f31e1ce9fe58d62e26dfbe82023359b9eee87a26202b25e894dd1f019e186576690c2e9aee8d400204927ec9d98c2fdae9c16b97c4ac438908a14d36dbd84202f3e111a43594d05b907dee0945576ccafdb575ee9b62450a3f1b5974dd-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR08455_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>I DOLL U</title-name>
+ <title-detail>I DOLL U のトロフィーセットです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Master of idol</name>
+  <detail>全てのトロフィーを獲得した</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="000">
+  <name>逃げているわけじゃない。ただそこに道があっただけ</name>
+  <detail>ルカのいずれかのエンディングを見た</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>猫から獅子への究極進化</name>
+  <detail>レオのいずれかのエンディングを見た</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>絶対普遍の孤高の王</name>
+  <detail>ツバサのいずれかのエンディングを見た</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>俺の生き様を感じろ</name>
+  <detail>セイヤのいずれかのエンディングを見た</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>なんでもしてくださって結構です</name>
+  <detail>イツキのいずれかのエンディングを見た</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>いちご味</name>
+  <detail>Kiss Modeでルカとキスした</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>レモン味</name>
+  <detail>Kiss Modeでレオとキスした</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>悪魔味</name>
+  <detail>Kiss Modeでツバサとキスした</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>りんご味</name>
+  <detail>Kiss Modeでセイヤとキスした</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>変な味</name>
+  <detail>Kiss Modeでイツキとキスした</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>甘酸っぱい味</name>
+  <detail>Kiss Modeでマナカとキスした</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>君と一緒に♪</name>
+  <detail>Music Gameでルカのソロ曲を遊んだ</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>にゃんにゃんにゃん♪</name>
+  <detail>Music Gameでレオのソロ曲を遊んだ</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>悪魔降臨♪</name>
+  <detail>Music Gameでツバサのソロ曲を遊んだ</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>魂と魂で繋がる♪</name>
+  <detail>Music Gameでセイヤのソロ曲を遊んだ</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>哀れな下僕にご命令を♪</name>
+  <detail>Music Gameでイツキのソロ曲を遊んだ</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="G" pid="000">
+  <name>ずっと一緒</name>
+  <detail>ルカのエンディングを全て見た</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="G" pid="000">
+  <name>どんな形でも</name>
+  <detail>レオのエンディングを全て見た</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="G" pid="000">
+  <name>魔界の花嫁</name>
+  <detail>ツバサのエンディングを全て見た</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="G" pid="000">
+  <name>幸せにしてやる</name>
+  <detail>セイヤのエンディングを全て見た</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="G" pid="000">
+  <name>幸せのかたち</name>
+  <detail>イツキのエンディングを全て見た</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="G" pid="000">
+  <name>I DOLL U</name>
+  <detail>全てのエンディングを見た</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="G" pid="000">
+  <name>米沢マネージャーになれるよ！</name>
+  <detail>全てのCGをオープンした</detail>
+ </trophy>
+</trophyconf>

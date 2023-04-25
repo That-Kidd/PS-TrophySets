@@ -1,0 +1,52 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000005124dda1df81b2f34d10e3d16db7a5045f7392c57330229072204910f4d5269b2fb19acc86244bc6e1912383621c3ced02c18ca7a895629010da172c79f64449eb103e80b92bd5b9cac85518a24cdcf8239b7be0a67c5517802d35da61afd370681ad24a39fc84c7582f87cc19e97c98c3e59639e6a9e51522a155e18f04da43dbb0bf2ed7da2483a4c90725e09a4b31f11c49c6-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR03925_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Present for you</title-name>
+ <title-detail>『 Present for you 』トロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>ゲーム開始</name>
+  <detail>ゲームを開始しました。最後までごゆるりとお楽しみください。</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>プロローグ終了</name>
+  <detail>プロローグが終了しました。</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>もうすぐ分岐点</name>
+  <detail>もうすぐ分岐点です。好感度をチェックしましょう。</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>源本留美開始</name>
+  <detail>源本留美のルートに入りました。</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>平良理沙開始</name>
+  <detail>平良理沙のルートに入りました。</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>藤原まどか開始</name>
+  <detail>藤原まどかのルートに入りました。</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>立花千春開始</name>
+  <detail>立花千春のルートに入りました。</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="-1">
+  <name>源本留美終了</name>
+  <detail>源本留美のシナリオが終了しました。</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="-1">
+  <name>平良理沙終了</name>
+  <detail>平良理沙のシナリオが終了しました。</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="-1">
+  <name>藤原まどか終了</name>
+  <detail>藤原まどかのシナリオが終了しました。</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="-1">
+  <name>立花千春終了</name>
+  <detail>立花千春のシナリオが終了しました。</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,72 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000c997ce7a9175ef62164d1f1b0265fe5b9874b7e003a1a3788e8309c1604835adbdf962004bd983b7691b37e65b5248c0c2e7ce36f453c3fceedeefb5892cb324ac0fc5da20373f043ea9f118dfadff0e77cbb100253b884cd58ded5401acf172eae1197199a5602550ab239b5593c63ca647cdd7c5c302980f0c39a9edfa4d45e2a46298d7daa2b16d0253959c712e8081a288de-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR14523_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>The Long Reach</title-name>
+ <title-detail>The Long Reach</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Platnum</name>
+  <detail>Get all the trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="000">
+  <name>The End</name>
+  <detail>Complete Simon's Shop Scene</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>Die Hard</name>
+  <detail>Fall into the vent in Alice's lab</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>The Stench of Fresh Air</name>
+  <detail>Complete Institution 01 Scene</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>It's My First Day!</name>
+  <detail>Complete Diner Scene</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>Murderer!</name>
+  <detail>Kill everybody at Simon's Shop (ex. Kill Calvin)</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>There is No Escape</name>
+  <detail>Complete Crackhouse Scene</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>Santa's Little Helper</name>
+  <detail>Complete Office Quest</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>Into the Belly of the Beast</name>
+  <detail>Complete Institution 02 Scene</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>Jingle Bells</name>
+  <detail>Complete Bells Puzzle</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>Core</name>
+  <detail>Get to the Core</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>Ascend!</name>
+  <detail>Step away from Alan</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>It's Over</name>
+  <detail>Kill Alan</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="000">
+  <name>I'll Shoot This Sheriff</name>
+  <detail>Grab the gun</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="000">
+  <name>Felling Thirsty?</name>
+  <detail>Drink from every cooler</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="G" pid="000">
+  <name>No Respect for Privacy</name>
+  <detail>Read every email</detail>
+ </trophy>
+</trophyconf>

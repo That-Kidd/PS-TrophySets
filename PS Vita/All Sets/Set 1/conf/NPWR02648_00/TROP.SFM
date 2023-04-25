@@ -1,0 +1,124 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000022dc6042e8588729526909d42616ba9aed0577d11d892514d7795a75a9a7536918ece01a70fc7562807111b1babca9d0542e30d81ae297ef3e0f23861183da1649950666f7a9e7c3298a1fc8dcd894a9083ae322f57de151bd87aed9fedc6937849c947b7f983cbda0544c829c01ac61192f03937565a60b4f1c2845410979c9a38e9a24a10c1724a8ccb14bd8ec6f059eab2e3a-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR02648_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Smart As</title-name>
+ <title-detail>Smart As</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Intelligent Being</name>
+  <detail>Collect all Trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Bright Spark</name>
+  <detail>Play Smart As on 25 different dates</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>Heavy Brain</name>
+  <detail>Play Smart As on 50 different dates</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>Perfect Attendance</name>
+  <detail>Play Smart As on 100 different dates</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>1st Day At School</name>
+  <detail>Complete your first session of Daily Training</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>Home Work</name>
+  <detail>Complete 10 sessions of Daily Training</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>Star Pupil</name>
+  <detail>Complete 20 sessions of Daily Training</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>Graduate</name>
+  <detail>Complete 30 sessions of Daily Training</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>Marked Improvement</name>
+  <detail>Increase your Brain Power score</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>Logical Progression</name>
+  <detail>Play a Logic Free Play Game</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>You Do The Math</name>
+  <detail>Play an Arithmetic Free Play Game</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>First Word</name>
+  <detail>Play a Language Free Play Game</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>I See What You Did There</name>
+  <detail>Play an Observation Free Play Game</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>Logical Conclusion</name>
+  <detail>Play all Logic Games</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>All Adds Up</name>
+  <detail>Play all Arithmetic Games</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>The Final Word</name>
+  <detail>Play all Language Games</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>Perfect Vision</name>
+  <detail>Play all Observation Games</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>Stroke of Genius</name>
+  <detail>Finish a game at Genius difficulty</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="G" pid="000">
+  <name>Absolute Genius</name>
+  <detail>Finish all Free Play Games at Genius difficulty</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="G" pid="000">
+  <name>Brainiac</name>
+  <detail>Play all games in a single day</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>Just Testing</name>
+  <detail>Earn 3 stars in a game at Easy difficulty</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>Mind Game</name>
+  <detail>Earn 3 stars in a game at Medium difficulty</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>Brain Surgery</name>
+  <detail>Earn 3 stars in a game at Hard difficulty</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="G" pid="000">
+  <name>Rocket Science</name>
+  <detail>Earn 3 stars in a game at Genius difficulty</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>Smart Move</name>
+  <detail>Complete a Street Smart Challenge</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>Day Tripper</name>
+  <detail>Earn a total of 10 stars in Street Smart</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="S" pid="000">
+  <name>Commuter</name>
+  <detail>Earn a total of 20 stars in Street Smart</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="S" pid="000">
+  <name>Explorer</name>
+  <detail>Earn a total of 50 stars in Street Smart</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="G" pid="000">
+  <name>Globe Trotter</name>
+  <detail>Earn a total of 100 stars in Street Smart</detail>
+ </trophy>
+</trophyconf>

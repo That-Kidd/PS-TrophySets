@@ -1,0 +1,112 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000001c5dcec34b56244c8e523c0581e15e5bfdd2eb2b227e8fd181f743479dcf114e050dde87f19eb3292e7bc9ab0ea7b871635fbd88c5ed9e51d2568428f2d013c2727cf02ba9d30336b600d2e1ca87b32fb39ef47d1af5399dee2623aeadfb4351ab4c76a75f5fdeae7aa6786908c30f2ddf7f733fb413d6decfa55876325de355acc6ebf8ba4def9b2de2779e2fd07ea6f36f3e7c-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR09189_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name> Amnesia: Memories</title-name>
+ <title-detail>Trophies for Amnesia: Memories</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name> Memories Returned</name>
+  <detail>Collected every trophy in the game</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name> Encounter with Orion</name>
+  <detail>Cleared the Prologue</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name> It Was Love All Along</name>
+  <detail>Reached the Good Ending in the Heart World</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name> Fate Truly Brought Us Together</name>
+  <detail>Reached the Good Ending in the Spade World</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name> Even Now, and Always... Forever.</name>
+  <detail>Reached the Good Ending in the Diamond World</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name> I Will Never Leave You</name>
+  <detail>Reached the Good Ending in the Clover World</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name> The Most Important Thing</name>
+  <detail>Reached the Good Ending in the Joker World</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name> Peaceful World</name>
+  <detail>Reached a normal ending in one of the routes</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name> Grim Fate</name>
+  <detail>Reached a bad ending in one of the routes.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name> Good Ending Master</name>
+  <detail>Experienced good endings in all of the routes</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name> Normal Ending Master</name>
+  <detail>Experienced normal endings in all of the routes</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name> Bad Ending Master</name>
+  <detail>Experienced bad endings in all of the routes</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name> Traveler of Worlds</name>
+  <detail>Experienced every possible ending</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name> Memories of Shin</name>
+  <detail>Unlocked Memories of Shin</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name> Memories of Ikki</name>
+  <detail>Unlocked Memories of Ikki</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name> Memories of Toma</name>
+  <detail>Unlocked Memories of Toma</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name> Memories of Kent</name>
+  <detail>Unlocked Memories of Kent</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name> Memories of Ukyo</name>
+  <detail>Unlocked Memories of Ukyo</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name> Eternal Memories</name>
+  <detail>Unlocked Memories of every character</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name> Rock-Paper-Scissors Champion</name>
+  <detail>Won against three people in Rock-Paper-Scissors</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name> Air Hockey Champion</name>
+  <detail>Won against three people in Air Hockey</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name> Rock-Paper-Scissors Master</name>
+  <detail>Won against all five people in Rock-Paper-Scissors</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name> Air Hockey Master</name>
+  <detail>Won against all five people in Air Hockey</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="G" pid="000">
+  <name> Congratulations!</name>
+  <detail>Achieved the Mini Game reward</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="G" pid="000">
+  <name> Visions Shared</name>
+  <detail>Witnessed all of the extra stories</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="G" pid="000">
+  <name> Secrets Revealed</name>
+  <detail>Listened to every still image voice</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,164 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000001a53db538c749f6335d8fc625c55837c892720205578a51b4ae7aff8e79ad5aeadbc851ec44b57374169f89aec2af6ee0b3ee00ea51fe32fb0039473825349493f7b8e661758401c25589dd9b49bd752503492f97f7e8376a9765854fe843394f13d3c118b4995a7133a7cce11f7f31ff2344519b73c2cf27fbeb4acf78733ff305571a9d80112bc8eb4af69e160f74f6f744eb6-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR09973_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Wand of Fortune R</title-name>
+ <title-detail>Wand of Fortune Rのトロフィーです</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>レーナ・オムニア！</name>
+  <detail>すべてのトロフィーを獲得。「無」から「全」へ、すべてを手に入れたあなたに乾杯！</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>長すぎるプロローグ</name>
+  <detail>ワンド名物「長すぎるプロローグ」。ここからはサクサクいけますのでご安心を！</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>スケジュール完成！</name>
+  <detail>これから毎週組んでいくスケジュール。油断すると補習が待っているのでご注意を！</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>初めてのミッション</name>
+  <detail>不思議な事件を解決！これからもどんどん事件をクリアしていきましょう。</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>一癖あるお買いもの</name>
+  <detail>ソロ・モーン魔法具店は生徒たちに立ち塞がる壁。欲しいものを手に入れるまで頑張って！</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>絶対無敵！未来視の恋占い</name>
+  <detail>ヴァローナさんのところに行くと、何故かデートに誘われる確率が高くなるらしいですよ！</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>めろきゅん★ユリウスとのデート</name>
+  <detail>魔法馬鹿な彼ですが、これがなかなか甘ったるいお兄ちゃん気質もあるのです。</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>めろきゅん★ノエルとのデート</name>
+  <detail>彼の語る夢を聞き流さず大事にしてあげてください。それもノエルの魅力です。</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>めろきゅん★ビラールとのデート</name>
+  <detail>さすがは殿下、積極的に攻めてきます。負けてばかりだと大変な思いをしますので要注意！</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="000">
+  <name>めろきゅん★ラギとのデート</name>
+  <detail>食いしん坊の彼にとって、食べ物を分け与える相手になれることは最重要ポイントなのです。</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="000">
+  <name>めろきゅん★アルバロとのデート</name>
+  <detail>完全に振り回されてる感がありますが、意外と要所要所でやり返してる……はず！</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>めろきゅん★エストとのデート</name>
+  <detail>どこがデートなんだろう、と思ったあなたはきっと正しい。でもそれもエストには必要な経験。</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>嘘つきユリウス</name>
+  <detail>テンション異常を起こしているユリウスも新鮮ですよね。</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>嘘つきノエル</name>
+  <detail>ノエルの嘘はわかりやすくていいですね。可愛いものです。</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>嘘つきビラール</name>
+  <detail>ビラール殿下は嘘なのかただのお茶目なのかわかりにくいですが、一応嘘です。</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>嘘つきラギ</name>
+  <detail>「燃やすぞてめー！」と怒られるので、彼の前で聞いてはいけません。</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>嘘つきアルバロ</name>
+  <detail>元々嘘つきなのに嘘つきカードって言われても……大丈夫、ちゃんと嘘ついてますよ。</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>嘘つきエスト</name>
+  <detail>自分の嘘つきカードを聞いて一番ダメージ受けそうな子ナンバーワン。</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>反省しなさい！</name>
+  <detail>反省はしてもすぐに忘れる、そんな困ったユリウスをこれからもバックアップしてあげてください。</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>少し落ち着こう</name>
+  <detail>何かと思い込みの激しいノエルを支えてあげるのはあなたしかいません。</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="000">
+  <name>きっと、いつか</name>
+  <detail>ビラールの祖国・ファランバルドにいつか訪ねて行ける日が来ますように。</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>赤い証</name>
+  <detail>ラギが残してくれた友情の証。これからもずっと大切に、胸に抱えていこう。</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="B" pid="000">
+  <name>誘拐犯で愉快犯</name>
+  <detail>本当にこれでいいのか。考えたら負けなんだと思います。お互いに。</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>ミステリーハンター</name>
+  <detail>気付けばミルス・クレアの事件解決コンビと呼ばれる未来が見えます。今後の活躍に期待！</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="000">
+  <name>友情と愛情</name>
+  <detail>友情の確認と、愛情の芽生え。誰にも抱く夢があるものです。</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="S" pid="000">
+  <name>好きだ、大好きだ！</name>
+  <detail>ユリウス、ハウス。恋に目覚めた彼の暴走の日々が、今、始まる。</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="S" pid="000">
+  <name>手を繋いで、これからも</name>
+  <detail>しっかり手順を踏んだノエルの勇気にときめき。じれったくも甘酸っぱい恋。</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="S" pid="000">
+  <name>シンデレラストーリー</name>
+  <detail>ビラールの妃として、誰もが羨むような恋を。ただし、やりすぎ注意です殿下。</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="S" pid="000">
+  <name>過度な接触はまだちょっと</name>
+  <detail>亭主関白風味ながら純情一直線の彼を、上手く立てつつ甘えましょう。</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="S" pid="000">
+  <name>恋は駆け引き</name>
+  <detail>絶対に許さない、絶対にだ！と呟きながらボタンを押してきた方、ここからも勝負です。</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="S" pid="000">
+  <name>当たり前の幸せを</name>
+  <detail>彼が、普通の幸せを普通に受け取れるようになるまで、ガンガン押していきましょう。</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="S" pid="000">
+  <name>教師と生徒のいけない関係</name>
+  <detail>この世界では誰も非難する人はいません。エルバート先生は早く諦めてください。</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="S" pid="000">
+  <name>大好きなお友達</name>
+  <detail>学生時代の友達は一生の親友になり得るもの。決して手放さず、大切に。</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="S" pid="000">
+  <name>未来へのプロローグ</name>
+  <detail>夢と希望と、積み重ねる大事な思い出。きっとそれがこの先にある未来の礎。</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="S" pid="000">
+  <name>キス×キス×キス</name>
+  <detail>これでもかと畳み掛けたキスシーンでお腹いっぱいになってもらえたら幸いです。</detail>
+ </trophy>
+ <trophy id="035" hidden="yes" ttype="G" pid="000">
+  <name>６つの想い抱えて</name>
+  <detail>誰も選ばない、だからすべてを選ぶ。そんなワガママな結末も、きっと正義！</detail>
+ </trophy>
+ <trophy id="036" hidden="yes" ttype="G" pid="000">
+  <name>ミッションコンプリート！</name>
+  <detail>不思議がいっぱいのミルス・クレアで、数々の謎を完全解決！　よっ、名探偵！</detail>
+ </trophy>
+ <trophy id="037" hidden="yes" ttype="G" pid="000">
+  <name>思い出のアルバム</name>
+  <detail>すべての思い出を写したアルバムが完成。たまに見て過去に思いをはせるのも楽しみのひとつ。</detail>
+ </trophy>
+ <trophy id="038" hidden="yes" ttype="G" pid="000">
+  <name>ゴッドハンド</name>
+  <detail>これさえあれば、もう魔法具店で買えないものはありません。</detail>
+ </trophy>
+</trophyconf>

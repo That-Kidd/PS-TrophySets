@@ -1,0 +1,140 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000311cc8cbb5685280ac1c0a17ba0b2deac3670d4b3a89715c9f894cd4e98cdf44533ddfa464bf2145b082dffd73c0d8a5ab9470872035d292d3227a0163f9624d523659ff05c54d1bb01c9b687f6a926103be82d19dcece8bbeea656e694da24fda90dc70db5d7682de18de5efe480e02c475231c8323cdf982cc4f73e8ad593af96787220b1e6c18fac3106f9a5a42281d87bc35-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR18902_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Wizards of Brandel</title-name>
+ <title-detail>Trophy set for Wizards of Brandel</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Road to Promises</name>
+  <detail>Obtained all the trophies.</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>Somewhere to Live!</name>
+  <detail>You have watched the opening.</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>A Graceful Swordsman!</name>
+  <detail>The second party member has been added.</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>An Odd Ally!</name>
+  <detail>The third party member has been added.</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>A Large Town</name>
+  <detail>You have arrived at Shutte Town.</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>The Evil Lord!</name>
+  <detail>The fourth party member has been added.</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>Make an End!</name>
+  <detail>You have reached the decisive battle with Dante Moltz.</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>This is Really It!</name>
+  <detail>You have reached the battle with Moltz, the ancient wizard.</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>The Gate...!</name>
+  <detail>You have reached the normal ending.</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="G" pid="000">
+  <name>I'm Back...</name>
+  <detail>You have reached the true ending.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>A Firm Footing</name>
+  <detail>You have walked 5,000 steps.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>Healthy</name>
+  <detail>You have walked 50,000 steps.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>Pedestrians' Paradise</name>
+  <detail>You have walked 100,000 steps.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>Treasure Finder</name>
+  <detail>You have collected 50 treasure chests.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>Treasure Collector</name>
+  <detail>You have collected 100 treasure chests.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>Treasure Maniac</name>
+  <detail>You have collected 200 treasure chests.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Brilliant Cooperation</name>
+  <detail>You have reached 15 consecutive hits.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>Quantity over Quality</name>
+  <detail>You have reached 50 consecutive hits.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="G" pid="000">
+  <name>Consecutive Attacks are Justice</name>
+  <detail>You have reached 100 consecutive hits.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Impressive Dexterity</name>
+  <detail>You have inflicted 7,000 damage in one attack.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>Wonderful Blow</name>
+  <detail>You have inflicted 50,000 damage in one attack.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="G" pid="000">
+  <name>Strength is Power</name>
+  <detail>You have inflicted 100,000 damage in one attack.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>Weapon Refiner</name>
+  <detail>Weapon max strengthening level changed to 21.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>Punch with Power!</name>
+  <detail>Weapon max strengthening level changed to 50.</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="G" pid="000">
+  <name>Greatest Swing Ever</name>
+  <detail>Weapon max strengthening level changed to 100.</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>Flower Harvest</name>
+  <detail>You have harvested from the field 25 times.</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>Making Money from a Side-Job</name>
+  <detail>You have completed 10 jobs in a Side-job room.</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="G" pid="000">
+  <name>Meddler</name>
+  <detail>You have cleared all sub-quests.</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>You're Not So bad!</name>
+  <detail>You have cleared the Bronze Cup in the Arena.</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>Relatively Strong</name>
+  <detail>You have cleared the Silver Cup in the Arena.</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="S" pid="000">
+  <name>Arena Champion</name>
+  <detail>You have cleared the Gold Cup in the Arena.</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="S" pid="000">
+  <name>Conqueror of the Arena</name>
+  <detail>You have cleared the Maid Cup in the Arena.</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="G" pid="000">
+  <name>Conqueror of the Secret Arena</name>
+  <detail>You have cleared the most difficult level in the Secret Arena.</detail>
+ </trophy>
+</trophyconf>

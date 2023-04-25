@@ -1,0 +1,72 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000300dee3b812a0b354aaa5b4be39be062e3bdf2de8ffe408d677b3eaaf989f132ba10b558aa3ec5ead12139b3f5bddc33abfbf7bc67a48d7cfb155f6034867f7b85f960c20f76fcd70611f4a78c39adf8d197ccfe202a28ea642500a05ef5b37608743f64905dfd38d28a0391451caad929258efc32f465e2c5833f09be53ea5a4efb5f65bba57856a81086a63bd123434a349035-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR08936_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Xeodrifter™</title-name>
+ <title-detail>Xeodrifter™</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Submarine Power</name>
+  <detail>Collect Power-up</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Plane Shift Power</name>
+  <detail>Collect Power-up</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Run Power</name>
+  <detail>Collect Power-up</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Rocket Power</name>
+  <detail>Collect Power-up</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Solar Flare Power</name>
+  <detail>Collect Power-up</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Phaze Power</name>
+  <detail>Collect Power-up</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Explorer</name>
+  <detail>Visit 100% of Map</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="-1">
+  <name>Parametric</name>
+  <detail>Collect all Gun Extenders</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="-1">
+  <name>Security Blanket</name>
+  <detail>Collect all Health Extenders</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="-1">
+  <name>Speedrun</name>
+  <detail>Finish the Game in under 1 hour</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="-1">
+  <name>Snoozefest</name>
+  <detail>Beat Final Boss without taking Damage</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="-1">
+  <name>We're Sorry!</name>
+  <detail>Kill an Alien Bat</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="-1">
+  <name>Warp Drive Engage</name>
+  <detail>Finish the Game</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="-1">
+  <name>Breaker</name>
+  <detail>Break the Boss's Shield</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="B" pid="-1">
+  <name>Hacker</name>
+  <detail>Collect health during a Boss Battle</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="-1">
+  <name>Secret Stash</name>
+  <detail>Find Hidden Health</detail>
+ </trophy>
+</trophyconf>

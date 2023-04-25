@@ -1,0 +1,72 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000008337d492d6c5eca4f32fd8d96e2d727495105e8034f2fb52151334c8df7817a7d517e4a07ef8d35a01ed61437423e86d5191406addbc713001bd0204fa92a810b35ceeed91fb0af5632525680061339a575a4a1264b38aafaa471b32ce843a463b9333ca5f0203c3eb4c18d5f65c3ec040a638fe78174cd0908b04c0816cc61b53bce2f223bcb161d3c1e79a86a868800a3f2ed-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR06234_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Cel Damage HD</title-name>
+ <title-detail>All trophies for Cel Damage HD on the PlayStation Vita.</title-detail>
+ <trophy id="000" hidden="no" ttype="G" pid="-1">
+  <name>Toon Star</name>
+  <detail>Win all levels in all modes</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>New Talent</name>
+  <detail>Win any level</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Smacker</name>
+  <detail>Win all levels in Smack Attack mode</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Speedster</name>
+  <detail>Win all levels in Gate Relay mode</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Collector</name>
+  <detail>Win all levels in Flag Rally mode</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Finale</name>
+  <detail>Win 12 different matches with a single character</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Be The Boss</name>
+  <detail>Earn a first place finish in each Desert level in Smack Attack, Gate Relay and Flag Rally modes</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Drifter</name>
+  <detail>Earn double smacks by damaging an opponent in Smack Attack while powersliding with the brake</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Flipping Out</name>
+  <detail>Earn 10 boosts in one match by completing forward flips with the right stick</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>Dodgy</name>
+  <detail>Complete 10 sideways dodges in one match by using the right stick</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>Steamroller</name>
+  <detail>Flatten 3 opponents in one Gate Relay race by dodging into them with the right stick</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="-1">
+  <name>No Favorites</name>
+  <detail>Win Smack Attack while getting points from at least 10 different weapons</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="-1">
+  <name>Purist</name>
+  <detail>Win Smack Attack while using only your character's favorite weapon</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="-1">
+  <name>Nitro</name>
+  <detail>Win Gate Relay having used turbo boost 20 times</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="-1">
+  <name>Hoarder</name>
+  <detail>Win Flag Rally with at least two captures of 3 or more flags at a time</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="-1">
+  <name>Smart Coyote</name>
+  <detail>In Death Valley, drop the 100 tonne weight on an opponent by shooting the nearby target with your Basic Attack</detail>
+ </trophy>
+</trophyconf>

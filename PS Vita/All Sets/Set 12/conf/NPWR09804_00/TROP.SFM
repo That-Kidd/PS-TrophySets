@@ -1,0 +1,140 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000089e2db78e9caa84426acb3d69c44183f4a4d1a9723dc9e98919d57e98b209ee72e713908d2c20bf35e80361becc6c23e75b759b980e098c5adb0dcb9e447f4855f66e83507ffe3873fca88383be4051fd74bd9dc40cad5625b048f17e67aa223ed62da83cebee43250da12595b831c86539237d9aaea675be6d611c2540bff2f0dee5b7ca2969c98a4303d446cda3cb2f3745d01-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR09804_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>アルカナ・ファミリア Ancora</title-name>
+ <title-detail>アルカナ・ファミリアのトロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>アルカナ・ファミリア</name>
+  <detail>全てのトロフィーを獲得した</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>私の道は私が決める</name>
+  <detail>プロローグクリア。アルカナ・ファミリアの一員になった</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>得意の蹴りを入れてみろ！</name>
+  <detail>はじめてデュエロを行った</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>恋人たちのタロッコ</name>
+  <detail>はじめてココアルシステムを行った</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>リ・アマンティ</name>
+  <detail>ココアルシステムを５０回行った</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>迫るアルカナ・デュエロ</name>
+  <detail>ゲーム中の時で初めて５月を迎えた</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>設定は私が決める</name>
+  <detail>はじめてオプションで設定変更した</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>お前は黙ってろ！</name>
+  <detail>誰かの声をOFFに設定した</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>最大のアモーレ！</name>
+  <detail>好感度を最高値にしてEDを迎えた</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>ED1コンプリート</name>
+  <detail>全てのED1を見た</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>ED2コンプリート</name>
+  <detail>全てのED2を見た</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>ED3コンプリート</name>
+  <detail>全てのED3を見た</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>DONNA</name>
+  <detail>ファミリアED「DONNA」を見た</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="000">
+  <name>愚者との恋</name>
+  <detail>リベルタのいずれかのエンドを見た</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="B" pid="000">
+  <name>死神との恋</name>
+  <detail>ノヴァのいずれかのエンドを見た</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>隠者との恋</name>
+  <detail>デビトのいずれかのエンドを見た</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>力との恋</name>
+  <detail>パーチェのいずれかのエンドを見た</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>節制との恋</name>
+  <detail>ルカのいずれかのエンドを見た</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>皇帝との恋</name>
+  <detail>ダンテのいずれかのエンドを見た</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>月との恋</name>
+  <detail>ジョーリィのいずれかのエンドを見た</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>リベルタCGコンプリート</name>
+  <detail>リベルタのCGを全てオープンした</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>ノヴァCGコンプリート</name>
+  <detail>ノヴァのCGを全てオープンした</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>デビトCGコンプリート</name>
+  <detail>デビトのCGを全てオープンした</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>パーチェCGコンプリート</name>
+  <detail>パーチェのCGを全てオープンした</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>ルカCGコンプリート</name>
+  <detail>ルカのCGを全てオープンした</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="S" pid="000">
+  <name>ダンテCGコンプリート</name>
+  <detail>ダンテのCGを全てオープンした</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="S" pid="000">
+  <name>ジョーリィCGコンプリート</name>
+  <detail>ジョーリィのCGを全てオープンした</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="S" pid="000">
+  <name>イベントCG２５％解放</name>
+  <detail>イベントCGを全体の１／４みた</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="S" pid="000">
+  <name>イベントCG５０％解放</name>
+  <detail>イベントCGを全体の２／４みた</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="S" pid="000">
+  <name>イベントCG７５％解放</name>
+  <detail>イベントCGを全体の３／４みた</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="G" pid="000">
+  <name>イベントCGコンプリート</name>
+  <detail>イベントCGを全てオープンした</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="G" pid="000">
+  <name>MUSICコンプリート</name>
+  <detail>MUSICを全てオープンした</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="G" pid="000">
+  <name>ココアルボイスコンプリート</name>
+  <detail>ココアルボイスを全てオープンした</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,152 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000001c0ebcb24aceded5766fea5be2cb802fc6a441227bce6484d4eef97aa8bd3711e7c283c2652fc6b55e37489fccaf7896d0b01a0b315f4ca2d3ce0578260a9058746a38ecb9da168032736c36723261f8e89b5b18de3a719e9546ad29cf72d5fc1340e2ad42b4665c132e9acb4b5b2a48286cfceaa3eeab442e0f1d8d7be3821198fe35aa9e2219d4ec4eb636b350c0b28b9607ef-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR07135_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>この大空に、翼をひろげて CRUISE SIGN</title-name>
+ <title-detail>この大空に、翼をひろげて CRUISE SIGN&#x0a;のトロフィーデータです</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>ころげてマスター</name>
+  <detail>全てのトロフィーを獲得した</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Album解放率25%</name>
+  <detail>Albumを25%以上解放した</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Album解放率50%</name>
+  <detail>Albumを50%以上解放した&#x0a;</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>Album解放率75%</name>
+  <detail>Albumを75%以上解放した</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>Album解放率100%</name>
+  <detail>Albumを全て解放した</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>Music解放率25%</name>
+  <detail>Musicを25%以上解放した</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>Music解放率50%</name>
+  <detail>Musicを50%以上解放した</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>Music解放率75%</name>
+  <detail>Musicを75%以上解放した</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>Music解放率100%</name>
+  <detail>Musicを全て解放した</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>選択肢達成率25%</name>
+  <detail>選択肢を25%以上選んだ</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>選択肢達成率50%</name>
+  <detail>選択肢を50%以上選んだ</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>選択肢達成率75%</name>
+  <detail>選択肢を75%以上選んだ</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>選択肢達成率100%</name>
+  <detail>選択肢を全て選んだ</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>シナリオ読破率25%</name>
+  <detail>シナリオを25%以上読んだ</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>シナリオ読破率50%</name>
+  <detail>シナリオを50%以上読んだ</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>シナリオ読破率75%</name>
+  <detail>シナリオを75%以上読んだ</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="G" pid="000">
+  <name>シナリオ読破率100%</name>
+  <detail>シナリオを全て読んだ</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>ただいま、風ヶ浦</name>
+  <detail>風ヶ浦に帰ってきた</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>俺たちの夢はこれからだ</name>
+  <detail>共通ルート・第一部まで進めた</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>ソアリング部、復活！</name>
+  <detail>共通ルート・第二部まで進めた</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="000">
+  <name>ランウェイ・イズ・クリア！</name>
+  <detail>小鳥ルートをクリアした</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>爆発しやがれ</name>
+  <detail>あげはルートをクリアした</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="B" pid="000">
+  <name>受け継がれた夢</name>
+  <detail>天音ルートをクリアした</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>そうして少女は空を飛ぶ</name>
+  <detail>双子ルート・亜紗をクリアした</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="000">
+  <name>青春、見つけました</name>
+  <detail>双子ルート・依瑠をクリアした</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="S" pid="000">
+  <name>この大空に、翼をひろげて</name>
+  <detail>グッドエンディングを全て見た</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>未来へ向かって</name>
+  <detail>ソアリング部アフターをクリアした</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="B" pid="000">
+  <name>物語は終わらない</name>
+  <detail>ソアリング部ビフォアをクリアした</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="B" pid="000">
+  <name>いい女だろう？</name>
+  <detail>ｉｆ：姫城ほたるの場合をクリアした</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="B" pid="000">
+  <name>広がる世界</name>
+  <detail>ｉｆ：時雨佳奈子の場合をクリアした</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="B" pid="000">
+  <name>夢を託す人</name>
+  <detail>私の翼をクリアした</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="B" pid="000">
+  <name>ちっぽけで贅沢な夏の日</name>
+  <detail>アフターストーリー：風戸姉妹編をクリアした</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="B" pid="000">
+  <name>ノベル読了</name>
+  <detail>ノベル：翼と出逢った日を読み終えた</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="S" pid="000">
+  <name>Flight Diary</name>
+  <detail>Flight Diaryを全て見た</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>俺たちには翼がある</name>
+  <detail>バッドエンディングを見た</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="G" pid="000">
+  <name>CRUISE SIGN</name>
+  <detail>全てのエンディングを見た</detail>
+ </trophy>
+</trophyconf>

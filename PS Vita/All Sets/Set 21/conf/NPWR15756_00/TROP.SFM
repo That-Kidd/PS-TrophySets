@@ -1,0 +1,96 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000000a81e8f2715d9704651815c78f3db0597695b2c212331a32a5c527269558e30e448206dd85a6d7ce98eddeddb8d9d1bbf6593b1d7235bc6a36b83a96b20fdde900cf30c335be931a29c7a22c1e8bdeb877de3a9dfb378dcbe9ee15ffe8d64f2867e5f28b03d438e490ba9024cca089ae20593258116647365acc38a8f8ecbaa52669c213b03135ed6ac496f4a802e12cabd8744d-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR15756_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>金色のコルダ３ フルボイス Special</title-name>
+ <title-detail>「金色のコルダ３ フルボイス Special」のトロフィーパックです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>夏の想い出</name>
+  <detail>すべてのトロフィーを獲得した</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>部内選抜勝利</name>
+  <detail>部内選抜で勝利した</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>地方大会勝利</name>
+  <detail>地方大会で勝利した</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>セミファイナル勝利</name>
+  <detail>全国大会セミファイナルで勝利した</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>ファイナル勝利</name>
+  <detail>全国大会ファイナルで勝利した</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>ノーマルエンドクリア</name>
+  <detail>ノーマルエンディングを見た</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="G" pid="000">
+  <name>響也エンドクリア</name>
+  <detail>響也の２つのエンディングを見た</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="G" pid="000">
+  <name>律エンドクリア</name>
+  <detail>律の２つのエンディングを見た</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="G" pid="000">
+  <name>大地エンドクリア</name>
+  <detail>大地の２つのエンディングを見た</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="G" pid="000">
+  <name>ハルエンドクリア</name>
+  <detail>ハルの２つのエンディングを見た</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>八木沢エンドクリア</name>
+  <detail>八木沢のエンディングを見た</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>火積エンドクリア</name>
+  <detail>火積のエンディングを見た</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="G" pid="000">
+  <name>新エンドクリア</name>
+  <detail>新の２つのエンディングを見た</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="G" pid="000">
+  <name>東金エンドクリア</name>
+  <detail>東金の２つのエンディングを見た</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>土岐エンドクリア</name>
+  <detail>土岐のエンディングを見た</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="S" pid="000">
+  <name>冥加エンドクリア</name>
+  <detail>冥加のエンディングを見た</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="S" pid="000">
+  <name>天宮エンドクリア</name>
+  <detail>天宮のエンディングを見た</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="S" pid="000">
+  <name>七海エンドクリア</name>
+  <detail>七海のエンディングを見た</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="S" pid="000">
+  <name>完全勝利</name>
+  <detail>大会でＳＳＳ評価を獲得した</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="G" pid="000">
+  <name>全国覇者</name>
+  <detail>全ての大会でＳＳＳ評価を獲得した</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="S" pid="000">
+  <name>アルバムコンプリート</name>
+  <detail>アルバムをコンプリートした</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="G" pid="000">
+  <name>イベントコンプリート</name>
+  <detail>イベントをコンプリートした</detail>
+ </trophy>
+</trophyconf>

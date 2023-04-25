@@ -1,0 +1,56 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000008a22313bb651661834893f03b0ffae872e5057cb638a34ab22d51f95ce17b4b659b9f420bfabebb347d263fed792c7a2d38fb1eadf94f8adcab7b9a43ee0807bac7116acbb6e95184c9b05b003df8076d3e0667e4f9a7fd51b8c4c6ebbb5a9e24d1e681e1d9cc6e390c1e5df9d86c1a660dcf57c5f91ea485144c7cab6bfed3ecf3a7b6bdfec1a9a315f2a6279bf3ca5175dee15-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR05470_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>OlliOlli</title-name>
+ <title-detail>OlliOlli</title-detail>
+ <trophy id="000" hidden="no" ttype="G" pid="-1">
+  <name>Totally Radical</name>
+  <detail>Beat all Levels on Rad Mode</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="-1">
+  <name>Professionalism</name>
+  <detail>Unlock all Pro Challenges</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="-1">
+  <name>Hit the Spot</name>
+  <detail>Get a Score of 2M on a Spot</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="-1">
+  <name>So Many Points</name>
+  <detail>Land a 2M Point Combo in Career</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Half Way There</name>
+  <detail>Unlock all Amateur Challenges</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Technical Master</name>
+  <detail>Land 1 of every Trick</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Explorer</name>
+  <detail>Find the 5 Hidden Golden Skateboards</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Land Lover  </name>
+  <detail>Achieve a total of 1000 Perfect Landings  &#x0a;</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Locked On </name>
+  <detail>Achieve a total of 1000 Perfect Grinds </detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>Make your Mark </name>
+  <detail>Set a Score on 25 different Spots </detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>Combododragon</name>
+  <detail>Land a Combo of x25 or more</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="-1">
+  <name>Dizzy </name>
+  <detail>Land a 540° Spin</detail>
+ </trophy>
+</trophyconf>

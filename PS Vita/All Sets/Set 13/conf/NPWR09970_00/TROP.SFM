@@ -1,0 +1,96 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000007b9e5282c5f56a504146d218e4583d7f25d9d8644700d53ed0fd0fb64698d460a2d3e56378844168803e025e75e1024913eb90bb01102901f06839885fc2ca714967ad8c171d02315b482be4863854b5753a606b0a21ec20dc469956d2e76e1e37cc0b2f86f43c3fbce5e00579dacd5ebbd398c0fd1e198a78768c3edef72d9bc581fad24329a87ea58ade7ef1fefac84273a1e5-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR09970_00</npcommid>
+ <trophyset-version>01.02</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Funk of Titans</title-name>
+ <title-detail>Trofeos de Funk of Titans</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Funkealo Todo</name>
+  <detail>Consigue todos los trofeos</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>No más pop</name>
+  <detail>Completa todos los niveles del mundo del pop.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>No más rap</name>
+  <detail>Completa todos los niveles del mundo del rap.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>No más rock</name>
+  <detail>Completa todos los niveles del mundo del rock.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>Más funk que pop</name>
+  <detail>Intenta lograr 3 medallas de oro en todos los niveles del mundo del pop</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>Más funk que rap</name>
+  <detail>Intenta lograr 3 medallas de oro en todos los niveles del mundo del rap</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>Más funk que rock</name>
+  <detail>Intenta lograr 3 medallas de oro en todos los niveles del mundo del rock.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>Nace una leyenda</name>
+  <detail>Intenta completar 5 misiones heroicas de Zeus.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>Fiable</name>
+  <detail>Intenta completar 10 misiones heroicas de Zeus.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>Amante del riesgo</name>
+  <detail>Intenta completar 20 misiones heroicas de Zeus.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>Funk, James Funk</name>
+  <detail>Intenta completar 30 misiones heroicas de Zeus</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>Semidiós</name>
+  <detail>Completa todas las misiones heroicas de Zeus y alcanza tu máximo potencial.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>Comprador casual</name>
+  <detail>Compra 5 objetos en la tienda.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>Lista de regalos</name>
+  <detail>Compra 10 objetos en la tienda.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="000">
+  <name>El coleccionista</name>
+  <detail>Compra 25 objetos en la tienda.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>Vuela conmigo, baby</name>
+  <detail>Busca ídolos de Pegaso  y vuela con él por 15 niveles de bonificación.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>Piloto consagrado</name>
+  <detail>Busca ídolos de Pegaso y vuela con él por 30 niveles de bonificación.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="G" pid="000">
+  <name>Comandante aéreo estiloso</name>
+  <detail>Busca ídolos de Pegaso y vuela con él por 50 niveles de bonificación.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>¡Muerte al Grunt!</name>
+  <detail>Vence a un Grunt en el Coliseo.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="G" pid="000">
+  <name>Cazador de Grunts</name>
+  <detail>Vence a los Grunts de cada mundo sin un solo fallo durante el combate.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>Pies ágiles</name>
+  <detail>Vence al primer titán y conviértete en un héroe.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="G" pid="000">
+  <name>Funk Travolta</name>
+  <detail>Vence a todos los titanes sin fallos durante tus pasos de baile.</detail>
+ </trophy>
+</trophyconf>

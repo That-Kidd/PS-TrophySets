@@ -1,0 +1,104 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000002a2629d0e7b6e2260674b955f53a43d19e76c0e0a777f53c93ae5515b6902a9b9741aae6430ad3801ef82761ca0a617b0df2c72368afc68f478fda5af5f7121526bc3d50a7ff78d44ab707c5580678c305d81dd326529beeebf0d5c427c19f08928a62960525616f58164964f17c996adfc88fe03f637d1ef13f153567998a65be89587794d7b71c60410ed2f6bc61d493d95d22-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR16095_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Devious Dungeon</title-name>
+ <title-detail>Devious Dungeon</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Platinum Hero</name>
+  <detail>Get all trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Quest Has Begun</name>
+  <detail>Completed the training level.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>Level Up!</name>
+  <detail>Leveled up for the ﬁrst time!</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>Knowledge Is Power!</name>
+  <detail>Read your ﬁrst tome.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>I'm Not Lost!</name>
+  <detail>Checked the map screen.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>Key Master</name>
+  <detail>Collect 100 keys.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>Sick Reﬂexes</name>
+  <detail>Destroy an arrow in mid-air.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>Crate Smasher!</name>
+  <detail>Destroy 500 crates.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>Slayer!</name>
+  <detail>Kill more than 500 enemies.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>Determined!</name>
+  <detail>Resurrect more than 25 times.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>Battle Tested</name>
+  <detail>Play over 100 levels!</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>Sharpened Blade</name>
+  <detail>Bought a new weapon.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>Armored!</name>
+  <detail>Bought some armor.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>Magic Brew</name>
+  <detail>Bought a potion.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>Til Death Do Us Part</name>
+  <detail>Bought a ring.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>King of Bling</name>
+  <detail>Bought an amulet.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>Blessed</name>
+  <detail>Receive a blessing from the Priest.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="G" pid="000">
+  <name>Shop-a-holic</name>
+  <detail>Spend more than 1500 coins.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>Horde No More</name>
+  <detail>Defeat the Orc Chief Boss.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="000">
+  <name>Eye of the Beholder</name>
+  <detail>Defeat the Ancient Beholder Boss.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>Slaughtered</name>
+  <detail>Defeat the Butcher Boss.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>Pebbled</name>
+  <detail>Defeat the Stone Golem Boss.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="G" pid="000">
+  <name>Fus-Ro-Dragonslayer</name>
+  <detail>Defeat the Dragon Boss.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="G" pid="000">
+  <name>Legendary Hero</name>
+  <detail>Complete the game!</detail>
+ </trophy>
+</trophyconf>

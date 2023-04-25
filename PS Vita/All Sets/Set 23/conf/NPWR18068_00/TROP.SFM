@@ -1,0 +1,128 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000f9e8695711a7af40c05f3515ea577ee556bad03008072023c9e61325d3ccb7f09a3d26c3ae4b672e6e1fcd68c60e21ecf32f9b70fb7f179afe4f03d9e202d1671a75f38271f1a92ec701943c7605ed2fd4d326c0662bda3cf3453c940043fad21ee21af68dcf9db9377a4d5de2e9566f22078274a8351bb7cc1fd91bec56f0d5db7eaca1e51c81080cd21d15a202f101703ce171-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR18068_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Fill-a-Pix: Phil's Epic Adventure</title-name>
+ <title-detail>The trophy set of Fill-a-Pix: Phil's Epic Adventure</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Globetrotter</name>
+  <detail>Collect all the trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Venture Forth!</name>
+  <detail>Complete the tutorial</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Japan Tourist</name>
+  <detail>Reveal any photo of Japan</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>Japan Sightseer</name>
+  <detail>Complete the album page for Japan</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>France Tourist</name>
+  <detail>Reveal any photo of France</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>France Sightseer</name>
+  <detail>Complete the album page for France</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>Russia Tourist</name>
+  <detail>Reveal any photo of Russia</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>Russia Sightseer</name>
+  <detail>Complete the album page for Russia</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>Italy Tourist</name>
+  <detail>Reveal any photo of Italy</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>Italy Sightseer</name>
+  <detail>Complete the album page for Italy</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>Australia Tourist</name>
+  <detail>Reveal any photo of Australia</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>Australia Sightseer</name>
+  <detail>Complete the album page for Australia</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>Las Vegas Tourist</name>
+  <detail>Reveal any photo of Las Vegas</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>Las Vegas Sightseer</name>
+  <detail>Complete the album page for Las Vegas</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>Mexico Tourist</name>
+  <detail>Reveal any photo of Mexico</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>Mexico Sightseer</name>
+  <detail>Complete the album page for Mexico</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>African Safari Tourist</name>
+  <detail>Reveal any photo of Africa</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>African Safari Sightseer</name>
+  <detail>Complete the album page for Africa</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>Egypt Tourist</name>
+  <detail>Reveal any photo of Egypt</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="000">
+  <name>Egypt Sightseer</name>
+  <detail>Complete the album page for Egypt</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>England Tourist</name>
+  <detail>Reveal any photo of England</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>England Sightseer</name>
+  <detail>Complete the album page for England</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>Comfort Stop</name>
+  <detail>Resume a partially completed puzzle</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>Retrace Your Steps</name>
+  <detail>Restart any puzzle</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>Phrase Book</name>
+  <detail>Read the tutorial in every in-game language</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="G" pid="000">
+  <name>Black and White</name>
+  <detail>Solve a puzzle without seeing any red</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="G" pid="000">
+  <name>Fast Exposure</name>
+  <detail>Solve a puzzle in under 5 minutes using only the Smart Cursor</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="G" pid="000">
+  <name>The Scenic Route</name>
+  <detail>Solve a puzzle without using the Smart Cursor once</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="G" pid="000">
+  <name>Just Follow Your Nose</name>
+  <detail>Solve a puzzle without using Show Next Move</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="G" pid="000">
+  <name>The Beaten Path</name>
+  <detail>Reveal 1000 different moves using Show Next Move</detail>
+ </trophy>
+</trophyconf>

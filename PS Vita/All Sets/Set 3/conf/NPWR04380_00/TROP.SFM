@@ -1,0 +1,124 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000231f5837e4835face887de9be07f0e11062dbb776f572cb867106bd97c893e04b785de5038394a84cbcc6f5ff2f4f6f7d1b9dc989e8013fa4f783e92a8c1123388f7b8fb1ba8c0b4d7807f02dff3fcbcdaa2b9c29c39aa3927cde9e91e5a8e55b20ab97883c35a2f0560153151cab812de17dd530836c683977da540014804d4b093e96a46f9af454dcab39abd4b1b71c3662024-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR04380_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Atelier Totori&#x0a;The Adventurer of Arland</title-name>
+ <title-detail>Atelier Totori Trophy Pack</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>First-Rate Adventurer</name>
+  <detail>Obtained all trophies.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>A Day in the Life</name>
+  <detail>Watch the opening event.</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>Monstrous Power</name>
+  <detail>View Melvia's introduction.</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>Like the Flash</name>
+  <detail>Get rescued on your way to Arland.</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>Shouting Match</name>
+  <detail>Witness Cordelia and some other girl arguing.</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>Catch of the Day</name>
+  <detail>Haul in a "fishy fishy" from Alanya.</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>Cuteness Swarm!</name>
+  <detail>See the event detailing Chim's birth.</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="G" pid="000">
+  <name>Tragic Discovery</name>
+  <detail>Learn the final whereabouts of Totori's mother.</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>Haunted Doll?</name>
+  <detail>Learn the truth about Pamela.</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>Unlikely Party</name>
+  <detail>Reminisce with Rorona and her friends at Iksel's restaurant.</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>Legendary Drunkard</name>
+  <detail>Went with Tiffani and Filly to have a drink.</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="G" pid="000">
+  <name>Fishing Festival</name>
+  <detail>Hold the swimsuit contest.</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>Still a Child</name>
+  <detail>View the event where Ceci embraces Totori.</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>Chivalrous Defender</name>
+  <detail>View the event where Gino learns his strongest skill.</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>Ambushed</name>
+  <detail>View the event where Melvia and Ceci are cornered.</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="S" pid="000">
+  <name>Aristocratic Love</name>
+  <detail>View the event where Mimi tries to cheer Totori up.</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="S" pid="000">
+  <name>Arise, McVellion!</name>
+  <detail>View the event where McVellion activates.</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="S" pid="000">
+  <name>Legendary "Fish"</name>
+  <detail>Learned the true nature of the "Guardian."</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>Normal Ending</name>
+  <detail>View the Normal Ending.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Bad Ending</name>
+  <detail>View the Bad Ending.</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="S" pid="000">
+  <name>Two Masters</name>
+  <detail>See Gino's Ending.</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="S" pid="000">
+  <name>Promises</name>
+  <detail>See Melvia's Ending.</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="S" pid="000">
+  <name>Adventurer BFFs</name>
+  <detail>See Mimi's Ending.</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="S" pid="000">
+  <name>A New Journey</name>
+  <detail>See Marc's Ending.</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="S" pid="000">
+  <name>Who's the Teacher?</name>
+  <detail>See Rorona's Ending.</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="S" pid="000">
+  <name>Indecisive Knight</name>
+  <detail>See Sterk's Ending.</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="S" pid="000">
+  <name>The Hardest Workers</name>
+  <detail>See Chim's Ending.</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="G" pid="000">
+  <name>Alchemy Restaurant</name>
+  <detail>With limitless funding, Totori opens a restaurant.</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="G" pid="000">
+  <name>True Ending</name>
+  <detail>View the True Ending.</detail>
+ </trophy>
+</trophyconf>

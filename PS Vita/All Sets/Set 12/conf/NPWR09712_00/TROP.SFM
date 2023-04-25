@@ -1,0 +1,52 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000042d816398224cdab11cded535afe14a4ff528179a3f5ba04c8db4d12e10a5e6fe8a25570e562ba609abf05f0e5c5a85caad94280b03783004a3b2a3d2c78f6690d2bed9458e2c1deade4e3f9aea22eab7e3dcbb1cc32afe1f1ba8dede0cf1354c7046f9eb8eb404cc8cf9f1e0c4e111f5064b02b221d0406b8df53f03a4979dfce28e09a2468a4c8864dc6dfb2dc558e0fc733ca-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="small">
+ <npcommid>NPWR09712_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Dreii</title-name>
+ <title-detail>Dreii</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Beginner</name>
+  <detail>Finish Level 1</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="-1">
+  <name>Fluent</name>
+  <detail>Unlock all chat messages</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="-1">
+  <name>Genius</name>
+  <detail>Finish the last Level</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="-1">
+  <name>Grand Master Dreii</name>
+  <detail>Finish all Levels</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="-1">
+  <name>Team Player</name>
+  <detail>Two Player</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="-1">
+  <name>Social Animal</name>
+  <detail>Three Player</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Hello World</name>
+  <detail>Finish Zone 1</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Explorer</name>
+  <detail>Finish Zone 2</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Diver</name>
+  <detail>Finish Zone 3</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>Master Mind</name>
+  <detail>Finish Zone 4</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>Astronaut</name>
+  <detail>Finish Zone 5</detail>
+ </trophy>
+</trophyconf>

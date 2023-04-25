@@ -1,0 +1,60 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000000e2d3bea362ad0db54f7ffa2fe7feb8207c40be49c5d000e23e6c2dcdac6e051002e7ab7f160f30d3615e205996dc9d98fe3190b2d81cbfaf0fcc49a6ef0a3bc6785ddcb8716fea96096319da3156fc51b67eb4a9038aa52d8d2866acb8c53d283fc9d3f0e2c66c90028c0d37da20b5001e7b0cfc29ed356fce36acebf78a9dc8461377edd8e9ec4143cf57b987de97864db7a1b-->
+<trophyconf version="1.1" platform="ps3,psp2,ps4" policy="freemium">
+ <npcommid>NPWR06502_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Invokers Tournament™</title-name>
+ <title-detail>Invokers Tournament™</title-detail>
+ <trophy id="000" hidden="no" ttype="G" pid="-1">
+  <name>Champion</name>
+  <detail>Place yourself amongst the top 100 in a Season.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="-1">
+  <name>1st Division</name>
+  <detail>Rise to 1st Division in a Season. (SOLO game)&#x0a;</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="-1">
+  <name>The Collector</name>
+  <detail>Fully equip your character with level 60 items.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="-1">
+  <name>Path Master</name>
+  <detail>Finish all the missions of Anundabar three times.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Wanderer</name>
+  <detail>Finish all the missions of Anundabar.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>They Call Me Death</name>
+  <detail>Defeat 30 enemies during an online challenge.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Weapon Master</name>
+  <detail>Equip a level 40 or higher weapon.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Rarity</name>
+  <detail>Equip a rare item (Gold).</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Dressed to Impress</name>
+  <detail>Equip all the parts of a level 5 or higher armor set.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>Lemme at 'em!</name>
+  <detail>Defeat all the members of an enemy team during an online battle.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>2nd Division</name>
+  <detail>Rise to 2nd Division in a Season. (SOLO game)</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="-1">
+  <name>3rd Division</name>
+  <detail>Rise to 3rd Division in a Season. (SOLO game)</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="-1">
+  <name>4th Division</name>
+  <detail>Rise to 4th Division in a Season. (SOLO game)</detail>
+ </trophy>
+</trophyconf>

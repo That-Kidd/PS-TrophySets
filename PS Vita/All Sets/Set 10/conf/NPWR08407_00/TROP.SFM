@@ -1,0 +1,48 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000dcbdbdd0eb53d06c78c7191e61c386c000c8c704c2a97b6676c6decc63bec0309dd6ecee1d15c4e266fe1216d257db78928feb552943524698f4e5ff779bbb25dbc1374b64b2fd3ffa69abd3cac91ff315ee988727ed05d0933021ced713e36ba6a3073bbc804a8fbb7472bff2dfcdb4b8bccb7e0d84db1375524a7e240f60e39738030f653c36738b057ba7af0d9facd41ba3fd-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR08407_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Cosmophony</title-name>
+ <title-detail>Trophies that can be unlocked by playing Cosmophony</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>"Ping bounce" master</name>
+  <detail>Complete level 1</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>"Acid attack" master</name>
+  <detail>Complete level 2</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>"Firefunk" master</name>
+  <detail>Complete level 3</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="-1">
+  <name>"Ignite" master</name>
+  <detail>Complete level 4</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="-1">
+  <name>"Universe collapse" master</name>
+  <detail>Complete level 5</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>"Ping bounce" god</name>
+  <detail>Complete level 1 with all stars</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>"Acid attack" god</name>
+  <detail>Complete level 2 with all stars</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>"Firefunk" god</name>
+  <detail>Complete level 3 with all stars</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>"Ignite" god</name>
+  <detail>Complete level 4 with all stars</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="-1">
+  <name>"Universe collapse" god</name>
+  <detail>Complete level 5 with all stars</detail>
+ </trophy>
+</trophyconf>

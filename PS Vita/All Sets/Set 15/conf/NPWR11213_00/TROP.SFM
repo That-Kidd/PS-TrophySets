@@ -1,0 +1,92 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000007ec447b6cada009e9e2fb5dc5a172680bec436c472fb1bc39c7c694013c0307dcb1145d9a2e717aa0b768da7d480a4d1fdbd065b11373778cf42dd02105043319c4fa553a3ad7eea22e7d3072ccb85ed5c48412a36d186e88d70f0dc6ac620be824220b1772fa0cdd3b321f8afc2fa33a53203c78fee43661680e57f39edfed0ff43f81962a32c639d5a4b98470d5df99796eab2-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR11213_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Volgarr the Viking</title-name>
+ <title-detail>Trophy Set for Volgarr the Viking</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Volgarr the Viking</name>
+  <detail>Aquire all trophies and become a true Viking Legend!</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>By the Power of Gray-Skill...</name>
+  <detail>Wield the fire sword</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Thor's Blessing</name>
+  <detail>Unlock Mjolnir's power</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>I Will Have My Vengeance!</name>
+  <detail>Defeat the Lizardmen King</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>Sock It to Me Nakatomi</name>
+  <detail>Break the Magic Seal on Fafnir's Tower</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>If It Bleeds, You Can Kill It</name>
+  <detail>Complete the game and earn Ending C</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>On the Wings of Glory</name>
+  <detail>Complete the game and earn Ending B</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>Red Means Dead</name>
+  <detail>Complete the game and earn Ending A</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>Shield Gots My Back</name>
+  <detail>Block an attack with the shield while on a rope/chain</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>Let Off Some Steam, Bennett</name>
+  <detail>Kill 4 enemies with a single charged spear attack</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>On the Highway to Hel</name>
+  <detail>Hitch a ride on a spear attached to an enemy shield</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>Nothing Can Stop Me</name>
+  <detail>Block a projectile with the shield while in the air</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>You've Got the Touch, You've Got the Powah!</name>
+  <detail>Obtain a Warrior Spirit</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>Wealthier than the King of Sweden</name>
+  <detail>Collect a golden walrus statue</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>What the Hel is "Nar-Nee-Yah"</name>
+  <detail>Reach the alternate path for any world</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="G" pid="000">
+  <name>Volgarr...You're Sooo Smooth</name>
+  <detail>Find a Key Stone</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="G" pid="000">
+  <name>That Was...Unexpected</name>
+  <detail>Kill Fafnir before he reaches his Dragon form</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="S" pid="000">
+  <name>Don't Nidhoggr All the Ale</name>
+  <detail>Reach Yggdrasil's roots</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="G" pid="000">
+  <name>Viking Nipples of Steel</name>
+  <detail>Complete any world without ever losing any equipment</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="G" pid="000">
+  <name>4-Minute Abs</name>
+  <detail>Complete any world in 4 minutes or less</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="G" pid="000">
+  <name>Viking Legend</name>
+  <detail>Complete the game with 10 or less retries (deaths)</detail>
+ </trophy>
+</trophyconf>

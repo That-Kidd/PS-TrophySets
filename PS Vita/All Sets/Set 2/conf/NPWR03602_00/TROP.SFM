@@ -1,0 +1,196 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000cea6c3347fca83cadf21094c17b02e591d73487f3ae2c7a94f59478e6b4041af8c687af7aceb54a5f5df4c450a8b30add1600574f5c4c968666195d5f5cd42339fd4eebd1a22cfcdf618f135abca5cfebbf7051486c7994a0c691672ae8e8537ecfb4c8bb1d38486097245d13558f641410dd3eb2420e4ce7cd35d702c1230a142c5c024799cbe9b9e628277bc91024e6af418c3-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR03602_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Need for Speed™ Most Wanted</title-name>
+ <title-detail>Trofeos Most Wanted</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Nadie es más buscado</name>
+  <detail>Se otorga al conseguir con éxito todos los trofeos Most Wanted.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>Coches Most Wanted</name>
+  <detail>Consigue todos los coches Most Wanted (Un jugador).</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Destrózalos todos</name>
+  <detail>Destroza todos los carteles.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Toc, toc</name>
+  <detail>Atraviesa todas las puertas de seguridad.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>Amante infiel</name>
+  <detail>Conduce todos los coches.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>Red de intercambio</name>
+  <detail>Encuentra todos los puntos de cambio.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>¡Pa-ta-ta!</name>
+  <detail>Haz saltar todos los radares.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>Pro o nada</name>
+  <detail>Desbloquea todas las modificaciones Pro de un coche (Un jugador).</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>Ansia de nitro</name>
+  <detail>Vacía una barra entera de nitro sin colisionar con nada.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>Chapa y pintura</name>
+  <detail>Usa un taller de carrocería para pintar o reparar tu coche por primera vez.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>Cambiazo</name>
+  <detail>Usa un punto de cambio durante una persecución (Un jugador).</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>Porque puedes</name>
+  <detail>Usa un cartel y un punto de cambio para huir de una persecución con éxito (Un jugador).</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>Sin presión</name>
+  <detail>Escapa con éxito de todos los niveles de presión policial.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>Presentado en sociedad</name>
+  <detail>Consigue 5 o más Amigos de NFS.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>¿Te caigo bien ahora?</name>
+  <detail>Supera una recomendación de Autolog de un Amigo.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>Escalando puestos</name>
+  <detail>Asciende en la lista Most Wanted por primera vez.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Nada personal</name>
+  <detail>Derriba a un Amigo (Multijugador).</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Mercado paralelo</name>
+  <detail>Desbloquea una modificación para un coche (Multijugador).</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>Licencia para fardar</name>
+  <detail>Personaliza tu matrícula y número (Multijugador).</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Amo de la lista</name>
+  <detail>Juega una SpeedList personalizada creada por ti (Multijugador).</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>El capo</name>
+  <detail>Desbloquea 3 modificaciones Pro (Multijugador).</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="G" pid="000">
+  <name>No hay plata que valga</name>
+  <detail>Termina en primer puesto en todas las carreras con todos los coches (Un jugador).</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>Cojeando</name>
+  <detail>Escapa de la policía con al menos un neumático pinchado.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>En tu cara</name>
+  <detail>Destroza un cartel con la cara de un Amigo y supera su distancia de salto.</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>Parada en boxes</name>
+  <detail>Cambia un neumático pinchado en un taller de carrocería.</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>Macho alfa</name>
+  <detail>Elimina al coche Most Wanted número 10: Alfa Romeo 4C Concept (Un jugador).</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>Encantador de serpientes</name>
+  <detail>Elimina al coche Most Wanted número 9: Shelby COBRA 427® (Un jugador).</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>Apagón</name>
+  <detail>Elimina al coche Most Wanted número 8: Mercedes-Benz SL 65 AMG (Un jugador).</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>Ranger de Lexus</name>
+  <detail>Elimina al coche Most Wanted número 7: Lexus LFA (Un jugador).</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>Obús</name>
+  <detail>Elimina al coche Most Wanted número 6: McLaren MP4-12C (Un jugador).</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>Aracnofóbico</name>
+  <detail>Elimina al coche Most Wanted número 5: Porsche 918 Spyder Concept (Un jugador).</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>Domando al toro</name>
+  <detail>Elimina al coche Most Wanted número 4: Lamborghini Aventador (Un jugador).</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>Oro blanco</name>
+  <detail>Elimina al coche Most Wanted número 3: Bugatti Veyron Super Sport (Un jugador).</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>Viento poderoso</name>
+  <detail>Elimina al coche Most Wanted número 2: Pagani Huayra (Un jugador).</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="S" pid="000">
+  <name>No parpadees</name>
+  <detail>Elimina al coche Most Wanted número 1: Koenigsegg Agera R (Un jugador).</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>¡Te tengo!</name>
+  <detail>Sé arrestado por primera vez.</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>Primer ataque</name>
+  <detail>Derriba tu primer coche de policía.</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="S" pid="000">
+  <name>Buscando problemas</name>
+  <detail>Derriba 50 coches de policía.</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>Por los pelos</name>
+  <detail>Atraviesa un control sin impactar contra él.</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="000">
+  <name>Ariete</name>
+  <detail>Impacta contra un control sin estrellarte.</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="B" pid="000">
+  <name>Con D de derrape</name>
+  <detail>Completa un derrape de 250 yardas (228,6 metros).</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="S" pid="000">
+  <name>Bola de demolición</name>
+  <detail>Destroza 10 coches de policía con un Ford F-150 SVT Raptor en una única persecución.</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="S" pid="000">
+  <name>La bestia del este</name>
+  <detail>Escapa de la policía en el Marussia B2.</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="B" pid="000">
+  <name>Pies de plomo</name>
+  <detail>Pisa 5 bandas de clavos con los neumáticos hinchables equipados.</detail>
+ </trophy>
+ <trophy id="044" hidden="no" ttype="S" pid="000">
+  <name>Gladiador</name>
+  <detail>Derriba a todos los pilotos de una carrera al menos una vez.</detail>
+ </trophy>
+ <trophy id="045" hidden="no" ttype="B" pid="000">
+  <name>Velocidad de escape</name>
+  <detail>Salta más de 200 yardas (182,88 metros) a través de un cartel. </detail>
+ </trophy>
+ <trophy id="046" hidden="no" ttype="B" pid="000">
+  <name>Más rápido que el ojo humano</name>
+  <detail>Haz saltar un radar a más de 200 mph (321,97 km/h). </detail>
+ </trophy>
+</trophyconf>

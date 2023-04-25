@@ -1,0 +1,60 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000a927e1653203dd873bcae0c83cbaa00406b2e59aae6df05cfb4c96a5fe6109b47d201c80a78f51842d2f4d3a6fb9f64cfc6f8a189c047d8041adbc889b45fd4799453bfb1cba2762f466e4c645aa17e55f053caa659d67c8c4b3cc91b341ce325e909e9d40e8681d23a5a88ddce2e781c86d315e1999303a0358eb1c052c22357cbf5d1d419485531b46f421638eba8c46e64d6e-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR05651_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Backgammon</title-name>
+ <title-detail>Backgammon</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Gammon</name>
+  <detail>Win by a Gammon</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Seeing Double</name>
+  <detail>Roll a double of each number</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Pinched my Nip</name>
+  <detail>Take an opponent's nip</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Blockade</name>
+  <detail>Block all 6 of the home board points</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Like the Olden Days</name>
+  <detail>Play 5 local multiplayer games</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Learning the Ropes</name>
+  <detail>Complete all tutorials</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Up the Ante</name>
+  <detail>Re-Double the stakes of a game</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Underdog</name>
+  <detail>Win an online game against a player with a higher rank</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>No Respite</name>
+  <detail>Use 3 different Power-Ups in a single game</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="-1">
+  <name>Full House</name>
+  <detail>Use every Power-Up at least once</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="-1">
+  <name>Triple Winner</name>
+  <detail>Win 3 online games in a row</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="-1">
+  <name>Backgammon</name>
+  <detail>Win by a Backgammon</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="-1">
+  <name>Mixing It Up</name>
+  <detail>Win a game on all 4 Backgammon sets</detail>
+ </trophy>
+</trophyconf>

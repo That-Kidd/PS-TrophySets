@@ -1,0 +1,172 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000be76360bd0052e7f87a68c18091008bee4e7a22833ec8a55935a6d1b5768445986d498994f685402ef313d0b22ed7fcbc37651ad70fc22526bdc5f9b0427f55ca8b464eac463663b3cf6980172551962f33b0fba20c2e48d823e86f67c59a0af55b2bf7e5e41911912a36ef2e6a84ab55bc4dd5d149b7c2b816a59b805ce89df947451c529223e85fbe7b30e19e2712bd238c8e6-->
+<trophyconf version="1.1" platform="psp2" policy="freemium">
+ <npcommid>NPWR05891_00</npcommid>
+ <trophyset-version>01.03</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>シェルノサージュ～失われた星へ捧ぐ詩～トロフィーデータ２ </title-name>
+ <title-detail>シェルノサージュ～失われた星へ捧ぐ詩～のセカイパックvol.9　皇帝編第一幕以降のトロフィーです。</title-detail>
+ <group id="001">
+  <name>セカイパックvol.9　皇帝編第一幕</name>
+  <detail>シェルノサージュ～失われた星へ捧ぐ詩～のセカイパックvol.9　皇帝編第一幕のトロフィーです。</detail>
+ </group>
+ <group id="002">
+  <name>コスチューム＆アクセサリー　スポーツウェア</name>
+  <detail>ダウンロードコンテンツ『コスチューム＆アクセサリー　スポーツウェア』のトロフィーです。</detail>
+ </group>
+ <group id="003">
+  <name>セカイパックvol.10　皇帝編第二幕</name>
+  <detail>シェルノサージュ～失われた星へ捧ぐ詩～のセカイパックvol.10　皇帝編第二幕のトロフィーです。</detail>
+ </group>
+ <group id="004">
+  <name>コスチューム＆アクセサリー　ハピネスウェット</name>
+  <detail>ダウンロードコンテンツ『コスチューム＆アクセサリー　ハピネスウェット』のトロフィーです。</detail>
+ </group>
+ <group id="005">
+  <name>セカイパックvol.11　皇帝編第三幕</name>
+  <detail>シェルノサージュ～失われた星へ捧ぐ詩～のセカイパックvol.11　皇帝編第三幕のトロフィーです。</detail>
+ </group>
+ <group id="006">
+  <name>コスチューム＆アクセサリー　読書日和</name>
+  <detail>ダウンロードコンテンツ『コスチューム＆アクセサリー　読書日和』のトロフィーです。</detail>
+ </group>
+ <group id="007">
+  <name>セカイパックvol.12　皇帝編最終幕</name>
+  <detail>シェルノサージュ～失われた星へ捧ぐ詩～のセカイパックvol.12　皇帝編最終幕のトロフィーです。</detail>
+ </group>
+ <group id="008">
+  <name>コスチューム＆アクセサリー　ネイ＆キャスパック</name>
+  <detail>ダウンロードコンテンツ『コスチューム＆アクセサリー　ネイ＆キャスパック』のトロフィーです。</detail>
+ </group>
+ <group id="009">
+  <name>コスチューム＆アクセサリー　カノン＆ねりこパック</name>
+  <detail>ダウンロードコンテンツ『コスチューム＆アクセサリー　カノン＆ねりこパック』のトロフィーです。</detail>
+ </group>
+ <trophy id="000" hidden="yes" ttype="B" pid="-1" gid="001">
+  <name>間違ったおしゃれ？</name>
+  <detail>オサレカタログを差し出してデートに行った。</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="-1" gid="001">
+  <name>ただそこにあるだけで</name>
+  <detail>温泉ひよこを差し出してデートに行った。</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="-1" gid="001">
+  <name>テーマパークコロン</name>
+  <detail>ぱれす・にゅろきーるのことを思い出した。</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="-1" gid="001">
+  <name>未来予知</name>
+  <detail>ねりこと俯瞰視点について話した。</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="-1" gid="001">
+  <name>過去の戒め</name>
+  <detail>イオンの後悔についてねりこと話した。</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="S" pid="-1" gid="001">
+  <name>異次元への扉</name>
+  <detail>ねりこと端末について話した。</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="G" pid="-1" gid="001">
+  <name>ぱれす・にゅろきーる</name>
+  <detail>第九の扉の全ての記憶をのぞいた。</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="-1" gid="002">
+  <name>シンプル　イズ　ベスト</name>
+  <detail>運動着？をもらった。</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="-1" gid="003">
+  <name>誓いの指輪</name>
+  <detail>指輪？のレシピをイオンが思いついた。</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="-1" gid="003">
+  <name>新たな一歩</name>
+  <detail>ウエディングリングを差し出してデートに行った。</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="-1" gid="003">
+  <name>隠された移民船</name>
+  <detail>航宙移民船ソレイルのことを思い出した。</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="-1" gid="003">
+  <name>過去と現在</name>
+  <detail>ねりことリーヴェルトやシャールについて話した。</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="B" pid="-1" gid="003">
+  <name>想いと絆</name>
+  <detail>ねりこと一心同体について話した。</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="-1" gid="003">
+  <name>危険信号</name>
+  <detail>ねりことセカイの歪みについて話した。</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="G" pid="-1" gid="003">
+  <name>航宙移民船ソレイル</name>
+  <detail>第十の扉の全ての記憶をのぞいた。</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="S" pid="-1" gid="004">
+  <name>お気軽ファッション</name>
+  <detail>カジュアル服？をもらった。</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="-1" gid="005">
+  <name>異世界の物語</name>
+  <detail>添い寝のときのお話をすべて一回以上聞いた。</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="-1" gid="005">
+  <name>イオンのそばに</name>
+  <detail>イオンに想いを伝えて端末を移動してもらった。</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="-1" gid="005">
+  <name>星を統べる者</name>
+  <detail>宮城のことを思い出した。</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="-1" gid="005">
+  <name>残酷な結末</name>
+  <detail>夢セカイでカノンたちの結末を思い出した。</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="-1" gid="005">
+  <name>魂の再生</name>
+  <detail>ねりことカノンやコーザルの生死について話した。</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="S" pid="-1" gid="005">
+  <name>セカイパック</name>
+  <detail>ねりことセカイパックについて話した。</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="G" pid="-1" gid="005">
+  <name>宮城</name>
+  <detail>第十一の扉の全ての記憶をのぞいた。</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="S" pid="-1" gid="006">
+  <name>本を読もう</name>
+  <detail>司書服？をもらった。</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="-1" gid="007">
+  <name>世界の終焉</name>
+  <detail>謳う丘のことを思い出した。</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="B" pid="-1" gid="007">
+  <name>皇帝契絆支</name>
+  <detail>皇帝契絆支叙勲の儀の記憶を思い出した。</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="-1" gid="007">
+  <name>感謝と別れ</name>
+  <detail>最後にラシェーラを回ったときの記憶を思い出した。</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="B" pid="-1" gid="007">
+  <name>途切れた記憶</name>
+  <detail>ねりこと途切れた夢セカイについて話した。</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="B" pid="-1" gid="007">
+  <name>新世代真空管</name>
+  <detail>特別な真空管？のレシピを思いついた。</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="G" pid="-1" gid="007">
+  <name>謳う丘</name>
+  <detail>イオンが星を紡いだ記憶を取り戻した。</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="S" pid="-1" gid="008">
+  <name>なりきり天文セット</name>
+  <detail>お気楽衣装？とおしゃれ衣装？をもらった。</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="S" pid="-1" gid="009">
+  <name>なりきり地文セット</name>
+  <detail>徒然なる者？と厳格なる者？をもらった。</detail>
+ </trophy>
+</trophyconf>

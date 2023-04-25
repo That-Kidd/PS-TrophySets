@@ -1,0 +1,188 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000023e67501d599a2f91d0f947296f9129177a32084c7c1f4e70ead98849b5af6a0c823056f40fd0b4b2ee9240cf3de55ae643ec1fc53ff1dd687c2e90fd0510f8a5658258cbd7591a5ac22155bb07327c1a18f360fd45858c798da2033d5e9c6a31bbb1966a652e087998d2aff1ae17f8464ef3ba4c4f85784e3846bd8c865d43890b3d4da25e6693e8a749254f3e5bbf793c383fc-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR13487_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>塔亰Clanpool</title-name>
+ <title-detail>塔亰Clanpoolのトロフィーです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>ニホンの守護者</name>
+  <detail>全てのトロフィーを取得した！</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>新任総理</name>
+  <detail>初めて戦闘に勝利した。</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>辺獄の覇者</name>
+  <detail>１章をクリア。</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>地獄の覇者</name>
+  <detail>２章をクリア。</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>監獄の覇者</name>
+  <detail>３章をクリア。</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>煉獄の覇者</name>
+  <detail>４章をクリア。</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>天獄の覇者</name>
+  <detail>５章をクリア。</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>黒界城の覇者</name>
+  <detail>６章をクリア。</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>深淵の覇者</name>
+  <detail>最終章をクリア。</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="G" pid="000">
+  <name>龍脈の覇者</name>
+  <detail>揺り篭-龍脈穴を初めてクリア。</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="000">
+  <name>幻魔初討伐</name>
+  <detail>ファンタズマ１体撃破！</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>幻魔キラー</name>
+  <detail>ファンタズマ１０体撃破！</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>ファンタズマ１３</name>
+  <detail>すべてのファンタズマ撃破！</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="000">
+  <name>モンスターリストクォーター</name>
+  <detail>モンスターリスト２５％達成！</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="B" pid="000">
+  <name>モンスターリストハーフ</name>
+  <detail>モンスターリスト５０％達成！</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="S" pid="000">
+  <name>モンスターリストコンプリート</name>
+  <detail>モンスターリストコンプリート！</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>ガジェッティアリストクォーター</name>
+  <detail>ガジェッティアリスト２５％達成！</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="S" pid="000">
+  <name>ガジェッティアリストハーフ</name>
+  <detail>ガジェッティアリスト５０％達成！</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="G" pid="000">
+  <name>ガジェッティアリストコンプリート</name>
+  <detail>ガジェッティアリストコンプリート！</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>クエストクリアクォーター</name>
+  <detail>クエスト２５％クリア！</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="000">
+  <name>クエストクリアハーフ</name>
+  <detail>クエスト５０％クリア！</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="G" pid="000">
+  <name>クエストクリアコンプリート</name>
+  <detail>全クエストクリア！</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="B" pid="000">
+  <name>オールレベル６０</name>
+  <detail>全キャラがレベル６０以上。</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>オールレベル９９</name>
+  <detail>全キャラがレベル９９以上。</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="S" pid="000">
+  <name>オールレベル２００</name>
+  <detail>全キャラがレベル２００以上。</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="S" pid="000">
+  <name>ＨＡＲＤクリア</name>
+  <detail>ゲーム難度「HARD」でクリア！</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>デジスキンコンプリート</name>
+  <detail>全デジスキンを入手。</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="S" pid="000">
+  <name>法案マスター</name>
+  <detail>全法案の半分を可決！</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="B" pid="000">
+  <name>エーテル感応マスター</name>
+  <detail>エーテル感応を３０回プレイ！</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="B" pid="000">
+  <name>プレシャス鑑定マスター</name>
+  <detail>未鑑定のプレシャスを３０個以上鑑定。</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="B" pid="000">
+  <name>プレシャス製造マスター</name>
+  <detail>プレシャスを３０個以上製造。</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="B" pid="000">
+  <name>ガジェッティア製造マスター</name>
+  <detail>ガジェッティアを３０体製造。</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="B" pid="000">
+  <name>ガジェッティア合成マスター</name>
+  <detail>ガジェッティアを３０回合成。</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="B" pid="000">
+  <name>ガジェッティア進化マスター</name>
+  <detail>ガジェッティアを３０回進化。</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="B" pid="000">
+  <name>ガジェッティア強化マスター</name>
+  <detail>ガジェッティアを３０回強化。</detail>
+ </trophy>
+ <trophy id="035" hidden="yes" ttype="B" pid="000">
+  <name>ガジェッティアプレシャス化マスター</name>
+  <detail>ガジェッティアを３０回プレシャス化。</detail>
+ </trophy>
+ <trophy id="036" hidden="yes" ttype="B" pid="000">
+  <name>レンリツ聖顕３０</name>
+  <detail>レンリツ聖顕を３０回成功！</detail>
+ </trophy>
+ <trophy id="037" hidden="yes" ttype="S" pid="000">
+  <name>レンリツ聖顕マスター</name>
+  <detail>レンリツ聖顕を１００回成功！</detail>
+ </trophy>
+ <trophy id="038" hidden="yes" ttype="B" pid="000">
+  <name>コンボ３０</name>
+  <detail>３０コンボ達成！</detail>
+ </trophy>
+ <trophy id="039" hidden="yes" ttype="S" pid="000">
+  <name>コンボマスター</name>
+  <detail>１００コンボ達成！</detail>
+ </trophy>
+ <trophy id="040" hidden="yes" ttype="B" pid="000">
+  <name>ハンドレッドキラー</name>
+  <detail>撃破数１００体達成！</detail>
+ </trophy>
+ <trophy id="041" hidden="yes" ttype="B" pid="000">
+  <name>５００キラー</name>
+  <detail>撃破数５００体達成！</detail>
+ </trophy>
+ <trophy id="042" hidden="yes" ttype="B" pid="000">
+  <name>サウザンドキラー</name>
+  <detail>撃破数１０００体達成！</detail>
+ </trophy>
+ <trophy id="043" hidden="yes" ttype="B" pid="000">
+  <name>３０００キラー</name>
+  <detail>撃破数３０００体達成！</detail>
+ </trophy>
+ <trophy id="044" hidden="yes" ttype="S" pid="000">
+  <name>キラーマスター</name>
+  <detail>撃破数５０００体達成！</detail>
+ </trophy>
+</trophyconf>

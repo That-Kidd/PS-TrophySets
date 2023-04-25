@@ -1,0 +1,108 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000004081b23235a3962a8d2a180b2b282a3e0989a918216ec11d453aaeba54d9d3e2e7d848b0ce21299d7418316525e9b498a7ac77872c8451c42fb6a54ee540fe4d350e3ff744020734c37fec3e7845b57895877a2e8a1256c2588324ee47fbf2e46137d37881bacca372495fa983f01807ee2b1499cbf907acfde9c65ba661bf98e1a51eb33dbb0626df2563fb6179be24c8e46ab6-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR09975_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Ｃｌｏｖｅｒ　Ｄａｙ’ｓ　～Ｍａｋｉｎｇ　ｆｏｒ　Ｈａｐｐｉｎｅｓｓ．～</title-name>
+ <title-detail>Ｃｌｏｖｅｒ　Ｄａｙ’ｓ　～Ｍａｋｉｎｇ　ｆｏｒ　Ｈａｐｐｉｎｅｓｓ．～　のトロフィーです</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Ｃｌｏｖｅｒ　Ｄａｙ’ｓ</name>
+  <detail>全てのトロフィーを解放した</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>幸せ一杯</name>
+  <detail>全てのエンディングを見た</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>目の保養</name>
+  <detail>全てのイベントＣＧを見た</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="G" pid="000">
+  <name>杏鈴　シナリオオールクリア</name>
+  <detail>「杏鈴」シナリオを全て見た</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>杏鈴　ＥＸＴＲＡクリア</name>
+  <detail>「杏鈴」のＥＸＴＲＡシーンをクリアした</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>杏鈴　ＣＨＡＰＴＥＲ２クリア</name>
+  <detail>「杏鈴」ルートのＣＨＡＰＴＥＲ２をクリアした</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="000">
+  <name>杏鈴　ＣＨＡＰＴＥＲ３クリア</name>
+  <detail>「杏鈴」ルートのＣＨＡＰＴＥＲ３をクリアした</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="G" pid="000">
+  <name>杏璃　シナリオオールクリア</name>
+  <detail>「杏璃」シナリオを全て見た</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>杏璃　ＥＸＴＲＡクリア</name>
+  <detail>「杏璃」のＥＸＴＲＡシーンをクリアした</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="000">
+  <name>杏璃　ＣＨＡＰＴＥＲ２クリア</name>
+  <detail>「杏璃」ルートのＣＨＡＰＴＥＲ２をクリアした</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>杏璃　ＣＨＡＰＴＥＲ３クリア</name>
+  <detail>「杏璃」ルートのＣＨＡＰＴＥＲ３をクリアした</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="G" pid="000">
+  <name>ヘキル・ヒカル　シナリオオールクリア</name>
+  <detail>「ヘキル・ヒカル」シナリオを全て見た</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="B" pid="000">
+  <name>ヘキル・ヒカル　ＥＸＴＲＡクリア</name>
+  <detail>「ヘキル・ヒカル」のＥＸＴＲＡシーンをクリアした</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="000">
+  <name>ヘキル・ヒカル　ＣＨＡＰＴＥＲ２クリア</name>
+  <detail>「ヘキル・ヒカル」ルートのＣＨＡＰＴＥＲ２をクリアした</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>ヘキル・ヒカル　ＣＨＡＰＴＥＲ３クリア</name>
+  <detail>「ヘキル・ヒカル」ルートのＣＨＡＰＴＥＲ３をクリアした</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="G" pid="000">
+  <name>つばめ　シナリオオールクリア</name>
+  <detail>「つばめ」シナリオを全て見た</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>つばめ　ＥＸＴＲＡクリア</name>
+  <detail>「つばめ」のＥＸＴＲＡシーンをクリアした</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>つばめ　ＣＨＡＰＴＥＲ２クリア</name>
+  <detail>「つばめ」ルートのＣＨＡＰＴＥＲ２をクリアした</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="S" pid="000">
+  <name>つばめ　ＣＨＡＰＴＥＲ３クリア</name>
+  <detail>「つばめ」ルートのＣＨＡＰＴＥＲ３をクリアした</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="G" pid="000">
+  <name>泉　シナリオオールクリア</name>
+  <detail>「泉」シナリオを全て見た</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="000">
+  <name>泉　ＥＸＴＲＡクリア</name>
+  <detail>「泉」のＥＸＴＲＡシーンをクリアした</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>泉　ＣＨＡＰＴＥＲ２クリア</name>
+  <detail>「泉」ルートのＣＨＡＰＴＥＲ２をクリアした</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="S" pid="000">
+  <name>泉　ＣＨＡＰＴＥＲ３クリア</name>
+  <detail>「泉」ルートのＣＨＡＰＴＥＲ３をクリアした</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>そこから始まった</name>
+  <detail>初めてオープニングムービーを見た</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>千里の道も一歩から</name>
+  <detail>プロローグをクリアした</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,200 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000005de619721816738cb782ca9c07eeda8713872c1c4173d9bee4edc8c24b596ff829cf6ce68c6fc3a0487bc034e37298b2c4189bbaccaa373007d736c1448586f66e0200005c1fa38d3f3e7b32454a6c2df4dc33e5572ad30e0ff5cacdab2cd985b3b3bdb49e54f9d652d5caa4fbbedb5c7db02d2c765662b3bd705ea9ef4ff0dda526ab7b24a9a91d5968e24043caba1987587a95-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR08006_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>SteamWorld Heist</title-name>
+ <title-detail>Trophy set for SteamWorld Heist</title-detail>
+ <group id="001">
+  <name>The Outsider DLC</name>
+  <detail>Trophy set for The Outsider</detail>
+ </group>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Across The Universe Divide</name>
+  <detail>Collect every trophy in SteamWorld Heist.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Tutorial Grind</name>
+  <detail>Complete the tutorial.</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>Drop the Chop</name>
+  <detail>Defeat the Scrapper Boss.</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>Down with the Queen</name>
+  <detail>Defeat the Royalist Boss.</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>Savior of the Universe</name>
+  <detail>Defeat the Vectron Boss.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>Easy Like Sunday Morning</name>
+  <detail>Complete the game in Casual mode.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>Ordinary World</name>
+  <detail>Complete the game in Regular mode.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>Are You Experienced?</name>
+  <detail>Complete the game in Experienced mode.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>Shut Out The Light</name>
+  <detail>Complete the game in Veteran mode.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>You're The Best Around</name>
+  <detail>Complete the game in Elite mode.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>Fields Of Gold</name>
+  <detail>Complete the game with an all Gold SteamWorld Ranking on any difficulty.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>Higher Than The Sun</name>
+  <detail>Complete the game with an all Gold SteamWorld Ranking on Elite.</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>Top of the Heap</name>
+  <detail>Get 45 reputation in The Outskirts.</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>Crème de la Crème</name>
+  <detail>Get 38 reputation in The Core.</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>Deep Space Superstar</name>
+  <detail>Get 40 reputation in Deep Space.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>Full House</name>
+  <detail>Recruit all available crew mates. (DLC not included)</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>It’s over 9...!</name>
+  <detail>Reach level 10 with one character. (DLC not included)</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Madly Maxed</name>
+  <detail>Reach level 10 with all characters. (DLC not included)</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>Mr Pierce Pierce Bang Bang</name>
+  <detail>Damage 5 enemies on the same shot with Valentine’s Piercing Shot ability.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Oh Captain! My Captain!</name>
+  <detail>Use Area Heal on crew mates other than Piper 10 times.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>Brass Effect</name>
+  <detail>Use Payback and Double Shot to kill the foe who triggered Payback.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>Just Like Back At The Farm</name>
+  <detail>During one turn, use Sally's Mad Dog ability to kill 5 enemies.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>Backscratcher</name>
+  <detail>Use the Flanker ability to kill 50 enemies.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>No Guts, No Glory</name>
+  <detail>Get saved by the Guts ability 3 times during one mission.</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>Nosferatu</name>
+  <detail>Use the Vampire ability to restore 10 health during one mission.</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>Bullet Bouncer</name>
+  <detail>Kill 20 enemies by bouncing bullets, one count per attack.</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="S" pid="000">
+  <name>Mayhem</name>
+  <detail>Deal at least 40 damage to enemies with one attack.</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>Stunning</name>
+  <detail>Stun 25 enemies.</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>Hat-off, Hat-on</name>
+  <detail>Pick up a hat after yours has been shot off.</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>Headgear-hunter</name>
+  <detail>Shoot off and pick up a rare hat.</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>Well Hatted</name>
+  <detail>Collect 15 hats.</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>Mad as a Hatter</name>
+  <detail>Collect 30 hats.</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="S" pid="000">
+  <name>Hats, hats, hats!</name>
+  <detail>Collect 60 hats.</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="S" pid="000">
+  <name>Hat-Trick</name>
+  <detail>Shoot off 3 hats with one attack.</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="B" pid="000">
+  <name>They shunned Kenny :(</name>
+  <detail>Hat combo - Friendly faces everywhere.</detail>
+ </trophy>
+ <trophy id="035" hidden="yes" ttype="B" pid="000">
+  <name>Indie Love</name>
+  <detail>Hat combo - Friends support friends</detail>
+ </trophy>
+ <trophy id="036" hidden="yes" ttype="B" pid="000">
+  <name>Kawaii</name>
+  <detail>Hat combo - That's a really cute collection!</detail>
+ </trophy>
+ <trophy id="037" hidden="yes" ttype="B" pid="000">
+  <name>Big in Japan</name>
+  <detail>Hat combo - An influential and creative culture.</detail>
+ </trophy>
+ <trophy id="038" hidden="yes" ttype="B" pid="000">
+  <name>Cog save the Queen</name>
+  <detail>Hat combo - A royal hat selection indeed.</detail>
+ </trophy>
+ <trophy id="039" hidden="yes" ttype="B" pid="000">
+  <name>Animal Planet</name>
+  <detail>Hat combo - Wildlife supporter.</detail>
+ </trophy>
+ <trophy id="040" hidden="yes" ttype="B" pid="000">
+  <name>In a military style</name>
+  <detail>Hat combo - We want YOU.</detail>
+ </trophy>
+ <trophy id="041" hidden="yes" ttype="B" pid="000">
+  <name>(Space) Unicorn</name>
+  <detail>Start a mission with Unicorn Slayer and Unicorn mask equipped.</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>The Outsider</name>
+  <detail>Recruit Fen.</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>Thunderstruck</name>
+  <detail>Use Fen's Lightning Coil ability to kill 4 enemies with one shot.</detail>
+ </trophy>
+ <trophy id="044" hidden="no" ttype="S" pid="-1" gid="001">
+  <name>Fashionista</name>
+  <detail>Collect all hats from "The Outsider" DLC.</detail>
+ </trophy>
+ <trophy id="045" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>Gosh, it’s full of stars!</name>
+  <detail>Get max reputation on all missions in "The Outsider" DLC.</detail>
+ </trophy>
+ <trophy id="046" hidden="yes" ttype="B" pid="-1" gid="001">
+  <name>Well worth it</name>
+  <detail>Defeat Jester.</detail>
+ </trophy>
+</trophyconf>

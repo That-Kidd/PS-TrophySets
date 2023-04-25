@@ -1,0 +1,132 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000ede9ca3b80092cdf40d0396ae1f6cfcb682706246d05c45fec1d99a6c35c0cea6bd8319561995d77acaa460dae923a1c24948952475540694d6160f7f15dcb12ebc3f925297b8581bfb2213d2099e2507e13373fdebe20aace63e4c067bbc8103a021c8e7ebd39123fcc227d862e3c154f26880931e7a00879028d88e6fced45ae93ba65c11602ff64e5083762fa4b8bca880e42-->
+<trophyconf version="1.1" platform="ps3,psp2,ps4" policy="large">
+ <npcommid>NPWR11856_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>レイジングループ</title-name>
+ <title-detail>レイジングループのトロフィー</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>をちなかれ！　ドン☆</name>
+  <detail>全てのトロフィーを入手した</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>迷い人</name>
+  <detail>「濃霧」に到達</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>夜明け</name>
+  <detail>「黄泉」に到達</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>惨劇の記憶</name>
+  <detail>「潜入」に到達</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>新たな可能性</name>
+  <detail>「機知」に到達</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>あらゆる可能性</name>
+  <detail>「暗黒」に到達</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>たった１つの可能性</name>
+  <detail>「神話」に到達</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="G" pid="000">
+  <name>帰還</name>
+  <detail>事件を解決し日常へ帰還した</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="G" pid="000">
+  <name>（ビーム音）</name>
+  <detail>「裏切りオールナイト」を見つけた</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="G" pid="000">
+  <name>はっぴゃっぴゃー</name>
+  <detail>「原始の舞」を見つけた</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>みつかった？</name>
+  <detail>隠された『ヒント』を発見して内容を見た</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>冷や水</name>
+  <detail>KEY「真なる悪」を入手</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>見せしめ</name>
+  <detail>KEY「人狼と、復活」を入手</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>心中ごっこ</name>
+  <detail>KEY「遙か遠い光」を入手</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>見るなのタブー</name>
+  <detail>END No.1に到達＆KEY「彼岸に沈む」を入手</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="S" pid="000">
+  <name>追い出し</name>
+  <detail>KEY「親切な駐在」を入手</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="S" pid="000">
+  <name>締め出し</name>
+  <detail>KEY「禁忌の名前」を入手</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="S" pid="000">
+  <name>銃で死</name>
+  <detail>KEY「バーサーク」を入手</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="S" pid="000">
+  <name>オタトーク１</name>
+  <detail>KEY「からすの遺志」を入手</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="S" pid="000">
+  <name>オタトーク２</name>
+  <detail>KEY「神話と元型」を入手</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="S" pid="000">
+  <name>匠にい＝シロ確</name>
+  <detail>KEY「若頭の正体」を入手</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="S" pid="000">
+  <name>ボンクラ＝シロ確</name>
+  <detail>KEY「医者の正体」を入手</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="S" pid="000">
+  <name>食い詰め記者＝クロ確</name>
+  <detail>KEY「記者の正体」を入手</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="S" pid="000">
+  <name>天災ボーイ＝クロ確</name>
+  <detail>KEY「奇才の正体」を入手</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="S" pid="000">
+  <name>不機嫌ガール＝シロ確</name>
+  <detail>KEY「少女の正体」を入手</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="S" pid="000">
+  <name>千枝実ガール＝クロ確</name>
+  <detail>KEY「荒れ狂う狼」を入手</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="S" pid="000">
+  <name>まさかのMASSACRE</name>
+  <detail>END No.2に到達＆KEY「よみがえる円環」を入手</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="S" pid="000">
+  <name>母は強し</name>
+  <detail>KEY「鬼子母神」を入手</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="S" pid="000">
+  <name>孫も強し</name>
+  <detail>KEY「不条理な粛清」を入手</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="S" pid="000">
+  <name>爺は弱し</name>
+  <detail>KEY「狩人の告白」を入手</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="S" pid="000">
+  <name>デウス・エクス・マキナ</name>
+  <detail>END No.3に到達＆KEY「終わる円環と大怪物」を入手</detail>
+ </trophy>
+</trophyconf>

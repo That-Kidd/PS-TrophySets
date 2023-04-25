@@ -1,0 +1,144 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000ceebeb74737c9b14500163833ea428bd0d8471020b7ae9fa82fcb20e7835a1298191137a38ce59172345634140cfd482a76b308be0e8bb956cc2f7dedb1401810bbcf54e771d2273c330a2b6bfe67eedcdc7fb1d6fdad4b10a1736c3abf264e9fbce3a2b25040758b5069d335d82f1ce122a58c92b3c871d39d3bc23972707e07de00e9eee94eb47c569b917cbdd2b441ef1f176-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR09363_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>WRC 5</title-name>
+ <title-detail>WRC 5</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>WRC 2015</name>
+  <detail>Ganar todos los trofeos del juego.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>"Persona"</name>
+  <detail>Crear un piloto personalizado.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>¡Vencedor!</name>
+  <detail>Ganar una etapa especial en cualquier modo de juego.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>¡Bien hecho!</name>
+  <detail>Ganar una etapa especial en modo Etapa rápida.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>"Around the World"</name>
+  <detail>Terminar al menos una etapa especial de cada rally en modo Etapa rápida.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>Explorador</name>
+  <detail>Terminar todas las etapas especiales del juego en Etapa rápida.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>Firma aquí</name>
+  <detail>Firmar tu primer contrato en modo Carrera.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>La cosa se pone seria</name>
+  <detail>Firmar un contrato con Volkswagen, Citroën, Hyundai o M-Sport.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>Podio</name>
+  <detail>Terminar entre los tres primeros en una etapa especial en modo Carrera.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>Queda bien en tu C.V.</name>
+  <detail>Ganar una etapa especial en modo Carrera.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>Piloto de rally</name>
+  <detail>Ganar una etapa especial con configuración de simulación en cualquier modo de juego.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>¡Montecarlo!</name>
+  <detail>Ganar el Rallye Monte Carlo en modo Carrera.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>¡Suecia!</name>
+  <detail>Ganar el Rally Sweden en modo Carrera.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>¡México!</name>
+  <detail>Ganar el Rally Guanajuato México en modo Carrera.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>¡Argentina!</name>
+  <detail>Ganar el Xion Rally Argentina en modo Carrera.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>¡Portugal!</name>
+  <detail>Ganar el Vodafone Rally de Portugal en modo Carrera.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>¡Cerdeña!</name>
+  <detail>Ganar el Rally Italia Sardegna en modo Carrera.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>¡Polonia!</name>
+  <detail>Ganar el LOTOS 72nd Rally Poland en modo Carrera.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>¡Finlandia!</name>
+  <detail>Ganar el Neste Oil Rally Finland en modo Carrera.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>¡Alemania!</name>
+  <detail>Ganar el ADAC Rallye Deutschland en modo Carrera.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>¡Australia!</name>
+  <detail>Ganar el Coates Hire Rally Australia en modo Carrera.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>¡Córcega!</name>
+  <detail>Ganar el Rallye de France - Tour de Corse en modo Carrera.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>¡España!</name>
+  <detail>Ganar el RallyRACC Catalunya-COSTA DAURADA en modo Carrera.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>¡Gales!</name>
+  <detail>Ganar el Wales Rally GB en modo Carrera.</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="G" pid="000">
+  <name>Primer paso</name>
+  <detail>Terminar una temporada Junior en primera posición en modo Carrera.</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="G" pid="000">
+  <name>Segundo paso...</name>
+  <detail>Terminar una temporada WRC-2 en primera posición en modo Carrera.</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="G" pid="000">
+  <name>¡Campeón del mundo!</name>
+  <detail>Terminar una temporada WRC en primera posición en modo Carrera.</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>Mecánico</name>
+  <detail>Reparar tu coche por primera vez.</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>"Ready at Dawn"</name>
+  <detail>Superar el tiempo de reparación asignado por primera vez.</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>Especialista</name>
+  <detail>Cambiar la configuración técnica de tu coche por primera vez.</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="S" pid="000">
+  <name>¡Un reto mayor!</name>
+  <detail>Terminar una etapa especial usando neumáticos no adaptados a la superficie de la carretera.</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="B" pid="000">
+  <name>"Beam me up, Scotty"</name>
+  <detail>Reaparecer de forma manual por primera vez.</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="B" pid="000">
+  <name>"Back in Time"</name>
+  <detail>Usar Snapshot por primera vez.</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="S" pid="000">
+  <name>De sofá en sofá</name>
+  <detail>Terminar una etapa especial con al menos dos jugadores en modo multijugador.</detail>
+ </trophy>
+</trophyconf>

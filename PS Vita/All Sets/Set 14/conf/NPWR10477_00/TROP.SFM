@@ -1,0 +1,196 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000001532e4785ddcfabe152b15c533f429d054898224b21611aa6d41d3801c98d8f3e369b9e4f2ffa3a2f3b3c478d18de84d72633de21a4f14addaf9383bdb466845c3fdfd972502a9c6c0497191736da9c4ab61eeb061e2ee63c2f28c853471df603d591e82a23a70466f0f29bb78327049223c2fcb6481410692e967d83e532321f61e5794cd6214746da82048cc1a37c87074e816-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR10477_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>雷子‐紺碧の章‐</title-name>
+ <title-detail>雷子‐紺碧の章‐トロフィー</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>雷子‐紺碧の章‐マスター</name>
+  <detail>雷子‐紺碧の章‐を極める</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>呉</name>
+  <detail>呉編をクリア</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="G" pid="000">
+  <name>越</name>
+  <detail>越編をクリア</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="G" pid="000">
+  <name>紺</name>
+  <detail>紺編をクリア</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="S" pid="000">
+  <name>遊</name>
+  <detail>サブストーリーを全てクリア</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="S" pid="000">
+  <name>戦</name>
+  <detail>追加ステージを全てクリア</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="000">
+  <name>絵</name>
+  <detail>CGを全て見る</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>プロローグ</name>
+  <detail>プロローグをクリア</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>太子・光</name>
+  <detail>太子・光をクリア</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="000">
+  <name>野望の始まり</name>
+  <detail>野望の始まりをクリア</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="000">
+  <name>鬼谷子とは俺のことよ！</name>
+  <detail>鬼谷子とは俺のことよ！をクリア</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>楚との戦い</name>
+  <detail>楚との戦いをクリア</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="B" pid="000">
+  <name>猛将・ノウ瓦</name>
+  <detail>猛将・ノウ瓦をクリア</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="000">
+  <name>謀反</name>
+  <detail>謀反をクリア</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="B" pid="000">
+  <name>越の襲来</name>
+  <detail>越の襲来をクリア</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>孫武参戦</name>
+  <detail>孫武参戦をクリア</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>模擬戦</name>
+  <detail>模擬戦をクリア</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>干将と莫耶</name>
+  <detail>干将と莫耶をクリア</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>呉軍前進</name>
+  <detail>呉軍前進をクリア</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>魚群散散陣</name>
+  <detail>魚群散散陣をクリア</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="000">
+  <name>沈尹戌出撃</name>
+  <detail>沈尹戌出撃をクリア</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>柏挙の戦い（前編）</name>
+  <detail>柏挙の戦い（前編）をクリア</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="B" pid="000">
+  <name>柏挙の戦い（後編）</name>
+  <detail>柏挙の戦い（後編）をクリア</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>沈尹戌討伐</name>
+  <detail>沈尹戌討伐をクリア</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="000">
+  <name>楚の陥落</name>
+  <detail>楚の陥落をクリア</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="B" pid="000">
+  <name>邪鬼</name>
+  <detail>邪鬼をクリア</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>大国が生んだ佞臣</name>
+  <detail>大国が生んだ佞臣をクリア</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="B" pid="000">
+  <name>申包胥の想い</name>
+  <detail>申包胥の想いをクリア</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="B" pid="000">
+  <name>夫概の謀反</name>
+  <detail>夫概の謀反をクリア</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="B" pid="000">
+  <name>越再び</name>
+  <detail>越再びをクリア</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="B" pid="000">
+  <name>奮戦の先に</name>
+  <detail>奮戦の先にをクリア</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="B" pid="000">
+  <name>炎望散との出会い</name>
+  <detail>炎望散との出会いをクリア</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="B" pid="000">
+  <name>伯ヒと伍子胥</name>
+  <detail>伯ヒと伍子胥をクリア</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="B" pid="000">
+  <name>夫差の決断</name>
+  <detail>夫差の決断をクリア</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="B" pid="000">
+  <name>闇に落ちる</name>
+  <detail>闇に落ちるをクリア</detail>
+ </trophy>
+ <trophy id="035" hidden="yes" ttype="B" pid="000">
+  <name>罪人狩</name>
+  <detail>罪人狩をクリア</detail>
+ </trophy>
+ <trophy id="036" hidden="yes" ttype="B" pid="000">
+  <name>滅亡の始まり</name>
+  <detail>滅亡の始まりをクリア</detail>
+ </trophy>
+ <trophy id="037" hidden="yes" ttype="B" pid="000">
+  <name>伍子胥の切札</name>
+  <detail>伍子胥の切札をクリア</detail>
+ </trophy>
+ <trophy id="038" hidden="yes" ttype="B" pid="000">
+  <name>祖国を捨てて</name>
+  <detail>祖国を捨ててをクリア</detail>
+ </trophy>
+ <trophy id="039" hidden="yes" ttype="B" pid="000">
+  <name>公孫鞅との出会い</name>
+  <detail>公孫鞅との出会いをクリア</detail>
+ </trophy>
+ <trophy id="040" hidden="yes" ttype="B" pid="000">
+  <name>魏の戦姫</name>
+  <detail>魏の戦姫をクリア</detail>
+ </trophy>
+ <trophy id="041" hidden="yes" ttype="B" pid="000">
+  <name>最後の任務</name>
+  <detail>最後の任務をクリア</detail>
+ </trophy>
+ <trophy id="042" hidden="yes" ttype="B" pid="000">
+  <name>桂陵の戦い</name>
+  <detail>桂陵の戦いをクリア</detail>
+ </trophy>
+ <trophy id="043" hidden="yes" ttype="B" pid="000">
+  <name>再会</name>
+  <detail>再会をクリア</detail>
+ </trophy>
+ <trophy id="044" hidden="yes" ttype="B" pid="000">
+  <name>馬陵の戦い</name>
+  <detail>馬陵の戦いをクリア</detail>
+ </trophy>
+ <trophy id="045" hidden="yes" ttype="B" pid="000">
+  <name>突入</name>
+  <detail>突入をクリア</detail>
+ </trophy>
+ <trophy id="046" hidden="yes" ttype="B" pid="000">
+  <name>正義の価値観</name>
+  <detail>正義の価値観をクリア</detail>
+ </trophy>
+</trophyconf>

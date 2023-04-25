@@ -1,0 +1,56 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000ca4885b1243c7becb71400b258e3b2ccd5c3b9327147d60c20272c464b6dba5b7288d5c4f63d3706e100d5d77b67feb7c47743e9835bc4d5984e5611c78b0b8adba97bc9d8de14e005fee6ae2d23071d941d9aaf1443348c96a1f1f9bd3adfef6027fdbaf06b34bacf3c417fd5d8abf6810ea725c9f0f10ab9adfd92d88a74d152d2f6f3972f22a7ceefc7ff2a73452d74ceecc8-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR08781_00</npcommid>
+ <trophyset-version>01.02</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Type:Rider</title-name>
+ <title-detail>The trophy list of Type:Rider</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Collector</name>
+  <detail>Retrieve all 6 asterisks in a chapter</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Explorer</name>
+  <detail>Find an ampersand (&amp;)</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="-1">
+  <name>A to Z</name>
+  <detail>Collect all letters</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="-1">
+  <name>Legend</name>
+  <detail>Retrieve all asterisks</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="-1">
+  <name>Ampersand</name>
+  <detail>Find the 8 hidden ampersands (&amp;)</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="-1">
+  <name>The End</name>
+  <detail>Complete the game</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>360°</name>
+  <detail>Make a 360° in the air</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Wall Rider</name>
+  <detail>Make 7 wall jumps in a row</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Time Attack</name>
+  <detail>Complete the Gothic level in less than 3 minutes</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>Thirst For Knowledge</name>
+  <detail>Read all the books</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="-1">
+  <name>Desperado</name>
+  <detail>Complete the Clarendon level without dying</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="-1">
+  <name>Lol</name>
+  <detail>Complete the secret level</detail>
+ </trophy>
+</trophyconf>

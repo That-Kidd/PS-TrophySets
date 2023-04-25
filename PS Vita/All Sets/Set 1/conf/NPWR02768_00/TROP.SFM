@@ -1,0 +1,88 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000110b625210f82c20af44b3fd45c4a24ed3bce6435a13a2113cd1f320b95eea776c75df6c8c44fc95cb2182b8d257cdc5d528303e198868a001df08fbc8b82739785a5c0d287447f4eb5e9d26bdeaf64f5b034421d3e4186d15e7d74648885613668491f470a869523cd959b91d86838f204b14612c49ae3e3904a5dc3d45962687aa6156f16787af048f2781d6a9033a9d523601-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR02768_00</npcommid>
+ <trophyset-version>01.02</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>FROBISHER SAYS!</title-name>
+ <title-detail>Trophies for Frobisher Says</title-detail>
+ <group id="001">
+  <name>Super Fun Pack</name>
+  <detail>Super Fun Pack Trophies</detail>
+ </group>
+ <group id="002">
+  <name>Mega Fun Pack</name>
+  <detail>Mega Fun Pack Trophies</detail>
+ </group>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Well Done You!</name>
+  <detail>Start a game of Frobisher Says!</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="-1">
+  <name>Narciss-us</name>
+  <detail>Watch the credits from start to finish without skipping forward or speeding up.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="-1">
+  <name>Look at the size of this electricity bill!</name>
+  <detail>Frobisher Says: "Figure it out from the title!"&#x0a;</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Cheating Pays Dividends</name>
+  <detail>Frobisher Says: "Figure it out from the title!"&#x0a;&#x0a;&#x0a;</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Flan Flounderer</name>
+  <detail>Frobisher Says: "Figure it out from the title!"&#x0a;&#x0a;&#x0a;</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="-1">
+  <name>Mother Plays Frobisher Says!</name>
+  <detail>Catch Ponsonby in exactly 4 minutes and 9 seconds</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="-1">
+  <name>Just Say "No"</name>
+  <detail>Frobisher Says: "Figure it out from the title!"</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>I HATE Pirates</name>
+  <detail>Frobisher Says: "Figure it out from the title!"&#x0a;&#x0a;&#x0a;&#x0a;</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Miserable Failure</name>
+  <detail>Get a score of 0 on a fixed length, single player game.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="-1">
+  <name>Bad Track Record</name>
+  <detail>Do five full loops of the track in "Deliver My Pudding"</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="-1" gid="001">
+  <name>Theremad!</name>
+  <detail>Frobisher Says: "Figure it out from the title!"&#x0a;&#x0a;&#x0a;</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>Bored Room</name>
+  <detail>Photograph the board when 3 or more of them aren't ready.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>Search for a Star</name>
+  <detail>Locate and focus on 8 of the constellations in one game&#x0a;</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>Half Dry</name>
+  <detail>Frobisher Says: "Figure it out from the title!"</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="-1" gid="002">
+  <name>Homewrecker</name>
+  <detail>Frobisher Says: "Figure it out from the title!"&#x0a;&#x0a;</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="-1" gid="002">
+  <name>Nuisance Neighbor</name>
+  <detail>Make it become all too much for Stephen</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="-1" gid="002">
+  <name>Light Stroll</name>
+  <detail>Make Leonard complete a circuit without falling</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="-1" gid="002">
+  <name>No Marks</name>
+  <detail>Frobisher Says: "Figure it out from the title!"&#x0a;&#x0a;</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,148 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000002618ae0ae47c4eab864e61953955ac56171de2c065e46e9ec11cfbf84dae614526c3369f5a333561245c3813337bed3177deb3d647ba41427c05b9830f7f645d8fd938420332f161a6660b71dc8e3e5cd907ced58eead95f8f5fa1abbd521cd04cb2b0c8fbd6a9e94c9231cf79d7ebc242d572d71081abfd672f1859d5bcfe2d150a68db9d268d0261aa8f5d296921bd1abf0a69-->
+<trophyconf version="1.1" platform="psp2">
+ <npcommid>NPWR02893_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>麻雀格闘倶楽部　新生・全国対戦版</title-name>
+ <title-detail>「麻雀格闘倶楽部　新生・全国対戦版」のトロフィーセットです。　トロフィーは「対局」「段位」「全国対戦」「その他」のカテゴリに分かれています。ぜひコンプリートを目指してください。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>トロフィーコンプリート</name>
+  <detail>トロフィーを全て獲得する。</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="000">
+  <name>四神マスター召喚</name>
+  <detail>四神マスターを召喚する。</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="S" pid="000">
+  <name>黄龍召喚</name>
+  <detail>黄龍を召喚する。</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="S" pid="000">
+  <name>黄龍Ｌｖ．１０</name>
+  <detail>黄龍Ｌｖ．１０に昇格する。</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="G" pid="000">
+  <name>黄龍Ｌｖ．２０</name>
+  <detail>黄龍Ｌｖ．２０に昇格する。</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>四神指数８００</name>
+  <detail>最近５０戦の四神指数が８００を超えている。</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="000">
+  <name>四神指数９００</name>
+  <detail>最近５０戦の四神指数が９００を超えている。</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>三倍満</name>
+  <detail>三倍満を和了する。</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>倍満</name>
+  <detail>倍満を和了する。</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>跳満</name>
+  <detail>跳満を和了する。</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>満貫</name>
+  <detail>満貫を和了する。</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>役満</name>
+  <detail>役満を和了する。</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>ドラ４</name>
+  <detail>ドラを４つ持ち、和了する。</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="000">
+  <name>ドラ５</name>
+  <detail>ドラを５つ持ち、和了する。</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="B" pid="000">
+  <name>ドラ６</name>
+  <detail>ドラを６つ持ち、和了する。</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="S" pid="000">
+  <name>ドラ７</name>
+  <detail>ドラを７つ持ち、和了する。</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="S" pid="000">
+  <name>ドラ８以上</name>
+  <detail>ドラを８つ以上持ち和了する。</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>ドラ１００個突破</name>
+  <detail>ドラの使用回数が１００に到達する。（アドホック対戦での回数は含まれません。）</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>ドラ２００個突破</name>
+  <detail>ドラの使用回数が２００に到達する。（アドホック対戦での回数は含まれません。）</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>ぶっとばし</name>
+  <detail>他家を通算で10回ぶっとばす。（アドホック対戦での回数は含まれません。）</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="000">
+  <name>ぶっとばしダブル</name>
+  <detail>他家2人以上を同時にぶっとばす。</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>五万点</name>
+  <detail>最終点数が五万点を超えた。</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="S" pid="000">
+  <name>七万点</name>
+  <detail>最終点数が七万点を超えた。</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>連続トップ</name>
+  <detail>五回連続でトップを取る。</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="000">
+  <name>速攻</name>
+  <detail>6巡目以内であがる。</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>雷３０発</name>
+  <detail>雷を伴うあがりを３０回行う。（アドホック対戦での回数は含まれません。）</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="G" pid="000">
+  <name>雷１００発</name>
+  <detail>雷を伴うあがりを１００回行う。（アドホック対戦での回数は含まれません。）</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="S" pid="000">
+  <name>GIIウィナー</name>
+  <detail>GIIを獲得している。</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>GIIIウィナー</name>
+  <detail>GIIIを獲得している。</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>全国対戦５０対局突破</name>
+  <detail>全国対戦で５０回対局を行う。　※半荘は２回分とする</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="S" pid="000">
+  <name>全国対戦１００対局突破</name>
+  <detail>全国対戦で１００回対局を行う。　※半荘は２回分とする</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="G" pid="000">
+  <name>全国対戦２００対局突破</name>
+  <detail>全国対戦で２００回対局を行う。　※半荘は２回分とする</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="B" pid="000">
+  <name>背面タッチ</name>
+  <detail>背面タッチ機能を利用する。</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="B" pid="000">
+  <name>倒してロン</name>
+  <detail>倒してロン機能を使い、ロンあがりをする。</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="B" pid="000">
+  <name>倒してツモ</name>
+  <detail>倒してロン機能を使い、ツモあがりをする。</detail>
+ </trophy>
+</trophyconf>

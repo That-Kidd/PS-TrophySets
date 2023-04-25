@@ -1,0 +1,224 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000fd17474f630c1224145502621b6f856a6198f88cabe50c031e20b6c3dfc448c2193db8f86c69b7eaf890d4ed19fa0f07d49126ac8aa401cd7e09f9e36af19168b4ea76755f0a1f36b91f9de477c70d7d49c882e0e536842d228672c4027ba65292878d01757a3a815c3cb1e0d1ed387d4956a5fc8cc3798b6ea79bafe04a3c53d8c9c6a95b015544622122e7bac430d7f2bd6b14-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR05855_00</npcommid>
+ <trophyset-version>01.02</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>The Hungry Horde</title-name>
+ <title-detail>Zombtastic Trophies</title-detail>
+ <group id="001">
+  <name>Holiday Hijinx</name>
+  <detail>Holiday Hijinx pack</detail>
+ </group>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Platinum Horde</name>
+  <detail>Get all the other trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Look mom! I'm famous</name>
+  <detail>Use the character creator to make a custom character</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Who wins in a fight between plants and zombies?</name>
+  <detail>Destroy 1000 flowers</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Ready for Gorefare</name>
+  <detail>Fully upgrade all weapons in Zombat</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>mmm...brains</name>
+  <detail>Recruit your first zombie</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>Livin' On A Prayer</name>
+  <detail>Recruit your 5000th zombie</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>Global Outbreak</name>
+  <detail>Recruit your 10000th zombie</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>Gotta' get em all</name>
+  <detail>Fill the Stickerbook</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>Coconut dodge</name>
+  <detail>Get to 2 minutes on Pacifist Island without collecting a single coconut.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>30 Down 120 to go</name>
+  <detail>Complete 30 objectives</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>60 Down 90 to go</name>
+  <detail>Complete 60 objectives</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>Prestigious</name>
+  <detail>Complete all 150 objectives</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>Clocked it!</name>
+  <detail>Beat all rounds of Infection</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>PARTAAAAY!</name>
+  <detail>Make a conga line at least 25 zombies long and keep dancing for 90 seconds</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="B" pid="000">
+  <name>Fiddler</name>
+  <detail>Impatience is a virtue</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>This is madness!</name>
+  <detail>Kill 300 humans with grab</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>Tick tick tick boom</name>
+  <detail>Keep the air-raid siren going for at least 40 seconds</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Not the boss of me!</name>
+  <detail>Beat the tank 3 times in a single play</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>Still Alive</name>
+  <detail>Stay alive for at least 3:33 in cabinet view on Zombat</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="S" pid="000">
+  <name>Gameception</name>
+  <detail>Play the game, in a game, in a game</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>I would walk 500 miles</name>
+  <detail>Pass 500 checkpoints</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="S" pid="000">
+  <name>And I would walk 500 more</name>
+  <detail>Pass 1000 checkpoints</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>Velocity 2X</name>
+  <detail>Keep running for at least 15 seconds in Pacifist Island</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>Hardcore!</name>
+  <detail>Beat the first three rounds of Infection without using any powerups.</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>Pandemic</name>
+  <detail>Infect 10000 red cells in infection</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="G" pid="000">
+  <name>Supervirus</name>
+  <detail>Collect 5000 mutagens</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>Friday, Saturday and Sunday Night Fever</name>
+  <detail>You're the life and soul of the party.</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>Lucky For Some</name>
+  <detail>Kill 13 humans with a single grab</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="S" pid="000">
+  <name>Got. Got. Need.</name>
+  <detail>Fill 50% of the stickerbook</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>CHUUUUUNE!</name>
+  <detail>Use the ghetto blaster 200 times</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="B" pid="000">
+  <name>Credit where it's due!</name>
+  <detail>Play the game on Credits Island</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="S" pid="000">
+  <name>Super Developer Trophy</name>
+  <detail>AWESOMESAUCE! You checked out everything there is to check out</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>Doctor's Orders</name>
+  <detail>Take once a day for a week</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>I'm a Zombie. Get me out of here!</name>
+  <detail>Survive 180 seconds on Pacifist Island</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>That's what happens when you ruin my vacation!</name>
+  <detail>Kill 4 attackers with a single, well placed mine in Pacifist Island</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>What Gordon says, goes!</name>
+  <detail>Beat level 15 in a game of Gordon</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>Born again victim</name>
+  <detail>Kill Ruben Rainbow 99 times</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>Diploma!</name>
+  <detail>Eat 11111 Brains</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>Mapmatician</name>
+  <detail>See every area in the game</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="000">
+  <name>I've always got time to play</name>
+  <detail>In a single playthrough, play each of the spawned minigames at least once.</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="B" pid="000">
+  <name>50 shades of green</name>
+  <detail>Unlock every zombie character sticker</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="B" pid="000">
+  <name>Got, Got, Got, Gah!</name>
+  <detail>Get the exact same sticker 3 times&#x0a;</detail>
+ </trophy>
+ <trophy id="042" hidden="yes" ttype="B" pid="000">
+  <name>Lazy Developer</name>
+  <detail>err... you played the game... WELL DONE!!!</detail>
+ </trophy>
+ <trophy id="043" hidden="yes" ttype="B" pid="-1" gid="001">
+  <name>Snow Joke</name>
+  <detail>Push a snowball around until it breaks</detail>
+ </trophy>
+ <trophy id="044" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>Jack Frost</name>
+  <detail>Destroy 15 snowmen in a single run</detail>
+ </trophy>
+ <trophy id="045" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>Caught Peeking</name>
+  <detail>Get a combo of at least 6 on Holiday Hijinx</detail>
+ </trophy>
+ <trophy id="046" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>On the Naughty List</name>
+  <detail>Got to round 8 of Holiday Hijinx. You didn't cheat did you?</detail>
+ </trophy>
+ <trophy id="047" hidden="no" ttype="S" pid="-1" gid="001">
+  <name>From dusk 'til dawn of the dead</name>
+  <detail>Survive 5 days and nights</detail>
+ </trophy>
+ <trophy id="048" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>Elf and safety</name>
+  <detail>Kill 99 elves</detail>
+ </trophy>
+ <trophy id="049" hidden="no" ttype="B" pid="-1" gid="001">
+  <name>Jingle Balls</name>
+  <detail>Push 10 snowballs</detail>
+ </trophy>
+ <trophy id="050" hidden="no" ttype="S" pid="-1" gid="001">
+  <name>Casually Hardcore</name>
+  <detail>Max out each minigame at least once</detail>
+ </trophy>
+ <trophy id="051" hidden="no" ttype="S" pid="-1" gid="001">
+  <name>Tinsel Town</name>
+  <detail>Celebrate a golden "HOLIDAY"</detail>
+ </trophy>
+ <trophy id="052" hidden="yes" ttype="B" pid="-1" gid="001">
+  <name>Santa's Sleigher</name>
+  <detail>OMG! YOU KILLED SANTA. HOW COULD YOU?! YOU MONSTER!</detail>
+ </trophy>
+</trophyconf>

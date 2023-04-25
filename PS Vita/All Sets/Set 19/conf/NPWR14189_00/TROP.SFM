@@ -1,0 +1,108 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000a4146b6ae196d07a501578771ce8e880d61415c1a4e9e4dd8ec83872cc7a2f8049c04b77bca5d9bf01f5a60e615bd4f7cb66273984c9af1ced4c5db9747174a24c7a0c3e8a7049a529ef01817db3d1240728f98200ac7130c68661756d119dc92e416d041cd53fcd8ce780f33c90134a2fc64bc6067730400e702cb042c534aabe38aeac119fe133461071134af2c0047f32a335-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="large">
+ <npcommid>NPWR14189_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>SkyTime</title-name>
+ <title-detail>SkyTime</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>SkyTime Platinum</name>
+  <detail>Good job! Completed all tasks!</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>Where am I?</name>
+  <detail>Hidden trophy</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>My spot!</name>
+  <detail>Complete Public Transport within 50 seconds</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>Stomach of steel</name>
+  <detail>Complete Round About Time within 50 seconds</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>Gotta.. Move.. Faster!</name>
+  <detail>Complete Fast and Chill within 70 seconds</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>Ballistophobia</name>
+  <detail>Complete Bullet Rain within 55 seconds</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>Can’t stop hopping</name>
+  <detail>Complete Frog Like Experience within 75 seconds</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>Don’t Stop Running</name>
+  <detail>Complete the tutorial</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>Time Traveller</name>
+  <detail>Complete the game</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>Premium Umbrella</name>
+  <detail>Complete Bullet Rain without being hit even once</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="000">
+  <name>Better luck next time</name>
+  <detail>Hidden trophy</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>Rage</name>
+  <detail>Destroy all the turrets in the tutorial level</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>Let me pass!</name>
+  <detail>Destroy all turrets in Public Transport</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>Can’t touch this</name>
+  <detail>Destroy all the turrets in Round About Time</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>Too Fast</name>
+  <detail>Destroy all the turrets in Fast and Chill</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>Impossible</name>
+  <detail>Destroy all the turrets in Bullet Rain</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>Scavenger Hunt</name>
+  <detail>Destroy all the turrets in Frog Like Experience</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>Speed Run</name>
+  <detail>Complete Speed Run within 92 seconds</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>Speed Dodging</name>
+  <detail>Destroy all the turrets in Speed Run</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Going Up</name>
+  <detail>Complete Going Up within 55 seconds</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>Obstacles</name>
+  <detail>Destroy all the turrets in Going Up</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="G" pid="000">
+  <name>Double Trouble</name>
+  <detail>Get a turret double kill</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="G" pid="000">
+  <name>Triple Threat</name>
+  <detail>Get a turret triple kill</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>Glossy Finish</name>
+  <detail>Complete Car Wash within 65 seconds</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>No Scratches</name>
+  <detail>Destroy all the turrets in Car Wash</detail>
+ </trophy>
+</trophyconf>

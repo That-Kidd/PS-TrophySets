@@ -1,0 +1,56 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000008c8dac6693cd1abc9ade68848813accb898f76fb8ef835925891df376d95fa085c757fedc2f18e7752557b1e5332157805cc83d8cbfb6f76754eb4773bb2e7772bcd02797b34d1d384b710db070236a27286d11c923e92612459f47314d3d3ab7fcb144f8638490eebf515680ed9ac5bc69b8a620101de2b95127a8c143a7d6a14b9b40625b8cde7cba493fc1d0193ca063d73e-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR05898_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Jet Car Stunts</title-name>
+ <title-detail>Jet Car Stunts</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Bronze</name>
+  <detail>Get a bronze medal.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Silver</name>
+  <detail>Get a silver medal.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Gold</name>
+  <detail>Get a gold medal.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Ghost buster</name>
+  <detail>Beat your own ghost in a Time trial level where you already have a gold medal.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Without a scratch</name>
+  <detail>Complete Platforming Hard A in less than 0:50:00 with no retries.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Easy does it</name>
+  <detail>Beat the time 1:48:00 in Time trial Easy A.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Medium C</name>
+  <detail>Beat the time 2:26:00 in Time trial Medium C.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="-1">
+  <name>Hard Times</name>
+  <detail>Beat the time 4:25:00 in Time trial Hard B.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="-1">
+  <name>Time trial complete</name>
+  <detail>Complete all Time Trial levels.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="-1">
+  <name>Platforming complete</name>
+  <detail>Complete all Platforming levels.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="-1">
+  <name>Collector complete</name>
+  <detail>Complete all Collector levels.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="-1">
+  <name>Nerves of steel</name>
+  <detail>Complete Platforming Very Hard A without any retries.</detail>
+ </trophy>
+</trophyconf>

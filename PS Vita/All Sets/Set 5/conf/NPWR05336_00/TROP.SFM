@@ -1,0 +1,64 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000d6aecf00d73c8843ba2affc2a869e40b962269d023a5b82a9755fde401caaef0db57818cacfbacfb9a94fddc44bb5935d35415434fae849518c86d165e785880bec51f3a9ed959a702ddd5ede6415cb0c4f38e17cfcd885f0497b45b8737049dfe073921482e800c6e7321063f0f8a15377e9cd0099f66b6ad346f8f9b968e57e41ae81e102e07ce2c149c775468ebe9ac675786-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR05336_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Kilka</title-name>
+ <title-detail>Card Gods</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Golden Monument</name>
+  <detail>Win 3 medals on each round</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Golden Tumi</name>
+  <detail>Win back the first relic</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Bronze Glove</name>
+  <detail>Win all the medals and challenges in 3 of the Wonders</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Silver Badge</name>
+  <detail>Win 3 medals on 15 rounds</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Card Master</name>
+  <detail>Complete 5 challenges</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Fortuna Statue</name>
+  <detail>Complete 15 challenges</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="-1">
+  <name>Terracota Warrior</name>
+  <detail>Complete the game</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Golden Card</name>
+  <detail>Complete all the challenges</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Marble Statue</name>
+  <detail>Win 3 medals in all the battles with the card gods</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>Great Pyramid</name>
+  <detail>Beat the final boss</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>Lord of the cards</name>
+  <detail>Place same-suit cards one after other</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="-1">
+  <name>Card Chamberlain</name>
+  <detail>Place same-value cards one after other</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="-1">
+  <name>Card Seer</name>
+  <detail>Fill in the golden column in a single sequence of moves</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="-1">
+  <name>Prophet of Kilka</name>
+  <detail>Fill in the golden row in a single sequence of moves</detail>
+ </trophy>
+</trophyconf>

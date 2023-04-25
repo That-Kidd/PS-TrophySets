@@ -1,0 +1,116 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000367e7e4f8537e043e124d41b99d8aea97407118855e1ed0bc610c06fc838dc7d52deadc332f1d8d76fb9a25c0c37d9ae5b2aa69f5693a619a55c6373a591e248077269e4578557b1a1cb6fac802432d4ccd4329ff153399f8a7a31d5abae88d8caa5f9e8e24b72725e72ca3c3af1eea4a8022893088b255467d5748ade4f0a775203d1fd39c79641d6416d9ebb46474b95ef034b-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR12067_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>同步音律</title-name>
+ <title-detail>同步音律</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>全知全能</name>
+  <detail>获得其它所有奖杯</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>呀吼！</name>
+  <detail>获得一次EX成绩</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>精益求精</name>
+  <detail>任意一乐曲同步率达到118%</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>瞄准！射击！</name>
+  <detail>累计5000次产生EX音符判定</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>热热身</name>
+  <detail>累计演奏10000个音符</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>勉勉强强</name>
+  <detail>获得一次B评价</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>试试高难度？</name>
+  <detail>完成一次困难模式的演奏</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>起飞辣</name>
+  <detail>3首歌曲达到EX评价</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>专注</name>
+  <detail>连续8次游玩同一首曲子</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>什么鬼？</name>
+  <detail>游玩？难度的乐曲中途退出</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>摸摸头</name>
+  <detail>在商店摸小酒仙的头10次</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>游刃有余</name>
+  <detail>累计获得EX成绩30次</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>精准打击</name>
+  <detail>任意一乐曲同步率达到120%</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>动次打次</name>
+  <detail>累计18000次产生EX音符判定</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>揉揉爪</name>
+  <detail>累计演奏50000个音符</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>同步音律</name>
+  <detail>所有歌曲平均同步率到达110%</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>旅行家</name>
+  <detail>在6个场景中完成演奏</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>逐个击破</name>
+  <detail>10首乐曲达到EX评价</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>根本停不下来</name>
+  <detail>连续15次游玩同一首曲子</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="000">
+  <name>三心二意</name>
+  <detail>连续10次游玩不同曲目</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>多线程</name>
+  <detail>6键模式获得一次EX评价</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="G" pid="000">
+  <name>演奏家</name>
+  <detail>累计获得EX成绩100次</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="G" pid="000">
+  <name>播放器</name>
+  <detail>任意一乐曲同步率达到122%</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="G" pid="000">
+  <name>节拍器</name>
+  <detail>累计50000次产生EX音符判定</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="G" pid="000">
+  <name>按键杀手</name>
+  <detail>累计演奏200000个音符</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="G" pid="000">
+  <name>心之同步</name>
+  <detail>所有歌曲平均同步率到达115%</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="G" pid="000">
+  <name>环游</name>
+  <detail>游玩全部本体歌曲和谱面</detail>
+ </trophy>
+</trophyconf>

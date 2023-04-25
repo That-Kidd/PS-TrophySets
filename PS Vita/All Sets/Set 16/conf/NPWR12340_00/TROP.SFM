@@ -1,0 +1,100 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000087a1c9d6dc464fa319a406cb0becfb70657fdd306e06b15997a03c95b0d45949f7ffacf6b10ca1ffee79d7abfeb2698bd453a1ac1988b68a841933306c3c0f7d8772bace8768c86d2ecc5b56cd6c3604cc5b63dba1cf3c156f23a5e9382629bf8da3dd91181acbfc55194c2df1d2b117b708daca680e6807c4fe31019736c09a5efd20bc4ab92984157405cc7cfe72c03fe1ae65-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR12340_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>大正メビウスライン帝都備忘録ハレ</title-name>
+ <title-detail>大正メビウスライン帝都備忘録ハレのトロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>ハレ</name>
+  <detail>全てのトロフィーを獲得した</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="G" pid="000">
+  <name>CONGRATULATIONS！</name>
+  <detail>フルコンプリートイラストを見た</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>EPISODE　COMPLETE</name>
+  <detail>全キャラのオマケエピソードを見た</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>SHORT STORY　COMPLETE</name>
+  <detail>全キャラのショートストーリーを見た</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>ミサキCG　COMPLETE</name>
+  <detail>ミサキの画像を全てオープンした</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>時雨CG　COMPLETE</name>
+  <detail>時雨の画像を全てオープンした</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>千家CG　COMPLETE</name>
+  <detail>千家の画像を全てオープンした</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>館林CG　COMPLETE</name>
+  <detail>館林の画像を全てオープンした</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>伊勢兄弟CG　COMPLETE</name>
+  <detail>伊勢兄弟の画像を全てオープンした</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>道中二人</name>
+  <detail>ミサキのエンディングを見た</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>約束</name>
+  <detail>ミサキのエンディングを見た</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>雨のち晴れ</name>
+  <detail>ミサキのエンディングを見た</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>時代の行く末</name>
+  <detail>時雨のエンディングを見た</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>淡墨桜の下で</name>
+  <detail>時雨のエンディングを見た</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>死が二人を別つまで</name>
+  <detail>千家のエンディングを見た</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="S" pid="000">
+  <name>黄泉の道行</name>
+  <detail>千家のエンディングを見た</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="S" pid="000">
+  <name>月夜の道</name>
+  <detail>館林のエンディングを見た</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="S" pid="000">
+  <name>清打</name>
+  <detail>館林のエンディングを見た</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="S" pid="000">
+  <name>馨との戯れ</name>
+  <detail>伊勢馨のエンディングを見た</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="S" pid="000">
+  <name>薫との戯れ</name>
+  <detail>伊勢薫のエンディングを見た</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="S" pid="000">
+  <name>双子との戯れ</name>
+  <detail>伊勢兄弟のエンディングを見た</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>大正せんべす</name>
+  <detail>ミニゲームの大正せんべすを1面クリアした！</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>大臣民</name>
+  <detail>ミニゲームの大臣民で大臣民になった！</detail>
+ </trophy>
+</trophyconf>

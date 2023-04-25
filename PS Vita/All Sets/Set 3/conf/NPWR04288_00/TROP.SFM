@@ -1,0 +1,192 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000001b78e92ef227d3b2a42f528760bf6f1d6fbd73047dc9fc5c4b8c050a19d6bbd33d8e693800e6713f2ce9e8974e784c8e4e50d7cad80b1882be5b5816948ee7fe8ee2e58bdf84c7273c9e130f7005a2aeddc778de0e103adc52ef49343ff6a1feaf565e57362c9394f639bfad8f99425e916460865aee951bfbfbfa4e376635104b51fb211cc77bacc9bbf3fb723e12bc7a6937f5-->
+<trophyconf version="1.1" platform="ps3,psp2" policy="large">
+ <npcommid>NPWR04288_00</npcommid>
+ <trophyset-version>01.02</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>DEAD OR ALIVE 5 PLUS</title-name>
+ <title-detail>Dead or Alive 5 Plus Trophy Set</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>DOA5 PLUS Master</name>
+  <detail>Unlock all trophies.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Fighting Entertainment</name>
+  <detail>Have your first fight outside of Training Plus or Versus modes.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Rival Rumble</name>
+  <detail>Fight online 10 times.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>Rival Rampage</name>
+  <detail>Fight online 100 times.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>DOA5 PLUS Is My Life</name>
+  <detail>Fight online 500 times.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>Fighting For Real</name>
+  <detail>Play a Ranked match.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>Jump In</name>
+  <detail>Play a Simple match.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>Keep Your Enemies Close</name>
+  <detail>Played in ad hoc mode.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>Gesundheit!</name>
+  <detail>Trigger the Special Danger Zone in The Show.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>Tango Kilo November</name>
+  <detail>Trigger the Special Danger Zone in Hot Zone.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>Overentitled</name>
+  <detail>Earned 100 titles.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>Arcade Cleared</name>
+  <detail>Clear 1 course in Arcade mode.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>Arcade Master</name>
+  <detail>Clear all courses in Arcade mode.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>Time Attack Cleared</name>
+  <detail>Clear 1 course in Time Attack mode.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>Time Attack Master</name>
+  <detail>Clear all courses in Time Attack mode.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>Survival Cleared</name>
+  <detail>Clear 1 course in Survival mode.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>Survival Master</name>
+  <detail>Clear all courses in Survival mode.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Fledgling Fighter</name>
+  <detail>Fight 10 Versus matches.</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>The Fight Never Ends</name>
+  <detail>Fight 100 Versus matches.</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>The Curtain Rises</name>
+  <detail>Clear the Prologue in Story mode.</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="000">
+  <name>Ninja Battle</name>
+  <detail>Clear "Kasumi: Part 2" in Story mode.</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="S" pid="000">
+  <name>...And Then THIS Happened!</name>
+  <detail>Clear all chapters in Story mode.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>Training Hard</name>
+  <detail>Play Free Training mode for 1 hour.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>Exercise Newbie</name>
+  <detail>Perform all moves in Command Training.</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>Your Education Begins Now</name>
+  <detail>Played in Tutorial.</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="S" pid="000">
+  <name>A Fighter is Born</name>
+  <detail>Completed all lessons in Tutorial.</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>Challenger Appears!</name>
+  <detail>Played in Combo Challenge.</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="G" pid="000">
+  <name>Unchallenged Champion</name>
+  <detail>Completed all lessons for all characters in Combo Challenge.</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>Can't Touch This</name>
+  <detail>Played a Touch Fight.</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>On the Edge of Your Seat</name>
+  <detail>Play Spectator mode.</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>Fighter, Know Thyself</name>
+  <detail>View your results in Fight Record.</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>Say Cheese!</name>
+  <detail>Take a photo.</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>How Do I Fight?</name>
+  <detail>Display the Move List.</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>How Do I Fight Like a Pro?</name>
+  <detail>Display the Move Details.</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>A Fight to Remember</name>
+  <detail>Save a replay.</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>Turn it Up</name>
+  <detail>Changed the background music settings.</detail>
+ </trophy>
+ <trophy id="036" hidden="yes" ttype="S" pid="000">
+  <name>OMG</name>
+  <detail>Unlocked the "OMG" breast motion setting.</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>Who's Got Popcorn?</name>
+  <detail>Viewed a movie in the Movie Theater.</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>Safety First</name>
+  <detail>Turn Danger Zones off on the Stage Select screen.</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="G" pid="000">
+  <name>Fighting in Style</name>
+  <detail>Unlock all costumes.</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="B" pid="000">
+  <name>Blow 'Em Away</name>
+  <detail>Successfully land a Power Blow.</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="B" pid="000">
+  <name>Down You Go</name>
+  <detail>Successfully attack during a Cliffhanger.</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="B" pid="000">
+  <name>Cliffhanger Comeback</name>
+  <detail>Successfully block an opponent's attack during a Cliffhanger.</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="B" pid="000">
+  <name>I Read Every Move</name>
+  <detail>Win without taking any damage.</detail>
+ </trophy>
+ <trophy id="044" hidden="no" ttype="B" pid="000">
+  <name>Failure Teaches Success</name>
+  <detail>See all characters' losing poses.</detail>
+ </trophy>
+ <trophy id="045" hidden="no" ttype="B" pid="000">
+  <name>Insomniac</name>
+  <detail>Watch all movies in Story mode without skipping any of them.</detail>
+ </trophy>
+</trophyconf>

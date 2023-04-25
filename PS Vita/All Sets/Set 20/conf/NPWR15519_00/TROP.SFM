@@ -1,0 +1,140 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000faba74a5a6e1f7551b3747d4c9cac265f5e627f4c95b25b6da0bc3e8b92ad5b9c7146e552024f03b47d7744216fa48ae5ecb07ead6da107d7f4cb5eeef4c7a6959b55da7fe0f9f41b672f4e673f478d351a5fcba1edd9fcc3db9bbebce8dd694d01a7ae74f4493bdc4b15b9741019899bc2826590a76199e9d1ffd0182a4e474692ce0ff88e1c695be3f899586d517133eb24ca5-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR15519_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>NEW GAME! -THE CHALLENGE STAGE!-</title-name>
+ <title-detail>NEW GAME! -THE CHALLENGE STAGE!- Trophy Set</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>遊戲完全達成</name>
+  <detail>獲得全部獎盃</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="000">
+  <name>「八神光路線」好結局</name>
+  <detail>完成「八神光路線」的好結局</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>「八神光路線」普通結局</name>
+  <detail>完成「八神光路線」的普通結局</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>「遠山倫路線」好結局</name>
+  <detail>完成「遠山倫路線」的好結局</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>「遠山倫路線」普通結局</name>
+  <detail>完成「遠山倫路線」的普通結局</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>「篠田初路線」好結局</name>
+  <detail>完成「篠田初路線」的好結局</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>「篠田初路線」普通結局</name>
+  <detail>完成「篠田初路線」的普通結局</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>「飯島結音路線」好結局</name>
+  <detail>完成「飯島結音路線」的好結局</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>「飯島結音路線」普通結局</name>
+  <detail>完成「飯島結音路線」的普通結局</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>「瀧本一二三路線」好結局</name>
+  <detail>完成「瀧本一二三路線」的好結局</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>「瀧本一二三路線」普通結局</name>
+  <detail>完成「瀧本一二三路線」的普通結局</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>「葉月雫路線」好結局</name>
+  <detail>完成「葉月雫路線」的好結局</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>「葉月雫路線」普通結局</name>
+  <detail>完成「葉月雫路線」的普通結局</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>「阿波根海子路線」好結局</name>
+  <detail>完成「阿波根海子路線」的好結局</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>「阿波根海子路線」普通結局</name>
+  <detail>完成「阿波根海子路線」的普通結局</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>「櫻寧寧路線」好結局</name>
+  <detail>完成「櫻寧寧路線」的好結局</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>「櫻寧寧路線」普通結局</name>
+  <detail>完成「櫻寧寧路線」的普通結局</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="G" pid="000">
+  <name>ＣＧ鑒賞全收集</name>
+  <detail>收集了全部的事件CG</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="G" pid="000">
+  <name>場景鑒賞全收集</name>
+  <detail>收集了全部的場景</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="G" pid="000">
+  <name>音樂鑑賞全收集</name>
+  <detail>收集了全部的音樂</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="G" pid="000">
+  <name>ＮＥＷＧＡＭＥ！</name>
+  <detail>完成青葉的全部結局</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>完成了一個夢想！</name>
+  <detail>完成八神光的全部工作事件</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="B" pid="000">
+  <name>第一份工資…！</name>
+  <detail>完成遠山倫的全部工作事件</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>要那樣在公司留宿嗎？</name>
+  <detail>完成篠田初的全部工作事件</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="000">
+  <name>遲到的話會怎麽樣呢？</name>
+  <detail>完成飯島結音的全部工作事件</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="B" pid="000">
+  <name>有種真的就職了的感覺</name>
+  <detail>完成瀧本一二三的全部工作事件</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>情報圖，昨天在網上流出了！</name>
+  <detail>完成葉月雫的全部工作事件</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="B" pid="000">
+  <name>請認真進行新員工的教育工作</name>
+  <detail>完成阿波根海子的全部工作事件</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="B" pid="000">
+  <name>暑假啦！</name>
+  <detail>完成櫻寧寧的全部工作事件</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="B" pid="000">
+  <name>上班不可以嗎？</name>
+  <detail>週六或週日到公司上班</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="S" pid="000">
+  <name>發售……要中止了？</name>
+  <detail>完成GameOver結局</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="B" pid="000">
+  <name>所謂正社員不過是爲了減少薪水支出的投機取巧……</name>
+  <detail>在養成模式中執行過全部的養成指令</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="S" pid="000">
+  <name>這就是大人的酒會……</name>
+  <detail>完成過全部的對話事件</detail>
+ </trophy>
+</trophyconf>

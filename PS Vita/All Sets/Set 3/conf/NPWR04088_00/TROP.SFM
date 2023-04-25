@@ -1,0 +1,152 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000053cf9bda94ab6d56e92e6e6f485509139df3218a69194876d13207bb38bef7c4e994867c9cbc75acfb29473e7247544d339ba3bebc2bf7e80c7d18de49330d47c2a090471e6f30ce7c961ee5dde52a5d0ff741ea0fb3c8cd14eab5aadf438cc5bde5f98c9fef33b17ffdfbaefaf558c627c34154e31529620d498c1c1967f6e5ee2bdaaca55d35e426ad93b93ed4ef90f567616a-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR04088_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>戦極姫3～天下を切り裂く光と影～</title-name>
+ <title-detail>「戦極姫3～天下を切り裂く光と影～」のトロフィーセットです。頑張ってコンプリートしましょう。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>戦極制覇！</name>
+  <detail>全てのトロフィーを獲得する</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>天下をつなぐ絆</name>
+  <detail>全ての武将と絆化（セリフ鑑賞を100%）になる</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>武将史完成！</name>
+  <detail>CG鑑賞を１００％にする</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>わらわの美にひれ伏すがよい</name>
+  <detail>群雄モードの姉小路家を難易度「普通」でクリアする</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>巨乳は美しくない……</name>
+  <detail>内藤昌秀の合戦会話を全てみる</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>完全統一</name>
+  <detail>全国制覇で天下統一する</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>孤高の王者</name>
+  <detail>同盟を一度もおこなわないで天下統一する</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>最強の時代遅れ</name>
+  <detail>鉄砲を一度も購入せずに天下統一する</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>戦友との絆</name>
+  <detail>半分の武将と絆化（セリフ鑑賞を50%）になる</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>武将たちの記憶</name>
+  <detail>CG鑑賞を50％以上にする</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>酒は～呑め呑め</name>
+  <detail>装備アイテム「日ノ本号（槍）」を入手する</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>至高の一品</name>
+  <detail>装備アイテム「天下の京弓（弓）」を入手する</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>傾き馬谷風</name>
+  <detail>装備アイテム「名馬谷風（馬）」を入手する</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>血を見ずにいられぬ……</name>
+  <detail>装備アイテム「妖刀村正（刀）」を入手する</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="B" pid="000">
+  <name>信廉ルートクリア！</name>
+  <detail>信廉ルートをクリアする</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>政宗ルートクリア！</name>
+  <detail>伊達家（政宗）ルートをクリアする</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>常長ルートクリア！</name>
+  <detail>伊達家（常長）ルートをクリアする</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>足利家ルートクリア！</name>
+  <detail>足利家ルートをクリアする</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>上杉家ルートクリア！</name>
+  <detail>上杉家ルートをクリアする</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>信玄ルートクリア！</name>
+  <detail>武田家ルートをクリアする</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>信長ルートクリア！</name>
+  <detail>織田家（信長）ルートをクリアする</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>秀吉ルートクリア！</name>
+  <detail>織田家（秀吉）ルートをクリアする</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>家康ルートクリア！</name>
+  <detail>織田家（家康）ルートをクリアする</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>長慶ルートクリア！</name>
+  <detail>三好家（長慶）ルートをクリアする</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>久秀ルートクリア！</name>
+  <detail>三好家（久秀）ルートをクリアする</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>毛利家ルートクリア！</name>
+  <detail>毛利家ルートをクリアする</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>大友家ルートクリア！</name>
+  <detail>大友家ルートをクリアする</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>龍造寺家ルートクリア！</name>
+  <detail>龍造寺家ルートをクリアする</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>島津家ルートクリア！</name>
+  <detail>島津家ルートをクリアする</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>群雄モードクリア！</name>
+  <detail>群雄モードをクリアする</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>マメな男</name>
+  <detail>『武将に会う』コマンドを100回使用する</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>萌えろ！俺の姫たち</name>
+  <detail>颯馬と女キャラ5人で出陣させる</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>燃えろ！益荒男たち</name>
+  <detail>颯馬と男キャラ5人で出陣させる</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>百万石の大大名</name>
+  <detail>石高が100万石を超える</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>祝！初勝利</name>
+  <detail>合戦手動で初めて勝利する</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>ようこそ戦極の世に</name>
+  <detail>『はじめる』を選び遊んだ</detail>
+ </trophy>
+</trophyconf>

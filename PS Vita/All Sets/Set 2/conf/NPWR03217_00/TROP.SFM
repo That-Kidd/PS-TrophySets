@@ -1,0 +1,116 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000cc9c5894d7428de8ed84955f343e1cc7bfc8c139c1ce3433a527142f3ce98fefbd9ac23712963646bc87e47bd35108137b3619b842ad4d82fa846ff23b88478edbc5279ec821981754fd0eb25431d5a2c3630e357e96f1c8a6d207e42e92517ebd93c7d0b901dbd478605e8f5ba3b475d8c1ea9f16cfbe9263a775c01a95edb72c4662e4b8146c392737f5ab0df0b4febbdb5191-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR03217_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>LEGO® El Señor de los Anillos™</title-name>
+ <title-detail>Los trofeos para LEGO® El Señor de los Anillos™</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Un Anillo para construirlos a todos</name>
+  <detail>Consigue todos los otros trofeos</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>El día en que la fuerza de los hombres nos falló</name>
+  <detail>Completa La batalla de la última alianza</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Es un asunto peligroso, salir de tu casa</name>
+  <detail>Completa El Jinete Negro en el camino</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>No lleva una chuchería</name>
+  <detail>Completa El campamento en la Cima de los Vientos</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>Esto no es una mina... es una tumba</name>
+  <detail>Completa Moria: La Tumba de Balin</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>¡Vamos a cazar orcos!</name>
+  <detail>Completa La escaramuza en Amon Hen</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>Por el tesoro...</name>
+  <detail>Completa La domesticación de Gollum</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>Y a salvo los mantendré</name>
+  <detail>Completa Rastreando a los hobbits</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>¡Tú no lograrás pasar!</name>
+  <detail>Completa Moria: El puente de Khazad-dûm</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>La batalla por la Tierra Media apenas va a empezar...</name>
+  <detail>Completa La Batalla del Abismo de Helm</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>Mosquita traviesa...</name>
+  <detail>Completa La guarida de Ella-Laraña</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>Han sido convocados</name>
+  <detail>Completa Los senderos de los Muertos</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>¿Tú y el ejército de quién?</name>
+  <detail>Completa La Batalla del Pelennor</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>¡Este día pelearemos!</name>
+  <detail>Vence a la Boca de Sauron</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="000">
+  <name>¡Ya no está!</name>
+  <detail>Completa Destino final</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="G" pid="000">
+  <name>Mi tesoro...</name>
+  <detail>Recoge todos los objetos coleccionables</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="G" pid="000">
+  <name>Existe la bondad en este mundo, señor Frodo</name>
+  <detail>Entrega todos los objetos de tesoro</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="G" pid="000">
+  <name>Una ida y una vuelta</name>
+  <detail>Consigue el 100% (Solo un jugador)</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>De todos los hobbits curiosos...</name>
+  <detail>Recoge todos los perfiles de los personajes</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="G" pid="000">
+  <name>Ni con diez mil hombres podrían hacerlo...</name>
+  <detail>Desbloquea todos los personajes (Solo un jugador)</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>Creo que estoy completamente listo para otra aventura</name>
+  <detail>Consigue aventurero auténtico en todos los niveles (Solo un jugador)</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="G" pid="000">
+  <name>Los hobbits son realmente criaturas sorprendentes</name>
+  <detail>Completa todos los minijuegos en el centro</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>... Y se fue lejos, tesoro</name>
+  <detail>Utiliza a Sméagol para vencer a Gollum cuando Gollum es el compañero</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>¿Y el segundo desayuno?</name>
+  <detail>Completa El campamento en la Cima de los Vientos en juego libre</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="S" pid="000">
+  <name>Uno no entra caminando a Mordor...</name>
+  <detail>Entra caminando a Mordor (Solo un jugador)</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="S" pid="000">
+  <name>¡Eso sólo cuenta como uno!</name>
+  <detail>Vence a un olifante con Legolas</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="G" pid="000">
+  <name>La última risa</name>
+  <detail>En juego libre, utiliza la risa de Tom Bombadil para destruir a Sauron</detail>
+ </trophy>
+</trophyconf>

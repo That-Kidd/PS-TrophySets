@@ -1,0 +1,60 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000008851a0fc093256274b0a98e753ef1b36740087d99d171e1325a2be7e7e48ccb7b8ccfd4399596ae65bdb292ecc8312d381b9e3b52c174d323c9359f0589408fb93945b6a808b224abfdbef6c4860fd5ce5177aff1a8ec94f1027222b923357c40a1f4d3e439248dc640f07eba249d7f4e9b77f7a4d8da9119af299f7c10dba7d4a844a2bc6d3fb098518965f4eff49627135973c-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR07081_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>A Virus Named TOM</title-name>
+ <title-detail>The Trophy Set for A Virus Named TOM</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Helium</name>
+  <detail>Get TWO Energy Pellets Orbiting TOM at the Same Time</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Energy Fundamentalist</name>
+  <detail>Beat Level 4.05 WITHOUT Stealing Energy</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Tomorrow is History</name>
+  <detail>Complete City of Tomorrow</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Stack Overflow</name>
+  <detail>Collect more energy than the HUD capsules can contain</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Unobtainium Chain</name>
+  <detail>Get an Energy Chain of 10 Energy Pellets</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Adamantium Chain</name>
+  <detail>Get a Energy Chain of 20 Energy Pellets</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Coup d'état</name>
+  <detail>Score higher than the Devs on any Single Player level 3.01 or higher ("Tim" and "Jeremy" BAKED IN Scores)</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Glitch Abstinence</name>
+  <detail>Beat Level 3.10 WITHOUT Dropping Any Glitches</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Energy Purist</name>
+  <detail>Beat Level 3.04 WITHOUT Stealing Energy</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="-1">
+  <name>Pandemic</name>
+  <detail>Infect all levels, leaving none skipped</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="-1">
+  <name>Energy Extremist</name>
+  <detail>Beat Level 6.05 WITHOUT Stealing Energy</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="-1">
+  <name>A Virus Named Ninja</name>
+  <detail>Beat Level 6.10 Without Dying</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="-1">
+  <name>Gold Boat</name>
+  <detail>Earn GOLD for all Levels</detail>
+ </trophy>
+</trophyconf>

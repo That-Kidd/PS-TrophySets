@@ -1,0 +1,100 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000088bca93c7c27c4cb623d4142211cbd92c4998c9f57121f003077cae4d6095078593778dc37fd74f581ca3381365c634a6a4da170434e181a54ba6fe100bb8d4c0cfecda2dd2685487f9c27bf5ccd5ddb7f3e1089699fe7200fabbcb545195431589a923b1ce7afc48ae9ec080a57d6c8777de853b0adb52f5e92121a6afaaa6b7dbe68a8d1ead53a8e0521d166ba8ecbb574c969-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR17913_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Link-a-Pix Deluxe</title-name>
+ <title-detail>The trophy set of Link-a-Pix Deluxe</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>You Are the Strongest Link</name>
+  <detail>Collect all the trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Color Contender</name>
+  <detail>Solve a 10x15 color puzzle</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Color Consumer</name>
+  <detail>Solve a 15x23 color puzzle</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>Color Citizen</name>
+  <detail>Solve a 20x30 color puzzle</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>Color Coach</name>
+  <detail>Solve a 30x45 color puzzle</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>Color Captain</name>
+  <detail>Solve a 40x60 color puzzle</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>Color Chief</name>
+  <detail>Solve a 50x75 color puzzle</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>Color Commander</name>
+  <detail>Solve a 65x100 color puzzle</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>Mono Munchkin</name>
+  <detail>Solve a 10x15 mono puzzle</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>Mono Motivator</name>
+  <detail>Solve a 15x23 mono puzzle</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>Mono Manager</name>
+  <detail>Solve a 20x30 mono puzzle</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>Mono Monster</name>
+  <detail>Solve a 30x45 mono puzzle</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>Mono Magician</name>
+  <detail>Solve a 40x60 mono puzzle</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>Mono Marvel</name>
+  <detail>Solve a 50x75 mono puzzle</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>Mono Master</name>
+  <detail>Solve a 70x50 mono puzzle</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>A Pix With No Fix</name>
+  <detail>Solve a puzzle without using Fix</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="G" pid="000">
+  <name>That's So Meta</name>
+  <detail>Solve a puzzle with a gold trophy</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="G" pid="000">
+  <name>Oh My!</name>
+  <detail>Solve puzzles with a lion, a tiger and a bear</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="G" pid="000">
+  <name>Barklife</name>
+  <detail>Solve five puzzles with dogs</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="G" pid="000">
+  <name>It's Meow or Never</name>
+  <detail>Solve five puzzles with cats</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="G" pid="000">
+  <name>You're Hootiful</name>
+  <detail>Solve three puzzles with owls</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="G" pid="000">
+  <name>Don't Worry Be Hoppy</name>
+  <detail>Solve three puzzles with bunnies</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="G" pid="000">
+  <name>Waddle I Do?</name>
+  <detail>Solve three puzzles with penguins</detail>
+ </trophy>
+</trophyconf>

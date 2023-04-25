@@ -1,0 +1,168 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000027488143a2541ed9cc299b5da6a6d1c7ecdd1bc49541d71702b20bde4a2d5eb69b234336b06b4f6023888c843f991512715bb965cc655fe66fc6fa3c8bbcd0db36e78075949384451669172b5ed09ec2d5ed236a8d92085881e9ea31da1cb5cbeacfc727d989a1393758e822623e8625e9fdb484f8372f1b4e846447fafcaa6191f6eea1097c023c33a3e3ea330e8295722ac340-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR08254_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>XBLAZE LOST : MEMORIES</title-name>
+ <title-detail>XBLAZE LOST : MEMORIES Trophy</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Omnipotent</name>
+  <detail>Obtained all of the trophies in the game.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Awakening</name>
+  <detail>Embarked on this glorious adventure.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Open Your Mind!</name>
+  <detail>Experienced your first memory.</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="G" pid="000">
+  <name>Master of the Azure</name>
+  <detail>Experienced all of Es's memories.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>Tame the Green-Eyed Monster</name>
+  <detail>Experienced all of the green-hued memories.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>Fit for Royalty</name>
+  <detail>Experienced all of the purple-hued memories.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>...Listen Only to Your Rage</name>
+  <detail>Experienced all of the red-hued memories.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>Heart of Darkness</name>
+  <detail>Experienced all of the black-hued memories.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>Riddle Me THIS?!</name>
+  <detail>Attempted to solve a riddle.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>Riddle-Curious</name>
+  <detail>Solved all of the riddles on the 1st level.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>Riddle-Hobbyist</name>
+  <detail>Solved all of the riddles on the 2nd level.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>Riddle-Postulant</name>
+  <detail>Solved all of the riddles on the 3rd level.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="000">
+  <name>Riddle-Novice</name>
+  <detail>Solved all of the riddles on the 4th level.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>Riddle-Aesthetician</name>
+  <detail>Solved all of the riddles on the 5th level.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>Riddle-Theoretician</name>
+  <detail>Solved all of the riddles on the 6th level.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>Riddlemaster</name>
+  <detail>Solved all of the riddles on the 7th level.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="G" pid="000">
+  <name>Aenigma Imperator</name>
+  <detail>Solved ALL of the riddles! Good work!</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>...The Single Step</name>
+  <detail>Received your first TIPS!</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="S" pid="000">
+  <name>Enlightened One</name>
+  <detail>Received all of the TIPS!</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="G" pid="000">
+  <name>A World of Possibilities</name>
+  <detail>Completed the game.</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="000">
+  <name>Can't Go Much Father...</name>
+  <detail>Experienced dad's memories.</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>It's a Family Affair</name>
+  <detail>Found your little sister.</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="B" pid="000">
+  <name>The World is Mine!</name>
+  <detail>Returned to your own reality.</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>A Favor to a Friend</name>
+  <detail>Returned to the Phantom Field.</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="000">
+  <name>You Go (Again), Girl!</name>
+  <detail>Brought Es back to the land of the living.</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="B" pid="000">
+  <name>Sensory Memories</name>
+  <detail>You've gathered 4 Memory Fragments.</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>Implicit Memories</name>
+  <detail>You've gathered 8 Memory Fragments.</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="B" pid="000">
+  <name>Explicit Memories</name>
+  <detail>You've gathered 12 Memory Fragments.</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="B" pid="000">
+  <name>Declarative Memories</name>
+  <detail>You've gathered 16 Memory Fragments.</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="B" pid="000">
+  <name>Episodic Memories</name>
+  <detail>You've gathered 20 Memory Fragments.</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="B" pid="000">
+  <name>Semantic Memories</name>
+  <detail>You've gathered 24 Memory Fragments.</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="G" pid="000">
+  <name>Total Recall!</name>
+  <detail>You've gathered all of the Memory Fragments.</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="B" pid="000">
+  <name>Phantom Field, First Floor!</name>
+  <detail>You made it to the first level of the Phantom Field.</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="B" pid="000">
+  <name>Phantom Field, Second Floor!</name>
+  <detail>You made it to the second level of the Phantom Field.</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="B" pid="000">
+  <name>Phantom Field, Third Floor!</name>
+  <detail>You made it to the third level of the Phantom Field.</detail>
+ </trophy>
+ <trophy id="035" hidden="yes" ttype="B" pid="000">
+  <name>Phantom Field, Fourth Floor!</name>
+  <detail>You made it to the fourth level of the Phantom Field.</detail>
+ </trophy>
+ <trophy id="036" hidden="yes" ttype="B" pid="000">
+  <name>Phantom Field, Fifth Floor!</name>
+  <detail>You made it to the fifth level of the Phantom Field.</detail>
+ </trophy>
+ <trophy id="037" hidden="yes" ttype="B" pid="000">
+  <name>Phantom Field, Sixth Floor!</name>
+  <detail>You made it to the sixth level of the Phantom Field.</detail>
+ </trophy>
+ <trophy id="038" hidden="yes" ttype="B" pid="000">
+  <name>Phantom Field, Seventh Floor!</name>
+  <detail>You made it to the seventh level of the Phantom Field.</detail>
+ </trophy>
+ <trophy id="039" hidden="yes" ttype="G" pid="000">
+  <name>Final Destination!</name>
+  <detail>You made it to the final level of the Phantom Field.</detail>
+ </trophy>
+</trophyconf>

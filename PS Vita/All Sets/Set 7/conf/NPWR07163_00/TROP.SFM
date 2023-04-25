@@ -1,0 +1,116 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000cbd24f631e89a3af26f1d8bcedb395e3044109d591a25d77af70290b01e11bc54db64ee751ad3b05adb0326703940b6f407830871c0dab711753b29a1b93e5d8d413e66bb895b59ef1b88512f04c7b7d27c1bb8ec4e4a09359e31f7036dcdbf7d3b9a85db5fa27bb53c745d67a3952477455b3d9368ff263836ca4e06fde143d7c9fc0e5ff6494054e8729d730e456c40d4fbfea-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR07163_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>ルミナスアーク インフィニティ</title-name>
+ <title-detail>ルミナスアーク インフィニティのトロフィーです</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>トロフィーコンプリート</name>
+  <detail>ゴールド、シルバー、ブロンズの全てのトロフィーを獲得した</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>大団円！</name>
+  <detail>エンディングを迎えてゲームをクリアした　</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>お悩み全解決！</name>
+  <detail>サブクエストをすべて完了させた（ＤＬＣ・周回によるもの以外）</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>念願のトップアイドル！</name>
+  <detail>スターランキングでＳランクまで到達した</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>伝説の歌声</name>
+  <detail>コーリングを累計３００回行った</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>オシャレコーディネイター</name>
+  <detail>レアアクセサリーを４０種類以上獲得した</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>ボクらのオアシス</name>
+  <detail>水着装備を３０種類以上獲得した</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>オールスターストライク</name>
+  <detail>デュオストライクを全ての味方メンバーの組み合わせで行った</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="000">
+  <name>名指揮者</name>
+  <detail>コンダクトコマンドを２００回以上使用した</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>力を合わせてみんな仲良く</name>
+  <detail>デュオストライク、デュオレントを合計１００回以上行った</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>カリスマカメラマン</name>
+  <detail>４つのチャーム属性の写真をそれぞれ３０枚以上撮影した</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>ランキング三冠王！</name>
+  <detail>バトルランキングで、ベストバトラー、ベストアシスタント、ベストパフォーマーを全て１人の味方メンバーが獲得した</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>水着ブレイカー！</name>
+  <detail>ミニゲームで１０回以上、相手の水着を破壊して勝利した</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>調響マスター</name>
+  <detail>シークレットレッスン、ＥＸレッスンを合計２０回以上行った</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>さすがお兄ちゃん！</name>
+  <detail>サブクエストを３０完了させた（ＤＬＣ・周回によるもの以外）</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>両思い</name>
+  <detail>誰か1人とのエンディングルートが確定した</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>プロデュースマイスター</name>
+  <detail>誰か1人のプロデュースプランを最後まで到達させた</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>初陣勝利！</name>
+  <detail>バトルで初めて勝利した</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>リベンジバトル</name>
+  <detail>戦闘で敗北し、再挑戦を行った</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>アンサンブル！</name>
+  <detail>コーリングで６重唱（ＳＥＸＴＥＴ）を行った</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>初めてのオシャレ</name>
+  <detail>外見が変化するレアアクセサリーを１つ獲得した</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>初めての水着</name>
+  <detail>水着装備を１つ獲得した</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>お願いお兄ちゃん！</name>
+  <detail>サブクエストを１５完了させた（ＤＬＣ・周回によるもの以外）</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>ニューソング</name>
+  <detail>譜面を集めて２つ目のラピスバーストを獲得した</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>搦め手名人</name>
+  <detail>合計５０回以上、敵を状態異常にした</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>大魔法結界</name>
+  <detail>味方メンバー全員のラピスバーストを１回以上使用した</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>駆け出し指揮者</name>
+  <detail>コンダクトコマンドを１０回以上使用した</detail>
+ </trophy>
+</trophyconf>

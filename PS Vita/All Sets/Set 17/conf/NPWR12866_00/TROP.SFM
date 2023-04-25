@@ -1,0 +1,136 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000007bfe30a8fc04a9748b1ae0a372431a3dd3dd7d7f589c51d8533283bc26181c088b30b70b8b3713f14f6b071cd82e3849d50b8ce739d8a99f6fcbc345f402f3eee1c10fd82d3eca56bccbdd24317a3c46d3166128f0f7a942ec4db8abbe7ced8730cc72a911cd8f6124ba5965792f9c5d2c0fe6bb9ac7edaabc7f2f52e4d4638e36de73c995e0dd1277675c2a3b6bc60851d50d43-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR12866_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Ninja Usagimaru: Two Tails of Adventure</title-name>
+ <title-detail>Ninja Usagimaru: Two Tails of Adventure</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Legendary Traveler</name>
+  <detail>Get all of the trophies.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>Brave Traveler</name>
+  <detail>Clear the Silent Village.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>Finding People</name>
+  <detail>Clear the Frozen Valley.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>Mercy Traveler</name>
+  <detail>Clear the Foggy Bambo Forest.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>Finding Toyotama</name>
+  <detail>Clear the Ancient Dragon Cave.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>Walking with Cherry Blossoms</name>
+  <detail>Clear the Night Sakura Festival.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>Defeated the Evil</name>
+  <detail>Clear the Forest of Spirits.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>Moving forward</name>
+  <detail>Clear the Maple Forest.&#x0a;</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>Jumping to Conclusions</name>
+  <detail>Clear the Snowy Path.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>Recharging</name>
+  <detail>Clear the Mt Hot Spring.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>One to Depend On</name>
+  <detail>Clear the Green Passage.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>Nothing but the Truth</name>
+  <detail>Clear the Karakuri Village.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>Affable Adventurer</name>
+  <detail>Clear the Mechanical Castle.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="000">
+  <name>Reliable Traveler</name>
+  <detail>Clear Galus's Quests.</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="B" pid="000">
+  <name>Process of Growth</name>
+  <detail>Retry a stage 10 times.</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>Nervous Disposition</name>
+  <detail>Use the pinwheel 10 times in a stage.</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>Evildoer</name>
+  <detail>Defeat the enemies 10 times in a stage.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Like a Shadow</name>
+  <detail>Get in the teleporter 15 times in a stage.</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>Looking for Hope</name>
+  <detail>Take longer than 10 minutes to solve a stage.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>Need Alone Time</name>
+  <detail>Leave a released villager alone for 3 minutes.</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>Never Give Up</name>
+  <detail>Fall into traps 50 times.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>Whole Body Aches</name>
+  <detail>Be defeated by enemies 50 times.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>Betrayer</name>
+  <detail>Let the villagers be hurt 5 times.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>New Skill</name>
+  <detail>Get the Crossbow.</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="S" pid="000">
+  <name>Blocks Breaker</name>
+  <detail>Break 100 chipped blocks.</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="S" pid="000">
+  <name>Crossbow Master</name>
+  <detail>Shoot the crossbow 15 times.</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="S" pid="000">
+  <name>Kite Master</name>
+  <detail>Use the kite 30 times.</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="S" pid="000">
+  <name>Hookshot Master</name>
+  <detail>Use the hookshot 30 times.</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="S" pid="000">
+  <name>Fashion Hunter</name>
+  <detail>Changed into the Cerberus clothing.</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="S" pid="000">
+  <name>Hot Spring Lover</name>
+  <detail>Changed into the Towel clothing.</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="G" pid="000">
+  <name>Legendary Rabbit</name>
+  <detail>Jump 1000 times.</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="G" pid="000">
+  <name>Go Like the Wind</name>
+  <detail>Clear every stage in 5 minutes or less.</detail>
+ </trophy>
+</trophyconf>

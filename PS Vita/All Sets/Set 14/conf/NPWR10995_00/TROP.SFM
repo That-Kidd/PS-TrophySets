@@ -1,0 +1,116 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000556d7523755a671b377ae5c3f8b42f4fc8f2b4827b7255f86ea2ef3804d14d167dbe0c2425ac822b84719219fcfe545b622badeb40339290a09614212ab9a06b854f9e1abea6c23986514b14889944e05900af4b3862642f532e3df3df963afba7a5cc0fd76336486745aa837e9d4a1e4013fdf1c630655fe38038150b6762a285403825ee4e7f6ec8276cfe832f9cf38a0f82bf-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR10995_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>√Letter&#x0a;</title-name>
+ <title-detail>√Letterのトロフィーです</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>√Letter</name>
+  <detail>全てのトロフィーを獲得した</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>島根にようこそにゃ！</name>
+  <detail>しまねっこと初めて会話した</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="000">
+  <name>幽霊の文通相手</name>
+  <detail>１章をクリアした</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>トンボの便箋</name>
+  <detail>２章をクリアした</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="000">
+  <name>バナナの便箋</name>
+  <detail>３章をクリアした</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="000">
+  <name>キャンディの便箋</name>
+  <detail>４章をクリアした</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="000">
+  <name>ギャルの便箋</name>
+  <detail>５章をクリアした</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>生姜の便箋</name>
+  <detail>６章をクリアした</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>ノームの便箋</name>
+  <detail>７章をクリアした</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>勾玉の便箋</name>
+  <detail>８章をクリアした</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="000">
+  <name>青空の便箋</name>
+  <detail>縁結びルート９章をクリアした</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>桜の便箋</name>
+  <detail>縁結びルート１０章をクリアした</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>雨の便箋</name>
+  <detail>すれ違いルート９章をクリアした</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>飛行機の便箋</name>
+  <detail>すれ違いルート１０章をクリアした</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>手鏡の便箋</name>
+  <detail>姫が森の姫ルート９章をクリアした</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="S" pid="000">
+  <name>姫の便箋</name>
+  <detail>姫が森の姫ルート１０章をクリアした</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="S" pid="000">
+  <name>カラスの便箋</name>
+  <detail>呪いの手紙ルート９章をクリアした</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="S" pid="000">
+  <name>髑髏の便箋</name>
+  <detail>呪いの手紙ルート１０章をクリアした</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="S" pid="000">
+  <name>UFOの便箋</name>
+  <detail>政府の陰謀ルート９章をクリアした</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="S" pid="000">
+  <name>エイリアンの便箋</name>
+  <detail>政府の陰謀ルート１０章をクリアした</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="G" pid="000">
+  <name>真実判明！</name>
+  <detail>全てのルートをクリアした</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="G" pid="000">
+  <name>調査アイテムは全てこの手に</name>
+  <detail>全てのアイテムを獲得した</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="G" pid="000">
+  <name>真実判明？</name>
+  <detail>呪いの手紙ルート・姫が森の姫ルート・政府の陰謀ルート・すれ違いルート&#x0a;をクリアした</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="G" pid="000">
+  <name>島根を調べ尽くした男</name>
+  <detail>「調べる」を使って200回以上調べた</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>島根を歩き尽くした男</name>
+  <detail>「調べる」を使って100回以上調べた</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="G" pid="000">
+  <name>レターマニア</name>
+  <detail>手紙の返答を全て選んだ</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="G" pid="000">
+  <name>しまねっこ発見！</name>
+  <detail>しまねっこを10回以上見つけた</detail>
+ </trophy>
+</trophyconf>

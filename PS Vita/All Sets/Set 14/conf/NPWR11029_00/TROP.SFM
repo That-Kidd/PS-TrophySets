@@ -1,0 +1,56 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000033c5343f62baa4dcd6c3015a0ce85eded9ea027368fb61d4e45cc7cf4b32f9dbc4775c09a4cc4955f4aaec25722654e198f4567dd5c27181f084bf7b73ccea254795c3f0c41dc795a59c4c10e897b355197c3f667331e671288c0d216ab7eb91aca6a9e1125f7ea3f0bb71ab28194905f852812de233e2ca08acd40937129c9d2ea62a41da324618816a517c8c0bfc2d57bfb389-->
+<trophyconf version="1.1" platform="psp2,ps4" policy="small">
+ <npcommid>NPWR11029_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Zombeer</title-name>
+ <title-detail>Zombeer</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>I Survived!</name>
+  <detail>Finish the game on Easy difficulty</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>My Hero!</name>
+  <detail>Finish the game on Normal difficulty</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Dev Diary</name>
+  <detail>Find all the developer diaries</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Ay ay ay!</name>
+  <detail>Find all the "Men in thongs" figures</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Super Cosplay</name>
+  <detail>Find all the cover pages of Jessica</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Willy's plan</name>
+  <detail>Get all the sniper rifle parts</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Zomburguer</name>
+  <detail>Grind up three zombies in the turbine</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Vendetta!</name>
+  <detail>Crush the president in the stadium</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="-1">
+  <name>I got this...</name>
+  <detail>Complete the game without getting drunk or zombified</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="-1">
+  <name>Treasure Hunter</name>
+  <detail>Find all the collectibles</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="-1">
+  <name>Heavy Metal Man</name>
+  <detail>Complete the game on Hard difficulty</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="-1">
+  <name>Good Vibrations!</name>
+  <detail>Complete the game using only the dildo</detail>
+ </trophy>
+</trophyconf>

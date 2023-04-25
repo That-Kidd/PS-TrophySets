@@ -1,0 +1,64 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000007e0fa3416d1491193baaec758b05ac4181b98ebf19614403c95d71479e588575d95772f16b5c29fe6e3f42f5b039d9f29df52edcf24a3d7764e46e22322373d8fadeea642cdc87645b6f72a2601f73f9c25dd9269e0e0d62e9b28a63f2e04306788079d192ca3a5c0bceeb84c562fabfc65b95b1a8305ed05c7c9e400726cb47d93a60465c1f4386611d06192d2de9e418a2f008-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR12931_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Super Mutant Alien Assault</title-name>
+ <title-detail>Trophies for Super Mutant Alien Assault</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Galaxy 1 Boss Vanquished</name>
+  <detail>Kill the galaxy 1 boss.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Galaxy 2 Boss Vanquished</name>
+  <detail>Kill the galaxy 2 boss.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Galaxy 3 Boss Vanquished</name>
+  <detail>Kill the galaxy 3 boss.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Humanities Saviour</name>
+  <detail>Beat the game in one run on normal difficulty, by yourself.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="-1">
+  <name>Humanities Heroic Saviour</name>
+  <detail>Beat the game in one run on heroic difficulty, by yourself.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="-1">
+  <name>Humanities Epic Saviour</name>
+  <detail>Beat the game in one run on epic difficulty, by yourself</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Vanquish Pro</name>
+  <detail>Defeat a boss in under 10 seconds.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>Booooomerang Juggler</name>
+  <detail>Keep a booooomerang in the air for 30 seconds.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>3 Birds, One Bullet</name>
+  <detail>Wipe out an entire monarch flock with one sniper bullet.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>Sniper Pro</name>
+  <detail>Kill 6 enemies with one sniper bullet.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>High Roller</name>
+  <detail>Make a gas ball travel at high speed.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="-1">
+  <name>Fully Equipped</name>
+  <detail>Unlock all equipment.</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="B" pid="-1">
+  <name>Pulse Cooking</name>
+  <detail>Use your pulse belt on a cooking explosive.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="-1">
+  <name>Exploding Pressure</name>
+  <detail>Activate 30 pressure machines with explosives.</detail>
+ </trophy>
+</trophyconf>

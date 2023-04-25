@@ -1,0 +1,56 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000df8e028bca6b763d0d5357760512ad4a6d4879db23600f30af805b22df23451565a518f94b50c31fe9c1932ffa4ea09614b83baa6fc1d914502dbbe3ebff6c369c2d3dd037c4cfe9eee99e0c0d38d302316e2b484b02843848432ae969e58efb836d43dee7f3b1fb068954650521762d18fb6f944eb39fbedb7750864f128cdc4eb97eeb240def8b49dc450f12972dc4dceb1543-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR08954_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Top Trumps Turbo</title-name>
+ <title-detail>Can you win all trophies in Top Trumps Turbo!</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Unbelievable Luck</name>
+  <detail>Win 10 Stars</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="-1">
+  <name>Who needs skill?</name>
+  <detail>Win 100 Stars</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Head 2 Head</name>
+  <detail>Win 5 Head 2 Head mini games</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Hi Lo</name>
+  <detail>Win 5 Hi Lo mini games</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="-1">
+  <name>Scourge of the Mini Games</name>
+  <detail>100 Mini Games won</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>My Deck</name>
+  <detail>Win 5 My Deck mini games</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Perfect Game!</name>
+  <detail>Win 1 perfect mini game</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="-1">
+  <name>Gain Perfection 20 Times</name>
+  <detail>Win 20 perfect mini games</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>Shoot Out</name>
+  <detail>Win 5 Shoot Out mini games</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>TTT Trophy Winner</name>
+  <detail>Win a Top Trumps Turbo Final</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="-1">
+  <name>Getting the Hand of This!</name>
+  <detail>Win 5 Top Trumps Turbo Finals</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="-1">
+  <name>Seasoned Pro</name>
+  <detail>Win 50 Top Trumps Turbo Finals</detail>
+ </trophy>
+</trophyconf>

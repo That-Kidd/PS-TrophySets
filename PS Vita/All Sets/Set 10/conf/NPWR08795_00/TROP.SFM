@@ -1,0 +1,156 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000634b80b1262ffb693513cc0cb4fa8137324b19192810bef7bf74d05150985c4589fdb58b67f7b412e235a867781fd681d790caf95819dc4e229c4fee0dad7686586856026361fced4a8e381c0b1cb556b5f47e1b8a3ba99d995cbd9b213faa687a3b78763a710effd66591ef85b76335d6902fae8086e9f2636197f2fb5ed6989839209bb3bd5ffa16f49e5d086169496bca78b2-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR08795_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>メイＱノ地下ニ死ス</title-name>
+ <title-detail>メイＱノ地下ニ死スのトロフィーです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>マスターコンプリート賞</name>
+  <detail>全てのトロフィーを取得！！！</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>ゲーム開始ありがとう賞</name>
+  <detail>初めてコマンド決定した。</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>黒の塔制覇賞</name>
+  <detail>第１章をクリア！</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>紅の塔制覇賞</name>
+  <detail>第２章をクリア！</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>青の塔制覇賞</name>
+  <detail>第３章をクリア！&#x0a;</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>白の塔制覇賞</name>
+  <detail>第４章をクリア！&#x0a;</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>中黄神殿制覇賞</name>
+  <detail>第５章をクリア！</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>星の救世主賞</name>
+  <detail>最終章をクリア！&#x0a;</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>金の紋章のダンジョン制覇賞</name>
+  <detail>金の紋章のダンジョンをクリア！</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>木の紋章のダンジョン制覇賞</name>
+  <detail>木の紋章のダンジョンをクリア！</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="G" pid="000">
+  <name>火の紋章のダンジョン制覇賞</name>
+  <detail>火の紋章のダンジョンをクリア！&#x0a;</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>木の紋章獲得賞</name>
+  <detail>ハードでエンディングまでクリア！&#x0a;</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>火の紋章獲得賞</name>
+  <detail>デビルでエンディングまでクリア！&#x0a;</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="G" pid="000">
+  <name>神の紋章獲得賞</name>
+  <detail>ヘルでエンディングまでクリア！</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>ギルドクエストコンプリート賞</name>
+  <detail>ギルドの依頼をすべてクリア！&#x0a;</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="S" pid="000">
+  <name>十二星獣全討伐賞</name>
+  <detail>十二星獣をすべて撃破！</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>モンスターコンプリート賞</name>
+  <detail>モンスター図鑑をすべて埋めた。</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="S" pid="000">
+  <name>ガーディアンパーツコンプリート賞</name>
+  <detail>パーツ図鑑をすべて埋めた。</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>最強エストラ賞</name>
+  <detail>エストラのレベルが99になった。&#x0a;</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>最強コニー賞</name>
+  <detail>コニーのレベルが99になった。&#x0a;</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>最強フレア賞</name>
+  <detail>フレアのレベルが99になった。</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>最強マキ賞</name>
+  <detail>マキのレベルが99になった。</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>最強セティア賞</name>
+  <detail>セティアのレベルが99になった。&#x0a;</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="S" pid="000">
+  <name>究極エストラ賞</name>
+  <detail>エストラのレベルが999になった。&#x0a;</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="S" pid="000">
+  <name>究極コニー賞</name>
+  <detail>コニーのレベルが999になった。&#x0a;</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="S" pid="000">
+  <name>究極フレア賞</name>
+  <detail>フレアのレベルが999になった。</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="S" pid="000">
+  <name>究極マキ賞</name>
+  <detail>マキのレベルが999になった。&#x0a;</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="S" pid="000">
+  <name>究極セティア賞</name>
+  <detail>セティアのレベルが999になった。&#x0a;</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="S" pid="000">
+  <name>オールシーズンフォーム賞</name>
+  <detail>エストラのすべてのフォームの熟練度を最大まであげた！&#x0a;</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="G" pid="000">
+  <name>ガーディアンマスター賞</name>
+  <detail>ガーディアンすべてをレベル99にした！&#x0a;</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>魔械士新人賞</name>
+  <detail>撃破数５００体達成！&#x0a;</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="B" pid="000">
+  <name>優秀魔械士賞</name>
+  <detail>撃破数１０００体達成！&#x0a;</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="B" pid="000">
+  <name>最優秀魔械士賞</name>
+  <detail>撃破数３０００体達成！&#x0a;</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="B" pid="000">
+  <name>ギルドマスター賞</name>
+  <detail>撃破数５０００体達成！&#x0a;</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="S" pid="000">
+  <name>グランドマスター賞</name>
+  <detail>撃破数１００００体達成！&#x0a;</detail>
+ </trophy>
+ <trophy id="035" hidden="yes" ttype="S" pid="000">
+  <name>超絶魔械士賞</name>
+  <detail>撃破数２００００体達成！&#x0a;</detail>
+ </trophy>
+ <trophy id="036" hidden="yes" ttype="G" pid="000">
+  <name>究極超絶魔械士賞</name>
+  <detail>撃破数３００００体達成！&#x0a;</detail>
+ </trophy>
+</trophyconf>

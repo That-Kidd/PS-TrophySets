@@ -1,0 +1,168 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000004b48d29186d13a5807459ed58f118e958cc4f93c0f3f8a4179e2f0d8353c6bb3e3acbafabe58a4252ccacb4e189ec3af33fb642363939c39fd6b8ceac3ffe34fb744c2733d6ea5dfa7b7b10f57b12ebb4481137f5132245eb79d4b927fed236d6cd2952e6c68db33160a706b0f3815f13323719d5dbd139af299ffaed940ad6af120a0d795ddf58990f85fa735544744860b6302-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR04018_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>テイルズ オブ ハーツ R</title-name>
+ <title-detail>"テイルズ オブ ハーツ R"のトロフィーセットです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>テイルズ オブ ハーツ R マスター</name>
+  <detail>"テイルズ オブ ハーツ R"を極めた証。&#x0a;溢れ出るあなたの愛に最大級の感謝！</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="000">
+  <name>ガードカウンターの達人</name>
+  <detail>タイミングはバッチリバチバチ！&#x0a;もう、怒り攻撃なんて怖くない！</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>ミッションマスター</name>
+  <detail>あの手この手で、絶対に達成する！&#x0a;その意志が、この喜びに変わります</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="000">
+  <name>200コンボ達成</name>
+  <detail>連撃に次ぐ連撃…&#x0a;目にも止まらぬ速さで圧倒！&#x0a;相手に手出しはさせません！</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="S" pid="000">
+  <name>スピルドライバー</name>
+  <detail>絆の力が、己の力を強くする。&#x0a;スピリアが今、輝いている！</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="S" pid="000">
+  <name>クロスリンクスラッシャー</name>
+  <detail>阿吽の呼吸で繋がる仲間。&#x0a;もはや、その絆は仲間を超えた！？</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="000">
+  <name>チェイスリンカー</name>
+  <detail>長く、もっと長く！&#x0a;その想いの結晶がここに！</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="000">
+  <name>サプライズエンカウンター</name>
+  <detail>不意打ちを受け続けた証。&#x0a;態勢を崩されても動じない。&#x0a;そんな、強いスピリアを持ったあなたへ</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>敵を2000体撃破</name>
+  <detail>倒して倒して倒し続けた日々。&#x0a;振り返れば長いようで短くもありました</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="000">
+  <name>全キャラレベルMAX達成</name>
+  <detail>最大レベルに到達した証。&#x0a;あとは、己の腕を磨くのみ！</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="000">
+  <name>モンスターコレクター</name>
+  <detail>様々な敵に出会い、情報収集した証。&#x0a;憎いアイツを&#x0a;色々な角度から眺めてみよう！</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="S" pid="000">
+  <name>アイテムコレクター</name>
+  <detail>アイテムというアイテムを入手した証。&#x0a;意外な効果や素敵な見た目に&#x0a;心が奪われていく</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="S" pid="000">
+  <name>アイテムマーカーマスター</name>
+  <detail>世界中に隠されたアイテムマーカーを&#x0a;全て見つけ出した証。&#x0a;この世界に見つけられないものはない！</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>世界踏破</name>
+  <detail>世界をその双眸に焼き付けた証。&#x0a;広大なれど、恐れることなし</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="S" pid="000">
+  <name>料理マスター</name>
+  <detail>料理を極めた証。&#x0a;ワンダーシェフも思わずニッコリ。&#x0a;気がつけば、筋肉モリモリ？</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="G" pid="000">
+  <name>76コ</name>
+  <detail>ナムコインの収集を完了した証。&#x0a;シトリンも大喜び。&#x0a;もう、なくさないようにね！</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>グリムキガル撃破</name>
+  <detail>グリムキガルを撃破した。&#x0a;カマを相棒に持つ憎いヤツ。&#x0a;ガラドの助けがなければ、倒せなかった</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>カルセドニー撃破</name>
+  <detail>カルセドニーを撃破した。&#x0a;飛行ソーマを持った&#x0a;おかっぱ頭のいけすかないやつ。&#x0a;コハクのスピルーンを返せ！</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>アーメス撃破</name>
+  <detail>アーメスを撃破した。&#x0a;ふっ、世界勇者である僕を倒すとは&#x0a;ラッキーがいいにも程があるよ</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>サンドワーム撃破</name>
+  <detail>サンドワームを撃破した。&#x0a;砂の海を縦横無尽に泳ぎまわる。&#x0a;元気一杯だったのは、&#x0a;喜びのスピルーンのせい？</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="000">
+  <name>カルセドニー隊撃破</name>
+  <detail>カルセドニー隊を撃破した。&#x0a;互いの想いをソーマに託し&#x0a;長き戦いはついに決着を迎えた。&#x0a;オレの勝ちだ！</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>シルバ撃破</name>
+  <detail>シルバを撃破した。&#x0a;理想世界を夢見た者に想いを届けるため&#x0a;ソーマを手に全力で立ち向かった。&#x0a;届けたかった想いは、きっと……</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="B" pid="000">
+  <name>クロアセラフ撃破</name>
+  <detail>クロアセラフを撃破した。&#x0a;戦闘用エース型機械人は&#x0a;緑の刃物野郎でした。&#x0a;たとえ、性能が劣っていたって&#x0a;力をあわせれば、撃退できる！</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>憑依ストリーガウ撃破</name>
+  <detail>憑依ストリーガウを撃破した。&#x0a;自称、高尚な趣味を持つ男。&#x0a;自らの欲望のためなら手段を選ばない&#x0a;どこまでも汚く、醜い男でした</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="000">
+  <name>ダブルセラフ撃破</name>
+  <detail>クロアセラフ＆クリノセラフを&#x0a;撃破した。&#x0a;緑の刃物野郎クロアセラフ、&#x0a;青の盾野郎クリノセラフ。&#x0a;セラフ兄弟、&#x0a;ダブルセラフとも呼ばれています。&#x0a;戦闘用エース型の同時攻撃は&#x0a;とても厄介でした</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="B" pid="000">
+  <name>インカローズILLを撃破</name>
+  <detail>インカローズILLを撃破した。&#x0a;クロアセラフの武装とスピード、&#x0a;クリノセラフの装甲とパワーを&#x0a;あわせても、&#x0a;最後までひとりだった彼女は&#x0a;本来の力以上のものを&#x0a;引き出せませんでした</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="G" pid="000">
+  <name>クリード撃破</name>
+  <detail>クリードを撃破した。&#x0a;愛しい者を、結晶界を救うため、&#x0a;二千年もの間、戦い続けた彼が&#x0a;死の間際に託された想いを胸に抱き&#x0a;シングは最初のスピリアをつなぐ</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="G" pid="000">
+  <name>ファルディアルメアス撃破</name>
+  <detail>ファルディアルメアスを撃破した。&#x0a;門番らしく神々しい姿から繰り出される&#x0a;高火力、広範囲攻撃に苦しめられたけど&#x0a;骨のある良い戦いだった……かも？</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="S" pid="000">
+  <name>難易度マニアでクリア</name>
+  <detail>難易度マニアでゲームクリア。&#x0a;おめでとう！&#x0a;次に目指すはアンノウンクリアだ！</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="S" pid="000">
+  <name>難易度アンノウンでクリア</name>
+  <detail>難易度アンノウンでゲームクリア。&#x0a;最高難易度クリアおめでとう！&#x0a;君の前に、敵はない！</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>バルーンマスター</name>
+  <detail>ふわふわ、ゆらゆら揺れるバルーンを&#x0a;数え切れないほど叩き割った。&#x0a;今日から君もバルーンマスター！</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="S" pid="000">
+  <name>闘技場クリア</name>
+  <detail>闘技場をシングル、パーティで&#x0a;上級までクリアした証。&#x0a;闘技場を制覇した栄光は&#x0a;輝き続けるでしょう！&#x0a;おや？　誰かがこちらを&#x0a;見ているようですが……</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="S" pid="000">
+  <name>ヒューバート＆パスカル撃破</name>
+  <detail>ヒューバートとパスカルを撃破した。&#x0a;可愛い着ぐるみを着て登場した&#x0a;奇抜なふたり組み。&#x0a;面白いだけじゃなく、&#x0a;実力も確かなものでした</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="B" pid="000">
+  <name>シングとコハクの絆</name>
+  <detail>シングとコハクの&#x0a;ソーマリンクを強めた証。&#x0a;気高く、芯の通ったスピリアを持った&#x0a;可憐な少女は、勇気を与えてくれました</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="B" pid="000">
+  <name>シングとベリルの絆</name>
+  <detail>シングとベリルの&#x0a;ソーマリンクを強めた証。&#x0a;夢を追う姿は、とても胸に響きました。&#x0a;宮廷画家の夢、応援するよ！</detail>
+ </trophy>
+ <trophy id="035" hidden="yes" ttype="B" pid="000">
+  <name>シングとカルセドニーの絆</name>
+  <detail>シングとカルセドニーの&#x0a;ソーマリンクを強めた証。&#x0a;誇りを持って戦いに挑む彼からは&#x0a;色々なものを学びました。&#x0a;これからもよろしくな、戦友！</detail>
+ </trophy>
+ <trophy id="036" hidden="yes" ttype="B" pid="000">
+  <name>コハクとヒスイの絆</name>
+  <detail>ハーツ兄妹のソーマリンクを強めた証。&#x0a;口うるさくても、&#x0a;それは愛情から来るもの。&#x0a;シスコンだって良いじゃない、&#x0a;だってお兄ちゃんだもの！</detail>
+ </trophy>
+ <trophy id="037" hidden="yes" ttype="B" pid="000">
+  <name>コハクとベリルの絆</name>
+  <detail>コハクとベリルの&#x0a;ソーマリンクを強めた証。&#x0a;友情パワーでどんな困難だって、&#x0a;バッチバチにスパークさせちゃうよ！</detail>
+ </trophy>
+ <trophy id="038" hidden="yes" ttype="B" pid="000">
+  <name>イネスとガラドの絆</name>
+  <detail>イネスとガラドの&#x0a;ソーマリンクを強めた証。&#x0a;愛に満ちあふれたふたりは&#x0a;似たもの同士。&#x0a;子を想うのは親として当然！</detail>
+ </trophy>
+ <trophy id="039" hidden="yes" ttype="B" pid="000">
+  <name>クンツァイトとガラドの絆</name>
+  <detail>クンツァイトとガラドの&#x0a;ソーマリンクを強めた証。&#x0a;機械だから&#x0a;スピリアがないなんてことはない！&#x0a;スピリアに触れた機士は&#x0a;そのぬくもりを知る</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,52 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000030919c8a5b034ff0a64b6477ec5e1aa6599b94157c01599f39b9738218e02e6a9297502ff1853cf865a98066ed3ac8d92402e1f28749840c4545e6cea8a2682792ec2233e6206f0265a73b589eccaa155ac8f5915cc295a8f2a13d4dcda0b96f8716f5da9ee87dd4dc5936de2038d6eb194a7f0a4efb4045c22ed0c98881dcd2794d5d29a1fd788d86e3b8799ac23ce6150c45d3-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR14801_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Little Red Lie</title-name>
+ <title-detail>Trophies for Little Red Lie.</title-detail>
+ <trophy id="000" hidden="yes" ttype="B" pid="-1">
+  <name>Duly Noted</name>
+  <detail>Unsuccessfully attempt to mitigate your evasiveness in the opening questionnaire.</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="-1">
+  <name>Dramatic Pause</name>
+  <detail>Take a long sip of water before continuing on with your stunning tirade.</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="-1">
+  <name>Circular Logic</name>
+  <detail>Attempt to mask your intoxication via greater intoxication.</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="-1">
+  <name>Grand Victory</name>
+  <detail>Falsify your way into being touched by a member of the opposite sex.</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="-1">
+  <name>Whiplash</name>
+  <detail>Force an inane conversation about every single car in the showroom.</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="-1">
+  <name>En Francais</name>
+  <detail>Respond to the French recording in your very best French.</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="-1">
+  <name>Sore Loser</name>
+  <detail>'Accidentally' scratch the felt on the airport pool table.</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="-1">
+  <name>Great Guy</name>
+  <detail>Speak insincerely with every unimportant person in the game.</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="-1">
+  <name>True Justice</name>
+  <detail>Have your life restored in a manner befitting your worth.</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="-1">
+  <name>The Good Life</name>
+  <detail>Start a new life with your loving family in a better place.</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="G" pid="-1">
+  <name>The Best Policy</name>
+  <detail>Awarded in recognition of your contribution to the arts.</detail>
+ </trophy>
+</trophyconf>

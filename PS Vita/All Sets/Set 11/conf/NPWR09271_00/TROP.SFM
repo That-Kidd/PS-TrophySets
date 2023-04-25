@@ -1,0 +1,56 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000062c61ba961180d61033732a26f5d12dc800f67815a3b6b5e4f98e50adc9cfab02b40acbf8f5725f6ccf3baf089bb010a36542a301e7a2310a3f4257490cc6b5b704c4e9fdf57c10a825dd52640be92cfdb9c25fd1c6e7e12a2498298265967040e2527faa97819ae198eaf00896d05277b378d8684c89727d3d47f64f2f32a6eafe310591c7dcfee797c7657f7eb04402a0ca19-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR09271_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>マル合格! 宅建試験 平成27年度版</title-name>
+ <title-detail>『マル合格! 宅建試験 平成27年度版』のトロフィーセットです。&#x0a;たくさん学習して、すべてのトロフィーの獲得を目指しましょう。&#x0a;</title-detail>
+ <trophy id="000" hidden="no" ttype="G" pid="-1">
+  <name>全トロフィー取得</name>
+  <detail>すべてのトロフィーを獲得する</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="S" pid="-1">
+  <name>オールA評価</name>
+  <detail>全ての分野の成績をA評価にする</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="-1">
+  <name>300回正解</name>
+  <detail>300回正解する</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="S" pid="-1">
+  <name>全ての問題を正解</name>
+  <detail>全ての問題に正解する</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>200回正解</name>
+  <detail>200回正解する</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>100回正解</name>
+  <detail>100回正解する</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>50回正解</name>
+  <detail>50回正解する</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="-1">
+  <name>20連続正解</name>
+  <detail>20問連続で正解する</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="-1">
+  <name>100回不正解</name>
+  <detail>100回不正解する</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="-1">
+  <name>5連続不正解</name>
+  <detail>5問連続で不正解する</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="-1">
+  <name>5連続正解</name>
+  <detail>5問連続で正解する</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="-1">
+  <name>初めて正解</name>
+  <detail>初めて正解する</detail>
+ </trophy>
+</trophyconf>

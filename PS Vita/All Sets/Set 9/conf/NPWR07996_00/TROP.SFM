@@ -1,0 +1,168 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000005a4ce56f96b6f63ae9875c716bab2a23a62c4681832360ee05fd8797c0b488c7e39e4505b7d8dc820641a92bfa07caf84e8af7ef6cb22761a61240ff1d21b61475012aaafd6fc7b33e3ebd33b89c56b1c418277f117cadae81d72d7f769450a00b62d0d19531086004135c690643c9ce319f71dac4179b4ed42c7a2872014add8f7bdbc65c715816307a88c1dfdcbd6e4dfbb3b7-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR07996_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>英雄伝説 空の軌跡 FC Evolution</title-name>
+ <title-detail>英雄伝説 空の軌跡 FC Evolution</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>THE LEGEND OF HEROES</name>
+  <detail>全てのトロフィーを獲得した。</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>見習い準遊撃士</name>
+  <detail>準遊撃士になった。</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="S" pid="000">
+  <name>腕利き準遊撃士</name>
+  <detail>準遊撃士ランク・1級になった。</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="000">
+  <name>期待の正遊撃士</name>
+  <detail>正遊撃士になった。</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>父、旅立つ</name>
+  <detail>序章『父、旅立つ』をクリアした。</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>消えた飛行客船</name>
+  <detail>第１章『消えた飛行客船』をクリアした。</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>白き花のマドリガル</name>
+  <detail>第２章『白き花のマドリガル』をクリアした。</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>黒のオーブメント</name>
+  <detail>第３章『黒のオーブメント』をクリアした。</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>王都撩乱</name>
+  <detail>終章『王都撩乱』をクリアした。</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="000">
+  <name>不倒の勇者</name>
+  <detail>いずれかの章を戦闘不能回数0回でクリアした。</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="000">
+  <name>勇往の獅子</name>
+  <detail>いずれかの章を戦闘退却回数0回でクリアした。</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>不滅の英雄</name>
+  <detail>リトライ回数0回でクリアした。</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="G" pid="000">
+  <name>孤高の栄冠</name>
+  <detail>難易度ノーマル以上、全員レベル40以下でゲームをクリアした。</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>剛毅の栄冠</name>
+  <detail>難易度ハード以上でゲームをクリアした。</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="G" pid="000">
+  <name>地獄の栄冠</name>
+  <detail>難易度ナイトメアでゲームをクリアした。</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="S" pid="000">
+  <name>クエストマスター</name>
+  <detail>全てのサブクエストを達成した。</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>天眼の識者</name>
+  <detail>魔獣手帳の全情報を集めた。</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>改造マニア</name>
+  <detail>全員のオーブメントのスロットを開封した。</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>クラフトマスター</name>
+  <detail>全てのクラフトを習得した。</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>アーツマスター</name>
+  <detail>全てのアーツを使用した。</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="B" pid="000">
+  <name>至高の剣</name>
+  <detail>最強武器を手に入れた。</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="G" pid="000">
+  <name>クオーツコレクター</name>
+  <detail>全てのクオーツを集めた。</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="S" pid="000">
+  <name>炎の料理人</name>
+  <detail>全てのレシピを集めた。</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="S" pid="000">
+  <name>ブックマニア</name>
+  <detail>全ての『カーネリア』と『リベール通信』を読んだ。</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>トレジャーハンター</name>
+  <detail>全ての宝箱を開いた。</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>百万長者</name>
+  <detail>所持金が100万ミラ以上になった。</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>継続の粋人</name>
+  <detail>プレイ時間が100時間を越えた。</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>無双の烈士</name>
+  <detail>メンバー全員のレベルを40まで上げた。</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>力戦の勇士</name>
+  <detail>戦闘勝利回数100回達成した。</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>奮戦の猛者</name>
+  <detail>戦闘勝利回数300回達成した。</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="S" pid="000">
+  <name>歴戦の勝者</name>
+  <detail>戦闘勝利回数500回達成した。</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>百討の志士</name>
+  <detail>敵を100体以上倒した。</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="S" pid="000">
+  <name>千討の志士</name>
+  <detail>敵を1000体以上倒した。&#x0a;</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>雷光一閃</name>
+  <detail>先制・奇襲攻撃を合計100回発生させた。</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>超絶秘技</name>
+  <detail>Ｓブレイクを100回発動した。</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>百花迎撃</name>
+  <detail>敵の技・アーツの駆動を100回阻止した。</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>起死回生</name>
+  <detail>戦闘でピンチ状態を立て直した。</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>八頭撃滅</name>
+  <detail>敵8体を同時に倒した。</detail>
+ </trophy>
+ <trophy id="038" hidden="yes" ttype="S" pid="000">
+  <name>銀の意志</name>
+  <detail>女王宮でロランス少尉を倒した。</detail>
+ </trophy>
+ <trophy id="039" hidden="yes" ttype="G" pid="000">
+  <name>金の翼</name>
+  <detail>封印区画で戦乙女たちを倒した。</detail>
+ </trophy>
+</trophyconf>

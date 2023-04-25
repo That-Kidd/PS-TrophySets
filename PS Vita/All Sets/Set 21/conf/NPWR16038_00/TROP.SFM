@@ -1,0 +1,100 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000801a310c089a61599c4fa95aa1bcc966394de6ce4ba553c3c976161a3de39f19677f4bd6da4957142493051009d4d4fc9699916e2381077827e24d2f947cf6cebe3573312ee3d12922301dde972d5fb764d32a18d8222792956ae5a19c246ff5f64d58f85d3e9c810134f5197eb018fe904d605590760c9d9e3abfdafe5f901752c4fa8b56bd5483cac80040df33df79426b1b68-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR16038_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>殺し屋とストロベリー</title-name>
+ <title-detail>「殺し屋とストロベリー」のトロフィー情報です。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>殺し屋とストロベリー</name>
+  <detail>トロフィーをコンプリートした</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>graphic　コンプリート</name>
+  <detail>全てのグラフィックを見た</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>movie　コンプリート</name>
+  <detail>全てのムービーを見た</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>music　コンプリート</name>
+  <detail>全てのBGMを聴いた</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>chapter　コンプリート</name>
+  <detail>全てのイベントを読んだ</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>エンディング　コンプリート</name>
+  <detail>全てのエンディングをクリアした</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>ハッピーED　コンプリート</name>
+  <detail>全てのハッピーEDをクリアした</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>イチゴとツキミ</name>
+  <detail>ツキミルートのCGを全て取得した</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>イチゴとイズナ</name>
+  <detail>イズナルートのCGを全て取得した</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>イチゴとクラマ</name>
+  <detail>クラマルートのCGを全て取得した</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>イチゴとノイン</name>
+  <detail>ノインルートのCGを全て取得した</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="S" pid="000">
+  <name>イチゴとアモン</name>
+  <detail>アモンルートのCGを全て取得した</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>イチゴと長谷川</name>
+  <detail>長谷川ルートのCGを全て取得した</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="S" pid="000">
+  <name>イチゴと殺し屋たち</name>
+  <detail>その他のCGを全て取得した</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>最期の一瞬まで、あなたの傍にいます</name>
+  <detail>ツキミルートのハッピーEDをクリアした</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="S" pid="000">
+  <name>俺のこと好きって言えよ</name>
+  <detail>イズナルートのハッピーEDをクリアした</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="S" pid="000">
+  <name>私の名を呼んで欲しいから</name>
+  <detail>クラマルートのハッピーEDをクリアした</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="S" pid="000">
+  <name>君に会えたから</name>
+  <detail>ノインルートのハッピーEDをクリアした</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="S" pid="000">
+  <name>今は、もっと幸せ</name>
+  <detail>アモンルートのハッピーEDをクリアした</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="S" pid="000">
+  <name>ずっと、あなたのそばにいます</name>
+  <detail>長谷川ルートのハッピーEDをクリアした</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="000">
+  <name>月影とウェイトレス</name>
+  <detail>共通シナリオをクリアした</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>覚めない悪夢</name>
+  <detail>全てのバッドエンドをクリアした</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="B" pid="000">
+  <name>真相へ</name>
+  <detail>ノインルートを開放した</detail>
+ </trophy>
+</trophyconf>

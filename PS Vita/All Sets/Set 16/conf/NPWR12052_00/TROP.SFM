@@ -1,0 +1,72 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000b1ceb6d31ab1c9e31a92035ef771d83cd2b12fba6a866573fb56c72fd3073f877b31aeb8ddb087c581a9cd597976422da7a920c4847938f9afc9685be6ac496e95332824bdbae8c52f78a22d85272f7a8d8c01ef80dea7b50cd7271cec1c180151c21651508f35611c1eb12a44a4d5339ebb03184eeefa3c5ccc6f6ff18aa7a0422615b37d4eae2e7c2c7ff982b3d9519e6f0454-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR12052_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>果つることなき未来ヨリ</title-name>
+ <title-detail>果つることなき未来ヨリのトロフィーです。</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>コンプリート</name>
+  <detail>全てのトロフィーを獲得</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="S" pid="000">
+  <name>ルルカリオン</name>
+  <detail>第一章を読んだ</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="S" pid="000">
+  <name>ネーレイス</name>
+  <detail>第二章を読んだ</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="S" pid="000">
+  <name>ヒューレー</name>
+  <detail>第三章を読んだ</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="S" pid="000">
+  <name>飛竜隊</name>
+  <detail>第四章を読んだ</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>下士官、三森一郎の休日</name>
+  <detail>飛竜隊・ユキカゼと一緒に風呂に入った</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>新生、バラウール</name>
+  <detail>バラウールを再結成した</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="G" pid="000">
+  <name>平和の灯</name>
+  <detail>ユキカゼルート・元の世界に帰るエンディングをクリア</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="G" pid="000">
+  <name>戦乱の果てに</name>
+  <detail>ユキカゼルート・この世界に残るエンディングをクリア</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="G" pid="000">
+  <name>STILL ALIVE</name>
+  <detail>アイラルートをクリア</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="G" pid="000">
+  <name>新たな船出</name>
+  <detail>メルティナルートをクリア</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="G" pid="000">
+  <name>さよなら</name>
+  <detail>リアルートをクリア</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>CGコンプリート</name>
+  <detail>CGギャラリーをコンプリート</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="G" pid="000">
+  <name>BGMコンプリート</name>
+  <detail>BGM鑑賞をコンプリート</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="000">
+  <name>シーンコンプリート</name>
+  <detail>シーン回想をコンプリート</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="G" pid="000">
+  <name>ムービーコンプリート</name>
+  <detail>ムービー鑑賞をコンプリート</detail>
+ </trophy>
+</trophyconf>

@@ -1,0 +1,208 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000004dd96f221dd4d2f3df3adfc4dba37e9fa04c38674e77df2ce787c660cb1237101e0ee8c7a14fe49095f650036348c5e3365232b226f5a4d1f1de936bad6000b61cd220c5f4d97aa6ef8dfcf1bd9499140af6486cb6990a9ce2587590aa1c6552e2cc26bfbb02756b8d12ad7b5f87ce3d0882f556deb5286728ad5ddc4149131162e1670dd3d6c544a220ca3a3dc9026436d631f5-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR06199_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>ROBOTICS;NOTES ELITE</title-name>
+ <title-detail>( ・｀ω・)-○))～～～～～～～Ю☆ ガンヴァルアンクストライカー！</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>愛と正義の完璧主義者</name>
+  <detail>ROBOTICS;NOTES ELITEをやりつくす</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="000">
+  <name>おじゃりもうせ！</name>
+  <detail>ROBOTICS;NOTES ELITEを開始する</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>夢と希望とロマンがあってこそ</name>
+  <detail>PHASE01を開始する</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>一緒に、正義の巨大ロボを造ろう</name>
+  <detail>PHASE02を開始する</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>夢が終わっちゃったら、寂しい</name>
+  <detail>PHASE03を開始する</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>血と汗と涙の結晶ですから</name>
+  <detail>PHASE04を開始する</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>うちらだからこそ造れるロボを</name>
+  <detail>PHASE05を開始する</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>どこかひとつでも好きになってくれるまで</name>
+  <detail>PHASE06を開始する</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>なんという狂った世界</name>
+  <detail>PHASE07を開始する</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="000">
+  <name>君に夢を見せてあげよう</name>
+  <detail>PHASE08を開始する</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="000">
+  <name>巨大ロボットが、大好きです</name>
+  <detail>PHASE09を開始する</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>胸を張って、この子を動かしてあげなくちゃ</name>
+  <detail>PHASE10を開始する</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="B" pid="000">
+  <name>夢なんて、持たなければよかった</name>
+  <detail>PHASE11を開始する</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="000">
+  <name>ここからは、俺たちのゲームだ</name>
+  <detail>PHASE12を開始する</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="S" pid="000">
+  <name>これからも、よろしくね</name>
+  <detail>淳和のエンディングを見る</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="S" pid="000">
+  <name>私にできることを、やっていこう</name>
+  <detail>フラウのエンディングを見る</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="S" pid="000">
+  <name>メリークリスマス</name>
+  <detail>愛理のエンディングを見る</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="S" pid="000">
+  <name>今日で、夏も、終わりか</name>
+  <detail>綯のエンディングを見る</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="G" pid="000">
+  <name>みんなの笑顔を守れたよ</name>
+  <detail>あき穂のエンディングを見る</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>『見えざる支配者』をここに告発する</name>
+  <detail>君島レポートを３つ発見する</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="000">
+  <name>すべてを集めてくれた君に感謝を</name>
+  <detail>君島レポートを全て発見する</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>これであなたもジオタグビギナー</name>
+  <detail>初めてジオタグを開く</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>これであなたもジオタグマニア</name>
+  <detail>ジオタグを３０個集める</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>これであなたもジオタグエキスパート</name>
+  <detail>ジオタグを５０個集める</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>これであなたもジオタグマスター</name>
+  <detail>ジオタグを７０個集める</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>これであなたもツイぽ界デビュー</name>
+  <detail>初めてツイぽに返信する</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>これであなたもツイぽ界ルーキー</name>
+  <detail>２５回ツイぽに返信する</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>これであなたもツイぽ界ベテラン</name>
+  <detail>５０回ツイぽに返信する</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>これであなたもツイぽ界エリート</name>
+  <detail>１００回ツイぽに返信する</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>あなたはここにいるよ</name>
+  <detail>deluoode mapを開いて現在の居場所を確認する</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>ぜんぜん見つかりませんねー♪</name>
+  <detail>君島レポート探し中に１０ヶ所以上さまよう</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="S" pid="000">
+  <name>もう敵はいない</name>
+  <detail>全てのキルバラ対戦で勝利する（累計）</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>今のはまだウォーミングアップだ</name>
+  <detail>キルバラ対戦で敗北する</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>UMISHOがぁ！決めたぁぁーっ！！</name>
+  <detail>ランカー戦で１回もミスせずキルバラのコマンド入力を成功する</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>あり得るんだよ</name>
+  <detail>ROBO-ONE予選１回戦で１回もミスせずコマンド入力を成功する</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>やっぱりヌルゲーだったよ</name>
+  <detail>ROBO-ONE決勝で１回もミスせずコマンド入力を成功する</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>俺が全一だ</name>
+  <detail>最終決戦で入力ミスをしないで勝利する</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>ロボ部活動日誌その１</name>
+  <detail>CGコンプリート25%</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>ロボ部活動日誌その２</name>
+  <detail>CGコンプリート50%</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="000">
+  <name>ロボ部活動日誌その３</name>
+  <detail>CGコンプリート75%</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="G" pid="000">
+  <name>ロボ部活動日誌その４</name>
+  <detail>CGコンプリート100%</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="B" pid="000">
+  <name>勉強するのって、やになるよねっ</name>
+  <detail>初めてTIPSを開く</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="G" pid="000">
+  <name>これでテストもバッチリだねっ</name>
+  <detail>TIPSを全て開く</detail>
+ </trophy>
+ <trophy id="043" hidden="yes" ttype="B" pid="000">
+  <name>ハカーじゃなくてハッカーだろ、常考</name>
+  <detail>ＤａＳＨと友達になる</detail>
+ </trophy>
+ <trophy id="044" hidden="yes" ttype="B" pid="000">
+  <name>さ、三次元に、興味はないんだ……ふひひ</name>
+  <detail>疾風迅雷のナイトハルトと友達になる</detail>
+ </trophy>
+ <trophy id="045" hidden="yes" ttype="B" pid="000">
+  <name>助手ではないと言っとろーが</name>
+  <detail>栗悟飯とカメハメ波と友達になる</detail>
+ </trophy>
+ <trophy id="046" hidden="yes" ttype="B" pid="000">
+  <name>お、押忍……！</name>
+  <detail>PHASE06への道を開く</detail>
+ </trophy>
+ <trophy id="047" hidden="yes" ttype="B" pid="000">
+  <name>デュフフ</name>
+  <detail>PHASE07への道を開く</detail>
+ </trophy>
+ <trophy id="048" hidden="yes" ttype="B" pid="000">
+  <name>ぴぴ〜ぶ〜</name>
+  <detail>PHASE08への道を開く</detail>
+ </trophy>
+ <trophy id="049" hidden="yes" ttype="S" pid="000">
+  <name>ジャキーン！</name>
+  <detail>PHASE09への道を開く</detail>
+ </trophy>
+</trophyconf>

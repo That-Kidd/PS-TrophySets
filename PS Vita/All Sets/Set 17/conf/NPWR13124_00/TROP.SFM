@@ -1,0 +1,40 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c010000000000000007cda246c323b3c498fac2b84f5241769d6d4fe4c918646cb654149f4e18a2d952c8493fc8c58952d40a70fcd6bae36dfe2d3c4baec2ffc4bd4609b454abfee3e94bc32afa9cf61d53f7b04ef44119462207c15d8c624e2b7f118ab6f5d8b52907e7cd4f7326a1272a4b3619357e757367ff70ef3397aecd10858bd708a5dfe8aff103a78f10154e7d11a373f06e6ba9cbfae39c-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR13124_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Plague Road</title-name>
+ <title-detail>The Core Trophies of Plague Road</title-detail>
+ <trophy id="000" hidden="no" ttype="S" pid="-1">
+  <name>Builder</name>
+  <detail>Unlock all farm buildings.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="-1">
+  <name>Savior</name>
+  <detail>Rescue 50 Survivors.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Magical Doctor</name>
+  <detail>Heal 20 times using the Nurse.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Hot Under the Collar</name>
+  <detail>Kill 10 enemies using the Soldier's Flame Thrower.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Resilient</name>
+  <detail>Get poisoned 10 times.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Traveler</name>
+  <detail>Reach the City.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="S" pid="-1">
+  <name>Adventurer</name>
+  <detail>Discover the Catacombs.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="-1">
+  <name>All the Way</name>
+  <detail>Finish the True Ending.</detail>
+ </trophy>
+</trophyconf>

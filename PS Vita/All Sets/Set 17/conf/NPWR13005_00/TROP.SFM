@@ -1,0 +1,56 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000003e5b893c2cb80522725de2faaa8744108a91c499c5d79ad8f70574b90aae393386164649b99d83256497466d94c29f5dba82d83ae083641e8350f73425474aedfc1cb6f69cc5c6c397410ffca9795ee917bf117a9828d56d36c93cac5bc3eab0212d986b2060923d2d74efcc560a37dc2b79be651a97a28f25fbb20a4a9e808429902dc07e5a07cd13804fbb9679bb2f13cd1082-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR13005_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>METAGAL</title-name>
+ <title-detail>METAGAL</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Platinum GAL</name>
+  <detail>Get all other trophies.</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="G" pid="000">
+  <name>I'm blue because I've to!</name>
+  <detail>Watch the intro without skipping it.</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="G" pid="000">
+  <name>This was too easy...</name>
+  <detail>Complete the tutorial level with GAL.00.</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="G" pid="000">
+  <name>It's Gear time!!</name>
+  <detail>Collect 1 gear.</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="G" pid="000">
+  <name>This will come handy!</name>
+  <detail>Collect 2 gears.</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="G" pid="000">
+  <name>I'm going to need too many of these...</name>
+  <detail>Collect 3 gears.</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="G" pid="000">
+  <name>First Timer</name>
+  <detail>Die for the first time.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="G" pid="000">
+  <name>There is no ground!!!</name>
+  <detail>Fall of a level.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="G" pid="000">
+  <name>This is spiky!</name>
+  <detail>Die by spikes.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="G" pid="000">
+  <name>I will do better this time!!</name>
+  <detail>Rebirth with a gear.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="G" pid="000">
+  <name>This will make things easier.</name>
+  <detail>Reach a checkpoint on any level.</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="000">
+  <name>I can use her power now!</name>
+  <detail>Defeat any of your GAL sisters.</detail>
+ </trophy>
+</trophyconf>

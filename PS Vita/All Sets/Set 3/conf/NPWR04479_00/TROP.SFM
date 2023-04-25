@@ -1,0 +1,56 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000000042f097413ca24c7650bfc04faecbf473ad37395902e2c911a4efe5fc8f67b7c9c251e5c3117cc96c14aed09ab5376825375391583f3cec1a827963bceb2df2d3a47122f0f8a4ce7223cc62476f1601d26b74a2cdcf332f7a2d0083173408905ee18303c8727d69396ab392016e16d17b1cc1e615e2f33abf63a287f30664f3f20f66d4e8630215254a83c7df4b7735b4c2028d-->
+<trophyconf version="1.1" platform="psp2" policy="small">
+ <npcommid>NPWR04479_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>Machinarium</title-name>
+ <title-detail>Machinarium Trophies</title-detail>
+ <trophy id="000" hidden="no" ttype="B" pid="-1">
+  <name>Survivor</name>
+  <detail>Escape the scrapyard</detail>
+ </trophy>
+ <trophy id="001" hidden="no" ttype="B" pid="-1">
+  <name>Back in town</name>
+  <detail>Enter Machinarium</detail>
+ </trophy>
+ <trophy id="002" hidden="no" ttype="B" pid="-1">
+  <name>Jail breaker</name>
+  <detail>Free self and jail mates</detail>
+ </trophy>
+ <trophy id="003" hidden="no" ttype="B" pid="-1">
+  <name>Pet catcher</name>
+  <detail>Bring the dog to the lady</detail>
+ </trophy>
+ <trophy id="004" hidden="no" ttype="B" pid="-1">
+  <name>Board game master</name>
+  <detail>Win the Tic-tac-toe game</detail>
+ </trophy>
+ <trophy id="005" hidden="no" ttype="B" pid="-1">
+  <name>Music lover</name>
+  <detail>Help the musicians</detail>
+ </trophy>
+ <trophy id="006" hidden="no" ttype="B" pid="-1">
+  <name>Video gamer</name>
+  <detail>Win all console games</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="S" pid="-1">
+  <name>Plumber</name>
+  <detail>Flood the Blackhats</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="S" pid="-1">
+  <name>Deactivator</name>
+  <detail>Disable the bomb</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="S" pid="-1">
+  <name>Debugger</name>
+  <detail>Repair the brain</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="S" pid="-1">
+  <name>Rescuer</name>
+  <detail>Rescue the girl</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="G" pid="-1">
+  <name>Escaper</name>
+  <detail>Escape Machinarium</detail>
+ </trophy>
+</trophyconf>

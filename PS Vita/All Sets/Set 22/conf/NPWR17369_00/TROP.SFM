@@ -1,0 +1,204 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000c614710ad747aa962fabcece3b287f4e1e9fa2ec8488f4ae404ddc8a0975961ac148a33b3890d9ea40f30f241c0d4410121836f51cae8eeaa616de19e9cab7b6ff6ff731ca7747ed9c8952176c500ce0679f847a473557caa79d15f1aa096f52e2e8bd0c89b26b54717ed2382d02b78594531505c3ffea51ab106f1c7fb2b2f3b50f7dd51a976b2f7df0479bd86ff2e54754b32c-->
+<trophyconf version="1.1" platform="psp2" policy="large">
+ <npcommid>NPWR17369_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>英雄傳說 零之軌跡 Evolution</title-name>
+ <title-detail>英雄傳說 零之軌跡 Evolution</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>窮究『零』之人</name>
+  <detail>獲得所有獎盃。</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>新人搜查官</name>
+  <detail>得到搜查手冊。</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="S" pid="000">
+  <name>一流搜查官</name>
+  <detail>成為搜查官・1ST。</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="S" pid="000">
+  <name>天眼之智者</name>
+  <detail>收集戰鬥手冊中的所有資訊。</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="S" pid="000">
+  <name>市民的英雄</name>
+  <detail>完成所有支援請求。</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="S" pid="000">
+  <name>炎之料理人</name>
+  <detail>收集所有食譜。</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="S" pid="000">
+  <name>結晶迴路收藏家</name>
+  <detail>收集所有結晶迴路。</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="S" pid="000">
+  <name>書籍收藏家</name>
+  <detail>收集所有《黑市醫生葛蘭》與《克洛斯貝爾時報周刊》。</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>傢俱收藏家</name>
+  <detail>收集所有傢俱與ＥＮＩＧＭＡ機殼。</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="S" pid="000">
+  <name>寶藏獵人</name>
+  <detail>開啟所有寶箱。</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>爆釣王</name>
+  <detail>釣獲所有魚。</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>三星廚師</name>
+  <detail>完成所有大成功料理。</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="B" pid="000">
+  <name>獨樹一幟的廚師</name>
+  <detail>完成所有預想外料理。</detail>
+ </trophy>
+ <trophy id="013" hidden="yes" ttype="B" pid="000">
+  <name>百萬富翁</name>
+  <detail>持有金錢達到1,000,000米拉以上。</detail>
+ </trophy>
+ <trophy id="014" hidden="yes" ttype="B" pid="000">
+  <name>延續之雅士</name>
+  <detail>遊玩時間超過100小時。</detail>
+ </trophy>
+ <trophy id="015" hidden="yes" ttype="B" pid="000">
+  <name>至高之劍</name>
+  <detail>製作最強武器。</detail>
+ </trophy>
+ <trophy id="016" hidden="yes" ttype="B" pid="000">
+  <name>無雙之烈士</name>
+  <detail>將一位成員等級提昇至50。</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>力戰之勇士</name>
+  <detail>戰鬥勝利次數達到100次。</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>奮戰之猛者</name>
+  <detail>戰鬥勝利次數達到500次。</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="S" pid="000">
+  <name>歷戰之勝者</name>
+  <detail>戰鬥勝利次數達到1000次。</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="S" pid="000">
+  <name>千討之志士</name>
+  <detail>打倒2000個以上的敵人。</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>雷光一閃</name>
+  <detail>發動先制攻擊次數達到100次。</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="B" pid="000">
+  <name>超絕秘技</name>
+  <detail>發動S戰技次數達到100次。</detail>
+ </trophy>
+ <trophy id="023" hidden="yes" ttype="B" pid="000">
+  <name>百花迎擊</name>
+  <detail>阻止敵人的招式・魔法驅動達100次</detail>
+ </trophy>
+ <trophy id="024" hidden="yes" ttype="B" pid="000">
+  <name>起死回生</name>
+  <detail>在戰鬥中脫離危機狀態。</detail>
+ </trophy>
+ <trophy id="025" hidden="yes" ttype="B" pid="000">
+  <name>絢爛攻守</name>
+  <detail>戰術獎勵達到x3.0以上。</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>連戰連破</name>
+  <detail>在3連鎖戰鬥中獲得勝利。</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="B" pid="000">
+  <name>八頭擊滅</name>
+  <detail>同時打倒8個敵人。</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="B" pid="000">
+  <name>不敗的勇者</name>
+  <detail>在無法戰鬥次數為0的情況下通過任一章。</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="B" pid="000">
+  <name>勇猛的獅子</name>
+  <detail>在戰鬥撤退次數為0的情況下通過任一章。</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="G" pid="000">
+  <name>孤高的搜查官</name>
+  <detail>以NORMAL以上的難度，且所有人等級低於40完成遊戲。</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="S" pid="000">
+  <name>老練的搜查官</name>
+  <detail>以HARD以上的難度完成遊戲。</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="G" pid="000">
+  <name>傳說中的搜查官</name>
+  <detail>以NIGHTMARE難度完成遊戲。</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="B" pid="000">
+  <name>星之獵人</name>
+  <detail>打倒通緝魔獸【惡魔巨翼龍】。</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="B" pid="000">
+  <name>月之獵人</name>
+  <detail>打倒通緝魔獸【幻魔】。</detail>
+ </trophy>
+ <trophy id="035" hidden="yes" ttype="B" pid="000">
+  <name>太陽獵人</name>
+  <detail>打倒通緝魔獸【暗黑英雄】。</detail>
+ </trophy>
+ <trophy id="036" hidden="yes" ttype="B" pid="000">
+  <name>闇之獵人</name>
+  <detail>打倒【支配者・斷罪天使】。</detail>
+ </trophy>
+ <trophy id="037" hidden="yes" ttype="B" pid="000">
+  <name>踏出的決心</name>
+  <detail>完成序章『特務支援課』。</detail>
+ </trophy>
+ <trophy id="038" hidden="yes" ttype="B" pid="000">
+  <name>行進的意志</name>
+  <detail>完成第１章『神狼們的午後』。</detail>
+ </trophy>
+ <trophy id="039" hidden="yes" ttype="B" pid="000">
+  <name>擺脫的迷茫</name>
+  <detail>完成第２章『金之太陽、銀之月』。</detail>
+ </trophy>
+ <trophy id="040" hidden="yes" ttype="B" pid="000">
+  <name>前進的決心</name>
+  <detail>完成第３章『克洛斯貝爾創立紀念慶典』。</detail>
+ </trophy>
+ <trophy id="041" hidden="yes" ttype="B" pid="000">
+  <name>追求的意志</name>
+  <detail>完成第４章『悄然襲來的睿智』。</detail>
+ </trophy>
+ <trophy id="042" hidden="yes" ttype="B" pid="000">
+  <name>嶄新的決心</name>
+  <detail>完成終章『克洛斯貝爾最漫長的一日』。</detail>
+ </trophy>
+ <trophy id="043" hidden="yes" ttype="B" pid="000">
+  <name>跨越身份的戀情</name>
+  <detail>和艾莉參加《黑之拍賣會》。</detail>
+ </trophy>
+ <trophy id="044" hidden="yes" ttype="B" pid="000">
+  <name>不諳世事的兄妹</name>
+  <detail>和緹歐參加《黑之拍賣會》。</detail>
+ </trophy>
+ <trophy id="045" hidden="yes" ttype="B" pid="000">
+  <name>損友的勸誘</name>
+  <detail>和蘭迪參加《黑之拍賣會》。</detail>
+ </trophy>
+ <trophy id="046" hidden="yes" ttype="B" pid="000">
+  <name>和艾莉的羈絆</name>
+  <detail>和艾莉培養出深厚的羈絆。</detail>
+ </trophy>
+ <trophy id="047" hidden="yes" ttype="B" pid="000">
+  <name>和緹歐的羈絆</name>
+  <detail>和緹歐培養出深厚的羈絆。</detail>
+ </trophy>
+ <trophy id="048" hidden="yes" ttype="B" pid="000">
+  <name>和蘭迪的羈絆</name>
+  <detail>和蘭迪培養出深厚的羈絆。</detail>
+ </trophy>
+</trophyconf>
